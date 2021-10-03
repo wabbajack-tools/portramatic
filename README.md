@@ -9,3 +9,5 @@ and when you are done, the app will export the images for use in the game.
 * A way for users to submit images for inclusion in the public library
 * A way for the app to copy the portraits into the game folder
 
+### Example Usage
+![](https://github.com/wabbajack-tools/portramatic/blob/main/docs/usage.gif?raw=true)

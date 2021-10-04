@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portramatic", "Portramatic\Portramatic.csproj", "{E1DEBD84-A5DD-43CA-97B6-FF326346D25E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThumbnailGenerator", "ThumbnailGenerator\ThumbnailGenerator.csproj", "{24C99446-9A94-48A8-B45A-AEFA96CC56DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E1DEBD84-A5DD-43CA-97B6-FF326346D25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1DEBD84-A5DD-43CA-97B6-FF326346D25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1DEBD84-A5DD-43CA-97B6-FF326346D25E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C99446-9A94-48A8-B45A-AEFA96CC56DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C99446-9A94-48A8-B45A-AEFA96CC56DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C99446-9A94-48A8-B45A-AEFA96CC56DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C99446-9A94-48A8-B45A-AEFA96CC56DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

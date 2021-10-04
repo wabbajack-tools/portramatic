@@ -1,5 +1,6 @@
 using System;
 using System.Runtime.Serialization;
+using System.Text.Json;
 using System.Text.Json.Serialization;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
@@ -32,7 +33,7 @@ public class CroppedImage : ViewModelBase
     public ImageSize Size { get; set; }
 
     [JsonIgnore]
-    public (int, int) FinalSize =>
+    public (int Width, int Height) FinalSize =>
         Size switch
         {
             ImageSize.Full => (692, 1024),
@@ -50,6 +51,7 @@ public class CroppedImage : ViewModelBase
             ImageSize.Small => "Small.png",
             _ => throw new ArgumentOutOfRangeException()
         };
+
 }
 
 
@@ -78,4 +80,47 @@ public class PortraitDefinition : ViewModelBase
     [Reactive]
     [JsonPropertyName("full")] 
     public CroppedImage Full { get; set; } = new() { Size = ImageSize.Full };
+    
+    
+    public string ToJSON()
+    {
+        var obj = new
+        {
+            source = Source,
+            md5 = MD5,
+            tags = Tags,
+            small = new
+            {
+                scale = Small.Scale,
+                offset_x = Small.OffsetX,
+                offset_y = Small.OffsetY,
+                size = Small.Size,
+            },
+            medium = new
+            {
+                scale = Medium.Scale,
+                offset_x = Medium.OffsetX,
+                offset_y = Medium.OffsetY,
+                size = Medium.Size,
+            },
+            full = new
+            {
+                scale = Full.Scale,
+                offset_x = Full.OffsetX,
+                offset_y = Full.OffsetY,
+                size = Full.Size,
+            }
+        };
+
+        var json = JsonSerializer.Serialize(obj, new JsonSerializerOptions
+        {
+            Converters =
+            {
+                new JsonStringEnumConverter(JsonNamingPolicy.CamelCase),
+            },
+            WriteIndented = true,
+            IgnoreReadOnlyFields = true
+        });
+        return json;
+    }
 }

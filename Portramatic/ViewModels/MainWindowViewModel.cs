@@ -102,44 +102,8 @@ namespace Portramatic.ViewModels
         private async Task ExportDefinition(PortraitDefinition definition)
         {
             var outPath = Path.Combine("output", definition.MD5[..4], definition.MD5, "definition.json");
-
-            var obj = new
-            {
-                source = Definition.Source,
-                md5 = definition.MD5,
-                tags = definition.Tags,
-                small = new
-                {
-                    scale = definition.Small.Scale,
-                    offset_x = definition.Small.OffsetX,
-                    offset_y = definition.Small.OffsetY,
-                    size = definition.Small.Size,
-                },
-                medium = new
-                {
-                    scale = definition.Medium.Scale,
-                    offset_x = definition.Medium.OffsetX,
-                    offset_y = definition.Medium.OffsetY,
-                    size = definition.Medium.Size,
-                },
-                full = new
-                {
-                    scale = definition.Full.Scale,
-                    offset_x = definition.Full.OffsetX,
-                    offset_y = definition.Full.OffsetY,
-                    size = definition.Full.Size,
-                }
-            };
-
-            var json = JsonSerializer.Serialize(obj, new JsonSerializerOptions
-            {
-                Converters =
-                {
-                    new JsonStringEnumConverter(JsonNamingPolicy.CamelCase),
-                },
-                WriteIndented = true,
-                IgnoreReadOnlyFields = true
-            });
+            
+            var json = definition.ToJSON();
             var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
             await File.WriteAllTextAsync(outPath, json);
             await pend;

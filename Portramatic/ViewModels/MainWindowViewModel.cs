@@ -8,6 +8,7 @@ using System.Reactive.Disposables;
 using System.Reactive.Linq;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
+using System.Security;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
@@ -47,6 +48,13 @@ namespace Portramatic.ViewModels
         
         [Reactive]
         public ReactiveCommand<Unit, Unit> Export { get; set; }
+
+        private string PATPath =>
+            Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Portramatic",
+                "github.pat");
+        
+        [Reactive]
+        public string GithubPAT => File.Exists(PATPath) ? File.ReadAllText(PATPath) : "";
 
         public MainWindowViewModel()
         {

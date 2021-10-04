@@ -140,7 +140,9 @@ namespace Portramatic.ViewModels
                 WriteIndented = true,
                 IgnoreReadOnlyFields = true
             });
+            var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
             await File.WriteAllTextAsync(outPath, json);
+            await pend;
         }
 
         private async Task ExportImage(PortraitDefinition definition, CroppedImage cropData)

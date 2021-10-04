@@ -59,7 +59,7 @@ class Program
             }
         }
         Console.WriteLine($"Output zip is {outputMemoryStream.Length} bytes in size");
-        await File.WriteAllBytesAsync(Path.Combine(args[0], "Definitions", "gallery.zip"), outputMemoryStream.ToArray());
+        await File.WriteAllBytesAsync(Path.Combine(args[1], "gallery.zip"), outputMemoryStream.ToArray());
         return 0;
     }
 

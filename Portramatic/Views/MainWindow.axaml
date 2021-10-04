@@ -16,41 +16,52 @@
         <vm:MainWindowViewModel />
     </Design.DataContext>
 
-    <Grid RowDefinitions="80, 512, 512" ColumnDefinitions="400, 650" Margin="20">
-        <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" ColumnDefinitions="Auto, *, Auto, Auto" RowDefinitions="Auto, Auto">
-            <TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" Margin="5, 0">URL:</TextBlock>
-            <TextBox x:Name="UrlBox" Grid.Column="1" Grid.Row="0" FontSize="12" Margin="5, 0" />
-            <TextBox Grid.Column="2" Grid.Row="0" x:Name="ImageHash" Margin="5, 0" IsEnabled="False" />
-            <Button Grid.Column="3" Grid.Row="0" x:Name="ExportButton" Margin="5, 0">Export</Button>
+    <TabControl>
+        <TabItem Header="Browse">
             
-            <TextBlock Grid.Row="1" Grid.Column="0" Margin="5">Tags:</TextBlock>
-            <TextBox Grid.Row="1" Grid.Column="1" FontSize="12" Margin="5, 0" x:Name="Tags"></TextBox>
-        </Grid>
+        </TabItem>
+        <TabItem Header="Crop">
+            <Grid RowDefinitions="80, 512, 512" ColumnDefinitions="400, 650" Margin="20">
+                <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" ColumnDefinitions="Auto, *, Auto, Auto"
+                      RowDefinitions="Auto, Auto">
+                    <TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" Margin="5, 0">URL:</TextBlock>
+                    <TextBox x:Name="UrlBox" Grid.Column="1" Grid.Row="0" FontSize="12" Margin="5, 0" />
+                    <TextBox Grid.Column="2" Grid.Row="0" x:Name="ImageHash" Margin="5, 0" IsEnabled="False" />
+                    <Button Grid.Column="3" Grid.Row="0" x:Name="ExportButton" Margin="5, 0">Export</Button>
 
-        <Border Grid.Row="1" Grid.Column="0" Width="185" Height="242" BorderBrush="Red" BorderThickness="2">
-            <Viewbox Width="185" Height="242">
-                <paz:ZoomBorder x:Name="PAZControlSmall" Width="185" Height="242" Stretch="None" ZoomSpeed="1.02">
-                    <Image x:Name="RawImageViewSmall" />
-                </paz:ZoomBorder>
-            </Viewbox>
-        </Border>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Margin="5">Tags:</TextBlock>
+                    <TextBox Grid.Row="1" Grid.Column="1" FontSize="12" Margin="5, 0" x:Name="Tags" />
+                </Grid>
 
-        <Border Grid.Row="2" Grid.Column="0" Width="330" Height="432" BorderBrush="Red" BorderThickness="1">
-            <Viewbox Width="330" Height="432">
-                <paz:ZoomBorder x:Name="PAZControlMedium" Width="330" Height="432" Stretch="None" ZoomSpeed="1.02">
-                    <Image x:Name="RawImageViewMedium" />
-                </paz:ZoomBorder>
-            </Viewbox>
-        </Border>
+                <Border Grid.Row="1" Grid.Column="0" Width="185" Height="242" BorderBrush="Red" BorderThickness="2">
+                    <Viewbox Width="185" Height="242">
+                        <paz:ZoomBorder x:Name="PAZControlSmall" Width="185" Height="242" Stretch="None"
+                                        ZoomSpeed="1.02">
+                            <Image x:Name="RawImageViewSmall" />
+                        </paz:ZoomBorder>
+                    </Viewbox>
+                </Border>
 
-        <Border Grid.Row="1" Grid.Column="1" Width="632" Height="1024" BorderBrush="Red" BorderThickness="1"
-                Grid.RowSpan="2">
-            <Viewbox Width="632" Height="1024">
-                <paz:ZoomBorder x:Name="PAZControlFull" Width="632" Height="1024" Stretch="None" ZoomSpeed="1.02">
-                    <Image x:Name="RawImageViewFull" />
-                </paz:ZoomBorder>
-            </Viewbox>
-        </Border>
-    </Grid>
+                <Border Grid.Row="2" Grid.Column="0" Width="330" Height="432" BorderBrush="Red" BorderThickness="1">
+                    <Viewbox Width="330" Height="432">
+                        <paz:ZoomBorder x:Name="PAZControlMedium" Width="330" Height="432" Stretch="None"
+                                        ZoomSpeed="1.02">
+                            <Image x:Name="RawImageViewMedium" />
+                        </paz:ZoomBorder>
+                    </Viewbox>
+                </Border>
+
+                <Border Grid.Row="1" Grid.Column="1" Width="632" Height="1024" BorderBrush="Red" BorderThickness="1"
+                        Grid.RowSpan="2">
+                    <Viewbox Width="632" Height="1024">
+                        <paz:ZoomBorder x:Name="PAZControlFull" Width="632" Height="1024" Stretch="None"
+                                        ZoomSpeed="1.02">
+                            <Image x:Name="RawImageViewFull" />
+                        </paz:ZoomBorder>
+                    </Viewbox>
+                </Border>
+            </Grid>
+        </TabItem>
+    </TabControl>
 
 </Window>

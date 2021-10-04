@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
+using System.IO.Compression;
+using System.Linq;
 using System.Net.Http;
 using System.Reactive;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
+using System.Reflection;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 using System.Security;
@@ -19,6 +22,7 @@ using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using Avalonia.Platform;
 using Avalonia.Skia;
+using DynamicData;
 using Portramatic.Extensions;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
@@ -49,10 +53,14 @@ namespace Portramatic.ViewModels
         [Reactive]
         public ReactiveCommand<Unit, Unit> Export { get; set; }
 
+        public SourceList<GalleryItemViewModel> _galleryItems = new();
+
         public MainWindowViewModel()
         {
             Activator = new ViewModelActivator();
             _client = new HttpClient();
+
+            LoadGallery();
 
             Export = ReactiveCommand.Create(() =>
             {
@@ -89,6 +97,46 @@ namespace Portramatic.ViewModels
 
             });
             
+        }
+
+        private void LoadGallery()
+        {
+            var resourceStream = Assembly.GetExecutingAssembly().GetManifestResourceStream(@"Portramatic.Resources.gallery.zip");
+
+            PortraitDefinition[] definitions;
+            using var zip = new ZipArchive(resourceStream!, ZipArchiveMode.Read, false);
+            
+                using var definitionStream = zip.GetEntry("definitions.json")!.Open();
+                definitions = JsonSerializer.Deserialize<PortraitDefinition[]>(definitionStream,
+                    new JsonSerializerOptions()
+                    {
+                        Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) },
+                        AllowTrailingCommas = true
+                    })!;
+
+            var datas = zip.Entries
+                .Where(e => e.Name.EndsWith(".webp"))
+                .Select(e => 
+            {
+                var ms = new MemoryStream();
+                using var es = e.Open();
+                es.CopyTo(ms);
+                return (Path.GetFileNameWithoutExtension(e.Name), ms.ToArray());
+            }).ToDictionary(e => e.Item1, e => e.Item2);
+
+            _galleryItems.Edit(l =>
+            {
+                l.Clear();
+                foreach (var d in definitions)
+                {
+                    l.Add(new GalleryItemViewModel
+                    {
+                        Definition = d,
+                        CompressedImage = datas[d.MD5]
+                    } );
+                }
+            });
+            return;
         }
 
         private async Task DoExport()

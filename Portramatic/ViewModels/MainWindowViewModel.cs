@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
 using System.IO.Compression;
@@ -23,6 +24,7 @@ using Avalonia.Media.Imaging;
 using Avalonia.Platform;
 using Avalonia.Skia;
 using DynamicData;
+using DynamicData.Binding;
 using Portramatic.Extensions;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
@@ -53,7 +55,11 @@ namespace Portramatic.ViewModels
         [Reactive]
         public ReactiveCommand<Unit, Unit> Export { get; set; }
 
-        public SourceList<GalleryItemViewModel> _galleryItems = new();
+        public SourceCache<GalleryItemViewModel, string> _galleryItems = new(vm => vm.Definition.MD5);
+
+        private readonly ReadOnlyObservableCollection<GalleryItemViewModel> _data;
+
+        public ReadOnlyObservableCollection<GalleryItemViewModel> GalleryItems => _data;
 
         public MainWindowViewModel()
         {
@@ -66,9 +72,17 @@ namespace Portramatic.ViewModels
             {
                 DoExport();
             });
+
+            _galleryItems.Connect()
+                .ObserveOn(RxApp.MainThreadScheduler)
+                .Bind(out _data)
+                .Subscribe();
             
             this.WhenActivated(disposables =>
             {
+
+                
+                
                 this.WhenAnyValue(vm => vm.Url)
                     .Select(v => (Uri.TryCreate(v, UriKind.Absolute, out var url), url))
                     .Where(v => v.Item1)
@@ -129,7 +143,7 @@ namespace Portramatic.ViewModels
                 l.Clear();
                 foreach (var d in definitions)
                 {
-                    l.Add(new GalleryItemViewModel
+                    l.AddOrUpdate(new GalleryItemViewModel
                     {
                         Definition = d,
                         CompressedImage = datas[d.MD5]

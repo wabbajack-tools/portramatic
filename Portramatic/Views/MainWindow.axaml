@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:paz="using:Avalonia.Controls.PanAndZoom"
+        xmlns:views="clr-namespace:Portramatic.Views"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="Portramatic.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
@@ -18,7 +19,20 @@
 
     <TabControl>
         <TabItem Header="Browse">
-            
+            <ScrollViewer>
+            <ItemsControl x:Name="Gallery">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <views:GalleryItem />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+            </ScrollViewer>
         </TabItem>
         <TabItem Header="Crop">
             <Grid RowDefinitions="80, 512, 512" ColumnDefinitions="400, 650" Margin="20">

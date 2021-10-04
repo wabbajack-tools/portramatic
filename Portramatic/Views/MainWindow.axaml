@@ -25,7 +25,6 @@
             
             <TextBlock Grid.Row="1" Grid.Column="0" Margin="5">Tags:</TextBlock>
             <TextBox Grid.Row="1" Grid.Column="1" FontSize="12" Margin="5, 0" x:Name="Tags"></TextBox>
-            <TextBox Grid.Row="1" Grid.Column="2" FontSize="12" Margin=" 5, 0" PasswordChar="*" RevealPassword="False" x:Name="GithubPAT"></TextBox>
         </Grid>
 
         <Border Grid.Row="1" Grid.Column="0" Width="185" Height="242" BorderBrush="Red" BorderThickness="2">

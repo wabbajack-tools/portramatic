@@ -44,6 +44,9 @@ namespace Portramatic.ViewModels
         
         [Reactive]
         public ReactiveCommand<Unit, Unit> Export { get; set; }
+        
+        [Reactive]
+        public ReactiveCommand<Unit, Unit> Install { get; set; }
 
         public SourceCache<GalleryItemViewModel, string> _galleryItems = new(vm => vm.Definition.MD5);
 
@@ -61,7 +64,12 @@ namespace Portramatic.ViewModels
 
             Export = ReactiveCommand.Create(() =>
             {
-                DoExport();
+                DoExport("output");
+            });
+
+            Install = ReactiveCommand.Create(() =>
+            {
+                InstallFiles();
             });
 
             _galleryItems.Connect()
@@ -104,6 +112,23 @@ namespace Portramatic.ViewModels
             
         }
 
+        private async Task InstallFiles()
+        {
+            var wotrFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                @"..\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous");
+            if (Directory.Exists(wotrFolder))
+            {
+                await DoExport(Path.Combine(wotrFolder, "Portraits"));
+            }
+            
+            var kingmakerFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
+                @"..\LocalLow\Owlcat Games\Pathfinder Kingmaker");
+            if (Directory.Exists(kingmakerFolder))
+            {
+                await DoExport(Path.Combine(kingmakerFolder, "Portraits"));
+            }
+        }
+
         private void LoadGallery()
         {
             var resourceStream = Assembly.GetExecutingAssembly().GetManifestResourceStream(@"Portramatic.Resources.gallery.zip");
@@ -144,18 +169,21 @@ namespace Portramatic.ViewModels
             return;
         }
 
-        private async Task DoExport()
+        private async Task DoExport(string baseFolder)
         {
+            baseFolder = Path.Combine(baseFolder, Definition.MD5);
+            Directory.CreateDirectory(baseFolder);
+            
             var definition = Definition.AsDTO();
-            await ExportImage(definition, ImageSize.Small);
-            await ExportImage(definition, ImageSize.Medium);
-            await ExportImage(definition, ImageSize.Full);
-            await ExportDefinition(definition);
+            await ExportImage(baseFolder, definition, ImageSize.Small);
+            await ExportImage(baseFolder, definition, ImageSize.Medium);
+            await ExportImage(baseFolder, definition, ImageSize.Full);
+            await ExportDefinition(baseFolder, definition);
         }
 
-        private async Task ExportDefinition(PortraitDefinition definition)
+        private async Task ExportDefinition(string baseFolder, PortraitDefinition definition)
         {
-            var outPath = Path.Combine("output", definition.MD5[..4], definition.MD5, "definition.json");
+            var outPath = Path.Combine(baseFolder, "definition.json");
 
             var json = JsonSerializer.Serialize(definition, new JsonSerializerOptions()
             {
@@ -168,13 +196,12 @@ namespace Portramatic.ViewModels
             await pend;
         }
 
-        private async Task ExportImage(PortraitDefinition definition, ImageSize size)
+        private async Task ExportImage(string baseFolder, PortraitDefinition definition, ImageSize size)
         {
-            Directory.CreateDirectory("output");
             var image = SKImage.FromEncodedData(ImageData);
             var cropData = definition.CropData(size);
             var cropped = definition.Crop(image, size);
-            var outPath = Path.Combine("output", definition.MD5[..4], definition.MD5, cropData.FileName);
+            var outPath = Path.Combine(baseFolder, cropData.FileName);
             Directory.CreateDirectory(Path.GetDirectoryName(outPath)!);
             var data = cropped.Encode(SKEncodedImageFormat.Png, 100);
             await using var fstream = File.Open(outPath, FileMode.Create, FileAccess.Write);
@@ -204,7 +231,7 @@ namespace Portramatic.ViewModels
             ImageData = data;
             await Task.Delay(500);
             Definition.Load(definition);
-            //Url = Definition.Source.ToString();
+            Url = Definition.Source.ToString();
         }
     }
 }

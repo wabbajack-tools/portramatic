@@ -97,6 +97,8 @@ public class PortraitDefinitionViewModel : ViewModelBase
         Source = dto.Source;
         Tags = dto.Tags;
         Small.Load(dto.Small);
+        Medium.Load(dto.Medium);
+        Full.Load(dto.Full);
     }
 
     public PortraitDefinition AsDTO()

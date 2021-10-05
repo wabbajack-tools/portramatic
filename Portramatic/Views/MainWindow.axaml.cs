@@ -25,8 +25,8 @@ namespace Portramatic.Views
 
             this.WhenActivated(disposables =>
             {
-                //this.OneWayBind(ViewModel, vm => vm.GalleryItems, view => view.Gallery.Items)
-                //    .DisposeWith(disposables);
+                this.OneWayBind(ViewModel, vm => vm.GalleryItems, view => view.Gallery.Items)
+                    .DisposeWith(disposables);
                 
                 this.Bind(ViewModel, vm => vm.Url, view => view.UrlBox.Text)
                     .DisposeWith(disposables);
@@ -110,23 +110,14 @@ namespace Portramatic.Views
                 this.BindCommand(ViewModel, vm => vm.Export, view => view.ExportButton)
                     .DisposeWith(disposables);
                 
+                this.BindCommand(ViewModel, vm => vm.Install, view => view.InstallButton)
+                    .DisposeWith(disposables);
+                
 
                 this.Bind(ViewModel, vm => vm.Definition.Tags, view => view.Tags.Text,
                         p => string.Join(", ", p ?? Array.Empty<string>()),
                         s => s.Split(",").Select(s => s.Trim()).ToArray())
                     .DisposeWith(disposables);
-
-                /*
-                this.ViewModel.WhenAnyValue(vm => vm.Definition.Small.Scale)
-                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Small.OffsetX),
-                        ViewModel.WhenAnyValue(vm => vm.Definition.Small.OffsetY))
-                    .Select(d =>
-                        Matrix.Identity * Matrix.CreateTranslation(d.Item2, d.Item3) *
-                        Matrix.CreateScale(d.Item1, d.Item1))
-                    .Subscribe(m => PAZControlSmall.SetMatrix(m))
-                    .DisposeWith(disposables);
-                    */
-
             });
         }
 

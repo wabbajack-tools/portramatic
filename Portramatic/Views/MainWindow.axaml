@@ -17,7 +17,22 @@
     </Design.DataContext>
 
     <TabControl>
-
+        <TabItem Header="Browse">
+            <ScrollViewer>
+                <ItemsControl x:Name="Gallery">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <views:GalleryItem />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+        </TabItem>
         <TabItem Header="Crop">
             <Grid RowDefinitions="80, 512, 512" ColumnDefinitions="400, 650" Margin="20">
                 <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" ColumnDefinitions="Auto, *, Auto, Auto"
@@ -29,6 +44,7 @@
 
                     <TextBlock Grid.Row="1" Grid.Column="0" Margin="5">Tags:</TextBlock>
                     <TextBox Grid.Row="1" Grid.Column="1" FontSize="12" Margin="5, 0" x:Name="Tags" />
+                    <Button Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" x:Name="InstallButton" Margin="5, 0">Install To Game Folder(s)</Button>
                 </Grid>
 
                 <Canvas Grid.Row="1" Grid.Column="0" ClipToBounds="True"
@@ -67,24 +83,6 @@
 
             </Grid>
         </TabItem>
-        <!--
-        <TabItem Header="Browse">
-            <ScrollViewer>
-                <ItemsControl x:Name="Gallery">
-                    <ItemsControl.ItemsPanel>
-                        <ItemsPanelTemplate>
-                            <WrapPanel Orientation="Horizontal" />
-                        </ItemsPanelTemplate>
-                    </ItemsControl.ItemsPanel>
-                    <ItemsControl.ItemTemplate>
-                        <DataTemplate>
-                            <views:GalleryItem />
-                        </DataTemplate>
-                    </ItemsControl.ItemTemplate>
-                </ItemsControl>
-            </ScrollViewer>
-        </TabItem>
-        -->
     </TabControl>
 
 </Window>

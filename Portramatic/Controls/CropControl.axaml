@@ -3,8 +3,8 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-             x:Class="Portramatic.Views.GalleryItem">
-    <Button Margin="0" Padding="0" x:Name="FocusButton">
-      <Image x:Name="GalleryImage" Width="173" Height="256"/>
-    </Button>
+             x:Class="Portramatic.Controls.CropControl">
+    <Canvas x:Name="CanvasControl">
+        <Image x:Name="CurrentImage" Canvas.Top="0" Canvas.Left="0"></Image>
+    </Canvas>
 </UserControl>

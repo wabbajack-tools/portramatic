@@ -18,6 +18,8 @@ namespace Portramatic.Views
                 this.OneWayBind(ViewModel, vm => vm.CompressedImage, view => view.GalleryImage.Source,
                     bytes => new Bitmap(new MemoryStream(bytes))
                         .DisposeWith(disposables));
+                this.BindCommand(ViewModel, vm => vm.Clicked, view => view.FocusButton)
+                    .DisposeWith(disposables);
             });
         }
     }

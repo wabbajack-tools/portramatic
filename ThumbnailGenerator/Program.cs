@@ -8,7 +8,9 @@ using Avalonia;
 using Avalonia.Media.Imaging;
 using Avalonia.Platform;
 using Avalonia.Skia;
+using Portramatic.DTOs;
 using Portramatic.ViewModels;
+using ReactiveUI;
 using SkiaSharp;
 
 class Program
@@ -38,24 +40,35 @@ class Program
         {
             using var archive = new ZipArchive(outputMemoryStream, ZipArchiveMode.Create, true);
             {
+                var badLinks = new HashSet<string>();
+                foreach (var (definition, idx) in definitions.Select((v, idx) => (v, idx)))
+                {
+                    Console.WriteLine($"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
+                    try
+                    {
+                        await GenerateThumbnail(archive, definition);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"BAD: {definition.MD5}");
+                        badLinks.Add(definition.MD5);
+                    }
+                }
+
+
+                definitions = definitions.Where(d => !badLinks.Contains(d.MD5)).ToList();
                 {
                     var tocEntry = archive.CreateEntry("definitions.json", CompressionLevel.SmallestSize);
                     await using var tocStream = tocEntry.Open();
                     await using var sw = new StreamWriter(tocStream);
-                    await sw.WriteLineAsync("[");
-                    foreach (var definition in definitions)
+                    var json = JsonSerializer.Serialize(definitions, new JsonSerializerOptions()
                     {
-                        await sw.WriteAsync(definition.ToJSON());
-                        await sw.WriteLineAsync(",");
-                    }
+                        WriteIndented = false,
+                        Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
+                    });
+                    await sw.WriteAsync(json);
+                }
 
-                    await sw.WriteLineAsync("]");
-                }
-                foreach (var (definition, idx) in definitions.Select((v, idx) => (v, idx)))
-                {
-                    Console.WriteLine($"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
-                    await GenerateThumbnail(archive, definition);
-                }
             }
         }
         Console.WriteLine($"Output zip is {outputMemoryStream.Length} bytes in size");

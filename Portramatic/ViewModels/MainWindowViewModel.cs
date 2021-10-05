@@ -25,6 +25,7 @@ using Avalonia.Platform;
 using Avalonia.Skia;
 using DynamicData;
 using DynamicData.Binding;
+using Portramatic.DTOs;
 using Portramatic.Extensions;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
@@ -40,7 +41,7 @@ namespace Portramatic.ViewModels
         private readonly HttpClient _client;
 
         [Reactive]
-        public string Url { get; set; } = "";
+        public string Url { get; set; } = "https://i.pinimg.com/564x/a2/e6/7c/a2e67c2fd2f7f43b7bfb81d5d9837ec0.jpg";
         
         [Reactive]
         public IImage RawImage { get; set; }
@@ -50,7 +51,7 @@ namespace Portramatic.ViewModels
         
         public ViewModelActivator Activator { get; protected set; }
 
-        [Reactive] public PortraitDefinition Definition { get; set; } = new();
+        [Reactive] public PortraitDefinitionViewModel Definition { get; set; }
         
         [Reactive]
         public ReactiveCommand<Unit, Unit> Export { get; set; }
@@ -63,6 +64,7 @@ namespace Portramatic.ViewModels
 
         public MainWindowViewModel()
         {
+            Definition = new();
             Activator = new ViewModelActivator();
             _client = new HttpClient();
 
@@ -143,7 +145,7 @@ namespace Portramatic.ViewModels
                 l.Clear();
                 foreach (var d in definitions)
                 {
-                    l.AddOrUpdate(new GalleryItemViewModel
+                    l.AddOrUpdate(new GalleryItemViewModel(this)
                     {
                         Definition = d,
                         CompressedImage = datas[d.MD5]
@@ -155,53 +157,39 @@ namespace Portramatic.ViewModels
 
         private async Task DoExport()
         {
-            await ExportImage(Definition, Definition.Small);
-            await ExportImage(Definition, Definition.Medium);
-            await ExportImage(Definition, Definition.Full);
-            await ExportDefinition(Definition);
+            var definition = Definition.AsDTO();
+            await ExportImage(definition, ImageSize.Small);
+            await ExportImage(definition, ImageSize.Medium);
+            await ExportImage(definition, ImageSize.Full);
+            await ExportDefinition(definition);
         }
 
         private async Task ExportDefinition(PortraitDefinition definition)
         {
             var outPath = Path.Combine("output", definition.MD5[..4], definition.MD5, "definition.json");
+
+            var json = JsonSerializer.Serialize(definition, new JsonSerializerOptions()
+            {
+                WriteIndented = true,
+                Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
+            });
             
-            var json = definition.ToJSON();
-            var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
+            //var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
             await File.WriteAllTextAsync(outPath, json);
-            await pend;
+            //await pend;
         }
 
-        private async Task ExportImage(PortraitDefinition definition, CroppedImage cropData)
+        private async Task ExportImage(PortraitDefinition definition, ImageSize size)
         {
             Directory.CreateDirectory("output");
-            var (width, height) = cropData.FinalSize;
-            
-            var outputImage = new WriteableBitmap(new PixelSize(width, height), new Vector(96, 96), Avalonia.Platform.PixelFormat.Rgba8888, AlphaFormat.Opaque);
-           
-            using (var locked = outputImage.Lock())
-            {
-                var info = new SKImageInfo(locked.Size.Width, locked.Size.Height, locked.Format.ToSkColorType(), SKAlphaType.Opaque);
-                using (var surface = SKSurface.Create(info, locked.Address, locked.RowBytes))
-                {
-                    using var src = SKImage.FromEncodedData(new MemoryStream(ImageData));
-                    
-                    surface.Canvas.Translate((float)-(RawImage.Size.Width / 2), (float)-(RawImage.Size.Height / 2));
-                    surface.Canvas.Translate((float)cropData.OffsetX, (float)cropData.OffsetY);
-                    surface.Canvas.Translate((float)width/2, (float)height/2);
-                    surface.Canvas.Scale((float)cropData.Scale, (float)cropData.Scale);
-                    
-                    
-                    surface.Canvas.DrawImage(src, new SKPoint(0, 0));
-                }
-
-            }
-
+            var image = SKImage.FromEncodedData(ImageData);
+            var cropData = definition.CropData(size);
+            var cropped = definition.Crop(image, size);
             var outPath = Path.Combine("output", definition.MD5[..4], definition.MD5, cropData.FileName);
             Directory.CreateDirectory(Path.GetDirectoryName(outPath)!);
-            outputImage.Save(outPath);
-
-
-            return;
+            var data = cropped.Encode(SKEncodedImageFormat.Png, 100);
+            await using var fstream = File.Open(outPath, FileMode.Create, FileAccess.Write);
+            data.SaveTo(fstream);
         }
 
         public static string CreateMD5(byte[] input)
@@ -221,5 +209,13 @@ namespace Portramatic.ViewModels
             }
         }
 
+        public async Task Focus(PortraitDefinition definition)
+        {
+            var data = await _client.GetByteArrayAsync(definition.Source);
+            ImageData = data;
+            await Task.Delay(500);
+            Definition.Load(definition);
+            //Url = Definition.Source.ToString();
+        }
     }
 }

@@ -5,12 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:paz="using:Avalonia.Controls.PanAndZoom"
         xmlns:views="clr-namespace:Portramatic.Views"
+        xmlns:portramatic="clr-namespace:Portramatic"
+        xmlns:controls="clr-namespace:Portramatic.Controls"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="Portramatic.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
         Title="Portramatic"
-        Width="1090"
-        Height="1164"
+        Width="1120"
+        Height="1200"
         CanResize="False">
 
     <Design.DataContext>
@@ -18,22 +20,7 @@
     </Design.DataContext>
 
     <TabControl>
-        <TabItem Header="Browse">
-            <ScrollViewer>
-            <ItemsControl x:Name="Gallery">
-                <ItemsControl.ItemsPanel>
-                    <ItemsPanelTemplate>
-                        <WrapPanel Orientation="Horizontal" />
-                    </ItemsPanelTemplate>
-                </ItemsControl.ItemsPanel>
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <views:GalleryItem />
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
-            </ScrollViewer>
-        </TabItem>
+
         <TabItem Header="Crop">
             <Grid RowDefinitions="80, 512, 512" ColumnDefinitions="400, 650" Margin="20">
                 <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" ColumnDefinitions="Auto, *, Auto, Auto"
@@ -47,34 +34,57 @@
                     <TextBox Grid.Row="1" Grid.Column="1" FontSize="12" Margin="5, 0" x:Name="Tags" />
                 </Grid>
 
-                <Border Grid.Row="1" Grid.Column="0" Width="185" Height="242" BorderBrush="Red" BorderThickness="2">
-                    <Viewbox Width="185" Height="242">
-                        <paz:ZoomBorder x:Name="PAZControlSmall" Width="185" Height="242" Stretch="None"
-                                        ZoomSpeed="1.02">
-                            <Image x:Name="RawImageViewSmall" />
-                        </paz:ZoomBorder>
-                    </Viewbox>
-                </Border>
+                <Canvas Grid.Row="1" Grid.Column="0" ClipToBounds="True"
+                        PointerWheelChanged="InputElement_OnPointerWheelChangedSmall"
+                        PointerMoved="InputElement_OnPointerMovedSmall"
+                        PointerPressed="InputElement_OnPointerPressedSmall"
+                        PointerReleased="InputElement_OnPointerReleasedSmall"
+                        Background="Red" Width="185"
+                        Height="242"
+                        x:Name="SmallCanvas">
+                    <Image x:Name="Small" Canvas.Left="0" Canvas.Top="0" />
+                </Canvas>
 
-                <Border Grid.Row="2" Grid.Column="0" Width="330" Height="432" BorderBrush="Red" BorderThickness="1">
-                    <Viewbox Width="330" Height="432">
-                        <paz:ZoomBorder x:Name="PAZControlMedium" Width="330" Height="432" Stretch="None"
-                                        ZoomSpeed="1.02">
-                            <Image x:Name="RawImageViewMedium" />
-                        </paz:ZoomBorder>
-                    </Viewbox>
-                </Border>
+                <Canvas Grid.Row="2" Grid.Column="0" ClipToBounds="True"
+                        PointerWheelChanged="InputElement_OnPointerWheelChangedMedium"
+                        PointerMoved="InputElement_OnPointerMovedMedium"
+                        PointerPressed="InputElement_OnPointerPressedMedium"
+                        PointerReleased="InputElement_OnPointerReleasedMedium"
+                        Background="Red" Width="330"
+                        Height="432"
+                        x:Name="MediumCanvas">
+                    <Image x:Name="Medium" Canvas.Left="0" Canvas.Top="0" />
+                </Canvas>
+                
+                <Canvas Grid.Row="1" Grid.Column="1" ClipToBounds="True"
+                        PointerWheelChanged="InputElement_OnPointerWheelChangedFull"
+                        PointerMoved="InputElement_OnPointerMovedFull"
+                        PointerPressed="InputElement_OnPointerPressedFull"
+                        PointerReleased="InputElement_OnPointerReleasedFull"
+                        Background="Red" Width="692"
+                        Height="1024"
+                        Grid.RowSpan="2"
+                        x:Name="FullCanvas">
+                    <Image x:Name="Full" Canvas.Left="0" Canvas.Top="0" />
+                </Canvas>
 
-                <Border Grid.Row="1" Grid.Column="1" Width="632" Height="1024" BorderBrush="Red" BorderThickness="1"
-                        Grid.RowSpan="2">
-                    <Viewbox Width="632" Height="1024">
-                        <paz:ZoomBorder x:Name="PAZControlFull" Width="632" Height="1024" Stretch="None"
-                                        ZoomSpeed="1.02">
-                            <Image x:Name="RawImageViewFull" />
-                        </paz:ZoomBorder>
-                    </Viewbox>
-                </Border>
             </Grid>
+        </TabItem>
+        <TabItem Header="Browse">
+            <ScrollViewer>
+                <ItemsControl x:Name="Gallery">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <views:GalleryItem />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
         </TabItem>
     </TabControl>
 

@@ -25,8 +25,8 @@ namespace Portramatic.Views
 
             this.WhenActivated(disposables =>
             {
-                this.OneWayBind(ViewModel, vm => vm.GalleryItems, view => view.Gallery.Items)
-                    .DisposeWith(disposables);
+                //this.OneWayBind(ViewModel, vm => vm.GalleryItems, view => view.Gallery.Items)
+                //    .DisposeWith(disposables);
                 
                 this.Bind(ViewModel, vm => vm.Url, view => view.UrlBox.Text)
                     .DisposeWith(disposables);

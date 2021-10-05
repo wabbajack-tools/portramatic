@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -10,28 +8,19 @@ using System.Reactive;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
 using System.Reflection;
-using System.Runtime.Serialization;
-using System.Runtime.Serialization.Json;
-using System.Security;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
-using Avalonia;
-using Avalonia.Controls.PanAndZoom;
 using Avalonia.Media;
 using Avalonia.Media.Imaging;
-using Avalonia.Platform;
-using Avalonia.Skia;
 using DynamicData;
-using DynamicData.Binding;
 using Portramatic.DTOs;
 using Portramatic.Extensions;
 using ReactiveUI;
 using ReactiveUI.Fody.Helpers;
 using ReactiveUI.Validation.Helpers;
 using SkiaSharp;
-using PixelFormat = System.Drawing.Imaging.PixelFormat;
 
 namespace Portramatic.ViewModels
 {
@@ -41,7 +30,7 @@ namespace Portramatic.ViewModels
         private readonly HttpClient _client;
 
         [Reactive]
-        public string Url { get; set; } = "https://i.pinimg.com/564x/a2/e6/7c/a2e67c2fd2f7f43b7bfb81d5d9837ec0.jpg";
+        public string Url { get; set; } = "";
         
         [Reactive]
         public IImage RawImage { get; set; }

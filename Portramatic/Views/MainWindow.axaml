@@ -3,10 +3,7 @@
         xmlns:vm="using:Portramatic.ViewModels"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:paz="using:Avalonia.Controls.PanAndZoom"
         xmlns:views="clr-namespace:Portramatic.Views"
-        xmlns:portramatic="clr-namespace:Portramatic"
-        xmlns:controls="clr-namespace:Portramatic.Controls"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="Portramatic.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
@@ -70,6 +67,7 @@
 
             </Grid>
         </TabItem>
+        <!--
         <TabItem Header="Browse">
             <ScrollViewer>
                 <ItemsControl x:Name="Gallery">
@@ -86,6 +84,7 @@
                 </ItemsControl>
             </ScrollViewer>
         </TabItem>
+        -->
     </TabControl>
 
 </Window>

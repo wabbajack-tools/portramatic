@@ -78,8 +78,11 @@ public class PortraitDefinition
         using var surface = SKSurface.Create(new SKImageInfo(width, height, SKColorType.Rgba8888, SKAlphaType.Opaque));
         surface.Canvas.Translate((float)cropData.OffsetX, (float)cropData.OffsetY);
         surface.Canvas.Scale((float)cropData.Scale, (float)cropData.Scale);
-        
-        surface.Canvas.DrawImage(src, new SKPoint(0, 0));
+
+        var paint = new SKPaint();
+        paint.IsAntialias = true;
+        paint.FilterQuality = SKFilterQuality.High;
+        surface.Canvas.DrawImage(src, new SKPoint(0, 0), paint);
         return surface.Snapshot();
     }
 

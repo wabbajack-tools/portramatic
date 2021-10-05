@@ -174,9 +174,9 @@ namespace Portramatic.ViewModels
                 Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
             });
             
-            //var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
+            var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
             await File.WriteAllTextAsync(outPath, json);
-            //await pend;
+            await pend;
         }
 
         private async Task ExportImage(PortraitDefinition definition, ImageSize size)

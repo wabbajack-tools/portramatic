@@ -8,24 +8,25 @@
     "overwatch",
     "elf",
     "Hum",
-    "Alch"
+    "Alch",
+    ""
   ],
   "small": {
-    "scale": 0.5599999999999996,
-    "offset_x": -185,
-    "offset_y": -110,
+    "scale": 0.4399999999999995,
+    "offset_x": -124,
+    "offset_y": -79,
     "size": "small"
   },
   "medium": {
-    "scale": 0.37999999999999945,
-    "offset_x": -34,
-    "offset_y": -48,
+    "scale": 0.35999999999999943,
+    "offset_x": -15,
+    "offset_y": -32,
     "size": "medium"
   },
   "full": {
-    "scale": 0.7899999999999998,
-    "offset_x": -46,
-    "offset_y": -1,
+    "scale": 0.7099999999999997,
+    "offset_x": 0,
+    "offset_y": 0,
     "size": "full"
   },
   "version": 2

@@ -10,24 +10,25 @@
     "apparel",
     "samurai",
     "Hum",
-    "Alch"
+    "Alch",
+    ""
   ],
   "small": {
-    "scale": 0.7599999999999998,
-    "offset_x": -605,
-    "offset_y": -481,
+    "scale": 0.6899999999999997,
+    "offset_x": -542,
+    "offset_y": -445,
     "size": "small"
   },
   "medium": {
-    "scale": 0.4399999999999995,
-    "offset_x": -254,
-    "offset_y": -295,
+    "scale": 0.4299999999999995,
+    "offset_x": -246,
+    "offset_y": -278,
     "size": "medium"
   },
   "full": {
-    "scale": 0.48999999999999955,
-    "offset_x": -92,
-    "offset_y": -276,
+    "scale": 0.49999999999999956,
+    "offset_x": -170,
+    "offset_y": -318,
     "size": "full"
   },
   "version": 2

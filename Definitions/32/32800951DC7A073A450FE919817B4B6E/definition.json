@@ -10,21 +10,21 @@
     ""
   ],
   "small": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
+    "scale": 0.5099999999999996,
+    "offset_x": -12,
+    "offset_y": -1,
     "size": "small"
   },
   "medium": {
-    "scale": 1,
+    "scale": 0.8399999999999999,
     "offset_x": 0,
     "offset_y": 0,
     "size": "medium"
   },
   "full": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
+    "scale": 1.7400000000000007,
+    "offset_x": -3,
+    "offset_y": -14,
     "size": "full"
   },
   "version": 2

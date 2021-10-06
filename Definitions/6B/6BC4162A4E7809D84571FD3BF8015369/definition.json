@@ -23,15 +23,15 @@
     "size": "small"
   },
   "medium": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
+    "scale": 0.99,
+    "offset_x": -170,
+    "offset_y": -40,
     "size": "medium"
   },
   "full": {
-    "scale": 0.8799999999999999,
-    "offset_x": -3.3333333333333712,
-    "offset_y": -4.000000000000057,
+    "scale": 1.8300000000000007,
+    "offset_x": -274.33333333333337,
+    "offset_y": -31.000000000000057,
     "size": "full"
   },
   "version": 2

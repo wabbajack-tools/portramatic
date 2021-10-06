@@ -48,6 +48,10 @@ namespace Portramatic.ViewModels
         [Reactive]
         public ReactiveCommand<Unit, Unit> Install { get; set; }
 
+        [Reactive] public int CurrentTab { get; set; } = 0;
+
+        [Reactive] public string SearchTags { get; set; } = "";
+        
         public SourceCache<GalleryItemViewModel, string> _galleryItems = new(vm => vm.Definition.MD5);
 
         private readonly ReadOnlyObservableCollection<GalleryItemViewModel> _data;
@@ -72,8 +76,18 @@ namespace Portramatic.ViewModels
                 InstallFiles();
             });
 
+            var filterFunction = this.WhenAnyValue(vm => vm.SearchTags)
+                .Select<string, Func<GalleryItemViewModel, bool>>(s =>
+                {
+                    if (s == "") return itm => true;
+                    var split = s.Replace(",", "").Split(" ",
+                        StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
+                    return itm => split.Any(s => itm.Definition.Tags.Contains(s));
+                });
+
             _galleryItems.Connect()
                 .ObserveOn(RxApp.MainThreadScheduler)
+                .Filter(filterFunction)
                 .Bind(out _data)
                 .Subscribe();
             
@@ -211,25 +225,24 @@ namespace Portramatic.ViewModels
         public static string CreateMD5(byte[] input)
         {
             // Use input string to calculate MD5 hash
-            using (System.Security.Cryptography.MD5 md5 = System.Security.Cryptography.MD5.Create())
-            {
-                byte[] hashBytes = md5.ComputeHash(input);
+            using var md5 = System.Security.Cryptography.MD5.Create();
+            var hashBytes = md5.ComputeHash(input);
 
-                // Convert the byte array to hexadecimal string
-                StringBuilder sb = new StringBuilder();
-                for (int i = 0; i < hashBytes.Length; i++)
-                {
-                    sb.Append(hashBytes[i].ToString("X2"));
-                }
-                return sb.ToString();
+            // Convert the byte array to hexadecimal string
+            var sb = new StringBuilder();
+            for (int i = 0; i < hashBytes.Length; i++)
+            {
+                sb.Append(hashBytes[i].ToString("X2"));
             }
+            return sb.ToString();
         }
 
         public async Task Focus(PortraitDefinition definition)
         {
+            CurrentTab = 1;
             var data = await _client.GetByteArrayAsync(definition.Source);
             ImageData = data;
-            await Task.Delay(500);
+            //await Task.Delay(500);
             Definition.Load(definition);
             Url = Definition.Source.ToString();
         }

@@ -4,7 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="Portramatic.Views.GalleryItem">
-    <Button Margin="0" Padding="0" x:Name="FocusButton">
+    <Button Margin="2" Padding="0" x:Name="FocusButton">
       <Image x:Name="GalleryImage" Width="173" Height="256"/>
     </Button>
 </UserControl>

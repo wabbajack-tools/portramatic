@@ -112,11 +112,17 @@ namespace Portramatic.Views
                 
                 this.BindCommand(ViewModel, vm => vm.Install, view => view.InstallButton)
                     .DisposeWith(disposables);
+
+                this.Bind(ViewModel, vm => vm.CurrentTab, view => view.TabControl.SelectedIndex)
+                    .DisposeWith(disposables);
                 
 
                 this.Bind(ViewModel, vm => vm.Definition.Tags, view => view.Tags.Text,
                         p => string.Join(", ", p ?? Array.Empty<string>()),
                         s => s.Split(",").Select(s => s.Trim()).ToArray())
+                    .DisposeWith(disposables);
+
+                this.Bind(ViewModel, vm => vm.SearchTags, view => view.SearchTags.Text)
                     .DisposeWith(disposables);
             });
         }

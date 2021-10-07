@@ -1,0 +1,38 @@
+{
+  "source": "https://pbs.twimg.com/media/CiQSfwUUYAM0tMA.jpg",
+  "md5": "44416691D4EAE00BD1E79981F73C60E4",
+  "tags": [
+    "person",
+    "human",
+    "samurai",
+    "knight",
+    "armor",
+    "bronze",
+    "light",
+    "clothing",
+    "apparel",
+    "torch",
+    "female",
+    "ranger",
+    "bow"
+  ],
+  "small": {
+    "scale": 0.8899999999999999,
+    "offset_x": -267.5,
+    "offset_y": -45,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.6799999999999997,
+    "offset_x": -95.5,
+    "offset_y": -36,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.99,
+    "offset_x": -45,
+    "offset_y": -55,
+    "size": "full"
+  },
+  "version": 2
+}

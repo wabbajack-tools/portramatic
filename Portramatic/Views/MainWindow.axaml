@@ -26,18 +26,16 @@
                 <TextBox Grid.Row="0" Grid.Column="1" x:Name="SearchTags" Margin="4" />
                 <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="4">
                     <Border BorderBrush="DarkGray" BorderThickness="2" CornerRadius="2">
-                        <ItemsControl x:Name="Gallery">
-                            <ItemsControl.ItemsPanel>
-                                <ItemsPanelTemplate>
-                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" />
-                                </ItemsPanelTemplate>
-                            </ItemsControl.ItemsPanel>
-                            <ItemsControl.ItemTemplate>
+                        <ItemsRepeater x:Name="Gallery">
+                            <ItemsRepeater.Layout>
+                                <UniformGridLayout></UniformGridLayout>
+                            </ItemsRepeater.Layout>
+                            <ItemsRepeater.ItemTemplate>
                                 <DataTemplate>
                                     <views:GalleryItem />
                                 </DataTemplate>
-                            </ItemsControl.ItemTemplate>
-                        </ItemsControl>
+                            </ItemsRepeater.ItemTemplate>
+                        </ItemsRepeater>
                     </Border>
                 </ScrollViewer>
             </Grid>

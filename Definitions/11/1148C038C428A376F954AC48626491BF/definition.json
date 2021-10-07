@@ -1,0 +1,30 @@
+{
+  "source": "https://pbs.twimg.com/media/D6BweQLUEAIJQjt?format=jpg&name=small",
+  "md5": "1148C038C428A376F954AC48626491BF",
+  "tags": [
+    "painting",
+    "art",
+    "person",
+    "human",
+    ""
+  ],
+  "small": {
+    "scale": 0.7999999999999998,
+    "offset_x": -93.59999999999997,
+    "offset_y": -64,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -22.399999999999977,
+    "offset_y": -52.799999999999955,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.5100000000000005,
+    "offset_x": -11.200000000000045,
+    "offset_y": -43.999999999999886,
+    "size": "full"
+  },
+  "version": 2
+}

@@ -118,7 +118,7 @@ async function labelImage(body) {
 
     const moderation = await rekognition.detectModerationLabels({
         Image: {Bytes: new Uint8Array(imageData)},
-        MinConfidence: 90
+        MinConfidence: 80
     })
     console.log(JSON.stringify(moderation));
     if (moderation.ModerationLabels.length != 0) return null;

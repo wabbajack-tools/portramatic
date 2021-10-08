@@ -18,7 +18,7 @@
     <PackageReference Include="XamlNameReferenceGenerator" Version="1.3.4" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="Resources\gallery.zip" />
+    <EmbeddedResource Include="Resources\gallery.zip" />
     <EmbeddedResource Include="Resources\BlankImage.png" />
   </ItemGroup>
 </Project>

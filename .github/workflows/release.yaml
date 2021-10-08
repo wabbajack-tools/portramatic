@@ -1,0 +1,25 @@
+name: Create Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release Version'
+        required: true
+        
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: Setup .NET Core SDK 6.0.x
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0.x'
+          include-prerelease: true
+            
+      - name: Install dependencies
+        run: dotnet restore
+      - name: Generate Thumbnails
+        run: dotnet run TumbnailGenerator -- ./Definitions ./Portramatic/Resources

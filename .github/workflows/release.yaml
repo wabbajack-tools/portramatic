@@ -24,7 +24,7 @@ jobs:
       - name: Generate Thumbnails
         run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources
       - name: Build App
-        run: dotnet build --project Portramatic
+        run: dotnet build
       - name: Publish
         run: dotnet publish -r win-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./ -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
       - uses: actions/upload-artifact@v2

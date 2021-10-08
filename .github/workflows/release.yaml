@@ -27,6 +27,11 @@ jobs:
         run: dotnet build
       - name: Publish
         run: dotnet publish Portramatic -r win-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./ -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
+      - uses: dlemstra/code-sign-action@v1
+        with:
+          certificate: '${{ secrets.CODE_CERT }}'
+          folder: './'
+          recursive: false
       - uses: actions/upload-artifact@v2
         with:
           name: Portramatic-${{ github.event.inputs.version }}.exe

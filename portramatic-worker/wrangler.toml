@@ -6,3 +6,7 @@ workers_dev = true
 route = ""
 zone_id = ""
 compatibility_date = "2021-10-05"
+
+kv_namespaces = [
+  {binding = "MODERATED_LOG", id = "3bec686266104bd1bcf071ec2140d3a1"}
+]

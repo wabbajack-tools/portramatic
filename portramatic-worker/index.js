@@ -121,7 +121,13 @@ async function labelImage(body) {
         MinConfidence: 80
     })
     console.log(JSON.stringify(moderation));
-    if (moderation.ModerationLabels.length != 0) return null;
+    
+    var modlabels = moderation.ModerationLabels.filter(label => label.Name != "Suggestive" && label.ParentName != "Suggestive");
+    
+    if (modlabels.length != 0) {
+        await MODERATED_LOG.put(Date.now(), JSON.stringify({source: body.source, labels: moderation.ModerationLabels}, null, 2));
+        return null;
+    }
 
     console.log(Uint8Array.from(imageData));
     const labels = await rekognition.detectLabels({Image: {Bytes: new Uint8Array(imageData)}});

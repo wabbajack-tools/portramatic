@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Collections.Concurrent;
 using System.IO.Compression;
 using System.Text;
 using System.Text.Json;
@@ -42,9 +43,10 @@ class Program
         {
             using var archive = new ZipArchive(outputMemoryStream, ZipArchiveMode.Create, true);
             {
-                var badLinks = new HashSet<string>();
-                foreach (var (definition, idx) in definitions.Select((v, idx) => (v, idx)))
+                var badLinks = new ConcurrentBag<string>();
+                await Parallel.ForEachAsync(definitions.Select((v, idx) => (v, idx)), async (itm, token) =>
                 {
+                    var (definition, idx) = itm;
                     Console.WriteLine(
                         $"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
                     try
@@ -56,7 +58,7 @@ class Program
                         Console.WriteLine($"BAD: {definition.MD5}");
                         badLinks.Add(definition.MD5);
                     }
-                }
+                });
 
 
                 definitions = definitions.Where(d => !badLinks.Contains(d.MD5)).ToList();

@@ -19,6 +19,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Resources\gallery.zip" />
-    <EmbeddedResource Include="Resources\gallery.zip" />
+    <EmbeddedResource Include="Resources\BlankImage.png" />
   </ItemGroup>
 </Project>

@@ -9,7 +9,7 @@
         Icon="/Assets/avalonia-logo.ico"
         Title="Portramatic"
         Width="1120"
-        Height="1200"
+        Height="800"
         CanResize="False">
 
     <Design.DataContext>
@@ -24,11 +24,13 @@
                     Search Tags:
                 </TextBlock>
                 <TextBox Grid.Row="0" Grid.Column="1" x:Name="SearchTags" Margin="4" />
-                <ScrollViewer Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="4">
-                    <Border BorderBrush="DarkGray" BorderThickness="2" CornerRadius="2">
+                <Border Margin="4" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" BorderBrush="DarkGray"
+                        BorderThickness="2" CornerRadius="2">
+                    <ScrollViewer>
+
                         <ItemsRepeater x:Name="Gallery">
                             <ItemsRepeater.Layout>
-                                <UniformGridLayout></UniformGridLayout>
+                                <UniformGridLayout />
                             </ItemsRepeater.Layout>
                             <ItemsRepeater.ItemTemplate>
                                 <DataTemplate>
@@ -36,12 +38,13 @@
                                 </DataTemplate>
                             </ItemsRepeater.ItemTemplate>
                         </ItemsRepeater>
-                    </Border>
-                </ScrollViewer>
+
+                    </ScrollViewer>
+                </Border>
             </Grid>
         </TabItem>
         <TabItem Header="Crop">
-            <Grid RowDefinitions="80, 512, 512" ColumnDefinitions="400, 650" Margin="20">
+            <Grid RowDefinitions="80, *" ColumnDefinitions="400, 650" Margin="20">
                 <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" ColumnDefinitions="Auto, *, Auto, Auto"
                       RowDefinitions="Auto, Auto">
                     <TextBlock Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" Margin="5, 0">URL:</TextBlock>
@@ -54,39 +57,56 @@
                     <Button Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" x:Name="InstallButton" Margin="5, 0">Install To Game Folder(s)</Button>
                 </Grid>
 
-                <Canvas Grid.Row="1" Grid.Column="0" ClipToBounds="True"
-                        PointerWheelChanged="InputElement_OnPointerWheelChangedSmall"
-                        PointerMoved="InputElement_OnPointerMovedSmall"
-                        PointerPressed="InputElement_OnPointerPressedSmall"
-                        PointerReleased="InputElement_OnPointerReleasedSmall"
-                        Background="Red" Width="185"
-                        Height="242"
-                        x:Name="SmallCanvas">
-                    <Image x:Name="Small" Canvas.Left="0" Canvas.Top="0" />
-                </Canvas>
+                <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Grid.ColumnDefinitions="Auto, Auto, Auto"
+                      HorizontalAlignment="Center">
+                    <StackPanel Grid.Column="0" Margin="5">
+                        <TextBlock FontSize="24" HorizontalAlignment="Center">Small</TextBlock>
+                        <Canvas ClipToBounds="True"
+                                PointerWheelChanged="InputElement_OnPointerWheelChangedSmall"
+                                PointerMoved="InputElement_OnPointerMovedSmall"
+                                PointerPressed="InputElement_OnPointerPressedSmall"
+                                PointerReleased="InputElement_OnPointerReleasedSmall"
+                                Background="Red" Width="185"
+                                Height="242"
+                                x:Name="SmallCanvas">
+                            <Image x:Name="Small" Canvas.Left="0" Canvas.Top="0" />
+                        </Canvas>
+                    </StackPanel>
 
-                <Canvas Grid.Row="2" Grid.Column="0" ClipToBounds="True"
-                        PointerWheelChanged="InputElement_OnPointerWheelChangedMedium"
-                        PointerMoved="InputElement_OnPointerMovedMedium"
-                        PointerPressed="InputElement_OnPointerPressedMedium"
-                        PointerReleased="InputElement_OnPointerReleasedMedium"
-                        Background="Red" Width="330"
-                        Height="432"
-                        x:Name="MediumCanvas">
-                    <Image x:Name="Medium" Canvas.Left="0" Canvas.Top="0" />
-                </Canvas>
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock FontSize="24" HorizontalAlignment="Center">Medium</TextBlock>
+                        <Canvas ClipToBounds="True"
+                                PointerWheelChanged="InputElement_OnPointerWheelChangedMedium"
+                                PointerMoved="InputElement_OnPointerMovedMedium"
+                                PointerPressed="InputElement_OnPointerPressedMedium"
+                                PointerReleased="InputElement_OnPointerReleasedMedium"
+                                Background="Red" Width="330"
+                                Height="432"
+                                x:Name="MediumCanvas">
+                            <Image x:Name="Medium" Canvas.Left="0" Canvas.Top="0" />
+                        </Canvas>
+                    </StackPanel>
 
-                <Canvas Grid.Row="1" Grid.Column="1" ClipToBounds="True"
-                        PointerWheelChanged="InputElement_OnPointerWheelChangedFull"
-                        PointerMoved="InputElement_OnPointerMovedFull"
-                        PointerPressed="InputElement_OnPointerPressedFull"
-                        PointerReleased="InputElement_OnPointerReleasedFull"
-                        Background="Red" Width="692"
-                        Height="1024"
-                        Grid.RowSpan="2"
-                        x:Name="FullCanvas">
-                    <Image x:Name="Full" Canvas.Left="0" Canvas.Top="0" />
-                </Canvas>
+                    <StackPanel Grid.Column="2" Margin="5">
+                        <TextBlock FontSize="24" HorizontalAlignment="Center">Full</TextBlock>
+                        <Viewbox Width="346"
+                                 Height="512"
+                                 Stretch="Uniform"
+                                 StretchDirection="Both">
+                            <Canvas ClipToBounds="True"
+                                    PointerWheelChanged="InputElement_OnPointerWheelChangedFull"
+                                    PointerMoved="InputElement_OnPointerMovedFull"
+                                    PointerPressed="InputElement_OnPointerPressedFull"
+                                    PointerReleased="InputElement_OnPointerReleasedFull"
+                                    Background="Red"
+                                    x:Name="FullCanvas"
+                                    Width="692"
+                                    Height="1024">
+                                <Image x:Name="Full" Canvas.Left="0" Canvas.Top="0" />
+                            </Canvas>
+                        </Viewbox>
+                    </StackPanel>
+                </Grid>
 
             </Grid>
         </TabItem>

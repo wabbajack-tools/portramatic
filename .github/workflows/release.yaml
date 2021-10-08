@@ -22,4 +22,4 @@ jobs:
       - name: Install dependencies
         run: dotnet restore
       - name: Generate Thumbnails
-        run: dotnet run TumbnailGenerator -- ./Definitions ./Portramatic/Resources
+        run: dotnet run --project ThumbnailGenerator -- ./Definitions ./Portramatic/Resources

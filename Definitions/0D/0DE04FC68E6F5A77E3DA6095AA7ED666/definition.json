@@ -1,0 +1,32 @@
+{
+  "source": "https://i.redd.it/9la3cag4i1n01.jpg",
+  "md5": "0DE04FC68E6F5A77E3DA6095AA7ED666",
+  "tags": [
+    "architecture",
+    "building",
+    "toy",
+    "armor",
+    "bronze",
+    "knight",
+    ""
+  ],
+  "small": {
+    "scale": 1.6300000000000006,
+    "offset_x": -470,
+    "offset_y": -169,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -173,
+    "offset_y": -61,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": -40,
+    "offset_y": -66,
+    "size": "full"
+  },
+  "version": 2
+}

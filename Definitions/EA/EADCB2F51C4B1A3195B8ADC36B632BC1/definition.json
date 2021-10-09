@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/p8tebfga8w351.jpg",
+  "md5": "EADCB2F51C4B1A3195B8ADC36B632BC1",
+  "tags": [
+    "person",
+    "human",
+    "costume",
+    "clock tower",
+    "building",
+    "architecture",
+    "tower",
+    "armor",
+    "bronze",
+    ""
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -396,
+    "offset_y": -49,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -326,
+    "offset_y": -18,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.97,
+    "offset_x": -146,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2
+}

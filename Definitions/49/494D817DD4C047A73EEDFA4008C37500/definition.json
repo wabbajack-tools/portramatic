@@ -1,0 +1,34 @@
+{
+  "source": "https://i.imgur.com/3tOXamB.jpeg",
+  "md5": "494D817DD4C047A73EEDFA4008C37500",
+  "tags": [
+    "painting",
+    "art",
+    "person",
+    "human",
+    "nature",
+    "outdoors",
+    "elf",
+    "necromancer",
+    "lich"
+  ],
+  "small": {
+    "scale": 0.23999999999999932,
+    "offset_x": -2,
+    "offset_y": -5,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.41999999999999954,
+    "offset_x": 0,
+    "offset_y": -7,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.94,
+    "offset_x": -2,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2
+}

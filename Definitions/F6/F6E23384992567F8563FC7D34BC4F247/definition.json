@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/tU7mCug.jpeg",
+  "md5": "F6E23384992567F8563FC7D34BC4F247",
+  "tags": [
+    "person",
+    "human",
+    "painting",
+    "art",
+    "knight",
+    "samurai",
+    "necromancer",
+    "lich"
+  ],
+  "small": {
+    "scale": 0.1999999999999993,
+    "offset_x": -2,
+    "offset_y": -5,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.3499999999999995,
+    "offset_x": 0,
+    "offset_y": -7,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.7799999999999998,
+    "offset_x": -2,
+    "offset_y": -32,
+    "size": "full"
+  },
+  "version": 2
+}

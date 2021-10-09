@@ -36,6 +36,7 @@ jobs:
           password: "${{ secrets.CODE_CERT_PW }}"
           folder: ./
           recursive: false
+          timestampUrl: http://timestamp.sectigo.com
       - uses: actions/upload-artifact@v2
         with:
           name: Portramatic-${{ github.event.inputs.version }}.exe

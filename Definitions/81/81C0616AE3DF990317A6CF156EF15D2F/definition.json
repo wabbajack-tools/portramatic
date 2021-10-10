@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/ku09ryp8zzc01.jpg",
+  "md5": "81C0616AE3DF990317A6CF156EF15D2F",
+  "tags": [
+    "clothing",
+    "apparel",
+    "coat",
+    "fur",
+    "person",
+    "human",
+    "jacket",
+    "overcoat",
+    "female",
+    ""
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -45.33333333333333,
+    "offset_y": 0,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -80.66666666666669,
+    "offset_y": -34.66666666666666,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2600000000000002,
+    "offset_x": -13.333333333333485,
+    "offset_y": -25.333333333333485,
+    "size": "full"
+  },
+  "version": 2
+}

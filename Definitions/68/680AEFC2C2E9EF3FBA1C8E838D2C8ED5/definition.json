@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/564x/cf/da/7d/cfda7d802a5eb63debc136f506454fe3.jpg",
+  "md5": "680AEFC2C2E9EF3FBA1C8E838D2C8ED5",
+  "tags": [
+    "person",
+    "human",
+    "armor",
+    "knight",
+    "io"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -1,
+    "offset_y": 1,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -1,
+    "offset_y": 0,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2
+}

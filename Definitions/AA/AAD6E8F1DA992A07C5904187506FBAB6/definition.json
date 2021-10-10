@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/H4EmvRf.jpg",
+  "md5": "AAD6E8F1DA992A07C5904187506FBAB6",
+  "tags": [
+    "person",
+    "human",
+    "armor",
+    "knight",
+    "bronze",
+    "samurai",
+    ""
+  ],
+  "small": {
+    "scale": 0.09999999999999919,
+    "offset_x": 0,
+    "offset_y": -6,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.2099999999999993,
+    "offset_x": -20,
+    "offset_y": -27,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.4399999999999995,
+    "offset_x": -54,
+    "offset_y": -58,
+    "size": "full"
+  },
+  "version": 2
+}

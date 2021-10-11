@@ -1,0 +1,32 @@
+{
+  "source": "https://i.redd.it/447vnbd0sad21.png",
+  "md5": "4758E1FD7B681D095B92A7356561940E",
+  "tags": [
+    "person",
+    "human",
+    "costume",
+    "samurai",
+    "pirate",
+    "ninja",
+    ""
+  ],
+  "small": {
+    "scale": 1.1,
+    "offset_x": -305,
+    "offset_y": -139,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -171,
+    "offset_y": -118,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -32,
+    "offset_y": -10,
+    "size": "full"
+  },
+  "version": 2
+}

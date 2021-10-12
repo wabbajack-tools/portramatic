@@ -1,0 +1,30 @@
+{
+  "source": "https://oakthorne.net/wiki/images/Felees.jpg",
+  "md5": "171EF84982E3BF44F1A4A45F4CD6BEE7",
+  "tags": [
+    "person",
+    "human",
+    "costume",
+    "figurine",
+    ""
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -85,
+    "offset_y": -86,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -55,
+    "offset_y": -35,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.08,
+    "offset_x": -10,
+    "offset_y": -1,
+    "size": "full"
+  },
+  "version": 2
+}

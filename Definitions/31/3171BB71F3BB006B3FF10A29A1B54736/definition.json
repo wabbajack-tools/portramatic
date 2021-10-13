@@ -1,0 +1,36 @@
+{
+  "source": "https://i.redd.it/4hx35d5urpj21.jpg",
+  "md5": "3171BB71F3BB006B3FF10A29A1B54736",
+  "tags": [
+    "person",
+    "human",
+    "architecture",
+    "building",
+    "pillar",
+    "column",
+    "costume",
+    "warrior",
+    "fighter",
+    "swashbuckler",
+    "pirate"
+  ],
+  "small": {
+    "scale": 0.8399999999999999,
+    "offset_x": -342,
+    "offset_y": -90,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.5899999999999996,
+    "offset_x": -39,
+    "offset_y": -40,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.12,
+    "offset_x": -66,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2
+}

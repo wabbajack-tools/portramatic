@@ -1,0 +1,33 @@
+{
+  "source": "https://img3.gelbooru.com//samples/db/2a/sample_db2af9a27e8d972e3ad0ec35680881ac.jpg",
+  "md5": "65DEC6B7BF84352E5BE4C4B536F62F87",
+  "tags": [
+    "manga",
+    "comics",
+    "book",
+    "person",
+    "human",
+    "kirika",
+    "front",
+    "scythe"
+  ],
+  "small": {
+    "scale": 0.6799999999999997,
+    "offset_x": -105,
+    "offset_y": -108,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7299999999999998,
+    "offset_x": -94,
+    "offset_y": -87,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.8799999999999999,
+    "offset_x": -54,
+    "offset_y": -2,
+    "size": "full"
+  },
+  "version": 2
+}

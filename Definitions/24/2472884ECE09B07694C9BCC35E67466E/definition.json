@@ -1,0 +1,29 @@
+{
+  "source": "https://img3.gelbooru.com//samples/42/c7/sample_42c765577cc7bfb29a1aa58032d7b86c.jpg",
+  "md5": "2472884ECE09B07694C9BCC35E67466E",
+  "tags": [
+    "manga",
+    "comics",
+    "book",
+    "shirabe"
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -226,
+    "offset_y": -68,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -100,
+    "offset_y": -4,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.9099999999999999,
+    "offset_x": -12,
+    "offset_y": -2,
+    "size": "full"
+  },
+  "version": 2
+}

@@ -67,7 +67,7 @@ class Program
                     var tocEntry = archive.CreateEntry("definitions.json", CompressionLevel.SmallestSize);
                     await using var tocStream = tocEntry.Open();
                     await using var sw = new StreamWriter(tocStream);
-                    var json = JsonSerializer.Serialize(definitions, new JsonSerializerOptions()
+                    var json = JsonSerializer.Serialize(definitions.Select(d => d.Item1).ToArray(), new JsonSerializerOptions()
                     {
                         WriteIndented = false,
                         Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
@@ -91,6 +91,9 @@ class Program
         var snap = Resize(cropped, width / 4, height / 4);
 
         var encoded = snap.Encode(SKEncodedImageFormat.Webp, 50);
+
+        if (string.IsNullOrEmpty(definition.MD5))
+            throw new InvalidDataException("MD5");
 
         lock (archive)
         {

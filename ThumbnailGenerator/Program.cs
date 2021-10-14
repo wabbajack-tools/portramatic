@@ -26,15 +26,15 @@ class Program
 
         Console.WriteLine($"Found {files.Length} definitions, loading...");
 
-        var definitions = new List<PortraitDefinition>();
+        var definitions = new List<(PortraitDefinition, string)>();
 
         foreach (var file in files)
         {
-            definitions.Add(JsonSerializer.Deserialize<PortraitDefinition>(await File.ReadAllTextAsync(file),
+            definitions.Add((JsonSerializer.Deserialize<PortraitDefinition>(await File.ReadAllTextAsync(file),
                 new JsonSerializerOptions()
                 {
                     Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
-                })!);
+                })!, file));
         }
 
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
@@ -44,9 +44,9 @@ class Program
             using var archive = new ZipArchive(outputMemoryStream, ZipArchiveMode.Create, true);
             {
                 var badLinks = new ConcurrentBag<string>();
-                await Parallel.ForEachAsync(definitions.Select((v, idx) => (v, idx)), async (itm, token) =>
+                await Parallel.ForEachAsync(definitions.Select((v, idx) => (v.Item1, v.Item2,  idx)), async (itm, token) =>
                 {
-                    var (definition, idx) = itm;
+                    var (definition, path, idx) = itm;
                     Console.WriteLine(
                         $"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
                     try
@@ -56,12 +56,13 @@ class Program
                     catch (Exception ex)
                     {
                         Console.WriteLine($"BAD: {definition.MD5}");
+                        File.Delete(path);
                         badLinks.Add(definition.MD5);
                     }
                 });
 
 
-                definitions = definitions.Where(d => !badLinks.Contains(d.MD5)).ToList();
+                definitions = definitions.Where(d => !badLinks.Contains(d.Item1.MD5)).ToList();
                 {
                     var tocEntry = archive.CreateEntry("definitions.json", CompressionLevel.SmallestSize);
                     await using var tocStream = tocEntry.Open();

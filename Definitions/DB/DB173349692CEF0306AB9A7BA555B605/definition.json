@@ -1,0 +1,33 @@
+{
+  "source": "https://img3.gelbooru.com//samples/0d/dc/sample_0ddc79c09c038939a01ae229a663563a.jpg",
+  "md5": "DB173349692CEF0306AB9A7BA555B605",
+  "tags": [
+    "comics",
+    "book",
+    "manga",
+    "person",
+    "human",
+    "doll",
+    "toy",
+    "shirabe"
+  ],
+  "small": {
+    "scale": 0.37999999999999945,
+    "offset_x": -40,
+    "offset_y": -6,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.4599999999999995,
+    "offset_x": -13,
+    "offset_y": -5,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.8699999999999999,
+    "offset_x": -4,
+    "offset_y": -2,
+    "size": "full"
+  },
+  "version": 2
+}

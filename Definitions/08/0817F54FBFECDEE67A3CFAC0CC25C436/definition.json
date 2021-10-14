@@ -1,0 +1,41 @@
+{
+  "source": "https://img3.gelbooru.com//samples/d6/93/sample_d693bed59d5b488bc4f28ca8687467cd.jpg",
+  "md5": "0817F54FBFECDEE67A3CFAC0CC25C436",
+  "tags": [
+    "comics",
+    "book",
+    "manga",
+    "snowman",
+    "nature",
+    "outdoors",
+    "snow",
+    "winter",
+    "sweets",
+    "food",
+    "confectionery",
+    "plant",
+    "art",
+    "flower",
+    "blossom",
+    "shirabe"
+  ],
+  "small": {
+    "scale": 0.8399999999999999,
+    "offset_x": -21,
+    "offset_y": -1,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -9,
+    "offset_y": -2,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -2,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2
+}

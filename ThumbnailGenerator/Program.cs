@@ -12,7 +12,9 @@ using Avalonia.Skia;
 using Portramatic.DTOs;
 using Portramatic.ViewModels;
 using ReactiveUI;
+using Shipwreck.Phash;
 using SkiaSharp;
+using ThumbnailGenerator;
 
 class Program
 {
@@ -41,9 +43,12 @@ class Program
 
         var outputMemoryStream = new MemoryStream();
         {
-            using var archive = new ZipArchive(outputMemoryStream, ZipArchiveMode.Create, true);
+            using var archive = new ZipArchive(outputMemoryStream, ZipArchiveMode.Update, true);
             {
                 var badLinks = new ConcurrentBag<string>();
+                var hashes =
+                    new ConcurrentBag<(PortraitDefinition Definition, Digest Hash, Size Size, string Filename)>();
+                
                 await Parallel.ForEachAsync(definitions.Select((v, idx) => (v.Item1, v.Item2,  idx)), async (itm, token) =>
                 {
                     var (definition, path, idx) = itm;
@@ -51,17 +56,43 @@ class Program
                         $"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
                     try
                     {
-                        await GenerateThumbnail(archive, definition);
+                        var (hash, size) = await GenerateThumbnail(archive, definition);
+                        hashes.Add((definition, hash, size, path));
                     }
                     catch (Exception ex)
                     {
                         Console.WriteLine($"BAD: {definition.MD5}");
-                        File.Delete(path);
+                        //File.Delete(path);
                         badLinks.Add(definition.MD5);
                     }
                 });
+                
+                Console.WriteLine("Finding duplicate images");
 
-
+                var grouped = from src in hashes.AsParallel()
+                    from dest in hashes
+                    where src.Definition.MD5 != dest.Definition.MD5
+                    let cross = ImagePhash.GetCrossCorrelation(src.Hash, dest.Hash)
+                    where cross >= 0.99f
+                    orderby src.Size.Width * src.Size.Height descending
+                    group (dest, cross) by src.Definition.MD5 into result
+                    select result;
+                
+                var results = grouped.ToArray();
+                
+                Console.WriteLine($"Found {results.Length} duplicate pairs");
+                foreach (var result in results)
+                {
+                    foreach (var (dest, _) in result.Skip(1))
+                    {
+                        Console.WriteLine($"Removing {dest.Definition.MD5}");
+                        badLinks.Add(dest.Definition.MD5);
+                        if (File.Exists(dest.Filename))
+                            File.Delete(dest.Filename);
+                        archive.GetEntry(dest.Definition.MD5+".webp")?.Delete();
+                    }
+                }
+                
                 definitions = definitions.Where(d => !badLinks.Contains(d.Item1.MD5)).ToList();
                 {
                     var tocEntry = archive.CreateEntry("definitions.json", CompressionLevel.SmallestSize);
@@ -81,11 +112,15 @@ class Program
         return 0;
     }
 
-    private static async Task GenerateThumbnail(ZipArchive archive, PortraitDefinition definition)
+    private static async Task<(Digest Hash, Size)> GenerateThumbnail(ZipArchive archive, PortraitDefinition definition)
     {
         var bitmapBytes = await Client.GetByteArrayAsync(definition.Source);
         var (width, height) = definition.Full.FinalSize;
         using var src = SKImage.FromEncodedData(new MemoryStream(bitmapBytes));
+
+        
+        var ibitmap = new SKImageIBitmap(src);
+        var hash = ImagePhash.ComputeDigest(ibitmap);
 
         var cropped = definition.Crop(src, ImageSize.Full);
         var snap = Resize(cropped, width / 4, height / 4);
@@ -101,6 +136,8 @@ class Program
             using var entryStream = entry.Open();
             encoded.SaveTo(entryStream);
         }
+
+        return (hash, new Size(src.Width, src.Height));
     }
 
     private static SKImage Resize(SKImage i, int width, int height)

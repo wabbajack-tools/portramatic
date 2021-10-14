@@ -152,7 +152,8 @@ async function handleRequest(request) {
     if (data == null) {
 
         var labels = await labelImage(body);
-        if (labels == null || body.source.includes("xxx")) return new Response("unaccepted", {status: 200});
+        if (labels == null || body.source.includes("xxx") || body.source.includes("gelbooru.com")) 
+            return new Response("unaccepted", {status: 200});
         labels = [...new Set(labels.concat(body.tags))];
         body.tags = labels;
         console.log(labels);

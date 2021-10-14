@@ -74,7 +74,7 @@ class Program
                     where src.Definition.MD5 != dest.Definition.MD5
                     let cross = ImagePhash.GetCrossCorrelation(src.Hash, dest.Hash)
                     where cross >= 0.99f
-                    orderby src.Size.Width * src.Size.Height descending
+                    where src.Size.Width * src.Size.Height >= dest.Size.Width * dest.Size.Height
                     group (dest, cross) by src.Definition.MD5 into result
                     select result;
                 
@@ -83,7 +83,7 @@ class Program
                 Console.WriteLine($"Found {results.Length} duplicate pairs");
                 foreach (var result in results)
                 {
-                    foreach (var (dest, _) in result.Skip(1))
+                    foreach (var (dest, _) in result)
                     {
                         Console.WriteLine($"Removing {dest.Definition.MD5}");
                         badLinks.Add(dest.Definition.MD5);

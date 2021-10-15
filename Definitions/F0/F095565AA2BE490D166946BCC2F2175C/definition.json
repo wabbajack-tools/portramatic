@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/88/b5/eb/88b5eb28ed16319fe313b640696bc6af.jpg",
+  "md5": "F095565AA2BE490D166946BCC2F2175C",
+  "tags": [
+    "clothing",
+    "apparel",
+    "person",
+    "human",
+    "cape",
+    "cloak",
+    "fashion",
+    "Cleric"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -146,
+    "offset_y": -5,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -52,
+    "offset_y": -5,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.7300000000000006,
+    "offset_x": -8,
+    "offset_y": -16,
+    "size": "full"
+  },
+  "version": 2
+}

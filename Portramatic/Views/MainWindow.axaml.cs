@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
+using System.Threading.Tasks;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Input;
+using Avalonia.Interactivity;
 using Avalonia.Markup.Xaml;
 using Avalonia.ReactiveUI;
+using Avalonia.Threading;
 using Avalonia.VisualTree;
 using Portramatic.ViewModels;
 using ReactiveUI;
@@ -212,6 +215,24 @@ namespace Portramatic.Views
         private void InputElement_OnPointerReleasedFull(object? sender, PointerReleasedEventArgs e)
         {
             _lastPositionFull = null;
+        }
+
+        private void FromDisk_OnClick(object? sender, RoutedEventArgs e)
+        {
+            Dispatcher.UIThread.InvokeAsync(async () =>
+            {
+                var dialog = new OpenFileDialog()
+                {
+                    Title = "Select a modlist.txt file",
+                    AllowMultiple = false
+                };
+                var result = await dialog.ShowAsync(this);
+                if (result is { Length: > 0 })
+                {
+                    ViewModel!.Url = result.First();
+                }
+            });
+
         }
     }
 }

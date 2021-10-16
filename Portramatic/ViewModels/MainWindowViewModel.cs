@@ -105,7 +105,12 @@ namespace Portramatic.ViewModels
 
                 this.WhenAnyValue(vm => vm.Definition.Source)
                     .Where(u => u != default)
-                    .SelectAsync(disposables, async url => await _client.GetByteArrayAsync(url))
+                    .SelectAsync(disposables, async url =>
+                    {
+                        if (url.Scheme == "file") 
+                            return await File.ReadAllBytesAsync(url.AbsolutePath);
+                        return await _client.GetByteArrayAsync(url);
+                    })
                     .ObserveOn(RxApp.MainThreadScheduler)
                     .BindTo(this, vm => vm.ImageData)
                     .DisposeWith(disposables);
@@ -204,10 +209,12 @@ namespace Portramatic.ViewModels
                 WriteIndented = true,
                 Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
             });
-            
-            var pend = _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
+
             await File.WriteAllTextAsync(outPath, json);
-            await pend;
+            if (Definition.Source.Scheme != "file")
+            {
+                await _client.PostAsync("https://portramatic.wabbajack.workers.dev", new StringContent(json));
+            }
         }
 
         private async Task ExportImage(string baseFolder, PortraitDefinition definition, ImageSize size)

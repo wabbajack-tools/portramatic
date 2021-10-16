@@ -122,7 +122,7 @@ class Program
         var ibitmap = new SKImageIBitmap(src);
         var hash = ImagePhash.ComputeDigest(ibitmap);
 
-        var cropped = definition.Crop(src, ImageSize.Full);
+        var cropped = await definition.Crop(src, ImageSize.Full);
         var snap = Resize(cropped, width / 4, height / 4);
 
         var encoded = snap.Encode(SKEncodedImageFormat.Webp, 50);

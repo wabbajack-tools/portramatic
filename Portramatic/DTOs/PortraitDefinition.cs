@@ -3,6 +3,8 @@ using System.IO;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using Avalonia.Media;
+using OpenCvSharp.DnnSuperres;
+using OpenCvSharp;
 using SkiaSharp;
 
 namespace Portramatic.DTOs;
@@ -68,8 +70,9 @@ public class PortraitDefinition
 
     [JsonPropertyName("version")] public int Version => 2;
 
-    public SKImage Crop(SKImage src, ImageSize size)
+    public async Task<SKImage> Crop(SKImage src, ImageSize size)
     {
+        src = await Upscale(src);
 
         var cropData = CropData(size);
 
@@ -84,6 +87,29 @@ public class PortraitDefinition
         paint.FilterQuality = SKFilterQuality.High;
         surface.Canvas.DrawImage(src, new SKPoint(0, 0), paint);
         return surface.Snapshot();
+    }
+
+    private static Task<DnnSuperResImpl> Dnn = Task.Run(async () =>
+    {
+        var model = new DnnSuperResImpl("fsrcnn", 4);
+        using var modelFile = await TempFile.Resource("Portramatic.Resources.FSRCNN_x4.pb");
+        model.ReadModel(modelFile.Name);
+        return model;
+    });
+    public async Task<SKImage> Upscale(SKImage src)
+    {
+        using var tmpSrc = new TempFile(".png");
+        using var tmpSrc2 = new TempFile(".png");
+        using (var os = File.Create(tmpSrc.Name))
+        {
+            src.Encode(SKEncodedImageFormat.Png, 100).SaveTo(os);
+        }
+
+        var mat = new Mat(tmpSrc.Name, ImreadModes.Color);
+        var matOut = new Mat();
+        (await Dnn).Upsample(mat, matOut);
+        matOut.SaveImage(tmpSrc2.Name);
+        return SKImage.FromEncodedData(tmpSrc2.Name);
     }
 
     public CroppedImage CropData(ImageSize size)

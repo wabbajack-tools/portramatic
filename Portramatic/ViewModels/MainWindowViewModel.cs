@@ -221,7 +221,7 @@ namespace Portramatic.ViewModels
         {
             var image = SKImage.FromEncodedData(ImageData);
             var cropData = definition.CropData(size);
-            var cropped = definition.Crop(image, size);
+            var cropped = await definition.Crop(image, size);
             var outPath = Path.Combine(baseFolder, cropData.FileName);
             Directory.CreateDirectory(Path.GetDirectoryName(outPath)!);
             var data = cropped.Encode(SKEncodedImageFormat.Png, 100);

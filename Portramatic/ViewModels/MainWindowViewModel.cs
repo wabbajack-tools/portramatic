@@ -12,6 +12,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
+using System.Web;
 using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using DynamicData;
@@ -108,7 +109,7 @@ namespace Portramatic.ViewModels
                     .SelectAsync(disposables, async url =>
                     {
                         if (url.Scheme == "file") 
-                            return await File.ReadAllBytesAsync(url.AbsolutePath);
+                            return await File.ReadAllBytesAsync(HttpUtility.UrlDecode(url.AbsolutePath));
                         return await _client.GetByteArrayAsync(url);
                     })
                     .ObserveOn(RxApp.MainThreadScheduler)

@@ -1,0 +1,40 @@
+{
+  "source": "http://www.ddarling.ca/dd/live/pc/shodan/bigred1.jpg",
+  "md5": "994F80715E71384AA3844252ECDE90EA",
+  "tags": [
+    "costume",
+    "elf",
+    "person",
+    "human",
+    "painting",
+    "art",
+    "bow",
+    "angel",
+    "archangel",
+    "world of warcraft",
+    "demon",
+    "succubus",
+    "tiefling",
+    "mage",
+    "caster"
+  ],
+  "small": {
+    "scale": 0.8099999999999998,
+    "offset_x": -140,
+    "offset_y": -112,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7899999999999998,
+    "offset_x": -76,
+    "offset_y": -51,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -41,
+    "offset_y": -18,
+    "size": "full"
+  },
+  "version": 2
+}

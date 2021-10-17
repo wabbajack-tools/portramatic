@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/cOgBViO.png",
+  "md5": "116AE9DDA57773194CE1CF86E0E3542C",
+  "tags": [
+    "person",
+    "human",
+    "motorcycle",
+    "transportation",
+    "vehicle",
+    ""
+  ],
+  "small": {
+    "scale": 1.1300000000000001,
+    "offset_x": -338,
+    "offset_y": -52,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7299999999999998,
+    "offset_x": -104,
+    "offset_y": -17,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -10,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2
+}

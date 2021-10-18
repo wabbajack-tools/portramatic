@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/fbBCnKr.png",
+  "md5": "406C1CED638F011E30F7145A57908232",
+  "tags": [
+    "person",
+    "human",
+    "clothing",
+    "apparel",
+    "samurai",
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -210,
+    "offset_y": -164,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -125,
+    "offset_y": -112,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -2,
+    "offset_y": -2,
+    "size": "full"
+  },
+  "version": 2
+}

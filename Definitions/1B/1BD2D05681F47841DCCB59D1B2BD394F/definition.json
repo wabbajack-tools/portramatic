@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/s8oQcNZ.jpeg",
+  "md5": "1BD2D05681F47841DCCB59D1B2BD394F",
+  "tags": [
+    "person",
+    "human",
+    "costume",
+    "ninja",
+    "samurai",
+    "half-orc",
+    "monk"
+  ],
+  "small": {
+    "scale": 1.5900000000000005,
+    "offset_x": -393,
+    "offset_y": -77,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -117,
+    "offset_y": -35,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -34,
+    "offset_y": -58,
+    "size": "full"
+  },
+  "version": 2
+}

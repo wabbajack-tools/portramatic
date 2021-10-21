@@ -7,7 +7,8 @@ on:
         required: true
         
 jobs:
-  build:
+  build-windows:
+    name: Build Windows
     runs-on: windows-latest
     
     steps:
@@ -43,3 +44,30 @@ jobs:
         with:
           name: Portramatic-${{ github.event.inputs.version }}.exe
           path: Portramatic.exe        
+
+  build-linus:
+    name: Build Linux
+    runs-on: linux-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: Setup .NET Core SDK 6.0.x
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0.x'
+          include-prerelease: true
+            
+      - name: Install dependencies
+        run: dotnet restore
+      - name: Generate Thumbnails
+        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources
+      - name: Build App
+        run: dotnet build
+      - name: Publish
+        run: dotnet publish Portramatic -r linux-64 -c Release -p:PublishReadyToRun=true --self-contained -o ./ -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Portramatic-${{ github.event.inputs.version }}
+          path: Portramatic        
+ 

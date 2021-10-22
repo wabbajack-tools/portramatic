@@ -65,11 +65,11 @@ jobs:
       - name: Build App
         run: dotnet build
       - name: Publish
-        run: dotnet publish Portramatic -r linux-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./ -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
+        run: dotnet publish Portramatic -r linux-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./publish -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
       - uses: actions/upload-artifact@v2
         with:
           name: Portramatic-${{ github.event.inputs.version }}
-          path: Portramatic        
+          path: ./publish/Portramatic        
  
   build-osx:
     name: Build MacOS
@@ -91,9 +91,9 @@ jobs:
       - name: Build App
         run: dotnet build
       - name: Publish
-        run: dotnet publish Portramatic -r osx-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./ -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
+        run: dotnet publish Portramatic -r osx-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./publish -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
       - uses: actions/upload-artifact@v2
         with:
           name: Portramatic-${{ github.event.inputs.version }}
-          path: Portramatic        
+          path: ./publish/Portramatic        
  

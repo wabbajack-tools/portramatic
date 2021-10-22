@@ -42,7 +42,7 @@ jobs:
           recursive: false
       - uses: actions/upload-artifact@v2
         with:
-          name: Portramatic-${{ github.event.inputs.version }}.exe
+          name: Portramatic-win-${{ github.event.inputs.version }}
           path: Portramatic.exe        
 
   build-linux:
@@ -68,7 +68,7 @@ jobs:
         run: dotnet publish Portramatic -r linux-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./publish -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
       - uses: actions/upload-artifact@v2
         with:
-          name: Portramatic-${{ github.event.inputs.version }}
+          name: Portramatic-linux-${{ github.event.inputs.version }}
           path: ./publish/Portramatic        
  
   build-osx:
@@ -94,6 +94,6 @@ jobs:
         run: dotnet publish Portramatic -r osx-x64 -c Release -p:PublishReadyToRun=true --self-contained -o ./publish -p:PublishSingleFile=true -p:DebugType=embedded -p:IncludeAllContentForSelfExtract=true
       - uses: actions/upload-artifact@v2
         with:
-          name: Portramatic-${{ github.event.inputs.version }}
+          name: Portramatic-osx-${{ github.event.inputs.version }}
           path: ./publish/Portramatic        
  

@@ -41,6 +41,8 @@ class Program
 
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
 
+        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = 32};
+
         var outputMemoryStream = new MemoryStream();
         {
             using var archive = new ZipArchive(outputMemoryStream, ZipArchiveMode.Update, true);
@@ -49,7 +51,9 @@ class Program
                 var hashes =
                     new ConcurrentBag<(PortraitDefinition Definition, Digest Hash, Size Size, string Filename)>();
                 
-                await Parallel.ForEachAsync(definitions.Select((v, idx) => (v.Item1, v.Item2,  idx)), async (itm, token) =>
+                await Parallel.ForEachAsync(definitions.Select((v, idx) => (v.Item1, v.Item2,  idx)),
+                    pOptions, 
+                    async (itm, token) =>
                 {
                     var (definition, path, idx) = itm;
                     Console.WriteLine(
@@ -62,7 +66,7 @@ class Program
                     catch (Exception ex)
                     {
                         Console.WriteLine($"BAD: {definition.MD5}");
-                        //File.Delete(path);
+                        File.Delete(path);
                         badLinks.Add(definition.MD5);
                     }
                 });

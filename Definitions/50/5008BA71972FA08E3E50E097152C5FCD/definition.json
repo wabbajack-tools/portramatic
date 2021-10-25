@@ -1,0 +1,30 @@
+{
+  "source": "https://swg.in.ua/wp-content/uploads/2021/08/darth_baras.jpg",
+  "md5": "5008BA71972FA08E3E50E097152C5FCD",
+  "tags": [
+    "duel",
+    "person",
+    "human",
+    "light",
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -259,
+    "offset_y": -149,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -195,
+    "offset_y": -54,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -20,
+    "offset_y": -38,
+    "size": "full"
+  },
+  "version": 2
+}

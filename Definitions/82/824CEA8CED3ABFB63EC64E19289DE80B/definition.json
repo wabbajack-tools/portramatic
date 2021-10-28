@@ -1,0 +1,31 @@
+{
+  "source": "https://prod-cdn-01.storenvy.com/product_photos/53806733/black_20dragon_original.jpg",
+  "md5": "824CEA8CED3ABFB63EC64E19289DE80B",
+  "tags": [
+    "dragon",
+    "bird",
+    "animal",
+    "painting",
+    "art",
+    ""
+  ],
+  "small": {
+    "scale": 0.5699999999999995,
+    "offset_x": -80,
+    "offset_y": -33,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7799999999999999,
+    "offset_x": -89,
+    "offset_y": -30,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -10,
+    "offset_y": -2,
+    "size": "full"
+  },
+  "version": 2
+}

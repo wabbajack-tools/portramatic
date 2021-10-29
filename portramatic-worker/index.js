@@ -129,13 +129,6 @@ async function labelImage(body) {
         return null;
     }
 
-    console.log(Uint8Array.from(imageData));
-    const labels = await rekognition.detectLabels({Image: {Bytes: new Uint8Array(imageData)}});
-    console.log(JSON.stringify(labels.Labels));
-
-    for (var label of labels.Labels)
-        allLabels.push(label.Name.toLowerCase());
-
     return allLabels;
 }
 

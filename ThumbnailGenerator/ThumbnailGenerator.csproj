@@ -12,6 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <PackageReference Include="HtmlAgilityPack" Version="1.11.37" />
       <PackageReference Include="Shipwreck.Phash" Version="0.5.0" />
     </ItemGroup>
 

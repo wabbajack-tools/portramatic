@@ -67,6 +67,8 @@ public class PortraitDefinition
     [JsonPropertyName("full")] public CroppedImage Full { get; set; } = new() { Size = ImageSize.Full };
 
     [JsonPropertyName("version")] public int Version => 2;
+    
+    [JsonPropertyName("requeried")] public bool Requeried { get; set; }
 
     public SKImage Crop(SKImage src, ImageSize size)
     {

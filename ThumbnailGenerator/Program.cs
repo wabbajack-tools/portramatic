@@ -1,14 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Collections.Concurrent;
+using System.Diagnostics;
 using System.IO.Compression;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Web;
 using Avalonia;
 using Avalonia.Media.Imaging;
 using Avalonia.Platform;
 using Avalonia.Skia;
+using HtmlAgilityPack;
 using Portramatic.DTOs;
 using Portramatic.ViewModels;
 using ReactiveUI;
@@ -20,8 +24,15 @@ class Program
 {
     private static HttpClient Client = new();
 
+    private static TimeSpan WaitTime = TimeSpan.FromSeconds(1);
+    private static Stopwatch QueryTimer = new();
+
     public static async Task<int> Main(string[] args)
     {
+        QueryTimer.Restart();
+        
+        Client.DefaultRequestHeaders.Add("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36");
+        
         var files = Directory.EnumerateFiles(Path.Combine(args[0], "Definitions"), "definition.json",
                 SearchOption.AllDirectories)
             .ToArray();
@@ -56,6 +67,8 @@ class Program
                     async (itm, token) =>
                 {
                     var (definition, path, idx) = itm;
+                    if (!definition.Requeried) 
+                        definition.Tags = await GetLabels(definition.Source);
                     Console.WriteLine(
                         $"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
                     try
@@ -155,5 +168,78 @@ class Program
             new SKRect(0, 0, (float)i.Width / 4, (float)i.Height / 4),
             paint);
         return surface.Snapshot();
+    }
+
+    
+    private static HashSet<string> FindInSites = new HashSet<string>()
+    {
+        "deviantart",
+        "pintrest",
+        "artstation"
+    };
+
+    private static HashSet<string> FilterWords = new HashSet<string>()
+    {
+        "on", "and", "in", "the", "on", "of", "after",
+        "artstation",
+        "-",
+        "pintrest",
+        "deviantart",
+        "by",
+        "art",
+        "dnd",
+        "|",
+        "/",
+        "..."
+    };
+
+    private static char[] TrimChars = {',', ';', '+', ' '};
+
+    private static Random RNG = new();
+    private static async Task<string[]> GetLabels(Uri source)
+    {
+        TOP:
+
+        var googleResponse =
+                await Client.GetStringAsync(
+                    $"https://www.google.com/searchbyimage?image_url={HttpUtility.UrlEncode(source.ToString())}");
+
+        if (!googleResponse.Contains("Possible related search:"))
+        {
+            await Task.Delay(TimeSpan.FromMilliseconds(RNG.Next(500, 3000)));
+            goto TOP;
+        }
+        
+            var doc = new HtmlDocument();
+            doc.LoadHtml(googleResponse);
+
+            var results = doc.DocumentNode.Descendants()
+                .Where(d => d.InnerText.StartsWith("Possible related search:"))
+                .Where(n => n.Name == "div")
+                .SelectMany(d => d.SelectNodes("a").Select(n => n.InnerText))
+                .ToList();
+
+
+
+            var resultsQuery = from desc in doc.DocumentNode.Descendants()
+                where desc.Name == "a"
+                where desc.Descendants().Any(de => de.Name == "h3")
+                let anc = desc.GetAttributeValue("href", "")
+                where FindInSites.Any(anc.Contains)
+                select desc.Descendants().First(de => de.Name == "h3").InnerText;
+
+            var resultsTitles = resultsQuery.ToList();
+
+            var alltags = resultsTitles.Concat(results)
+                .SelectMany(s => s.Split(" ", StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries))
+                .Select(s => s.ToLower().Trim(TrimChars))
+                .Distinct()
+                .Where(t => !FilterWords.Contains(t))
+                .ToArray();
+
+
+            Console.WriteLine($"Tags: {string.Join(", ", alltags)}");
+            return alltags;
+        
     }
 }

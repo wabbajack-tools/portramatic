@@ -41,13 +41,15 @@ class Program
 
         var definitions = new List<(PortraitDefinition, string)>();
 
+        var jsonOptions = new JsonSerializerOptions()
+        {
+            Converters = {new JsonStringEnumConverter(JsonNamingPolicy.CamelCase)},
+            WriteIndented = true
+        };
+
         foreach (var file in files)
         {
-            definitions.Add((JsonSerializer.Deserialize<PortraitDefinition>(await File.ReadAllTextAsync(file),
-                new JsonSerializerOptions()
-                {
-                    Converters = { new JsonStringEnumConverter(JsonNamingPolicy.CamelCase) }
-                })!, file));
+            definitions.Add((JsonSerializer.Deserialize<PortraitDefinition>(await File.ReadAllTextAsync(file), jsonOptions)!, file));
         }
 
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
@@ -65,10 +67,17 @@ class Program
                 await Parallel.ForEachAsync(definitions.Select((v, idx) => (v.Item1, v.Item2,  idx)),
                     pOptions, 
                     async (itm, token) =>
-                {
+                    {
+                        bool reSave = false;
                     var (definition, path, idx) = itm;
-                    if (!definition.Requeried) 
+                    if (!definition.Requeried)
+                    {
                         definition.Tags = await GetLabels(definition.Source);
+                        definition.Requeried = true;
+                        var json = JsonSerializer.Serialize(definition, jsonOptions);
+                        await File.WriteAllTextAsync(itm.Item2, json);
+                    }
+
                     Console.WriteLine(
                         $"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
                     try
@@ -190,7 +199,8 @@ class Program
         "dnd",
         "|",
         "/",
-        "..."
+        "...",
+        "best"
     };
 
     private static char[] TrimChars = {',', ';', '+', ' '};

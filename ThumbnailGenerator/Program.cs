@@ -200,10 +200,17 @@ class Program
         "|",
         "/",
         "...",
-        "best"
+        "best",
+        "visually"
+        "similar",
+        "images",
+        "commission",
+        "3",
+        "2",
+        "1"
     };
 
-    private static char[] TrimChars = {',', ';', '+', ' '};
+    private static char[] TrimChars = {',', ';', '+', ' ', '[', ']', '(', ')', '-', ":"};
 
     private static Random RNG = new();
     private static async Task<string[]> GetLabels(Uri source)

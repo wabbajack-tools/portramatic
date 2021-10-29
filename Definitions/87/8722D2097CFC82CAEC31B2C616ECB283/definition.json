@@ -1,0 +1,32 @@
+{
+  "source": "https://storage.googleapis.com/spikeybits-staging-bucket/2017/11/Sanguinius-in-battle.jpg",
+  "md5": "8722D2097CFC82CAEC31B2C616ECB283",
+  "tags": [
+    "world of warcraft",
+    "painting",
+    "art",
+    "sweets",
+    "food",
+    "confectionery",
+    ""
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -290,
+    "offset_y": -104,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -175,
+    "offset_y": -21,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 2.079999999999999,
+    "offset_x": -500,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2
+}

@@ -1,9 +1,20 @@
 {
-  "source": "https://sun9-38.userapi.com/impf/c830708/v830708543/106737/PmT-LU2dtCg.jpg?size=600x1164&quality=96&sign=f660c8436447be9f7959de01e9c4294b&type=album",
+  "source": "https://sun9-38.userapi.com/impf/c830708/v830708543/106737/PmT-LU2dtCg.jpg?size=600x1164\u0026quality=96\u0026sign=f660c8436447be9f7959de01e9c4294b\u0026type=album",
   "md5": "BD8207E47AE65B7E89D07DC4432A3D7C",
   "tags": [
-    "inquisitor",
-    "male"
+    "male",
+    "warrior",
+    "concept",
+    "rogue",
+    "character",
+    "cyberpunk",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.01,
@@ -23,5 +34,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

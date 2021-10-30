@@ -143,13 +143,9 @@ async function handleRequest(request) {
     var data = await getDefinition(body.md5);
 
     if (data == null) {
-
-        var labels = await labelImage(body);
-        if (labels == null || body.source.includes("xxx") || body.source.includes("gelbooru.com")) 
+        
+        if (body.source.includes("xxx") || body.source.includes("gelbooru.com")) 
             return new Response("unaccepted", {status: 200});
-        labels = [...new Set(labels.concat(body.tags))];
-        body.tags = labels;
-        console.log(labels);
         
         const result = await putNewContent(body);
         return new Response(definitionUrl(body.md5), {status: result ? 201 : 500});

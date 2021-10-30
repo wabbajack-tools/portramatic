@@ -1,9 +1,7 @@
 {
   "source": "https://ortheza.net/zdj_prace/illustrations/nimfa3_11m.jpg",
   "md5": "C671F8A6F0B248679B46E830D4084BA2",
-  "tags": [
-    "Dreaming Nymph"
-  ],
+  "tags": [],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -643.9999999999998,
@@ -22,5 +20,6 @@
     "offset_y": -1.333333333333485,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

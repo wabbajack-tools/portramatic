@@ -2,7 +2,11 @@
   "source": "http://static.minitokyo.net/downloads/35/23/546185.jpg",
   "md5": "E3418F3C18B69286A59790132D31126A",
   "tags": [
-    ""
+    "remnant",
+    "game",
+    "last",
+    "characters",
+    "map"
   ],
   "small": {
     "scale": 0.47999999999999954,
@@ -22,5 +26,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

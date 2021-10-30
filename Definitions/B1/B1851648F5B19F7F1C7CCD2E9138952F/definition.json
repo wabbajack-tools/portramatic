@@ -1,21 +1,8 @@
 {
-  "source": "https://preview.redd.it/tegklrrv4tx51.jpg?auto=webp&s=fa617b85672ed17a4d150350219e81e7adf6c448",
+  "source": "https://preview.redd.it/tegklrrv4tx51.jpg?auto=webp\u0026s=fa617b85672ed17a4d150350219e81e7adf6c448",
   "md5": "B1851648F5B19F7F1C7CCD2E9138952F",
   "tags": [
-    "person",
-    "human",
-    "jewelry",
-    "accessories",
-    "accessory",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "costume",
-    "crown",
-    "crowd",
-    "festival",
-    ""
+    "vestments"
   ],
   "small": {
     "scale": 0.24999999999999933,
@@ -35,5 +22,6 @@
     "offset_y": -29,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

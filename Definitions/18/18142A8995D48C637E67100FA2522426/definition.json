@@ -2,7 +2,12 @@
   "source": "https://artlords-artwork.s3.amazonaws.com/uploads/image/7154/display_YODA1.jpg",
   "md5": "18142A8995D48C637E67100FA2522426",
   "tags": [
-    "Patience' Limit"
+    "yoda",
+    "artwork",
+    "star",
+    "wars",
+    "dark",
+    "painting"
   ],
   "small": {
     "scale": 1.09,
@@ -19,8 +24,9 @@
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -245.33333333333303,
-    "offset_y": 5.684341886080802e-14,
+    "offset_y": 5.684341886080802E-14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

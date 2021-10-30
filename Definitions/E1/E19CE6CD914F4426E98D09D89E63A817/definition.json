@@ -2,19 +2,16 @@
   "source": "https://i.pinimg.com/564x/49/b7/21/49b721cce0cfcccb0c037f2810d49eb5.jpg",
   "md5": "E19CE6CD914F4426E98D09D89E63A817",
   "tags": [
-    "graphics",
-    "art",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "costume",
-    "witch",
-    "psyker",
-    "woman",
-    "elf",
-    "drow",
-    "tiefling"
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -34,5 +31,6 @@
     "offset_y": -35.333333333333314,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

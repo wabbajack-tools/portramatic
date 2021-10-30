@@ -27,9 +27,56 @@ class Program
 
     private static TimeSpan WaitTime = TimeSpan.FromSeconds(1);
     private static Stopwatch QueryTimer = new();
-    
+
+
+    private static HashSet<string> FindInSites = new(StringComparer.OrdinalIgnoreCase)
+    {
+        "deviantart",
+        "pintrest",
+        "artstation"
+    };
+
+    private static HashSet<string> FilterWords = new(StringComparer.InvariantCultureIgnoreCase)
+    {
+        "on", "and", "in", "the", "on", "of", "after",
+        "artstation",
+        "-",
+        "pintrest",
+        "deviantart",
+        "instagram",
+        "youtube",
+        "at",
+        "http",
+        "https",
+        "by",
+        "art",
+        "dnd",
+        "|",
+        "/",
+        "...",
+        "best",
+        "visually",
+        "similar",
+        "images",
+        "commission",
+        "3",
+        "2",
+        "1",
+        "fantasy",
+        "pic",
+        "dnd",
+        "portrait",
+        "pathfinder",
+        "5e",
+        "##textrecognition",
+    };
+
+    private static char[] TrimChars = {',', ';', '+', ' ', '[', ']', '(', ')', '-', ':', '?', '!'};
+
+    private static Random RNG = new();
+
     public static bool FindTags => Environment.GetEnvironmentVariable("AZURE_APIKEY") != null && true;
-    
+
 
     public static async Task<int> Main(string[] args)
     {
@@ -86,12 +133,12 @@ class Program
                     {
                         if (!definition.Requeried && FindTags)
                         {
-                            definition.Tags = await GetLabels(definition.Source);
+                            definition.Tags = definition.Tags.Concat(await GetLabels(definition.Source)).Distinct().ToArray();
                             definition.Requeried = true;
                             var json = JsonSerializer.Serialize(definition, jsonOptions);
                             await File.WriteAllTextAsync(itm.Item2, json, token);
                         }
-                        
+
                         var (hash, size) = await GenerateThumbnail(archive, definition);
                         hashes.Add((definition, hash, size, path));
                     }
@@ -189,58 +236,8 @@ class Program
         return surface.Snapshot();
     }
 
-    
-    private static HashSet<string> FindInSites = new(StringComparer.OrdinalIgnoreCase)
-    {
-        "deviantart",
-        "pintrest",
-        "artstation"
-    };
-
-    private static HashSet<string> FilterWords = new(StringComparer.InvariantCultureIgnoreCase)
-    {
-        "on", "and", "in", "the", "on", "of", "after",
-        "artstation",
-        "-",
-        "pintrest",
-        "deviantart",
-        "instagram",
-        "youtube",
-        "at",
-        "http",
-        "https",
-        "by",
-        "art",
-        "dnd",
-        "|",
-        "/",
-        "...",
-        "best",
-        "visually",
-        "similar",
-        "images",
-        "commission",
-        "3",
-        "2",
-        "1",
-        "fantasy",
-        "pic",
-        "dnd",
-        "portrait",
-        "pathfinder",
-        "5e",
-        "##textrecognition",
-    };
-
-    private static char[] TrimChars = {',', ';', '+', ' ', '[', ']', '(', ')', '-', ':', '?', '!'};
-
-    private static Random RNG = new();
     private static async Task<string[]> GetLabels(Uri source)
     {
-        var apiKey = Environment.GetEnvironmentVariable("SCRAPER_APIKEY");
-        
-        TOP:
-
         string? googleResponse  = null;
 
         var data = await Client.GetByteArrayAsync(source);

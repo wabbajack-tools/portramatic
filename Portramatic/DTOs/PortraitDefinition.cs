@@ -54,6 +54,7 @@ public class CroppedImage
 
 public class PortraitDefinition
 {
+    
     [JsonPropertyName("source")] public Uri Source { get; set; }
 
     [JsonPropertyName("md5")] public string MD5 { get; set; }
@@ -69,6 +70,8 @@ public class PortraitDefinition
     [JsonPropertyName("version")] public int Version => 2;
     
     [JsonPropertyName("requeried")] public bool Requeried { get; set; }
+
+    [JsonPropertyName("nsfw")] public bool IsNSFW { get; set; } = false;
 
     public SKImage Crop(SKImage src, ImageSize size)
     {

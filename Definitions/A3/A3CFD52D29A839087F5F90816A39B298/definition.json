@@ -1,18 +1,20 @@
 {
-  "source": "https://external-preview.redd.it/mxZjnDP1e6DnB92QSDKGZaZR6HlK_5bVblo8PA43NpI.jpg?auto=webp&s=e7ae05384330ad44146c0f77c131215134d48543",
+  "source": "https://external-preview.redd.it/mxZjnDP1e6DnB92QSDKGZaZR6HlK_5bVblo8PA43NpI.jpg?auto=webp\u0026s=e7ae05384330ad44146c0f77c131215134d48543",
   "md5": "A3CFD52D29A839087F5F90816A39B298",
   "tags": [
-    "person",
-    "human",
-    "graphics",
-    "art",
-    "light",
-    "laser",
-    "witch",
-    "psyker",
-    "woman",
-    "elf",
-    "mage"
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "witness",
+    "dmitry",
+    "tsarev",
+    "2020",
+    "character",
+    "portraits",
+    "female",
+    "characters"
   ],
   "small": {
     "scale": 1.08,
@@ -32,5 +34,6 @@
     "offset_y": -7.9999999999998295,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

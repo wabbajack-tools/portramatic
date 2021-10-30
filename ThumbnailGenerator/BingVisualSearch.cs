@@ -12,7 +12,7 @@ public class BingVisualSearch
     static string StartBoundaryTemplate = "--{0}";
     static string EndBoundaryTemplate = "--{0}--";
     private static string? accessKey = Environment.GetEnvironmentVariable("AZURE_APIKEY");
-    private static string uriBase = "https://api.bing.microsoft.com/v7.0/images/visualsearch";
+    private static string uriBase = "https://api.bing.microsoft.com/v7.0/images/visualsearch?safeSearch=Off&mkt=US";
 
     private static HashSet<string> BackupSources = new HashSet<string>(StringComparer.InvariantCultureIgnoreCase)
     {

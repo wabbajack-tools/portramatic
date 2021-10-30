@@ -1,8 +1,12 @@
 {
-  "source": "https://pbs.twimg.com/media/EtUBZr6VEAEIccv?format=png&name=900x900",
+  "source": "https://pbs.twimg.com/media/EtUBZr6VEAEIccv?format=png\u0026name=900x900",
   "md5": "C4D94B7D40D41FD9614BA1ED36FA7EAC",
   "tags": [
-    ""
+    "genshin",
+    "impact",
+    "switch",
+    "elements",
+    "multiplayer"
   ],
   "small": {
     "scale": 0.3199999999999994,
@@ -22,5 +26,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

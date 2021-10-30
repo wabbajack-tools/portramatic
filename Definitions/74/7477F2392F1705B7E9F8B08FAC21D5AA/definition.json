@@ -1,11 +1,13 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/018/338/344/large/alex-flores-godkingdarius-alexflores.jpg?1559077746&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/018/338/344/large/alex-flores-godkingdarius-alexflores.jpg?1559077746\u0026dl=1",
   "md5": "7477F2392F1705B7E9F8B08FAC21D5AA",
   "tags": [
-    "painting",
-    "art",
-    "dragon",
-    "League"
+    "god",
+    "king",
+    "darius",
+    "alex",
+    "flores",
+    "splash"
   ],
   "small": {
     "scale": 1.06,
@@ -25,5 +27,6 @@
     "offset_y": -9.600000000000705,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

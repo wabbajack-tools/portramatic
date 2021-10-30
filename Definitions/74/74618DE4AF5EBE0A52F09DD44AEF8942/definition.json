@@ -2,16 +2,8 @@
   "source": "https://i.imgur.com/i3hn3P7.jpeg",
   "md5": "74618DE4AF5EBE0A52F09DD44AEF8942",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "samurai",
-    ""
+    "dwarf",
+    "samurai"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -31,5 +23,6 @@
     "offset_y": -150,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

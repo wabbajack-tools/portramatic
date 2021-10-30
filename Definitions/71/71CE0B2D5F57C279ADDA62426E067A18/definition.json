@@ -2,22 +2,10 @@
   "source": "https://i.pinimg.com/564x/b8/83/97/b883971031f0fe24d654ff3b5cea060a.jpg",
   "md5": "71CE0B2D5F57C279ADDA62426E067A18",
   "tags": [
-    "person",
-    "human",
-    "art",
     "angel",
-    "archangel",
-    "kneeling",
-    "painting",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "token",
+    "mtg",
+    "full"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -37,5 +25,6 @@
     "offset_y": -122,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

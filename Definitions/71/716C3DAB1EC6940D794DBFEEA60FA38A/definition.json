@@ -2,17 +2,12 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/884/335/large/elena-matyush-final-1.jpg?1454229424",
   "md5": "716C3DAB1EC6940D794DBFEEA60FA38A",
   "tags": [
-    "person",
-    "human",
-    "light",
-    "laser",
-    "painting",
-    "art",
-    "mage",
-    "necromancer",
     "undead",
-    "lich",
-    ""
+    "padme",
+    "amidala",
+    "elena",
+    "matyush",
+    "leinara"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -32,5 +27,6 @@
     "offset_y": -85.33333333333343,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

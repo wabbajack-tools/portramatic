@@ -2,11 +2,8 @@
   "source": "https://www.joshuad.net/wp-content/uploads/2010/06/7-1.jpg",
   "md5": "727033E669FEB8B32662E3121306800B",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    ""
+    "bladesinger",
+    "wizard"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -26,5 +23,6 @@
     "offset_y": -14.666666666666742,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

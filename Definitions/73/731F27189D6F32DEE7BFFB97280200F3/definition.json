@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/564x/28/cd/3a/28cd3a298cab19d130f27a89d7717f5f.jpg",
   "md5": "731F27189D6F32DEE7BFFB97280200F3",
   "tags": [
-    "person",
-    "human",
-    "face",
-    "clothing",
-    "apparel",
-    "portrait",
-    "photography",
-    "photo",
-    "samurai",
-    ""
+    "dwarf",
+    "samurai"
   ],
   "small": {
     "scale": 1.669999999999999,
@@ -31,5 +23,6 @@
     "offset_y": -94.66666666666714,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,16 +1,11 @@
 {
-  "source": "https://external-preview.redd.it/aznivH3kqPE8b8qa4QWaIYx1vwjw9N1ycqxDew_YNcE.jpg?auto=webp&s=92d39624d9db3aad42c8b13801ec3bc9cdd78f34",
+  "source": "https://external-preview.redd.it/aznivH3kqPE8b8qa4QWaIYx1vwjw9N1ycqxDew_YNcE.jpg?auto=webp\u0026s=92d39624d9db3aad42c8b13801ec3bc9cdd78f34",
   "md5": "737EC845B83C8CF6A943713F657A6DDF",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "statue",
-    "art",
-    "sculpture",
-    ""
+    "pathfinder",
+    "kingmaker",
+    "aasimar",
+    "portraits"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +25,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

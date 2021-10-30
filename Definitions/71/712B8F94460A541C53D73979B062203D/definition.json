@@ -2,16 +2,8 @@
   "source": "http://images4.fanpop.com/image/photos/24000000/Fantasy-Warrior-Angel-fantasy-24087994-1279-901.jpg",
   "md5": "712B8F94460A541C53D73979B062203D",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "bird",
-    "animal",
-    "angel",
-    "archangel",
-    "knight",
-    "painting",
-    ""
+    "light",
+    "warrior"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -31,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

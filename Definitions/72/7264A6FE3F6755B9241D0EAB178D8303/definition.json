@@ -2,31 +2,9 @@
   "source": "https://i.pinimg.com/564x/da/c6/fa/dac6fafac4fb96213a10fd5edf21625a.jpg",
   "md5": "7264A6FE3F6755B9241D0EAB178D8303",
   "tags": [
-    "costume",
-    "person",
-    "human",
     "female",
-    "clothing",
-    "apparel",
-    "elf",
-    "art",
-    "graphics",
-    "painting",
-    "horse",
-    "animal",
-    "mammal",
-    "modern art",
-    "manga",
-    "book",
-    "comics",
-    "pattern",
-    "fractal",
-    "ornament",
-    "sweets",
-    "food",
-    "confectionery",
-    "succubus",
-    "demon"
+    "character",
+    "magic"
   ],
   "small": {
     "scale": 1,
@@ -46,5 +24,6 @@
     "offset_y": 336.20370370370347,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

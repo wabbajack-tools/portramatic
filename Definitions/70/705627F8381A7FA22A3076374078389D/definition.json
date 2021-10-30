@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/474x/92/09/4b/92094bc53b1f8e9ce7996eb89bfa9d78--fantasy-warrior-fantasy-art.jpg",
   "md5": "705627F8381A7FA22A3076374078389D",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "samurai",
-    "duel",
-    "sweets",
-    "food",
-    "confectionery",
-    ""
+    "legend",
+    "cryptids",
+    "knight"
   ],
   "small": {
     "scale": 1.4600000000000004,
@@ -30,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

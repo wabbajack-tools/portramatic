@@ -2,14 +2,7 @@
   "source": "https://img.antibk.org/i/obraz/0/ruft.jpg",
   "md5": "75420C829EE762207796772B68D7F883",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "knight",
-    ""
+    "reaper"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +22,6 @@
     "offset_y": -38.666666666666686,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

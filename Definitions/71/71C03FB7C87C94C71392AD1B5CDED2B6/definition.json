@@ -2,17 +2,9 @@
   "source": "https://pbs.twimg.com/media/DmMfblpX4AUTupN.jpg",
   "md5": "71C03FB7C87C94C71392AD1B5CDED2B6",
   "tags": [
-    "clothing",
-    "apparel",
-    "overcoat",
-    "coat",
-    "person",
-    "human",
-    "trench coat",
-    "jacket",
-    "suit",
-    "costume",
-    ""
+    "loki",
+    "memes",
+    "dirty"
   ],
   "small": {
     "scale": 1,
@@ -28,9 +20,10 @@
   },
   "full": {
     "scale": 1.61,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -3.203703703703411,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

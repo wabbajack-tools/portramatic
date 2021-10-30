@@ -3,6 +3,7 @@
 using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.IO.Compression;
+using System.Net;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
@@ -31,7 +32,9 @@ class Program
     {
         QueryTimer.Restart();
         
+        
         Client.DefaultRequestHeaders.Add("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36");
+        //Client.DefaultRequestHeaders.Add("User-Agent","portramatic");
         
         var files = Directory.EnumerateFiles(Path.Combine(args[0], "Definitions"), "definition.json",
                 SearchOption.AllDirectories)
@@ -54,7 +57,7 @@ class Program
 
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
 
-        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = 32};
+        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = 9};
 
         var outputMemoryStream = new MemoryStream();
         {
@@ -70,7 +73,7 @@ class Program
                     {
                         bool reSave = false;
                     var (definition, path, idx) = itm;
-                    if (!definition.Requeried)
+                    if (!definition.Requeried && Environment.GetEnvironmentVariable("SCRAPER_APIKEY") != null)
                     {
                         definition.Tags = await GetLabels(definition.Source);
                         definition.Requeried = true;
@@ -180,14 +183,14 @@ class Program
     }
 
     
-    private static HashSet<string> FindInSites = new HashSet<string>()
+    private static HashSet<string> FindInSites = new(StringComparer.OrdinalIgnoreCase)
     {
         "deviantart",
         "pintrest",
         "artstation"
     };
 
-    private static HashSet<string> FilterWords = new HashSet<string>()
+    private static HashSet<string> FilterWords = new(StringComparer.InvariantCultureIgnoreCase)
     {
         "on", "and", "in", "the", "on", "of", "after",
         "artstation",
@@ -201,31 +204,49 @@ class Program
         "/",
         "...",
         "best",
-        "visually"
+        "visually",
         "similar",
         "images",
         "commission",
         "3",
         "2",
-        "1"
+        "1",
+        "fantasy"
     };
 
-    private static char[] TrimChars = {',', ';', '+', ' ', '[', ']', '(', ')', '-', ":"};
+    private static char[] TrimChars = {',', ';', '+', ' ', '[', ']', '(', ')', '-', ':', '?', '!'};
 
     private static Random RNG = new();
     private static async Task<string[]> GetLabels(Uri source)
     {
+        var apiKey = Environment.GetEnvironmentVariable("SCRAPER_APIKEY");
+        
         TOP:
 
-        var googleResponse =
-                await Client.GetStringAsync(
-                    $"https://www.google.com/searchbyimage?image_url={HttpUtility.UrlEncode(source.ToString())}");
+        string? googleResponse;
 
-        if (!googleResponse.Contains("Possible related search:"))
+
+        try
         {
-            await Task.Delay(TimeSpan.FromMilliseconds(RNG.Next(500, 3000)));
+            googleResponse =
+                await Client.GetStringAsync(
+                    $"http://api.scraperapi.com?api_key={apiKey}&url=https://www.google.com/searchbyimage?image_url={HttpUtility.UrlEncode(source.ToString())}");
+        }
+        catch (HttpRequestException ex)
+        {
+            if (ex.StatusCode is HttpStatusCode.TooManyRequests or HttpStatusCode.InternalServerError )
+                googleResponse = null;
+            else
+                throw;
+        }
+
+        if (googleResponse == null || !googleResponse.Contains("Possible related search:"))
+        {
+            Console.WriteLine("Rate Limited");
+            await Task.Delay(TimeSpan.FromMilliseconds(RNG.Next(100, 1000)));
             goto TOP;
         }
+        Console.WriteLine("Got Tags");
         
             var doc = new HtmlDocument();
             doc.LoadHtml(googleResponse);
@@ -250,6 +271,7 @@ class Program
             var alltags = resultsTitles.Concat(results)
                 .SelectMany(s => s.Split(" ", StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries))
                 .Select(s => s.ToLower().Trim(TrimChars))
+                .Where(s => !string.IsNullOrWhiteSpace(s))
                 .Distinct()
                 .Where(t => !FilterWords.Contains(t))
                 .ToArray();

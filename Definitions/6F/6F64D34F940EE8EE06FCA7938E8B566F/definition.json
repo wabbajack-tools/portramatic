@@ -1,16 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/Ex_C2teWEAIsn_E?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/Ex_C2teWEAIsn_E?format=jpg\u0026name=large",
   "md5": "6F64D34F940EE8EE06FCA7938E8B566F",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "angel",
-    "archangel",
-    "figurine",
-    "sculpture",
-    ""
+    "mythical",
+    "creature"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -30,5 +23,6 @@
     "offset_y": -514.3999999999991,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

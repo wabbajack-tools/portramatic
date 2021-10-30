@@ -2,16 +2,10 @@
   "source": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/9/99/PlayerArcher02.png/revision/latest/scale-to-width-down/300?cb=20180927134250",
   "md5": "72F1777EA6C63A29BFE9C2CC016577DB",
   "tags": [
-    "archer",
-    "person",
-    "archery",
-    "sport",
-    "bow",
-    "human",
-    "sports",
-    "painting",
-    "art",
-    ""
+    "pathfinder",
+    "kingmaker",
+    "portraits",
+    "archer"
   ],
   "small": {
     "scale": 1.2900000000000003,
@@ -31,5 +25,6 @@
     "offset_y": -1.3333333333337691,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

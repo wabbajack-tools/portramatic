@@ -2,19 +2,8 @@
   "source": "https://i.pinimg.com/originals/da/cb/8f/dacb8f3a50eeaab7c406ad00757ecc18.png",
   "md5": "71D6F75A713AA33A6FD86E3F645C4035",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "armor",
-    "knight",
-    "helmet",
-    "duel",
-    "bird",
-    "animal",
-    "samurai",
-    "cavalier",
-    "mounted"
+    "lyonel",
+    "baratheon"
   ],
   "small": {
     "scale": 0.99,
@@ -34,5 +23,6 @@
     "offset_y": -74.68518518518533,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

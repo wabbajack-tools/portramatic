@@ -2,27 +2,10 @@
   "source": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/legacy-images/imagefeed/The%20World%20Of%20Assassin%E2%80%99s%20Creed%20III/ac3_ca_sp_08_connor.jpg",
   "md5": "73F49ACBBD4AFB1D73DFB168546DB4D0",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "bronze",
-    "armor",
-    "knight",
-    "face",
-    "head",
-    "art",
-    "portrait",
-    "photography",
-    "photo",
-    "hair",
-    "clothing",
-    "apparel",
-    "plant",
-    "robe",
-    "fashion",
-    "gown",
-    "skin",
-    ""
+    "connor",
+    "assassin\u0027s",
+    "creed",
+    "concept"
   ],
   "small": {
     "scale": 2.1999999999999966,
@@ -42,5 +25,6 @@
     "offset_y": -106.05555555555532,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

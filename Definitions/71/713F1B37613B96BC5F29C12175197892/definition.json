@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/originals/ba/34/8e/ba348eb47975d34b43f5ca2a6c77415c.png",
   "md5": "713F1B37613B96BC5F29C12175197892",
   "tags": [
-    "armor",
-    "costume",
-    "person",
-    "human",
-    "bronze",
-    ""
+    "male",
+    "warrior"
   ],
   "small": {
     "scale": 2.079999999999999,
@@ -27,5 +23,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

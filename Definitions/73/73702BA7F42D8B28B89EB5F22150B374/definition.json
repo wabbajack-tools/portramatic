@@ -2,16 +2,13 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/005/311/235/large/anna-podedworna-assire1.jpg?1490122307",
   "md5": "73702BA7F42D8B28B89EB5F22150B374",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "cloak",
-    "fashion",
-    "legend of zelda",
-    ""
+    "assire",
+    "var",
+    "anahid",
+    "gwent",
+    "card",
+    "anna",
+    "podedworna"
   ],
   "small": {
     "scale": 1.14,
@@ -31,5 +28,6 @@
     "offset_y": -80,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

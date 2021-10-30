@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/originals/37/2b/35/372b35025a9131086a6cfe524db1f1a6.jpg",
   "md5": "7434EF27F847A14E67E2711F91E68E66",
   "tags": [
-    "person",
-    "human",
-    "sword",
-    "weapon",
-    "blade",
-    "weaponry",
-    "costume",
     "armor",
-    ""
+    "female",
+    "helmet"
   ],
   "small": {
     "scale": 1.11,
@@ -30,5 +24,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

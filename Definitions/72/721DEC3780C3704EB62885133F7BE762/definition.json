@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/66/96/8c/66968c823f767623b9ff1399679a2022.jpg",
   "md5": "721DEC3780C3704EB62885133F7BE762",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "weapon",
-    "weaponry",
     "female",
-    "female mage"
+    "noble"
   ],
   "small": {
     "scale": 2.6299999999999875,
@@ -27,8 +20,9 @@
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -27.231481481479932,
-    "offset_y": 4.547473508864641e-13,
+    "offset_y": 4.547473508864641E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,9 @@
   "source": "https://wallup.net/wp-content/uploads/2018/03/17/539620-fantasy_girl-fantasy_art.jpg",
   "md5": "7212EE6E5B9359779EA4AB44DA24CEE1",
   "tags": [
-    "horse",
-    "animal",
-    "mammal",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "final fantasy",
-    "costume",
-    "stallion",
-    "equestrian",
-    ""
+    "female",
+    "warrior",
+    "horse"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -33,5 +24,6 @@
     "offset_y": -224,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/43/5e/e9/435ee98950f01694b88a9cead89c0589.jpg",
   "md5": "73D93E74463734D4BB4D6644D79AFCF0",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "toy",
-    "ninja",
-    "costume",
-    "clothing",
-    "apparel",
-    ""
+    "japanese",
+    "oni"
   ],
   "small": {
     "scale": 1.4700000000000004,
@@ -30,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

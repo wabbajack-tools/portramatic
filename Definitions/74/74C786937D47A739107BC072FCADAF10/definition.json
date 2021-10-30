@@ -2,16 +2,11 @@
   "source": "https://i.pinimg.com/736x/95/d3/fc/95d3fc11da9ffcfd9559e11c0ca8f0f2.jpg",
   "md5": "74C786937D47A739107BC072FCADAF10",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "doll",
-    "toy",
-    "person",
-    "human",
-    "cosplay",
-    "cape",
-    ""
+    "female",
+    "high",
+    "elf",
+    "arcane",
+    "trickster"
   ],
   "small": {
     "scale": 1,
@@ -31,5 +26,6 @@
     "offset_y": -23,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

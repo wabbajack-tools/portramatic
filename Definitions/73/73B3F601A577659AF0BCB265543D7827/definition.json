@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/40/fd/2c/40fd2c11336d8dbb627509e1d4358ba0.jpg",
   "md5": "73B3F601A577659AF0BCB265543D7827",
   "tags": [
-    "person",
-    "human",
-    "mammal",
-    "animal",
-    "dog",
-    "canine",
-    "pet",
-    "world of warcraft",
-    ""
+    "gnome",
+    "bard"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -27,8 +20,9 @@
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -1.333333333333485,
-    "offset_y": 4.547473508864641e-13,
+    "offset_y": 4.547473508864641E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

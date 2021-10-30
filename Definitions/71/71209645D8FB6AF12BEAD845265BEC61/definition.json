@@ -1,17 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/ErUFQx7W8AECCbF?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/ErUFQx7W8AECCbF?format=jpg\u0026name=4096x4096",
   "md5": "71209645D8FB6AF12BEAD845265BEC61",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "art",
-    "clothing",
-    "apparel",
-    "manga",
-    "book",
-    "comics",
-    "tiefling"
+    "mythical",
+    "creature"
   ],
   "small": {
     "scale": 0.24999999999999944,
@@ -31,5 +23,6 @@
     "offset_y": -27.428571428571445,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

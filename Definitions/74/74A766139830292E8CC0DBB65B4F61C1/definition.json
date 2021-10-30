@@ -2,12 +2,7 @@
   "source": "https://mocah.org/uploads/posts/4522465-wizard-men-beards-artwork-magic-robes-video-games.jpg",
   "md5": "74A766139830292E8CC0DBB65B4F61C1",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "costume",
-    "mage"
+    "wizard"
   ],
   "small": {
     "scale": 1.03,
@@ -27,5 +22,6 @@
     "offset_y": -49,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

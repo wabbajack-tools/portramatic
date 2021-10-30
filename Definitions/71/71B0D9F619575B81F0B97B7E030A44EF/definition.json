@@ -2,12 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/018/077/700/large/s-tg-20151103-20190520-s.jpg?1558324773",
   "md5": "71B0D9F619575B81F0B97B7E030A44EF",
   "tags": [
-    "person",
-    "human",
-    "photography",
-    "photo",
-    "samurai",
-    ""
+    "character",
+    "tg"
   ],
   "small": {
     "scale": 1.3900000000000003,
@@ -27,5 +23,6 @@
     "offset_y": -11.21296296296282,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

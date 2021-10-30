@@ -2,13 +2,8 @@
   "source": "https://i.pinimg.com/736x/b4/dc/03/b4dc03c13125f88b02c65dfe4669a772.jpg",
   "md5": "72A85EDE4A594F7FC77CABD19D436D21",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "costume",
-    "samurai",
-    "bow",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +23,6 @@
     "offset_y": 2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,24 +2,8 @@
   "source": "https://inews.gtimg.com/newsapp_bt/0/4159996653/641",
   "md5": "1C0D36E288B1F5E89AFDE34B32BC78CE",
   "tags": [
-    "art",
-    "angel",
-    "archangel",
-    "bonfire",
-    "fire",
-    "flame",
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
     "female",
-    "cosplay",
-    "plant",
-    "symbol",
-    "emblem",
-    "woman",
-    ""
+    "archangel"
   ],
   "small": {
     "scale": 0.96,
@@ -39,5 +23,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

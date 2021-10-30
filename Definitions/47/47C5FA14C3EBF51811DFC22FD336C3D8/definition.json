@@ -2,11 +2,8 @@
   "source": "http://oakthorne.net/wiki/images/thumb/Charity.jpg/442px-Charity.jpg",
   "md5": "47C5FA14C3EBF51811DFC22FD336C3D8",
   "tags": [
-    "elf",
-    "person",
-    "human",
-    "book",
-    ""
+    "female",
+    "satyr"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -26,5 +23,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,26 +2,8 @@
   "source": "https://i.pinimg.com/originals/f1/df/73/f1df734f790f263b070b0b0dce337e47.jpg",
   "md5": "682C050471C85DC389D52B93EFCFB8AA",
   "tags": [
-    "vegetation",
-    "plant",
-    "painting",
-    "art",
-    "wolf",
-    "mammal",
-    "animal",
-    "person",
-    "human",
-    "land",
-    "outdoors",
-    "nature",
-    "woodland",
-    "forest",
-    "tree",
-    "jungle",
-    "coyote",
-    "red wolf",
-    "canine",
-    ""
+    "elf",
+    "wolf"
   ],
   "small": {
     "scale": 1.08,
@@ -41,5 +23,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

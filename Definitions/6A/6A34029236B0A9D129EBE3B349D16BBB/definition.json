@@ -2,16 +2,8 @@
   "source": "https://i.imgur.com/2ikFLpT.jpg",
   "md5": "6A34029236B0A9D129EBE3B349D16BBB",
   "tags": [
-    "art",
-    "person",
-    "human",
-    "graphics",
-    "clothing",
-    "apparel",
     "female",
-    "painting",
-    "elf",
-    ""
+    "medieval"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -31,5 +23,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

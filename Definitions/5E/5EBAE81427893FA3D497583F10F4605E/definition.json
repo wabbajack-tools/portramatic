@@ -2,13 +2,12 @@
   "source": "https://www.warhammer-community.com/wp-content/uploads/2017/01/belisarius-feature.jpg",
   "md5": "5EBAE81427893FA3D497583F10F4605E",
   "tags": [
-    "painting",
-    "art",
-    "costume",
-    "knight",
-    "smile",
-    "face",
-    ""
+    "warhammer",
+    "40k",
+    "adeptus",
+    "mechanicus",
+    "tech",
+    "priest"
   ],
   "small": {
     "scale": 1.05,
@@ -28,5 +27,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

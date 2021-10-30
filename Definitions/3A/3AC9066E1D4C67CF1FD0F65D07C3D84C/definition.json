@@ -2,15 +2,7 @@
   "source": "https://i.pinimg.com/564x/b7/ae/e3/b7aee3a113e127ad8b98e313a306eeec.jpg",
   "md5": "3AC9066E1D4C67CF1FD0F65D07C3D84C",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "painting",
-    "angel",
-    "archangel",
-    "world of warcraft",
-    "armor",
-    ""
+    "paladin"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -30,5 +22,6 @@
     "offset_y": -5.2962962962967595,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

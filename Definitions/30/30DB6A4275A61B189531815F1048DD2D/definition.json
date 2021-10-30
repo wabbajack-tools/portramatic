@@ -1,12 +1,15 @@
 {
-  "source": "https://pbs.twimg.com/media/Ee01S7HVAAAZRsO?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/Ee01S7HVAAAZRsO?format=jpg\u0026name=4096x4096",
   "md5": "30DB6A4275A61B189531815F1048DD2D",
   "tags": [
-    "person",
-    "human",
-    "bird",
-    "animal",
-    ""
+    "pathfinder",
+    "original",
+    "character",
+    "portraits",
+    "frost",
+    "llamzon",
+    "white",
+    "kitsune"
   ],
   "small": {
     "scale": 0.25999999999999934,
@@ -26,5 +29,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,22 +2,9 @@
   "source": "https://i.pinimg.com/originals/40/1a/91/401a91a21a16410d728266c58a047058.jpg",
   "md5": "57B3832A7C3DB4D654DA0CBD9FBF4BDB",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "bird",
-    "animal",
-    "clothing",
-    "apparel",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "art",
-    "horse",
-    "mammal",
-    "angel",
-    "aasimar"
+    "legend",
+    "monsters",
+    "female"
   ],
   "small": {
     "scale": 1.2600000000000002,
@@ -37,5 +24,6 @@
     "offset_y": -73,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

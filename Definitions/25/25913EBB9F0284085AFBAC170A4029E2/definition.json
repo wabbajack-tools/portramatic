@@ -2,19 +2,7 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2099241/file_2099241.jpg?v=1282363211",
   "md5": "25913EBB9F0284085AFBAC170A4029E2",
   "tags": [
-    "skin",
-    "person",
-    "human",
-    "fireplace",
-    "indoors",
-    "costume",
-    "painting",
-    "art",
-    "tattoo",
-    "hearth",
-    "fire",
-    "alien",
-    ""
+    "demon"
   ],
   "small": {
     "scale": 0.98,
@@ -34,5 +22,6 @@
     "offset_y": -74,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

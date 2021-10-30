@@ -2,16 +2,12 @@
   "source": "https://img3.gelbooru.com/images/5f/4e/5f4ee80f20be866d3c5a775ea99d4013.jpg",
   "md5": "5F4EE80F20BE866D3C5A775EA99D4013",
   "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "person",
-    "human",
-    "robe",
-    "fashion",
-    "coat",
-    "leisure activities",
-    "shirabe"
+    "fandom",
+    "shirabe",
+    "tsukuyomi",
+    "senki",
+    "zesshou",
+    "symphogear"
   ],
   "small": {
     "scale": 1.2600000000000002,
@@ -31,5 +27,6 @@
     "offset_y": -106,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

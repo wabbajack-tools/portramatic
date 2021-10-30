@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/4b/c8/d1/4bc8d119bcaad475245dedc4c3e511b0.jpg",
   "md5": "2F814BAA5B18B98A67672611B8426792",
   "tags": [
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "costume",
-    "fashion",
-    "Magic",
     "undead",
-    "Lich"
+    "queen"
   ],
   "small": {
     "scale": 1.04,
@@ -27,8 +20,9 @@
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": 0,
-    "offset_y": -6.821210263296962e-13,
+    "offset_y": -6.821210263296962E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,13 +2,15 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/128/540/large/jerry-park-4.jpg?1517292755",
   "md5": "3732BBB75F9486C0DD05897C2353D417",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    "figurine",
-    "female mage"
+    "angel",
+    "jerry",
+    "park",
+    "lighting",
+    "test",
+    "warborn",
+    "dwarf",
+    "\uC81C\uB9AC",
+    "\uBC15"
   ],
   "small": {
     "scale": 0.97,
@@ -25,8 +27,9 @@
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -28.83333333333212,
-    "offset_y": 6.821210263296962e-13,
+    "offset_y": 6.821210263296962E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

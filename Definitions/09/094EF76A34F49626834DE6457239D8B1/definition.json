@@ -2,17 +2,10 @@
   "source": "https://i.pinimg.com/564x/f7/49/03/f7490325868e475500ef2f76f50f35cf.jpg",
   "md5": "094EF76A34F49626834DE6457239D8B1",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "horse",
-    "animal",
-    "mammal",
-    "samurai",
-    "duel",
-    "painting",
-    "art",
-    "kitsune"
+    "furry",
+    "wolf",
+    "warrior",
+    "girl"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -32,5 +25,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

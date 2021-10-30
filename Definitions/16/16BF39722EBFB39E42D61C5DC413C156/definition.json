@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/originals/9c/26/df/9c26df6314a0fcb41a00c8f424d00f61.png",
   "md5": "16BF39722EBFB39E42D61C5DC413C156",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "archery",
-    "bow",
-    "costume",
-    "archer",
-    ""
+    "male",
+    "halfling",
+    "ranger"
   ],
   "small": {
     "scale": 1.0099999999999996,
@@ -30,5 +24,6 @@
     "offset_y": -111,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

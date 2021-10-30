@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/originals/20/ac/20/20ac2074785021dbf3f737bb38043f16.jpg",
   "md5": "44DDD6BEC224B9DB3FA996342731D0D2",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "archer"
+    "english",
+    "longbowman"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -29,5 +23,6 @@
     "offset_y": -13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

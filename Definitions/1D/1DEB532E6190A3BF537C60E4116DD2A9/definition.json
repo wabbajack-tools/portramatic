@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/564x/04/1a/46/041a465d5ce836c9fc56d4509c44d1df.jpg",
   "md5": "1DEB532E6190A3BF537C60E4116DD2A9",
   "tags": [
-    "archer",
-    "archery",
-    "person",
-    "bow",
-    "sport",
-    "human",
-    "sports",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.3100000000000003,
@@ -29,5 +23,6 @@
     "offset_y": -72.08333333333314,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

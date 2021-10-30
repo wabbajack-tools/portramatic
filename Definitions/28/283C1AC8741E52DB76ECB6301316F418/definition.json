@@ -2,19 +2,9 @@
   "source": "https://i.pinimg.com/originals/a4/84/4f/a4844f0368b9746f75bfafad5989293c.png",
   "md5": "283C1AC8741E52DB76ECB6301316F418",
   "tags": [
-    "person",
-    "human",
-    "bow",
-    "sport",
-    "sports",
-    "archery",
-    "manga",
-    "book",
-    "comics",
     "female",
     "fire",
-    "mage",
-    "elf"
+    "mage"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -34,5 +24,6 @@
     "offset_y": -13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

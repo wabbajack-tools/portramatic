@@ -2,17 +2,10 @@
   "source": "https://gamepress.gg/feheroes/sites/fireemblem/files/2020-08/Face_8.png",
   "md5": "2A73BB1213D07AED1A06FD66A3C1FCEA",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "bow",
-    "costume",
-    "archery",
-    "sport",
-    "sports",
-    "clothing",
-    "apparel",
-    "Claude"
+    "claude",
+    "fire",
+    "emblem",
+    "heroes"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -32,5 +25,6 @@
     "offset_y": 12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

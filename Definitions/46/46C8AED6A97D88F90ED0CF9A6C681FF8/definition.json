@@ -1,17 +1,7 @@
 {
   "source": "https://i.pinimg.com/736x/4c/e3/f6/4ce3f6c87dc67caec219eb5b5a064a1f.jpg",
   "md5": "46C8AED6A97D88F90ED0CF9A6C681FF8",
-  "tags": [
-    "face",
-    "person",
-    "human",
-    "beard",
-    "art",
-    "portrait",
-    "photography",
-    "photo",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1,
     "offset_x": -262.6666666666668,
@@ -30,5 +20,6 @@
     "offset_y": -5.3333333333332575,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

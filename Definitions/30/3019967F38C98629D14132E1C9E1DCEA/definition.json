@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/564x/26/bd/f9/26bdf99f264c4430aca3a7f4de3f4a7f.jpg",
   "md5": "3019967F38C98629D14132E1C9E1DCEA",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "samurai",
-    "clothing",
-    "apparel",
-    ""
+    "male",
+    "warlock"
   ],
   "small": {
     "scale": 1.11,
@@ -29,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

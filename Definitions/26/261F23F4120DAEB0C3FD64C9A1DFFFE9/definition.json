@@ -2,17 +2,8 @@
   "source": "https://i.4pcdn.org/tg/1545041029666.png",
   "md5": "261F23F4120DAEB0C3FD64C9A1DFFFE9",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "armor",
-    "cloak",
-    "fashion",
-    "knight",
-    "paladin",
-    "sword"
+    "pathfinder",
+    "paladin"
   ],
   "small": {
     "scale": 1.07,
@@ -32,5 +23,6 @@
     "offset_y": -21.333333333333258,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

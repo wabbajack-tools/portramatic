@@ -2,15 +2,10 @@
   "source": "https://clydecaldwell.com/wp-content/uploads/2016/02/Marvelous-Magic.jpg",
   "md5": "17F9BEB77F4AEBD3DECF4A38727A1C27",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "furniture",
-    "mage",
-    "wizard",
-    "warlock",
-    "staff"
+    "gateway",
+    "to",
+    "savage",
+    "frontier"
   ],
   "small": {
     "scale": 0.94,
@@ -30,5 +25,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

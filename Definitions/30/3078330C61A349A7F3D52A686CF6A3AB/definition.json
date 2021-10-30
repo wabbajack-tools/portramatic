@@ -2,23 +2,9 @@
   "source": "http://d1lfunetf0rx3e.cloudfront.net/production%2F1615473923822-tmh3zhko4gi-2e96b0212ca40a0510de971f4b75e416",
   "md5": "3078330C61A349A7F3D52A686CF6A3AB",
   "tags": [
-    "lute",
-    "musical instrument",
-    "person",
     "human",
-    "guitar",
-    "leisure activities",
-    "clothing",
-    "apparel",
-    "wolf",
-    "mammal",
-    "animal",
-    "bird",
-    "art",
-    "female",
-    "costume",
-    "pet",
-    ""
+    "bard",
+    "female"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -38,5 +24,6 @@
     "offset_y": -4.333333333333428,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

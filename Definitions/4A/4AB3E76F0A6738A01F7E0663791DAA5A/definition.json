@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/originals/85/3e/cb/853ecb74bcc38d4083e9fc498de0bf4e.png",
   "md5": "4AB3E76F0A6738A01F7E0663791DAA5A",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "bronze",
-    "armor",
-    ""
+    "ice",
+    "samurai"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +23,6 @@
     "offset_y": -120,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,11 @@
   "source": "https://i.pinimg.com/originals/48/99/2d/48992d2f047c91e79051bfbe939c5385.png",
   "md5": "0BD7740EB63793DF6A60F7FF859E8437",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    "cleric"
+    "character",
+    "set",
+    "india-lee",
+    "crews",
+    "fictional"
   ],
   "small": {
     "scale": 1.1,
@@ -30,5 +26,6 @@
     "offset_y": -17.620370370370154,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

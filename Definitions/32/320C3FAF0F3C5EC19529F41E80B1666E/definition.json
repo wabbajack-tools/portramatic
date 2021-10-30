@@ -2,14 +2,8 @@
   "source": "https://static.wikia.nocookie.net/warhammerfb/images/f/fa/Dwarf_Thane.PNG/revision/latest?cb=20150916203636",
   "md5": "320C3FAF0F3C5EC19529F41E80B1666E",
   "tags": [
-    "samurai",
-    "painting",
-    "art",
-    "knight",
-    "duel",
-    "weapon",
-    "weaponry",
-    ""
+    "warhammer",
+    "dwarf"
   ],
   "small": {
     "scale": 0.2999999999999994,
@@ -29,5 +23,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

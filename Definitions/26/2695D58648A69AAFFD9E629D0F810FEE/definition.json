@@ -2,27 +2,8 @@
   "source": "https://64.media.tumblr.com/90d6b90d39564765f6eb7e1e0d8c3701/tumblr_o7ou92wkLq1uhif8zo1_1280.jpg",
   "md5": "2695D58648A69AAFFD9E629D0F810FEE",
   "tags": [
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "fashion",
-    "person",
-    "human",
-    "cloak",
-    "hood",
-    "costume",
-    "knight",
-    "graphics",
-    "modern art",
-    "photography",
-    "photo",
-    "duel",
-    "samurai",
-    "female",
-    "dancer",
-    "mage",
-    "assassin"
+    "mago",
+    "aasimar"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -42,5 +23,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

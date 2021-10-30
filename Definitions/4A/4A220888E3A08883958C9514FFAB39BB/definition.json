@@ -1,14 +1,11 @@
 {
-  "source": "https://static.wikia.nocookie.net/mightandmagic/images/f/fd/Sandro.jpg/revision/latest/scale-to-width-down/650?cb=20150115203140&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/mightandmagic/images/f/fd/Sandro.jpg/revision/latest/scale-to-width-down/650?cb=20150115203140\u0026path-prefix=en",
   "md5": "4A220888E3A08883958C9514FFAB39BB",
   "tags": [
-    "sunglasses",
-    "accessories",
-    "accessory",
-    "person",
-    "human",
-    "light",
-    ""
+    "heroes",
+    "might",
+    "magic",
+    "sandro"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +25,6 @@
     "offset_y": 178,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

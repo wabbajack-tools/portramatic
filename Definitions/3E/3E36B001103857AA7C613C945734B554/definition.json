@@ -2,17 +2,9 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/005/779/809/large/sun-haiyang-2016040615.jpg?1493725623",
   "md5": "3E36B001103857AA7C613C945734B554",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "cape",
-    "fashion",
-    "cloak",
-    "coat",
-    "samurai",
-    ""
+    "elven",
+    "queen",
+    "armor"
   ],
   "small": {
     "scale": 0.7399999999999998,
@@ -32,5 +24,6 @@
     "offset_y": -30.85714285714289,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

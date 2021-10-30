@@ -2,11 +2,8 @@
   "source": "https://i.pinimg.com/564x/d9/2f/63/d92f63623c51c7f51c05f493f17190fb.jpg",
   "md5": "3CA99F2EAF6BE6858810ABF3CD8E9E2F",
   "tags": [
-    "painting",
-    "art",
-    "knight",
-    "dragon",
-    ""
+    "mephistopheles",
+    "pathfinder"
   ],
   "small": {
     "scale": 1.4900000000000004,
@@ -26,5 +23,6 @@
     "offset_y": -32,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

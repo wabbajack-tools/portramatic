@@ -2,12 +2,9 @@
   "source": "https://pbs.twimg.com/media/EflcnPTUMAAZxk7.jpg",
   "md5": "54FF8944C583E72331F2B21A28FD19FC",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "costume",
-    "samurai",
-    "Fire emblem Dimitri"
+    "dimitri",
+    "king",
+    "faerghus"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -27,5 +24,6 @@
     "offset_y": -66,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

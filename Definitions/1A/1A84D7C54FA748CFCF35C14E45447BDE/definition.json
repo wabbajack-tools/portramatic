@@ -2,22 +2,12 @@
   "source": "https://i.imgur.com/frA5HIWh.jpg",
   "md5": "1A84D7C54FA748CFCF35C14E45447BDE",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "knight",
-    "armor",
-    "samurai",
-    "face",
-    "bronze",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "you",
+    "put",
+    "all",
+    "your",
+    "stats",
+    "strength"
   ],
   "small": {
     "scale": 0.7699999999999998,
@@ -37,5 +27,6 @@
     "offset_y": -5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

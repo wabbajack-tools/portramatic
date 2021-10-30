@@ -2,24 +2,9 @@
   "source": "https://i.imgur.com/QFZwNRl.png",
   "md5": "34BFE07F70A19713936FFF81BED9799B",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "outdoors",
-    "photography",
-    "photo",
-    "crowd",
-    "horse",
-    "animal",
-    "mammal",
-    "samurai",
-    "world of warcraft",
-    "statue",
-    "sculpture",
-    "knight",
-    "nature",
-    ""
+    "epic",
+    "artwork",
+    "paladin"
   ],
   "small": {
     "scale": 0.99,
@@ -39,5 +24,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

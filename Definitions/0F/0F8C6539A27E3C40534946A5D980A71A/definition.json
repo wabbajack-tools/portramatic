@@ -2,25 +2,9 @@
   "source": "https://i.pinimg.com/564x/22/b9/ea/22b9eae3bc6720736b439396fcbc38c1.jpg",
   "md5": "0F8C6539A27E3C40534946A5D980A71A",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bird",
-    "animal",
-    "photography",
-    "photo",
-    "portrait",
-    "face",
-    "chicken",
-    "fowl",
-    "poultry",
-    "clothing",
-    "apparel",
-    "dragon",
-    "horse",
-    "mammal",
-    "damned"
+    "male",
+    "elf",
+    "wizard"
   ],
   "small": {
     "scale": 1.04,
@@ -40,5 +24,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

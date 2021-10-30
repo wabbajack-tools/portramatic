@@ -2,15 +2,7 @@
   "source": "https://i.imgur.com/Tde19tE.jpeg",
   "md5": "0EA54D8C595E75D4106B2429AB22590C",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "beard",
-    "helmet",
-    "clothing",
-    "apparel",
-    "hat",
-    ""
+    "marinero"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -30,5 +22,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

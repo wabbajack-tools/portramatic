@@ -2,24 +2,7 @@
   "source": "https://data.whicdn.com/images/314194153/original.jpg",
   "md5": "3F0CA8FBCB27B28BD138E01D02B0053E",
   "tags": [
-    "blonde",
-    "person",
-    "female",
-    "teen",
-    "woman",
-    "girl",
-    "kid",
-    "human",
-    "child",
-    "face",
-    "hair",
-    "portrait",
-    "photography",
-    "photo",
-    "art",
-    "clothing",
-    "apparel",
-    ""
+    "blonde"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -39,5 +22,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

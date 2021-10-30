@@ -2,13 +2,8 @@
   "source": "https://i.pinimg.com/originals/63/e6/37/63e637a54ceb0a9668f666b76cc65b5d.jpg",
   "md5": "2C458713DB3C0F6F38B16D3351353499",
   "tags": [
-    "art",
-    "bonfire",
-    "fire",
-    "flame",
-    "angel",
-    "archangel",
-    ""
+    "female",
+    "archangel"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -28,5 +23,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

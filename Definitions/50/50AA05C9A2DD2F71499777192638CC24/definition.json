@@ -2,10 +2,8 @@
   "source": "https://img3.gelbooru.com//samples/67/bf/sample_67bf21dcb58a4fec76a4afd232e0cacb.jpg",
   "md5": "50AA05C9A2DD2F71499777192638CC24",
   "tags": [
-    "comics",
-    "book",
-    "manga",
-    "shirabe"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.7399999999999998,
@@ -25,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

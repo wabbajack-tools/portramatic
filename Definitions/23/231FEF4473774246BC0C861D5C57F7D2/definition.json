@@ -2,17 +2,8 @@
   "source": "https://i.pinimg.com/564x/11/66/c2/1166c2bb8597eb9e095a59d7bda4e5e9.jpg",
   "md5": "231FEF4473774246BC0C861D5C57F7D2",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "duel",
-    "bird",
-    "animal",
-    "art",
-    "samurai",
-    "costume",
-    "drawing",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.8199999999999998,
@@ -32,5 +23,6 @@
     "offset_y": -5.333333333333371,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

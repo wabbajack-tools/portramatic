@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/originals/81/cf/a9/81cfa9f1d92f1885dc7bc77234fb923b.png",
   "md5": "2D3028405B95531FD4EBB50365D47C92",
   "tags": [
-    "toy",
-    "person",
-    "human",
-    "armor",
-    "costume",
-    "clothing",
-    "apparel",
-    "knight",
-    "bronze",
-    ""
+    "female",
+    "plate",
+    "armor"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -31,5 +24,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

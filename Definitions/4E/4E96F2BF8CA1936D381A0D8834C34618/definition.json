@@ -2,23 +2,8 @@
   "source": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d60f5b24003889.5632c741322ad.jpg",
   "md5": "4E96F2BF8CA1936D381A0D8834C34618",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "armor",
-    "bronze",
-    "skin",
-    "dish",
-    "food",
-    "meal",
-    "dragon",
-    "symbol",
-    "building",
-    "architecture",
-    "emblem",
-    "pillar",
-    "column",
-    ""
+    "maul",
+    "warrior"
   ],
   "small": {
     "scale": 1.1300000000000001,
@@ -38,5 +23,6 @@
     "offset_y": -84,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

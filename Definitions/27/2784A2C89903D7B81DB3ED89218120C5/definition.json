@@ -2,13 +2,9 @@
   "source": "http://www.mmoinfo.net/news/press/astaria/2010/at23.jpg",
   "md5": "2784A2C89903D7B81DB3ED89218120C5",
   "tags": [
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "costume",
-    "knight",
-    "lich"
+    "rich",
+    "lich",
+    "concept"
   ],
   "small": {
     "scale": 0.3499999999999994,
@@ -28,5 +24,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

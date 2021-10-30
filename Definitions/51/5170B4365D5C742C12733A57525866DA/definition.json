@@ -2,15 +2,9 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/131/410/large/jun-rao-.jpg?1528020859",
   "md5": "5170B4365D5C742C12733A57525866DA",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "samurai",
-    "weapon",
-    "weaponry",
-    "bronze",
     "armor",
-    "Tiefling"
+    "female",
+    "knight"
   ],
   "small": {
     "scale": 0.7899999999999998,
@@ -30,5 +24,6 @@
     "offset_y": -4.805555555555088,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

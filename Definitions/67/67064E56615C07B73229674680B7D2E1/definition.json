@@ -2,17 +2,10 @@
   "source": "https://i.pinimg.com/originals/75/ab/ce/75abce798890fc92cd2fa560590372f6.jpg",
   "md5": "67064E56615C07B73229674680B7D2E1",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "fire",
-    "angel",
-    "archangel",
-    "flame",
-    "elf",
     "female",
-    ""
+    "fire",
+    "genasi",
+    "mage"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +25,6 @@
     "offset_y": -50,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

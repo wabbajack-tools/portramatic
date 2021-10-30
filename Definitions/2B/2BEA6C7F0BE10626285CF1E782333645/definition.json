@@ -2,15 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/030/594/622/large/art-of-nate-halfelf-bigfile.jpg?1601059833",
   "md5": "2BEA6C7F0BE10626285CF1E782333645",
   "tags": [
-    "helmet",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "overwatch",
-    "female",
-    "plant",
-    ""
+    "rogue",
+    "girl"
   ],
   "small": {
     "scale": 0.4499999999999995,
@@ -30,5 +23,6 @@
     "offset_y": -82,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

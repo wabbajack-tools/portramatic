@@ -2,16 +2,10 @@
   "source": "https://i.imgur.com/aVtdL3B.jpg",
   "md5": "23FA28EDF2377C589D4C45503144CA5A",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "female",
-    "lingerie",
-    "underwear",
-    "woman",
-    "eivor"
+    "eivor",
+    "dandonfuga",
+    "dandon",
+    "fuga"
   ],
   "small": {
     "scale": 0.18999999999999934,
@@ -31,5 +25,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

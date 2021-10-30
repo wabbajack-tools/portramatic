@@ -1,12 +1,12 @@
 {
-  "source": "https://static.wikia.nocookie.net/jaderegent/images/a/a7/Ulfbig.jpg/revision/latest?cb=20140604081136&path-prefix=fr",
+  "source": "https://static.wikia.nocookie.net/jaderegent/images/a/a7/Ulfbig.jpg/revision/latest?cb=20140604081136\u0026path-prefix=fr",
   "md5": "6914549B9EE1D2434C325C1028EE652B",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "knight",
-    ""
+    "hero",
+    "quest",
+    "board",
+    "to",
+    "print"
   ],
   "small": {
     "scale": 1,
@@ -26,5 +26,6 @@
     "offset_y": 62,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

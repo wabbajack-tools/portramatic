@@ -2,11 +2,8 @@
   "source": "https://paizo.com/image/content/PathfinderPawns/PZO1013-PriestOfZonKuthon.jpg",
   "md5": "6223C430803A4D5C26CF1C198F6A4B6D",
   "tags": [
-    "person",
-    "human",
-    "bow",
     "whip",
-    "test"
+    "fighter"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -26,5 +23,6 @@
     "offset_y": -1.9999999999998295,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

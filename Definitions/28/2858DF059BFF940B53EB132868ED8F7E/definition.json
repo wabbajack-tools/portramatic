@@ -2,11 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/037/606/293/large/cham-s-.jpg?1620825936",
   "md5": "2858DF059BFF940B53EB132868ED8F7E",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -26,5 +23,6 @@
     "offset_y": -56.06481481481501,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

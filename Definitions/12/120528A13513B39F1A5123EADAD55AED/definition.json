@@ -2,19 +2,11 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/443/208/large/daeho-cha-100-2.jpg?1484484544",
   "md5": "120528A13513B39F1A5123EADAD55AED",
   "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "person",
-    "human",
-    "shoe",
-    "footwear",
-    "boot",
-    "cloak",
-    "fashion",
-    "female",
-    "cape",
-    ""
+    "thief",
+    "daeho",
+    "cha",
+    "marleen",
+    "vijgen"
   ],
   "small": {
     "scale": 0.97,
@@ -34,5 +26,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

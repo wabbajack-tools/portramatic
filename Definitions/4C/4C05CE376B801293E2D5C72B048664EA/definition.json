@@ -2,29 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/022/239/086/large/yujin-kim-up2.jpg",
   "md5": "4C05CE376B801293E2D5C72B048664EA",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "footwear",
-    "evening dress",
-    "fashion",
-    "robe",
-    "gown",
-    "painting",
-    "art",
-    "pants",
-    "sleeve",
-    "female",
-    "boot",
-    "face",
-    "shoe",
-    "woman",
-    "toy",
-    "armor",
-    "knight",
-    "samurai",
-    ""
+    "villain",
+    "bandit"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -44,5 +23,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

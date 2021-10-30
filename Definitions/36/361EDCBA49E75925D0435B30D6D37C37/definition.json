@@ -2,16 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/012/221/617/large/matias-trabold-rehren-bonearmor.jpg?1533672205",
   "md5": "361EDCBA49E75925D0435B30D6D37C37",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "coat",
-    "samurai",
-    "painting",
-    "art",
-    "armor",
-    "knight"
+    "pathfinder",
+    "wrath",
+    "righteous.",
+    "tiefling",
+    "portrait"
   ],
   "small": {
     "scale": 0.6699999999999997,
@@ -31,5 +26,6 @@
     "offset_y": -3.9999999999998863,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

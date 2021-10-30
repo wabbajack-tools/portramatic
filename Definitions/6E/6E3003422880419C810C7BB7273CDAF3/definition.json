@@ -2,17 +2,10 @@
   "source": "https://i.pinimg.com/564x/80/9c/5f/809c5fe89b8f2ce90b881ff62eb90862.jpg",
   "md5": "6E3003422880419C810C7BB7273CDAF3",
   "tags": [
-    "weapon",
-    "weaponry",
-    "blade",
-    "person",
-    "human",
-    "knife",
-    "helmet",
-    "clothing",
-    "apparel",
-    "dagger",
-    ""
+    "explore",
+    "bald",
+    "warrior",
+    "woman"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -32,5 +25,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,16 +2,10 @@
   "source": "https://i.pinimg.com/originals/ae/dd/a8/aedda81b068803e90c5408119dab5ec2.jpg",
   "md5": "44FA9D0D171FEAB97C5C2AAA5A7529ED",
   "tags": [
-    "face",
-    "person",
-    "human",
     "female",
-    "portrait",
-    "photography",
-    "photo",
-    "head",
-    "overwatch",
-    ""
+    "wood",
+    "elf",
+    "portrait"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -31,5 +25,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/originals/df/4d/24/df4d248ee581b3c9b02f1121642af9a6.jpg",
   "md5": "009B5DCE5DBFC6DE518E10EB7D80F17F",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "bird",
-    "animal",
-    "knight",
-    ""
+    "dark",
+    "dwarf",
+    "wizard"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +24,6 @@
     "offset_y": 5.3333333333332575,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

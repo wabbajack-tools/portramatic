@@ -1,18 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/EC7ZVr8UYAEv7eb?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/EC7ZVr8UYAEv7eb?format=jpg\u0026name=medium",
   "md5": "01DA83AD2784874EFB77474A13049CCF",
   "tags": [
-    "painting",
-    "art",
-    "sculpture",
-    "statue",
-    "person",
-    "human",
-    "face",
-    "modern art",
-    "animal",
-    "alien",
-    "bard male ginger lute book"
+    "vanessa",
+    "lemen"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -32,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

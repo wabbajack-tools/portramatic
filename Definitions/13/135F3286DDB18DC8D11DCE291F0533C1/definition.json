@@ -2,10 +2,8 @@
   "source": "https://i.pinimg.com/564x/42/ca/73/42ca732dd9d5485884faddd717740705.jpg",
   "md5": "135F3286DDB18DC8D11DCE291F0533C1",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    ""
+    "dwarf",
+    "fighter"
   ],
   "small": {
     "scale": 1.9700000000000013,
@@ -21,9 +19,10 @@
   },
   "full": {
     "scale": 1.2300000000000002,
-    "offset_x": -4.547473508864641e-13,
+    "offset_x": -4.547473508864641E-13,
     "offset_y": -3.9999999999997726,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

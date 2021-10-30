@@ -2,20 +2,8 @@
   "source": "https://i.pinimg.com/564x/60/bc/11/60bc11585411e90e3a1fd330383650ab.jpg",
   "md5": "330D0791E83DBFDF2D4BF4AA4B5A69EA",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bird",
-    "animal",
-    "clothing",
-    "apparel",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    "people",
-    "warrior"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.4900000000000004,
@@ -35,5 +23,6 @@
     "offset_y": -27,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

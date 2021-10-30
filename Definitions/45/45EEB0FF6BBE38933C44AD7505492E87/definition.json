@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/originals/9a/6f/7e/9a6f7eb68be5baf11fe2e640766ec571.jpg",
   "md5": "45EEB0FF6BBE38933C44AD7505492E87",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "armor",
-    "costume",
-    "knight",
-    "plate",
-    "sword"
+    "medieval",
+    "prince"
   ],
   "small": {
     "scale": 0.8299999999999998,
@@ -30,5 +23,6 @@
     "offset_y": -61,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

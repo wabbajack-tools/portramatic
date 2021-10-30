@@ -2,12 +2,9 @@
   "source": "https://i.pinimg.com/600x315/8a/1b/1f/8a1b1f1dd3374a907d67fbb96f80f644.jpg",
   "md5": "2AEBC2F268C39ADBCAEA5033C3F015FB",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "book",
-    "comics",
-    "Consumed"
+    "first",
+    "sith",
+    "lord"
   ],
   "small": {
     "scale": 1.9700000000000004,
@@ -27,5 +24,6 @@
     "offset_y": -1.333333333333826,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

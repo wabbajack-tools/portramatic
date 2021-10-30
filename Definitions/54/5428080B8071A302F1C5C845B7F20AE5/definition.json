@@ -2,21 +2,9 @@
   "source": "https://i.pinimg.com/564x/7c/1b/d6/7c1bd6154f3adc9876a2d589c6a12fa5.jpg",
   "md5": "5428080B8071A302F1C5C845B7F20AE5",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "clothing",
-    "apparel",
-    "skin",
-    "crowd",
-    "costume",
-    "painting",
-    "samurai",
-    "footwear",
-    "duel",
-    "overcoat",
-    "coat",
-    "vagabond"
+    "bloodborne",
+    "characters",
+    "mask"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -36,5 +24,6 @@
     "offset_y": -7.599999999999881,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

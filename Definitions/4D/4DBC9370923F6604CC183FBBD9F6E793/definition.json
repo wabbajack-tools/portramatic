@@ -2,12 +2,8 @@
   "source": "https://64.media.tumblr.com/fedb4d74ba1b27a128047c00fc3310e3/tumblr_p54qiatTpO1wprc3jo1_1280.jpg",
   "md5": "4DBC9370923F6604CC183FBBD9F6E793",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "elf",
-    "figurine",
-    "mage"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -27,5 +23,6 @@
     "offset_y": -113.33333333333348,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

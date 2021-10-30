@@ -2,13 +2,7 @@
   "source": "https://i.imgur.com/eSadEyv.png",
   "md5": "44DEAB3D8B6C39063060065A1AEAF88B",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    ""
+    "wanderer"
   ],
   "small": {
     "scale": 1.02,
@@ -28,5 +22,6 @@
     "offset_y": -107.99999999999989,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

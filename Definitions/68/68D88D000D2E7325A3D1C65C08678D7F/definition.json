@@ -1,17 +1,7 @@
 {
   "source": "https://i.pinimg.com/originals/f3/ab/8d/f3ab8deea2dbae8baa6cdc1e653c2328.jpg",
   "md5": "68D88D000D2E7325A3D1C65C08678D7F",
-  "tags": [
-    "art",
-    "angel",
-    "archangel",
-    "person",
-    "human",
-    "painting",
-    "doll",
-    "toy",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -287,
@@ -30,5 +20,6 @@
     "offset_y": -86,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

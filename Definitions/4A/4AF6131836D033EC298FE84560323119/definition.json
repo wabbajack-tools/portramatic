@@ -2,16 +2,10 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/004/700/345/large/jeongseok-lee-5.jpg?1485622304",
   "md5": "4AF6131836D033EC298FE84560323119",
   "tags": [
-    "elf",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "costume",
-    "bow",
-    "dancer",
-    "mage",
-    "assassin"
+    "holy",
+    "assassin",
+    "jeongseok",
+    "lee"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -31,5 +25,6 @@
     "offset_y": -31,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

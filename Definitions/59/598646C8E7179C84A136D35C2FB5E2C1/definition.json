@@ -2,17 +2,8 @@
   "source": "https://static.wikia.nocookie.net/kalidor/images/1/1a/Cystia.jpg/revision/latest/scale-to-width-down/718?cb=20180921181420",
   "md5": "598646C8E7179C84A136D35C2FB5E2C1",
   "tags": [
-    "doll",
-    "toy",
-    "art",
-    "angel",
-    "archangel",
-    "bird",
-    "animal",
-    "person",
-    "human",
-    "figurine",
-    ""
+    "holy",
+    "goddess"
   ],
   "small": {
     "scale": 1.05,
@@ -32,5 +23,6 @@
     "offset_y": -42.138888888888914,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

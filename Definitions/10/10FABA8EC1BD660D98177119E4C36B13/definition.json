@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/33/a0/62/33a0622cba163f3a4e4024cc2065e29c.jpg",
   "md5": "10FABA8EC1BD660D98177119E4C36B13",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "performer",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -30,5 +23,6 @@
     "offset_y": -38,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

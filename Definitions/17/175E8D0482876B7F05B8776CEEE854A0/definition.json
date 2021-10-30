@@ -2,17 +2,8 @@
   "source": "https://i.pinimg.com/564x/91/9e/9d/919e9d844548bb313f6969ec75ba023a.jpg",
   "md5": "175E8D0482876B7F05B8776CEEE854A0",
   "tags": [
-    "person",
-    "human",
     "knight",
-    "painting",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "samurai",
-    "duel",
-    ""
+    "lady"
   ],
   "small": {
     "scale": 1.07,
@@ -32,5 +23,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

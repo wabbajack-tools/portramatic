@@ -2,17 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/016/287/849/large/bageumi-.jpg?1551622774",
   "md5": "3B628B897B1FC8BCA674EA70D241F2C4",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "duel",
-    "armor",
-    "clothing",
-    "apparel",
-    "samurai",
-    "sport",
-    "sports",
-    "female mage"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -32,5 +23,6 @@
     "offset_y": -299.5462962962955,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

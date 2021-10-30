@@ -2,17 +2,11 @@
   "source": "https://i.pinimg.com/originals/e4/86/5c/e4865caf2c3da35d43e093aede25b932.jpg",
   "md5": "38AB6D5EAD6851CDA07F1686AE1317DA",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "coat",
-    "knight",
-    "samurai",
+    "pathfinder",
+    "kingmaker",
+    "male",
     "tiefling",
-    "demon"
+    "portrait"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -32,5 +26,6 @@
     "offset_y": -5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

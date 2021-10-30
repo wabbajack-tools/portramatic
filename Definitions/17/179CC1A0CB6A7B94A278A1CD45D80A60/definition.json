@@ -2,16 +2,7 @@
   "source": "https://img3.gelbooru.com//samples/74/6e/sample_746e1daa3465836bce93d0a4e598a390.jpg",
   "md5": "179CC1A0CB6A7B94A278A1CD45D80A60",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "shirabe",
-    "tech"
+    "girly"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -31,5 +22,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

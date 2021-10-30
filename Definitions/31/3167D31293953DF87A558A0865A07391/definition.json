@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/originals/69/a5/49/69a549b1b03cf757d10639a8dad4bd5d.png",
   "md5": "3167D31293953DF87A558A0865A07391",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "art",
-    "Male",
-    "Gnome",
-    "Spellcaster",
-    "Lightning"
+    "gnome",
+    "sorcerer"
   ],
   "small": {
     "scale": 1.4000000000000004,
@@ -33,5 +23,6 @@
     "offset_y": -44,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

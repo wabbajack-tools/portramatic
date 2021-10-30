@@ -2,23 +2,8 @@
   "source": "https://i.pinimg.com/564x/22/4d/d9/224dd9be20297b2f14e2bb2ee9b60e8e.jpg",
   "md5": "4CAF660F9BCF618B281E3656B36C629B",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "weapon",
-    "weaponry",
-    "blade",
-    "sword",
-    "samurai",
-    "knight",
-    "bronze",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "prince",
+    "armor"
   ],
   "small": {
     "scale": 1.6000000000000005,
@@ -38,5 +23,6 @@
     "offset_y": -15,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

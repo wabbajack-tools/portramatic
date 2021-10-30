@@ -2,14 +2,10 @@
   "source": "https://i.imgur.com/TaqDm2y.png",
   "md5": "22C0709B1CBFFF8D32A654FC7FE6F2F3",
   "tags": [
-    "shoe",
-    "footwear",
-    "clothing",
-    "apparel",
-    "person",
+    "blond",
     "human",
-    "duel",
-    ""
+    "wizard",
+    "male"
   ],
   "small": {
     "scale": 1.5400000000000005,
@@ -26,8 +22,9 @@
   "full": {
     "scale": 0.9999999999999989,
     "offset_x": 1.3333333333325754,
-    "offset_y": -5.115907697472721e-13,
+    "offset_y": -5.115907697472721E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

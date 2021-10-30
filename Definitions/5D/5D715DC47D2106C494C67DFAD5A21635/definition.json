@@ -2,16 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2766784/1f7e4615f0921696e9a5fe7696d656e6_original.jpg?v=1504222443",
   "md5": "5D715DC47D2106C494C67DFAD5A21635",
   "tags": [
-    "person",
-    "human",
-    "horse",
-    "animal",
-    "mammal",
-    "people",
-    "figurine",
-    "crowd",
-    "art",
-    ""
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 0.4399999999999997,
@@ -31,5 +23,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

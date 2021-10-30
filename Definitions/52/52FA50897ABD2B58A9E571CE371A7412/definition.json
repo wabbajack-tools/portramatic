@@ -2,14 +2,10 @@
   "source": "https://i.pinimg.com/564x/43/10/ec/4310ec99b6bf5d75bd05ed8e219f3874.jpg",
   "md5": "52FA50897ABD2B58A9E571CE371A7412",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
+    "female",
     "fire",
-    "flame",
-    "dragon",
-    ""
+    "genasi",
+    "mage"
   ],
   "small": {
     "scale": 1.4800000000000004,
@@ -29,5 +25,6 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

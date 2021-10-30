@@ -2,18 +2,8 @@
   "source": "https://gamepress.gg/feheroes/sites/fireemblem/files/2019-07/Edelgarde_Neutral.png",
   "md5": "504364326FB823DBE8A2FC757444E3EC",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "manga",
-    "comics",
-    "book",
-    "person",
-    "human",
-    "robe",
-    "fashion",
-    "gown",
-    "Edelgard"
+    "suda",
+    "ayaka"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -33,5 +23,6 @@
     "offset_y": -30,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

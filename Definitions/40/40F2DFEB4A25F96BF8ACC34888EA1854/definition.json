@@ -2,21 +2,9 @@
   "source": "https://i.pinimg.com/564x/13/4c/1a/134c1a7b1c4e8a913edda5763985f764.jpg",
   "md5": "40F2DFEB4A25F96BF8ACC34888EA1854",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "clothing",
-    "apparel",
-    "duel",
-    "horse",
-    "animal",
-    "mammal",
-    "knight",
-    "duelist",
-    "aldori",
-    "fighter",
-    "rogue",
-    "female"
+    "female",
+    "light",
+    "armor"
   ],
   "small": {
     "scale": 1.1400000000000001,
@@ -36,5 +24,6 @@
     "offset_y": -13.714285714285666,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

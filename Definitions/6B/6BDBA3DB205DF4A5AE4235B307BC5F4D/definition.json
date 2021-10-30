@@ -2,28 +2,9 @@
   "source": "https://i.imgur.com/GsYTUrd.png",
   "md5": "6BDBA3DB205DF4A5AE4235B307BC5F4D",
   "tags": [
+    "female",
     "dragon",
-    "bird",
-    "animal",
-    "painting",
-    "art",
-    "person",
-    "human",
-    "elf",
-    "costume",
-    "manga",
-    "book",
-    "comics",
-    "doll",
-    "toy",
-    "sport",
-    "sports",
-    "overwatch",
-    "graphics",
-    "archery",
-    "bow",
-    "angel",
-    "aasimar"
+    "queen"
   ],
   "small": {
     "scale": 1.1,
@@ -43,5 +24,6 @@
     "offset_y": -25,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

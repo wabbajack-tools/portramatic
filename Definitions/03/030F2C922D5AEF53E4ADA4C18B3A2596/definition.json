@@ -3,17 +3,7 @@
   "md5": "030F2C922D5AEF53E4ADA4C18B3A2596",
   "tags": [
     "wolf",
-    "mammal",
-    "animal",
-    "person",
-    "human",
-    "bear",
-    "wildlife",
-    "dog",
-    "canine",
-    "pet",
-    "nature",
-    ""
+    "huntress"
   ],
   "small": {
     "scale": 1.06,
@@ -33,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

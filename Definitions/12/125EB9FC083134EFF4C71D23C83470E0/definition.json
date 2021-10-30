@@ -2,12 +2,10 @@
   "source": "https://i.pinimg.com/564x/30/ad/45/30ad452a065c1577c1bc7c38f0d62b5e.jpg",
   "md5": "125EB9FC083134EFF4C71D23C83470E0",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "dragon",
-    ""
+    "dungeons",
+    "dragons",
+    "wizards",
+    "spells"
   ],
   "small": {
     "scale": 1.9299999999999993,
@@ -27,5 +25,6 @@
     "offset_y": -2.6666666666674246,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

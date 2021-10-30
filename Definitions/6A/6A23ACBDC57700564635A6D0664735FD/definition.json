@@ -2,13 +2,12 @@
   "source": "https://i.pinimg.com/originals/50/b8/c0/50b8c00b7c1084d0e5666b32ce1a8e86.jpg",
   "md5": "6A23ACBDC57700564635A6D0664735FD",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "costume",
-    ""
+    "warlock",
+    "ashkan",
+    "ghanbari",
+    "tiefling",
+    "pact",
+    "tome"
   ],
   "small": {
     "scale": 1.08,
@@ -28,5 +27,6 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

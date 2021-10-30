@@ -2,19 +2,8 @@
   "source": "https://i.4pcdn.org/tg/1532515327352.jpg",
   "md5": "6A6B65503AE6CC40CEC4C056E4FFEADC",
   "tags": [
-    "person",
-    "human",
-    "archer",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "cat",
-    "animal",
-    "mammal",
-    "pet",
-    "ranger",
-    "elf"
+    "female",
+    "archer"
   ],
   "small": {
     "scale": 0.47999999999999954,
@@ -34,5 +23,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,16 +1,11 @@
 {
-  "source": "https://pbs.twimg.com/media/DegWLVlWkAYGHif?format=jpg&name=900x900",
+  "source": "https://pbs.twimg.com/media/DegWLVlWkAYGHif?format=jpg\u0026name=900x900",
   "md5": "43C2EE3D8072DFC3F71BF888A762AEDA",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "world of warcraft",
-    "elf",
-    ""
+    "benjamin-ee-necromancer-final",
+    "theboyofcheese",
+    "female",
+    "necromancer"
   ],
   "small": {
     "scale": 1.1400000000000001,
@@ -30,5 +25,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

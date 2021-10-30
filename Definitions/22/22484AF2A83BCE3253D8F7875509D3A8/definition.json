@@ -2,14 +2,8 @@
   "source": "https://w.wallhaven.cc/full/vg/wallhaven-vg1e35.jpg",
   "md5": "22484AF2A83BCE3253D8F7875509D3A8",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
     "knight",
-    "duel",
-    "samurai",
-    ""
+    "paladin"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +23,6 @@
     "offset_y": -538,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,14 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/978/873/large/michael-angelo-dulay-ranger1.jpg?1569914753",
   "md5": "4B0103A3EFA271892C90D3261C5280DC",
   "tags": [
-    "person",
-    "human",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "costume",
-    "archer",
-    ""
+    "half-orc",
+    "ranger",
+    "commissioned",
+    "michael",
+    "angelo",
+    "dulay",
+    "half",
+    "orc"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -30,5 +29,6 @@
     "offset_y": -96.11111111111109,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

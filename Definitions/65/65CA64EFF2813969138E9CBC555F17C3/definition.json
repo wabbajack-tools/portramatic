@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/736x/cc/93/5c/cc935c0d925f1e08f254e15ae65150e4.jpg",
   "md5": "65CA64EFF2813969138E9CBC555F17C3",
   "tags": [
-    "samurai",
-    "painting",
-    "art",
-    "knight",
-    "helmet",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    ""
+    "draconic",
+    "armor"
   ],
   "small": {
     "scale": 0.7999999999999999,
@@ -31,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

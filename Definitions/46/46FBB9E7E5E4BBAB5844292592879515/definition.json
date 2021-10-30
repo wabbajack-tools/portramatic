@@ -2,23 +2,8 @@
   "source": "https://i.pinimg.com/originals/92/c0/2e/92c02e5fe63a0844a4d98e30876f2a6e.jpg",
   "md5": "46FBB9E7E5E4BBAB5844292592879515",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "graphics",
-    "art",
-    "painting",
-    "clothing",
-    "apparel",
-    "cosplay",
-    "wasp",
-    "animal",
-    "invertebrate",
-    "insect",
-    "bee",
-    "hornet",
-    "andrena",
-    ""
+    "female",
+    "skeleton"
   ],
   "small": {
     "scale": 1.08,
@@ -38,5 +23,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

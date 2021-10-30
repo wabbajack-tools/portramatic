@@ -2,13 +2,9 @@
   "source": "http://image.noelshack.com/fichiers/2021/41/6/1634383997-fulllength.png",
   "md5": "30A9122F93C5ECF79538CA953241C737",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "samurai",
-    "knight",
-    "Half-orc"
+    "male",
+    "tiefling",
+    "paladin"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -28,5 +24,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

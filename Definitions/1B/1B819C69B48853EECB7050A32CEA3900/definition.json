@@ -2,30 +2,8 @@
   "source": "https://i.redd.it/dwodjf0smf441.jpg",
   "md5": "1B819C69B48853EECB7050A32CEA3900",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "gun",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "face",
-    "painting",
-    "art",
-    "elf",
-    "photography",
-    "photo",
-    "portrait",
-    "drawing",
-    "head",
-    "water",
-    "outdoors",
-    "sfw",
-    "male",
-    "sword",
-    "cleric",
-    "inquisitor",
-    "mage"
+    "mercenary",
+    "design"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -45,5 +23,6 @@
     "offset_y": -52.39999999999989,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

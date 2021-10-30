@@ -2,22 +2,7 @@
   "source": "https://inews.gtimg.com/newsapp_bt/0/4159995519/641",
   "md5": "389DD20883C672DFA1CC4AF9EA5D57D5",
   "tags": [
-    "art",
-    "person",
-    "human",
-    "hair",
-    "painting",
-    "graphics",
-    "costume",
-    "clothing",
-    "apparel",
-    "female",
-    "cosplay",
-    "plant",
-    "symbol",
-    "emblem",
-    "woman",
-    ""
+    "nymph"
   ],
   "small": {
     "scale": 0.95,
@@ -37,5 +22,6 @@
     "offset_y": -23,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

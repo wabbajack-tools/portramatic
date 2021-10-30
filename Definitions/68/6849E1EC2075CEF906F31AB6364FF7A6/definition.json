@@ -2,27 +2,7 @@
   "source": "https://cdn.shopify.com/s/files/1/1066/8352/articles/Tiefling_5e_Dungeons_and_Dragons.jpg?v=1584469108",
   "md5": "6849E1EC2075CEF906F31AB6364FF7A6",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "costume",
-    "world of warcraft",
-    "legend of zelda",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "tiefling"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -42,5 +22,6 @@
     "offset_y": -15,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

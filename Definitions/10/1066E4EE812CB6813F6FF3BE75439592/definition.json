@@ -2,14 +2,9 @@
   "source": "http://image.noelshack.com/fichiers/2021/41/6/1634384020-8447ca17a10c4b3c846a51c3ce057c4e705e42fe.jpg",
   "md5": "1066E4EE812CB6813F6FF3BE75439592",
   "tags": [
-    "person",
-    "human",
-    "clock tower",
-    "building",
-    "architecture",
-    "tower",
-    "overwatch",
-    "Half-orc"
+    "character",
+    "pathfinder",
+    "kingmaker"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -29,5 +24,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

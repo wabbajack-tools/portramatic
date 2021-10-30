@@ -2,20 +2,9 @@
   "source": "https://i.pinimg.com/736x/2e/44/45/2e44452e52d79e44e58f4f0c2e7c2326--fantasy-heroes-fantasy-characters.jpg",
   "md5": "69EBE5A2BBBC53E9AACED67E2AA194D6",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "cloak",
-    "fashion",
-    "female"
+    "half-elf",
+    "portrait",
+    "aerenwyn"
   ],
   "small": {
     "scale": 0.78,
@@ -35,5 +24,6 @@
     "offset_y": -2.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

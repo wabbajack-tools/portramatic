@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/originals/b8/1c/15/b81c15a6ca20e59d6c8ef171297d48fc.jpg",
   "md5": "586702CF4A4DF78D005ADDAB3AFE51A5",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "pirate",
-    "rogue",
-    "swashbuckler"
+    "warrior",
+    "pirate"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -27,5 +23,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

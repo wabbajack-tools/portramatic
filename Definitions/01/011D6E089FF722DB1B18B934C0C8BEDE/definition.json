@@ -2,26 +2,7 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/033/996/631/large/terry-wei-3.jpg?1611126052",
   "md5": "011D6E089FF722DB1B18B934C0C8BEDE",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "costume",
-    "female",
-    "bronze",
-    "woman",
-    "figurine",
-    "crowd",
-    "samurai",
-    "skin",
-    "fashion",
-    "people",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "bladedancer"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -41,5 +22,6 @@
     "offset_y": -11,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

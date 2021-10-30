@@ -2,30 +2,10 @@
   "source": "https://i.pinimg.com/564x/6f/98/2e/6f982e13c894a2a6242379e73d5d5e66.jpg",
   "md5": "437D55F55BB135937C444A417B2A7F9A",
   "tags": [
-    "figurine",
-    "person",
-    "human",
-    "statue",
-    "sculpture",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "female",
-    "costume",
-    "face",
-    "clothing",
-    "apparel",
-    "crowd",
-    "woman",
-    "photography",
-    "photo",
-    "weapon",
-    "weaponry",
-    "male",
+    "halfling",
     "ranger",
-    "sword",
-    "ax"
+    "with",
+    "wolf"
   ],
   "small": {
     "scale": 1.9399999999999993,
@@ -45,5 +25,6 @@
     "offset_y": -64.33333333333434,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,13 +2,11 @@
   "source": "https://static.wikia.nocookie.net/verum/images/c/cc/TheGamblerBlackRevised.jpg/revision/latest/scale-to-width-down/1000?cb=20210421121603",
   "md5": "3FEDBF6E7D58046D7C975CA422CAEE6C",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "book",
-    "comics",
-    "joker"
+    "gambler",
+    "black",
+    "verum",
+    "deemee",
+    "arcadum"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -28,5 +26,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

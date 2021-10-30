@@ -2,16 +2,10 @@
   "source": "https://i.imgur.com/PIbjsy2.jpg",
   "md5": "5857331B25742D34A1F20026B3502F06",
   "tags": [
-    "skin",
-    "necklace",
-    "accessories",
-    "jewelry",
-    "accessory",
-    "person",
-    "human",
+    "wood",
     "elf",
-    "tattoo",
-    ""
+    "rogue",
+    "female"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -31,5 +25,6 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

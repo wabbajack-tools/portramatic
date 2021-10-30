@@ -2,15 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/018/772/866/large/guido-kuip-aasimar-guidokuip-2014.jpg?1560679934",
   "md5": "6992E32A0A5F5D4D18B50E5586BDE486",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "knight",
-    "painting",
-    "art",
-    "world of warcraft",
-    "samurai",
-    "angel",
+    "male",
+    "scourge",
     "aasimar"
   ],
   "small": {
@@ -31,5 +24,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

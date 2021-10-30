@@ -2,23 +2,9 @@
   "source": "https://static.wikia.nocookie.net/legendofthecryptids/images/c/c9/Lanola%2C_Slave_Dealer.png/revision/latest?cb=20200218084926",
   "md5": "3FB11B08AE72F0994D663D0BD65B890B",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "final fantasy",
-    "costume",
-    "clothing",
-    "apparel",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "legends",
+    "cryptids",
+    "lance"
   ],
   "small": {
     "scale": 1.08,
@@ -38,5 +24,6 @@
     "offset_y": -87,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

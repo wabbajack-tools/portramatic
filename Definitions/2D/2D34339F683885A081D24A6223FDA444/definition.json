@@ -2,12 +2,8 @@
   "source": "https://www.solasta-game.com/storage/10/Elf_Rogue_Male.png",
   "md5": "2D34339F683885A081D24A6223FDA444",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "call of duty",
-    ""
+    "assassin",
+    "rogue"
   ],
   "small": {
     "scale": 1.4600000000000004,
@@ -27,5 +23,6 @@
     "offset_y": -144.37962962962962,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

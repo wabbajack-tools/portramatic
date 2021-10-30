@@ -1,17 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/EzqGEiXXMAUztr5?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/EzqGEiXXMAUztr5?format=jpg\u0026name=medium",
   "md5": "2A77EDC0B6E698D8F2FD62D0B028110E",
   "tags": [
-    "person",
-    "human",
-    "sweets",
-    "food",
-    "confectionery",
-    "figurine",
-    "knight",
-    "painting",
-    "art",
-    ""
+    "paladin",
+    "final"
   ],
   "small": {
     "scale": 1.12,
@@ -31,5 +23,6 @@
     "offset_y": -118,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

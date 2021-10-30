@@ -2,12 +2,10 @@
   "source": "https://i.pinimg.com/564x/21/f4/e5/21f4e5efdcecd151c6dd172ab61c2be9.jpg",
   "md5": "11637D2AE4182FBEC8752662411B76EA",
   "tags": [
-    "person",
-    "human",
+    "half",
+    "elf",
     "female",
-    "knight",
-    "armor",
-    ""
+    "armor"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -27,5 +25,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/736x/1f/e0/f4/1fe0f4f47ba37251c0567c1b9adca3cc.jpg",
   "md5": "274482F358C6884B42F7A08DA9577FFD",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "angel",
-    "archangel",
-    "demon",
-    "devil"
+    "dark",
+    "women"
   ],
   "small": {
     "scale": 0.99,
@@ -29,5 +23,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

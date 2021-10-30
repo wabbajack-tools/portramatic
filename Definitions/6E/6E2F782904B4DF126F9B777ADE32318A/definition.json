@@ -2,21 +2,8 @@
   "source": "https://i.imgur.com/8LJmVj2.jpeg",
   "md5": "6E2F782904B4DF126F9B777ADE32318A",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "face",
-    "sport",
-    "sports",
-    "portrait",
-    "photography",
-    "photo",
-    "samurai",
-    "duel",
-    "knight",
-    "weapon",
-    "weaponry",
-    ""
+    "noble",
+    "warrior"
   ],
   "small": {
     "scale": 1,
@@ -36,5 +23,6 @@
     "offset_y": 20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

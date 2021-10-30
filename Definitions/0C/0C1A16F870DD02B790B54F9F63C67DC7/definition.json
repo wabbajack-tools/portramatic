@@ -2,17 +2,10 @@
   "source": "https://oir.mobi/uploads/posts/2020-01/thumbs/1579284059_20-29.jpg",
   "md5": "0C1A16F870DD02B790B54F9F63C67DC7",
   "tags": [
-    "painting",
-    "art",
-    "tower",
-    "building",
-    "architecture",
-    "person",
-    "human",
-    "horse",
-    "animal",
-    "mammal",
-    ""
+    "artwork",
+    "magic",
+    "gathering",
+    "vampire"
   ],
   "small": {
     "scale": 1.2300000000000002,
@@ -32,5 +25,6 @@
     "offset_y": -5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

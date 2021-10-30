@@ -2,23 +2,8 @@
   "source": "https://static.wikia.nocookie.net/blackbandos-homebrew/images/c/c4/Hallucination_cleric.jpg/revision/latest?cb=20170927231609",
   "md5": "3C3EB0B47A2E635656CF8A1E6E2CA557",
   "tags": [
-    "clothing",
-    "apparel",
-    "fashion",
-    "cloak",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "archer",
-    "costume",
-    "dancer",
-    "mage",
-    "assassin"
+    "dark",
+    "cleric"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -38,5 +23,6 @@
     "offset_y": -46,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

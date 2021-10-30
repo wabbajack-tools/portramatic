@@ -2,20 +2,8 @@
   "source": "https://i.pinimg.com/originals/82/54/59/82545966809495adfce7bf52464cc723.jpg",
   "md5": "285AD0234C9E35EC73ABEE68EAB105EE",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "sport",
-    "sports",
-    "face",
-    "armor",
-    "painting",
-    "art",
-    "cross",
-    "symbol",
-    "samurai",
-    "people",
-    "knight"
+    "assassin",
+    "concept"
   ],
   "small": {
     "scale": 1.3099999999999983,
@@ -35,5 +23,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

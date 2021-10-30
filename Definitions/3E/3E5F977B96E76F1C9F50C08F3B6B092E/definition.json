@@ -2,16 +2,7 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/288/263/large/bogdan-marica-bogdan-mrk-necromancer-nova-blitz.jpg?1443928413",
   "md5": "3E5F977B96E76F1C9F50C08F3B6B092E",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "symbol",
-    "arrow",
-    "final fantasy",
-    "fish",
-    "animal",
-    ""
+    "necromancy"
   ],
   "small": {
     "scale": 0.96,
@@ -31,5 +22,6 @@
     "offset_y": -74,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

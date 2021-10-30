@@ -1,20 +1,10 @@
 {
-  "source": "https://pbs.twimg.com/media/DPIKGcQUQAAV8iS?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DPIKGcQUQAAV8iS?format=jpg\u0026name=large",
   "md5": "64DDEAA9385A7F4F04E85C5FA6A1E4DF",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
+    "wolf",
     "samurai",
-    "painting",
-    "art",
-    "crowd",
-    "leisure activities",
-    "stage",
-    "dance pose",
-    ""
+    "armor"
   ],
   "small": {
     "scale": 1.0799999999999998,
@@ -34,5 +24,6 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

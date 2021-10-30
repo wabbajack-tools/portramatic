@@ -2,15 +2,13 @@
   "source": "https://i.pinimg.com/564x/d3/a7/b9/d3a7b91f80347ae20a81c6d7f71dfa23.jpg",
   "md5": "2790430BAD9F8B5468A5EC7C2721325A",
   "tags": [
-    "person",
-    "human",
-    "duel",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 2.5199999999999894,
     "offset_x": -363.3333333333336,
-    "offset_y": 5.115907697472721e-13,
+    "offset_y": 5.115907697472721E-13,
     "size": "small"
   },
   "medium": {
@@ -22,8 +20,9 @@
   "full": {
     "scale": 1.239999999999999,
     "offset_x": -2.6666666666678793,
-    "offset_y": -2.8421709430404007e-13,
+    "offset_y": -2.8421709430404007E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

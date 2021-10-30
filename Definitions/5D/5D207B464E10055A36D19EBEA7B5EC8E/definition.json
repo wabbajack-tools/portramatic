@@ -2,18 +2,9 @@
   "source": "https://i.imgur.com/n9sZk20.jpeg",
   "md5": "5D207B464E10055A36D19EBEA7B5EC8E",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "knight",
-    "coat",
-    "clothing",
-    "apparel",
-    "female",
-    "painting",
-    "art",
-    "samurai",
-    ""
+    "blond",
+    "warrior",
+    "male"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -33,5 +24,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

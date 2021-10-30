@@ -2,15 +2,7 @@
   "source": "https://i.pinimg.com/originals/34/db/7b/34db7bb3e0a14af284f71561c76bec37.jpg",
   "md5": "0CADD1C35FD20F2FE16ADAD4D244FFAE",
   "tags": [
-    "person",
-    "human",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "adventurer"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -30,5 +22,6 @@
     "offset_y": -84,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

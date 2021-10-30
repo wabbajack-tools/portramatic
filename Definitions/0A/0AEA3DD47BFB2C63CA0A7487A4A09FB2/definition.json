@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/originals/ae/74/02/ae7402b0d53cdad487c60d79327b701c.jpg",
   "md5": "0AEA3DD47BFB2C63CA0A7487A4A09FB2",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "samurai",
-    "pirate",
-    "foo",
-    "foo2"
+    "tristan",
+    "pathfinder",
+    "kingmaker"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -31,5 +24,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

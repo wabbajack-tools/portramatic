@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/originals/81/94/7b/81947b61813a1532ee45d7d4382623a4.jpg",
   "md5": "336C72625A521D16496C5213FC04DDA0",
   "tags": [
-    "person",
-    "human",
-    "coat",
-    "clothing",
-    "apparel",
-    "samurai",
-    "call of duty",
-    "painting",
-    "art",
-    "costume",
-    "duel",
-    ""
+    "character",
+    "profile"
   ],
   "small": {
     "scale": 1.4400000000000004,
@@ -33,5 +23,6 @@
     "offset_y": -37.333333333332575,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/736x/16/22/fc/1622fc7fe6436acabc578a1e3fe11459.jpg",
   "md5": "677DDBFEC374AA64544A9D7C632289BB",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "batman",
-    "clothing",
-    "apparel",
-    "cape",
-    "cloak",
-    "fashion",
-    "knight",
-    ""
+    "shady",
+    "character"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -33,5 +23,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

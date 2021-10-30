@@ -2,12 +2,8 @@
   "source": "https://images.squarespace-cdn.com/content/v1/5643728fe4b081513daac206/1567535251154-RSD8IFQ1Y7HYS1Z70Q7W/AgeoftheAndinna3-merilliza-bookcover.jpg?format=750w",
   "md5": "2641C73660C86643FF9484A27D6255E8",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    ""
+    "demon",
+    "races"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -27,5 +23,6 @@
     "offset_y": -3.2037037037036953,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

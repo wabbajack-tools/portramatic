@@ -2,15 +2,7 @@
   "source": "https://i.imgur.com/3tOXamB.jpeg",
   "md5": "494D817DD4C047A73EEDFA4008C37500",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "nature",
-    "outdoors",
-    "elf",
-    "necromancer",
-    "lich"
+    "necromancer"
   ],
   "small": {
     "scale": 0.23999999999999932,
@@ -30,5 +22,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

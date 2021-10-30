@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/564x/7c/df/01/7cdf016affc6ae274203858ce3411cb2.jpg",
   "md5": "22B25074726C4168ECFF6318D66498CF",
   "tags": [
-    "person",
-    "human",
-    "suit",
-    "clothing",
-    "coat",
-    "overcoat",
-    "apparel",
-    "statue",
-    "sculpture",
-    "art",
-    "duel",
-    ""
+    "urban",
+    "warrior"
   ],
   "small": {
     "scale": 2.5199999999999885,
@@ -29,9 +19,10 @@
   },
   "full": {
     "scale": 1.2600000000000002,
-    "offset_x": -6.821210263296962e-13,
-    "offset_y": -6.252776074688882e-13,
+    "offset_x": -6.821210263296962E-13,
+    "offset_y": -6.252776074688882E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

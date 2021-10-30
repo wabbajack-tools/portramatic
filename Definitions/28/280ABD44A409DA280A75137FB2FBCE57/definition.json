@@ -2,15 +2,10 @@
   "source": "https://i.pinimg.com/736x/ec/5c/1b/ec5c1be847ef052a90ad1b8dedc02b59--gnome.jpg",
   "md5": "280ABD44A409DA280A75137FB2FBCE57",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "coat",
-    "cloak",
-    "fashion",
-    "hood",
-    ""
+    "male",
+    "hooded",
+    "halfling",
+    "rogue"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +25,6 @@
     "offset_y": -3.999999999999943,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,8 @@
   "source": "https://seannittner.com/wp-content/uploads/2016/03/Elara.jpg",
   "md5": "52986914DCA481B539565815625B3045",
   "tags": [
-    "person",
-    "human",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
     "archer",
-    "cat",
-    "animal",
-    "mammal",
-    "pet",
-    ""
+    "girl"
   ],
   "small": {
     "scale": 1.4500000000000004,
@@ -33,5 +23,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

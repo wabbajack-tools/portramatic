@@ -2,15 +2,11 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/625/146/large/hyuckjune-jeon-.jpg?1530550807",
   "md5": "5E25A84A98DCE9434DCC06D9C38FDAFE",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "dragon",
-    "female mage"
+    "succubus",
+    "hyuckjune",
+    "jeon",
+    "dramz",
+    "concept"
   ],
   "small": {
     "scale": 1.6600000000000006,
@@ -27,8 +23,9 @@
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -451.72222222222035,
-    "offset_y": 3.410605131648481e-13,
+    "offset_y": 3.410605131648481E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

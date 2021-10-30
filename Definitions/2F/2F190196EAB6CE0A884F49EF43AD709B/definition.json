@@ -2,14 +2,10 @@
   "source": "https://cdn.donmai.us/original/2f/19/__kunoichi_kaen_last_origin_drawn_by_c_honey__2f190196eab6ce0a884f49ef43ad709b.png",
   "md5": "2F190196EAB6CE0A884F49EF43AD709B",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "ninja",
-    ""
+    "last",
+    "origin",
+    "kunoichi",
+    "kaen"
   ],
   "small": {
     "scale": 0.7399999999999998,
@@ -29,5 +25,6 @@
     "offset_y": -24.02777777777783,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

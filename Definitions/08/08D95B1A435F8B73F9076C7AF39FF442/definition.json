@@ -1,23 +1,15 @@
 {
-  "source": "https://pbs.twimg.com/media/EqfaWISW4AEMj8w?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EqfaWISW4AEMj8w?format=jpg\u0026name=large",
   "md5": "08D95B1A435F8B73F9076C7AF39FF442",
   "tags": [
-    "person",
-    "human",
-    "shoe",
-    "footwear",
-    "clothing",
-    "apparel",
-    "leisure activities",
-    "performer",
-    "comics",
-    "book",
-    "circus",
-    "art",
-    "manga",
-    "arius",
-    "combat",
-    "mage"
+    "kir\u0026#39;zanaath",
+    "kiki",
+    "bard",
+    "medusa",
+    "leonardo",
+    "batista",
+    "kir",
+    "zanaath"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -37,5 +29,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

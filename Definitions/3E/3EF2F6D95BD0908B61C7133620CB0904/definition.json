@@ -2,16 +2,8 @@
   "source": "https://kartinkin.net/uploads/posts/2021-04/1618104638_21-p-korol-vampirov-fentezi-23.jpg",
   "md5": "3EF2F6D95BD0908B61C7133620CB0904",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "hand",
-    ""
+    "male",
+    "vampire"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -31,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

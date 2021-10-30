@@ -1,13 +1,13 @@
 {
-  "source": "https://f8n-ipfs-production.imgix.net/QmPeQT1Mu3aPiiiRanp3QUs2DEeydSfhj6rsX3E4GK2p7w/nft.jpg?q=80&w=1680&fit=fill&max-h=1680",
+  "source": "https://f8n-ipfs-production.imgix.net/QmPeQT1Mu3aPiiiRanp3QUs2DEeydSfhj6rsX3E4GK2p7w/nft.jpg?q=80\u0026w=1680\u0026fit=fill\u0026max-h=1680",
   "md5": "1E3B4B24763A04C044EF0D0D4ECF4650",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "figurine",
-    "elf",
-    ""
+    "invincible",
+    "red",
+    "sonya",
+    "#1",
+    "kyu",
+    "yong"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -27,5 +27,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

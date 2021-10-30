@@ -2,13 +2,11 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/019/408/490/large/-dragon-warrior.jpg?1563356955",
   "md5": "25636A925EA9D5703AA208D3280A8CB2",
   "tags": [
+    "stormborn",
     "dragon",
-    "spider",
-    "animal",
-    "invertebrate",
-    "arachnid",
-    "world of warcraft",
-    ""
+    "warrior",
+    "cham",
+    "s"
   ],
   "small": {
     "scale": 1.6500000000000006,
@@ -28,5 +26,6 @@
     "offset_y": -35.240740740740875,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

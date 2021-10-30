@@ -2,20 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/036/275/963/large/bogdan-rezunenko-pal.jpg?1617206554",
   "md5": "100C23D5B2D71ED4DF32B7A3AF75EF90",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "painting",
-    "art",
-    "face",
-    "beard",
-    "photography",
-    "photo",
-    "portrait",
-    "clothing",
-    "apparel",
-    ""
+    "inquisitor_2",
+    "bogdan",
+    "rezunenko",
+    "character",
+    "masked"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -35,5 +26,6 @@
     "offset_y": -121,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

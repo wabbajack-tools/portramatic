@@ -2,15 +2,7 @@
   "source": "https://img.booru.org/grognard//images/28/02e248c93d03651e6176ea654997260e08144def.jpg",
   "md5": "27B66378A0155E35C99B7C3774ADD18F",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "duel",
-    "costume",
-    "clothing",
-    "apparel",
-    ""
+    "cleric"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -30,5 +22,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

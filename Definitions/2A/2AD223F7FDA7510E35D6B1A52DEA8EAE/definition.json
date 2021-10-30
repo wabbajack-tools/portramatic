@@ -2,14 +2,10 @@
   "source": "https://demonslayer-hinokami.sega.com/img/characters/frame-tanjiro.jpg",
   "md5": "2AD223F7FDA7510E35D6B1A52DEA8EAE",
   "tags": [
-    "person",
-    "human",
-    "graphics",
-    "art",
-    "comics",
-    "book",
-    "manga",
-    ""
+    "kimetsu",
+    "no",
+    "yaiba",
+    "hd"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +25,6 @@
     "offset_y": 18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

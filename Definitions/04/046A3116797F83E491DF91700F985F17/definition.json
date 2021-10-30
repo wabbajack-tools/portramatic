@@ -2,19 +2,12 @@
   "source": "https://images.dakkadakka.com/gallery/2020/11/3/1083863_md-.jpg",
   "md5": "046A3116797F83E491DF91700F985F17",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "painting",
-    "art",
-    "female",
-    "dwarf",
-    "hammer",
-    "shield",
-    "fighter",
+    "dwarven",
+    "forge",
     "cleric",
-    "pally",
-    "paladin"
+    "bob",
+    "kehl",
+    "bobkehl"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -34,5 +27,6 @@
     "offset_y": -76,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

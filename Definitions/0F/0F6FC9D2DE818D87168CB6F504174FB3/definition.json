@@ -2,14 +2,11 @@
   "source": "https://i.imgur.com/bvWtsP1.png",
   "md5": "0F6FC9D2DE818D87168CB6F504174FB3",
   "tags": [
-    "art",
-    "angel",
-    "archangel",
-    "person",
-    "human",
-    "bird",
-    "animal",
-    ""
+    "mtg",
+    "high",
+    "mana",
+    "cost",
+    "enchantments"
   ],
   "small": {
     "scale": 1.1700000000000002,
@@ -29,5 +26,6 @@
     "offset_y": -84,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

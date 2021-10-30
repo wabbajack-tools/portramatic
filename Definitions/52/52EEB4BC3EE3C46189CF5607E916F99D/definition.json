@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/originals/f1/a2/58/f1a2588e206388a43a3e762de3a91b6a.jpg",
   "md5": "52EEB4BC3EE3C46189CF5607E916F99D",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "head",
-    "drawing",
-    "art",
-    "portrait",
-    "photography",
-    "photo",
-    "female",
-    "elf",
-    ""
+    "character",
+    "girl"
   ],
   "small": {
     "scale": 0.3499999999999994,
@@ -33,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

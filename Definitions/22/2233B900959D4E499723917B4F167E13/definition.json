@@ -1,19 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/EUIteL5XgAAgRXF?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EUIteL5XgAAgRXF?format=jpg\u0026name=4096x4096",
   "md5": "2233B900959D4E499723917B4F167E13",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "coat",
-    "ninja",
-    "weapon",
-    "weaponry",
-    "performer",
-    "cloak",
-    "fashion",
-    ""
+    "rachel",
+    "denton"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -33,5 +23,6 @@
     "offset_y": -41.648148148148834,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

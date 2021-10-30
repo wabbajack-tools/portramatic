@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/564x/d8/8d/df/d88ddf216b0bfbf89631294eac39f61f.jpg",
   "md5": "4AC6513AC70C9493BA68D28E64C593C9",
   "tags": [
-    "person",
-    "human",
-    "duel",
-    "bird",
-    "animal",
+    "blind",
     "knight",
-    "samurai",
-    "cavalier",
-    "mounted",
-    "armor"
+    "matjosh"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -31,5 +24,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/originals/2a/49/e0/2a49e0a8d044d5cec36188b08b72aab7.jpg",
   "md5": "682286C19C27EA302C530A046E66B60D",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "people",
-    "samurai",
-    ""
+    "stormcast",
+    "eternals"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +23,6 @@
     "offset_y": 4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

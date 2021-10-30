@@ -2,22 +2,7 @@
   "source": "https://i.pinimg.com/736x/87/54/f0/8754f0bd1612240de096e757ce8bdb3c.jpg",
   "md5": "36D8ADA8EA9821809B3E2DB6BE20595D",
   "tags": [
-    "person",
-    "human",
-    "lute",
-    "musical instrument",
-    "art",
-    "leisure activities",
-    "painting",
-    "costume",
-    "fire",
-    "bronze",
-    "clothing",
-    "apparel",
-    "warrior",
-    "paladin",
-    "cleric",
-    "knight"
+    "tavern"
   ],
   "small": {
     "scale": 0.8599999999999999,
@@ -37,5 +22,6 @@
     "offset_y": -55,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

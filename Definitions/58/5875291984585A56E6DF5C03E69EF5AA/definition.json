@@ -1,14 +1,7 @@
 {
   "source": "https://vignette.wikia.nocookie.net/davidgemmell/images/7/7d/Uther_Pendragon_-_Didier_Graffet.jpg/revision/latest?cb=20160308001012",
   "md5": "5875291984585A56E6DF5C03E69EF5AA",
-  "tags": [
-    "painting",
-    "art",
-    "samurai",
-    "knight",
-    "dragon",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -200,
@@ -27,5 +20,6 @@
     "offset_y": -62,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

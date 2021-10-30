@@ -2,14 +2,7 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/019/484/987/large/marishka-kleyman-giltias.jpg?1563731904",
   "md5": "25CEA1631764E7681AEE067724FFBBAD",
   "tags": [
-    "dragon",
-    "dinosaur",
-    "animal",
-    "reptile",
-    "bird",
-    "painting",
-    "art",
-    ""
+    "dragon"
   ],
   "small": {
     "scale": 1.06,
@@ -29,5 +22,6 @@
     "offset_y": -33.333333333333485,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

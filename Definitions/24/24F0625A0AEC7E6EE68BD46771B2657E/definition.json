@@ -2,12 +2,13 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/032/665/239/large/miguel-regodon-harkness-demon-female-copyright.jpg?1607098105",
   "md5": "24F0625A0AEC7E6EE68BD46771B2657E",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "costume",
-    "elf",
-    ""
+    "tales",
+    "arcana",
+    "5e",
+    "race",
+    "guide",
+    "demon",
+    "races"
   ],
   "small": {
     "scale": 1.5900000000000005,
@@ -27,5 +28,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

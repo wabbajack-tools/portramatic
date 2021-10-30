@@ -2,22 +2,8 @@
   "source": "https://i.pinimg.com/564x/06/19/b3/0619b34401355210a133f99ed6ad8d69.jpg",
   "md5": "1C5CAFCE5627C487A4D8026A68DB5F7D",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "art",
-    "head",
-    "portrait",
-    "photography",
-    "photo",
-    "painting",
-    "graphics",
-    "drawing",
-    "modern art",
-    "costume",
-    "female",
-    "elf",
-    ""
+    "cleric",
+    "shifter"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -37,5 +23,6 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,17 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/850/615/large/gerry-arthur-ailfir-von-donnerbach-by-gerryarthur-dakhy1b.jpg?1477945795",
   "md5": "064DF06C8ECF0371E7A27E16C97133B2",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "armor",
-    "people",
-    "samurai",
-    "knight",
-    "face",
-    "sport",
-    "sports",
-    ""
+    "medieval",
+    "lord"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +23,6 @@
     "offset_y": -43,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

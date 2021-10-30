@@ -2,17 +2,8 @@
   "source": "https://paizo.com/image/product/secondary/Pathfinder/Pathfinder2_Sorceress03.jpg",
   "md5": "463B849D88ABDF8A7D621AA3A189A6D7",
   "tags": [
-    "person",
-    "human",
-    "horse",
-    "animal",
-    "mammal",
-    "samurai",
-    "costume",
-    "kite",
-    "toy",
-    "Seoni",
-    "Pathfinder Iconic Sorcerer"
+    "pathfinder",
+    "sorcerer"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -32,5 +23,6 @@
     "offset_y": -104,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

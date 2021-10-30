@@ -1,14 +1,8 @@
 {
-  "source": "https://pbs.twimg.com/media/EaRfuUSX0AI7pl_?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EaRfuUSX0AI7pl_?format=jpg\u0026name=4096x4096",
   "md5": "1178E48C00A32C5158E3EE9F6FDF7491",
   "tags": [
-    "cross",
-    "symbol",
-    "clothing",
-    "apparel",
-    "world of warcraft",
-    "knight",
-    ""
+    "concept"
   ],
   "small": {
     "scale": 1.08,
@@ -28,5 +22,6 @@
     "offset_y": -80,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/035/857/366/large/seung-gu-1.jpg?1616080669",
   "md5": "66AE113191C99C1BF38F439B613592C4",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "helmet",
-    "clothing",
-    "apparel",
-    "people",
-    "samurai",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -30,5 +23,6 @@
     "offset_y": -112,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

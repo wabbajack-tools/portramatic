@@ -1,22 +1,10 @@
 {
-  "source": "https://f8n-ipfs-production.imgix.net/QmRKZMwxwZ5ZpzGdKsi34wxFjcyKfaYSBDPdJGgYXLD2dV/nft.jpg?q=80&w=1680&fit=fill&max-h=1680",
+  "source": "https://f8n-ipfs-production.imgix.net/QmRKZMwxwZ5ZpzGdKsi34wxFjcyKfaYSBDPdJGgYXLD2dV/nft.jpg?q=80\u0026w=1680\u0026fit=fill\u0026max-h=1680",
   "md5": "4FBA6580997D7F40789B095273836254",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "spandex",
-    "furniture",
-    "wasp",
-    "animal",
-    "invertebrate",
-    "insect",
-    "bee",
-    "andrena",
-    "hornet",
-    ""
+    "succubus",
+    "lord",
+    "book"
   ],
   "small": {
     "scale": 1.07,
@@ -36,5 +24,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

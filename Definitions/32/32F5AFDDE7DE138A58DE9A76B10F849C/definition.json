@@ -3,18 +3,7 @@
   "md5": "32F5AFDDE7DE138A58DE9A76B10F849C",
   "tags": [
     "knight",
-    "armor",
-    "person",
-    "human",
-    "samurai",
-    "bronze",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "character"
   ],
   "small": {
     "scale": 1.8500000000000008,
@@ -34,5 +23,6 @@
     "offset_y": -85,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

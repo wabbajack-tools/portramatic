@@ -2,11 +2,10 @@
   "source": "https://static.wikia.nocookie.net/xesteria/images/1/13/NorrisKnoxwood.png/revision/latest?cb=20200630143849",
   "md5": "046DC60DFDAAD605CD72F9CC51828B66",
   "tags": [
-    "armor",
-    "person",
-    "human",
-    "knight",
-    ""
+    "grey",
+    "warden",
+    "com",
+    "yamaorce"
   ],
   "small": {
     "scale": 1.4900000000000004,
@@ -26,5 +25,6 @@
     "offset_y": -15,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,17 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/016/216/633/large/bageumi-l-.jpg?1551346366",
   "md5": "4B6C43DCC1586E588348DE1AC5799772",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "bow",
-    "archery",
-    "sport",
-    "sports",
-    "clothing",
-    "apparel",
-    "archer",
-    "female mage"
+    "half",
+    "elf",
+    "arbalest",
+    "bageumi",
+    "."
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -32,5 +26,6 @@
     "offset_y": -136.1574074074066,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

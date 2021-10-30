@@ -2,21 +2,8 @@
   "source": "https://i.pinimg.com/564x/60/9b/bf/609bbf164aa7d38a1d5a0e5c38fe90a1.jpg",
   "md5": "2D6AFE40B2E50868A0C8063ED988E7F2",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "dance",
-    "clothing",
-    "apparel",
-    "dance pose",
-    "leisure activities",
-    "costume",
     "purple",
-    "crowd",
-    "female",
-    "carnival",
-    "Warlock"
+    "mage"
   ],
   "small": {
     "scale": 1.5700000000000005,
@@ -36,5 +23,6 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

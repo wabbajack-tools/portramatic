@@ -2,23 +2,8 @@
   "source": "https://i.imgur.com/CCN4TPn.jpg",
   "md5": "6A01DAD305929EFF942EE12ABDCEACDE",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "archery",
-    "bow",
-    "duel",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "crowd",
-    "elf",
-    "samurai",
-    "world of warcraft",
-    "tiefling",
-    "demon"
+    "warlock",
+    "tiefling"
   ],
   "small": {
     "scale": 1.1800000000000002,
@@ -38,5 +23,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

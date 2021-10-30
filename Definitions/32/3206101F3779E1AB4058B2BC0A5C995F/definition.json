@@ -2,10 +2,7 @@
   "source": "https://gal.cdn.renderosity.com/images/image_1792618/file_1792618.jpg?v=1233516984",
   "md5": "3206101F3779E1AB4058B2BC0A5C995F",
   "tags": [
-    "person",
-    "human",
-    "outdoors",
-    ""
+    "arachnia"
   ],
   "small": {
     "scale": 0.9000000000000001,
@@ -25,5 +22,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

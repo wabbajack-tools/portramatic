@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/564x/64/3e/ed/643eed7f58fbe5bd098c1c2f1830721f.jpg",
   "md5": "498438E13DF0CC120EA9DE81C8B24EA8",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "archer",
-    "sport",
-    "archery",
-    "bow",
-    "sports",
-    ""
+    "halfling",
+    "cleric",
+    "male"
   ],
   "small": {
     "scale": 1.5600000000000007,
@@ -30,5 +24,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

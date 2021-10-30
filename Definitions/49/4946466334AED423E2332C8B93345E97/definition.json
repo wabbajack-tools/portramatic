@@ -2,20 +2,8 @@
   "source": "https://spiderbobcomics.com/heroes/marvel/images/RedSonja04.jpg",
   "md5": "4946466334AED423E2332C8B93345E97",
   "tags": [
-    "person",
-    "human",
-    "elf",
-    "painting",
-    "art",
-    "female",
-    "bow",
-    "sport",
-    "sports",
-    "archery",
     "woman",
-    "photography",
-    "photo",
-    ""
+    "warriors"
   ],
   "small": {
     "scale": 0.94,
@@ -35,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

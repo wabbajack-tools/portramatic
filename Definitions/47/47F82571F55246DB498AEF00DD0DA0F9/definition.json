@@ -1,17 +1,12 @@
 {
-  "source": "https://pbs.twimg.com/media/E-Aqa-uWQAYA_la?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/E-Aqa-uWQAYA_la?format=jpg\u0026name=4096x4096",
   "md5": "47F82571F55246DB498AEF00DD0DA0F9",
   "tags": [
-    "person",
-    "human",
-    "manga",
-    "comics",
-    "book",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    ""
+    "pathfinder",
+    "wrath",
+    "righteous",
+    "female",
+    "lich"
   ],
   "small": {
     "scale": 1,
@@ -31,5 +26,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

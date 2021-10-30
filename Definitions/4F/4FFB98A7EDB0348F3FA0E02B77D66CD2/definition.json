@@ -1,26 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/E-sc0cLX0AQHt3D?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/E-sc0cLX0AQHt3D?format=jpg\u0026name=4096x4096",
   "md5": "4FFB98A7EDB0348F3FA0E02B77D66CD2",
   "tags": [
-    "furniture",
-    "couch",
-    "person",
-    "human",
-    "chair",
-    "clothing",
-    "apparel",
-    "living room",
-    "room",
-    "indoors",
-    "lcd screen",
-    "electronics",
-    "screen",
-    "monitor",
-    "display",
-    "sitting",
-    "flooring",
-    "home decor",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -40,5 +23,6 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

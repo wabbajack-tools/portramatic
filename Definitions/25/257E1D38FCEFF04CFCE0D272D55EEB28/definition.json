@@ -2,25 +2,9 @@
   "source": "https://www.videogamesartwork.com/sites/default/files/concept-art/1590659643/thebannersaga_character_main_juno_02_by_arnie_jorgensen.jpg",
   "md5": "257E1D38FCEFF04CFCE0D272D55EEB28",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "bow",
-    "hood",
-    "sweatshirt",
-    "sweater",
-    "costume",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "juno",
+    "banner",
+    "saga"
   ],
   "small": {
     "scale": 0.28999999999999937,
@@ -40,5 +24,6 @@
     "offset_y": -25,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

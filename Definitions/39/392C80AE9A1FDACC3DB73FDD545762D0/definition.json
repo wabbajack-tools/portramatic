@@ -2,18 +2,9 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/022/722/775/large/yuri-choi-1215-1000.jpg",
   "md5": "392C80AE9A1FDACC3DB73FDD545762D0",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "bow",
-    "sport",
-    "sports",
-    "archery",
-    "bronze",
-    "samurai",
-    ""
+    "female",
+    "leather",
+    "armor"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -33,5 +24,6 @@
     "offset_y": -78,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

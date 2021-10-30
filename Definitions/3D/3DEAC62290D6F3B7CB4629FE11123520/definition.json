@@ -2,21 +2,8 @@
   "source": "https://i.pinimg.com/564x/f0/36/76/f03676fc5b2d6bd7caadf5f6d3d0f348.jpg",
   "md5": "3DEAC62290D6F3B7CB4629FE11123520",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
     "female",
-    "dress",
-    "woman",
-    "girl",
-    "samurai",
-    "painting",
-    "art",
-    "dragon",
-    "angel",
-    "aasimar"
+    "duelist"
   ],
   "small": {
     "scale": 1.4000000000000004,
@@ -36,5 +23,6 @@
     "offset_y": -43,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

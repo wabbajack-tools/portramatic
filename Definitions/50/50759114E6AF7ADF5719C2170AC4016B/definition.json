@@ -2,12 +2,13 @@
   "source": "https://i.pinimg.com/originals/4e/a1/ca/4ea1ca4c2237a431cba622a983a34119.jpg",
   "md5": "50759114E6AF7ADF5719C2170AC4016B",
   "tags": [
-    "costume",
-    "person",
+    "mage",
+    "apprentice",
+    "artdeepmind",
     "human",
-    "clothing",
-    "apparel",
-    ""
+    "wizard",
+    "with",
+    "wand"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +28,6 @@
     "offset_y": -70,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

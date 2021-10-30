@@ -2,27 +2,8 @@
   "source": "https://i.pinimg.com/564x/72/67/2a/72672a0e76cbf1e6dfc15647827ad111.jpg",
   "md5": "260DBE468C25EF0D48C2A260E6247433",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "costume",
-    "clothing",
-    "apparel",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    "quake",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "rogue",
+    "female"
   ],
   "small": {
     "scale": 1.2100000000000002,
@@ -42,5 +23,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/030/856/331/large/ivana-abbate-galgith.jpg?1601883988",
   "md5": "6CD04F9B52C69023454EF40D187FD293",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "footwear",
-    "manga",
-    "book",
-    "comics",
-    "boot",
-    "duel",
-    "ninja",
-    ""
+    "tiefling",
+    "character",
+    "ivana",
+    "abbate",
+    "fictional"
   ],
   "small": {
     "scale": 0.3099999999999994,
@@ -33,5 +26,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

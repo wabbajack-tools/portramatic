@@ -2,13 +2,8 @@
   "source": "https://pbs.twimg.com/media/E8glGZTXMAA_ZqV.jpg",
   "md5": "0F2F68A62EE81E0B14EF3F0E8BD89B22",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "mammal",
-    "animal",
-    "knight",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -28,5 +23,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

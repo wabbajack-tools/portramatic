@@ -2,16 +2,7 @@
   "source": "https://i.pinimg.com/564x/32/d0/72/32d072b5113d2c1f251d0b60024ce8cf.jpg",
   "md5": "67EB6E28271CD5460EA5622FE3E6B61A",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "elf",
-    "samurai",
-    "ninja",
-    "Angel"
+    "mage"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -31,5 +22,6 @@
     "offset_y": -76,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

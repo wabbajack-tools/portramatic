@@ -2,21 +2,9 @@
   "source": "https://i.pinimg.com/564x/13/58/de/1358de2248afb7a4c64c2d0cf0652108.jpg",
   "md5": "69557A05BA30A1F89D80EB8465FCF4BD",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "hair",
-    "elf",
-    "costume",
-    "head",
-    "art",
     "female",
-    "portrait",
-    "photography",
-    "photo",
-    "poster",
-    "advertisement",
-    ""
+    "elf",
+    "portrait"
   ],
   "small": {
     "scale": 1.5300000000000005,
@@ -36,5 +24,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

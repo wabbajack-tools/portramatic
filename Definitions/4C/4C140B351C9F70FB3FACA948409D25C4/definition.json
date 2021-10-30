@@ -2,13 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/568/669/large/veronika-kozlova-ancient-lord.jpg?1475094387",
   "md5": "4C140B351C9F70FB3FACA948409D25C4",
   "tags": [
-    "elf",
-    "person",
-    "human",
-    "dragon",
-    "world of warcraft",
-    "art",
-    ""
+    "male",
+    "tiefling"
   ],
   "small": {
     "scale": 0.7699999999999998,
@@ -28,5 +23,6 @@
     "offset_y": -86.40000000000009,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

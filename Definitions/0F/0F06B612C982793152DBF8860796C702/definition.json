@@ -2,24 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/033/045/944/large/zoe-badini-evoker-s.jpg?1608225246",
   "md5": "0F06B612C982793152DBF8860796C702",
   "tags": [
-    "dance pose",
-    "leisure activities",
-    "person",
-    "human",
-    "adventure",
-    "painting",
-    "art",
-    "dance",
-    "outdoors",
-    "animal",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    "flying",
-    "bird",
-    "finger",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -39,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

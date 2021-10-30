@@ -2,13 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2324806/file_2324806.jpg?v=1335749895",
   "md5": "63F059EAC6AD6FBE998E6099236841F1",
   "tags": [
-    "elf",
-    "art",
-    "person",
-    "human",
-    "wall",
-    "dungeon",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -28,5 +23,6 @@
     "offset_y": -50,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

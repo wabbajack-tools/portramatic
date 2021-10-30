@@ -2,23 +2,8 @@
   "source": "https://vignette.wikia.nocookie.net/gwent/images/3/37/Milaen.jpg/revision/latest?cb=20180331101322",
   "md5": "366E19ADAB9DC52C206E3ECB408C0791",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "vegetation",
-    "plant",
-    "nature",
-    "land",
-    "outdoors",
-    "samurai",
-    "sport",
-    "sports",
-    "drawing",
-    "archery",
-    "bow",
-    "female. archer. hood",
-    "ranger"
+    "milaen",
+    "gwent"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -38,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,9 @@
   "source": "https://static.wikia.nocookie.net/mrfz/images/6/6c/Doctor.png/revision/latest?cb=20190823210844",
   "md5": "49889F0C45A9E38105B3E849C1D5F7E6",
   "tags": [
-    "clothing",
-    "apparel",
-    "coat",
-    "helmet",
-    "jacket",
-    "overcoat",
-    "person",
-    "human",
-    "backpack",
-    "bag",
-    "hip",
-    ""
+    "arknights",
+    "doctor",
+    "cosplay"
   ],
   "small": {
     "scale": 1,
@@ -33,5 +24,6 @@
     "offset_y": 2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

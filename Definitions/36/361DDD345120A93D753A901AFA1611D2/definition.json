@@ -2,23 +2,7 @@
   "source": "https://i.imgur.com/pbrq7AI.jpeg",
   "md5": "361DDD345120A93D753A901AFA1611D2",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "military",
-    "military uniform",
-    "samurai",
-    "army",
-    "armored",
-    "soldier",
-    "female",
-    "outdoors",
-    "monk",
-    "hunter"
+    "warlock"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -38,5 +22,6 @@
     "offset_y": -35.24074074074065,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

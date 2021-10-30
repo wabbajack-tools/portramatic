@@ -2,14 +2,9 @@
   "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_13.jpg",
   "md5": "6F6F8412755744F7C81579923DB34B17",
   "tags": [
-    "world of warcraft",
-    "dragon",
-    "lobster",
-    "animal",
-    "food",
-    "sea life",
-    "seafood",
-    "League"
+    "galaxy",
+    "slayer",
+    "zed"
   ],
   "small": {
     "scale": 0.96,
@@ -29,5 +24,6 @@
     "offset_y": -5.600000000000705,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

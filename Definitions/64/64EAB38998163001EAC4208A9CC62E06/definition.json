@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/564x/e9/15/c6/e915c657ff61bfa2c60e31e3851f92dd.jpg",
   "md5": "64EAB38998163001EAC4208A9CC62E06",
   "tags": [
-    "clothing",
-    "apparel",
-    "fashion",
-    "cloak",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "costume",
-    ""
+    "dark",
+    "cleric"
   ],
   "small": {
     "scale": 2.0200000000000005,
@@ -31,5 +23,6 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

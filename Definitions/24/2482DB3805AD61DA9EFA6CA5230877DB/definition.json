@@ -2,20 +2,10 @@
   "source": "https://i.pinimg.com/736x/3e/ee/79/3eee79459a8ff240d0db5049f70824dc--character-concept-character-art.jpg",
   "md5": "2482DB3805AD61DA9EFA6CA5230877DB",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "helmet",
-    "clothing",
-    "apparel",
-    "samurai",
+    "futuristic",
+    "power",
     "armor",
-    "architecture",
-    "building",
-    "weapon",
-    "weaponry",
-    "Alhazra",
-    "Pathfinder Iconic Oracle"
+    "knight"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -35,5 +25,6 @@
     "offset_y": -72,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

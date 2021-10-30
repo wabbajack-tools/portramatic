@@ -2,23 +2,8 @@
   "source": "https://i.pinimg.com/736x/b6/b1/af/b6b1af3f445b7620faff8c12cf2ce617--fantasy-rpg-paladin.jpg",
   "md5": "531241F4C9F5C209D31931420219CC17",
   "tags": [
-    "person",
-    "human",
-    "weapon",
-    "weaponry",
-    "knight",
-    "blade",
-    "clothing",
-    "apparel",
-    "female",
-    "dragon",
-    "symbol",
-    "building",
-    "architecture",
-    "emblem",
-    "pillar",
-    "column",
-    ""
+    "armored",
+    "god"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -38,5 +23,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

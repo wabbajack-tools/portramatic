@@ -2,13 +2,8 @@
   "source": "http://www.artofmtg.com/wp-content/uploads/2019/09/Rankle-Master-of-Pranks-Throne-of-Eldraine-MtG-Art.jpg",
   "md5": "5AC4A869E619D182C68B190AA78561DB",
   "tags": [
-    "painting",
-    "art",
-    "dragon",
-    "person",
-    "human",
-    "mtg",
-    "halfling"
+    "rankle",
+    "mtg"
   ],
   "small": {
     "scale": 0.94,
@@ -28,5 +23,6 @@
     "offset_y": -11.212962962962479,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

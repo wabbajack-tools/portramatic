@@ -2,13 +2,10 @@
   "source": "http://image.noelshack.com/fichiers/2021/41/6/1634384020-a0756be147b13f5a596c4fdfbc548975.png",
   "md5": "3C7C6A78D2D86655FB5B4B8633D84760",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "knight",
-    "Half-orc"
+    "artworks",
+    "dark",
+    "elf",
+    "tiefling"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -24,9 +21,10 @@
   },
   "full": {
     "scale": 1.0088333333333337,
-    "offset_x": 1.3642420526593924e-12,
+    "offset_x": 1.3642420526593924E-12,
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/originals/72/90/d6/7290d6be30c57d9b06138f2942354de6.png",
   "md5": "68EAEDF52BF9DA50C2E6CBEE0A539E95",
   "tags": [
-    "helmet",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "bronze",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "knight",
-    "blade",
-    "toy",
+    "fighter",
+    "plate",
     "armor"
   ],
   "small": {
@@ -34,5 +24,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

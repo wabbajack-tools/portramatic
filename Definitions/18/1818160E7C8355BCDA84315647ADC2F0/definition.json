@@ -2,21 +2,7 @@
   "source": "https://i.imgur.com/qH9z0xQ.png",
   "md5": "1818160E7C8355BCDA84315647ADC2F0",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "skin",
-    "outdoors",
-    "duel",
-    "tree",
-    "plant",
-    "nature",
-    "statue",
-    "sculpture",
-    "soil",
-    "brick",
-    ""
+    "zombie"
   ],
   "small": {
     "scale": 1.41,
@@ -36,5 +22,6 @@
     "offset_y": -4.5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

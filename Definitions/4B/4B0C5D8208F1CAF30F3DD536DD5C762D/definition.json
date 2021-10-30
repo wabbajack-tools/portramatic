@@ -2,17 +2,10 @@
   "source": "https://i.pinimg.com/originals/7d/8d/83/7d8d83f352f313696ba9ac1e7a90b530.jpg",
   "md5": "4B0C5D8208F1CAF30F3DD536DD5C762D",
   "tags": [
-    "clothing",
-    "apparel",
-    "fashion",
-    "person",
+    "male",
     "human",
-    "robe",
-    "costume",
-    "art",
-    "gown",
-    "kimono",
-    ""
+    "oracle",
+    "pathfinder"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +25,6 @@
     "offset_y": -74,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

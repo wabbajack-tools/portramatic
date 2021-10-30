@@ -2,17 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/039/871/153/large/linda-lithen-dragonknight.jpg?1627204523=",
   "md5": "550D62295CFB662A0B75046D2E984054",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
     "dragon",
-    "costume",
-    "duel",
-    "sport",
-    "sports",
-    "elf",
-    "Sword saint"
+    "rider",
+    "female",
+    "httyd",
+    "oc"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -32,5 +26,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

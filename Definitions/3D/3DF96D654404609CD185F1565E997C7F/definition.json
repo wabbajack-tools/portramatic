@@ -2,10 +2,10 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/015/216/288/large/sleepingfox-shien-r-w-magus-levin-da.jpg?1547521513",
   "md5": "3DF96D654404609CD185F1565E997C7F",
   "tags": [
-    "person",
-    "human",
-    "world of warcraft",
-    ""
+    "magus",
+    "levin",
+    "sleepingfox",
+    "kitsune"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -25,5 +25,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

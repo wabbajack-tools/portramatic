@@ -2,15 +2,10 @@
   "source": "https://i.pinimg.com/originals/38/7c/db/387cdbba39ef0e6818195c3e51b5cad0.jpg",
   "md5": "0281FCF9B19ED449AEAEF9EA9DE30DDB",
   "tags": [
-    "clothing",
-    "apparel",
-    "coat",
-    "overcoat",
-    "person",
-    "human",
-    "cloak",
-    "fashion",
-    ""
+    "male",
+    "red",
+    "hair",
+    "wizard"
   ],
   "small": {
     "scale": 0.8299999999999998,
@@ -30,5 +25,6 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

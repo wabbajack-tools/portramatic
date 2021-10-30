@@ -2,11 +2,12 @@
   "source": "https://cdn.staticneo.com/ew/thumb/7/7f/Demon.jpg/662px-Demon.jpg",
   "md5": "034479BB139C1F3B8CC720F840CFB047",
   "tags": [
-    "person",
-    "human",
-    "dragon",
-    "world of warcraft",
-    ""
+    "pathfinder",
+    "wrath",
+    "righteous",
+    "demon",
+    "mythic",
+    "path"
   ],
   "small": {
     "scale": 1.5900000000000005,
@@ -26,5 +27,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

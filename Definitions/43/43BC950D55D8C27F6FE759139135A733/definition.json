@@ -1,14 +1,9 @@
 {
-  "source": "https://external-preview.redd.it/tCwFjGTsYfLth9f-VH1oGHce8U-C_bPF6PSnDrrNKPg.jpg?auto=webp&s=7d0a054aa7c3eddbf13379cb286576f6412b3218",
+  "source": "https://external-preview.redd.it/tCwFjGTsYfLth9f-VH1oGHce8U-C_bPF6PSnDrrNKPg.jpg?auto=webp\u0026s=7d0a054aa7c3eddbf13379cb286576f6412b3218",
   "md5": "43BC950D55D8C27F6FE759139135A733",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "batman",
-    "advertisement",
-    ""
+    "elf",
+    "gun"
   ],
   "small": {
     "scale": 0.6899999999999997,
@@ -28,5 +23,6 @@
     "offset_y": -94,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

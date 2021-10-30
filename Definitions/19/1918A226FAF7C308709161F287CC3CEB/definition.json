@@ -2,9 +2,10 @@
   "source": "https://krot.mobi/uploads/posts/2019-08/1565171757_samuraj-voin-fjentezi-art-37.jpg",
   "md5": "1918A226FAF7C308709161F287CC3CEB",
   "tags": [
-    "armor",
-    "knight",
-    "barbarian"
+    "custom",
+    "warrior",
+    "token",
+    "mtg"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -24,5 +25,6 @@
     "offset_y": -37,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

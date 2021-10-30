@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/736x/01/b4/62/01b4626627cd6452e8da3ad1c54a5f0b.jpg",
   "md5": "638C8BB880EB36263ACD83417A27415E",
   "tags": [
-    "person",
     "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "knight",
-    ""
+    "male",
+    "rogue"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -28,5 +24,6 @@
     "offset_y": -54,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

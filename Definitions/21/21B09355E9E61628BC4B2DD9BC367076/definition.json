@@ -2,17 +2,10 @@
   "source": "https://i.pinimg.com/originals/85/61/57/8561570aea296617508626da2cbf0bec.jpg",
   "md5": "21B09355E9E61628BC4B2DD9BC367076",
   "tags": [
-    "clothing",
-    "apparel",
-    "manga",
-    "comics",
-    "book",
-    "fashion",
-    "person",
-    "human",
-    "cloak",
-    "cape",
-    ""
+    "monster",
+    "girl",
+    "encyclopedia",
+    "undead"
   ],
   "small": {
     "scale": 0.4099999999999995,
@@ -32,5 +25,6 @@
     "offset_y": -54,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

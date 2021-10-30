@@ -2,14 +2,8 @@
   "source": "https://otvet.imgsmail.ru/download/u_b86eb8cb9a88355828fba6fd6716cbaf_800.jpg",
   "md5": "2D1D74777AE10F2F052DFF4485027E0A",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "beard",
-    "painting",
-    "art",
-    "head",
-    ""
+    "picture",
+    "frame"
   ],
   "small": {
     "scale": 0.3099999999999994,
@@ -29,5 +23,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

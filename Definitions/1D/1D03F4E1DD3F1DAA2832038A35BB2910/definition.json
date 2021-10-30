@@ -1,14 +1,10 @@
 {
-  "source": "https://pbs.twimg.com/media/E7GhPRtXoAUGcPs?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/E7GhPRtXoAUGcPs?format=jpg\u0026name=medium",
   "md5": "1D03F4E1DD3F1DAA2832038A35BB2910",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    ""
+    "blue",
+    "tiefling",
+    "paladin"
   ],
   "small": {
     "scale": 1.1400000000000001,
@@ -28,5 +24,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

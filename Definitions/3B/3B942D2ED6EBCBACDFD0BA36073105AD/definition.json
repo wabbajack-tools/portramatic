@@ -2,13 +2,8 @@
   "source": "https://i.redd.it/xbz2coz1t7361.jpg",
   "md5": "3B942D2ED6EBCBACDFD0BA36073105AD",
   "tags": [
-    "art",
-    "person",
-    "human",
-    "angel",
-    "archangel",
-    "fire",
-    "Angel"
+    "warrior",
+    "angel"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -28,5 +23,6 @@
     "offset_y": -112,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

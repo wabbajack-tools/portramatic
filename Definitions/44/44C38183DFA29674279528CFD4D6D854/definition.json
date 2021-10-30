@@ -2,15 +2,9 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/023/791/178/large/jonathan-romeo-xayah-sd-2.jpg?1580341876",
   "md5": "44C38183DFA29674279528CFD4D6D854",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "head",
-    "face",
-    "hood",
-    ""
+    "league",
+    "legends",
+    "sevenbees"
   ],
   "small": {
     "scale": 0.23999999999999932,
@@ -30,5 +24,6 @@
     "offset_y": -3.2037037037036953,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

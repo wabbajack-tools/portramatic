@@ -2,20 +2,15 @@
   "source": "https://i.pinimg.com/originals/48/75/1d/48751d03ea0f5dc7bb6bb0cff05cd52d.jpg",
   "md5": "0EF86BDA6AB723DF5D674790DE482153",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "face",
     "female",
-    "art",
-    "clothing",
-    "apparel",
-    "photography",
-    "photo",
-    "portrait",
-    "head",
-    "crowd",
-    ""
+    "portraits",
+    "humans",
+    "with",
+    "dark",
+    "hair",
+    "fantasy-npc",
+    "human",
+    "portrait"
   ],
   "small": {
     "scale": 0.27999999999999936,
@@ -35,5 +30,6 @@
     "offset_y": -29,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

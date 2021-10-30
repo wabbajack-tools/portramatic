@@ -2,19 +2,9 @@
   "source": "https://i.imgur.com/ylogAEI.jpg",
   "md5": "01FFFCEE0AECCEAFA40B5C1459CC9568",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "armor",
-    "samurai",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "world of warcraft",
-    "face",
-    "female",
-    ""
+    "tomas",
+    "duchek",
+    "blacksmith"
   ],
   "small": {
     "scale": 0.28999999999999937,
@@ -34,5 +24,6 @@
     "offset_y": -53.37962962962973,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,9 @@
   "source": "https://i.imgur.com/bENsO30.jpeg",
   "md5": "252BE0F2A3E488B90A7AD1304FB10317",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "Human",
-    "Male",
-    "Magus",
-    "Sword Saint",
-    "White",
-    "Sword"
+    "rogue",
+    "leather",
+    "armor"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

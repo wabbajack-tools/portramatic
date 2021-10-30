@@ -2,20 +2,7 @@
   "source": "https://i.pinimg.com/originals/0b/95/25/0b9525ec42984cf113ade9758bdf1cf3.jpg",
   "md5": "57F253A7D5C8F3F8E366EEABDD0F2280",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "armor",
-    "bronze",
-    "toy",
-    "clothing",
-    "apparel",
-    "costume",
-    "fire",
-    "art",
-    "warrior",
-    "paladin",
-    "cleric"
+    "paladin"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -35,5 +22,6 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,9 @@
   "source": "https://i.imgur.com/GygzTAr.jpeg",
   "md5": "2CCD59E8A455058C318385F369E88D86",
   "tags": [
-    "person",
     "human",
-    "clothing",
-    "apparel",
-    "costume",
-    "armor",
-    "sleeve",
-    "samurai",
-    ""
+    "eldritch",
+    "knight"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +24,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

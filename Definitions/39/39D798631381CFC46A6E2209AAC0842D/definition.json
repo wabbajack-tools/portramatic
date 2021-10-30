@@ -2,26 +2,8 @@
   "source": "https://i.pinimg.com/564x/12/4b/71/124b71deea1fab2f5789eff038f9d9d2.jpg",
   "md5": "39D798631381CFC46A6E2209AAC0842D",
   "tags": [
-    "person",
     "human",
-    "armor",
-    "clothing",
-    "apparel",
-    "costume",
-    "female",
-    "face",
-    "knight",
-    "woman",
-    "painting",
-    "art",
-    "samurai",
-    "duel",
-    "angel",
-    "archangel",
-    "green",
-    "elf",
-    "graphics",
-    "necromancer"
+    "knight"
   ],
   "small": {
     "scale": 1.5000000000000004,
@@ -41,5 +23,6 @@
     "offset_y": -27,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

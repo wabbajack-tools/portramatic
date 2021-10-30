@@ -2,20 +2,9 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/028/075/115/large/theresa-konigseder-haller-tiefling-fighter.jpg?1593426851",
   "md5": "4398FDF9D86ACAA8D112FEB76E7D6CBF",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "crowd",
-    "clothing",
-    "apparel",
-    "costume",
-    "art",
-    "cape",
-    "painting",
-    "elf",
-    "world of warcraft",
-    "tiefling",
-    "demon"
+    "artworks",
+    "male",
+    "tiefling"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -35,5 +24,6 @@
     "offset_y": -82,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

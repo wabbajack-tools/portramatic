@@ -2,18 +2,12 @@
   "source": "https://i.pinimg.com/564x/df/a9/5a/dfa95a9f834bf9f58d15935113821123.jpg",
   "md5": "209597EE533D60F5218E65582A1E95B7",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "sport",
-    "sports",
-    "bow",
     "female",
-    "elf",
-    "clothing",
-    "apparel",
-    "archery",
-    "female mage"
+    "characters",
+    "concept",
+    "george",
+    "vostrikov",
+    "character"
   ],
   "small": {
     "scale": 2.1199999999999983,
@@ -33,5 +27,6 @@
     "offset_y": -40.04629629629562,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

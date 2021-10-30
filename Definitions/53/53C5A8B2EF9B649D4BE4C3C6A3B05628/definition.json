@@ -2,13 +2,8 @@
   "source": "https://i.imgur.com/2tc5OQ2.png",
   "md5": "53C5A8B2EF9B649D4BE4C3C6A3B05628",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "painting",
-    "art",
-    "people",
-    ""
+    "orc",
+    "character"
   ],
   "small": {
     "scale": 1.4800000000000004,
@@ -28,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

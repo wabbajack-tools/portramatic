@@ -2,22 +2,10 @@
   "source": "https://pathfinderwiki.com/mediawiki/images/c/c3/Paladin_of_Shelyn.jpg",
   "md5": "5577CC96358ACB68F43858BEFC16BBAB",
   "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "bow",
-    "cloak",
-    "fashion",
-    "cape",
-    "person",
-    "human",
-    "performer",
-    "magician",
-    "robe",
-    "weapon",
-    "weaponry",
-    "stick",
-    "paladin"
+    "shelyn",
+    "paladin",
+    "saraforlenza",
+    "pathfinder"
   ],
   "small": {
     "scale": 1,
@@ -37,5 +25,6 @@
     "offset_y": -2.6666666666667425,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,20 +2,9 @@
   "source": "https://i.pinimg.com/564x/8e/1b/c1/8e1bc17be7024892e8cb762310da57f7.jpg",
   "md5": "5934844D4594BD4968669E251FB64AFE",
   "tags": [
-    "person",
-    "human",
-    "head",
-    "clothing",
-    "apparel",
-    "costume",
-    "tattoo",
+    "dark",
     "skin",
-    "figurine",
-    "treasure",
-    "alien",
-    "tartan",
-    "plaid",
-    ""
+    "girl"
   ],
   "small": {
     "scale": 1.2099999999999997,
@@ -35,5 +24,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

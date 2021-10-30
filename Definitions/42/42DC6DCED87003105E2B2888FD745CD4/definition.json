@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/564x/dc/e4/fc/dce4fc4bff71d8a175b24f483247a98f.jpg",
   "md5": "42DC6DCED87003105E2B2888FD745CD4",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "armor",
-    "bird",
-    "animal",
-    "shield",
-    ""
+    "samurai",
+    "warriors",
+    "artwork"
   ],
   "small": {
     "scale": 0.97,
@@ -30,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

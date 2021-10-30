@@ -1,15 +1,10 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fd3%2Fd5%2Fe4%2Fd3d5e4d9d8c0c928ae40d50f9531752d--fantasy-male-fantasy-artwork.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fd3%2Fd5%2Fe4%2Fd3d5e4d9d8c0c928ae40d50f9531752d--fantasy-male-fantasy-artwork.jpg\u0026f=1\u0026nofb=1",
   "md5": "6A02772537A0497955A4D4758062DD12",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "figurine",
-    "angel",
-    "archangel",
-    ""
+    "aasimar",
+    "male",
+    "paladin"
   ],
   "small": {
     "scale": 0.8499999999999999,
@@ -29,5 +24,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

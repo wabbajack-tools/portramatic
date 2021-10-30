@@ -2,17 +2,10 @@
   "source": "https://gamepress.gg/feheroes/sites/fireemblem/files/2019-07/Claude_Neutral.png",
   "md5": "26E33F99CE06C10349116BDB4961AFF9",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "overcoat",
-    "coat",
-    "costume",
-    "manga",
-    "book",
-    "comics",
-    "Claude"
+    "claude",
+    "fire",
+    "emblem",
+    "heroes"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -32,5 +25,6 @@
     "offset_y": 12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

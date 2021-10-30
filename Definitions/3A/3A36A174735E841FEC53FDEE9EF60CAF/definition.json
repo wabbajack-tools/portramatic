@@ -2,17 +2,8 @@
   "source": "https://i.pinimg.com/originals/7c/b9/78/7cb978602e792e81c2a5bb3c2afb6b1f.jpg",
   "md5": "3A36A174735E841FEC53FDEE9EF60CAF",
   "tags": [
-    "armor",
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "knight",
-    "bronze",
-    ""
+    "eliander",
+    "fireborn"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -32,5 +23,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

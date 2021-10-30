@@ -2,17 +2,8 @@
   "source": "https://i.pinimg.com/564x/89/b3/0a/89b30a3c7c1cdc1511b03573a7bd5fbf.jpg",
   "md5": "28773F5C4C147C51258D9DBAF4716980",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "people",
-    "knight",
-    "samurai",
-    "costume",
-    "face",
-    "sport",
-    "sports",
-    ""
+    "medieval",
+    "lord"
   ],
   "small": {
     "scale": 1.8400000000000007,
@@ -32,5 +23,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

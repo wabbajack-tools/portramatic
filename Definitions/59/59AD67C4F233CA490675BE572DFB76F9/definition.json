@@ -2,13 +2,9 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/156/280/4k/weta-workshop-design-studio-2-5483gloins-regal-armour-nk.jpg",
   "md5": "59AD67C4F233CA490675BE572DFB76F9",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    ""
+    "dwarves",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.22999999999999937,
@@ -28,5 +24,6 @@
     "offset_y": -53,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

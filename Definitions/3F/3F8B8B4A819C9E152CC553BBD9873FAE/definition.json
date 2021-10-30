@@ -1,17 +1,8 @@
 {
-  "source": "https://www.artrenewal.org/secureimages/artwork/500/7500/42910/Vallejo_Victory-large.jpg?&format=jpg&mode=max&w=800&h=800",
+  "source": "https://www.artrenewal.org/secureimages/artwork/500/7500/42910/Vallejo_Victory-large.jpg?\u0026format=jpg\u0026mode=max\u0026w=800\u0026h=800",
   "md5": "3F8B8B4A819C9E152CC553BBD9873FAE",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "outdoors",
-    "modern art",
-    "nature",
-    "plant",
-    "water",
-    ""
+    "dragon"
   ],
   "small": {
     "scale": 1.4000000000000004,
@@ -31,5 +22,6 @@
     "offset_y": -90,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

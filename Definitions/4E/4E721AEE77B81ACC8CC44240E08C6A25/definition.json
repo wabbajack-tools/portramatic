@@ -2,27 +2,8 @@
   "source": "https://i.redd.it/emqixjlxkog71.jpg",
   "md5": "4E721AEE77B81ACC8CC44240E08C6A25",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "overcoat",
-    "coat",
-    "sleeve",
-    "photography",
-    "photo",
-    "footwear",
-    "boot",
-    "costume",
-    "portrait",
-    "face",
-    "samurai",
-    "long sleeve",
-    "swashbucker",
-    "sword",
-    "rogue",
-    "gnome",
-    "dwarf"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.28999999999999937,
@@ -42,5 +23,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

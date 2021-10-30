@@ -2,23 +2,12 @@
   "source": "https://i.imgur.com/AmaJQXB.png",
   "md5": "31945100671F361E50ECFCE8185A40D1",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "armor",
-    "costume",
-    "clothing",
-    "apparel",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "mythic",
+    "path",
+    "pathfinder",
+    "wrath",
+    "righteous",
+    "portraits"
   ],
   "small": {
     "scale": 0.7299999999999999,
@@ -38,5 +27,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

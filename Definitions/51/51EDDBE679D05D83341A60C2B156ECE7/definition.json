@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/originals/13/4d/2a/134d2a7a8a3c364d1b201eddbff795f3.png",
   "md5": "51EDDBE679D05D83341A60C2B156ECE7",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "prayer",
-    "worship",
-    "angel",
-    "archangel",
-    "elf",
-    ""
+    "dwarf",
+    "wizard"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -31,5 +23,6 @@
     "offset_y": -107,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

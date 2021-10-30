@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/50/25/2b/50252b8131c820d04a52e8296b11d8b6.jpg",
   "md5": "1BB39F79035492ED3BF8D93C00122337",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "hand",
-    "duel",
-    "photography",
-    "photo",
-    ""
+    "gnome",
+    "artificer"
   ],
   "small": {
     "scale": 1.1399999999999986,
@@ -30,5 +23,6 @@
     "offset_y": -2.666666666666913,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

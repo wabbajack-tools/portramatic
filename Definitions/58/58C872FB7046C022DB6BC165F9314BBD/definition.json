@@ -2,18 +2,9 @@
   "source": "https://static.wikia.nocookie.net/omniversal-battlefield/images/7/73/Mage_%28D%26D%29.jpg/revision/latest?cb=20200118204144",
   "md5": "58C872FB7046C022DB6BC165F9314BBD",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "samurai",
-    "priest",
-    "cleric"
+    "wizard",
+    "leather",
+    "armour"
   ],
   "small": {
     "scale": 1.07,
@@ -33,5 +24,6 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

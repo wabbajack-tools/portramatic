@@ -2,11 +2,8 @@
   "source": "https://i.pinimg.com/originals/da/62/6d/da626d390a1b04818090367d050cfcc1.jpg",
   "md5": "32E4D8938130EA81F98C7B2EA4E45962",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "samurai",
-    ""
+    "dark",
+    "armor"
   ],
   "small": {
     "scale": 0.8499999999999999,
@@ -26,5 +23,6 @@
     "offset_y": -1.9999999999999716,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

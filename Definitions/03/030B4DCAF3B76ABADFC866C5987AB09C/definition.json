@@ -2,22 +2,8 @@
   "source": "https://i.pinimg.com/originals/71/90/54/71905459a2d271e26240d287fff438ee.jpg",
   "md5": "030B4DCAF3B76ABADFC866C5987AB09C",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "person",
-    "human",
-    "comics",
-    "book",
-    "manga",
-    "paper",
-    "poster",
-    "advertisement",
-    "elf",
     "female",
-    ""
+    "elf"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -37,5 +23,6 @@
     "offset_y": -50,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

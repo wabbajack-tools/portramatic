@@ -2,34 +2,8 @@
   "source": "https://64.media.tumblr.com/ea2d4f796f170e2420f17b7a2b2d1690/tumblr_nbnkg5XEVk1qlfjv8o1_1280.jpg",
   "md5": "6B2FA85356BFFBA44CE3703A3D8C7425",
   "tags": [
-    "painting",
-    "art",
-    "fire",
-    "architecture",
-    "building",
-    "flame",
-    "knight",
-    "world of warcraft",
-    "clothing",
-    "apparel",
-    "bird",
-    "animal",
-    "person",
-    "human",
-    "costume",
-    "skin",
-    "footwear",
-    "female",
-    "people",
-    "boot",
-    "photography",
-    "photo",
-    "shoe",
-    "drawing",
-    "wood",
-    "text",
-    "pants",
-    ""
+    "warrior",
+    "ogre"
   ],
   "small": {
     "scale": 0.95,
@@ -49,5 +23,6 @@
     "offset_y": -32,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

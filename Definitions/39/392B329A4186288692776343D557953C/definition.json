@@ -2,17 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/020/660/708/large/liz-sun-the-princess-of-jrax-by-liz-sun-narrow.jpg?1568671283",
   "md5": "392B329A4186288692776343D557953C",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "half elf",
-    "female",
-    "white hair",
-    "swords",
-    "armor"
+    "warrior",
+    "princess"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -32,5 +23,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

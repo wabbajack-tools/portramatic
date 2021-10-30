@@ -2,16 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2747275/b810e83b5f7392c39c19d5fb9b3fa56b_original.jpg?v=1494833354",
   "md5": "18FE7C02BA5CA76A80A6578EA29EA539",
   "tags": [
-    "dragon",
-    "person",
-    "human",
-    "symbol",
-    "building",
-    "architecture",
-    "emblem",
-    "pillar",
-    "column",
-    ""
+    "mythical",
+    "creature"
   ],
   "small": {
     "scale": 0.98,
@@ -31,5 +23,6 @@
     "offset_y": -188,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

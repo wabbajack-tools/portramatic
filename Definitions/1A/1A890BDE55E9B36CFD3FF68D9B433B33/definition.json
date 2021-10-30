@@ -2,16 +2,10 @@
   "source": "https://i.pinimg.com/564x/33/03/6b/33036b545b08224e5dda2b4c4b12d18a.jpg",
   "md5": "1A890BDE55E9B36CFD3FF68D9B433B33",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "cloak",
-    "fashion",
-    "costume",
-    "hood",
-    "cape",
-    ""
+    "half",
+    "orc",
+    "portrait",
+    "pathfinder"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -31,5 +25,6 @@
     "offset_y": -15.203703703703809,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

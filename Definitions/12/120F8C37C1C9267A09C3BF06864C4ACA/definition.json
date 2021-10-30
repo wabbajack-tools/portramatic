@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/originals/31/49/c8/3149c8a6ab5b3be8ef1620f08d65862a.jpg",
   "md5": "120F8C37C1C9267A09C3BF06864C4ACA",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "elf",
-    "costume",
-    "world of warcraft",
-    "knight",
-    ""
+    "character",
+    "inspiration"
   ],
   "small": {
     "scale": 1.12,
@@ -30,5 +23,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

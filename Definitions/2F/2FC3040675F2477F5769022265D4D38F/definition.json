@@ -2,19 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/022/908/012/4k/6-3-mm-mmexport1577127567809-mh1577128370749.jpg?1577204480",
   "md5": "2FC3040675F2477F5769022265D4D38F",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
     "female",
-    "woman",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "crowd",
-    ""
+    "knight"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -34,5 +23,6 @@
     "offset_y": -66,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

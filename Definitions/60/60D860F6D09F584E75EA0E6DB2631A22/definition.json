@@ -2,17 +2,13 @@
   "source": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/3/3a/MaegarVarn.png/revision/latest?cb=20180927134346",
   "md5": "60D860F6D09F584E75EA0E6DB2631A22",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "overcoat",
-    "coat",
-    "footwear",
-    "boot",
-    "riding boot",
-    "suit",
-    "maegar varn"
+    "knight",
+    "duh22",
+    "pathfinder",
+    "kingmaker",
+    "maegar",
+    "varn",
+    "portrait"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -32,5 +28,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

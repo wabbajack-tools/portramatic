@@ -2,13 +2,9 @@
   "source": "https://i.redd.it/9la3cag4i1n01.jpg",
   "md5": "0DE04FC68E6F5A77E3DA6095AA7ED666",
   "tags": [
-    "architecture",
-    "building",
-    "toy",
-    "armor",
-    "bronze",
-    "knight",
-    ""
+    "paladin",
+    "heavy",
+    "armor"
   ],
   "small": {
     "scale": 1.6300000000000006,
@@ -28,5 +24,6 @@
     "offset_y": -66,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

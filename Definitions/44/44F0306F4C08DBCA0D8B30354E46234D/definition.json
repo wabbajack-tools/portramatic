@@ -2,13 +2,7 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/037/728/934/large/daniel-kamarudin-lr2.jpg?1621176924",
   "md5": "44F0306F4C08DBCA0D8B30354E46234D",
   "tags": [
-    "painting",
-    "art",
-    "angel",
-    "archangel",
-    "person",
-    "human",
-    "Tiefling"
+    "demon"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -28,5 +22,6 @@
     "offset_y": -382.84259259259295,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

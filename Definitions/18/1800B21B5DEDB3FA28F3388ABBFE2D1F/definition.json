@@ -1,19 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/ErMxUWkVkAIPXT5?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/ErMxUWkVkAIPXT5?format=jpg\u0026name=large",
   "md5": "1800B21B5DEDB3FA28F3388ABBFE2D1F",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "crowd",
-    "legend of zelda",
-    "footwear",
-    "boot",
-    "duel",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.3199999999999994,
@@ -33,5 +23,6 @@
     "offset_y": -66.40000000000003,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

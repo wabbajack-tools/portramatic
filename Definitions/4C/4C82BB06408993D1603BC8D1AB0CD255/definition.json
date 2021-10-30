@@ -2,25 +2,11 @@
   "source": "https://i.pinimg.com/564x/7d/83/c5/7d83c55468613ed54d13ee94f3336b2b.jpg",
   "md5": "4C82BB06408993D1603BC8D1AB0CD255",
   "tags": [
-    "person",
-    "human",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "archer",
-    "costume",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "painting",
-    "art",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "female",
+    "warrior",
+    "short",
+    "black",
+    "hair"
   ],
   "small": {
     "scale": 1.12,
@@ -40,5 +26,6 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

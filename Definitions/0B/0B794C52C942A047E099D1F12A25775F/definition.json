@@ -2,13 +2,9 @@
   "source": "https://static.wikia.nocookie.net/the-legendary-moonlight-sculptor/images/7/77/Warrior_4.jpg/revision/latest/scale-to-width-down/400?cb=20180325213702",
   "md5": "0B794C52C942A047E099D1F12A25775F",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "elf",
-    "bow",
-    ""
+    "shadar",
+    "kai",
+    "portrait"
   ],
   "small": {
     "scale": 0.5999999999999996,
@@ -28,5 +24,6 @@
     "offset_y": -88,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

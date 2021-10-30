@@ -2,24 +2,9 @@
   "source": "https://artfiles.alphacoders.com/124/thumb-1920-124109.jpg",
   "md5": "6884174B7CA3D8E7AF7C653A460D1A41",
   "tags": [
-    "painting",
-    "art",
-    "armor",
-    "person",
-    "human",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "knight",
-    "sweets",
-    "food",
-    "confectionery",
-    "costume",
-    "clothing",
-    "apparel",
     "female",
-    ""
+    "warrior",
+    "armor"
   ],
   "small": {
     "scale": 0.4399999999999995,
@@ -39,5 +24,6 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

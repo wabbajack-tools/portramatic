@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/originals/55/b8/b7/55b8b7cf1399725fd95f39e7fe3b06a5.png",
   "md5": "52048B3F092D2E9DDD0815FBE228A483",
   "tags": [
-    "person",
     "human",
-    "knight",
-    "costume",
-    "clothing",
-    "apparel",
-    "armor",
-    "samurai",
-    "dress",
-    ""
+    "female",
+    "knight"
   ],
   "small": {
     "scale": 1.3100000000000003,
@@ -31,5 +24,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,25 +1,8 @@
 {
-  "source": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/04/Tiefling-Warlock.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+  "source": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/04/Tiefling-Warlock.jpg?q=50\u0026fit=crop\u0026w=740\u0026h=370\u0026dpr=1.5",
   "md5": "205C7E9232DA28599119EBC3D8A886BA",
   "tags": [
-    "person",
-    "human",
-    "world of warcraft",
-    "final fantasy",
-    "sport",
-    "sports",
-    "archery",
-    "bow",
-    "duel",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "crowd",
-    "elf",
-    "samurai",
-    "tiefling",
-    "demon"
+    "warlock"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -39,5 +22,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

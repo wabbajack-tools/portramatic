@@ -2,20 +2,10 @@
   "source": "https://i.pinimg.com/originals/d8/47/8d/d8478d4fe38d0177dd725b1d350da314.png",
   "md5": "3166A0E032C1507607E452B40795AA4D",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "bronze",
-    "weapon",
-    "weaponry",
-    "blade",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "male",
+    "pathfinder",
+    "ancient",
+    "elf"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -35,5 +25,6 @@
     "offset_y": -80,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,11 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/018/918/692/large/z-w-gu-excal3b.jpg?1561248841",
   "md5": "0553F4ACC24BFCFF6E6A51D1388D68E8",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "costume",
-    "Bloodyknight"
+    "warrior",
+    "girl"
   ],
   "small": {
     "scale": 0.23999999999999932,
@@ -26,5 +23,6 @@
     "offset_y": -2.400000000000176,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

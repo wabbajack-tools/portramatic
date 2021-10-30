@@ -2,18 +2,9 @@
   "source": "https://i.pinimg.com/564x/50/b6/02/50b602d50c805bba619bcdd10b41a5b0.jpg",
   "md5": "61AE6D0E5F75C3DD905CB8AFB9637B59",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "sport",
-    "sports",
-    "bow",
-    "female",
-    "samurai",
-    "archery",
-    ""
+    "pathfinder",
+    "cleric",
+    "calistria"
   ],
   "small": {
     "scale": 1.6500000000000006,
@@ -33,5 +24,6 @@
     "offset_y": -76,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

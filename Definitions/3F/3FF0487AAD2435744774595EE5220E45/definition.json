@@ -2,15 +2,7 @@
   "source": "https://i.pinimg.com/564x/eb/42/97/eb42978ca85b1dcd403712be54f87458.jpg",
   "md5": "3FF0487AAD2435744774595EE5220E45",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "quake",
-    "female",
-    "clothing",
-    "apparel",
-    "woman",
-    ""
+    "demon"
   ],
   "small": {
     "scale": 1.4300000000000004,
@@ -30,5 +22,6 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

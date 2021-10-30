@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/564x/32/d1/87/32d187e727723252a53861206d2c3817.jpg",
   "md5": "04A149F256A61D3DB74E1D4D82704B6E",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "costume",
-    ""
+    "golarion",
+    "aroden"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +23,6 @@
     "offset_y": -2.6666666666667425,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

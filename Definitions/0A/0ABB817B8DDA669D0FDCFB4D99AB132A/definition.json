@@ -2,16 +2,16 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/023/047/136/large/fish-man-yu-ing-fishmanart-alice3.jpg?1577885002",
   "md5": "0ABB817B8DDA669D0FDCFB4D99AB132A",
   "tags": [
-    "figurine",
-    "manga",
-    "book",
-    "comics",
-    "person",
-    "human",
-    "toy",
-    "art",
-    "doll",
-    ""
+    "gwen",
+    "fishman_yu",
+    "ing",
+    "chess",
+    "rook",
+    "\u897F\u6D0B\u68CB-\u57CE\u5821",
+    "fish",
+    "man",
+    "yu",
+    "fishman"
   ],
   "small": {
     "scale": 0.8599999999999999,
@@ -31,5 +31,6 @@
     "offset_y": -40,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

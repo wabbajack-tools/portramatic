@@ -2,15 +2,10 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/000/607/553/large/park-jerry-09.jpg?1443931069",
   "md5": "59190D9C07427F26E3E08283491485B4",
   "tags": [
-    "person",
+    "concept",
     "human",
-    "knight",
-    "helmet",
-    "clothing",
-    "apparel",
-    "costume",
-    "ninja",
-    "female mage"
+    "jerry",
+    "park"
   ],
   "small": {
     "scale": 2.0599999999999996,
@@ -30,5 +25,6 @@
     "offset_y": -75.2870370370365,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

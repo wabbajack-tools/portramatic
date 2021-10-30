@@ -2,23 +2,8 @@
   "source": "https://i.pinimg.com/564x/cb/da/b8/cbdab8a7425297659285947223021027.jpg",
   "md5": "0FFAADC1E0A11CE648EAA07C2BEF7046",
   "tags": [
-    "person",
-    "human",
-    "pirate",
-    "clothing",
-    "apparel",
-    "costume",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "painting",
-    "art",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "paladin",
+    "vengeance"
   ],
   "small": {
     "scale": 1.4600000000000004,
@@ -38,5 +23,6 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

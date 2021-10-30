@@ -2,14 +2,8 @@
   "source": "https://i.imgur.com/ly7zJ7I.png",
   "md5": "28D970B9972218C72C5E5A44E1E0DF58",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "samurai",
-    "costume",
-    ""
+    "fighter",
+    "portrait"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +23,6 @@
     "offset_y": -22.5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,12 +2,7 @@
   "source": "https://www.teahub.io/photos/full/185-1856647_fantasy-art-human-female-wizard.jpg",
   "md5": "467CFA97603F30F14693B99731413022",
   "tags": [
-    "fire",
-    "person",
-    "human",
-    "flame",
-    "nature",
-    ""
+    "female"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -27,5 +22,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

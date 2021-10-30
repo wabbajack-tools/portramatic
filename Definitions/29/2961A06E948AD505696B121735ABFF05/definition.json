@@ -2,17 +2,12 @@
   "source": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/d/dc/Armag.png/revision/latest?cb=20180927134323",
   "md5": "2961A06E948AD505696B121735ABFF05",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "samurai",
-    "knight",
-    "horse",
-    "animal",
-    "mammal",
-    "batman"
+    "pathfinder",
+    "kingmaker",
+    "armag",
+    "akim",
+    "kaliberda",
+    "akimblya"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -32,5 +27,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

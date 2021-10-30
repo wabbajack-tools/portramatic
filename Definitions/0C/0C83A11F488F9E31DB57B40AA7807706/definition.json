@@ -2,24 +2,8 @@
   "source": "https://i.pinimg.com/564x/04/0a/87/040a87527a8eea1de3e3c1c4134a7dcb.jpg",
   "md5": "0C83A11F488F9E31DB57B40AA7807706",
   "tags": [
-    "archer",
-    "person",
-    "archery",
-    "sport",
-    "bow",
-    "human",
-    "sports",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "painting",
-    "art",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.2100000000000002,
@@ -39,5 +23,6 @@
     "offset_y": -188,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

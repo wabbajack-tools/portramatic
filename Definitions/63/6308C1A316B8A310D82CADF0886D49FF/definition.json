@@ -2,17 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/007/681/594/large/wang-ding-3.jpg?1507816273",
   "md5": "6308C1A316B8A310D82CADF0886D49FF",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "crowd",
-    "painting",
-    "art",
-    "sport",
-    "sports",
-    "face",
-    ""
+    "male",
+    "warrior"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +23,6 @@
     "offset_y": -157,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

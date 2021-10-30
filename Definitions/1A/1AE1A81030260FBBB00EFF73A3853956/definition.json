@@ -2,18 +2,8 @@
   "source": "https://i.redd.it/496482n2hvy31.png",
   "md5": "1AE1A81030260FBBB00EFF73A3853956",
   "tags": [
-    "lute",
-    "musical instrument",
-    "person",
-    "human",
-    "guitar",
-    "leisure activities",
-    "costume",
-    "musician",
     "halfling",
-    "bard",
-    "male",
-    "music"
+    "bard"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -33,5 +23,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

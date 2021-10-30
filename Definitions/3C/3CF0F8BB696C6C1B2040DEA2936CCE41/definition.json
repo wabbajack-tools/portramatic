@@ -1,13 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/B_5uAVuVEAARTG1?format=jpg&name=900x900",
+  "source": "https://pbs.twimg.com/media/B_5uAVuVEAARTG1?format=jpg\u0026name=900x900",
   "md5": "3CF0F8BB696C6C1B2040DEA2936CCE41",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "costume",
-    "knight",
-    ""
+    "male",
+    "paladin"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +23,6 @@
     "offset_y": 60,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

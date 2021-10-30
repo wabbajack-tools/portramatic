@@ -2,20 +2,9 @@
   "source": "https://i.pinimg.com/564x/4e/91/76/4e91767f82a650d19ba4123f48987019.jpg",
   "md5": "01A65B5B2E9C07E6344F3689C22A7595",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "elf",
-    "face",
-    "world of warcraft",
-    "photography",
-    "photo",
-    "clothing",
-    "apparel",
-    "portrait",
     "knight",
-    ""
+    "with",
+    "beard"
   ],
   "small": {
     "scale": 1.3300000000000003,
@@ -35,5 +24,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

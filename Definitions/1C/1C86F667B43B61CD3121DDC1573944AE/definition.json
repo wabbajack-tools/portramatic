@@ -1,13 +1,10 @@
 {
-  "source": "https://preview.redd.it/vny3b9s7si151.jpg?auto=webp&s=22804b366df3112a63d5680b6d365dfacd3a88f0",
+  "source": "https://preview.redd.it/vny3b9s7si151.jpg?auto=webp\u0026s=22804b366df3112a63d5680b6d365dfacd3a88f0",
   "md5": "1C86F667B43B61CD3121DDC1573944AE",
   "tags": [
-    "toy",
-    "person",
-    "human",
-    "torso",
-    "alien",
-    "Half Elf"
+    "half",
+    "orc",
+    "barbarian"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +24,6 @@
     "offset_y": -1.6018518518523024,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

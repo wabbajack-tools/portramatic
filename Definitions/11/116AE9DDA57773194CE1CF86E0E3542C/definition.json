@@ -2,12 +2,9 @@
   "source": "https://i.imgur.com/cOgBViO.png",
   "md5": "116AE9DDA57773194CE1CF86E0E3542C",
   "tags": [
-    "person",
-    "human",
-    "motorcycle",
-    "transportation",
-    "vehicle",
-    ""
+    "female",
+    "knight",
+    "portrait"
   ],
   "small": {
     "scale": 1.1300000000000001,
@@ -27,5 +24,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

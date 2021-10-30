@@ -2,13 +2,12 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/020/700/992/large/kaithzer-morejon-freya-fallen-aasimar.jpg?1568824448",
   "md5": "30CAC8B8A30F5FD085E2939BEA70A659",
   "tags": [
-    "clothing",
-    "apparel",
-    "figurine",
-    "person",
-    "human",
-    "footwear",
-    ""
+    "fallen",
+    "aasimar",
+    "hexblade",
+    "kaithzer",
+    "morej\u00F3n",
+    "freya"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +27,6 @@
     "offset_y": -168,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

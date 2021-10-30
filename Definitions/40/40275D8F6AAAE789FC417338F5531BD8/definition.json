@@ -2,15 +2,10 @@
   "source": "https://i.pinimg.com/736x/a9/d1/d5/a9d1d5a120207e1caae88b2f12a5d4da.jpg",
   "md5": "40275D8F6AAAE789FC417338F5531BD8",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "samurai",
+    "post",
+    "apoc",
     "knight",
-    "female",
-    "barbarian",
-    "elf"
+    "artwork"
   ],
   "small": {
     "scale": 1.3800000000000003,
@@ -30,5 +25,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

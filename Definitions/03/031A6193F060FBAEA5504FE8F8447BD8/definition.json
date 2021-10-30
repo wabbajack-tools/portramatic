@@ -2,13 +2,11 @@
   "source": "https://i.pinimg.com/564x/45/cc/fd/45ccfd9933c15dae766dd7ef74ca28cf.jpg",
   "md5": "031A6193F060FBAEA5504FE8F8447BD8",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "Magic",
-    "undead",
-    "Lich"
+    "steampunk",
+    "lich",
+    "travis-anderson",
+    "travis",
+    "anderson"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -28,5 +26,6 @@
     "offset_y": -3.20370370370415,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

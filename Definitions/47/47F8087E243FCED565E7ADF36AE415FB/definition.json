@@ -2,13 +2,9 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/012/645/570/4k/fanfoxy-a-grevant.jpg?1535809608",
   "md5": "47F8087E243FCED565E7ADF36AE415FB",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "outdoors",
-    "person",
-    "human",
-    ""
+    "female",
+    "undead",
+    "warrior"
   ],
   "small": {
     "scale": 0.2199999999999994,
@@ -28,5 +24,6 @@
     "offset_y": -51.25925925925924,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

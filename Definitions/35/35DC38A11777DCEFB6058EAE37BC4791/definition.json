@@ -1,13 +1,9 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F17%2Fbe%2Fbd%2F17bebd81d2c6161645eed37945ba3dfd.png&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F17%2Fbe%2Fbd%2F17bebd81d2c6161645eed37945ba3dfd.png\u0026f=1\u0026nofb=1",
   "md5": "35DC38A11777DCEFB6058EAE37BC4791",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "final fantasy",
-    "knight",
-    ""
+    "paladin",
+    "aasimar"
   ],
   "small": {
     "scale": 0.8499999999999999,
@@ -27,5 +23,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

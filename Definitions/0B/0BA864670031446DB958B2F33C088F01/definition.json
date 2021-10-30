@@ -2,14 +2,10 @@
   "source": "https://i.pinimg.com/736x/7b/e3/ff/7be3ffca702069daeb8cbb5505e77867--anime-warrior-warrior-girl.jpg",
   "md5": "0BA864670031446DB958B2F33C088F01",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "cosplay",
-    "painting",
-    "art",
-    "elf",
-    ""
+    "legend",
+    "cryptids",
+    "female",
+    "warrior"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -29,5 +25,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

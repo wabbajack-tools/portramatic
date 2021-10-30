@@ -1,11 +1,11 @@
 {
-  "source": "https://pbs.twimg.com/media/DuMlAk5UwAExhR1?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DuMlAk5UwAExhR1?format=jpg\u0026name=large",
   "md5": "40260D21B0992A01545F76453EC6AFE9",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    ""
+    "pirate",
+    "anime",
+    "d\u0026amp;d",
+    "rogue"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -25,5 +25,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

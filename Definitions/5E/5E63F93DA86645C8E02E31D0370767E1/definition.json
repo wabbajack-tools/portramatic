@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/originals/9f/5d/6b/9f5d6b756b88d5f4886f6067ac14722b.jpg",
   "md5": "5E63F93DA86645C8E02E31D0370767E1",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "overwatch",
-    "world of warcraft",
-    ""
+    "male",
+    "adventurer"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -27,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

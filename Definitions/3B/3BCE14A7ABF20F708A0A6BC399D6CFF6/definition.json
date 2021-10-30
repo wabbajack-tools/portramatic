@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/736x/68/9c/60/689c60cd17d1cd921be0b28a13cdc596--fantasy-characters-google-search.jpg",
   "md5": "3BCE14A7ABF20F708A0A6BC399D6CFF6",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "armor",
-    "knight",
-    "toy",
-    ""
+    "dungeons",
+    "dragons",
+    "cleric"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +24,6 @@
     "offset_y": 34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

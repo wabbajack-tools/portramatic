@@ -2,15 +2,8 @@
   "source": "https://i.imgur.com/5OnxaWP.png",
   "md5": "30252B8AC3A8934C892139468AE2D9F5",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "costume",
-    "samurai",
-    ""
+    "knight",
+    "wizard"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -30,5 +23,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

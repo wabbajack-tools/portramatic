@@ -2,13 +2,9 @@
   "source": "https://i.imgur.com/s8oQcNZ.jpeg",
   "md5": "1BD2D05681F47841DCCB59D1B2BD394F",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "ninja",
-    "samurai",
-    "half-orc",
-    "monk"
+    "hobgoblin",
+    "monk",
+    "5e"
   ],
   "small": {
     "scale": 1.5900000000000005,
@@ -28,5 +24,6 @@
     "offset_y": -58,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

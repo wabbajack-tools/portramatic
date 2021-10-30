@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/31/8d/a4/318da41c7184fe40cbf86af46f4f6c3d.jpg",
   "md5": "31C245EB712251639DDD995FD244EDB2",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    "costume",
-    "archer",
-    "female mage"
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 2.6299999999999875,
@@ -30,5 +23,6 @@
     "offset_y": -30.435185185184764,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

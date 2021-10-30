@@ -2,21 +2,13 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/348/760/large/matt-forsyth-shieldmaiden.jpg?1529101880",
   "md5": "32785211BF2A4444C225E3DF7D8179EB",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "face",
-    "female",
-    "elf",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "portrait",
-    "photography",
-    "photo",
-    "armor",
-    ""
+    "shieldmaiden",
+    "mattforsyth",
+    "matt",
+    "forsyth",
+    "animated",
+    "version",
+    "timtaller"
   ],
   "small": {
     "scale": 1.3900000000000003,
@@ -36,5 +28,6 @@
     "offset_y": -242,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

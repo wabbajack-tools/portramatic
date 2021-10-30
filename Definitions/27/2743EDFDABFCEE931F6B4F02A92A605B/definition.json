@@ -2,12 +2,9 @@
   "source": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/b/b5/Kanerah.png/revision/latest?cb=20210411155559",
   "md5": "2743EDFDABFCEE931F6B4F02A92A605B",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "world of warcraft",
-    ""
+    "pathfinder",
+    "kingmaker",
+    "characters"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -27,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

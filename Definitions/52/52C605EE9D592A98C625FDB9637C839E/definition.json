@@ -2,22 +2,10 @@
   "source": "https://i.pinimg.com/originals/a2/58/75/a25875f3cb41727293e485053b9d7ad0.jpg",
   "md5": "52C605EE9D592A98C625FDB9637C839E",
   "tags": [
-    "figurine",
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "book",
-    "art",
-    "manga",
-    "comics",
-    "skin",
+    "pathfinder",
     "female",
-    "rogue",
-    "sword",
-    "dagger",
-    "magus"
+    "gnome",
+    "rogue"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -37,5 +25,6 @@
     "offset_y": -24.84259259259261,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

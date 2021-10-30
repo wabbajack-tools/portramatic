@@ -2,23 +2,8 @@
   "source": "https://i.imgur.com/cCrfws6.jpeg",
   "md5": "051CCDFCED80C5E4800E407ABB18FF2E",
   "tags": [
-    "person",
-    "human",
-    "archer",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "painting",
-    "art",
-    "vegetation",
-    "plant",
-    "leisure activities",
-    "violin",
-    "fiddle",
-    "viola",
-    "musical instrument",
-    ""
+    "halfling",
+    "ranger"
   ],
   "small": {
     "scale": 1.05,
@@ -38,5 +23,6 @@
     "offset_y": -8.222222222222115,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

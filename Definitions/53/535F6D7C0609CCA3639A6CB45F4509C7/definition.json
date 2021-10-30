@@ -2,32 +2,10 @@
   "source": "https://i.pinimg.com/originals/cb/3e/55/cb3e554ad893c086d574c12ff52deffb.png",
   "md5": "535F6D7C0609CCA3639A6CB45F4509C7",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "photography",
-    "photo",
-    "portrait",
-    "face",
-    "overcoat",
-    "coat",
-    "costume",
-    "helmet",
-    "people",
-    "fur",
-    "man",
-    "necklace",
-    "accessories",
-    "jewelry",
-    "accessory",
-    "art",
-    "beard",
-    "head",
-    "drawing",
-    "pendant",
-    ""
+    "pathfinder",
+    "monk",
+    "jordankerbow",
+    "portrait"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -47,5 +25,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

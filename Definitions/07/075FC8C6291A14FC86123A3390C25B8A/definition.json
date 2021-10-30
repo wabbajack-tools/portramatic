@@ -2,16 +2,10 @@
   "source": "https://gamepress.gg/feheroes/sites/fireemblem/files/2020-08/Face_2.png",
   "md5": "075FC8C6291A14FC86123A3390C25B8A",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "weapon",
-    "weaponry",
+    "dimitri",
+    "fire",
     "emblem",
-    "symbol",
-    "knight",
-    "Dimitri"
+    "heroes"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -31,5 +25,6 @@
     "offset_y": 12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

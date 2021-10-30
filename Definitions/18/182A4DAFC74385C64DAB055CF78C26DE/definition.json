@@ -2,23 +2,10 @@
   "source": "https://i.pinimg.com/originals/a6/1c/05/a61c05728b4e1d28698490a7789105a5.jpg",
   "md5": "182A4DAFC74385C64DAB055CF78C26DE",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "knight",
-    "samurai",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "graphics",
-    "book",
-    "half-orc",
+    "male",
+    "half",
     "orc",
-    "female",
-    "paladin",
-    "fighter"
+    "portrait"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -38,5 +25,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

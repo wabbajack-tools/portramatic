@@ -2,21 +2,8 @@
   "source": "https://i.pinimg.com/564x/96/c3/9f/96c39fc2f5ff5db22d57cc1557eee25c.jpg",
   "md5": "3106050C0A00F81263CAC8D67D04A274",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "face",
-    "bronze",
-    "samurai",
-    "photography",
-    "photo",
-    "portrait",
-    "performer",
-    "ninja",
-    "knight",
-    "kneeling",
-    ""
+    "gnome",
+    "miner"
   ],
   "small": {
     "scale": 1.12,
@@ -36,5 +23,6 @@
     "offset_y": -30,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

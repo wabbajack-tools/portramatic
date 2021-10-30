@@ -2,19 +2,8 @@
   "source": "https://i.pinimg.com/originals/53/88/3f/53883fae66bf7c4345b34b299e7aeb99.jpg",
   "md5": "66C80B45488FDDD08DB9C9FF233B74D1",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "face",
-    "man",
-    "portrait",
-    "photography",
-    "photo",
-    "blade",
-    "weapon",
-    "weaponry",
-    ""
+    "noble",
+    "male"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -34,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

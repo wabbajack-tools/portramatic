@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/736x/c6/f1/0e/c6f10e19ca8b2f9537b7dd87363c404d.jpg",
   "md5": "1B97FA4801F69EA07E8ED851C2F3816D",
   "tags": [
-    "person",
-    "human",
-    "gun",
-    "weapon",
-    "weaponry",
-    "knight",
-    "helmet",
-    "clothing",
-    "apparel",
-    "armor",
-    "samurai",
-    ""
+    "dwarf",
+    "soldier"
   ],
   "small": {
     "scale": 1,
@@ -33,5 +23,6 @@
     "offset_y": 78,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

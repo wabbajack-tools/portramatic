@@ -2,19 +2,8 @@
   "source": "https://i.pinimg.com/564x/cb/15/a8/cb15a8a4173245e3266826856519c04c.jpg",
   "md5": "174708C4E94FF142CEB6043640E64ACB",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "overcoat",
-    "coat",
-    "weapon",
-    "weaponry",
-    "costume",
-    "blade",
-    "photography",
-    "photo",
-    ""
+    "male",
+    "noble"
   ],
   "small": {
     "scale": 1.7700000000000007,
@@ -34,5 +23,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

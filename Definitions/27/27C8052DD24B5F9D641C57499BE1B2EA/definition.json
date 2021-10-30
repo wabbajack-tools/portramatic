@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/564x/cc/e7/fd/cce7fdd2ee1e9451f39cc1efbd04c243.jpg",
   "md5": "27C8052DD24B5F9D641C57499BE1B2EA",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
     "human",
-    "art",
-    "book",
-    "cloak",
-    "fashion",
-    ""
+    "male",
+    "wizard"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

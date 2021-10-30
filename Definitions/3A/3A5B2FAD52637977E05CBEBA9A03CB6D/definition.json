@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/564x/48/b3/bd/48b3bdc80668620a890fa2fda1191f98.jpg",
   "md5": "3A5B2FAD52637977E05CBEBA9A03CB6D",
   "tags": [
-    "person",
-    "human",
-    "figurine",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "outdoors",
-    "nature",
-    "duel",
-    "toy",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.7000000000000006,
@@ -33,5 +23,6 @@
     "offset_y": -3.9999999999995453,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

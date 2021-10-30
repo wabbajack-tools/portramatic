@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/originals/1b/f6/6e/1bf66ec24e959a381070a1178abf67a4.jpg",
   "md5": "69C9165635B96E0DB1CC65F987F74BB2",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "ninja",
     "female",
-    "legend of zelda",
-    "Fullenth"
+    "drow"
   ],
   "small": {
     "scale": 0.4399999999999995,
@@ -29,5 +23,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

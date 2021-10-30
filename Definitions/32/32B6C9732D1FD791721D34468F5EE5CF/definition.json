@@ -1,20 +1,9 @@
 {
-  "source": "https://preview.redd.it/i6d1mjexy8o51.jpg?width=640&crop=smart&auto=webp&s=c78533bfb06c63ba1fd58701fcf1016a34fcaa88",
+  "source": "https://preview.redd.it/i6d1mjexy8o51.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=c78533bfb06c63ba1fd58701fcf1016a34fcaa88",
   "md5": "32B6C9732D1FD791721D34468F5EE5CF",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "costume",
-    "clothing",
-    "apparel",
-    "angel",
-    "archangel",
-    "crystal",
-    "incense",
-    "porcelain",
-    "pottery",
-    "Priest Cleric Female Human"
+    "priest",
+    "female"
   ],
   "small": {
     "scale": 1,
@@ -34,5 +23,6 @@
     "offset_y": -76,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

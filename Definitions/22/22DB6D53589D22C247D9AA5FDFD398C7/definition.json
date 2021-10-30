@@ -1,20 +1,9 @@
 {
-  "source": "https://preview.redd.it/bphcxm1b3yz41.jpg?auto=webp&s=9eaf6ecc0e56190831d7e3bee27ad0335a15ba0b",
+  "source": "https://preview.redd.it/bphcxm1b3yz41.jpg?auto=webp\u0026s=9eaf6ecc0e56190831d7e3bee27ad0335a15ba0b",
   "md5": "22DB6D53589D22C247D9AA5FDFD398C7",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "sport",
-    "sports",
-    "painting",
-    "female",
-    "drawing",
-    "outdoors",
-    "archery",
-    "bow",
-    "graphics",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1,
@@ -34,5 +23,6 @@
     "offset_y": -140,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

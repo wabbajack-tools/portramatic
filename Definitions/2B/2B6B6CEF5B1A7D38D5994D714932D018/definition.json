@@ -1,21 +1,7 @@
 {
   "source": "https://hbimg.huabanimg.com/5b0ba8406547f4a2a907f97896ff4370750c9ff0132469-VkwQWz",
   "md5": "2B6B6CEF5B1A7D38D5994D714932D018",
-  "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "costume",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    "ranger",
-    "archer"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -227,
@@ -34,5 +20,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

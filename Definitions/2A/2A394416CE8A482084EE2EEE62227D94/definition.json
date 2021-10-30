@@ -2,11 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/040/997/405/large/sangsoo-jeong-ninetailedfoxcrop.jpg?1630477925",
   "md5": "2A394416CE8A482084EE2EEE62227D94",
   "tags": [
-    "painting",
-    "art",
-    "angel",
-    "archangel",
-    "female mage"
+    "character",
+    "concept",
+    "sangsoo",
+    "jeong",
+    "angel"
   ],
   "small": {
     "scale": 1.01,
@@ -26,5 +26,6 @@
     "offset_y": -14.416666666666174,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,17 +2,14 @@
   "source": "https://i.pinimg.com/564x/1f/b6/74/1fb674d27675011d326f8d2f5c6cb4c4.jpg",
   "md5": "125E828F5E926FDDA4A77C0669693193",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "duel",
-    ""
+    "female",
+    "halfling",
+    "fighter"
   ],
   "small": {
     "scale": 1.0000000000000002,
     "offset_x": -132.66666666666572,
-    "offset_y": 1.1368683772161603e-13,
+    "offset_y": 1.1368683772161603E-13,
     "size": "small"
   },
   "medium": {
@@ -27,5 +24,6 @@
     "offset_y": -3.999999999999659,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

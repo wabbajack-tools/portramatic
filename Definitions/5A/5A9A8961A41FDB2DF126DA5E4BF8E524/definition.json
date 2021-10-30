@@ -2,16 +2,12 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/001/488/166/large/reiko-murakami-vraxdervish.jpg?1447282744",
   "md5": "5A9A8961A41FDB2DF126DA5E4BF8E524",
   "tags": [
-    "person",
-    "human",
-    "sunglasses",
-    "accessories",
-    "accessory",
-    "bow",
-    "sport",
-    "sports",
-    "archery",
-    ""
+    "soris",
+    "vrax",
+    "dervish",
+    "reiko",
+    "murakami",
+    "axe"
   ],
   "small": {
     "scale": 0.47999999999999954,
@@ -31,5 +27,6 @@
     "offset_y": -7.999999999999943,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

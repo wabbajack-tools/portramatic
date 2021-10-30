@@ -1,19 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/E_-fH1OUcAkmkr3?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/E_-fH1OUcAkmkr3?format=jpg\u0026name=medium",
   "md5": "0785D7813303C2F4C88D4830391CC7E0",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "graphics",
-    "art",
-    "clothing",
-    "apparel",
-    "painting",
-    "manga",
-    "book",
-    "comics",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1,
@@ -33,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

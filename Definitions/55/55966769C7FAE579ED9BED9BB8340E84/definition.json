@@ -2,17 +2,9 @@
   "source": "https://i.pinimg.com/originals/00/3b/b0/003bb0e8d73b7833bd4c1b883f465892.jpg",
   "md5": "55966769C7FAE579ED9BED9BB8340E84",
   "tags": [
-    "clothing",
-    "apparel",
-    "fashion",
-    "cloak",
-    "person",
-    "human",
-    "coat",
-    "painting",
-    "art",
-    "overcoat",
-    ""
+    "necromancer",
+    "kceon",
+    "wizard"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -32,5 +24,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

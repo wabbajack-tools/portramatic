@@ -2,14 +2,11 @@
   "source": "https://i.pinimg.com/originals/42/36/a9/4236a9b08b46161a026a09787002edfe.jpg",
   "md5": "018D56D048684AFCE475A9D527365CA5",
   "tags": [
-    "furniture",
-    "painting",
-    "art",
-    "person",
-    "human",
-    "throne",
-    "costume",
-    ""
+    "mordenkainen",
+    "wizard",
+    "donato",
+    "giancola",
+    "mtg"
   ],
   "small": {
     "scale": 1.3900000000000003,
@@ -29,5 +26,6 @@
     "offset_y": -118,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

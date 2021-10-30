@@ -2,17 +2,10 @@
   "source": "https://d2folr83karyot.cloudfront.net/character/16738/2.jpg",
   "md5": "5BDBA70C8009974233529F985395E358",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
+    "warhammer",
+    "dark",
     "elf",
-    "dress",
-    "crowd",
-    "parade",
-    "knight",
-    "art",
-    ""
+    "male"
   ],
   "small": {
     "scale": 0.9199999999999999,
@@ -32,5 +25,6 @@
     "offset_y": -82,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

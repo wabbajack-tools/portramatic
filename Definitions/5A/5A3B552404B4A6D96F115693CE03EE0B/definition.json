@@ -2,25 +2,9 @@
   "source": "https://static.wikia.nocookie.net/heroes-of-camelot/images/6/6c/Ossion_the_Dread.jpg/revision/latest?cb=20140404060252",
   "md5": "5A3B552404B4A6D96F115693CE03EE0B",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "archery",
-    "bow",
-    "elf",
-    "painting",
-    "art",
-    "archer",
-    "costume",
-    "dragon",
-    "symbol",
-    "building",
-    "architecture",
-    "emblem",
-    "pillar",
-    "column",
-    ""
+    "heroes",
+    "camelot",
+    "cards"
   ],
   "small": {
     "scale": 1.2900000000000003,
@@ -40,5 +24,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

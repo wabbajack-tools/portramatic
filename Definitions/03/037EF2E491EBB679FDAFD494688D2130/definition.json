@@ -2,21 +2,8 @@
   "source": "https://arcaneeye.com/wp-content/uploads/2020/06/587f1b20a06274131b26c57b8ea8c0c2-e1591488423694-769x481.jpg",
   "md5": "037EF2E491EBB679FDAFD494688D2130",
   "tags": [
-    "dinosaur",
-    "animal",
-    "reptile",
-    "duel",
-    "knight",
-    "samurai",
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "hair",
-    ""
+    "fiendslayer",
+    "paladin"
   ],
   "small": {
     "scale": 1.05,
@@ -36,5 +23,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,12 +2,7 @@
   "source": "https://mocah.org/uploads/posts/4548825-knight-fantasy-armor-fantasy-art-sword.png",
   "md5": "06757F4AEE4A371E4B439F4E882EFBF2",
   "tags": [
-    "knight",
-    "horse",
-    "animal",
-    "mammal",
-    "samurai",
-    "batman"
+    "knight"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -27,5 +22,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

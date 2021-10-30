@@ -2,18 +2,9 @@
   "source": "https://i.pinimg.com/originals/cb/ee/73/cbee7313f4fd335738b0054afa8ba091.jpg",
   "md5": "5655C31F8F0229046E1E89793A672C71",
   "tags": [
-    "dragon",
-    "painting",
-    "art",
-    "person",
-    "human",
-    "architecture",
-    "building",
-    "worship",
-    "temple",
-    "figurine",
-    "shrine",
-    ""
+    "summon",
+    "a",
+    "succubus"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -33,5 +24,6 @@
     "offset_y": -31,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

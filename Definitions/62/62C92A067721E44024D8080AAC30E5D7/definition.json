@@ -2,20 +2,10 @@
   "source": "https://static.miraheze.org/twistedwonderlandwiki/3/32/Card_Azul_SR_Ceremonial_Robes.png",
   "md5": "62C92A067721E44024D8080AAC30E5D7",
   "tags": [
-    "person",
-    "human",
-    "manga",
-    "book",
-    "comics",
-    "dance pose",
-    "leisure activities",
-    "clothing",
-    "apparel",
-    "crowd",
-    "stage",
-    "costume",
-    "male",
-    "wizard"
+    "twisted",
+    "wonderland",
+    "lilia",
+    "sr"
   ],
   "small": {
     "scale": 0.6699999999999997,
@@ -35,5 +25,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,8 @@
   "source": "https://static.wikia.nocookie.net/witcher/images/3/34/Gwent_cardart_nilfgaard_rience.jpg/revision/latest/scale-to-width-down/794?cb=20180116205927",
   "md5": "2D6E9722F396E53E72EED4218B3E27B1",
   "tags": [
-    "fire",
-    "person",
-    "human",
-    "flame",
-    "clothing",
-    "apparel",
-    "crowd",
-    "outdoors",
-    "duel",
-    "skin",
-    "stage",
-    ""
+    "rience",
+    "gwent"
   ],
   "small": {
     "scale": 1,
@@ -33,5 +23,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

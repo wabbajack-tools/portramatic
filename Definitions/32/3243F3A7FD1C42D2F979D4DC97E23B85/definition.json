@@ -2,23 +2,10 @@
   "source": "https://i.imgur.com/eRMXgZB.jpg",
   "md5": "3243F3A7FD1C42D2F979D4DC97E23B85",
   "tags": [
-    "person",
-    "human",
-    "face",
-    "female",
-    "art",
-    "woman",
-    "drawing",
-    "portrait",
-    "photography",
-    "photo",
-    "elf",
-    "girl",
-    "hair",
-    "head",
-    "skin",
-    "sketch",
-    ""
+    "vyerith",
+    "lost",
+    "mine",
+    "phandelver"
   ],
   "small": {
     "scale": 0.8199999999999998,
@@ -38,5 +25,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

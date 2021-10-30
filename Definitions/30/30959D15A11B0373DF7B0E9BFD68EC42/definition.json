@@ -2,15 +2,7 @@
   "source": "https://img3.gelbooru.com//images/30/95/30959d15a11b0373df7b0e9bfd68ec42.jpg",
   "md5": "30959D15A11B0373DF7B0E9BFD68EC42",
   "tags": [
-    "helmet",
-    "clothing",
-    "apparel",
-    "comics",
-    "book",
-    "manga",
-    "person",
-    "human",
-    "shirabe"
+    "kick"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -30,5 +22,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

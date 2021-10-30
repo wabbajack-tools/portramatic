@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/736x/73/10/ae/7310aeb9d2e3f6b3d260cc76d08d4b83.jpg",
   "md5": "036BFCBE7C30D8D9B8C3A4ACE4FE6F79",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "people",
-    "samurai",
-    ""
+    "necromancer",
+    "character"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -30,5 +23,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

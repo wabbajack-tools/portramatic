@@ -2,13 +2,11 @@
   "source": "https://pathfinderwiki.com/mediawiki/images/3/3c/Hellknight_of_the_Godclaw.jpg",
   "md5": "262FCF67FE10E634DC02583B6F49FC91",
   "tags": [
-    "horse",
-    "mammal",
-    "animal",
-    "scarecrow",
-    "bird",
-    "eagle",
-    ""
+    "godclaw",
+    "hellknight",
+    "maichol",
+    "quinto",
+    "pathfinder"
   ],
   "small": {
     "scale": 0.7399999999999998,
@@ -28,5 +26,6 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

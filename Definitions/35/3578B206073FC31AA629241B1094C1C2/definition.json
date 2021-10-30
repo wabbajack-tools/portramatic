@@ -2,14 +2,9 @@
   "source": "https://i.pinimg.com/474x/b7/93/4e/b7934ee17f7dacd38e0ebdaacb04b060--character-portraits-character-art.jpg",
   "md5": "3578B206073FC31AA629241B1094C1C2",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "toy",
-    "armor",
-    "knight",
-    "bronze",
+    "pathfinder",
     "elf",
+    "rogue",
     "female"
   ],
   "small": {
@@ -30,5 +25,6 @@
     "offset_y": -4.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

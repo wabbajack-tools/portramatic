@@ -2,17 +2,9 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/027/159/431/large/art-of-nate-dark-elf-final-lowres.jpg?1590752713",
   "md5": "5AFB1917FD28E3678B74F3BEB024D643",
   "tags": [
-    "person",
-    "human",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "archer",
-    "painting",
-    "art",
-    "elf",
-    "female mage"
+    "female",
+    "dark",
+    "elf"
   ],
   "small": {
     "scale": 1.05,
@@ -32,5 +24,6 @@
     "offset_y": -84.89814814814792,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

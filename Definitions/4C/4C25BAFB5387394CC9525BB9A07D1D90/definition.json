@@ -2,15 +2,7 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/042/061/973/large/isabell-bartnicki-ceridwensfw.jpg?1633466568",
   "md5": "4C25BAFB5387394CC9525BB9A07D1D90",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "painting",
-    "skin",
-    "drawing",
-    "photography",
-    "photo",
-    ""
+    "concept"
   ],
   "small": {
     "scale": 0.2199999999999993,
@@ -30,5 +22,6 @@
     "offset_y": -39,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

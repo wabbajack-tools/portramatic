@@ -2,15 +2,13 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/016/286/654/large/bageumi-2.jpg?1551618374",
   "md5": "2614D08E301DF6EE65F7DF0A6A876986",
   "tags": [
-    "art",
+    "character",
+    "design",
     "angel",
-    "archangel",
-    "bird",
-    "animal",
-    "person",
-    "human",
-    "costume",
-    "female mage"
+    "valkyrie",
+    "karina",
+    "bolognani",
+    "concept"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -30,5 +28,6 @@
     "offset_y": -131.35185185185105,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,21 +2,12 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/002/146/757/large/kisuny-park-loc-eri-20150722.jpg?1627128510",
   "md5": "5621EFD6D7F039DA1E7F5707AEA1F464",
   "tags": [
-    "vegetation",
-    "plant",
-    "jungle",
-    "nature",
-    "outdoors",
-    "land",
-    "tree",
-    "person",
-    "human",
-    "elf",
-    "painting",
-    "art",
-    "green",
-    "stage",
-    "female mage"
+    "legend",
+    "cryptids-giantslayer",
+    "erietta",
+    "kisuny",
+    "cryptids",
+    "wood"
   ],
   "small": {
     "scale": 0.7799999999999998,
@@ -36,5 +27,6 @@
     "offset_y": -14.416666666666629,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

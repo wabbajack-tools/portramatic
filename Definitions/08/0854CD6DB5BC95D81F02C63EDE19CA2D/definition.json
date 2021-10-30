@@ -2,19 +2,8 @@
   "source": "https://i.pinimg.com/originals/0f/2a/ed/0f2aed71e88a661dc02f7a034c592d85.jpg",
   "md5": "0854CD6DB5BC95D81F02C63EDE19CA2D",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "knight",
-    "duel",
-    "helmet",
-    "clothing",
-    "apparel",
-    "samurai",
-    "people",
-    "armor",
-    ""
+    "medieval",
+    "knight"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -34,5 +23,6 @@
     "offset_y": -86,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

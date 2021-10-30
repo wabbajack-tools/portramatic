@@ -1,12 +1,9 @@
 {
-  "source": "https://external-preview.redd.it/h2A0zrWrpfBX_BFmlAZGoZlq0YALxzICYFp0i4Z9gUc.jpg?auto=webp&s=7d893bfd5946cc28e43274a0b7e9db9e3383bf56",
+  "source": "https://external-preview.redd.it/h2A0zrWrpfBX_BFmlAZGoZlq0YALxzICYFp0i4Z9gUc.jpg?auto=webp\u0026s=7d893bfd5946cc28e43274a0b7e9db9e3383bf56",
   "md5": "154693C97427D00E08BED087DB307514",
   "tags": [
-    "dragon",
-    "painting",
-    "art",
-    "demon",
-    "devil"
+    "diablo",
+    "female"
   ],
   "small": {
     "scale": 0.39999999999999947,
@@ -26,5 +23,6 @@
     "offset_y": -25.333333333333428,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

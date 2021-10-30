@@ -2,17 +2,8 @@
   "source": "https://paizo.com/image/content/PathfinderRPG/PZO1115-Alahazra.jpg",
   "md5": "004B7A11B0DAE5F07E99547F7AB168FB",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "architecture",
-    "building",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "Alhazra",
-    "Pathfinder Iconic Oracle"
+    "pathfinder",
+    "oracle"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -32,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

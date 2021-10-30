@@ -2,25 +2,9 @@
   "source": "https://media.magic.wizards.com/images/wallpaper/Teferi-Hero-of-Dominaria_DAR_1920x1080_Wallpaper.jpg",
   "md5": "502EE4CFC2E21C5C3B6645EB29B9C0E6",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "horse",
-    "animal",
-    "mammal",
-    "clothing",
-    "apparel",
-    "crowd",
-    "leisure activities",
-    "weapon",
-    "weaponry",
-    "sport",
-    "sports",
-    "blade",
-    "outdoors",
-    "painting",
-    "art",
-    ""
+    "teferi",
+    "hero",
+    "dominaria"
   ],
   "small": {
     "scale": 0.27999999999999936,
@@ -31,7 +15,7 @@
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -182.40000000000015,
-    "offset_y": 1.7053025658242404e-13,
+    "offset_y": 1.7053025658242404E-13,
     "size": "medium"
   },
   "full": {
@@ -40,5 +24,6 @@
     "offset_y": -0.7500000000001137,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

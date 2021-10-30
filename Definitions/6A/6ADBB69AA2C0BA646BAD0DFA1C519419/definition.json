@@ -1,16 +1,9 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F25%2Fbc%2F34%2F25bc34dd65017ad355bbc495cd3cb08b.png&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F25%2Fbc%2F34%2F25bc34dd65017ad355bbc495cd3cb08b.png\u0026f=1\u0026nofb=1",
   "md5": "6ADBB69AA2C0BA646BAD0DFA1C519419",
   "tags": [
-    "painting",
-    "art",
-    "knight",
-    "face",
-    "armor",
-    "photography",
-    "photo",
-    "portrait",
-    ""
+    "knights",
+    "dragons"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

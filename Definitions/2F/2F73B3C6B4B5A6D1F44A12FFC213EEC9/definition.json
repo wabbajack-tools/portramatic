@@ -2,11 +2,10 @@
   "source": "https://img3.gelbooru.com//samples/66/ae/sample_66ae93422b956352f57f9eac12080283.jpg",
   "md5": "2F73B3C6B4B5A6D1F44A12FFC213EEC9",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "hibiki",
-    "front"
+    "\u58C1\u7D19",
+    "\u30B7\u30F3\u30D5\u30A9\u30AE\u30A2",
+    "\u7ACB\u82B1",
+    "\u97FF"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -26,5 +25,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

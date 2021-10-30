@@ -2,27 +2,7 @@
   "source": "https://images.alphacoders.com/767/thumb-1920-767907.jpg",
   "md5": "0A14189FBF7E23FA3BBB4417E334D7FF",
   "tags": [
-    "vegetation",
-    "plant",
-    "land",
-    "nature",
-    "outdoors",
-    "woodland",
-    "forest",
-    "tree",
-    "jungle",
-    "painting",
-    "art",
-    "grove",
-    "mammal",
-    "animal",
-    "wildlife",
-    "rainforest",
-    "bear",
-    "deer",
-    "elk",
-    "bush",
-    "Druid"
+    "druid"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -42,5 +22,6 @@
     "offset_y": -3.9999999999995453,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

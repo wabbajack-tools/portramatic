@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/originals/f2/19/51/f21951cca27b1a7ccf78cb06c618fbd5.jpg",
   "md5": "674385AA89C1E61CC99ED093BBB76AEE",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "costume",
-    "ninja",
-    "test"
+    "half",
+    "orc",
+    "hellknight"
   ],
   "small": {
     "scale": 1.5300000000000005,
@@ -28,5 +24,6 @@
     "offset_y": -11.333333333333428,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

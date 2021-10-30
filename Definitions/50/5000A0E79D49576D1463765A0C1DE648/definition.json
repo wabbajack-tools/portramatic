@@ -1,20 +1,10 @@
 {
-  "source": "https://pbs.twimg.com/media/EpljnQAU8AM34Og?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EpljnQAU8AM34Og?format=jpg\u0026name=large",
   "md5": "5000A0E79D49576D1463765A0C1DE648",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "art",
-    "book",
-    "comics",
-    "christmas stocking",
-    "gift",
-    "stocking",
-    "manga",
-    "graphics",
-    ""
+    "anime",
+    "e",
+    "boy"
   ],
   "small": {
     "scale": 0.18999999999999928,
@@ -34,5 +24,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,15 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/ClH_eATUYAEQU95?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/ClH_eATUYAEQU95?format=jpg\u0026name=large",
   "md5": "1F00B68CA0F02F92CAB680CA8173D49B",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "samurai",
-    "ninja",
-    "knight",
-    "monk. dark"
+    "dark",
+    "monk"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +23,6 @@
     "offset_y": -68.87962962962956,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

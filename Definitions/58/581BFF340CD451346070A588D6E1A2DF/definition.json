@@ -2,12 +2,9 @@
   "source": "https://i.imgur.com/0rDjcws.jpeg",
   "md5": "581BFF340CD451346070A588D6E1A2DF",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "ninja",
-    ""
+    "drow",
+    "necromancer",
+    "female"
   ],
   "small": {
     "scale": 1.02,
@@ -27,5 +24,6 @@
     "offset_y": -46,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

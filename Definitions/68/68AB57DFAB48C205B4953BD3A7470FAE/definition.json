@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/564x/cb/d6/cb/cbd6cb4e37897fe0c70d51be652cd89d.jpg",
   "md5": "68AB57DFAB48C205B4953BD3A7470FAE",
   "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "person",
     "human",
-    "coat",
-    "lute",
-    "musical instrument",
-    ""
+    "bard"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -30,5 +23,6 @@
     "offset_y": -68,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

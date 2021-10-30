@@ -2,20 +2,10 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/008/787/560/large/yoon-seseon-defender-of-humanity1.jpg?1515334767",
   "md5": "49B09FF1FED5C7E98C6A39CCA091B2D1",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "female",
-    "person",
-    "human",
-    "woman",
-    "fashion",
-    "cape",
-    "long sleeve",
-    "sleeve",
-    "cloak",
-    "footwear",
-    ""
+    "seseon",
+    "yoon",
+    "defender",
+    "humanity"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -35,5 +25,6 @@
     "offset_y": -102.5185185185187,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

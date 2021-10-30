@@ -2,20 +2,8 @@
   "source": "https://images4.alphacoders.com/275/275446.jpg",
   "md5": "0BFB566C0D02458AE25D5F187BA912CB",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "female",
-    "weapon",
-    "weaponry",
-    "blade",
-    "head",
-    "face",
-    "woman",
-    "sword",
-    ""
+    "pirate",
+    "girl"
   ],
   "small": {
     "scale": 0.49999999999999956,
@@ -35,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

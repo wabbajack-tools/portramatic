@@ -2,26 +2,9 @@
   "source": "https://i.pinimg.com/originals/6e/f9/b6/6ef9b652919db5a9cbb7421c0895e6ed.jpg",
   "md5": "2F6CA3BAF7629FE7273AB8E5C477DA4F",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "costume",
-    "armor",
-    "crowd",
-    "samurai",
-    "festival",
-    "clothing",
-    "apparel",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "legend",
+    "cryptids",
+    "queen"
   ],
   "small": {
     "scale": 1.6000000000000005,
@@ -41,5 +24,6 @@
     "offset_y": -107,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

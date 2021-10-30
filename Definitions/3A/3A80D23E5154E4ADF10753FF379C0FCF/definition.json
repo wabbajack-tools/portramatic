@@ -2,18 +2,7 @@
   "source": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/299/1000/1000/636252771583275655.jpeg",
   "md5": "3A80D23E5154E4ADF10753FF379C0FCF",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bird",
-    "animal",
-    "sport",
-    "sports",
-    "costume",
-    "archery",
-    "bow",
-    ""
+    "druid"
   ],
   "small": {
     "scale": 1,
@@ -33,5 +22,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

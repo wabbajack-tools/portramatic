@@ -2,14 +2,8 @@
   "source": "http://3.bp.blogspot.com/-V9YQNWi4y1A/T4Z8DmC086I/AAAAAAAAAYk/h4nfUhKX1Z8/s1600/Wizard.jpg",
   "md5": "02D6AF24011818CEB930CBD482C7B7ED",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "magician",
-    "performer",
-    "costume",
-    "Angel"
+    "chinese",
+    "wizard"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -29,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

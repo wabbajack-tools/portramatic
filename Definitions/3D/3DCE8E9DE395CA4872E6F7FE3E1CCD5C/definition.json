@@ -2,15 +2,9 @@
   "source": "https://swtorstrategies.com/wp-content/uploads/2010/02/Darth-Nihilus.jpg",
   "md5": "3DCE8E9DE395CA4872E6F7FE3E1CCD5C",
   "tags": [
-    "clothing",
-    "apparel",
-    "fashion",
-    "cloak",
-    "painting",
-    "art",
-    "person",
-    "human",
-    ""
+    "darth",
+    "nihilus",
+    "malak"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -30,5 +24,6 @@
     "offset_y": -25.333333333333712,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

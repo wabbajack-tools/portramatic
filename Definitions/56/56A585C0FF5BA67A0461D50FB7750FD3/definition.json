@@ -2,15 +2,11 @@
   "source": "https://www.solasta-game.com/storage/14/human_wizard_male.png",
   "md5": "56A585C0FF5BA67A0461D50FB7750FD3",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "knight",
-    "samurai",
-    "pirate",
-    "light",
-    ""
+    "solasta",
+    "crown",
+    "magister",
+    "goliat",
+    "gashi"
   ],
   "small": {
     "scale": 1.4600000000000004,
@@ -30,5 +26,6 @@
     "offset_y": -48.26851851851842,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,13 +2,9 @@
   "source": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-swain-reveal/en_US/f4b05129ff4965f7cae70871504158000cbe0fc7/assets/downloads/wallpapers/swain-1280x1024.jpg",
   "md5": "599A71DDCE205725CDD26C79647F4755",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "art",
-    "overwatch",
-    "graphics",
-    "League"
+    "league",
+    "legend",
+    "swain"
   ],
   "small": {
     "scale": 1.06,
@@ -28,5 +24,6 @@
     "offset_y": -0.8000000000006366,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

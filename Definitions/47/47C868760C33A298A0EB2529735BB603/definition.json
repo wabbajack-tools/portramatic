@@ -2,16 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/022/138/058/large/seung-gue-lee-5-27.jpg?1574302276",
   "md5": "47C868760C33A298A0EB2529735BB603",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "photography",
-    "photo",
-    "portrait",
-    "face",
-    "darksorcerer"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.8199999999999998,
@@ -31,5 +23,6 @@
     "offset_y": -19.199999999999903,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

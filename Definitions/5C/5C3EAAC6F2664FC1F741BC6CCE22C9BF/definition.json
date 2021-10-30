@@ -2,14 +2,10 @@
   "source": "http://image.noelshack.com/fichiers/2021/41/6/1634384020-48e023c0809a0b66a4022dd652027217.png",
   "md5": "5C3EAAC6F2664FC1F741BC6CCE22C9BF",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "weapon",
-    "weaponry",
-    "Half-orc"
+    "pathfinder",
+    "kingmaker",
+    "elf",
+    "portraits"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -29,5 +25,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,10 @@
   "source": "http://www.gamer.ru/system/attached_images/images/000/305/570/original/legenda_o_rytsare_palladin.jpg",
   "md5": "015C8FFE7A811956315B4F3C683801A0",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "weapon",
-    "weaponry",
-    "female",
-    "blade",
-    "duel",
-    "knight",
-    "elf",
-    "Paladin"
+    "king\u0027s",
+    "bounty",
+    "legend",
+    "paladin"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -33,5 +25,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

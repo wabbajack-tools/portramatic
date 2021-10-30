@@ -2,22 +2,8 @@
   "source": "https://safebooru.org/images/2595/cffd49504ed563021ff529f2729cb17af2d5df12.png",
   "md5": "3C0F3DB86982F62C1676190870D94992",
   "tags": [
-    "person",
-    "human",
-    "overwatch",
-    "costume",
-    "manga",
-    "book",
-    "comics",
-    "graphics",
-    "art",
-    "angel",
-    "archangel",
-    "bird",
-    "animal",
-    "dragon",
-    "samurai",
-    ""
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -37,5 +23,6 @@
     "offset_y": -7.740740740740648,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

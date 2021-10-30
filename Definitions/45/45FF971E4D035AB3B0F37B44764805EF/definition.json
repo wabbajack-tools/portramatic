@@ -2,11 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/016/425/591/large/zhaoyuan-pan-jaimecom1.jpg?1552118038",
   "md5": "45FF971E4D035AB3B0F37B44764805EF",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "samurai",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.6699999999999997,
@@ -26,5 +23,6 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

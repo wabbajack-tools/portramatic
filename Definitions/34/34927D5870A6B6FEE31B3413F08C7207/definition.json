@@ -2,26 +2,8 @@
   "source": "https://i.imgur.com/JmzQsm1.jpeg",
   "md5": "34927D5870A6B6FEE31B3413F08C7207",
   "tags": [
-    "person",
     "human",
-    "photography",
-    "photo",
-    "knight",
-    "world of warcraft",
-    "samurai",
-    "female",
-    "costume",
-    "face",
-    "clothing",
-    "apparel",
-    "crowd",
-    "woman",
-    "weapon",
-    "weaponry",
-    "male",
-    "ranger",
-    "sword",
-    "ax"
+    "brawler"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -41,5 +23,6 @@
     "offset_y": -13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

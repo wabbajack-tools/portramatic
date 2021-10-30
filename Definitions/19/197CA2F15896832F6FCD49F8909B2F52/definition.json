@@ -2,12 +2,9 @@
   "source": "https://i.pinimg.com/564x/a5/36/1a/a5361a6a799a9a9d8dbd6e10545f928a.jpg",
   "md5": "197CA2F15896832F6FCD49F8909B2F52",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "world of warcraft",
-    ""
+    "male",
+    "gnome",
+    "wow"
   ],
   "small": {
     "scale": 1.01,
@@ -27,5 +24,6 @@
     "offset_y": -110.66666666666572,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

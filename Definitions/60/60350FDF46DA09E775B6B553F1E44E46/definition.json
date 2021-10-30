@@ -2,23 +2,8 @@
   "source": "https://i.imgur.com/PZ70PKA.jpg",
   "md5": "60350FDF46DA09E775B6B553F1E44E46",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "knight",
-    "armor",
-    "samurai",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "dish",
-    "food",
-    "meal",
-    "duel",
-    "people",
-    ""
+    "crusader",
+    "knight"
   ],
   "small": {
     "scale": 1,
@@ -38,5 +23,6 @@
     "offset_y": -13.333333333333485,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

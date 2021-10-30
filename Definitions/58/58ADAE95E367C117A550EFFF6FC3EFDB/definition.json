@@ -2,20 +2,9 @@
   "source": "https://i.pinimg.com/originals/06/cf/74/06cf74dee0d4bbb8d5eec82b07f9784f.jpg",
   "md5": "58ADAE95E367C117A550EFFF6FC3EFDB",
   "tags": [
-    "person",
-    "human",
-    "blade",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "horse",
-    "animal",
-    "mammal",
-    "duel",
+    "pathfinder",
     "female",
-    "damphir",
-    "warrior",
-    "assassine"
+    "dhampir"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -35,5 +24,6 @@
     "offset_y": -1.509259259259352,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

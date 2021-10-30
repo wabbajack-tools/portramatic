@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/564x/fb/e4/c1/fbe4c1f9be3ebf49a0ab144c237b1c18.jpg",
   "md5": "5F9945CD5951F96C90F691E794F65FDD",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "archery",
-    "bow",
-    ""
+    "female",
+    "tiefling",
+    "fighter"
   ],
   "small": {
     "scale": 1.3200000000000003,
@@ -28,5 +24,6 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

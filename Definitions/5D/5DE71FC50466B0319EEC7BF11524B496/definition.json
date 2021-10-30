@@ -2,22 +2,8 @@
   "source": "https://i.pinimg.com/564x/1b/da/f6/1bdaf61cac4b11754a0c726919f707f7.jpg",
   "md5": "5DE71FC50466B0319EEC7BF11524B496",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "elf",
-    "costume",
-    "final fantasy",
-    "world of warcraft",
-    "horizon",
-    "nature",
-    "outdoors",
-    "sky",
-    "knight",
-    "samurai",
-    "necromancer",
-    "lich"
+    "character",
+    "necromancer"
   ],
   "small": {
     "scale": 0.1999999999999993,
@@ -37,5 +23,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

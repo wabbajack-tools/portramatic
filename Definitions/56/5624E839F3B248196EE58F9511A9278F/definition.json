@@ -2,16 +2,11 @@
   "source": "http://image.noelshack.com/fichiers/2021/41/6/1634383894-70dtkn6wgvb35.png",
   "md5": "5624E839F3B248196EE58F9511A9278F",
   "tags": [
-    "toy",
-    "person",
-    "human",
-    "knight",
-    "armor",
-    "figurine",
-    "ninja",
-    "batman",
-    "samurai",
-    "Half-orc"
+    "pathfinder",
+    "kingmaker",
+    "half",
+    "orc",
+    "portraits"
   ],
   "small": {
     "scale": 1.5700000000000005,
@@ -31,5 +26,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

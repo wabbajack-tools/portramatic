@@ -2,11 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/000/454/340/large/dmitry-prozorov-auriel.jpg?1423163209",
   "md5": "545073CE393D147067E93863E5D05CAE",
   "tags": [
-    "person",
-    "human",
-    "dragon",
-    "art",
-    ""
+    "diablo",
+    "auriel"
   ],
   "small": {
     "scale": 0.4099999999999995,
@@ -26,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,15 +1,10 @@
 {
-  "source": "https://external-preview.redd.it/igaaC6eJ4BY5x0aKWHSH6PYC3mNFJwpwm8ibK6A-J-Y.jpg?auto=webp&s=630f51b0a0fd660addff52e640b850f5a2cc67b7",
+  "source": "https://external-preview.redd.it/igaaC6eJ4BY5x0aKWHSH6PYC3mNFJwpwm8ibK6A-J-Y.jpg?auto=webp\u0026s=630f51b0a0fd660addff52e640b850f5a2cc67b7",
   "md5": "54474464D7D7105200F90FBED1C906CC",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "armor",
-    "people",
-    "bronze",
-    "toy",
-    ""
+    "pathfinder",
+    "undead",
+    "dwarf"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +24,6 @@
     "offset_y": 10.66666666666589,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

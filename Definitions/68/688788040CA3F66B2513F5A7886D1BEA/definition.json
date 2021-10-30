@@ -2,13 +2,9 @@
   "source": "https://static.wikia.nocookie.net/gameofthronesfanon/images/d/d3/Rickard_stark.png/revision/latest?cb=20190531154826",
   "md5": "688788040CA3F66B2513F5A7886D1BEA",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "legend of zelda",
-    "outdoors",
-    ""
+    "character",
+    "medieval",
+    "man"
   ],
   "small": {
     "scale": 0.3499999999999994,
@@ -28,5 +24,6 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

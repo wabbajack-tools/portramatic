@@ -2,24 +2,9 @@
   "source": "https://i.pinimg.com/564x/3b/d4/ea/3bd4ea3ed4f0d5be12412ec59920a752.jpg",
   "md5": "35C7253E7AA7E19D481C2186E0CF3D6D",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "sport",
-    "sports",
-    "bow",
-    "face",
-    "archery",
-    "ninja",
-    "photography",
-    "photo",
-    "elf",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "dragon",
-    ""
+    "female",
+    "tiefling",
+    "rogue"
   ],
   "small": {
     "scale": 1.4800000000000004,
@@ -39,5 +24,6 @@
     "offset_y": -60,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

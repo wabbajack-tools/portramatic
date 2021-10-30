@@ -2,19 +2,9 @@
   "source": "https://i.pinimg.com/564x/00/3b/b0/003bb0e8d73b7833bd4c1b883f465892.jpg",
   "md5": "40042004A910577B5B9AE943376AF7E0",
   "tags": [
-    "clothing",
-    "apparel",
-    "cloak",
-    "fashion",
-    "person",
-    "human",
-    "coat",
-    "painting",
-    "art",
-    "knight",
-    "samurai",
-    "necromancer",
-    "lich"
+    "medieval",
+    "dark",
+    "wizard"
   ],
   "small": {
     "scale": 0.1999999999999993,
@@ -34,5 +24,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

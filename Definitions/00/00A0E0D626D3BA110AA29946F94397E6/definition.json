@@ -2,13 +2,12 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/338/702/large/daeho-cha-1-copy.jpg?1529059256",
   "md5": "00A0E0D626D3BA110AA29946F94397E6",
   "tags": [
-    "painting",
-    "art",
-    "horse",
-    "animal",
-    "mammal",
-    "knight",
-    ""
+    "character",
+    "concept",
+    "daeho",
+    "cha",
+    "mu",
+    "origin"
   ],
   "small": {
     "scale": 0.99,
@@ -28,5 +27,6 @@
     "offset_y": -16.018518518518704,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

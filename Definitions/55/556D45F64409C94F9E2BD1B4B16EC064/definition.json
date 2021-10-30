@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/564x/be/9f/b6/be9fb6c1768ef6a8cd5023be99112473.jpg",
   "md5": "556D45F64409C94F9E2BD1B4B16EC064",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "dragon",
-    "angel",
-    "aasimar"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.4000000000000004,
@@ -29,5 +23,6 @@
     "offset_y": -43,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

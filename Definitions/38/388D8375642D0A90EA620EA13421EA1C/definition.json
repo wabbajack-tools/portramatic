@@ -2,12 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/240/776/large/inyoung-song-2-knight.jpg?1590993588",
   "md5": "388D8375642D0A90EA620EA13421EA1C",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "costume",
-    "samurai",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -27,5 +23,6 @@
     "offset_y": -48,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

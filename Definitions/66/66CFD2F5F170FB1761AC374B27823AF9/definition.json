@@ -2,15 +2,8 @@
   "source": "https://static.tvtropes.org/pmwiki/pub/images/alahazra.jpg",
   "md5": "66CFD2F5F170FB1761AC374B27823AF9",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "architecture",
-    "building",
-    "samurai",
-    "figurine",
-    ""
+    "pathfinder",
+    "oracle"
   ],
   "small": {
     "scale": 1.2800000000000005,
@@ -20,7 +13,7 @@
   },
   "medium": {
     "scale": 0.6699999999999997,
-    "offset_x": -1.1368683772161603e-13,
+    "offset_x": -1.1368683772161603E-13,
     "offset_y": -10.000000000000199,
     "size": "medium"
   },
@@ -30,5 +23,6 @@
     "offset_y": -3.999999999999659,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

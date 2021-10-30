@@ -2,20 +2,9 @@
   "source": "https://pbs.twimg.com/media/EVYTg-FVAAAYh5o.jpg",
   "md5": "53FAED56F09D23F2D5B532586EF4F6D9",
   "tags": [
-    "person",
+    "female",
     "human",
-    "clothing",
-    "apparel",
-    "costume",
-    "people",
-    "bow",
-    "samurai",
-    "painting",
-    "art",
-    "knight",
-    "world of warcraft",
-    "armor",
-    ""
+    "ranger"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -35,5 +24,6 @@
     "offset_y": -4.9166666666670835,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

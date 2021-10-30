@@ -2,32 +2,10 @@
   "source": "https://i.pinimg.com/564x/44/33/b0/4433b0f271effb04dfd1bdbfbb16e8a2.jpg",
   "md5": "5F79A67B173BC09EAADBC6092ABE995B",
   "tags": [
-    "hat",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "manga",
-    "book",
-    "comics",
-    "art",
-    "graphics",
-    "female",
-    "costume",
-    "bow",
-    "archery",
-    "sport",
-    "sports",
-    "archer",
-    "elf",
-    "wizard",
     "witch",
-    "sorceror",
-    "azata",
-    "trickster",
-    "magus",
-    "fighter",
-    "rogue"
+    "halloween",
+    "witches",
+    "girl"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -47,5 +25,6 @@
     "offset_y": -3.3333333333340533,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

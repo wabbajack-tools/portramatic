@@ -2,23 +2,10 @@
   "source": "https://i.pinimg.com/564x/ac/7f/f1/ac7ff14132ea59b5a4fb34a4d438c258.jpg",
   "md5": "5155545A3D67C29500173EE702A7F62E",
   "tags": [
-    "person",
-    "human",
-    "shoe",
-    "clothing",
-    "footwear",
-    "apparel",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "painting",
-    "art",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "portrait",
+    "halfling",
+    "rogue",
+    "female"
   ],
   "small": {
     "scale": 1.6100000000000005,
@@ -38,5 +25,6 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

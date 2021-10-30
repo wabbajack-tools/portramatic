@@ -1,20 +1,10 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/000/589/826/large/mark-tarrisse-female-elf-wizard-final.jpg?1427753393&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/000/589/826/large/mark-tarrisse-female-elf-wizard-final.jpg?1427753393\u0026dl=1",
   "md5": "3D5193ACA56A27550B8BC9E05DD0890D",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "leisure activities",
-    "dance pose",
-    "clothing",
-    "apparel",
-    "fire",
-    "costume",
     "elf",
-    "female",
-    ""
+    "mage",
+    "female"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,5 +24,6 @@
     "offset_y": -130,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

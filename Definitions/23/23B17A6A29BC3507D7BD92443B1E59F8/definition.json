@@ -2,12 +2,8 @@
   "source": "https://i.imgur.com/BuIKPTO.jpeg",
   "md5": "23B17A6A29BC3507D7BD92443B1E59F8",
   "tags": [
-    "person",
-    "human",
-    "quake",
-    "painting",
-    "art",
-    ""
+    "explore",
+    "orc"
   ],
   "small": {
     "scale": 0.3199999999999994,
@@ -27,5 +23,6 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

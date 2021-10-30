@@ -2,10 +2,8 @@
   "source": "https://i.pinimg.com/originals/94/4b/56/944b56565b8fba539fa5e9867750653d.jpg",
   "md5": "5C8ACE0109DE53694A2DBA82DA926874",
   "tags": [
-    "person",
-    "human",
-    "alien",
-    "Consumed"
+    "zoom",
+    "flash"
   ],
   "small": {
     "scale": 0.8699999999999994,
@@ -22,8 +20,9 @@
   "full": {
     "scale": 1.239999999999999,
     "offset_x": -50.666666666666515,
-    "offset_y": -3.979039320256561e-13,
+    "offset_y": -3.979039320256561E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,16 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/032/282/057/large/darya-kozhemyakina-final-girl-log.jpg?1605983299",
   "md5": "6C7BD9133BBF9643B439AE27AF518EF7",
   "tags": [
-    "costume",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "figurine",
-    "crowd",
-    "footwear",
-    "people",
-    ""
+    "original",
+    "character"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -31,5 +23,6 @@
     "offset_y": -88,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

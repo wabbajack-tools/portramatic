@@ -1,24 +1,8 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4e%2F21%2F14%2F4e211473d6621186773e6d140d279f9f.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4e%2F21%2F14%2F4e211473d6621186773e6d140d279f9f.jpg\u0026f=1\u0026nofb=1",
   "md5": "52CED4A074CE163CCD0E02AC473C5D4F",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "bronze",
-    "figurine",
-    "architecture",
-    "building",
-    "furniture",
-    "sweets",
-    "food",
-    "confectionery",
-    "angel",
-    "archangel",
-    "symbol",
-    "crowd",
-    ""
+    "fighter"
   ],
   "small": {
     "scale": 0.4099999999999995,
@@ -38,5 +22,6 @@
     "offset_y": -88,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,24 +1,11 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F40%2F41%2F60%2F40416042cac7ceffac7af31ef153f2cf.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F40%2F41%2F60%2F40416042cac7ceffac7af31ef153f2cf.jpg\u0026f=1\u0026nofb=1",
   "md5": "04F00FE64C8C4396040819FBAD511531",
   "tags": [
-    "person",
-    "human",
-    "doll",
-    "toy",
-    "crowd",
-    "hair",
-    "elf",
-    "costume",
-    "hat",
-    "clothing",
-    "apparel",
-    "duel",
-    "painting",
-    "art",
-    "swashbuckler",
-    "rogue",
-    "sword"
+    "elven",
+    "princess",
+    "bluish",
+    "salt"
   ],
   "small": {
     "scale": 0.2199999999999993,
@@ -38,5 +25,6 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

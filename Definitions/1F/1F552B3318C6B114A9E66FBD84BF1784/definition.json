@@ -2,14 +2,11 @@
   "source": "https://i.redd.it/5crcdafw9kn31.jpg",
   "md5": "1F552B3318C6B114A9E66FBD84BF1784",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "duel",
-    "ninja",
-    ""
+    "tiefling",
+    "red",
+    "skin",
+    "blue",
+    "hair"
   ],
   "small": {
     "scale": 0.39999999999999947,
@@ -29,5 +26,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

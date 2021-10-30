@@ -2,25 +2,8 @@
   "source": "https://i.imgur.com/rBpHg8v.jpeg",
   "md5": "1EB7BF60BFF597ACD5891CEBA40CDA91",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "coat",
-    "overcoat",
-    "samurai",
-    "photography",
-    "photo",
-    "painting",
-    "art",
-    "knight",
-    "graphics",
-    "modern art",
-    "duel",
-    "female",
-    "dancer",
-    "mage",
-    "assassin"
+    "male",
+    "concept"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -40,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

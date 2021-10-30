@@ -2,17 +2,9 @@
   "source": "https://i.pinimg.com/564x/83/62/3b/83623bfdeed8210de13062ee326fc920.jpg",
   "md5": "4687F4DDCCD49668FE584F9313E0EDCC",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "art",
-    "cloak",
-    "fashion",
-    "costume",
     "female",
-    "coat",
-    ""
+    "white",
+    "hair"
   ],
   "small": {
     "scale": 1.07,
@@ -32,5 +24,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

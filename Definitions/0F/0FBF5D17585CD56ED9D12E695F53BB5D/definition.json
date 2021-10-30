@@ -2,18 +2,7 @@
   "source": "https://i.pinimg.com/564x/89/6e/21/896e21f62f5dad579746de86954b6529.jpg",
   "md5": "0FBF5D17585CD56ED9D12E695F53BB5D",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "art",
-    "painting",
-    "skin",
-    "crowd",
-    "graphics",
-    "elf",
-    "female",
-    "carnival",
-    ""
+    "mephisto"
   ],
   "small": {
     "scale": 1.08,
@@ -33,5 +22,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

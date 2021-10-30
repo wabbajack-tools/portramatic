@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/736x/18/b1/6c/18b16cad6987c6c0e79e5ed348ecc762--dnd-characters-fantasy-characters.jpg",
   "md5": "0FD742CBF94187D839CCFF68EDA99205",
   "tags": [
-    "helmet",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "comics",
-    "book",
-    "costume",
-    "manga",
-    ""
+    "female",
+    "gnome",
+    "paladin"
   ],
   "small": {
     "scale": 1,
@@ -31,5 +24,6 @@
     "offset_y": -9.333333333333542,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

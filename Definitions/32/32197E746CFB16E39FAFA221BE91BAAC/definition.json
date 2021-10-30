@@ -2,26 +2,10 @@
   "source": "https://cdn.pixabay.com/photo/2016/10/26/03/01/gothic-1770548_960_720.jpg",
   "md5": "32197E746CFB16E39FAFA221BE91BAAC",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "sleeve",
-    "overcoat",
-    "coat",
-    "pants",
-    "smoke",
-    "footwear",
-    "pot",
-    "long sleeve",
-    "costume",
-    "art",
-    "graphics",
-    "angel",
-    "archangel",
-    "cosplay",
+    "goth",
+    "long",
     "hair",
-    ""
+    "female"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -41,5 +25,6 @@
     "offset_y": 152,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

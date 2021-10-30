@@ -2,26 +2,8 @@
   "source": "https://i.pinimg.com/564x/d5/27/8a/d5278a13f06085e344f5e5685e6cccde.jpg",
   "md5": "495EB376FDFAE130510665B0C8918544",
   "tags": [
-    "manga",
-    "book",
-    "comics",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "helmet",
-    "clothing",
-    "apparel",
-    "dress",
-    "duel",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "demon",
-    "succubus",
-    "tiefling"
+    "female",
+    "paladin"
   ],
   "small": {
     "scale": 1.4800000000000004,
@@ -41,5 +23,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

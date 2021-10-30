@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/564x/69/42/23/694223a6def015c3fdda2164e103e480.jpg",
   "md5": "4250987E1E8213072599E2DEC3D56770",
   "tags": [
-    "person",
-    "human",
-    "duel",
-    "weapon",
-    "weaponry",
-    "costume",
-    "blade",
-    "sword",
-    "ninja",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.3100000000000003,
@@ -31,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

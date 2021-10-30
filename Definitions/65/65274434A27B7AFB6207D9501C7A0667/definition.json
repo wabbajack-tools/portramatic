@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/originals/fe/8c/44/fe8c44d08d121368e8b5d5ed2056a0e8.jpg",
   "md5": "65274434A27B7AFB6207D9501C7A0667",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "armor",
-    "samurai",
-    "photography",
-    "photo",
-    "cleric"
+    "role-playing",
+    "game"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -29,5 +23,6 @@
     "offset_y": -31.20000000000013,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

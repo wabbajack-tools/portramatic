@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/originals/fa/90/01/fa9001d4afaf0007dfec6d501d315b8d.png",
   "md5": "31B0CDAEF98353C986C16119BD742E8A",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "samurai",
-    "female",
-    "duel",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.6300000000000006,
@@ -30,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

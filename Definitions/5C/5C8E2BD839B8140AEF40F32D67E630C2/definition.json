@@ -2,14 +2,9 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/006/541/214/large/valeriy-vegera-concept-amiri-f.jpg?1499370821",
   "md5": "5C8E2BD839B8140AEF40F32D67E630C2",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "painting",
-    "art",
-    "armor",
-    "costume",
-    ""
+    "pathfinder",
+    "kingmaker",
+    "amiri"
   ],
   "small": {
     "scale": 0.95,
@@ -29,5 +24,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

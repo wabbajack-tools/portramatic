@@ -2,11 +2,9 @@
   "source": "https://i.imgur.com/KspAzw8.jpg",
   "md5": "2EFEBC9A4E56AC3314E277A7A4D1B97D",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    ""
+    "warden",
+    "dragon",
+    "age"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -26,5 +24,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,22 +2,7 @@
   "source": "https://i.pinimg.com/originals/ca/98/72/ca9872e14e4eaed7b2defcea6144c683.jpg",
   "md5": "0A89DDEAD21731FBC41AECBFEF72D6A5",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "person",
-    "human",
-    "costume",
-    "drawing",
-    "art",
-    "archer",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "painting",
-    "female",
-    "ranger"
+    "character"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -37,5 +22,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

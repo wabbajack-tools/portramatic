@@ -2,25 +2,9 @@
   "source": "https://i.pinimg.com/564x/62/53/eb/6253eb505fbc073109b8d93432c0f1e0.jpg",
   "md5": "3F0A096D937B5825BEC95DE13F88A262",
   "tags": [
-    "person",
-    "human",
     "female",
-    "photography",
-    "photo",
-    "art",
-    "duel",
-    "drawing",
-    "samurai",
-    "hand",
-    "bow",
-    "archery",
-    "sport",
-    "sports",
-    "angel",
-    "archangel",
-    "costume",
-    "elf",
-    ""
+    "sword",
+    "master"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -40,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

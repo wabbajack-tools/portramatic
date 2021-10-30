@@ -1,12 +1,8 @@
 {
-  "source": "https://pbs.twimg.com/media/D6BweQLUEAIJQjt?format=jpg&name=small",
+  "source": "https://pbs.twimg.com/media/D6BweQLUEAIJQjt?format=jpg\u0026name=small",
   "md5": "1148C038C428A376F954AC48626491BF",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    ""
+    "demon"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -26,5 +22,6 @@
     "offset_y": -43.999999999999886,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

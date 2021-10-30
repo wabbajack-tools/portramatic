@@ -2,17 +2,8 @@
   "source": "https://i.imgur.com/h2iaiZY.png",
   "md5": "37132090011E60D3358960DCA4D45B4F",
   "tags": [
-    "archer",
-    "archery",
-    "person",
-    "bow",
-    "sport",
-    "human",
-    "sports",
-    "painting",
-    "art",
-    "knight",
-    ""
+    "fire",
+    "archer"
   ],
   "small": {
     "scale": 1.06,
@@ -32,5 +23,6 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

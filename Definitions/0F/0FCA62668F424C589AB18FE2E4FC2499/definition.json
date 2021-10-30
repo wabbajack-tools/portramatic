@@ -2,13 +2,10 @@
   "source": "https://arch-img.b4k.co/vrpg/1630941918359.png",
   "md5": "0FCA62668F424C589AB18FE2E4FC2499",
   "tags": [
-    "person",
-    "human",
-    "overwatch",
-    "manga",
-    "comics",
-    "book",
-    "demon"
+    "pathfinder",
+    "wrath",
+    "righteous",
+    "seelah"
   ],
   "small": {
     "scale": 1.6400000000000006,
@@ -28,5 +25,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

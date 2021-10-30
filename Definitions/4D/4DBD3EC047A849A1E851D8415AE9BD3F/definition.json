@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/564x/19/3a/f9/193af95266e0337e9acb9031615ec75f.jpg",
   "md5": "4DBD3EC047A849A1E851D8415AE9BD3F",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "legend of zelda",
-    "sleeve",
-    "footwear",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    ""
+    "soldier",
+    "male"
   ],
   "small": {
     "scale": 1.4200000000000004,
@@ -33,5 +23,6 @@
     "offset_y": -53,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

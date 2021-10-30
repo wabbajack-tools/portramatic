@@ -2,24 +2,9 @@
   "source": "https://i.pinimg.com/originals/22/13/81/221381cd2b270c2c7bd755be9ea5f324.jpg",
   "md5": "0AC09C938DE0A0A3BA620BE078316E28",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "alien",
-    "face",
-    "painting",
-    "head",
-    "portrait",
-    "photography",
-    "photo",
-    "skin",
-    "armor",
-    "mammal",
-    "animal",
-    "people",
-    "wildlife",
-    "tiefling",
-    "demon"
+    "rpg",
+    "demon",
+    "portrait"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -39,5 +24,6 @@
     "offset_y": -43,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

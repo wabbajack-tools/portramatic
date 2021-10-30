@@ -2,18 +2,9 @@
   "source": "https://i.pinimg.com/564x/28/01/8e/28018ea9b39e54cfea663745a7a27754.jpg",
   "md5": "20BCA853814642E9ACE822857EDCC6DD",
   "tags": [
-    "person",
-    "human",
-    "stick",
-    "cane",
-    "clothing",
-    "apparel",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    "people",
-    "warrior"
+    "rpg",
+    "character",
+    "kid"
   ],
   "small": {
     "scale": 1.6600000000000006,
@@ -33,5 +24,6 @@
     "offset_y": -131,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

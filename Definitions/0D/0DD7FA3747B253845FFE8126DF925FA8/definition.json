@@ -2,18 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2416174/file_2416174.jpg?v=1361654500",
   "md5": "0DD7FA3747B253845FFE8126DF925FA8",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "toy",
-    "adventure",
-    "leisure activities",
-    "female",
-    "tire",
-    "swing",
-    "outdoors",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.9299999999999999,
@@ -33,5 +23,6 @@
     "offset_y": -432,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

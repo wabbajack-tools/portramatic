@@ -2,13 +2,10 @@
   "source": "https://i.pinimg.com/564x/22/2f/57/222f5774b25170f8596d97df76b11c66.jpg",
   "md5": "6A14D13AD3B7B3415214A5062D515481",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "armor",
-    ""
+    "female",
+    "monster",
+    "slayer",
+    "ranger"
   ],
   "small": {
     "scale": 1.5600000000000005,
@@ -28,5 +25,6 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

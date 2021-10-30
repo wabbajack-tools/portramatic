@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/736x/99/4e/90/994e9040d192277c57a71439313ca5c0.jpg",
   "md5": "19BAC7D0F68C76A104AA39020C9D341D",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "helmet",
-    "clothing",
-    "apparel",
-    "knight",
-    "duel",
-    "armor",
-    "knightess"
+    "female",
+    "medieval",
+    "armor"
   ],
   "small": {
     "scale": 1.3500000000000003,
@@ -31,5 +24,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

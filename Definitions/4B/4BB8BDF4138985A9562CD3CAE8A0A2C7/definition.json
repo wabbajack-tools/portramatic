@@ -2,31 +2,8 @@
   "source": "https://i.pinimg.com/564x/0d/4d/44/0d4d440fb098df11380eed62e03c3993.jpg",
   "md5": "4BB8BDF4138985A9562CD3CAE8A0A2C7",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "dress",
-    "fashion",
-    "cloak",
-    "water",
-    "female",
-    "pants",
-    "evening dress",
-    "gown",
-    "robe",
-    "outdoors",
-    "swimwear",
-    "duel",
-    "ninja",
-    "photography",
-    "photo",
-    "light",
-    "face",
-    "machine",
-    "samurai",
-    "mage"
+    "wizard",
+    "librarian"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -46,5 +23,6 @@
     "offset_y": -27.203703703703695,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

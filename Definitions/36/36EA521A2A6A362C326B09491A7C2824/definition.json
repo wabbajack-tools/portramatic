@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/originals/c2/08/e6/c208e6543fd052bdaca559bef8c0d567.jpg",
   "md5": "36EA521A2A6A362C326B09491A7C2824",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "ninja",
+    "male",
     "elf",
-    ""
+    "alchemist"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +24,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

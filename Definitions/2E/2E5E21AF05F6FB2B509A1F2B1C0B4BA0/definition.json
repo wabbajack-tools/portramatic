@@ -2,13 +2,10 @@
   "source": "https://i.pinimg.com/564x/31/87/f6/3187f69192e11d47866a8451f7018ac9.jpg",
   "md5": "2E5E21AF05F6FB2B509A1F2B1C0B4BA0",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "world of warcraft",
-    "costume",
-    ""
+    "humanoid",
+    "water",
+    "elemental",
+    "male"
   ],
   "small": {
     "scale": 2.1499999999999972,
@@ -25,8 +22,9 @@
   "full": {
     "scale": 1.4399999999999993,
     "offset_x": -6.666666666667879,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

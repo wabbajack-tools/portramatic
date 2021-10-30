@@ -2,12 +2,7 @@
   "source": "https://i.imgur.com/5RynGi6.png",
   "md5": "3158F9641F1529C9CAF0FFE603BF690E",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "knight",
-    ""
+    "demon"
   ],
   "small": {
     "scale": 1.5500000000000005,
@@ -27,5 +22,6 @@
     "offset_y": -97.14285714285711,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

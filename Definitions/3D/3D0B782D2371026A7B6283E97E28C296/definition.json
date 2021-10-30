@@ -2,12 +2,11 @@
   "source": "https://i.pinimg.com/736x/2c/6f/0a/2c6f0aa1a704866a10d1a80cfe159e7f--manga-art-anime-art.jpg",
   "md5": "3D0B782D2371026A7B6283E97E28C296",
   "tags": [
+    "humanoid",
+    "female",
     "dragon",
-    "painting",
-    "art",
-    "person",
     "human",
-    ""
+    "form"
   ],
   "small": {
     "scale": 1.4900000000000004,
@@ -27,5 +26,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

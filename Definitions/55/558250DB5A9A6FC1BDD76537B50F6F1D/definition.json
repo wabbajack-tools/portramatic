@@ -2,16 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/849/442/large/mingwei-kang-light-monk-beifen.jpg?1486712354",
   "md5": "558250DB5A9A6FC1BDD76537B50F6F1D",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "toy",
-    "outdoors",
-    "overwatch",
-    "legend of zelda",
-    "female",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.8600000000000008,
@@ -31,5 +23,6 @@
     "offset_y": -161,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

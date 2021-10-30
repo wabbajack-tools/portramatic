@@ -2,12 +2,9 @@
   "source": "https://s-media-cache-ak0.pinimg.com/736x/56/7b/f5/567bf598387fd2981555a6dd3647a459--female-plate-armor-female-knight-armor.jpg",
   "md5": "57C90C327D4FFFCB364E8B9803C1BA54",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "armor",
-    "knight",
-    ""
+    "female",
+    "warrior",
+    "armor"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +24,6 @@
     "offset_y": -104.00000000000045,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

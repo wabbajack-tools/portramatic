@@ -2,18 +2,7 @@
   "source": "https://i.imgur.com/hTXl8Un.png",
   "md5": "17D18AD0F21F8F926FA672AE078650EC",
   "tags": [
-    "horse",
-    "animal",
-    "mammal",
-    "person",
-    "human",
-    "knight",
-    "people",
-    "samurai",
-    "armor",
-    "nilfgaard",
-    "witcher",
-    "cahir",
+    "nilfgaardian",
     "gwent"
   ],
   "small": {
@@ -34,5 +23,6 @@
     "offset_y": -29,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

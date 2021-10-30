@@ -2,17 +2,8 @@
   "source": "https://i.pinimg.com/564x/c5/a7/36/c5a736a70d809bf0384f68189e369c8f.jpg",
   "md5": "114735695ABACE2E62B9ADA6370BAF93",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "elf",
-    "sport",
-    "sports",
-    "clothing",
-    "apparel",
-    "clerc",
-    "female",
-    ""
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 1.2100000000000002,
@@ -32,5 +23,6 @@
     "offset_y": -66,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

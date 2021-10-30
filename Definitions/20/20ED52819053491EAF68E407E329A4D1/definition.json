@@ -2,23 +2,8 @@
   "source": "https://i.pinimg.com/originals/cf/08/e4/cf08e42eea0aff0236b50bfd40817af6.jpg",
   "md5": "20ED52819053491EAF68E407E329A4D1",
   "tags": [
-    "person",
-    "human",
-    "female",
-    "costume",
-    "face",
-    "clothing",
-    "apparel",
-    "crowd",
-    "woman",
-    "photography",
-    "photo",
-    "weapon",
-    "weaponry",
     "male",
-    "ranger",
-    "sword",
-    "ax"
+    "warrior"
   ],
   "small": {
     "scale": 0.49999999999999956,
@@ -38,5 +23,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

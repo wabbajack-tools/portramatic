@@ -2,15 +2,8 @@
   "source": "https://www.playstationlifestyle.net/assets/uploads/gallery/dark-souls-knight-artorias-cook-and-becker-art-print/knight-artorias-of-the-abyss-art-print.jpg",
   "md5": "38239C7A1208D8064D0399CA8C6E0B56",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "ninja",
-    "knight",
-    "samurai",
-    "dragon",
-    ""
+    "artorias",
+    "abysswalker"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -30,5 +23,6 @@
     "offset_y": -40.00000000000017,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,14 +2,9 @@
   "source": "https://i.imgur.com/cWD7eVA.png",
   "md5": "008F323A0F6A2CF81E33CAF5A245DFB2",
   "tags": [
-    "costume",
-    "painting",
-    "art",
-    "person",
-    "human",
-    "angel",
-    "archangel",
-    ""
+    "sword",
+    "shield",
+    "warrior"
   ],
   "small": {
     "scale": 1.3200000000000003,
@@ -29,5 +24,6 @@
     "offset_y": -44.571428571428555,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

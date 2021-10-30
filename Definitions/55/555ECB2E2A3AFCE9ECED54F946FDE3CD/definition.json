@@ -2,17 +2,9 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/016/284/869/large/bageumi-l-.jpg?1551610635",
   "md5": "555ECB2E2A3AFCE9ECED54F946FDE3CD",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "duel",
-    "knight",
+    "female",
     "armor",
-    "weapon",
-    "weaponry",
-    "toy",
-    "bronze",
-    "female mage"
+    "concept"
   ],
   "small": {
     "scale": 0.96,
@@ -32,5 +24,6 @@
     "offset_y": -110.52777777777703,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

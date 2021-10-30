@@ -2,19 +2,8 @@
   "source": "https://i.pinimg.com/originals/89/1b/e9/891be90747bf43ca720bae6339d37bac.jpg",
   "md5": "4AB61019846296515808CE2CDC855E09",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "samurai",
-    "knight",
-    "duel",
     "angel",
-    "archangel",
-    "green",
-    "elf",
-    "graphics",
-    "necromancer"
+    "paladin"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -34,5 +23,6 @@
     "offset_y": -5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

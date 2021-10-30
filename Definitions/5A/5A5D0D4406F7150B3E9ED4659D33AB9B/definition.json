@@ -2,12 +2,8 @@
   "source": "https://i.imgur.com/WpeCkKj.jpeg",
   "md5": "5A5D0D4406F7150B3E9ED4659D33AB9B",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "dark",
-    "angel",
-    "armor"
+    "fallen",
+    "angel"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -27,5 +23,6 @@
     "offset_y": -52.861111111111086,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

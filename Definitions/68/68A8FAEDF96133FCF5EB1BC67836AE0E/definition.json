@@ -2,18 +2,8 @@
   "source": "https://pbs.twimg.com/media/C80knUFXsAEi6IB.jpg",
   "md5": "68A8FAEDF96133FCF5EB1BC67836AE0E",
   "tags": [
-    "person",
-    "human",
-    "bow",
-    "painting",
-    "art",
-    "sport",
-    "sports",
-    "archery",
-    "costume",
-    "elf",
-    "archer",
-    "necromancer"
+    "night",
+    "goddess"
   ],
   "small": {
     "scale": 1.2900000000000003,
@@ -33,5 +23,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

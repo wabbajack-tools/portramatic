@@ -2,20 +2,10 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/023/623/074/large/dionisis-milonas-human-ranger.jpg?1579802377",
   "md5": "6CACDC383608F0752214546B675BFE4D",
   "tags": [
-    "person",
     "human",
-    "bronze",
-    "samurai",
-    "portrait",
-    "face",
-    "photography",
-    "photo",
-    "elf",
-    "knight",
-    "shorts",
-    "clothing",
-    "apparel",
-    ""
+    "ranger",
+    "milonasdionisis",
+    "medieval"
   ],
   "small": {
     "scale": 0.7799999999999998,
@@ -35,5 +25,6 @@
     "offset_y": -3.4166666666670267,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

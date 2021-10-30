@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/originals/e0/5a/44/e05a44d3dfce7f06bcaa8cbed6e1d24e.jpg",
   "md5": "3423ED7ABC32C3CBFF3147186F6DB352",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "art",
-    "archery",
-    "bow",
-    "painting",
-    "archer",
-    ""
+    "male",
+    "pirate"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -31,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

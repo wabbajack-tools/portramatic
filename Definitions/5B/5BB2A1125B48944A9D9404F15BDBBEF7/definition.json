@@ -1,17 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/024/877/397/large/cham-s-.jpg?1589516595",
   "md5": "5BB2A1125B48944A9D9404F15BDBBEF7",
-  "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "figurine",
-    "clothing",
-    "apparel",
-    "book",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1.04,
     "offset_x": -872.7999999999987,
@@ -30,5 +20,6 @@
     "offset_y": -56.06481481481501,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

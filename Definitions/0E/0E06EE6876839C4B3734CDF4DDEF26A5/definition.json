@@ -1,21 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/010/895/291/large/yoon-seseon-55.jpg?1526818678",
   "md5": "0E06EE6876839C4B3734CDF4DDEF26A5",
-  "tags": [
-    "figurine",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "sport",
-    "sports",
-    "bow",
-    "costume",
-    "archery",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -465,
@@ -34,5 +20,6 @@
     "offset_y": -21,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

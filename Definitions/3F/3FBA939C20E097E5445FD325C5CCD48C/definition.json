@@ -2,15 +2,8 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/5/53/Narset.jpg/revision/latest?cb=20150306020038",
   "md5": "3FBA939C20E097E5445FD325C5CCD48C",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "horse",
-    "animal",
-    "mammal",
-    "overwatch",
-    ""
+    "narset",
+    "transcendent"
   ],
   "small": {
     "scale": 3.049999999999979,
@@ -30,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

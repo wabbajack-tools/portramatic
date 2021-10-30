@@ -2,14 +2,8 @@
   "source": "https://i.pinimg.com/564x/0d/96/c2/0d96c2cc2904bf5240255214c37fbe8e.jpg",
   "md5": "581CA4D6516EA7C3B5886E31892CC9E6",
   "tags": [
-    "painting",
-    "art",
-    "statue",
-    "sculpture",
-    "costume",
-    "elf",
-    "devil",
-    "demon"
+    "vampire",
+    "knights"
   ],
   "small": {
     "scale": 1.7700000000000007,
@@ -29,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

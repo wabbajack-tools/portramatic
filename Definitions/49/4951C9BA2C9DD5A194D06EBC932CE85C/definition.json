@@ -1,20 +1,12 @@
 {
-  "source": "https://pbs.twimg.com/media/EtkZOPiXIAAB7iW?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EtkZOPiXIAAB7iW?format=jpg\u0026name=large",
   "md5": "4951C9BA2C9DD5A194D06EBC932CE85C",
   "tags": [
-    "painting",
-    "art",
-    "vegetation",
-    "plant",
-    "land",
-    "nature",
-    "outdoors",
-    "dragon",
-    "person",
-    "human",
-    "jungle",
-    "tree",
-    ""
+    "emilia",
+    "totem",
+    "guardian",
+    "nielspeterdejong",
+    "dragon"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -34,5 +26,6 @@
     "offset_y": -12.800000000000068,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

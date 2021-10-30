@@ -2,13 +2,8 @@
   "source": "https://i.pinimg.com/originals/c2/33/90/c233906cdc2eebae32555f3616e342f6.jpg",
   "md5": "5EF2D2208CB29257C8F5B1E90AA6377C",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    "crowd",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -28,5 +23,6 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,13 +2,9 @@
   "source": "https://i.pinimg.com/originals/63/1e/b5/631eb52d78be336e7c198d873296707f.jpg",
   "md5": "36BCA0DB3144D70837851AF7790957DC",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "gun",
-    "weapon",
-    "weaponry",
-    "knightess"
+    "armor",
+    "black",
+    "knight"
   ],
   "small": {
     "scale": 1.8900000000000008,
@@ -28,5 +24,6 @@
     "offset_y": -25,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

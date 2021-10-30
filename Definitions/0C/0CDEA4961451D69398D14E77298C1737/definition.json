@@ -2,15 +2,10 @@
   "source": "https://i.imgur.com/xeKV9le.jpeg",
   "md5": "0CDEA4961451D69398D14E77298C1737",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "clock tower",
-    "building",
-    "architecture",
-    "tower",
+    "dark",
+    "elf",
     "knight",
-    ""
+    "female"
   ],
   "small": {
     "scale": 1.4000000000000004,
@@ -30,5 +25,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

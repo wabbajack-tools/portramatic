@@ -2,19 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2707708/b8a6025710591879c077ce4f4045630f_original.jpg?v=1474227255",
   "md5": "4A459AD0CDA26CE393F6D6F5EDC84AC3",
   "tags": [
-    "person",
-    "human",
-    "architecture",
-    "building",
-    "clothing",
-    "apparel",
-    "figurine",
-    "pillar",
-    "column",
-    "spire",
-    "tower",
-    "steeple",
-    ""
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -34,5 +23,6 @@
     "offset_y": -614,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,10 @@
   "source": "https://i.pinimg.com/564x/b0/55/2f/b0552ffa7535e1a85c086ecddd0218c8.jpg",
   "md5": "0D568399739AC9195258DD2C352DAC57",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "samurai",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    ""
+    "character",
+    "design",
+    "female",
+    "warrior"
   ],
   "small": {
     "scale": 1.3800000000000003,
@@ -30,5 +25,6 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

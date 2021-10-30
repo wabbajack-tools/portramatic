@@ -2,23 +2,10 @@
   "source": "https://i.pinimg.com/474x/7b/91/2a/7b912a6d3cbdb31faa1a4ab37a9d45e0--character-concept-character-art.jpg",
   "md5": "4A099EA3DAA8EBC11F9EC8DA21E5B749",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "costume",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    "ninja",
-    "statue",
-    "art",
-    "sculpture",
-    "bronze",
-    "armor",
+    "pathfinder",
     "female",
-    ""
+    "tiefling",
+    "rogue"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -38,5 +25,6 @@
     "offset_y": -10.666666666666515,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,17 +2,8 @@
   "source": "https://i.pinimg.com/564x/bd/ab/d1/bdabd1401d68cce51deb38de139050ed.jpg",
   "md5": "55BFF8DB8DD793169B329F675DF4E74D",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "statue",
-    "sculpture",
-    "knight",
-    "duel",
-    "face",
-    "elf",
-    ""
+    "undead",
+    "general"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

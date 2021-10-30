@@ -2,11 +2,8 @@
   "source": "https://staticdelivery.nexusmods.com/images/1704/35349725-1530243671.png",
   "md5": "2F83ADC124768C8AC95C5FFF2CBBBD9D",
   "tags": [
-    "person",
-    "human",
-    "alien",
-    "batman",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1,
@@ -26,5 +23,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

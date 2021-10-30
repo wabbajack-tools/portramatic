@@ -2,12 +2,10 @@
   "source": "https://i.imgur.com/fbBCnKr.png",
   "md5": "406C1CED638F011E30F7145A57908232",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    ""
+    "pathfinder",
+    "kingmaker",
+    "elf",
+    "portraits"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +25,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

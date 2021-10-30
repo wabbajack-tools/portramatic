@@ -2,12 +2,10 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/395/625/large/tj-foo-wasteland-gladiator.jpg?1445770201",
   "md5": "3F0F7739371FCE3766E640EF373CB1BC",
   "tags": [
-    "person",
-    "human",
-    "bronze",
-    "samurai",
-    "armor",
-    ""
+    "wasteland",
+    "gladiator",
+    "tj",
+    "foo"
   ],
   "small": {
     "scale": 0.3399999999999994,
@@ -27,5 +25,6 @@
     "offset_y": -24.00000000000003,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

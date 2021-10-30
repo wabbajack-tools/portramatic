@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/564x/c5/44/95/c54495c1a87c9e6bf8b0ad79c1e35e20.jpg",
   "md5": "66AEBD2EE78AD9FD5483F3CA62EF934E",
   "tags": [
-    "person",
     "human",
-    "knight",
-    "horse",
-    "animal",
-    "mammal",
-    "art",
-    "photography",
-    "photo",
-    "painting",
-    "samurai",
-    ""
+    "fighter"
   ],
   "small": {
     "scale": 2.5199999999999885,
@@ -33,5 +23,6 @@
     "offset_y": 1.3333333333326323,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

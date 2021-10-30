@@ -2,21 +2,7 @@
   "source": "https://staticdelivery.nexusmods.com/mods/110/images/74256-0-1458219427.jpg",
   "md5": "580FC14CFADD714DC67B5E9699B90790",
   "tags": [
-    "clothing",
-    "apparel",
-    "necklace",
-    "accessories",
-    "jewelry",
-    "accessory",
-    "person",
-    "human",
-    "evening dress",
-    "robe",
-    "fashion",
-    "gown",
-    "finger",
-    "skin",
-    ""
+    "lady"
   ],
   "small": {
     "scale": 0.22999999999999932,
@@ -36,5 +22,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

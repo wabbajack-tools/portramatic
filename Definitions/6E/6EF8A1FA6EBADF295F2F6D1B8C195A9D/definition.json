@@ -2,14 +2,8 @@
   "source": "https://img3.gelbooru.com//images/6e/f8/6ef8a1fa6ebadf295f2f6d1b8c195a9d.jpg",
   "md5": "6EF8A1FA6EBADF295F2F6D1B8C195A9D",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "plant",
-    "petal",
-    "flower",
-    "blossom",
-    "shirabe"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -29,5 +23,6 @@
     "offset_y": -44,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

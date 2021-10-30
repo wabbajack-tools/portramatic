@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/originals/1d/80/bd/1d80bdb3053c881062b4f75d4a1964b2.jpg",
   "md5": "02B7736134F83A2969D2D3BDC2C31F64",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "costume",
-    "final fantasy",
-    "sport",
-    "sports",
-    "bow",
-    ""
+    "female",
+    "vampire",
+    "warrior"
   ],
   "small": {
     "scale": 1.1,
@@ -31,5 +24,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

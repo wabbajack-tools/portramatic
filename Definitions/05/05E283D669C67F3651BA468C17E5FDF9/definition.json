@@ -2,22 +2,10 @@
   "source": "https://i.pinimg.com/564x/6a/39/a0/6a39a07e355a871b660109feb11802bf.jpg",
   "md5": "05E283D669C67F3651BA468C17E5FDF9",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "helmet",
-    "clothing",
-    "apparel",
-    "samurai",
-    "gun",
-    "weapon",
-    "weaponry",
-    "knight",
-    "dish",
-    "food",
-    "meal",
-    "ninja",
-    ""
+    "hero",
+    "lost",
+    "saga",
+    "crow"
   ],
   "small": {
     "scale": 1.9300000000000008,
@@ -37,5 +25,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

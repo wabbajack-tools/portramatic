@@ -2,16 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2273136/file_2273136.jpg?v=1322156875",
   "md5": "3FC1F6486136FDCFE3BFFC172C2D3941",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "sport",
-    "sports",
-    "costume",
-    "bow",
-    "archery",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.12,
@@ -31,5 +23,6 @@
     "offset_y": -128,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

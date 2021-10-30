@@ -2,12 +2,9 @@
   "source": "http://www.artofmtg.com/wp-content/uploads/2021/07/Hoard-Robber-Adventures-in-the-Forgotten-Realms-MtG-Art.jpg",
   "md5": "2CE4D5A0D1CB5C0D024A0FA98E47AE5C",
   "tags": [
-    "dragon",
-    "painting",
-    "art",
-    "person",
-    "human",
-    ""
+    "hoard",
+    "robber",
+    "mtg"
   ],
   "small": {
     "scale": 0.99,
@@ -27,5 +24,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/564x/87/ec/65/87ec65678b1cf775a4827daf6d7421d2.jpg",
   "md5": "3E63BEC1AA76EEB3512760895B1E3D5F",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "fire",
-    "bonfire",
-    "flame",
-    "performer",
-    "samurai",
-    ""
+    "card",
+    "mage"
   ],
   "small": {
     "scale": 1,
@@ -31,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

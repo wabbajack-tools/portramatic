@@ -2,19 +2,8 @@
   "source": "https://i.pinimg.com/564x/8a/c3/65/8ac365e7eee7047d4230c607441c8da5.jpg",
   "md5": "0067C10943B1562A586D4FD298459618",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "samurai",
-    "armor",
-    "bronze",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 1.6000000000000005,
@@ -34,5 +23,6 @@
     "offset_y": -99,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,28 +1,11 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcoolvibe.com%2Fwp-content%2Fuploads%2F2012%2F05%2FPortrait-Chao-Yuan-Xu-A-Female-Elementalist-992x620.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcoolvibe.com%2Fwp-content%2Fuploads%2F2012%2F05%2FPortrait-Chao-Yuan-Xu-A-Female-Elementalist-992x620.jpg\u0026f=1\u0026nofb=1",
   "md5": "69A725CBCC8BA5FCC119030121B306C1",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "archer",
-    "motorcycle",
-    "transportation",
-    "vehicle",
-    "hat",
-    "costume",
-    "duel",
-    "painting",
-    "art",
-    "swashbuckler",
-    "rogue",
-    "sword"
+    "a",
+    "female",
+    "elementalist",
+    "chaoyuanxu"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -42,5 +25,6 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

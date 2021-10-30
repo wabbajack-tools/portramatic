@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/originals/08/6a/24/086a249c1988e060c6652f85bf24af0e.jpg",
   "md5": "3D4C8A10BA59DF3B773FE6D3EF510EF2",
   "tags": [
-    "skin",
-    "person",
-    "human",
-    "armor",
-    "mammal",
-    "animal",
-    "people",
-    "photography",
-    "photo",
-    "wildlife",
     "tiefling",
-    "demon"
+    "barbarian"
   ],
   "small": {
     "scale": 0.3199999999999994,
@@ -33,5 +23,6 @@
     "offset_y": -13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

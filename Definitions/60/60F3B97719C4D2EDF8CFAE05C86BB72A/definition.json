@@ -1,12 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/Eb9Rnh0U0AAxlLD?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/Eb9Rnh0U0AAxlLD?format=jpg\u0026name=large",
   "md5": "60F3B97719C4D2EDF8CFAE05C86BB72A",
   "tags": [
-    "person",
-    "human",
-    "batman",
-    "ninja",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.8199999999999998,
@@ -26,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

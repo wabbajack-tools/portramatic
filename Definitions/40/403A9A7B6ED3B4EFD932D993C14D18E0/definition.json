@@ -2,21 +2,8 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2057520/file_2057520.jpg?v=1273714621",
   "md5": "403A9A7B6ED3B4EFD932D993C14D18E0",
   "tags": [
-    "clothing",
-    "apparel",
-    "female",
-    "person",
-    "human",
-    "woman",
-    "costume",
-    "fashion",
-    "painting",
-    "art",
-    "gown",
-    "dungeon",
-    "evening dress",
-    "robe",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -36,5 +23,6 @@
     "offset_y": -78,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

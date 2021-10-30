@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/564x/43/cb/4d/43cb4d5e02b0bbfbd992710e294de9a7.jpg",
   "md5": "27C475936E31DA1262445753079B2270",
   "tags": [
-    "art",
-    "person",
-    "human",
-    "painting",
-    "skin",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.8299999999999998,
@@ -27,5 +23,6 @@
     "offset_y": -108,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

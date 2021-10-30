@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/564x/90/64/65/906465f488107966b8eabefd25f3d6c9.jpg",
   "md5": "4140888336A833E888D2F62D333B38AA",
   "tags": [
-    "helmet",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "halo",
-    "bonfire",
-    "fire",
-    "flame",
-    ""
+    "bolvar",
+    "fordragon"
   ],
   "small": {
     "scale": 2.069999999999999,
@@ -31,5 +23,6 @@
     "offset_y": -1.3333333333333144,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,17 +1,12 @@
 {
-  "source": "https://pbs.twimg.com/media/E4vDhV2VcAALX_v?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/E4vDhV2VcAALX_v?format=jpg\u0026name=4096x4096",
   "md5": "68BEA6152BAD6BE4732F954B50183EF4",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "samurai",
-    "clothing",
-    "apparel",
-    "cape",
-    "knight",
-    ""
+    "pathfinder",
+    "wrath",
+    "righteous",
+    "dhampir",
+    "portraits"
   ],
   "small": {
     "scale": 0.36999999999999944,
@@ -31,5 +26,6 @@
     "offset_y": -86.00000000000006,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,37 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/004/357/337/large/bryan-sola-operator.jpg?1482892350",
   "md5": "48431BE5C528E35E24062794926532FF",
   "tags": [
-    "person",
-    "human",
-    "nature",
-    "outdoors",
-    "helmet",
-    "clothing",
-    "apparel",
-    "mountain",
-    "fire",
-    "land",
-    "flame",
-    "crowd",
-    "samurai",
-    "art",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "costume",
-    "horse",
-    "animal",
-    "mammal",
-    "poster",
-    "advertisement",
-    "archer",
-    "skin",
-    "female",
-    "fashion",
-    "people",
-    "angel",
-    "aasimar"
+    "epic",
+    "wizard"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -52,5 +23,6 @@
     "offset_y": -25,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,12 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/009/994/277/large/kim-sehoon-1-1copy.jpg?1521999401",
   "md5": "08124AF751446C89B70B6171ABEF0C70",
   "tags": [
-    "costume",
-    "armor",
-    "person",
-    "human",
-    "bronze",
-    ""
+    "character",
+    "human"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -27,5 +23,6 @@
     "offset_y": -58,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

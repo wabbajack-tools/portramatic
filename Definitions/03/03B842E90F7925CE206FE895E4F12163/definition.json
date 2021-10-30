@@ -2,19 +2,7 @@
   "source": "https://i.pinimg.com/564x/a1/04/b4/a104b482574429ef3cd4b5a9086e16fa.jpg",
   "md5": "03B842E90F7925CE206FE895E4F12163",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "people",
-    "painting",
-    "art",
-    "bonfire",
-    "flame",
-    "fire",
-    "guideon",
-    "MTG",
-    "male"
+    "witcher"
   ],
   "small": {
     "scale": 0.97,
@@ -34,5 +22,6 @@
     "offset_y": -30,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

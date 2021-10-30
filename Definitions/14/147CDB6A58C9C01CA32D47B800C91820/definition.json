@@ -2,13 +2,8 @@
   "source": "https://i.pinimg.com/736x/63/2a/30/632a30c29c327be3400e9414434ba11d.jpg",
   "md5": "147CDB6A58C9C01CA32D47B800C91820",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "face",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +23,6 @@
     "offset_y": -1.3333333333338828,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

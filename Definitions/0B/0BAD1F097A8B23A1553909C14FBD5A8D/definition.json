@@ -2,15 +2,8 @@
   "source": "https://i.pinimg.com/originals/bd/fe/63/bdfe636ea41a9fd663e9cf9353590207.jpg",
   "md5": "0BAD1F097A8B23A1553909C14FBD5A8D",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    "people",
-    "skin",
-    "overwatch",
-    ""
+    "female",
+    "ork"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -30,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

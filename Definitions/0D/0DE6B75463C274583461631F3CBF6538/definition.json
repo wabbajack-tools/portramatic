@@ -1,14 +1,9 @@
 {
-  "source": "https://pbs.twimg.com/media/ERUE4aNUEAAb_rY?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/ERUE4aNUEAAb_rY?format=jpg\u0026name=large",
   "md5": "0DE6B75463C274583461631F3CBF6538",
   "tags": [
-    "comics",
-    "book",
-    "manga",
-    "art",
-    "person",
-    "human",
-    "male elf ranger"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -28,5 +23,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

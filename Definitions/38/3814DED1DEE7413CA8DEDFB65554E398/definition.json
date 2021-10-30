@@ -2,14 +2,8 @@
   "source": "https://i.imgur.com/0SjY6nw.jpeg",
   "md5": "3814DED1DEE7413CA8DEDFB65554E398",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "bronze",
-    "armor",
-    "knight",
-    "dwarf",
-    "badass"
+    "barbarian",
+    "battlerager"
   ],
   "small": {
     "scale": 1.02,
@@ -29,5 +23,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

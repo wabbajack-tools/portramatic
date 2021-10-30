@@ -2,22 +2,10 @@
   "source": "https://i.pinimg.com/564x/cb/68/ea/cb68ea6dd7261d196933a4d134cd8a92.jpg",
   "md5": "01DBF0DAC3FE6DA2A92957B605A2C29D",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "furniture",
-    "samurai",
-    "knight",
-    "people",
-    "painting",
-    "art",
-    "bonfire",
-    "flame",
-    "fire",
-    "guideon",
-    "MTG",
-    "male"
+    "lord",
+    "rings",
+    "aragorn",
+    "tavern"
   ],
   "small": {
     "scale": 1.5600000000000005,
@@ -37,5 +25,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

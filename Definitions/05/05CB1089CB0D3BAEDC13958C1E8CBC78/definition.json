@@ -2,19 +2,10 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/010/027/335/large/zack-stella-zackstella-mtg-chandra-boldpyromancer.jpg?1522165705",
   "md5": "05CB1089CB0D3BAEDC13958C1E8CBC78",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "fire",
-    "flame",
-    "legend of zelda",
-    ""
+    "magic",
+    "gathering",
+    "planeswalker",
+    "artwork"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -34,5 +25,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

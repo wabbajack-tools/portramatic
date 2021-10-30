@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/originals/12/cb/1c/12cb1cf7a7e3ad33ca7954259f26a6c0.jpg",
   "md5": "663EF643F8D3094D3C495C820DCEACE9",
   "tags": [
-    "figurine",
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "samurai",
-    "armor",
-    "knightess"
+    "armored",
+    "female",
+    "warrior"
   ],
   "small": {
     "scale": 1.3500000000000003,
@@ -30,5 +24,6 @@
     "offset_y": -89,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

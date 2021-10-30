@@ -2,15 +2,9 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/199/898/large/ina-wong-durion-done-comp.jpg?1517656628",
   "md5": "29139227C0D74EA82507F351CB05C169",
   "tags": [
-    "person",
-    "human",
-    "knight",
-    "samurai",
-    "clothing",
-    "apparel",
-    "meal",
-    "food",
-    ""
+    "male",
+    "drow",
+    "tiefling"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -30,5 +24,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

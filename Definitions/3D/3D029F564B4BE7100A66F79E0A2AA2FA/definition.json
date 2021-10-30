@@ -2,24 +2,11 @@
   "source": "https://i.pinimg.com/564x/2a/38/a3/2a38a350124fbc1f0fe91b770f2bcd90.jpg",
   "md5": "3D029F564B4BE7100A66F79E0A2AA2FA",
   "tags": [
-    "person",
-    "human",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "costume",
-    "archer",
-    "samurai",
-    "painting",
-    "art",
-    "bonfire",
-    "flame",
-    "fire",
-    "knight",
-    "guideon",
-    "MTG",
-    "male"
+    "book",
+    "prince",
+    "persia",
+    "sands",
+    "time"
   ],
   "small": {
     "scale": 0.99,
@@ -39,5 +26,6 @@
     "offset_y": -102,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

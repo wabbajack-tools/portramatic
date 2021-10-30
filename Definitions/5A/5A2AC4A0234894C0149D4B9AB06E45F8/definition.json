@@ -2,19 +2,9 @@
   "source": "https://whfb.lexicanum.com/mediawiki/images/5/5b/Mannfred_von_Carstein_FdlT.jpg",
   "md5": "5A2AC4A0234894C0149D4B9AB06E45F8",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "knight",
-    "dragon",
-    "symbol",
-    "building",
-    "architecture",
-    "emblem",
-    "pillar",
-    "column",
-    ""
+    "warhammer",
+    "von",
+    "carstein"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -34,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

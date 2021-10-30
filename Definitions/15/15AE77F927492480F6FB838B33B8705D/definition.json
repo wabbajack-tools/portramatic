@@ -2,14 +2,10 @@
   "source": "https://i.pinimg.com/564x/2c/23/c3/2c23c367f101766e5b318b7484703bbd.jpg",
   "md5": "15AE77F927492480F6FB838B33B8705D",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "pillow",
-    "cushion",
-    "hand",
-    ""
+    "male",
+    "half",
+    "orc",
+    "character"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -29,5 +25,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

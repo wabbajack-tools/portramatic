@@ -2,19 +2,8 @@
   "source": "https://pbs.twimg.com/media/CiQSfwUUYAM0tMA.jpg",
   "md5": "44416691D4EAE00BD1E79981F73C60E4",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "armor",
-    "bronze",
-    "light",
-    "clothing",
-    "apparel",
-    "torch",
-    "female",
-    "ranger",
-    "bow"
+    "drow",
+    "barbarian"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -34,5 +23,6 @@
     "offset_y": -55,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

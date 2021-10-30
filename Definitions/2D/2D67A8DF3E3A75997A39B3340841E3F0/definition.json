@@ -2,29 +2,8 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/036/382/478/large/ameera-sheikh-antonia-s-teifling-final.jpg?1617538331",
   "md5": "2D67A8DF3E3A75997A39B3340841E3F0",
   "tags": [
-    "fire",
-    "painting",
-    "art",
-    "person",
-    "human",
-    "nature",
-    "outdoors",
-    "land",
-    "flame",
-    "forest fire",
-    "mountain",
-    "female",
-    "costume",
-    "clothing",
-    "apparel",
-    "skin",
-    "fashion",
-    "people",
-    "horse",
-    "animal",
-    "mammal",
-    "angel",
-    "aasimar"
+    "supernatural",
+    "creature"
   ],
   "small": {
     "scale": 0.38999999999999946,
@@ -44,5 +23,6 @@
     "offset_y": -24.611111111110972,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

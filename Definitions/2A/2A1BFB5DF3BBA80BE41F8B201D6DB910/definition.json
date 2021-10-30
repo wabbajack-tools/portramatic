@@ -2,18 +2,7 @@
   "source": "https://i.pinimg.com/564x/c0/48/ad/c048adb62e94107c75ae595b390605ab.jpg",
   "md5": "2A1BFB5DF3BBA80BE41F8B201D6DB910",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "nature",
-    "water",
-    "outdoors",
-    "land",
-    "green",
-    "elf",
-    "face",
-    ""
+    "demon"
   ],
   "small": {
     "scale": 1.3000000000000003,
@@ -33,5 +22,6 @@
     "offset_y": 22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

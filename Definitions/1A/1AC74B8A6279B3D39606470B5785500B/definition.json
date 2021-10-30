@@ -2,12 +2,8 @@
   "source": "https://i.pinimg.com/564x/94/f3/bc/94f3bc51f69f18cc7144c34b0df1c43b.jpg",
   "md5": "1AC74B8A6279B3D39606470B5785500B",
   "tags": [
-    "samurai",
-    "person",
-    "human",
-    "knight",
-    "duel",
-    ""
+    "child",
+    "character"
   ],
   "small": {
     "scale": 2.47999999999999,
@@ -27,5 +23,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

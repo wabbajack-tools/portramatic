@@ -1,21 +1,11 @@
 {
-  "source": "https://vignette.wikia.nocookie.net/joanix-univers/images/1/16/Forest-princess.jpg/revision/latest?cb=20170329190729&path-prefix=es",
+  "source": "https://vignette.wikia.nocookie.net/joanix-univers/images/1/16/Forest-princess.jpg/revision/latest?cb=20170329190729\u0026path-prefix=es",
   "md5": "352C6CE873DD605F230D5971814E7651",
   "tags": [
-    "person",
-    "human",
     "wolf",
-    "mammal",
-    "animal",
-    "coyote",
-    "painting",
-    "art",
-    "dog",
-    "canine",
-    "pet",
-    "red wolf",
-    "wildlife",
-    ""
+    "forest",
+    "mythical",
+    "creatures"
   ],
   "small": {
     "scale": 1.2100000000000002,
@@ -35,5 +25,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

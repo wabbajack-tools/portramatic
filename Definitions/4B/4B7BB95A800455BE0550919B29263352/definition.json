@@ -2,16 +2,8 @@
   "source": "https://i.pinimg.com/736x/8f/08/5c/8f085ced2350a3d9f04dc541aa22a002.jpg",
   "md5": "4B7BB95A800455BE0550919B29263352",
   "tags": [
-    "archer",
-    "person",
-    "archery",
-    "sport",
-    "bow",
-    "human",
-    "sports",
-    "painting",
-    "art",
-    "ranger"
+    "elf",
+    "mythology"
   ],
   "small": {
     "scale": 1.1,
@@ -31,5 +23,6 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,14 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/035/821/295/large/aebe-ab-kyutae-kim-knightgirl-02.jpg?1615989455",
   "md5": "5C6DC651D766F3B7F1F028B321E6B807",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "clothing",
-    "apparel",
-    "armor",
-    "samurai",
-    ""
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -29,5 +23,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

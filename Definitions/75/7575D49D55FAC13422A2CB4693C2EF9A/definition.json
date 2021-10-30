@@ -2,13 +2,8 @@
   "source": "https://img3.gelbooru.com//images/75/75/7575d49d55fac13422a2cb4693c2ef9a.jpg",
   "md5": "7575D49D55FAC13422A2CB4693C2EF9A",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "graphics",
-    "art",
-    "chris",
-    "front"
+    "fictional",
+    "character"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -28,5 +23,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

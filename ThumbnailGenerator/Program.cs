@@ -57,7 +57,7 @@ class Program
 
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
 
-        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = 9};
+        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = 2};
 
         var outputMemoryStream = new MemoryStream();
         {
@@ -230,7 +230,7 @@ class Program
         {
             googleResponse =
                 await Client.GetStringAsync(
-                    $"http://api.scraperapi.com?api_key={apiKey}&url=https://www.google.com/searchbyimage?image_url={HttpUtility.UrlEncode(source.ToString())}");
+                    $"http://api.scraperapi.com?api_key={apiKey}&url=https://www.google.com/searchbyimage?premium=true&image_url={HttpUtility.UrlEncode(source.ToString())}");
         }
         catch (HttpRequestException ex)
         {

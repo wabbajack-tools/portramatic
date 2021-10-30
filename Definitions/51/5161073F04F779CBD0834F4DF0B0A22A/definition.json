@@ -2,12 +2,9 @@
   "source": "https://www.candb.com/site/candb/images/artwork/Joker_Persona-5_Atlus_1920.jpg",
   "md5": "5161073F04F779CBD0834F4DF0B0A22A",
   "tags": [
-    "costume",
-    "armor",
-    "person",
-    "human",
-    "bronze",
-    ""
+    "joker",
+    "persona",
+    "5"
   ],
   "small": {
     "scale": 0.5699999999999996,
@@ -27,5 +24,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

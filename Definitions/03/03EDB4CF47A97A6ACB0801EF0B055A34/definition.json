@@ -2,7 +2,10 @@
   "source": "http://pm1.narvii.com/7086/e7ba64724f284d17b1ca881e5be4adf207e72980r1-700-990v2_uhq.jpg",
   "md5": "03EDB4CF47A97A6ACB0801EF0B055A34",
   "tags": [
-    "Robin"
+    "male",
+    "fire",
+    "emblem",
+    "robin"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -22,5 +25,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

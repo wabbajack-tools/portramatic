@@ -2,15 +2,9 @@
   "source": "https://i.pinimg.com/736x/9e/c4/92/9ec492b4f58a1f5bbbd3358fab8f1154.jpg",
   "md5": "75D9F5F1B5DC7C20610D8312DE5F0B87",
   "tags": [
-    "person",
-    "human",
-    "skin",
-    "bronze",
-    "costume",
-    "female",
-    "photography",
-    "photo",
-    ""
+    "guild",
+    "wars",
+    "jora"
   ],
   "small": {
     "scale": 1.09,
@@ -30,5 +24,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

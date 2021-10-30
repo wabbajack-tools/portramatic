@@ -2,17 +2,14 @@
   "source": "https://i.kym-cdn.com/photos/images/original/001/459/894/690",
   "md5": "D63ECF86DF1668DD6DD5C8277E4021D4",
   "tags": [
-    "comics",
-    "book",
-    "manga",
-    "person",
-    "human",
-    "costume",
-    "shoe",
+    "pop",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
     "clothing",
-    "footwear",
-    "apparel",
-    "azata electro barbare"
+    "top_wear",
+    "crop-top"
   ],
   "small": {
     "scale": 0.28999999999999937,
@@ -32,5 +29,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

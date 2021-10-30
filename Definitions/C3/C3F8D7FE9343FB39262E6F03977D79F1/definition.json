@@ -2,20 +2,29 @@
   "source": "https://db4sgowjqfwig.cloudfront.net/images/3148514/aldori.jpg",
   "md5": "C3F8D7FE9343FB39262E6F03977D79F1",
   "tags": [
-    "person",
-    "human",
-    "duel",
-    "samurai",
-    "ninja",
-    "pirate",
-    "elf",
-    "sfw",
     "male",
-    "sword",
-    "gun",
-    "cleric",
-    "inquisitor",
-    "mage"
+    "pirate",
+    "swashbuckler",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "lineage",
+    "remastered_knight",
+    "kim",
+    "sung",
+    "hwan",
+    "2020",
+    "knight",
+    "armor",
+    "ancient",
+    "destroyer",
+    "phroilan",
+    "gardner",
+    "conan",
+    "barbarian",
+    "comic"
   ],
   "small": {
     "scale": 1.8000000000000007,
@@ -35,5 +44,6 @@
     "offset_y": -70,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,19 +1,7 @@
 {
   "source": "https://64.media.tumblr.com/c322ea9d0e97f9c865504c0e78ed2b72/d8acd4065b2a1937-83/s1280x1920/b0b975484676c841743afeaa732a9e26b88753a4.jpg",
   "md5": "CE493930017C8F61E4E66E1953930798",
-  "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "graphics",
-    "bird",
-    "animal",
-    "drawing",
-    "modern art",
-    "leisure activities",
-    "demon"
-  ],
+  "tags": [],
   "small": {
     "scale": 1.06,
     "offset_x": -466,
@@ -32,5 +20,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

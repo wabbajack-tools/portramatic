@@ -1,18 +1,24 @@
 {
-  "source": "https://pbs.twimg.com/media/DcY_m1LU8AEYjiL?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DcY_m1LU8AEYjiL?format=jpg\u0026name=large",
   "md5": "FE8470158C49230EE821B47CD4A10AA4",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "comics",
-    "book",
-    "duel",
-    "samurai",
-    "manga",
-    "apparel",
-    "lich"
+    "lich",
+    "drawing",
+    "undead",
+    "concept",
+    "demon",
+    "reaper",
+    "dark",
+    "souls",
+    "scratchboard",
+    "shaman",
+    "redcap",
+    "andrei",
+    "szasz",
+    "sculpture",
+    "white",
+    "hair",
+    "mintoucan"
   ],
   "small": {
     "scale": 1.3200000000000003,
@@ -32,5 +38,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

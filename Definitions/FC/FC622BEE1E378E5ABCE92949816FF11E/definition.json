@@ -1,15 +1,7 @@
 {
   "source": "https://i.pinimg.com/736x/00/42/40/00424036c26a795122408e7e33e5e735.jpg",
   "md5": "FC622BEE1E378E5ABCE92949816FF11E",
-  "tags": [
-    "person",
-    "human",
-    "hand",
-    "book",
-    "comics",
-    "manga",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1,
     "offset_x": -196,
@@ -28,5 +20,6 @@
     "offset_y": -25.629629629629676,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

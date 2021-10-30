@@ -2,14 +2,32 @@
   "source": "http://image.noelshack.com/fichiers/2021/41/6/1634383955-priest-orc.png",
   "md5": "C11A957969783DC2FB0CEF8274BA6AC5",
   "tags": [
-    "person",
     "human",
-    "crowd",
-    "figurine",
+    "male",
+    "character",
+    "wizard",
+    "elf",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "people",
-    "Half-orc"
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "battle",
+    "units",
+    "siana",
+    "dimitrova",
+    "richard",
+    "lionheart",
+    "stefan",
+    "kopinski",
+    "monster",
+    "rui",
+    "jin",
+    "design"
   ],
   "small": {
     "scale": 1.7700000000000007,
@@ -29,5 +47,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

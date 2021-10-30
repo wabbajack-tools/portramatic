@@ -1,20 +1,7 @@
 {
   "source": "https://64.media.tumblr.com/6e532dd1dbae6e4854e6f94ae4d68661/16e4b77fbcae6c0d-9e/s1280x1920/23dbb4a58baa09fc69781534c65978918baec26d.jpg",
   "md5": "D601BDF5682F7EC68C6B598383202F33",
-  "tags": [
-    "person",
-    "human",
-    "art",
-    "painting",
-    "sweets",
-    "food",
-    "confectionery",
-    "finger",
-    "crowd",
-    "flower",
-    "plant",
-    "blossom"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -26,
@@ -33,5 +20,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

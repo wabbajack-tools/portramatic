@@ -2,13 +2,12 @@
   "source": "https://i.ibb.co/mB5N9K1/2021-10-11-19-00-49-Pathfinder-Wrath-Of-The-Righteous.png",
   "md5": "EE12547E1461167AB6DBDC2D145A958D",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "chair",
-    "furniture",
-    "knight",
-    "armor"
+    "alice",
+    "wonderland",
+    "human_made_object",
+    "furniture_or_decor",
+    "seating",
+    "chair"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +27,6 @@
     "offset_y": -16.01851851851893,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

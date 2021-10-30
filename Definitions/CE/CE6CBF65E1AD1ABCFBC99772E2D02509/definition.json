@@ -2,16 +2,22 @@
   "source": "https://static.wikia.nocookie.net/callofduty/images/4/45/Cavalier_WWII.jpg/revision/latest/scale-to-width-down/662?cb=20180701010931",
   "md5": "CE6CBF65E1AD1ABCFBC99772E2D02509",
   "tags": [
-    "clothing",
-    "apparel",
-    "helmet",
-    "overcoat",
+    "coats",
+    "trench",
     "coat",
-    "person",
-    "human",
-    "suit",
-    "trench coat",
-    ""
+    "jacket",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "military",
+    "gameres",
+    "anthony",
+    "mann",
+    "warlock",
+    "concept",
+    "sergey",
+    "kondratovich"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -31,5 +37,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

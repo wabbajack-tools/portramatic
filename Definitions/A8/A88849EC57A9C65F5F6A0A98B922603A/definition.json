@@ -2,19 +2,11 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/035/196/018/large/ana-gyorgyiyoska-creed.jpg?1614339485",
   "md5": "A88849EC57A9C65F5F6A0A98B922603A",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "art",
-    "portrait",
-    "face",
-    "photography",
-    "photo",
-    "clothing",
-    "apparel",
-    "head",
-    "alien",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf"
   ],
   "small": {
     "scale": 0.27999999999999936,
@@ -34,5 +26,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

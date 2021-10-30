@@ -1,9 +1,7 @@
 {
   "source": "https://pbs.twimg.com/profile_images/1325493010700902402/pXPxwg_k.jpg",
   "md5": "E17779CE052912197403B9E84B339D9C",
-  "tags": [
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1.02,
     "offset_x": -25,
@@ -22,5 +20,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

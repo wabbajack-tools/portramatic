@@ -2,18 +2,11 @@
   "source": "https://i.pinimg.com/originals/50/25/d1/5025d17fbd0d58fa3380c986cd8f2f44.jpg",
   "md5": "B10AD4AEDF0D87C430059D1BCA0467DC",
   "tags": [
-    "person",
-    "human",
-    "face",
-    "head",
-    "portrait",
-    "photography",
-    "photo",
-    "toy",
     "female",
-    "doll",
-    "figurine",
-    ""
+    "druid",
+    "character",
+    "concept",
+    "noble"
   ],
   "small": {
     "scale": 0.24999999999999933,
@@ -33,5 +26,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

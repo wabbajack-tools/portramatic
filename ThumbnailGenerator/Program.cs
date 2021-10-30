@@ -28,7 +28,7 @@ class Program
     private static TimeSpan WaitTime = TimeSpan.FromSeconds(1);
     private static Stopwatch QueryTimer = new();
     
-    public static bool FindTags => Environment.GetEnvironmentVariable("SCRAPER_APIKEY") != null && false;
+    public static bool FindTags => Environment.GetEnvironmentVariable("AZURE_APIKEY") != null && true;
     
 
     public static async Task<int> Main(string[] args)
@@ -36,7 +36,7 @@ class Program
         QueryTimer.Restart();
         
         
-        Client.DefaultRequestHeaders.Add("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36");
+        Client.DefaultRequestHeaders.Add("User-Agent","Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1");
         //Client.DefaultRequestHeaders.Add("User-Agent","portramatic");
         
         var files = Directory.EnumerateFiles(Path.Combine(args[0], "Definitions"), "definition.json",
@@ -58,9 +58,11 @@ class Program
             definitions.Add((JsonSerializer.Deserialize<PortraitDefinition>(await File.ReadAllTextAsync(file), jsonOptions)!, file));
         }
 
+        definitions = definitions.OrderBy(d => d.Item1.Requeried).ToList();
+
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
 
-        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = FindTags ? 2 : 32};
+        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = FindTags ? 32 : 32};
 
         var outputMemoryStream = new MemoryStream();
         {
@@ -76,18 +78,20 @@ class Program
                     {
                         bool reSave = false;
                     var (definition, path, idx) = itm;
-                    if (!definition.Requeried && FindTags)
-                    {
-                        definition.Tags = await GetLabels(definition.Source);
-                        definition.Requeried = true;
-                        var json = JsonSerializer.Serialize(definition, jsonOptions);
-                        await File.WriteAllTextAsync(itm.Item2, json);
-                    }
+
 
                     Console.WriteLine(
                         $"[{idx}/{definitions.Count}]Adding {definition.Source.ToString().Substring(0, Math.Min(70, definition.Source.ToString().Length))}");
                     try
                     {
+                        if (!definition.Requeried && FindTags)
+                        {
+                            definition.Tags = await GetLabels(definition.Source);
+                            definition.Requeried = true;
+                            var json = JsonSerializer.Serialize(definition, jsonOptions);
+                            await File.WriteAllTextAsync(itm.Item2, json, token);
+                        }
+                        
                         var (hash, size) = await GenerateThumbnail(archive, definition);
                         hashes.Add((definition, hash, size, path));
                     }
@@ -200,6 +204,11 @@ class Program
         "-",
         "pintrest",
         "deviantart",
+        "instagram",
+        "youtube",
+        "at",
+        "http",
+        "https",
         "by",
         "art",
         "dnd",
@@ -214,7 +223,13 @@ class Program
         "3",
         "2",
         "1",
-        "fantasy"
+        "fantasy",
+        "pic",
+        "dnd",
+        "portrait",
+        "pathfinder",
+        "5e",
+        "##textrecognition",
     };
 
     private static char[] TrimChars = {',', ';', '+', ' ', '[', ']', '(', ')', '-', ':', '?', '!'};
@@ -226,52 +241,13 @@ class Program
         
         TOP:
 
-        string? googleResponse;
+        string? googleResponse  = null;
 
+        var data = await Client.GetByteArrayAsync(source);
 
-        try
-        {
-            googleResponse =
-                await Client.GetStringAsync(
-                    $"http://api.scraperapi.com?api_key={apiKey}&url=https://www.google.com/searchbyimage?premium=true&image_url={HttpUtility.UrlEncode(source.ToString())}");
-        }
-        catch (HttpRequestException ex)
-        {
-            if (ex.StatusCode is HttpStatusCode.TooManyRequests or HttpStatusCode.InternalServerError )
-                googleResponse = null;
-            else
-                throw;
-        }
+        var bingResponse = await BingVisualSearch.DoSearch(data);
 
-        if (googleResponse == null || !googleResponse.Contains("Possible related search:"))
-        {
-            Console.WriteLine("Rate Limited");
-            await Task.Delay(TimeSpan.FromMilliseconds(RNG.Next(100, 1000)));
-            goto TOP;
-        }
-        Console.WriteLine("Got Tags");
-        
-            var doc = new HtmlDocument();
-            doc.LoadHtml(googleResponse);
-
-            var results = doc.DocumentNode.Descendants()
-                .Where(d => d.InnerText.StartsWith("Possible related search:"))
-                .Where(n => n.Name == "div")
-                .SelectMany(d => d.SelectNodes("a").Select(n => n.InnerText))
-                .ToList();
-
-
-
-            var resultsQuery = from desc in doc.DocumentNode.Descendants()
-                where desc.Name == "a"
-                where desc.Descendants().Any(de => de.Name == "h3")
-                let anc = desc.GetAttributeValue("href", "")
-                where FindInSites.Any(anc.Contains)
-                select desc.Descendants().First(de => de.Name == "h3").InnerText;
-
-            var resultsTitles = resultsQuery.ToList();
-
-            var alltags = resultsTitles.Concat(results)
+            var alltags = bingResponse
                 .SelectMany(s => s.Split(" ", StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries))
                 .Select(s => s.ToLower().Trim(TrimChars))
                 .Where(s => !string.IsNullOrWhiteSpace(s))

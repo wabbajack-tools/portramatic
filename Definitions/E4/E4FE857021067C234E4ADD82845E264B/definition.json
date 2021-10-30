@@ -1,17 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/EWhP5rFUEAEqD0X?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EWhP5rFUEAEqD0X?format=jpg\u0026name=4096x4096",
   "md5": "E4FE857021067C234E4ADD82845E264B",
-  "tags": [
-    "art",
-    "doodle",
-    "drawing",
-    "graphics",
-    "modern art",
-    "floral design",
-    "pattern",
-    "female",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -685,
@@ -30,5 +20,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

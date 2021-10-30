@@ -2,16 +2,24 @@
   "source": "https://i.pinimg.com/564x/51/c7/cd/51c7cd607b1c64e62f8c8cbe41766344.jpg",
   "md5": "D1E156C76F2B5D72886F3A1C9EA4AE88",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "archery",
-    "bow",
-    "costume",
-    "archer",
-    "elf",
-    ""
+    "male",
+    "halfling",
+    "rogue",
+    "thief",
+    "female",
+    "common",
+    "raven",
+    "warrior",
+    "pose",
+    "orc",
+    "dungeons",
+    "dragons",
+    "street",
+    "fighter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.760000000000001,
@@ -31,5 +39,6 @@
     "offset_y": 84.00000000000034,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

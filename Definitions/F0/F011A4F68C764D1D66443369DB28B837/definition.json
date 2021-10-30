@@ -2,18 +2,15 @@
   "source": "https://i.imgur.com/EgajVqr.png",
   "md5": "F011A4F68C764D1D66443369DB28B837",
   "tags": [
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "person",
-    "human",
-    "footwear",
-    "costume",
-    "boot",
-    "bronze",
-    "nature",
-    "weapon",
-    "weaponry",
-    "0002"
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "accessories",
+    "gloves"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -33,5 +30,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

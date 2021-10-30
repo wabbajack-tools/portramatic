@@ -2,17 +2,11 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2588127/file_2588127.jpg?v=1420073935",
   "md5": "B0A43A0C14C57043F2F9908361181C84",
   "tags": [
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "person",
-    "human",
-    "footwear",
-    "shoe",
-    "leisure activities",
-    "boot",
-    "dance pose",
-    "female",
-    ""
+    "under_wear",
+    "socks"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +26,6 @@
     "offset_y": -284,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

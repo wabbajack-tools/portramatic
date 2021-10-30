@@ -1,16 +1,20 @@
 {
-  "source": "https://f8n-ipfs-production.imgix.net/QmNtZW2E67gqBKumnCp2HCgDGA1qLoCheLT3iceghvYzks/nft.jpg?q=80&w=1680&fit=fill&max-h=1680",
+  "source": "https://f8n-ipfs-production.imgix.net/QmNtZW2E67gqBKumnCp2HCgDGA1qLoCheLT3iceghvYzks/nft.jpg?q=80\u0026w=1680\u0026fit=fill\u0026max-h=1680",
   "md5": "C02E7348CE735FF7F3F3526CEB9F6040",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "fashion",
-    "manga",
-    "book",
-    "comics",
-    ""
+    "hunter",
+    "hunters",
+    "simon",
+    "finizio",
+    "bloodborne",
+    "across",
+    "forest",
+    "feng",
+    "tiancheng",
+    "dragon",
+    "girl",
+    "chuby",
+    "mi"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -30,5 +34,6 @@
     "offset_y": -33.3333333333336,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

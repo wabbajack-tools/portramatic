@@ -1,16 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/EDbNihFWsAAynAu?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EDbNihFWsAAynAu?format=jpg\u0026name=4096x4096",
   "md5": "D53975E51E9902B5EBD2AAF75FCAD192",
-  "tags": [
-    "person",
-    "human",
-    "samurai",
-    "knight",
-    "motorcycle",
-    "transportation",
-    "vehicle",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -260,
@@ -29,5 +20,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

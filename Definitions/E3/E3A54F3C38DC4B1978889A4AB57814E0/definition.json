@@ -2,26 +2,17 @@
   "source": "https://cdn.pixabay.com/photo/2016/03/27/21/37/angel-1284369_960_720.jpg",
   "md5": "E3A54F3C38DC4B1978889A4AB57814E0",
   "tags": [
-    "art",
-    "person",
-    "human",
-    "dance pose",
-    "leisure activities",
+    "fallen",
     "angel",
-    "archangel",
-    "bonfire",
-    "fire",
-    "flame",
-    "outdoors",
-    "dress",
+    "bible",
+    "lucifer",
+    "angels",
+    "samael",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "performer",
-    "painting",
-    "female",
-    "nature",
-    "dance",
-    ""
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 1,
@@ -41,5 +32,6 @@
     "offset_y": 120,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

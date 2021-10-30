@@ -2,18 +2,12 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/034/138/059/large/tati-moons-art137.jpg?1611512885",
   "md5": "D0AF1143A66A6BA16BD815C64982691A",
   "tags": [
-    "person",
-    "human",
-    "face",
-    "clothing",
-    "apparel",
-    "head",
-    "mannequin",
-    "hair",
-    "tub",
-    "female",
-    "toy",
-    ""
+    "bathtub",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -33,5 +27,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

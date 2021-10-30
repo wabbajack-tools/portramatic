@@ -1,19 +1,7 @@
 {
   "source": "https://i.pinimg.com/564x/de/29/ea/de29ea414a6002f75294c1b3e19dd4a2.jpg",
   "md5": "A320574D69F9B779E8703A0E0B4A02FD",
-  "tags": [
-    "person",
-    "human",
-    "art",
-    "face",
-    "drawing",
-    "female",
-    "photography",
-    "photo",
-    "portrait",
-    "book",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -51,
@@ -32,5 +20,6 @@
     "offset_y": -76,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

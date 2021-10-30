@@ -2,35 +2,11 @@
   "source": "https://i.redd.it/jwwwh8f4x0u71.png",
   "md5": "A04F4EB302790D81853BC4E293C86960",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "person",
-    "human",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "art",
-    "costume",
-    "gun",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "face",
-    "painting",
-    "elf",
-    "photography",
-    "photo",
-    "portrait",
-    "drawing",
-    "head",
-    "water",
-    "outdoors",
-    "sfw",
-    "male",
-    "sword",
-    "cleric",
-    "inquisitor",
-    "mage"
+    "bottom_wear",
+    "pants"
   ],
   "small": {
     "scale": 1.3700000000000003,
@@ -50,5 +26,6 @@
     "offset_y": -286.39999999999986,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

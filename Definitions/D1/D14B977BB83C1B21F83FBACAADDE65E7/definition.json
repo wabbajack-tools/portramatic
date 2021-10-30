@@ -1,14 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/EuWxh1uUYAEit_G?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EuWxh1uUYAEit_G?format=jpg\u0026name=4096x4096",
   "md5": "D14B977BB83C1B21F83FBACAADDE65E7",
-  "tags": [
-    "painting",
-    "art",
-    "duel",
-    "knight",
-    "samurai",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.4199999999999996,
     "offset_x": -473,
@@ -27,5 +20,6 @@
     "offset_y": -40,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

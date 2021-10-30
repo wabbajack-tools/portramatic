@@ -2,17 +2,15 @@
   "source": "https://www.scabard.com/user/Icefalcon/image/dual_wielding_by_andreameloni-d5kdunn.jpg",
   "md5": "EA01DB244BD821B4A3FF262C8877A5E3",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "fashion",
-    "cloak",
-    "art",
-    "male",
-    "ranger",
-    "sword",
-    "ax"
+    "dual",
+    "wielding",
+    "rogue",
+    "swords",
+    "knight",
+    "dragon",
+    "age",
+    "origins",
+    "hobbit"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -32,5 +30,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

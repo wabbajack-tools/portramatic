@@ -2,15 +2,25 @@
   "source": "https://paizo.com/image/content/RiseOfTheRunelords/Pathfinder5-Wizard.jpg",
   "md5": "CA5F3B884BBB143A962BB51A3E8BBD01",
   "tags": [
-    "person",
+    "elf",
+    "wizard",
+    "male",
     "human",
-    "samurai",
-    "archery",
-    "sport",
-    "sports",
-    "bow",
-    "Ezren",
-    "Pathfinder Iconic Wizard"
+    "miniature",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "armors",
+    "orcquest",
+    "enchanteur",
+    "daniel",
+    "zrom",
+    "card",
+    "pirate",
+    "gao",
+    "xu",
+    "outfit"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -30,5 +40,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

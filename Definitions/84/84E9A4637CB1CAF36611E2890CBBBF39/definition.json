@@ -2,24 +2,15 @@
   "source": "https://i.pinimg.com/564x/78/55/38/785538096e0f424cea7392d134fe1c39.jpg",
   "md5": "84E9A4637CB1CAF36611E2890CBBBF39",
   "tags": [
-    "person",
-    "human",
-    "costume",
+    "assassin",
+    "anime",
+    "girl",
+    "guys",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "manga",
-    "book",
-    "comics",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "painting",
-    "art",
-    "demon",
-    "succubus",
-    "tiefling"
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.9299999999999999,
@@ -39,5 +30,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

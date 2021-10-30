@@ -1,18 +1,7 @@
 {
   "source": "https://i.pinimg.com/originals/49/28/37/49283766478f7c4afa1afcfa1506ce40.png",
   "md5": "C9CF990D770CD3199EB133B059DB62AC",
-  "tags": [
-    "person",
-    "human",
-    "art",
-    "cat",
-    "animal",
-    "mammal",
-    "pet",
-    "astronaut",
-    "angel",
-    "aasimar"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.96,
     "offset_x": -116,
@@ -31,5 +20,6 @@
     "offset_y": -15,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

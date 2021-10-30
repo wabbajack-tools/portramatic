@@ -2,20 +2,15 @@
   "source": "http://3.bp.blogspot.com/-T_yAowAS490/U9yL5ruCe3I/AAAAAAAAC68/HbJ_ESizu4o/s1600/jora_guild_wars_cosplay_by_illyne-d7sykwn.jpg",
   "md5": "97EB0D4501F18FA561FA0164E6F08916",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "footwear",
-    "finger",
-    "boot",
-    "female",
-    "girl",
-    "adventure",
-    "leisure activities",
-    "2-hander",
-    "blonde"
+    "guild",
+    "wars",
+    "characters",
+    "norn",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -35,5 +30,6 @@
     "offset_y": -7.999999999999943,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

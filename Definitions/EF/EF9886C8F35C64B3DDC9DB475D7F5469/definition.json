@@ -2,18 +2,16 @@
   "source": "https://i.pinimg.com/originals/4f/48/b1/4f48b1db54fff740fbe0623f00bb9235.png",
   "md5": "EF9886C8F35C64B3DDC9DB475D7F5469",
   "tags": [
-    "person",
-    "human",
-    "duel",
-    "painting",
-    "art",
-    "weapon",
-    "weaponry",
     "female",
-    "sword",
     "pirate",
-    "buccaneer",
-    "tattoo"
+    "photos",
+    "steampunk",
+    "male",
+    "queen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -29,9 +27,10 @@
   },
   "full": {
     "scale": 0.8399999999999999,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -7.9999999999998295,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

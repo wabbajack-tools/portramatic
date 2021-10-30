@@ -1,26 +1,7 @@
 {
   "source": "https://i.imgur.com/0L1jNHm.jpeg",
   "md5": "D42439198B7391C39AA3DDA8F4352904",
-  "tags": [
-    "skin",
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "underwear",
-    "lingerie",
-    "costume",
-    "female",
-    "woman",
-    "bra",
-    "swimwear",
-    "sport",
-    "sports",
-    "people",
-    "crowd",
-    "tattoo",
-    "eivor"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.18999999999999934,
     "offset_x": -232,
@@ -39,5 +20,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

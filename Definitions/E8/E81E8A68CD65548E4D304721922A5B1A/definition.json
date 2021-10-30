@@ -2,23 +2,22 @@
   "source": "https://i.redd.it/p335d120isi61.jpg",
   "md5": "E81E8A68CD65548E4D304721922A5B1A",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "evening dress",
-    "gown",
-    "robe",
-    "fashion",
-    "mannequin",
-    "necklace",
-    "jewelry",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "accessories",
-    "accessory",
-    "finger",
-    "head",
-    "light armor",
-    "elf"
+    "jewelry",
+    "necklace",
+    "girl",
+    "\u6768",
+    "\u5FD7",
+    "\u8FBE",
+    "hecate",
+    "kailin",
+    "hu",
+    "elemental",
+    "warrior",
+    "steve",
+    "zheng"
   ],
   "small": {
     "scale": 0.1999999999999993,
@@ -38,5 +37,6 @@
     "offset_y": -32.39999999999989,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

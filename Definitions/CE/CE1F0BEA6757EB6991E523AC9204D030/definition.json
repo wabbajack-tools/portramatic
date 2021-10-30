@@ -2,20 +2,26 @@
   "source": "https://pbs.twimg.com/media/EN4Z_ZsUEAABl_O.jpg",
   "md5": "CE1F0BEA6757EB6991E523AC9204D030",
   "tags": [
-    "horse",
-    "mammal",
-    "animal",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bird",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "wolf",
-    "druid",
-    "hunter",
-    "rider"
+    "under_wear",
+    "bra",
+    "panties",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "first",
+    "we",
+    "feast",
+    "emilis",
+    "emka",
+    "concept",
+    "random",
+    "character",
+    "concepts",
+    "phroilan",
+    "gardner"
   ],
   "small": {
     "scale": 0.97,
@@ -35,5 +41,6 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

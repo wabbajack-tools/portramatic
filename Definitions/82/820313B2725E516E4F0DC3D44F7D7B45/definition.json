@@ -1,15 +1,12 @@
 {
-  "source": "https://pbs.twimg.com/media/D6HvrBUUEAAYHr0?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/D6HvrBUUEAAYHr0?format=jpg\u0026name=4096x4096",
   "md5": "820313B2725E516E4F0DC3D44F7D7B45",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "figurine",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "people",
-    ""
+    "under_wear",
+    "panties"
   ],
   "small": {
     "scale": 0.11999999999999943,
@@ -29,5 +26,6 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

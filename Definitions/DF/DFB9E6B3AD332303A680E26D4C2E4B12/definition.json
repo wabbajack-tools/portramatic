@@ -2,22 +2,9 @@
   "source": "https://vignette.wikia.nocookie.net/iron-throne-role-play/images/3/38/Tarth.jpg/revision/latest?cb=20161128033134",
   "md5": "DFB9E6B3AD332303A680E26D4C2E4B12",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "jacket",
-    "clothing",
-    "coat",
-    "apparel",
-    "man",
-    "portrait",
-    "photography",
-    "photo",
-    "weapon",
-    "weaponry",
-    "skin",
-    "performer",
-    ""
+    "male",
+    "digital",
+    "head"
   ],
   "small": {
     "scale": 0.35999999999999943,
@@ -37,5 +24,6 @@
     "offset_y": -5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

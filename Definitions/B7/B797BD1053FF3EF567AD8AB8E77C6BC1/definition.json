@@ -2,27 +2,10 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/035/658/153/large/noname-lady-triue-002.jpg?1615541476",
   "md5": "B797BD1053FF3EF567AD8AB8E77C6BC1",
   "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "person",
-    "human",
-    "sleeve",
-    "female",
-    "long sleeve",
-    "portrait",
-    "face",
-    "photography",
-    "photo",
-    "cape",
-    "overcoat",
-    "coat",
-    "woman",
-    "fashion",
-    "figurine",
-    "tartan",
-    "plaid",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -42,5 +25,6 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

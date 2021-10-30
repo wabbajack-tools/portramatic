@@ -2,12 +2,21 @@
   "source": "https://paizo.com/image/content/PathfinderAdventurePath/PZO90104-Oppian.jpg",
   "md5": "BA5FEC9D544A2710B3210843A49A960F",
   "tags": [
-    "armor",
-    "person",
     "human",
     "paladin",
-    "sword",
-    "warrior"
+    "male",
+    "elf",
+    "roman",
+    "soldier",
+    "knight",
+    "armor",
+    "heavy",
+    "knights",
+    "templar",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "dress_shoes"
   ],
   "small": {
     "scale": 1,
@@ -27,5 +36,6 @@
     "offset_y": -1.3333333333331439,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

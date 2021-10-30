@@ -2,12 +2,12 @@
   "source": "https://i.pinimg.com/originals/66/cd/8c/66cd8ccc356c1d626f2fc3ba22a680fd.jpg",
   "md5": "8F91E0D8DB438E135B65972680526D09",
   "tags": [
-    "painting",
-    "art",
-    "knight",
-    "Magic",
     "undead",
-    "Lich"
+    "creatures",
+    "zombie",
+    "dragon",
+    "skeletal",
+    "reaper"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -27,5 +27,6 @@
     "offset_y": -20.824074074074474,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,21 @@
   "source": "https://i.pinimg.com/564x/81/5b/c1/815bc1a164c55f595504a67c00a02505.jpg",
   "md5": "DAF696A45F7125E51D0169BEAD603A59",
   "tags": [
-    "person",
-    "human",
-    "horse",
-    "animal",
-    "mammal",
-    "figurine",
-    "art",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "character",
     "dragon",
-    ""
+    "girl",
+    "orc",
+    "warrior",
+    "goblin",
+    "barbarians",
+    "swordman",
+    "seven",
+    "lai",
+    "2020"
   ],
   "small": {
     "scale": 1.1200000000000003,
@@ -20,7 +26,7 @@
   },
   "medium": {
     "scale": 0.7299999999999998,
-    "offset_x": -5.684341886080802e-14,
+    "offset_x": -5.684341886080802E-14,
     "offset_y": -1.3333333333335986,
     "size": "medium"
   },
@@ -30,5 +36,6 @@
     "offset_y": 1.3333333333335986,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

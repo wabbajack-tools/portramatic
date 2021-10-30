@@ -2,12 +2,32 @@
   "source": "https://i.pinimg.com/564x/d3/44/3a/d3443a63013fd1420cf35ca5ebb1665e.jpg",
   "md5": "AAC38ACB67DCEBBE71851BAA3A1F6E6F",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "sport",
-    "sports",
-    ""
+    "female",
+    "halfling",
+    "thief",
+    "rogue",
+    "assassin",
+    "wood",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "unamed",
+    "firbolg",
+    "fighter",
+    "vincent",
+    "desmond",
+    "rpg",
+    "character",
+    "set",
+    "07",
+    "ernesto",
+    "irawan",
+    "project",
+    "myoung",
+    "hwan",
+    "kim"
   ],
   "small": {
     "scale": 1.1600000000000004,
@@ -24,8 +44,9 @@
   "full": {
     "scale": 1.7500000000000007,
     "offset_x": -141.33333333333348,
-    "offset_y": -5.684341886080801e-13,
+    "offset_y": -5.684341886080801E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,15 +2,23 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/030/219/574/large/kii-weatherton-virdianknight-wildmother-cleric.jpg?1599957450",
   "md5": "E11561F777703C13B16A9BCB81F6619D",
   "tags": [
-    "person",
-    "human",
-    "scarecrow",
-    "costume",
-    "legend of zelda",
-    "elf",
-    "carnival",
-    "crowd",
-    ""
+    "dwarf",
+    "tempest",
+    "cleric",
+    "storm",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\u5C0F\u6076\u9B54\u62A4\u58EB",
+    "cliuu",
+    "u",
+    "151-160",
+    "julio",
+    "bencid",
+    "141-150",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -27,8 +35,9 @@
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -25.629629629630017,
-    "offset_y": -9.094947017729282e-13,
+    "offset_y": -9.094947017729282E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,21 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/026/780/671/large/jonathan-romeo-irelia-divine-001-sd-2.jpg?1589719407",
   "md5": "DA03E38BAA0846F679EB1C5AE654E97C",
-  "tags": [
-    "costume",
-    "person",
-    "human",
-    "head",
-    "face",
-    "skin",
-    "mouth",
-    "lip",
-    "hair",
-    "goggles",
-    "accessories",
-    "accessory",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.2199999999999993,
     "offset_x": -24.80000000000001,
@@ -34,5 +20,6 @@
     "offset_y": -3.2037037037036953,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

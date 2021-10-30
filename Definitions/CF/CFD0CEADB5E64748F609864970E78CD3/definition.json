@@ -2,16 +2,9 @@
   "source": "https://i.pinimg.com/564x/4a/85/bd/4a85bd582246d286eaa496b48b37f5fc.jpg",
   "md5": "CFD0CEADB5E64748F609864970E78CD3",
   "tags": [
-    "art",
-    "painting",
-    "face",
-    "person",
-    "human",
-    "portrait",
-    "photography",
-    "photo",
-    "head",
-    ""
+    "barbarian",
+    "woman",
+    "gnome"
   ],
   "small": {
     "scale": 0.46999999999999953,
@@ -31,5 +24,6 @@
     "offset_y": -68,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

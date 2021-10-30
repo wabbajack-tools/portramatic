@@ -1,19 +1,7 @@
 {
   "source": "https://clydecaldwell.com/wp-content/uploads/2016/03/Zeldriias-Magic.jpg",
   "md5": "DBE2B1600E6D7225165EB37F1719ACCD",
-  "tags": [
-    "person",
-    "human",
-    "art",
-    "painting",
-    "crowd",
-    "costume",
-    "skin",
-    "festival",
-    "drawing",
-    "back",
-    "druid"
-  ],
+  "tags": [],
   "small": {
     "scale": 1,
     "offset_x": -506,
@@ -32,5 +20,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

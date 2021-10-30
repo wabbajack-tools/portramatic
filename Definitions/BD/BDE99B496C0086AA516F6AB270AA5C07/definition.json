@@ -1,27 +1,7 @@
 {
   "source": "https://i.redd.it/n8v33habzif11.jpg",
   "md5": "BDE99B496C0086AA516F6AB270AA5C07",
-  "tags": [
-    "person",
-    "human",
-    "costume",
-    "graphics",
-    "art",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "drawing",
-    "poster",
-    "advertisement",
-    "plant",
-    "liquor",
-    "beverage",
-    "alcohol",
-    "drink",
-    "face",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.15999999999999945,
     "offset_x": -205.99999999999994,
@@ -40,5 +20,6 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,19 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/035/191/349/large/andi-cahyo-w-dnd-2nd-aasimar-finished-50.jpg?1614328640",
   "md5": "B5FF6BFE1A29888B4506CED71C95AAA5",
-  "tags": [
-    "person",
-    "human",
-    "legend of zelda",
-    "painting",
-    "art",
-    "crowd",
-    "elf",
-    "samurai",
-    "world of warcraft",
-    "tiefling",
-    "demon"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -167,
@@ -32,5 +20,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,18 +1,7 @@
 {
   "source": "https://i.imgur.com/QWLkuAp.jpg",
   "md5": "A77BEA6217171CC9AC09A9576B532D0D",
-  "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "person",
-    "human",
-    "performer",
-    "coat",
-    "overcoat",
-    "cape",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -464,
@@ -31,5 +20,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

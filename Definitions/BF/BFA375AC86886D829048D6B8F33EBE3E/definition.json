@@ -2,17 +2,17 @@
   "source": "https://img3.gelbooru.com//images/bf/a3/bfa375ac86886d829048d6b8f33ebe3e.jpg",
   "md5": "BFA375AC86886D829048D6B8F33EBE3E",
   "tags": [
-    "comics",
-    "book",
-    "latex clothing",
-    "helmet",
+    "anime",
+    "girl",
+    "miku",
+    "bleach",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
     "clothing",
-    "apparel",
-    "graphics",
-    "art",
-    "manga",
-    "spandex",
-    "shirabe"
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -32,5 +32,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

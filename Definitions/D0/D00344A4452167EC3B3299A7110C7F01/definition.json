@@ -1,19 +1,7 @@
 {
   "source": "https://cdn.paizo.com/image/content/Blog/20190702-iakhovas.jpg",
   "md5": "D00344A4452167EC3B3299A7110C7F01",
-  "tags": [
-    "person",
-    "human",
-    "leisure activities",
-    "costume",
-    "clothing",
-    "apparel",
-    "ninja",
-    "duel",
-    "bow",
-    "animal",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.2899999999999996,
     "offset_x": -291.99999999999955,
@@ -32,5 +20,6 @@
     "offset_y": -13.3333333333332,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

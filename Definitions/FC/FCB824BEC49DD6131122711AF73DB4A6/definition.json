@@ -1,8 +1,14 @@
 {
-  "source": "https://pbs.twimg.com/media/DyYUmvsU0AI_a3Z?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/DyYUmvsU0AI_a3Z?format=jpg\u0026name=4096x4096",
   "md5": "FCB824BEC49DD6131122711AF73DB4A6",
   "tags": [
-    ""
+    "wwe",
+    "wrestlers",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants"
   ],
   "small": {
     "scale": 0.5999999999999996,
@@ -22,5 +28,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

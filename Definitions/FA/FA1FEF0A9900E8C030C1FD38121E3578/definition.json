@@ -1,16 +1,7 @@
 {
-  "source": "https://f8n-ipfs-production.imgix.net/QmZWXkdDWBtVXrFzJBJNCwsP6EgYT7tqF1EUVcccnjsRm9/nft.png?q=80&w=1680&fit=fill&max-h=1680",
+  "source": "https://f8n-ipfs-production.imgix.net/QmZWXkdDWBtVXrFzJBJNCwsP6EgYT7tqF1EUVcccnjsRm9/nft.png?q=80\u0026w=1680\u0026fit=fill\u0026max-h=1680",
   "md5": "FA1FEF0A9900E8C030C1FD38121E3578",
-  "tags": [
-    "skin",
-    "person",
-    "human",
-    "drawing",
-    "art",
-    "tattoo",
-    "sketch",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -244,
@@ -29,5 +20,6 @@
     "offset_y": -32,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

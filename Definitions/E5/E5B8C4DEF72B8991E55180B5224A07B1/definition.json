@@ -2,16 +2,30 @@
   "source": "https://i.redd.it/el44atk1lrf31.jpg",
   "md5": "E5B8C4DEF72B8991E55180B5224A07B1",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "sleeve",
-    "clothing",
-    "apparel",
+    "character",
+    "design",
+    "inspiration",
     "female",
-    "performer",
-    "long sleeve",
-    ""
+    "cartoon",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "sandals",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "blue",
+    "archer",
+    "lee",
+    "jin",
+    "su",
+    "warrior"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -31,5 +45,6 @@
     "offset_y": -90,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,24 @@
   "source": "https://i.pinimg.com/564x/37/5c/53/375c53aafd3c922f765e37f62cf372c9.jpg",
   "md5": "C50190EB48792A92B80673779C10507E",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "figurine",
-    "samurai",
-    "ninja",
-    "photography",
-    "photo",
+    "rpg",
+    "character",
+    "druid",
+    "sheet",
+    "armors",
+    "dungeons",
+    "dragons",
     "knight",
-    "kneeling",
-    ""
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "https://www.artstation.com/artwork/pmvzwn",
+    "beast",
+    "creature",
+    "wolf",
+    "werewolf"
   ],
   "small": {
     "scale": 1.12,
@@ -33,5 +39,6 @@
     "offset_y": -11.600000000000023,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,17 +1,7 @@
 {
   "source": "https://64.media.tumblr.com/d0bc04e5bdecdcf51f589e00ebca21de/tumblr_o7lkc5jrQP1sttcw0o1_540.jpg",
   "md5": "A0EF10FC10F1A3D77A6F22D2B394E759",
-  "tags": [
-    "statue",
-    "sculpture",
-    "art",
-    "alien",
-    "person",
-    "human",
-    "bird",
-    "animal",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -409,
@@ -30,5 +20,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

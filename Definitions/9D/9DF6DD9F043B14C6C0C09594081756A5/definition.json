@@ -1,16 +1,7 @@
 {
   "source": "https://64.media.tumblr.com/fc2ff4f419e91a933e5138bae28e768d/a955e572135bb8fd-c5/s2048x3072/ba850646258de6e169feaf4ddd246c767c45d8c0.jpg",
   "md5": "9DF6DD9F043B14C6C0C09594081756A5",
-  "tags": [
-    "art",
-    "modern art",
-    "painting",
-    "dragon",
-    "angel",
-    "archangel",
-    "animal",
-    "angel wings"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -580,
@@ -29,5 +20,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

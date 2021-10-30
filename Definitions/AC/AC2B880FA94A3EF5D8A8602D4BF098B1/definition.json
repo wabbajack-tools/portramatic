@@ -2,16 +2,22 @@
   "source": "https://i.imgur.com/W2wpVQp.jpg",
   "md5": "AC2B880FA94A3EF5D8A8602D4BF098B1",
   "tags": [
-    "person",
-    "human",
-    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
     "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "overwatch",
-    "stage",
-    ""
+    "under_wear",
+    "bra",
+    "ruins",
+    "ioana",
+    "muresan",
+    "harvest",
+    "witch",
+    "riikka",
+    "sofia",
+    "riekkinen",
+    "2021"
   ],
   "small": {
     "scale": 0.5999999999999996,
@@ -31,5 +37,6 @@
     "offset_y": -120,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

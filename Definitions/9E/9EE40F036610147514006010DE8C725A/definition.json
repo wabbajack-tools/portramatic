@@ -1,15 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/304/181/large/cashile-sy-va-c-pearlescent-white-by-cashile-dadm13m.jpg?1472213527",
   "md5": "9EE40F036610147514006010DE8C725A",
-  "tags": [
-    "figurine",
-    "art",
-    "person",
-    "human",
-    "sculpture",
-    "painting",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -204.00000000000003,
@@ -28,5 +20,6 @@
     "offset_y": -165.59999999999985,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

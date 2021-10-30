@@ -2,21 +2,19 @@
   "source": "https://i.pinimg.com/564x/99/5a/67/995a6710ee571f002084f7cc67886702.jpg",
   "md5": "C311BB74598BDE29C92250A80736234F",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "hair",
-    "costume",
+    "generator",
+    "dd",
+    "portraits",
     "female",
-    "photography",
-    "photo",
-    "head",
-    "portrait",
-    "black hair",
-    "woman",
-    "haircut",
-    "cosplay",
-    ""
+    "elf",
+    "black",
+    "hair",
+    "brown",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 1.4300000000000004,
@@ -36,5 +34,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,32 +2,18 @@
   "source": "https://i.pinimg.com/originals/d1/41/98/d1419899504af8802f8ebe08cf0dfcf3.png",
   "md5": "FBA1D7036404D6D270EE03B96252EC7C",
   "tags": [
-    "person",
-    "human",
-    "bronze",
-    "figurine",
-    "samurai",
-    "horse",
-    "animal",
-    "mammal",
-    "armor",
-    "clothing",
-    "apparel",
-    "photography",
-    "photo",
-    "portrait",
-    "face",
-    "costume",
-    "knight",
     "female",
-    "crowd",
-    "woman",
-    "weapon",
-    "weaponry",
+    "elf",
+    "cleric",
+    "half-elf",
+    "drawing",
     "male",
-    "ranger",
-    "sword",
-    "ax"
+    "half",
+    "druid",
+    "pirate",
+    "roman",
+    "soldier",
+    "paladin"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -47,5 +33,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

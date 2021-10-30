@@ -2,19 +2,23 @@
   "source": "https://artwoonz.b-cdn.net/wp-content/uploads/2019/10/Digital-artist-irakli-nadar-23.jpg",
   "md5": "7A459D9606136CBC158501AED8742C78",
   "tags": [
-    "face",
-    "person",
-    "human",
-    "portrait",
-    "photography",
-    "photo",
-    "female",
-    "clothing",
-    "apparel",
+    "realistic",
+    "digital",
+    "painting",
+    "fine",
+    "beautiful",
+    "black",
     "hair",
-    "selfie",
-    "freckle",
-    ""
+    "curly",
+    "blonde",
+    "short",
+    "haircut",
+    "brown",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.26999999999999935,
@@ -34,5 +38,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

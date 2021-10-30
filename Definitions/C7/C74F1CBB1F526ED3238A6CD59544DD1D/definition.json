@@ -1,15 +1,7 @@
 {
   "source": "https://cdna.artstation.com/p/assets/images/images/040/790/336/large/lera-pi-lerapi-oc-tyra-patreon-poll-winner1.jpg?1629889007",
   "md5": "C74F1CBB1F526ED3238A6CD59544DD1D",
-  "tags": [
-    "sunglasses",
-    "accessories",
-    "accessory",
-    "person",
-    "human",
-    "art",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -205.59999999999997,
@@ -28,5 +20,6 @@
     "offset_y": -90.40000000000006,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,21 +2,23 @@
   "source": "https://i.pinimg.com/originals/9e/58/6d/9e586d0dbf555d868bfc1e67804dad04.jpg",
   "md5": "A089E3581CFD9EFED8AADF1985E1BACA",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "footwear",
-    "boot",
-    "bow",
+    "woman",
+    "warrior",
+    "with",
+    "sword",
     "female",
-    "costume",
-    "painting",
-    "art",
-    "archery",
-    "sport",
-    "sports",
-    ""
+    "knight",
+    "celtic",
+    "women",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "accessories",
+    "gloves",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.49999999999999956,
@@ -36,5 +38,6 @@
     "offset_y": -53,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

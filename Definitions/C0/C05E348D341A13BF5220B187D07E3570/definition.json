@@ -2,16 +2,21 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/023/846/873/large/noname-daqiao.jpg?1580513320",
   "md5": "C05E348D341A13BF5220B187D07E3570",
   "tags": [
+    "total",
+    "war",
+    "three",
+    "kingdoms",
+    "sun",
+    "ren",
+    "zheng",
+    "jiang",
+    "rome",
+    "factions",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "robe",
-    "fashion",
-    "gown",
-    "kimono",
-    "person",
-    "human",
-    "evening dress",
-    ""
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 1.11,
@@ -31,5 +36,6 @@
     "offset_y": -72,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

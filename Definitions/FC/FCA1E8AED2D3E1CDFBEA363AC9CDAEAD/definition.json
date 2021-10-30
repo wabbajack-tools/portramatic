@@ -2,15 +2,17 @@
   "source": "https://gal.cdn.renderosity.com/images/image_1954611/file_1954611.jpg?v=1254221410",
   "md5": "FCA1E8AED2D3E1CDFBEA363AC9CDAEAD",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "animal",
-    ""
+    "under_wear",
+    "bra",
+    "panties",
+    "elfin",
+    "44",
+    "lamuserie",
+    "antoine",
+    "https://www"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -30,5 +32,6 @@
     "offset_y": -76,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

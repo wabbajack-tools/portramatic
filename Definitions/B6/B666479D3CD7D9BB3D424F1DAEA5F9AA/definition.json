@@ -2,27 +2,11 @@
   "source": "http://www.artofmtg.com/wp-content/uploads/2014/07/Elesh-Norn-Grand-Cenobite-MtG-Art.jpg",
   "md5": "B666479D3CD7D9BB3D424F1DAEA5F9AA",
   "tags": [
-    "bird",
-    "animal",
-    "person",
-    "human",
-    "figurine",
-    "window display",
-    "shop",
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "plant",
-    "finger",
-    "adventure",
-    "leisure activities",
-    "poster",
-    "advertisement",
-    "stage",
+    "elesh",
+    "norn",
+    "phyrexian",
     "mtg",
-    "phyrexia",
-    "cenobite"
+    "urabrask"
   ],
   "small": {
     "scale": 1,
@@ -42,5 +26,6 @@
     "offset_y": -38.44444444444423,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,16 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/012/802/029/large/zhaoyuan-pan-agathapng.jpg?1536602240",
   "md5": "F4CAEBDAD36280A1AA3ADA765C519E6E",
   "tags": [
-    "manga",
-    "comics",
-    "book",
-    "art",
-    "person",
-    "human",
-    "painting",
-    "angel",
-    "archangel",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -31,5 +26,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,14 +1,27 @@
 {
-  "source": "https://steamuserimages-a.akamaihd.net/ugc/936084291453673821/20AEAD3DF484D9F9886EEA59CF6B74F2FD5B3AE8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "source": "https://steamuserimages-a.akamaihd.net/ugc/936084291453673821/20AEAD3DF484D9F9886EEA59CF6B74F2FD5B3AE8/?imw=512\u0026\u0026ima=fit\u0026impolicy=Letterbox\u0026imcolor=%23000000\u0026letterbox=false",
   "md5": "A41586BE35ECABB25365F3E6B2D0259F",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "costume",
-    "angel",
-    "archangel",
-    ""
+    "anime",
+    "japanese",
+    "geisha",
+    "flower",
+    "wallpaper",
+    "black",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "gumiho",
+    "personal",
+    "project",
+    "dao",
+    "trong",
+    "le",
+    "jyundee-fan",
+    "floofster",
+    "character"
   ],
   "small": {
     "scale": 1.2600000000000002,
@@ -25,8 +38,9 @@
   "full": {
     "scale": 2.1099999999999985,
     "offset_x": -37.3333333333328,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

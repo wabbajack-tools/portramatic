@@ -2,14 +2,19 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/024/911/794/large/natalie-bernard-sellsword-nataliebernard.jpg?1583956488",
   "md5": "7BBD5C8D61EC960D62E16BD8875631BE",
   "tags": [
-    "helmet",
+    "natalie",
+    "knight",
+    "yoga",
+    "actress",
+    "fit18",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "person",
-    "human",
-    "armor",
-    "costume",
-    "female"
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.27999999999999936,
@@ -29,5 +34,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

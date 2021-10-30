@@ -2,20 +2,14 @@
   "source": "https://paizo.com/image/content/PathfinderRPG/Imrijka.jpg",
   "md5": "D07081BDEA0961B64CDBE95F6B6A2872",
   "tags": [
-    "person",
-    "human",
     "samurai",
-    "hat",
-    "clothing",
-    "apparel",
-    "sport",
-    "sports",
-    "costume",
-    "bow",
-    "archery",
-    "knight",
-    "Imrijka",
-    "Pathfinder Iconic Inquisitor"
+    "armor",
+    "paizo",
+    "medieval",
+    "knights",
+    "shogun",
+    "warriors",
+    "heavy"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -35,5 +29,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

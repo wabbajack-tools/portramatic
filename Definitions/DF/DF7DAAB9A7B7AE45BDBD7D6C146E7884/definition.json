@@ -2,22 +2,10 @@
   "source": "https://i.redd.it/ohgoz2tixb071.jpg",
   "md5": "DF7DAAB9A7B7AE45BDBD7D6C146E7884",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "pants",
-    "costume",
-    "spandex",
-    "shoe",
-    "footwear",
-    "painting",
-    "art",
-    "final fantasy",
-    "sport",
-    "sports",
-    "bow",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 0.8199999999999998,
@@ -37,5 +25,6 @@
     "offset_y": -88,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

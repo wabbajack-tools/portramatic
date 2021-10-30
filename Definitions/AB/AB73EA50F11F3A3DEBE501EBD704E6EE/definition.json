@@ -2,13 +2,19 @@
   "source": "https://i.pinimg.com/564x/68/84/dd/6884dd77cde2c286e5edd7c04af69766.jpg",
   "md5": "AB73EA50F11F3A3DEBE501EBD704E6EE",
   "tags": [
-    "person",
-    "human",
-    "armor",
-    "costume",
-    "samurai",
-    "knight",
-    ""
+    "female",
+    "fighter",
+    "character",
+    "rpg",
+    "concept",
+    "pirate",
+    "game",
+    "thrones",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.4400000000000004,
@@ -28,5 +34,6 @@
     "offset_y": -80,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

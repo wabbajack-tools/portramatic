@@ -2,20 +2,18 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/041/572/101/large/kyuyong-eom-sc-18-c-my-x-s.jpg?1632087557",
   "md5": "D6CD1B7744DF4182212049646FA35257",
   "tags": [
-    "skin",
-    "costume",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "lingerie",
-    "underwear",
     "female",
-    "people",
-    "crowd",
-    "tattoo",
-    "woman",
-    ""
+    "pirate",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "assassin",
+    "natalie",
+    "herrera"
   ],
   "small": {
     "scale": 0.99,
@@ -35,5 +33,6 @@
     "offset_y": -32,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

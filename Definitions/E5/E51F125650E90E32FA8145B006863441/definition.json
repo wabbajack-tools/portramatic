@@ -2,11 +2,23 @@
   "source": "https://i.pinimg.com/564x/86/a7/d3/86a7d37a9fe311e85ecda68578b4ecaf.jpg",
   "md5": "E51F125650E90E32FA8145B006863441",
   "tags": [
-    "person",
-    "human",
-    "art",
-    "painting",
-    ""
+    "halfling",
+    "rogue",
+    "female",
+    "lord",
+    "rings",
+    "kingmaker",
+    "tiefling",
+    "akim",
+    "kaliberda",
+    "character",
+    "portraits",
+    "gobby",
+    "draggo",
+    "t.j.",
+    "geisen",
+    "https://www.artstation.com/artwork/bn4z6",
+    "shadow"
   ],
   "small": {
     "scale": 1.8999999999999992,
@@ -22,9 +34,10 @@
   },
   "full": {
     "scale": 1.2300000000000002,
-    "offset_x": -9.094947017729282e-13,
+    "offset_x": -9.094947017729282E-13,
     "offset_y": -2.666666666667311,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

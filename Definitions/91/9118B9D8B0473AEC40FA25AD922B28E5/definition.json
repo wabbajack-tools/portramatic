@@ -2,23 +2,11 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/014/850/554/large/gerry-arthur-ifan-ben-mezd.jpg?1545900908",
   "md5": "9118B9D8B0473AEC40FA25AD922B28E5",
   "tags": [
-    "face",
-    "person",
+    "digital",
+    "male",
     "human",
-    "man",
-    "necklace",
-    "accessories",
-    "jewelry",
-    "accessory",
-    "art",
-    "beard",
-    "portrait",
-    "photography",
-    "photo",
-    "head",
-    "drawing",
-    "pendant",
-    ""
+    "paladin",
+    "rogue"
   ],
   "small": {
     "scale": 0.2999999999999994,
@@ -38,5 +26,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

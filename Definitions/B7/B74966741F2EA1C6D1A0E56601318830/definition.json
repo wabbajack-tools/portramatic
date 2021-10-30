@@ -2,20 +2,15 @@
   "source": "https://i.pinimg.com/originals/5d/6a/58/5d6a5837094971fcb9aa80393969e95f.png",
   "md5": "B74966741F2EA1C6D1A0E56601318830",
   "tags": [
-    "person",
-    "human",
-    "face",
-    "armor",
-    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "portrait",
-    "photography",
-    "photo",
-    "weapon",
-    "weaponry",
-    "bronze",
-    ""
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.57,
@@ -32,8 +27,9 @@
   "full": {
     "scale": 1.029999999999999,
     "offset_x": -4.0000000000009095,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

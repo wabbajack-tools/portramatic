@@ -1,22 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/041/489/571/large/kyuyong-eom-sc-painting-web.jpg?1631826888",
   "md5": "8421E528D3E71E8ECAB186ADB3C79719",
-  "tags": [
-    "art",
-    "person",
-    "human",
-    "drawing",
-    "painting",
-    "animal",
-    "dog",
-    "canine",
-    "pet",
-    "mammal",
-    "graphics",
-    "sketch",
-    "modern art",
-    "female"
-  ],
+  "tags": [],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -524,
@@ -35,5 +20,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

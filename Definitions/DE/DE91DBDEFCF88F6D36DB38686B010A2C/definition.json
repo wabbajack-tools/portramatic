@@ -1,23 +1,7 @@
 {
   "source": "https://image.pngaaa.com/284/802284-middle.png",
   "md5": "DE91DBDEFCF88F6D36DB38686B010A2C",
-  "tags": [
-    "person",
-    "human",
-    "costume",
-    "sport",
-    "sports",
-    "figurine",
-    "samurai",
-    "dance pose",
-    "leisure activities",
-    "painting",
-    "art",
-    "crowd",
-    "festival",
-    "adventure",
-    "azata"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -243,
@@ -36,5 +20,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

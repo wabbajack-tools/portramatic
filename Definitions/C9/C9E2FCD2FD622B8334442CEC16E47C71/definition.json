@@ -1,25 +1,7 @@
 {
   "source": "https://i.pinimg.com/564x/91/44/95/9144958b775a70e0aa766b0b84a746d6.jpg",
   "md5": "C9E2FCD2FD622B8334442CEC16E47C71",
-  "tags": [
-    "face",
-    "person",
-    "human",
-    "art",
-    "head",
-    "portrait",
-    "photography",
-    "photo",
-    "modern art",
-    "graphics",
-    "clothing",
-    "apparel",
-    "floral design",
-    "pattern",
-    "elf",
-    "painting",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -59,
@@ -38,5 +20,6 @@
     "offset_y": -202,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

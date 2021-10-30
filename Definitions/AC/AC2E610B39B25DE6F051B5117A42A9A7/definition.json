@@ -2,19 +2,11 @@
   "source": "https://i.pinimg.com/564x/a9/e8/51/a9e8519fcc62e65ee6eb3661b0d5dd03.jpg",
   "md5": "AC2E610B39B25DE6F051B5117A42A9A7",
   "tags": [
-    "person",
+    "digital",
+    "male",
     "human",
-    "face",
-    "art",
-    "clothing",
-    "apparel",
-    "female",
-    "portrait",
-    "photography",
-    "photo",
-    "fashion",
-    "cloak",
-    ""
+    "paladin",
+    "rogue"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -34,5 +26,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

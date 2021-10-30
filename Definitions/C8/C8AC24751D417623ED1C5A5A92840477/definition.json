@@ -1,14 +1,7 @@
 {
   "source": "https://i.redd.it/oit7tvfoskd71.jpg",
   "md5": "C8AC24751D417623ED1C5A5A92840477",
-  "tags": [
-    "costume",
-    "person",
-    "human",
-    "performer",
-    "crowd",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.27999999999999936,
     "offset_x": -178,
@@ -27,5 +20,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

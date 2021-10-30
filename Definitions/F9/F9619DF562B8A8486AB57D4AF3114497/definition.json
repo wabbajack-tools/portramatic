@@ -2,21 +2,11 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/031/435/223/large/yuichiro-fujita-final-color.jpg",
   "md5": "F9619DF562B8A8486AB57D4AF3114497",
   "tags": [
-    "dance pose",
-    "leisure activities",
-    "person",
-    "human",
-    "adventure",
-    "finger",
-    "underwear",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "back",
-    "stage",
-    "crowd",
-    "barbarian",
-    "dual wield",
-    "light armor"
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.23999999999999932,
@@ -36,5 +26,6 @@
     "offset_y": -6.399999999999892,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

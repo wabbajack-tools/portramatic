@@ -1,13 +1,12 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fed%2F24%2F29%2Fed2429bd3e98c12d6e64c9b57ef35fd4.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fed%2F24%2F29%2Fed2429bd3e98c12d6e64c9b57ef35fd4.jpg\u0026f=1\u0026nofb=1",
   "md5": "D65A0843B58EE4A5E0F5B68CF09567C6",
   "tags": [
-    "person",
-    "human",
-    "final fantasy",
-    "clothing",
-    "apparel",
-    ""
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.97,
@@ -27,5 +26,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

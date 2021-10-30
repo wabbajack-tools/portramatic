@@ -1,16 +1,7 @@
 {
   "source": "https://cdna.artstation.com/p/assets/images/images/026/780/716/large/jonathan-romeo-morgana-sd.jpg?1589719512",
   "md5": "B29ED382C1EFE136FF6864EE7E9CA395",
-  "tags": [
-    "person",
-    "human",
-    "hair",
-    "head",
-    "doll",
-    "toy",
-    "costume",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -15.200000000000017,
@@ -29,5 +20,6 @@
     "offset_y": -3.2037037037036953,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

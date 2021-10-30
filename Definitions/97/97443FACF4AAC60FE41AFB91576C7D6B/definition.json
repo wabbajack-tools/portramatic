@@ -1,15 +1,7 @@
 {
   "source": "https://cdna.artstation.com/p/assets/images/images/035/330/668/4k/raphael-lubke-tiefling-f.jpg?1614697294",
   "md5": "97443FACF4AAC60FE41AFB91576C7D6B",
-  "tags": [
-    "person",
-    "human",
-    "art",
-    "glasses",
-    "accessories",
-    "accessory",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.05999999999999974,
     "offset_x": -24.000000000000014,
@@ -28,5 +20,6 @@
     "offset_y": -55.200000000000045,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

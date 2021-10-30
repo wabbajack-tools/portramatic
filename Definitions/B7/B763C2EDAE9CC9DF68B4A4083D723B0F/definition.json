@@ -2,21 +2,8 @@
   "source": "https://i.imgur.com/WJLFM52.png",
   "md5": "B763C2EDAE9CC9DF68B4A4083D723B0F",
   "tags": [
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "metropolis",
-    "building",
-    "urban",
-    "city",
-    "town",
-    "outdoors",
-    "painting",
-    "art",
-    "water",
-    "batman",
-    ""
+    "geralt",
+    "rivia"
   ],
   "small": {
     "scale": 1,
@@ -36,5 +23,6 @@
     "offset_y": -29,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

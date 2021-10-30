@@ -2,23 +2,25 @@
   "source": "https://i.ibb.co/WpLmbYQ/Tarbin-tul.png",
   "md5": "B9B6A0A4D3F5A7F2D429F64FF95CDA11",
   "tags": [
+    "male",
+    "elf",
+    "bard",
+    "female",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "string_instrument",
     "guitar",
-    "leisure activities",
-    "musical instrument",
-    "lute",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "musician",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "beard",
-    "head",
-    "man",
-    ""
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "characters",
+    "ioana",
+    "muresan",
+    "afterlife",
+    "online",
+    "moniek",
+    "schilder"
   ],
   "small": {
     "scale": 0.35999999999999943,
@@ -38,5 +40,6 @@
     "offset_y": 27,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

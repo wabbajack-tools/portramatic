@@ -1,17 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/Ejkq6sSWsAIURDH?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/Ejkq6sSWsAIURDH?format=jpg\u0026name=large",
   "md5": "A8EA2DE50E54200267838D6C2B299738",
-  "tags": [
-    "person",
-    "human",
-    "archery",
-    "bow",
-    "sport",
-    "sports",
-    "archer",
-    "leisure activities",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -528.0000000000007,
@@ -30,5 +20,6 @@
     "offset_y": -32.03703703703775,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

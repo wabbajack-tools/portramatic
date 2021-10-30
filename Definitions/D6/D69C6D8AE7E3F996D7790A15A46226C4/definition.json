@@ -2,23 +2,22 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/035/053/786/large/goo-jjang-assessin3-1.jpg?1613992471",
   "md5": "D69C6D8AE7E3F996D7790A15A46226C4",
   "tags": [
-    "person",
-    "human",
-    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "female",
-    "people",
-    "armor",
-    "woman",
-    "long sleeve",
-    "sleeve",
-    "toy",
-    "knight",
-    "samurai",
-    "weapon",
-    "weaponry",
-    ""
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "catwoman",
+    "fanart",
+    "karolina",
+    "mircevska",
+    "alice",
+    "halloween",
+    "asylum",
+    "omri",
+    "koresh"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -38,5 +37,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

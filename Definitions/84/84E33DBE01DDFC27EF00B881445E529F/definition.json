@@ -2,21 +2,10 @@
   "source": "https://gal.cdn.renderosity.com/images/image_3027473/c8e230d80c5be689d18ae7d4262fbcaa_original.jpg?v=1633754949",
   "md5": "84E33DBE01DDFC27EF00B881445E529F",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "footwear",
-    "underwear",
-    "boot",
-    "lingerie",
-    "leisure activities",
-    "evening dress",
-    "fashion",
-    "gown",
-    "robe",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -36,5 +25,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,18 +2,19 @@
   "source": "https://i.pinimg.com/originals/7b/a5/d6/7ba5d601e052e6d057cd6f8e1e82f4d7.jpg",
   "md5": "AF017543FAAA713A9B83B3418F2545C3",
   "tags": [
+    "arya",
+    "stark",
+    "book",
+    "drawing",
+    "games",
+    "thrones",
+    "wolves",
+    "arctic",
     "wolf",
-    "mammal",
-    "animal",
-    "person",
-    "human",
-    "coyote",
-    "dog",
-    "canine",
-    "pet",
-    "red wolf",
-    "wildlife",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.05,
@@ -33,5 +34,6 @@
     "offset_y": -52,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

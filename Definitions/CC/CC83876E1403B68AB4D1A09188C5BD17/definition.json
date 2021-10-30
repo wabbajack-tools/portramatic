@@ -1,26 +1,7 @@
 {
   "source": "https://cdnb.artstation.com/p/assets/images/images/039/014/011/large/kisuny-loc-20140926-1600-02.jpg?1628036812",
   "md5": "CC83876E1403B68AB4D1A09188C5BD17",
-  "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "outdoors",
-    "nature",
-    "manga",
-    "comics",
-    "book",
-    "graphics",
-    "crystal",
-    "hair",
-    "costume",
-    "snow",
-    "dress",
-    "clothing",
-    "apparel",
-    "female mage"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -602.4000000000009,
@@ -39,5 +20,6 @@
     "offset_y": -696.8055555555554,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

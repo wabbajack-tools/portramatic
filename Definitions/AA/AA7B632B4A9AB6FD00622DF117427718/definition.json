@@ -2,13 +2,22 @@
   "source": "https://i.pinimg.com/564x/ee/f5/81/eef58140bf289f8a3a81be68d71dae14.jpg",
   "md5": "AA7B632B4A9AB6FD00622DF117427718",
   "tags": [
-    "axe",
-    "tool",
-    "costume",
-    "person",
-    "human",
-    "toy",
-    ""
+    "wow",
+    "dwarf",
+    "paladin",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "concept",
+    "world",
+    "characters",
+    "https://www.artstation.com/artwork/kat-commission",
+    "con",
+    "z",
+    "ed",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.8,
@@ -25,8 +34,9 @@
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -96.00000000000045,
-    "offset_y": -6.252776074688882e-13,
+    "offset_y": -6.252776074688882E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

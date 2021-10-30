@@ -1,18 +1,7 @@
 {
   "source": "https://i.redd.it/mob44z4wzis51.jpg",
   "md5": "A39AEBDDDC4BB123DC6AEBC855D89A4B",
-  "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "fashion",
-    "cloak",
-    "jacket",
-    "coat",
-    "scarf",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -113,
@@ -31,5 +20,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

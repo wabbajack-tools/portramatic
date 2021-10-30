@@ -2,17 +2,21 @@
   "source": "https://i.pinimg.com/originals/02/9e/ac/029eac39c0b314bfde98f70085229307.jpg",
   "md5": "88E845B7180D280DAD0EC88EB5E4A038",
   "tags": [
-    "costume",
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "bow",
-    "archery",
-    "female",
-    "people",
-    "elf",
-    ""
+    "actionfigures",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "shoes",
+    "heels",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "npc",
+    "sung",
+    "uk",
+    "kim"
   ],
   "small": {
     "scale": 1.7900000000000007,
@@ -32,5 +36,6 @@
     "offset_y": -4.80555555555577,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

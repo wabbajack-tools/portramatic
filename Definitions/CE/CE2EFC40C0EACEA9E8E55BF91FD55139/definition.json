@@ -1,14 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/FBSJNm4XMAUZi-B?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/FBSJNm4XMAUZi-B?format=jpg\u0026name=large",
   "md5": "CE2EFC40C0EACEA9E8E55BF91FD55139",
-  "tags": [
-    "knight",
-    "painting",
-    "art",
-    "armor",
-    "ignis",
-    "paladin"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -138,
@@ -27,5 +20,6 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

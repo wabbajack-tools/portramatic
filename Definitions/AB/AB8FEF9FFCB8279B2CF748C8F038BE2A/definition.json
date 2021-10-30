@@ -2,19 +2,20 @@
   "source": "https://static.wikia.nocookie.net/agutar/images/0/08/Halfling.jpg/revision/latest/scale-to-width-down/723?cb=20201208015631",
   "md5": "AB8FEF9FFCB8279B2CF748C8F038BE2A",
   "tags": [
+    "halfling",
+    "rogue",
+    "concept",
+    "thief",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "person",
-    "human",
-    "costume",
-    "painting",
-    "art",
-    "footwear",
+    "outer_wear",
     "coat",
-    "boot",
-    "samurai",
-    "overcoat",
-    ""
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1,
@@ -34,5 +35,6 @@
     "offset_y": -6.666666666666629,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

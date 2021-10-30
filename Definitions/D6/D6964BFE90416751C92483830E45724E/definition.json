@@ -2,14 +2,15 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/024/776/436/large/iliyana-kostova-shadar-kai-2-smaller.jpg?1583495737",
   "md5": "D6964BFE90416751C92483830E45724E",
   "tags": [
-    "hair",
-    "doll",
-    "toy",
-    "person",
-    "human",
-    "black hair",
-    "elf",
-    "female"
+    "shadar-kai",
+    "rogue",
+    "character",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.14999999999999925,
@@ -29,5 +30,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

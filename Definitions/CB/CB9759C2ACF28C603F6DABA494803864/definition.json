@@ -2,18 +2,8 @@
   "source": "https://i.pinimg.com/564x/82/4a/c3/824ac33d6c8a8cf638eb61e3c8b2a7ac.jpg",
   "md5": "CB9759C2ACF28C603F6DABA494803864",
   "tags": [
-    "clothing",
-    "apparel",
-    "elf",
-    "art",
-    "plant",
-    "person",
-    "human",
-    "costume",
-    "book",
-    "cape",
-    "pants",
-    ""
+    "female",
+    "assassin"
   ],
   "small": {
     "scale": 0.94,
@@ -33,5 +23,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

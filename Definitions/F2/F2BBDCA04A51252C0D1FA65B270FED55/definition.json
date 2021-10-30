@@ -2,20 +2,19 @@
   "source": "https://pbs.twimg.com/media/ESNzQMmWsAAqwvY.jpg",
   "md5": "F2BBDCA04A51252C0D1FA65B270FED55",
   "tags": [
-    "clothing",
-    "apparel",
-    "costume",
-    "person",
-    "human",
-    "footwear",
-    "boot",
-    "female",
-    "riding boot",
-    "building",
-    "architecture",
-    "woman",
-    "magic",
-    "brunette"
+    "light",
+    "elf",
+    "cosplay",
+    "yaya",
+    "han",
+    "vampire",
+    "warrior",
+    "dark",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.1300000000000001,
@@ -35,5 +34,6 @@
     "offset_y": -69.33333333333297,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

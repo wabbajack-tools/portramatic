@@ -2,17 +2,25 @@
   "source": "https://i.pinimg.com/originals/f0/1b/1e/f01b1e45265ae8c3b07bf01500e2667e.jpg",
   "md5": "9B0E53AB3578AF35F36829F7B7CEB8BC",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "art",
-    "costume",
-    "footwear",
-    "crowd",
+    "elf",
+    "ranger",
+    "male",
+    "wood",
     "female",
-    "fashion",
-    ""
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "\u76DC\u9B42\uFF0D\u6F01\u7FC1",
+    "chin",
+    "likhui"
   ],
   "small": {
     "scale": 1.1700000000000002,
@@ -32,5 +40,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

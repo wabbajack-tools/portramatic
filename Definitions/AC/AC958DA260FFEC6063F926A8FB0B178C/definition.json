@@ -2,31 +2,17 @@
   "source": "https://i.pinimg.com/564x/c1/3a/4a/c13a4ae97baf3901149b2b7aaf1e3caf.jpg",
   "md5": "AC958DA260FFEC6063F926A8FB0B178C",
   "tags": [
-    "clothing",
-    "apparel",
-    "person",
-    "human",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "coat",
-    "art",
-    "female",
-    "skin",
-    "overcoat",
-    "jacket",
-    "fashion",
-    "painting",
-    "armor",
-    "figurine",
-    "sweets",
-    "food",
-    "confectionery",
-    "samurai",
+    "drawn",
     "knight",
-    "costume",
-    ""
+    "with",
+    "halberd",
+    "hand",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -46,5 +32,6 @@
     "offset_y": 252,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,28 +1,7 @@
 {
   "source": "https://i.pinimg.com/564x/e3/b3/99/e3b39968dddd12b46cf4fde6f6147fac.jpg",
   "md5": "B84A933771D30C5F19BC613B24FEC2E2",
-  "tags": [
-    "person",
-    "human",
-    "art",
-    "elf",
-    "face",
-    "painting",
-    "portrait",
-    "photography",
-    "photo",
-    "hair",
-    "dress",
-    "clothing",
-    "apparel",
-    "legend of zelda",
-    "drawing",
-    "toy",
-    "armor",
-    "knight",
-    "samurai",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -211,
@@ -41,5 +20,6 @@
     "offset_y": -68,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

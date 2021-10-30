@@ -2,19 +2,22 @@
   "source": "https://static.wikia.nocookie.net/yokai/images/c/c0/Kitsune_ahri_by_nyaruko-d6gzhe4.png/revision/latest/scale-to-width-down/743?cb=20140624025756",
   "md5": "9FDB91888E7875E368AC2D5A1CA62668",
   "tags": [
-    "doll",
-    "toy",
-    "art",
-    "manga",
-    "comics",
-    "book",
-    "angel",
-    "archangel",
-    "person",
-    "human",
-    "female",
+    "anime",
     "kitsune",
-    "sorcerer"
+    "girl",
+    "silver",
+    "full",
+    "body",
+    "angel",
+    "characters",
+    "inuyasha",
+    "madoka",
+    "magica",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -34,5 +37,6 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

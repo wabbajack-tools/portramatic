@@ -1,13 +1,20 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/029/381/236/large/linda-lithen-estinien.jpg?1597349398&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/029/381/236/large/linda-lithen-estinien.jpg?1597349398\u0026dl=1",
   "md5": "FA06FE46B80225DF9B8793630237BD93",
   "tags": [
+    "league",
+    "legends",
+    "red",
     "dragon",
-    "person",
-    "human",
-    "painting",
-    "art",
-    ""
+    "halloween",
+    "skins",
+    "characters",
+    "lars",
+    "astrid",
+    "lucas",
+    "krista",
+    "marizano",
+    "cyano"
   ],
   "small": {
     "scale": 0.96,
@@ -27,5 +34,6 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

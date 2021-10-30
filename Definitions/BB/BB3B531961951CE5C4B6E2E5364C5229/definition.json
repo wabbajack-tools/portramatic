@@ -2,15 +2,32 @@
   "source": "https://i.imgur.com/cAqtZ56.jpeg",
   "md5": "BB3B531961951CE5C4B6E2E5364C5229",
   "tags": [
-    "person",
     "human",
-    "costume",
+    "wizard",
+    "male",
+    "warrior",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
     "knight",
-    "clothing",
-    "apparel",
-    "samurai",
     "armor",
-    ""
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "\u6B66\u50E7",
+    "ningfei",
+    "xu",
+    "alchemist",
+    "kaines",
+    "elande",
+    "reinmar",
+    "konstantin",
+    "porubov"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +47,6 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

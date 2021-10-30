@@ -2,17 +2,15 @@
   "source": "https://getwallpapers.com/wallpaper/full/b/7/9/111603.jpg",
   "md5": "88466EA520F7461C47CF913D9C87924D",
   "tags": [
-    "person",
-    "human",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "costume",
-    "female",
-    "woman",
-    "whip",
-    "weapon",
-    "weaponry",
-    "test"
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "necklace"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -32,5 +30,6 @@
     "offset_y": -8.009259259259238,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

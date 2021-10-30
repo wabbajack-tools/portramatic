@@ -2,13 +2,13 @@
   "source": "https://i.redd.it/vt1p219c6kl71.jpg",
   "md5": "BE539179728B99BB6402C3E4E554B27F",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "gun",
-    "weapon",
-    "weaponry",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "barbarian(practice",
+    "eagle",
+    "jin"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -28,5 +28,6 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,16 +1,7 @@
 {
   "source": "https://cdna.artstation.com/p/assets/images/images/026/780/674/large/jonathan-romeo-sylvanas-sd.jpg?1589719416",
   "md5": "F605CA9A2202AC785080EEA2D2835AB5",
-  "tags": [
-    "costume",
-    "person",
-    "human",
-    "crowd",
-    "elf",
-    "bow",
-    "face",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.26999999999999935,
     "offset_x": -24.80000000000001,
@@ -29,5 +20,6 @@
     "offset_y": -3.2037037037036953,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

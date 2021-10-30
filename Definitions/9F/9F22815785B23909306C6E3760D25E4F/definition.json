@@ -1,28 +1,7 @@
 {
   "source": "https://i.pinimg.com/564x/1d/5f/f8/1d5ff847771aa6e3f47bf98d3b36f128.jpg",
   "md5": "9F22815785B23909306C6E3760D25E4F",
-  "tags": [
-    "head",
-    "person",
-    "human",
-    "face",
-    "portrait",
-    "photography",
-    "photo",
-    "knight",
-    "female",
-    "costume",
-    "clothing",
-    "apparel",
-    "crowd",
-    "woman",
-    "weapon",
-    "weaponry",
-    "male",
-    "ranger",
-    "sword",
-    "ax"
-  ],
+  "tags": [],
   "small": {
     "scale": 1.059999999999999,
     "offset_x": -121.83333333333225,
@@ -41,5 +20,6 @@
     "offset_y": -129.66666666666788,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

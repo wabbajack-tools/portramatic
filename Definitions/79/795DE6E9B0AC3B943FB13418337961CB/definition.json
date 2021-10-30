@@ -2,13 +2,18 @@
   "source": "https://pbs.twimg.com/media/EOPdKL0XUAIc5LK.jpg",
   "md5": "795DE6E9B0AC3B943FB13418337961CB",
   "tags": [
-    "armor",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "legend of zelda",
-    ""
+    "dwarf",
+    "paladin",
+    "female",
+    "cleric",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "whitestone",
+    "darryl",
+    "petrucci"
   ],
   "small": {
     "scale": 1,
@@ -28,5 +33,6 @@
     "offset_y": 42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

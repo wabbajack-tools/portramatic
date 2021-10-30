@@ -2,14 +2,25 @@
   "source": "https://i.imgur.com/i5q4hRa.jpeg",
   "md5": "A9E1ED41B428F4DAF75BDC555DB9BC93",
   "tags": [
-    "person",
-    "human",
+    "knights",
+    "templar",
     "painting",
-    "art",
-    "samurai",
-    "costume",
-    "duel",
-    ""
+    "battle",
+    "uniforms",
+    "medieval",
+    "kingdoms",
+    "amalur",
+    "reckoning",
+    "knight",
+    "armor",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "tristian",
+    "valeriy",
+    "vegera"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +40,6 @@
     "offset_y": 16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

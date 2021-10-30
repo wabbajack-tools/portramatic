@@ -2,23 +2,17 @@
   "source": "https://i.imgur.com/yny6GWV.png",
   "md5": "BBFEB25440A4B10C5CCC326AA725B535",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bird",
-    "animal",
-    "outdoors",
-    "nature",
-    "costume",
-    "soldier",
-    "military",
-    "military uniform",
-    "elf",
-    "land",
-    "photography",
-    "photo",
-    ""
+    "gnome",
+    "fighter",
+    "cleric",
+    "character",
+    "witcher",
+    "orc",
+    "warrior",
+    "guardians",
+    "galaxy",
+    "dark",
+    "elf"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -38,5 +32,6 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

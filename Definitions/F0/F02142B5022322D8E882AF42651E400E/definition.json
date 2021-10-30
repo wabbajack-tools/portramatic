@@ -2,14 +2,8 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/511/473/large/xu-zaoji-08f1e402-b51c-4128-9866-b84008c310d6.jpg?1559660258",
   "md5": "F02142B5022322D8E882AF42651E400E",
   "tags": [
-    "person",
-    "human",
-    "overwatch",
-    "painting",
-    "art",
-    "female",
-    "succubus",
-    "demon"
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 1.04,
@@ -29,5 +23,6 @@
     "offset_y": -3.388888888889028,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

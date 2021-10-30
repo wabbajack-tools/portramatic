@@ -2,14 +2,17 @@
   "source": "https://img-www.tf-cdn.com/artist/10/lindsey-stirling.jpeg",
   "md5": "CD8B07273F7F0E24F6A9DEBCA7712555",
   "tags": [
-    "person",
-    "human",
-    "leisure activities",
-    "violin",
-    "fiddle",
-    "viola",
-    "musical instrument",
-    ""
+    "lindsey",
+    "stirling",
+    "photo",
+    "shoot",
+    "face",
+    "clothes",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "string_instrument",
+    "violin_or_viola"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -29,5 +32,6 @@
     "offset_y": -34.666666666666686,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

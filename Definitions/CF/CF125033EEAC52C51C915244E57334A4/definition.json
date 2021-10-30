@@ -1,17 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/C55C7o1UsAQM1mS?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/C55C7o1UsAQM1mS?format=jpg\u0026name=4096x4096",
   "md5": "CF125033EEAC52C51C915244E57334A4",
-  "tags": [
-    "archer",
-    "archery",
-    "person",
-    "bow",
-    "sport",
-    "human",
-    "sports",
-    "costume",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.38999999999999957,
     "offset_x": -407,
@@ -30,5 +20,6 @@
     "offset_y": -234,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

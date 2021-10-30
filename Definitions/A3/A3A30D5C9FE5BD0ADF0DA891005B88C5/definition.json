@@ -1,18 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/E_VR78sUcAA5Wta?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/E_VR78sUcAA5Wta?format=jpg\u0026name=large",
   "md5": "A3A30D5C9FE5BD0ADF0DA891005B88C5",
-  "tags": [
-    "art",
-    "painting",
-    "person",
-    "human",
-    "animal",
-    "drawing",
-    "graphics",
-    "mammal",
-    "modern art",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1.1,
     "offset_x": -438,
@@ -31,5 +20,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,13 +1,7 @@
 {
   "source": "https://asset.vg247.com/ghost_of_tsushima_directors_cut_02.jpg/BROK/thumbnail/1200x1200/quality/100/ghost_of_tsushima_directors_cut_02.jpg",
   "md5": "7FA4BB6077C244E845DB68C6C2339D14",
-  "tags": [
-    "person",
-    "human",
-    "legend of zelda",
-    "samurai",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1,
     "offset_x": -497,
@@ -26,5 +20,6 @@
     "offset_y": -62,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

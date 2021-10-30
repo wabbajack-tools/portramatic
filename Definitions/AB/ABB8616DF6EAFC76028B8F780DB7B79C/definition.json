@@ -2,15 +2,11 @@
   "source": "https://geekken.files.wordpress.com/2018/07/boar-rider.jpg",
   "md5": "ABB8616DF6EAFC76028B8F780DB7B79C",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "knife",
-    "blade",
-    "weapon",
-    "weaponry",
-    ""
+    "adrian",
+    "smith",
+    "conan",
+    "warhammer",
+    "concept"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -30,5 +26,6 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,11 +2,17 @@
   "source": "https://i.pinimg.com/564x/58/53/00/5853007ae6558bd40e01bb164e20e15b.jpg",
   "md5": "7672E5F8DC5A2B5EB89CE6F6115C2F9A",
   "tags": [
-    "person",
-    "human",
-    "axe",
-    "tool",
-    ""
+    "dwarf",
+    "character",
+    "monk",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.6700000000000006,
@@ -26,5 +32,6 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

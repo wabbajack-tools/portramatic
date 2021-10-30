@@ -2,16 +2,17 @@
   "source": "https://i.pinimg.com/564x/b7/67/ff/b767ff17f010fffe802ef267c62b3501.jpg",
   "md5": "A56795DEE5971FBBA774373417F844FD",
   "tags": [
-    "art",
-    "painting",
-    "person",
-    "human",
-    "hair",
-    "toy",
-    "armor",
-    "knight",
-    "samurai",
-    ""
+    "female",
+    "character",
+    "concept",
+    "elf",
+    "portraits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "watch"
   ],
   "small": {
     "scale": 1.3700000000000003,
@@ -31,5 +32,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

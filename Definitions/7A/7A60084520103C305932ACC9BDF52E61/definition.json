@@ -2,14 +2,20 @@
   "source": "https://i.pinimg.com/564x/a3/1c/ec/a31cec25eb0d6d3d915bee8fb6091301.jpg",
   "md5": "7A60084520103C305932ACC9BDF52E61",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "duel",
-    "costume",
-    "painting",
-    "art",
-    ""
+    "halfling",
+    "character",
+    "warrior",
+    "drawing",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "man",
+    "steel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals"
   ],
   "small": {
     "scale": 1,
@@ -29,5 +35,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

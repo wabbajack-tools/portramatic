@@ -2,14 +2,13 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/935/976/large/andrey-vasilchenko-jess-prequel.jpg?1521659704",
   "md5": "D7CF31BBE737A5EA350AAC0D5C1E2A61",
   "tags": [
-    "person",
-    "human",
-    "sport",
-    "sports",
-    "clothing",
-    "apparel",
     "female",
-    ""
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -29,5 +28,6 @@
     "offset_y": -474,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

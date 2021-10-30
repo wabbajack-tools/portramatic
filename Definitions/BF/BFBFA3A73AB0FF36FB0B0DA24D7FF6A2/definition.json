@@ -2,16 +2,7 @@
   "source": "https://i.pinimg.com/originals/14/e2/dc/14e2dc4cd903bd9138d040f66d1ba018.jpg",
   "md5": "BFBFA3A73AB0FF36FB0B0DA24D7FF6A2",
   "tags": [
-    "person",
-    "human",
-    "bow",
-    "sport",
-    "sports",
-    "arrow",
-    "symbol",
-    "archery",
-    "archer",
-    ""
+    "outdoor"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -31,5 +22,6 @@
     "offset_y": -29.33333333333337,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

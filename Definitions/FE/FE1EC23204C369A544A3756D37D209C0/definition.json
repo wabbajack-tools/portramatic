@@ -2,18 +2,16 @@
   "source": "https://kartinkin.net/uploads/posts/2021-04/1618086971_21-p-elfi-parni-fentezi-21.jpg",
   "md5": "FE1EC23204C369A544A3756D37D209C0",
   "tags": [
+    "male",
     "elf",
-    "person",
-    "human",
-    "female",
     "hair",
-    "bow",
-    "woman",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    ""
+    "character",
+    "thief",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.24999999999999933,
@@ -33,5 +31,6 @@
     "offset_y": 1.3888888888885162,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

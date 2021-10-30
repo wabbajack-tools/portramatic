@@ -2,16 +2,15 @@
   "source": "https://images3.alphacoders.com/590/590985.jpg",
   "md5": "7E70A4153B8666B06C2A7E4581E26D3A",
   "tags": [
-    "person",
-    "human",
-    "painting",
-    "art",
-    "clothing",
-    "apparel",
-    "costume",
-    "graphics",
-    "lightning",
-    "mage"
+    "wizard",
+    "sorcerer",
+    "mage",
+    "magic",
+    "spells",
+    "harry",
+    "potter",
+    "prisoner",
+    "azkaban"
   ],
   "small": {
     "scale": 0.46999999999999953,
@@ -31,5 +30,6 @@
     "offset_y": -35,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

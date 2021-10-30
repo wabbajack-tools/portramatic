@@ -2,13 +2,19 @@
   "source": "https://pbs.twimg.com/media/DahOqSiU0AAvWuV.jpg",
   "md5": "A451A989D14EF0ECB89C36883BA6A242",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "knight",
-    ""
+    "dd",
+    "barbarian",
+    "goliath",
+    "fighter",
+    "lich",
+    "king",
+    "league",
+    "legends",
+    "elder",
+    "scrolls",
+    "online",
+    "death",
+    "knight"
   ],
   "small": {
     "scale": 0.96,
@@ -28,5 +34,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

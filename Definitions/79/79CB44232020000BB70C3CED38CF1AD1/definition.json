@@ -2,21 +2,23 @@
   "source": "https://i.pinimg.com/564x/88/0a/83/880a83d050788de8ecb1d4d57467e4f7.jpg",
   "md5": "79CB44232020000BB70C3CED38CF1AD1",
   "tags": [
-    "person",
-    "human",
-    "world of warcraft",
-    "final fantasy",
-    "clothing",
-    "apparel",
-    "duel",
-    "ninja",
-    "photography",
-    "photo",
-    "light",
-    "face",
-    "machine",
-    "samurai",
-    "mage"
+    "mage",
+    "concept",
+    "dark",
+    "elf",
+    "sorcerer",
+    "drawings",
+    "lich",
+    "king",
+    "knight",
+    "armor",
+    "power",
+    "witcher",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -36,5 +38,6 @@
     "offset_y": -44.82407407407413,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

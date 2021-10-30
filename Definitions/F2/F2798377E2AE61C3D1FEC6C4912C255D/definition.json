@@ -2,15 +2,19 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/005/672/019/4k/valeriy-vegera-executioner.jpg?1492896180",
   "md5": "F2798377E2AE61C3D1FEC6C4912C255D",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "wood",
-    "painting",
-    "art",
-    "bronze",
-    "knight",
-    ""
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "miniatures",
+    "world",
+    "warcraft",
+    "mounts",
+    "war",
+    "horse",
+    "dragon",
+    "age",
+    "origins"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -30,5 +34,6 @@
     "offset_y": -60,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

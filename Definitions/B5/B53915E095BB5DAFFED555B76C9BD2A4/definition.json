@@ -1,22 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/Ejpc-NJXsAMAZSk?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/Ejpc-NJXsAMAZSk?format=jpg\u0026name=4096x4096",
   "md5": "B53915E095BB5DAFFED555B76C9BD2A4",
-  "tags": [
-    "art",
-    "person",
-    "human",
-    "angel",
-    "archangel",
-    "painting",
-    "overwatch",
-    "helmet",
-    "clothing",
-    "apparel",
-    "comics",
-    "book",
-    "manga",
-    "shirabe"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -559,
@@ -35,5 +20,6 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

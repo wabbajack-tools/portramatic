@@ -1,17 +1,15 @@
 {
-  "source": "https://pbs.twimg.com/media/E05cc5RVUAE1ILz?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/E05cc5RVUAE1ILz?format=jpg\u0026name=large",
   "md5": "8A760B7C9B7C21C52671BC630E5F50E2",
   "tags": [
-    "skin",
-    "person",
-    "human",
-    "man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "arm",
-    "torso",
-    "hat",
-    ""
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.4399999999999995,
@@ -31,5 +29,6 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

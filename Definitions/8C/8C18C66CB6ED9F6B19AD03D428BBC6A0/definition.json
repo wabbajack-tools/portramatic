@@ -1,9 +1,7 @@
 {
-  "source": "https://pbs.twimg.com/media/Em3wikhUwAAhVvb?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/Em3wikhUwAAhVvb?format=jpg\u0026name=large",
   "md5": "8C18C66CB6ED9F6B19AD03D428BBC6A0",
-  "tags": [
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -182,
@@ -22,5 +20,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

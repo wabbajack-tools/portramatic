@@ -1,20 +1,7 @@
 {
   "source": "http://tiebapic.baidu.com/forum/w%3D580/sign=351e49def251f3dec3b2b96ca4eef0ec/199051550923dd54fe46267c8c09b3de9c824876.jpg",
   "md5": "B5365F9EE146A23D9FDE2EFC0B4751D7",
-  "tags": [
-    "comics",
-    "book",
-    "manga",
-    "clothing",
-    "apparel",
-    "doll",
-    "toy",
-    "person",
-    "human",
-    "graphics",
-    "art",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 1.08,
     "offset_x": -106,
@@ -33,5 +20,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

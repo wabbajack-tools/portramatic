@@ -2,15 +2,11 @@
   "source": "https://i.pinimg.com/474x/88/a5/ee/88a5ee69c4195862d2d6e0949073dcf1.jpg",
   "md5": "7FBFF49C01225D9B94FFA8833D3B22A2",
   "tags": [
-    "person",
-    "human",
-    "cello",
-    "musical instrument",
-    "leisure activities",
-    "violin",
-    "fiddle",
-    "viola",
-    ""
+    "male",
+    "elf",
+    "bard",
+    "dark",
+    "female"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -30,5 +26,6 @@
     "offset_y": -2.666666666666572,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

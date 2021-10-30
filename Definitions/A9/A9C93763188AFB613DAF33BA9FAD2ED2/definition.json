@@ -1,31 +1,14 @@
 {
-  "source": "https://images.unsplash.com/photo-1606863478624-86c15970e840?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=765&q=80",
+  "source": "https://images.unsplash.com/photo-1606863478624-86c15970e840?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\u0026ixlib=rb-1.2.1\u0026auto=format\u0026fit=crop\u0026w=765\u0026q=80",
   "md5": "A9C93763188AFB613DAF33BA9FAD2ED2",
   "tags": [
+    "sonika",
+    "vaid",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "person",
-    "human",
-    "art",
-    "female",
-    "evening dress",
-    "fashion",
-    "gown",
-    "robe",
-    "horse",
-    "animal",
-    "mammal",
-    "woman",
-    "portrait",
-    "photography",
-    "face",
-    "photo",
-    "angel",
-    "archangel",
     "dress",
-    "elephant",
-    "wildlife",
-    ""
+    "casual_dress"
   ],
   "small": {
     "scale": 1,
@@ -45,5 +28,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

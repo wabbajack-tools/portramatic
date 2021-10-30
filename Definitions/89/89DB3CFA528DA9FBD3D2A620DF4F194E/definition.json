@@ -2,29 +2,16 @@
   "source": "https://i.pinimg.com/564x/af/72/8f/af728f929fae196b34815099e0d1229d.jpg",
   "md5": "89DB3CFA528DA9FBD3D2A620DF4F194E",
   "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "drawing",
-    "skin",
-    "sketch",
-    "canvas",
+    "luis",
+    "royo",
     "female",
-    "angel",
-    "archangel",
-    "horse",
-    "animal",
-    "mammal",
-    "land",
-    "outdoors",
-    "nature",
-    "vegetation",
-    "plant",
-    "book",
-    "demon",
-    "succubus",
-    "tiefling"
+    "demons",
+    "gallery",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "boots"
   ],
   "small": {
     "scale": 1.4900000000000004,
@@ -44,5 +31,6 @@
     "offset_y": -33.12082262210811,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

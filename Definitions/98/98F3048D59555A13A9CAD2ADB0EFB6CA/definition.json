@@ -1,39 +1,14 @@
 {
-  "source": "https://pbs.twimg.com/media/EZHpqNkXkAAACJu?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EZHpqNkXkAAACJu?format=jpg\u0026name=large",
   "md5": "98F3048D59555A13A9CAD2ADB0EFB6CA",
   "tags": [
-    "person",
-    "human",
-    "carnival",
-    "crowd",
-    "mardi gras",
-    "parade",
-    "photography",
-    "photo",
-    "portrait",
-    "face",
-    "head",
-    "hair",
-    "costume",
-    "final fantasy",
-    "clothing",
-    "apparel",
-    "vegetation",
-    "plant",
-    "outdoors",
-    "elephant",
-    "animal",
-    "wildlife",
-    "mammal",
-    "tree",
-    "land",
-    "nature",
-    "art",
-    "female",
-    "skin",
-    "drawing",
-    "wood",
-    ""
+    "tiefling",
+    "race",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3099999999999994,
@@ -53,5 +28,6 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

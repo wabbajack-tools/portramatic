@@ -2,11 +2,16 @@
   "source": "https://i.pinimg.com/564x/64/99/95/6499958e5b98c203b2662a8fcfbf77b8.jpg",
   "md5": "A9693535C3DF58C82FDE56AB60934394",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "world of warcraft",
-    ""
+    "evil",
+    "demon",
+    "armor",
+    "black",
+    "concept",
+    "knight",
+    "templar",
+    "otavio",
+    "liborio",
+    "guerreiros"
   ],
   "small": {
     "scale": 1.7300000000000006,
@@ -23,8 +28,9 @@
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
-    "offset_y": 1.1368683772161603e-13,
+    "offset_y": 1.1368683772161603E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

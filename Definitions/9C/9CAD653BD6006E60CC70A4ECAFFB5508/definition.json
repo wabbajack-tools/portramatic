@@ -2,18 +2,16 @@
   "source": "http://zeichenblog.mia-steingraeber.de/wp-content/uploads/15_Manwes-Schatten.jpg",
   "md5": "9CAD653BD6006E60CC70A4ECAFFB5508",
   "tags": [
-    "bird",
-    "animal",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "eagle",
-    "vulture",
-    "hawk",
-    "buzzard",
-    "accipiter",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "silver",
+    "wolf",
+    "knight.",
+    "kang",
+    "jihun",
+    "knight"
   ],
   "small": {
     "scale": 1.1800000000000002,
@@ -33,5 +31,6 @@
     "offset_y": -1.814814814815179,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

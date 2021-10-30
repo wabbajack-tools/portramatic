@@ -2,15 +2,12 @@
   "source": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/b/b0/JamandiAldori.png/revision/latest/scale-to-width-down/692?cb=20180927134336",
   "md5": "EFED740EA4933CE600FA22C1F924A828",
   "tags": [
-    "person",
-    "human",
-    "samurai",
-    "duel",
-    "painting",
-    "art",
-    "armor",
-    "bowl",
-    ""
+    "aldori",
+    "swordlord",
+    "dueling",
+    "with",
+    "swords",
+    "skyrim"
   ],
   "small": {
     "scale": 1,
@@ -30,5 +27,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

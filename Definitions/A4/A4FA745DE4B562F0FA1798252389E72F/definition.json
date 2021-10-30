@@ -2,14 +2,13 @@
   "source": "https://i.imgur.com/TPAINlJ.png",
   "md5": "A4FA745DE4B562F0FA1798252389E72F",
   "tags": [
-    "person",
-    "human",
-    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "armor",
-    "samurai",
-    ""
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -29,5 +28,6 @@
     "offset_y": -94.80000000000007,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -1,36 +1,7 @@
 {
   "source": "https://i.redd.it/jykqeb96glu71.jpg",
   "md5": "BD9D8A24E37CEF07453706C02A4FE7D2",
-  "tags": [
-    "clothing",
-    "apparel",
-    "painting",
-    "art",
-    "book",
-    "comics",
-    "person",
-    "human",
-    "costume",
-    "gun",
-    "weapon",
-    "weaponry",
-    "samurai",
-    "face",
-    "elf",
-    "photography",
-    "photo",
-    "portrait",
-    "drawing",
-    "head",
-    "water",
-    "outdoors",
-    "sfw",
-    "male",
-    "sword",
-    "cleric",
-    "inquisitor",
-    "mage"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.95,
     "offset_x": -426.6,
@@ -49,5 +20,6 @@
     "offset_y": -284.39999999999986,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

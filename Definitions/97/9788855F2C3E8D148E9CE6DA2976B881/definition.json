@@ -2,13 +2,28 @@
   "source": "https://i.pinimg.com/564x/70/75/6e/70756e448e7f8b7e0166a5a62eb6d228.jpg",
   "md5": "9788855F2C3E8D148E9CE6DA2976B881",
   "tags": [
-    "person",
-    "human",
+    "female",
+    "elf",
+    "sorcerer",
+    "wizard",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "samurai",
-    "world of warcraft",
-    ""
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "zombie",
+    "hunter",
+    "kim",
+    "ha",
+    "yeong",
+    "characters",
+    "draenei",
+    "death",
+    "knight",
+    "andrea",
+    "koupal"
   ],
   "small": {
     "scale": 1.7100000000000006,
@@ -25,8 +40,9 @@
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
-    "offset_y": 1.1368683772161603e-13,
+    "offset_y": 1.1368683772161603E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

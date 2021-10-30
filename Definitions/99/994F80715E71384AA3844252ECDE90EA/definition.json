@@ -2,21 +2,15 @@
   "source": "http://www.ddarling.ca/dd/live/pc/shodan/bigred1.jpg",
   "md5": "994F80715E71384AA3844252ECDE90EA",
   "tags": [
-    "costume",
+    "league",
+    "legends",
+    "blood",
     "elf",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bow",
-    "angel",
-    "archangel",
-    "world of warcraft",
-    "demon",
-    "succubus",
-    "tiefling",
-    "mage",
-    "caster"
+    "game",
+    "thrones",
+    "daenerys",
+    "oskar",
+    "mellblom"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -36,5 +30,6 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,31 +2,17 @@
   "source": "https://64.media.tumblr.com/c096f3b924ca7920fd75d7fb9e3dfe55/55b8e4aa0c820be5-c2/s1280x1920/2ddacacad50a48c651adc90ac9498f80535b3cea.png",
   "md5": "E7BBBDE22E2E80ABDC28A40C5CC0A49C",
   "tags": [
-    "costume",
-    "person",
-    "human",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "footwear",
-    "female",
-    "pirate",
-    "sport",
-    "sports",
-    "art",
-    "angel",
-    "archangel",
-    "archery",
-    "bow",
-    "elf",
-    "table",
-    "furniture",
-    "skin",
-    "fashion",
-    "people",
-    "horse",
-    "animal",
-    "mammal",
-    "aasimar"
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "girl",
+    "black",
+    "\u3010\u8D30\u96F6\u58F9\u53C1\u3011",
+    "\u708E\u708E"
   ],
   "small": {
     "scale": 0.47999999999999954,
@@ -46,5 +32,6 @@
     "offset_y": -17,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

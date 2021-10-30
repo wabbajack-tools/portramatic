@@ -1,17 +1,14 @@
 {
-  "source": "https://pbs.twimg.com/media/EWkLdzxUcAAws9f?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EWkLdzxUcAAws9f?format=jpg\u0026name=large",
   "md5": "84A20A3E59085676A13CFB995294918E",
   "tags": [
-    "person",
-    "human",
-    "duel",
-    "manga",
-    "book",
-    "comics",
-    "final fantasy",
-    "animal",
-    "bird",
-    ""
+    "bleach",
+    "estrid",
+    "witch",
+    "https://www.artstation.com/quihnn",
+    "yautja",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 0.46999999999999953,
@@ -31,5 +28,6 @@
     "offset_y": -10.5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

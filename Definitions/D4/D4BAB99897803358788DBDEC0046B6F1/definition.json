@@ -1,25 +1,7 @@
 {
   "source": "https://i.pinimg.com/564x/fe/0a/c5/fe0ac5459b40ec9ff6c92860cf3a1f02.jpg",
   "md5": "D4BAB99897803358788DBDEC0046B6F1",
-  "tags": [
-    "elf",
-    "costume",
-    "person",
-    "human",
-    "face",
-    "scarf",
-    "clothing",
-    "apparel",
-    "graphics",
-    "art",
-    "crowd",
-    "overwatch",
-    "crystal",
-    "female",
-    "frost",
-    "ice",
-    "mage"
-  ],
+  "tags": [],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -16,
@@ -38,5 +20,6 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

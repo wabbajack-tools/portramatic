@@ -2,16 +2,10 @@
   "source": "https://i.redd.it/g57oespyerf41.jpg",
   "md5": "DD1574FACC77589E026AE6EFCBAD8A22",
   "tags": [
-    "person",
-    "human",
-    "archery",
-    "sport",
-    "bow",
-    "sports",
-    "painting",
-    "art",
-    "archer",
-    "Pirate"
+    "pirate",
+    "character",
+    "woman",
+    "black"
   ],
   "small": {
     "scale": 1,
@@ -31,5 +25,6 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

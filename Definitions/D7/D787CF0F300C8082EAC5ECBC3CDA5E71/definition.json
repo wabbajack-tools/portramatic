@@ -2,14 +2,9 @@
   "source": "https://img3.gelbooru.com//samples/12/40/sample_1240b900172069702021a44e9d1da954.jpg",
   "md5": "D787CF0F300C8082EAC5ECBC3CDA5E71",
   "tags": [
-    "comics",
-    "book",
-    "manga",
-    "graphics",
-    "art",
-    "costume",
-    "shirabe",
-    "devil"
+    "anime",
+    "girl",
+    "characters"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -29,5 +24,6 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

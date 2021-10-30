@@ -1,15 +1,7 @@
 {
   "source": "https://cdna.artstation.com/p/assets/images/images/000/498/890/large/filipe-pagliuso-birdghost-drawcrowd.jpg?1443930621",
   "md5": "B0A79ED418A1693D0FC9BC7ECA0C3BDC",
-  "tags": [
-    "painting",
-    "art",
-    "person",
-    "human",
-    "festival",
-    "crowd",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -239,
@@ -28,5 +20,6 @@
     "offset_y": -118,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

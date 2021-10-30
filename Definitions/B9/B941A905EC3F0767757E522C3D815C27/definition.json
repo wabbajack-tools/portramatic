@@ -2,17 +2,19 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/023/767/830/large/andrius-matijosius-birch-elf-13s.jpg?1580282224",
   "md5": "B941A905EC3F0767757E522C3D815C27",
   "tags": [
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "person",
-    "human",
-    "fashion",
-    "cloak",
-    "robe",
-    "coat",
-    "overcoat",
-    "poncho",
-    ""
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.1800000000000002,
@@ -32,5 +34,6 @@
     "offset_y": -1.814814814815179,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

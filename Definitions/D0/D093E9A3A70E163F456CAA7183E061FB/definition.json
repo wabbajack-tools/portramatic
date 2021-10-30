@@ -2,26 +2,17 @@
   "source": "https://freshcomics.s3.amazonaws.com/issue_covers/JAN201162.jpg",
   "md5": "D093E9A3A70E163F456CAA7183E061FB",
   "tags": [
-    "person",
-    "human",
-    "skin",
+    "dejah",
+    "thoris",
+    "green",
+    "drawn",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
     "clothing",
-    "apparel",
-    "art",
-    "blonde",
-    "teen",
-    "kid",
-    "child",
-    "female",
-    "woman",
-    "girl",
-    "painting",
-    "sitting",
-    "drawing",
-    "furniture",
-    "assassin",
-    "rogue",
-    "elf"
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.7499999999999998,
@@ -41,5 +32,6 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

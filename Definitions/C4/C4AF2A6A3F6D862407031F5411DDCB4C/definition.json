@@ -2,15 +2,20 @@
   "source": "https://pbs.twimg.com/media/E6VmAaOWQAEATv3.jpg",
   "md5": "C4AF2A6A3F6D862407031F5411DDCB4C",
   "tags": [
-    "person",
-    "human",
-    "costume",
-    "face",
+    "loki",
+    "hiddleston",
+    "from",
+    "avengers",
+    "thor",
+    "tom",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
     "clothing",
-    "apparel",
-    "female",
-    "girl",
-    ""
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7899999999999998,
@@ -30,5 +35,6 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

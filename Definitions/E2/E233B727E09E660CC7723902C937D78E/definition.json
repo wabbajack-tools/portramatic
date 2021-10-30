@@ -1,17 +1,7 @@
 {
   "source": "https://i.ibb.co/0h9JXp6/dec4upe-cc74172d-f1e8-45d4-8ca0-44ed875d3b68.jpg",
   "md5": "E233B727E09E660CC7723902C937D78E",
-  "tags": [
-    "dragon",
-    "person",
-    "human",
-    "painting",
-    "art",
-    "bonfire",
-    "fire",
-    "flame",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -461,
@@ -30,5 +20,6 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

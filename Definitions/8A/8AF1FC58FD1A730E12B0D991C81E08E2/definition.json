@@ -1,15 +1,22 @@
 {
-  "source": "https://pbs.twimg.com/media/El8j1xTWkAMjJn_?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/El8j1xTWkAMjJn_?format=jpg\u0026name=large",
   "md5": "8AF1FC58FD1A730E12B0D991C81E08E2",
   "tags": [
-    "comics",
-    "book",
-    "manga",
-    "person",
-    "human",
-    "arius",
-    "combat",
-    "mage"
+    "queen",
+    "blades",
+    "night",
+    "elf",
+    "half-elf",
+    "bards",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "tiefling",
+    "mage",
+    "her",
+    "wispy",
+    "familiar",
+    "levi",
+    "hinton"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -29,5 +36,6 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

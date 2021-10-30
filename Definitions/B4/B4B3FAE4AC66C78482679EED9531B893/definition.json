@@ -2,27 +2,11 @@
   "source": "https://clydecaldwell.com/wp-content/uploads/2016/03/Armed-Dangerous.jpg",
   "md5": "B4B3FAE4AC66C78482679EED9531B893",
   "tags": [
-    "clothing",
-    "apparel",
-    "bird",
-    "animal",
-    "person",
-    "human",
-    "costume",
-    "skin",
-    "footwear",
-    "female",
-    "people",
-    "boot",
-    "photography",
-    "photo",
-    "shoe",
-    "drawing",
-    "art",
-    "wood",
-    "text",
-    "pants",
-    ""
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -42,5 +26,6 @@
     "offset_y": -90,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

@@ -2,16 +2,21 @@
   "source": "https://i.imgur.com/jv0HYP6.png?1",
   "md5": "CB6E221ED4E0F5C09DFB93B575D63F37",
   "tags": [
-    "person",
-    "human",
-    "shoe",
-    "clothing",
-    "footwear",
-    "apparel",
+    "side",
+    "face",
+    "man",
+    "4",
+    "female",
+    "heavy",
     "armor",
+    "armors",
     "knight",
-    "samurai",
-    ""
+    "plate",
+    "assassin",
+    "imperial",
+    "lizardfolk",
+    "bianca",
+    "papalardo"
   ],
   "small": {
     "scale": 1.5800000000000005,
@@ -27,9 +32,10 @@
   },
   "full": {
     "scale": 0.9999999999999989,
-    "offset_x": -6.821210263296962e-13,
+    "offset_x": -6.821210263296962E-13,
     "offset_y": -1.3333333333338828,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

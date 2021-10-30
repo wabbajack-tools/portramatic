@@ -1,21 +1,7 @@
 {
   "source": "https://i.redd.it/ae1d3sj3vni71.jpg",
   "md5": "FCB69221D838FC81BB3481AB074BFC5A",
-  "tags": [
-    "armor",
-    "person",
-    "human",
-    "clothing",
-    "apparel",
-    "bronze",
-    "figurine",
-    "costume",
-    "sleeve",
-    "toy",
-    "knight",
-    "samurai",
-    ""
-  ],
+  "tags": [],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -491,
@@ -34,5 +20,6 @@
     "offset_y": -204,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

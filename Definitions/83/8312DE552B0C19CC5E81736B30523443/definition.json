@@ -2,19 +2,8 @@
   "source": "https://i.imgur.com/MLkLFK3.jpeg",
   "md5": "8312DE552B0C19CC5E81736B30523443",
   "tags": [
-    "person",
-    "human",
-    "helmet",
-    "clothing",
-    "apparel",
-    "helicopter",
-    "transportation",
-    "vehicle",
-    "aircraft",
-    "halo",
-    "caster",
-    "female",
-    "elf"
+    "wlop",
+    "artist"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -34,5 +23,6 @@
     "offset_y": -9.611111111111086,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

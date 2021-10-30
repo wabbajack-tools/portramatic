@@ -2,19 +2,17 @@
   "source": "https://i.pinimg.com/736x/cd/d9/37/cdd93730faa727a132c8a2fb170c8c5a.jpg",
   "md5": "DDA36002621A903B3B59B17C71AEFAA0",
   "tags": [
-    "person",
-    "human",
-    "musician",
-    "musical instrument",
-    "helmet",
-    "clothing",
-    "apparel",
-    "drum",
-    "percussion",
-    "manga",
-    "book",
-    "comics",
-    ""
+    "tiefling",
+    "drawing",
+    "sorcerer",
+    "purple",
+    "male",
+    "bard",
+    "league",
+    "legends",
+    "abercrombie",
+    "ariel",
+    "fain"
   ],
   "small": {
     "scale": 0.4399999999999995,
@@ -30,9 +28,10 @@
   },
   "full": {
     "scale": 1.08,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -9.611111111111427,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true
 }

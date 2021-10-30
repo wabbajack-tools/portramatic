@@ -9,7 +9,28 @@
     "bird",
     "animal",
     "samurai",
-    ""
+    "",
+    "league",
+    "legends",
+    "alien",
+    "vs",
+    "predator",
+    "warrior",
+    "wow",
+    "undead",
+    "death",
+    "knight",
+    "world",
+    "warcraft",
+    "rogue",
+    "techno-mage",
+    "nikolay",
+    "zakharov",
+    "ruined",
+    "katarina",
+    "splash",
+    "fan-art",
+    "shotgun"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -29,5 +50,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

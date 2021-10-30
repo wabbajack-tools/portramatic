@@ -133,7 +133,8 @@ class Program
                     {
                         if (!definition.Requeried && FindTags)
                         {
-                            definition.Tags = definition.Tags.Concat(await GetLabels(definition.Source)).Distinct().ToArray();
+                            var newLabels = await GetLabels(definition.Source);
+                            definition.Tags = definition.Tags.Concat(newLabels).Distinct().ToArray();
                             definition.Requeried = true;
                             var json = JsonSerializer.Serialize(definition, jsonOptions);
                             await File.WriteAllTextAsync(itm.Item2, json, token);

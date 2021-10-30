@@ -83,11 +83,12 @@ namespace Portramatic.ViewModels
                     if (s == "") return itm => true;
                     var split = s.Replace(",", "").Split(" ",
                         StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries);
-                    return itm => split.Any(s => itm.Definition.Tags.Contains(s));
+                    return itm => split.All(s => itm.Definition.Tags.Any(tag => tag.Contains(s)));
                 });
 
             _galleryItems.Connect()
                 .ObserveOn(RxApp.MainThreadScheduler)
+                .Filter(e => e.Definition.Requeried)
                 .Filter(filterFunction)
                 .Bind(out _data)
                 .Subscribe();

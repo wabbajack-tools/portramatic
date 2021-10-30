@@ -105,7 +105,7 @@ class Program
                     from dest in hashes
                     where src.Definition.MD5 != dest.Definition.MD5
                     let cross = ImagePhash.GetCrossCorrelation(src.Hash, dest.Hash)
-                    where cross >= 0.99f
+                    where cross >= 0.9f
                     where src.Size.Width * src.Size.Height >= dest.Size.Width * dest.Size.Height
                     group (dest, cross) by src.Definition.MD5 into result
                     select result;

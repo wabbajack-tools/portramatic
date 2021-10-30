@@ -27,6 +27,9 @@ class Program
 
     private static TimeSpan WaitTime = TimeSpan.FromSeconds(1);
     private static Stopwatch QueryTimer = new();
+    
+    public static bool FindTags => Environment.GetEnvironmentVariable("SCRAPER_APIKEY") != null && false;
+    
 
     public static async Task<int> Main(string[] args)
     {
@@ -57,7 +60,7 @@ class Program
 
         Console.WriteLine($"Loaded {definitions.Count} definitions, creating gallery files");
 
-        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = 2};
+        var pOptions = new ParallelOptions() {MaxDegreeOfParallelism = FindTags ? 2 : 32};
 
         var outputMemoryStream = new MemoryStream();
         {
@@ -73,7 +76,7 @@ class Program
                     {
                         bool reSave = false;
                     var (definition, path, idx) = itm;
-                    if (!definition.Requeried && Environment.GetEnvironmentVariable("SCRAPER_APIKEY") != null)
+                    if (!definition.Requeried && FindTags)
                     {
                         definition.Tags = await GetLabels(definition.Source);
                         definition.Requeried = true;

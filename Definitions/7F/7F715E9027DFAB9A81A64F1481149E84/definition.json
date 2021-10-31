@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/eQSTSbr.jpeg",
+  "md5": "7F715E9027DFAB9A81A64F1481149E84",
+  "tags": [
+    "elf",
+    "armored",
+    "fighter",
+    "sword",
+    "shield"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -150,
+    "offset_y": -10,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -62,
+    "offset_y": -21,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -6,
+    "offset_y": -12,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

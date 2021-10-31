@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/564x/48/c7/f3/48c7f39f4525424270a1e5fd0c6fa242.jpg",
+  "md5": "AFA39E9D2C560C2E31EE8E5F2F4B196F",
+  "tags": [
+    "Elf",
+    "magus",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.5400000000000005,
+    "offset_x": -327,
+    "offset_y": -17,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -132,
+    "offset_y": -21,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.4600000000000004,
+    "offset_x": -74,
+    "offset_y": -22,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

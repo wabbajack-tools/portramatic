@@ -18,7 +18,26 @@
     "female",
     "frost",
     "ice",
-    "mage"
+    "mage",
+    "vampire",
+    "fan",
+    "modern",
+    "league",
+    "legends",
+    "warhammer",
+    "40k",
+    "saber",
+    "alter",
+    "gold",
+    "can",
+    "shyvana",
+    "login",
+    "screen",
+    "2d",
+    "lydia",
+    "qx",
+    "artstation.",
+    "dark"
   ],
   "small": {
     "scale": 0.5999999999999996,
@@ -38,5 +57,7 @@
     "offset_y": -46,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

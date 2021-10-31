@@ -13,7 +13,26 @@
     "comics",
     "female",
     "demon",
-    "succubus"
+    "succubus",
+    "outfit",
+    "clothes",
+    "league",
+    "legends",
+    "haila",
+    "hela",
+    "zhang",
+    "dameng",
+    "concept",
+    "morrigan",
+    "moonlight",
+    "michelle",
+    "pao",
+    "dark",
+    "elves",
+    "ennn",
+    "liao",
+    "ideas",
+    "2019"
   ],
   "small": {
     "scale": 0.97,
@@ -33,5 +52,7 @@
     "offset_y": -60.435185185184764,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

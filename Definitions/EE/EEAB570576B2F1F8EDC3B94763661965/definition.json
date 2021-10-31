@@ -5,7 +5,27 @@
     "person",
     "human",
     "ninja",
-    ""
+    "",
+    "drow",
+    "elf",
+    "wizard",
+    "female",
+    "dark",
+    "witch",
+    "sorcerer",
+    "assassin",
+    "queen",
+    "coast",
+    "alessandro",
+    "musumeci",
+    "morrow",
+    "steampunk",
+    "necromancer",
+    "jakub",
+    "bazyluk",
+    "lady",
+    "jessie",
+    "lam"
   ],
   "small": {
     "scale": 1.04,
@@ -25,5 +45,7 @@
     "offset_y": -36,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

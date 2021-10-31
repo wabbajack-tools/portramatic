@@ -6,7 +6,20 @@
     "human",
     "painting",
     "art",
-    ""
+    "",
+    "evil",
+    "dead",
+    "necromancer",
+    "mark",
+    "pancham",
+    "maverick",
+    "maxim",
+    "marenkov",
+    "barbarian",
+    "angel",
+    "palacios",
+    "warrior",
+    "woman"
   ],
   "small": {
     "scale": 1.12,
@@ -26,5 +39,7 @@
     "offset_y": -9.40740740740739,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

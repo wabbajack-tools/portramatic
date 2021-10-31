@@ -2,7 +2,11 @@
   "source": "http://press.icewinddale.com/icewind_dale_enhanced_edition/images/male_mage_thief.png",
   "md5": "10EA41AAE3CF8461E5070C1F13EC8D8A",
   "tags": [
-    ""
+    "",
+    "icewind",
+    "dale",
+    "ii",
+    "game"
   ],
   "small": {
     "scale": 0.2199999999999993,
@@ -22,5 +26,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

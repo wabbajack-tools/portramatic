@@ -1,4 +1,3 @@
-const AWS = require("@aws-sdk/client-rekognition");
 
 addEventListener("fetch", (event) => {
     event.respondWith(
@@ -94,42 +93,6 @@ async function putUpdateContent(body, sha) {
         });
     if (response.status != 201) return false;
     return true;
-}
-
-function awsCreds() {
-    return {
-        accessKeyId: AWS_ACCESSKEY,
-        secretAccessKey: AWS_SECRETKEY
-    }
-}
-
-async function labelImage(body) {
-    const imageResponse = await fetch(body.source);
-    if (imageResponse.status != 200) return null;
-    const imageData = await imageResponse.arrayBuffer();
-    console.log(`Loaded ${imageData.byteLength} bytes from source`);
-
-    const rekognition = new AWS.Rekognition({
-        region: "us-west-1",
-        credentialDefaultProvider: awsCreds
-    });
-
-    const allLabels = [];
-
-    const moderation = await rekognition.detectModerationLabels({
-        Image: {Bytes: new Uint8Array(imageData)},
-        MinConfidence: 80
-    })
-    console.log(JSON.stringify(moderation));
-    
-    var modlabels = moderation.ModerationLabels.filter(label => label.Name != "Suggestive" && label.ParentName != "Suggestive");
-    
-    if (modlabels.length != 0) {
-        await MODERATED_LOG.put(Date.now(), JSON.stringify({source: body.source, labels: moderation.ModerationLabels}, null, 2));
-        return null;
-    }
-
-    return allLabels;
 }
 
 // Handle the main request 

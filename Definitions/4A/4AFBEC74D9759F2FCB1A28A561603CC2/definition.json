@@ -6,7 +6,21 @@
     "painting",
     "art",
     "demon",
-    "devil"
+    "devil",
+    "red",
+    "dragon",
+    "ruvell",
+    "arcane",
+    "wizard",
+    "maria",
+    "dedevesi",
+    "degang",
+    "guo",
+    "john",
+    "searcher",
+    "https://www",
+    "\u79D8\u5883\u5BF9\u51B3",
+    "donfoo"
   ],
   "small": {
     "scale": 0.16999999999999926,
@@ -26,5 +40,7 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

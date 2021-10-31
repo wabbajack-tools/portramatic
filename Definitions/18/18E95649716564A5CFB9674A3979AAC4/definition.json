@@ -12,7 +12,27 @@
     "angel",
     "archangel",
     "world of warcraft",
-    "female mage"
+    "female mage",
+    "beautiful",
+    "anime",
+    "ballerina",
+    "girl",
+    "picture",
+    "kimono",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "wallpaper",
+    "girls",
+    "render",
+    "1920x2138",
+    "carlos",
+    "lee",
+    "digital",
+    "tong",
+    "zhuo"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -32,5 +52,7 @@
     "offset_y": -23.999999999999545,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

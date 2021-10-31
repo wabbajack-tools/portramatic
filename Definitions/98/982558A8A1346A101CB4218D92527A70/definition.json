@@ -8,7 +8,34 @@
     "fire",
     "flame",
     "dragon",
-    ""
+    "",
+    "red",
+    "demon",
+    "woman",
+    "female",
+    "girl",
+    "artwork",
+    "anime",
+    "dynasty",
+    "warriors",
+    "orc",
+    "warrior",
+    "spartan",
+    "conan",
+    "barbarian",
+    "evil",
+    "women",
+    "xu",
+    "pengcheng",
+    "queen",
+    "concept",
+    "leona",
+    "dante",
+    "liu",
+    "igor",
+    "grechanyi",
+    "steampunk",
+    "characters"
   ],
   "small": {
     "scale": 1.07,
@@ -28,5 +55,7 @@
     "offset_y": -58,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

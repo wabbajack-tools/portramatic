@@ -12,7 +12,18 @@
     "mammal",
     "samurai",
     "knight",
-    ""
+    "",
+    "desert",
+    "prince",
+    "guan",
+    "yu",
+    "chen",
+    "blue",
+    "archerist",
+    "daybreak",
+    "sora",
+    "kim",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1,
@@ -32,5 +43,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

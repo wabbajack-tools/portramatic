@@ -1,5 +1,5 @@
 {
-  "source": "https://sun9-6.userapi.com/impg/YWpbmHy4fISgI4BYGPMXHZOA_YvBSqBHn9oPfg/ZM7BdYkHfik.jpg?size=811x1123&quality=96&sign=2d6a9968d8c89c77e403217c93259faa&type=album",
+  "source": "https://sun9-6.userapi.com/impg/YWpbmHy4fISgI4BYGPMXHZOA_YvBSqBHn9oPfg/ZM7BdYkHfik.jpg?size=811x1123\u0026quality=96\u0026sign=2d6a9968d8c89c77e403217c93259faa\u0026type=album",
   "md5": "F2BA7E472A74232AD0D24FD703BB24B0",
   "tags": [
     "person",
@@ -19,7 +19,16 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "cleric",
+    "soonjae",
+    "hong",
+    "arknights",
+    "schwarz",
+    "suho",
+    "park",
+    "yu_lee",
+    "j"
   ],
   "small": {
     "scale": 0.6699999999999997,
@@ -39,5 +48,7 @@
     "offset_y": -19,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

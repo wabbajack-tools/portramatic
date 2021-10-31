@@ -12,7 +12,21 @@
     "clothing",
     "apparel",
     "art",
-    ""
+    "",
+    "smite",
+    "fan",
+    "morrigan",
+    "skins",
+    "ghost",
+    "shell",
+    "sorceress",
+    "ari",
+    "targownik",
+    "2020",
+    "earth",
+    "priest",
+    "emmanuel",
+    "julian"
   ],
   "small": {
     "scale": 0.39999999999999947,
@@ -32,5 +46,7 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -19,7 +19,31 @@
     "animal",
     "mammal",
     "angel",
-    "aasimar"
+    "aasimar",
+    "girl",
+    "armor",
+    "warrior",
+    "anime",
+    "g.i.joe",
+    "pin",
+    "up",
+    "power",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "f.e.a.r.",
+    "character",
+    "concept",
+    "alen",
+    "rocha",
+    ".",
+    "kwimael",
+    "https://www",
+    "lady",
+    "yana",
+    "panda",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -39,5 +63,7 @@
     "offset_y": -95,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

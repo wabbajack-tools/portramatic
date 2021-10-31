@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F95%2Fa3%2Fc7%2F95a3c78a251af2ea3056fbdc27d28f31.png&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F95%2Fa3%2Fc7%2F95a3c78a251af2ea3056fbdc27d28f31.png\u0026f=1\u0026nofb=1",
   "md5": "8BB7B42BFF47BC05087BF364B53A14EF",
   "tags": [
     "person",
@@ -10,7 +10,24 @@
     "statue",
     "art",
     "sculpture",
-    ""
+    "",
+    "modern",
+    "rpg",
+    "character",
+    "cyberpunk",
+    "concept",
+    "knights",
+    "templar",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "vampire",
+    "manga",
+    "scouting",
+    "\u3147\u3147",
+    "joo",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -30,5 +47,7 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

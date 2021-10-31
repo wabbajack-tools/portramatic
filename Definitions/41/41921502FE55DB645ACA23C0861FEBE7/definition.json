@@ -7,7 +7,37 @@
     "human",
     "samurai",
     "duel",
-    ""
+    "",
+    "half-orc",
+    "character",
+    "barbarian",
+    "beautiful",
+    "female",
+    "half",
+    "orc",
+    "death",
+    "armor",
+    "barbarians",
+    "demons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "iron",
+    "rxx",
+    "496",
+    "show",
+    "painting",
+    "kratos",
+    "fanart",
+    "nines",
+    "amaro",
+    "god",
+    "smite",
+    "anubis",
+    "tier",
+    "chris",
+    "bjors"
   ],
   "small": {
     "scale": 1.12,
@@ -27,5 +57,7 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,15 @@
   "source": "https://i.pinimg.com/564x/1d/0b/38/1d0b386a26873bab5ee7d0989e3cf51f.jpg",
   "md5": "BEB06A885E1A118CAA1DE80CB8AD0E88",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "african",
+    "ancient",
+    "forgeworld/games",
+    "workshop",
+    "empire"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -22,5 +30,7 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

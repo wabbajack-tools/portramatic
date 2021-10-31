@@ -5,7 +5,25 @@
     "male",
     "drawing",
     "head",
-    "anime"
+    "anime",
+    "league",
+    "legends",
+    "oil",
+    "paintings",
+    "pictures",
+    "jesus",
+    "guardian",
+    "darko",
+    "stojanovic",
+    "aran",
+    "francis",
+    "brunet",
+    "centaur",
+    "philippa",
+    "eilhart",
+    "lorenzo",
+    "mastroianni",
+    "dark"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -26,6 +44,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

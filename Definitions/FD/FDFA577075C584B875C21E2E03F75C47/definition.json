@@ -6,7 +6,15 @@
     "Elf",
     "Male",
     "Inquisitor",
-    "Sexy"
+    "Sexy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "bracelet"
   ],
   "small": {
     "scale": 0.94,
@@ -27,6 +35,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

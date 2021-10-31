@@ -12,7 +12,26 @@
     "angel",
     "archangel",
     "world of warcraft",
-    "female mage"
+    "female mage",
+    "wuxia",
+    "drama",
+    "novels",
+    "anime",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "elves",
+    "wood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "druid",
+    "polina",
+    "tarakanova",
+    "night"
   ],
   "small": {
     "scale": 1.07,
@@ -32,5 +51,7 @@
     "offset_y": -13.999999999999545,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

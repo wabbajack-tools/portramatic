@@ -7,7 +7,23 @@
     "costume",
     "clothing",
     "apparel",
-    ""
+    "",
+    "dark",
+    "elf",
+    "wood",
+    "orcs",
+    "dinulescu",
+    "alexandru",
+    "concept",
+    "characters",
+    "pokemon",
+    "armor",
+    "kai-hsiang",
+    "yang",
+    "at\u2026",
+    "winter",
+    "tam\u00E1s",
+    "patk\u00F3s"
   ],
   "small": {
     "scale": 0.2999999999999994,
@@ -27,5 +43,7 @@
     "offset_y": -45.91666666666674,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

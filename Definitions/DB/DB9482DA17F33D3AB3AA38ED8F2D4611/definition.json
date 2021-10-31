@@ -18,7 +18,24 @@
     "beard",
     "head",
     "man",
-    ""
+    "",
+    "elven",
+    "pirate",
+    "character",
+    "sketch",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "black",
+    "queen",
+    "zhirui",
+    "wang",
+    "https://www.artstation.com/artwork/black-queen"
   ],
   "small": {
     "scale": 0.35999999999999943,
@@ -38,5 +55,7 @@
     "offset_y": -43,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

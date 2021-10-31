@@ -1,11 +1,17 @@
 {
-  "source": "https://external-preview.redd.it/j3qOmcErNERx7UN8kn9jo-GDGD-MEfsn8SUtEEdnlXw.jpg?auto=webp&s=c12686f01f7a0859e61c8a7e0d6fdb3cea579385",
+  "source": "https://external-preview.redd.it/j3qOmcErNERx7UN8kn9jo-GDGD-MEfsn8SUtEEdnlXw.jpg?auto=webp\u0026s=c12686f01f7a0859e61c8a7e0d6fdb3cea579385",
   "md5": "DF938129728FC82F81E9C60BA8A4E337",
   "tags": [
     "Female",
     "Warrior",
     "sword",
-    "shield"
+    "shield",
+    "tolkien",
+    "middle",
+    "earth",
+    "lotr",
+    "female",
+    "characters"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +32,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

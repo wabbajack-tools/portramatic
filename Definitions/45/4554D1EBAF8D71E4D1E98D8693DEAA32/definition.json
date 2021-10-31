@@ -1,8 +1,10 @@
 {
-  "source": "https://preview.redd.it/9e455zoreyk71.jpg?width=640&crop=smart&auto=webp&s=f244bdd1faa560805c150764bbb16d50e94b3196",
+  "source": "https://preview.redd.it/9e455zoreyk71.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=f244bdd1faa560805c150764bbb16d50e94b3196",
   "md5": "4554D1EBAF8D71E4D1E98D8693DEAA32",
   "tags": [
-    "woman"
+    "woman",
+    "women",
+    "cosmetics"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -23,6 +25,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

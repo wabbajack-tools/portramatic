@@ -1,9 +1,14 @@
 {
-  "source": "https://static.wikia.nocookie.net/shadowrun/images/8/85/Shadowrun-shapeshifter-shadowpunkers-lobo-lancaster.jpg/revision/latest?cb=20191116010303&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/shadowrun/images/8/85/Shadowrun-shapeshifter-shadowpunkers-lobo-lancaster.jpg/revision/latest?cb=20191116010303\u0026path-prefix=en",
   "md5": "71F5923F412072CED25A5F52E00E35E9",
   "tags": [
     "druid",
-    "shapeshifter"
+    "shapeshifter",
+    "conan",
+    "barbarian",
+    "goblin",
+    "travis",
+    "purvis"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -24,6 +29,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

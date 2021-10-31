@@ -4,7 +4,11 @@
   "tags": [
     "nurse",
     "redhead",
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1,
@@ -24,5 +28,7 @@
     "offset_y": -226,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

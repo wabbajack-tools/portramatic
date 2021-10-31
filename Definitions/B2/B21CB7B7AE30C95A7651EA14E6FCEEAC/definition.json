@@ -27,7 +27,25 @@
     "fashion",
     "people",
     "angel",
-    "aasimar"
+    "aasimar",
+    "dark",
+    "saber",
+    "fate",
+    "series",
+    "black",
+    "kinjaz",
+    "carter",
+    "adair",
+    "concept",
+    "characters",
+    "rogue",
+    "daniel",
+    "mardale",
+    "daanan",
+    "destiny",
+    "men",
+    "antonello",
+    "venditti"
   ],
   "small": {
     "scale": 0.96,
@@ -47,5 +65,7 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

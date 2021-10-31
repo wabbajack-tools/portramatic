@@ -2,12 +2,14 @@
   "source": "https://artbreeder.b-cdn.net/imgs/7d2266df269a76fbbb4fcf6bff07.jpeg",
   "md5": "6F1968DBC403BBAEB8D73E7FC664BDC7",
   "tags": [
-    "woman"
+    "woman",
+    "women",
+    "cosmetics"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -23.33333333333337,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "small"
   },
   "medium": {
@@ -19,10 +21,10 @@
   "full": {
     "scale": 2.05,
     "offset_x": -154.66666666666652,
-    "offset_y": -1.1368683772161603e-13,
+    "offset_y": -1.1368683772161603E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,11 @@
   "source": "https://i.redd.it/tmz0f5tcvxk71.jpg",
   "md5": "1CDD51733DE7EE347E7DB05ED0CC9FA2",
   "tags": [
-    "woman"
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -23,6 +27,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

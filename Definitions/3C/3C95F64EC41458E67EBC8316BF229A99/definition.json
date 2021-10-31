@@ -2,7 +2,12 @@
   "source": "https://i.imgur.com/dWb6zYC.png",
   "md5": "3C95F64EC41458E67EBC8316BF229A99",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "custom",
+    "portraits",
+    "aasimar",
+    "character"
   ],
   "small": {
     "scale": 0.27999999999999936,
@@ -22,5 +27,7 @@
     "offset_y": 2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

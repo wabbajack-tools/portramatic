@@ -1,0 +1,26 @@
+{
+  "source": "https://pbs.twimg.com/media/EOHOi1zVUAABsw4?format=jpg&name=small",
+  "md5": "4866FF8BC7BA5B72D7B182E8C8DC8568",
+  "tags": [
+    "tiefling"
+  ],
+  "small": {
+    "scale": 1.1,
+    "offset_x": -120,
+    "offset_y": -68,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.97,
+    "offset_x": -40,
+    "offset_y": -11,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.5800000000000005,
+    "offset_x": -22,
+    "offset_y": -20,
+    "size": "full"
+  },
+  "version": 2
+}

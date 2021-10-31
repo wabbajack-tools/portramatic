@@ -1,0 +1,28 @@
+{
+  "source": "https://i.redd.it/dsgqdc6mw6t71.jpg",
+  "md5": "5DAC964D7F79F4B787775473B761F7E0",
+  "tags": [
+    "woman"
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -37.33333333333336,
+    "offset_y": -28.000000000000057,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.9199999999999999,
+    "offset_x": -58.66666666666657,
+    "offset_y": -8.666666666666629,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 2.0300000000000002,
+    "offset_x": -150.66666666666652,
+    "offset_y": -3.9999999999997726,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

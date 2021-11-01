@@ -1,0 +1,30 @@
+{
+  "source": "https://i.redd.it/1kgyhqxmrlg41.jpg",
+  "md5": "EADAB7B87614155271DD3504711CC18C",
+  "tags": [
+    "female",
+    "tiefling",
+    "rogue"
+  ],
+  "small": {
+    "scale": 0.3099999999999995,
+    "offset_x": -314,
+    "offset_y": -41,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.2699999999999995,
+    "offset_x": -262,
+    "offset_y": -5,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.2999999999999994,
+    "offset_x": -96,
+    "offset_y": -6,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

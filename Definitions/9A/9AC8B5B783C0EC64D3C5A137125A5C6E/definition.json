@@ -1,0 +1,29 @@
+{
+  "source": "https://i.pinimg.com/564x/c1/db/2c/c1db2cecb80c86a530bb0fa2c5fca2d9.jpg",
+  "md5": "9AC8B5B783C0EC64D3C5A137125A5C6E",
+  "tags": [
+    "wolf",
+    "barbarian"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -190,
+    "offset_y": -40,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -113,
+    "offset_y": -22,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -10,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

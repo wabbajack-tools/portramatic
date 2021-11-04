@@ -1,0 +1,28 @@
+{
+  "source": "https://image.tmdb.org/t/p/original/6R4gnQZp8MSaljsR8dl9R4ARByo.jpg",
+  "md5": "E0CD52139AAA7EC57A48CB0346410A63",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -205,
+    "offset_y": -260,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.27999999999999936,
+    "offset_x": -77,
+    "offset_y": -214,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.47999999999999954,
+    "offset_x": -142,
+    "offset_y": -342,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

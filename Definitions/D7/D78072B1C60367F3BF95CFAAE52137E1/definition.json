@@ -1,0 +1,28 @@
+{
+  "source": "https://pbs.twimg.com/media/Co22vP5WcAAqxbw.jpg",
+  "md5": "D78072B1C60367F3BF95CFAAE52137E1",
+  "tags": [
+    "Undead"
+  ],
+  "small": {
+    "scale": 1.1900000000000002,
+    "offset_x": -540,
+    "offset_y": -32,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -337,
+    "offset_y": -23,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -376,
+    "offset_y": -26,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

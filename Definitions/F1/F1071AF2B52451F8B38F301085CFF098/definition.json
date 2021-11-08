@@ -1,0 +1,30 @@
+{
+  "source": "https://i.redd.it/mr4inrv76o561.jpg",
+  "md5": "F1071AF2B52451F8B38F301085CFF098",
+  "tags": [
+    "sword",
+    "shield",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.3400000000000003,
+    "offset_x": -466.42857142856906,
+    "offset_y": -29.142857142857167,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -92.28571428571382,
+    "offset_y": 0.7142857142857792,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.1900000000000002,
+    "offset_x": -193.142857142857,
+    "offset_y": -24.571428571428555,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

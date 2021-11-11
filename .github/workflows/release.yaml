@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: dotnet restore
       - name: Generate Thumbnails
-        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources
+        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources Windows
       - name: Install Nexus Uploader
         run: dotnet tool install --global nexus-mods-uploader
       - name: Build App
@@ -78,7 +78,7 @@ jobs:
       - name: Install dependencies
         run: dotnet restore
       - name: Generate Thumbnails
-        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources
+        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources Linux
       - name: Build App
         run: dotnet build
       - name: Publish
@@ -104,7 +104,7 @@ jobs:
       - name: Install dependencies
         run: dotnet restore
       - name: Generate Thumbnails
-        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources
+        run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources MacOS
       - name: Build App
         run: dotnet build
       - name: Publish

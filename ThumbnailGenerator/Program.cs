@@ -151,6 +151,8 @@ class Program
                         if (string.IsNullOrEmpty(definition.PHash))
                         {
                             definition.PHash = Convert.ToBase64String(hash.Coefficients);
+                            var json = JsonSerializer.Serialize(definition, jsonOptions);
+                            await File.WriteAllTextAsync(itm.Item2, json, token);
                         }
                     }
                     catch (Exception ex)

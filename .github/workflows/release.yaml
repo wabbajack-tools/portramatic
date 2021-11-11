@@ -6,6 +6,9 @@ on:
         description: 'Release Version'
         required: true
         
+env:
+  UNEX_COOKIES: ${{ secrets.NEXUS_COOKIE }}
+        
 jobs:
   build-windows:
     name: Build Windows
@@ -13,6 +16,9 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
         
       - name: Setup .NET Core SDK 6.0.x
         uses: actions/setup-dotnet@v1
@@ -24,6 +30,8 @@ jobs:
         run: dotnet restore
       - name: Generate Thumbnails
         run: dotnet run --project ThumbnailGenerator -- ./ ./Portramatic/Resources
+      - name: Install Nexus Uploader
+        run: dotnet tool install --global nexus-mods-uploader
       - name: Build App
         run: dotnet build
       - name: Publish
@@ -42,8 +50,10 @@ jobs:
           recursive: false
       - uses: actions/upload-artifact@v2
         with:
-          name: Portramatic-win-${{ github.event.inputs.version }}
-          path: Portramatic.exe        
+          name: Portramatic-win-${{ steps.date.outputs.date }}
+          path: Portramatic.exe
+      - name: Upload File To Nexus
+        run: nexus-mods-uploader upload 169 ./Portramatic.exe -v ${{ steps.date.outputs.date }}
 
   build-linux:
     name: Build Linux

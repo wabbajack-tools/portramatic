@@ -7,7 +7,6 @@ on:
         required: true
         
 env:
-  UNEX_COOKIES: ${{ secrets.NEXUS_COOKIE }}
   UNEX_APIKEY: ${{ secrets.NEXUS_API_KEY }}
         
 jobs:
@@ -53,8 +52,15 @@ jobs:
         with:
           name: Portramatic-win-${{ steps.date.outputs.date }}
           path: Portramatic.exe
+      - name: Export Cookies
+        run: echo "$NEXUS_COOKIE" > cookies.txt
+        shell: bash
+        env:
+          - NEXUS_COOKIE: ${{ secrets.NEXUS_COOKIE}}
       - name: Upload File To Nexus
         run: nexus-mods-uploader upload 169 ./Portramatic.exe -v ${{ steps.date.outputs.date }}
+        env:
+          UNEX_COOKIES: ./cookies.txt
 
   build-linux:
     name: Build Linux

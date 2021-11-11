@@ -53,10 +53,10 @@ jobs:
           name: Portramatic-win-${{ steps.date.outputs.date }}
           path: Portramatic.exe
       - name: Export Cookies
-        run: echo "$NEXUS_COOKIE" > cookies.txt
+        run: echo "$NEXUS_COOKIE" > ./cookies.txt
         shell: bash
         env:
-          - NEXUS_COOKIE: ${{ secrets.NEXUS_COOKIE}}
+          NEXUS_COOKIE: ${{ secrets.NEXUS_COOKIE}}
       - name: Upload File To Nexus
         run: nexus-mods-uploader upload 169 ./Portramatic.exe -v ${{ steps.date.outputs.date }}
         env:

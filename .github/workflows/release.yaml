@@ -8,6 +8,7 @@ on:
         
 env:
   UNEX_COOKIES: ${{ secrets.NEXUS_COOKIE }}
+  UNEX_APIKEY: ${{ secrets.NEXUS_API_KEY }}
         
 jobs:
   build-windows:

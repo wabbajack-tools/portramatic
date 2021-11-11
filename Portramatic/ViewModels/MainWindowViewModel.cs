@@ -89,6 +89,7 @@ namespace Portramatic.ViewModels
             _galleryItems.Connect()
                 .ObserveOn(RxApp.MainThreadScheduler)
                 .Filter(e => e.Definition.Requeried && e.Definition.Tags.Length > 0)
+                .Filter(e => !e.Definition.IsNSFW)
                 .Filter(filterFunction)
                 .Bind(out _data)
                 .Subscribe();

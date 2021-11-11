@@ -14,7 +14,33 @@
     "art",
     "rogue",
     "warrior",
-    "assassin"
+    "assassin",
+    "female",
+    "costume",
+    "evil",
+    "black",
+    "assassin\u0027s",
+    "knight",
+    "armor",
+    "necromancer",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    ".",
+    "yang",
+    "aer",
+    "character",
+    "team",
+    "0",
+    "yin",
+    "zhen",
+    "chu",
+    "fallen",
+    "gladiator",
+    "ben",
+    "juniu"
   ],
   "small": {
     "scale": 1.4700000000000004,
@@ -34,5 +60,7 @@
     "offset_y": -68,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

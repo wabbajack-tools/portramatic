@@ -7,7 +7,20 @@
     "figurine",
     "ninja",
     "tiefling",
-    "monk"
+    "monk",
+    "subclasses",
+    "female",
+    "druid",
+    "street",
+    "fighter",
+    "ryu",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.6300000000000006,
@@ -27,5 +40,7 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

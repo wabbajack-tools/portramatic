@@ -12,7 +12,27 @@
     "urban",
     "city",
     "town",
-    ""
+    "",
+    "girl",
+    "female",
+    "warrior",
+    "drawings",
+    "samurai",
+    "line",
+    "sketches",
+    "dark",
+    "knight",
+    "returns",
+    "armor",
+    "spider-man",
+    "blacklight",
+    "retribution",
+    "aaron",
+    "wehrmeister",
+    "gipsy",
+    "danger",
+    "danny",
+    "browne"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -32,5 +52,7 @@
     "offset_y": -32.814814814814724,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

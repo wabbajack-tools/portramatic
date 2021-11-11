@@ -10,7 +10,24 @@
     "mtg",
     "caster",
     "owl",
-    "druid"
+    "druid",
+    "league",
+    "legends",
+    "god",
+    "king",
+    "garen",
+    "chengwei",
+    "pan",
+    "https://www",
+    "artifact",
+    "meepo",
+    "wisnu",
+    "tan",
+    "com",
+    "imagens",
+    "rengar",
+    "gom",
+    "priest"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -30,5 +47,7 @@
     "offset_y": -28.83333333333303,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

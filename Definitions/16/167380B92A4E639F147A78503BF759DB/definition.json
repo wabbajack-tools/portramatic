@@ -11,7 +11,10 @@
     "lich",
     "undead",
     "azata",
-    "aasimar"
+    "aasimar",
+    "command",
+    "jinho",
+    "lee"
   ],
   "small": {
     "scale": 1.4400000000000004,
@@ -32,6 +35,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

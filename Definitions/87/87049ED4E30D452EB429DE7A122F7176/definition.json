@@ -4,7 +4,15 @@
   "tags": [
     "drow",
     "necromancer",
-    "female"
+    "female",
+    "character",
+    "concept",
+    "elf",
+    "portraits",
+    "game",
+    "thrones",
+    "clash",
+    "titans"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -25,6 +33,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

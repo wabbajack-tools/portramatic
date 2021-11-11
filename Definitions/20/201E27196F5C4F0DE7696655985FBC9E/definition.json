@@ -17,7 +17,23 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "kaldheim",
+    "mtg",
+    "planechase",
+    "teferi",
+    "night",
+    "elf",
+    "daughter",
+    "sea",
+    "lan",
+    "nai",
+    "ga",
+    "https://www.artstation.com/artwork",
+    "witch",
+    "manu",
+    "herrador",
+    "https://www"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -37,5 +53,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

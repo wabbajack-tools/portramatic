@@ -2,7 +2,12 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/034/314/337/large/agnes-hvalstx-agnes-hvalstx-giftformax001-lowres-001.jpg?1611956971",
   "md5": "E7E47469FEFDC84A92EB135A63C093B4",
   "tags": [
-    ""
+    "",
+    "rey",
+    "skywalker",
+    "richard",
+    "baron",
+    "reyes"
   ],
   "small": {
     "scale": 0.3099999999999994,
@@ -22,5 +27,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

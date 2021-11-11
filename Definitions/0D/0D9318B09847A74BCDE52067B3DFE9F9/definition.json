@@ -2,7 +2,21 @@
   "source": "https://i.pinimg.com/564x/22/42/69/2242690babe7ac3658fae0e062fe72ff.jpg",
   "md5": "0D9318B09847A74BCDE52067B3DFE9F9",
   "tags": [
-    ""
+    "",
+    "red",
+    "headed",
+    "characters",
+    "hair",
+    "female",
+    "with",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -22,5 +36,7 @@
     "offset_y": -78,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

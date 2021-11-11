@@ -5,7 +5,12 @@
     "Female",
     "Viking",
     "Shieldmaiden",
-    "Human"
+    "Human",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -26,6 +31,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

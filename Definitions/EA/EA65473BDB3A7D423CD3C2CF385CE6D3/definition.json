@@ -6,7 +6,26 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "black",
+    "inspiration",
+    "male",
+    "character",
+    "anime",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "captain",
+    "kirill",
+    "repin",
+    "portraits",
+    "characters",
+    "illustration",
+    "for",
+    "netease",
+    "game"
   ],
   "small": {
     "scale": 0.711499999999994,
@@ -26,5 +45,7 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

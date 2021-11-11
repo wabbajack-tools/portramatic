@@ -10,7 +10,17 @@
     "drawing",
     "assassin",
     "dragon",
-    "warrior"
+    "warrior",
+    "guardians",
+    "galaxy",
+    "catwoman",
+    "chris",
+    "rena",
+    "stellaris",
+    "fanart",
+    "ethan",
+    "lewis",
+    "alien"
   ],
   "small": {
     "scale": 1.5500000000000005,
@@ -30,5 +40,7 @@
     "offset_y": -10.000000000000284,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

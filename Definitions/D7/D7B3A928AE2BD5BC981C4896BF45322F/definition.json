@@ -7,7 +7,35 @@
     "book",
     "graphics",
     "art",
-    "shirabe"
+    "shirabe",
+    "sarenrae",
+    "symbol",
+    "cleric",
+    "gods",
+    "collared",
+    "puffbird",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "high",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "archer",
+    "concept",
+    "cheolseung",
+    "ok",
+    "character",
+    "musketeer",
+    "tae",
+    "monster",
+    "manual",
+    "zombies",
+    "henrik",
+    "rosenborg",
+    "zombie"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -27,5 +55,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

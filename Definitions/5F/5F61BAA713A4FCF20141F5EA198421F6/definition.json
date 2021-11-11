@@ -13,7 +13,32 @@
     "dragon",
     "duel",
     "knight",
-    ""
+    "",
+    "armor",
+    "concept",
+    "anime",
+    "league",
+    "legends",
+    "gi",
+    "joe",
+    "rise",
+    "cobra",
+    "symbiote",
+    "ironman",
+    "zulkarnaen",
+    "hasan",
+    "basri",
+    "3rd",
+    "wedding",
+    "anniversary",
+    "mist",
+    "xg",
+    "thor",
+    "ragnarok",
+    "surtur",
+    "priest",
+    "ian",
+    "joyner"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -33,5 +58,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

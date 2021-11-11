@@ -6,7 +6,30 @@
     "wrath",
     "righteous",
     "dhampir",
-    "portraits"
+    "portraits",
+    "male",
+    "vampire",
+    "drawing",
+    "characters",
+    "eyes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "byond",
+    "veil",
+    "soufiane",
+    "idrassi",
+    "cyberpunk",
+    "blonde",
+    "vince",
+    "rodriguez",
+    "character",
+    "jinaara",
+    "astri",
+    "lohne",
+    "https://www"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -23,10 +46,10 @@
   "full": {
     "scale": 1.04,
     "offset_x": -1.9999999999998863,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

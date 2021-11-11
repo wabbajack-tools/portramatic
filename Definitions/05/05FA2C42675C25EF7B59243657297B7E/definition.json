@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/hIVyTH_sFSZNNCCfUPS8fyumgrLa-_adQ73fg1hwmFs.jpg?width=640&crop=smart&auto=webp&s=45f0d3c3d0e5c6c548f4427f1265469161da3391",
+  "source": "https://external-preview.redd.it/hIVyTH_sFSZNNCCfUPS8fyumgrLa-_adQ73fg1hwmFs.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=45f0d3c3d0e5c6c548f4427f1265469161da3391",
   "md5": "05FA2C42675C25EF7B59243657297B7E",
   "tags": [
     "elf",
@@ -24,6 +24,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

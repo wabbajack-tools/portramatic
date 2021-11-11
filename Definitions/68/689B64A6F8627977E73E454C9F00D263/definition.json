@@ -2,7 +2,12 @@
   "source": "https://i.imgur.com/dgbOCAh.png",
   "md5": "689B64A6F8627977E73E454C9F00D263",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "thief",
+    "game",
+    "garrett",
+    "armors"
   ],
   "small": {
     "scale": 1.1300000000000001,
@@ -18,11 +23,11 @@
   },
   "full": {
     "scale": 1.01,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -3.2037037037039795,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

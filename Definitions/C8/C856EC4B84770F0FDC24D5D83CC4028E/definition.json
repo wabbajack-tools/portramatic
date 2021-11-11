@@ -2,7 +2,17 @@
   "source": "https://static.wikia.nocookie.net/legendofthecryptids/images/2/2f/Blade%2C_Hunter_of_the_Undead.png/revision/latest?cb=20131204060706",
   "md5": "C856EC4B84770F0FDC24D5D83CC4028E",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "warrior",
+    "legends",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 1.4700000000000004,
@@ -22,5 +32,7 @@
     "offset_y": -146,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

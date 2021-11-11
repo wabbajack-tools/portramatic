@@ -17,7 +17,28 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "dark",
+    "dungeons",
+    "dragons",
+    "wood",
+    "orcs",
+    "lord",
+    "rings",
+    "lothlorien",
+    "juan",
+    "calle",
+    "thitipon",
+    "dicruen",
+    "eirys",
+    "hendry",
+    "iwanaga",
+    "female"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -37,5 +58,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

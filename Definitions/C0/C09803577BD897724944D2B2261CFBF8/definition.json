@@ -6,7 +6,29 @@
     "human",
     "costume",
     "art",
-    ""
+    "",
+    "heavenly",
+    "angel",
+    "love",
+    "folk",
+    "angels",
+    "league",
+    "legends",
+    "female",
+    "assassin",
+    "chopper",
+    "puppet",
+    "wj",
+    "wild",
+    "demon",
+    "princesses",
+    "david",
+    "gaillet",
+    "ainsley",
+    "silver",
+    "eye",
+    "gunship",
+    "revolution"
   ],
   "small": {
     "scale": 0.36999999999999944,
@@ -26,5 +48,7 @@
     "offset_y": -114,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

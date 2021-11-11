@@ -7,7 +7,18 @@
     "wizard",
     "spellcaster",
     "man",
-    "mage"
+    "mage",
+    "dark",
+    "sorcerer",
+    "evil",
+    "mortal",
+    "kombat",
+    "hunter",
+    "vanguard",
+    "cayde-6",
+    "ryu",
+    "mi",
+    "https://www.artstation.com/artwork/pmoqq3"
   ],
   "small": {
     "scale": 0.8599999999999999,
@@ -28,6 +39,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

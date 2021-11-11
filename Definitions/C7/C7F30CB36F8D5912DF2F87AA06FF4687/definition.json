@@ -24,7 +24,25 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "realities",
+    "edge",
+    "book",
+    "cover",
+    "thomas",
+    "elliott",
+    "chandra",
+    "custom",
+    "token",
+    "gnd",
+    "magic",
+    "cerberus",
+    "paladin",
+    "j\u00FAlio",
+    "rocha"
   ],
   "small": {
     "scale": 1.5500000000000005,
@@ -45,6 +63,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

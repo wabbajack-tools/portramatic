@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/originals/fe/31/c2/fe31c2edc9d7b10849228af5f606497f.jpg",
   "md5": "E31ED7B2FC6F1C2409468C6CD00F29E7",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "character",
+    "halfling",
+    "male",
+    "portraits"
   ],
   "small": {
     "scale": 0.23999999999999932,
@@ -22,5 +27,7 @@
     "offset_y": -44,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

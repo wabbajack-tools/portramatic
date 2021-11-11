@@ -34,7 +34,10 @@
     "momot",
     "https://www.artstation.com/artwork/wxg2z",
     "witcher",
-    "books"
+    "books",
+    "digital",
+    "anime",
+    "boy"
   ],
   "small": {
     "scale": 0.8199999999999998,
@@ -55,6 +58,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

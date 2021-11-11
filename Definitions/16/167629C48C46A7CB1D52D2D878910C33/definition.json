@@ -2,7 +2,20 @@
   "source": "https://i.pinimg.com/564x/d2/92/e8/d292e8e9295b5843349c97b4dda57a9b.jpg",
   "md5": "167629C48C46A7CB1D52D2D878910C33",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "cleric",
+    "miniature",
+    "male",
+    "fighter",
+    "heavy",
+    "armor",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 1.02,
@@ -23,6 +36,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

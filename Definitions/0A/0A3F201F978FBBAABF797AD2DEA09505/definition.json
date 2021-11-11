@@ -3,7 +3,12 @@
   "md5": "0A3F201F978FBBAABF797AD2DEA09505",
   "tags": [
     "human",
-    "character"
+    "character",
+    "bard",
+    "college",
+    "whispers",
+    "swords",
+    "college\u0027s"
   ],
   "small": {
     "scale": 1.5100000000000005,
@@ -24,6 +29,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

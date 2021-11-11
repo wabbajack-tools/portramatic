@@ -4,7 +4,10 @@
   "tags": [
     "warrior",
     "male",
-    "shield"
+    "shield",
+    "skyrim",
+    "nord",
+    "barbarian"
   ],
   "small": {
     "scale": 0.15999999999999925,
@@ -24,5 +27,7 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

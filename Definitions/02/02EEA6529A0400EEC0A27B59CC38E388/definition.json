@@ -19,7 +19,27 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "death",
+    "knight",
+    "paladin",
+    "orc",
+    "magician",
+    "nezt",
+    "oss",
+    "2020",
+    "k.o",
+    "xuan",
+    "liu",
+    "superseding",
+    "borges",
+    "adv",
+    "billy",
+    "christian"
   ],
   "small": {
     "scale": 1.4800000000000004,
@@ -39,5 +59,7 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

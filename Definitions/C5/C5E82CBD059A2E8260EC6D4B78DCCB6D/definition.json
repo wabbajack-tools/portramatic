@@ -9,7 +9,12 @@
     "art",
     "knight",
     "world of warcraft",
-    ""
+    "",
+    "night",
+    "ladyofthelake",
+    "rishiraj",
+    "singh",
+    "shekhawat"
   ],
   "small": {
     "scale": 0.5999999999999996,
@@ -29,5 +34,7 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

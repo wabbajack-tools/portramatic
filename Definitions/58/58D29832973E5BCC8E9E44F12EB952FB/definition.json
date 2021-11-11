@@ -12,7 +12,29 @@
     "elf",
     "mage",
     "male",
-    "sorcerer"
+    "sorcerer",
+    "dark",
+    "necromancer",
+    "master",
+    "vampire",
+    "artwork",
+    "chaos",
+    "warrior",
+    "masquerade",
+    "dungeons",
+    "dragons",
+    "istvan",
+    "straban",
+    "character",
+    "inspiration",
+    "a",
+    "soft",
+    "man",
+    "jihwan",
+    "ha",
+    "shooter",
+    "thor",
+    "odenson"
   ],
   "small": {
     "scale": 1.12,
@@ -32,5 +54,7 @@
     "offset_y": -140,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

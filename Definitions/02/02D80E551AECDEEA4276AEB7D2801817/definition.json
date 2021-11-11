@@ -4,7 +4,16 @@
   "tags": [
     "female",
     "cleric",
-    ""
+    "",
+    "high",
+    "priestess",
+    "card",
+    "wiccan",
+    "black",
+    "joan",
+    "arc",
+    "ancient",
+    "egypt"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -25,6 +34,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

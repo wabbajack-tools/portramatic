@@ -4,7 +4,25 @@
   "tags": [
     "sword",
     "shield",
-    "warrior"
+    "warrior",
+    "fire",
+    "mage",
+    "male",
+    "female",
+    "assassin",
+    "dark",
+    "jia",
+    "cai",
+    "witch",
+    "giant",
+    "douglas",
+    "deri",
+    "irene",
+    ".",
+    "black",
+    "light\uFF08dynamic\uFF09",
+    "terry",
+    "wei"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -25,6 +43,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,8 +1,18 @@
 {
-  "source": "https://static.wikia.nocookie.net/gwent/images/1/13/Jaskier_Poeta_por_Anna_Podedworna.png/revision/latest?cb=20201020072949&path-prefix=es",
+  "source": "https://static.wikia.nocookie.net/gwent/images/1/13/Jaskier_Poeta_por_Anna_Podedworna.png/revision/latest?cb=20201020072949\u0026path-prefix=es",
   "md5": "833F9EBA3315320ED4F699861E32E77B",
   "tags": [
-    ""
+    "",
+    "geralt",
+    "x",
+    "dandelion",
+    "witcher",
+    "jaskier",
+    "monkey",
+    "king",
+    "monsters",
+    "chen",
+    "bo"
   ],
   "small": {
     "scale": 0.7499999999999998,
@@ -22,5 +32,7 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

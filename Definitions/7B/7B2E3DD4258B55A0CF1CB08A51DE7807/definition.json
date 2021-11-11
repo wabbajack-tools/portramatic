@@ -7,7 +7,21 @@
     "human",
     "painting",
     "art",
-    ""
+    "",
+    "queen",
+    "tr\u01B0\u01A1ng",
+    "mai",
+    "tr\u00FAc",
+    "sylvari",
+    "thief",
+    "liliath",
+    "grace",
+    "zhu",
+    "guild",
+    "wars",
+    "eikthyrnir",
+    "jeff",
+    "yeomans"
   ],
   "small": {
     "scale": 1.3600000000000003,
@@ -27,5 +41,7 @@
     "offset_y": -88,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

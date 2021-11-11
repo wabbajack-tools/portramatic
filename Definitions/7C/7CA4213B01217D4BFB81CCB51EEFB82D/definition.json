@@ -2,7 +2,13 @@
   "source": "https://i.imgur.com/a8AK03S.png",
   "md5": "7CA4213B01217D4BFB81CCB51EEFB82D",
   "tags": [
-    ""
+    "",
+    "you",
+    "did",
+    "this",
+    "pt2",
+    "simone",
+    "rizzo"
   ],
   "small": {
     "scale": 0.96,
@@ -18,11 +24,11 @@
   },
   "full": {
     "scale": 1,
-    "offset_x": 2.2737367544323206e-13,
-    "offset_y": 3.979039320256561e-13,
+    "offset_x": 2.2737367544323206E-13,
+    "offset_y": 3.979039320256561E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,11 @@
   "source": "https://i.pinimg.com/564x/89/d3/c5/89d3c5f8b9f9e32cf9884d7beb5f00f5.jpg",
   "md5": "D8F006280AE5C8D899029E64ACE4FE45",
   "tags": [
-    ""
+    "",
+    "anime",
+    "characters",
+    "stella",
+    "andaerz"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -22,5 +26,7 @@
     "offset_y": 28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

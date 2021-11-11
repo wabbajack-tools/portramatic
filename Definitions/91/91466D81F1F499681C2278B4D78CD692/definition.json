@@ -2,7 +2,20 @@
   "source": "https://i.pinimg.com/564x/bd/1e/e2/bd1ee247abcbd1ec99acfa004375b3b7.jpg",
   "md5": "91466D81F1F499681C2278B4D78CD692",
   "tags": [
-    "swordmage"
+    "swordmage",
+    "archfey",
+    "warlock",
+    "familiar",
+    "pact",
+    "blade",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "skirt",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.02,
@@ -23,6 +36,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -17,7 +17,13 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -37,5 +43,7 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -1,8 +1,29 @@
 {
-  "source": "https://pbs.twimg.com/media/Eifgl2rUYAATU8O?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/Eifgl2rUYAATU8O?format=jpg\u0026name=medium",
   "md5": "B2DCCE1D030F1A6991B168C0243FE67F",
   "tags": [
-    ""
+    "",
+    "gravity",
+    "falls",
+    "gideon",
+    "fan",
+    "sophie",
+    "foster",
+    "vraska",
+    "jace",
+    "age",
+    "pantheons",
+    "tsukuyomi",
+    "pantheon",
+    "assassin\u0027s",
+    "creed",
+    "valhalla",
+    "eivor",
+    "frost",
+    "mortal",
+    "kombat",
+    "arkenstellar",
+    "*"
   ],
   "small": {
     "scale": 0.6899999999999997,
@@ -22,5 +43,7 @@
     "offset_y": -46,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

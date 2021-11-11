@@ -1,8 +1,19 @@
 {
-  "source": "https://pbs.twimg.com/media/EtNx5YJVoAct3Uz?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EtNx5YJVoAct3Uz?format=jpg\u0026name=large",
   "md5": "2F87D8320958D136D77A1C9C6B13279D",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "vampire",
+    "knight",
+    "manga",
+    "shredder",
+    "samurai",
+    "armor",
+    "\u6478\u9C7C\u3002",
+    "gaga",
+    "lu"
   ],
   "small": {
     "scale": 0.6899999999999997,
@@ -22,5 +33,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

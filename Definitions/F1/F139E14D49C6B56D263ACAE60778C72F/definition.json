@@ -14,7 +14,19 @@
     "art",
     "rogue",
     "warrior",
-    "assassin"
+    "assassin",
+    "snow",
+    "leopard",
+    "animated",
+    "chibi",
+    "painting",
+    "dungeons",
+    "dragons",
+    "apex",
+    "legends",
+    "rampart\u0027s",
+    "garage",
+    "ilustration"
   ],
   "small": {
     "scale": 1.3900000000000003,
@@ -34,5 +46,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

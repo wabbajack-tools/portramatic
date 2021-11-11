@@ -17,7 +17,32 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "dd",
+    "ranger",
+    "female",
+    "concept",
+    "witcher",
+    "lord",
+    "rings",
+    "sniper",
+    "ghost",
+    "warrior",
+    "assassin",
+    "death",
+    "knight",
+    "8/7/2016",
+    "maoshan",
+    "zhan",
+    "jaina",
+    "proudmoore",
+    "sanjin",
+    "halimic",
+    "warcraft",
+    "inspiration",
+    "iorveth",
+    "luciferys",
+    "alex"
   ],
   "small": {
     "scale": 1.3500000000000003,
@@ -37,5 +62,7 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

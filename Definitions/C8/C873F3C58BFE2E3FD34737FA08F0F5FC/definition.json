@@ -17,7 +17,29 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "female",
+    "character",
+    "concept",
+    "rpg",
+    "characters",
+    "game",
+    "thrones",
+    "warriors",
+    "viking",
+    "warrior",
+    "terry",
+    "wei",
+    "2019",
+    "bahati",
+    "tiefling",
+    "paladin",
+    "storm",
+    "lord",
+    "wisnu",
+    "tan",
+    "indonesia",
+    "illustration"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -37,5 +59,7 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

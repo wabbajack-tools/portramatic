@@ -9,7 +9,14 @@
     "animal",
     "dinosaur",
     "reptile",
-    ""
+    "",
+    "fox",
+    "drawings",
+    "cute",
+    "fursuit",
+    "red",
+    "fire",
+    "chinese"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -29,5 +36,7 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

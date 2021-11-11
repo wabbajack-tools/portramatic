@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/DpPzhPFWsAErpWN?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DpPzhPFWsAErpWN?format=jpg\u0026name=large",
   "md5": "091D8D67815A4E7FA60D55FB9B920EB0",
   "tags": [
     "pathfinder",
@@ -14,7 +14,17 @@
     "evil",
     "human",
     "angel",
-    "aeon"
+    "aeon",
+    "african",
+    "american",
+    "prints",
+    "paintings",
+    "women",
+    "pictures",
+    "fierce",
+    "knight",
+    "jon",
+    "comoglio"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -35,6 +45,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -15,7 +15,9 @@
     "fan",
     "art-umi",
     "sonoda",
-    "corn"
+    "corn",
+    "spice",
+    "wolf"
   ],
   "small": {
     "scale": 1.11,
@@ -36,6 +38,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,13 @@
   "source": "https://scifinet.net/wp/wp-content/gallery/luis-royo/Luis-Royo-194518795_334188888076845_5976354748449572331_n.jpg",
   "md5": "7DA585933DE1D62844C1FD14CB5BA71C",
   "tags": [
-    "MercGirl1"
+    "MercGirl1",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "damon",
+    "hellandbrand"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -23,6 +29,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

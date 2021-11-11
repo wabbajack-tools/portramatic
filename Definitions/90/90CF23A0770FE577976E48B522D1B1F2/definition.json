@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/564x/a0/79/c1/a079c1c6281d025f990f2f7c4d2cb899.jpg",
   "md5": "90CF23A0770FE577976E48B522D1B1F2",
   "tags": [
-    ""
+    "",
+    "darkest",
+    "dungeon",
+    "virtue",
+    "leper",
+    "character"
   ],
   "small": {
     "scale": 0.97,
@@ -22,5 +27,7 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

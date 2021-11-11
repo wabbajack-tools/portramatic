@@ -6,7 +6,24 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "charlie",
+    "bowater",
+    "acotar",
+    "kingdom",
+    "ash",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "knight",
+    "xu",
+    "yang",
+    "https://www.artstation.com/artwork/ldbyk",
+    "textured",
+    "with",
+    "#"
   ],
   "small": {
     "scale": 0.9355833333333259,
@@ -26,5 +43,7 @@
     "offset_y": -140,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

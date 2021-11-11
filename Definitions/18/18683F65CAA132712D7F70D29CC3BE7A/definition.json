@@ -2,7 +2,30 @@
   "source": "https://i.imgur.com/8O8I9iS.png",
   "md5": "18683F65CAA132712D7F70D29CC3BE7A",
   "tags": [
-    ""
+    "",
+    "male",
+    "aasimar",
+    "sorcerer",
+    "warlock",
+    "world",
+    "warcraft",
+    "rogue",
+    "female",
+    "pirate",
+    "conan",
+    "barbarian",
+    "dungeons",
+    "dragons",
+    "discordia",
+    "card",
+    "gmoth",
+    "roland",
+    "rawen",
+    "havran",
+    "royal",
+    "knight",
+    "ye",
+    "fan"
   ],
   "small": {
     "scale": 0.7199999999999884,
@@ -18,11 +41,11 @@
   },
   "full": {
     "scale": 1,
-    "offset_x": 4.547473508864641e-13,
+    "offset_x": 4.547473508864641E-13,
     "offset_y": -4.805555555555657,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

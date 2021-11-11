@@ -27,7 +27,7 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
@@ -42,7 +42,28 @@
     "eom",
     "dark",
     "portraits",
-    "artwork"
+    "artwork",
+    "monk",
+    "concept",
+    "fighter",
+    "rogue",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "bob",
+    "kehl",
+    "alien",
+    "druid",
+    "viet",
+    "anh",
+    "vu",
+    "purple",
+    "feather",
+    "zhang",
+    "yifan"
   ],
   "small": {
     "scale": 1.03,
@@ -63,6 +84,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

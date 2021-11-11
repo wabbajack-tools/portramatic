@@ -6,7 +6,13 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game"
   ],
   "small": {
     "scale": 0.5574166666666612,
@@ -26,5 +32,7 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

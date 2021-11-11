@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/EvfTaqGUYAAcAeS?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EvfTaqGUYAAcAeS?format=jpg\u0026name=4096x4096",
   "md5": "ACA70F58A4156A39267914534AB42D34",
   "tags": [
     "female",
@@ -25,6 +25,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

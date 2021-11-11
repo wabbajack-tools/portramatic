@@ -1,5 +1,5 @@
 {
-  "source": "https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/165769206_4129712837050809_7154489135830865010_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=973b4a&_nc_ohc=2-oCAn28_WMAX-MrjQ9&_nc_ht=scontent-man2-1.xx&oh=b2dd214f2849e3cbf2f72677600d3bff&oe=61A5D0EA",
+  "source": "https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/165769206_4129712837050809_7154489135830865010_n.jpg?_nc_cat=104\u0026ccb=1-5\u0026_nc_sid=973b4a\u0026_nc_ohc=2-oCAn28_WMAX-MrjQ9\u0026_nc_ht=scontent-man2-1.xx\u0026oh=b2dd214f2849e3cbf2f72677600d3bff\u0026oe=61A5D0EA",
   "md5": "79D097ADD3C4A34453DDCFB951C5487E",
   "tags": [
     "person",
@@ -16,7 +16,20 @@
     "fighter",
     "rogue",
     "magus",
-    ""
+    "",
+    "lady",
+    "jae",
+    "haru",
+    "li",
+    "ming",
+    "kassandra",
+    "vasquez",
+    "morrigan",
+    "mastery",
+    "skin",
+    "smite",
+    "jaggu",
+    "dada"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -36,5 +49,7 @@
     "offset_y": -2.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

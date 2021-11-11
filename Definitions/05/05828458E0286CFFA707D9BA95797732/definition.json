@@ -17,7 +17,29 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "cloaked",
+    "man",
+    "figure",
+    "anime",
+    "game",
+    "thrones",
+    "minotaur",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "command",
+    "jinho",
+    "lee",
+    "legend",
+    "cryptids",
+    "kiyocat",
+    "illust",
+    "\u53EA\u72FC",
+    "sekiro",
+    "cloud",
+    "_d"
   ],
   "small": {
     "scale": 1.1400000000000001,
@@ -37,5 +59,7 @@
     "offset_y": 2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

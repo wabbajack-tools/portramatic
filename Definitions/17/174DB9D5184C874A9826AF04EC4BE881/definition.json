@@ -34,7 +34,22 @@
     "momot",
     "https://www.artstation.com/artwork/wxg2z",
     "witcher",
-    "books"
+    "books",
+    "long",
+    "red",
+    "hair",
+    "witch",
+    "medieval",
+    "clothing",
+    "beautiful",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7699999999999998,
@@ -55,6 +70,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -14,7 +14,32 @@
     "costume",
     "elf",
     "female",
-    ""
+    "",
+    "paladin",
+    "male",
+    "armor",
+    "dd",
+    "underworld",
+    "rise",
+    "lycans",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "mera",
+    "from",
+    "aquaman",
+    "alibi",
+    "toigan",
+    "visayan",
+    "goddess",
+    "sea",
+    "lidagat",
+    "jewel"
   ],
   "small": {
     "scale": 1.06,
@@ -34,5 +59,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

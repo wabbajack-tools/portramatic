@@ -24,7 +24,15 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "geralt",
+    "ciri",
+    "witcher",
+    "female",
+    "hair",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3399999999999994,
@@ -45,6 +53,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

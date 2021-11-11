@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/564x/88/05/4f/88054fc0edf3fdb22b17a9e29840b5e5.jpg",
   "md5": "BA7350CECF445BCA881C6AA043F3EF97",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "character",
+    "wizard",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.46999999999999953,
@@ -22,5 +31,7 @@
     "offset_y": -6.407407407407504,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

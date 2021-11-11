@@ -6,7 +6,15 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "my",
+    "favorite",
+    "character",
+    "creating",
+    "characters",
+    "from",
+    "little",
+    "pony"
   ],
   "small": {
     "scale": 0.6154166666666614,
@@ -26,5 +34,7 @@
     "offset_y": -32,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -16,7 +16,9 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "attack",
+    "titan"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -36,5 +38,7 @@
     "offset_y": -86,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

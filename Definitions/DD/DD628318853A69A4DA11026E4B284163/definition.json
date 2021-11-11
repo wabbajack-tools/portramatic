@@ -2,7 +2,14 @@
   "source": "https://i.imgur.com/r5aA4ht.png",
   "md5": "DD628318853A69A4DA11026E4B284163",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "sandals"
   ],
   "small": {
     "scale": 1.1899999999999888,
@@ -23,6 +30,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

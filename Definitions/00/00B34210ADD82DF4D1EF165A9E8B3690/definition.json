@@ -2,7 +2,21 @@
   "source": "https://i.pinimg.com/564x/42/1f/9c/421f9c0867d335f038070f8744216dc8.jpg",
   "md5": "00B34210ADD82DF4D1EF165A9E8B3690",
   "tags": [
-    ""
+    "",
+    "human",
+    "male",
+    "sorcerer",
+    "character",
+    "female",
+    "long",
+    "hair",
+    "brown",
+    "red",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -22,5 +36,7 @@
     "offset_y": -78,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

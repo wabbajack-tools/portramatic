@@ -15,7 +15,26 @@
     "female",
     "frost",
     "ice",
-    "mage"
+    "mage",
+    "succubi",
+    "dragon",
+    "succubus",
+    "facts",
+    "vampire",
+    "anime",
+    "mortal",
+    "kombat",
+    "reina",
+    "vu",
+    "nguyen",
+    "hydestudio",
+    "ada",
+    "wong",
+    "waterworker",
+    "da",
+    "resident",
+    "evil",
+    "girl"
   ],
   "small": {
     "scale": 0.36999999999999944,
@@ -35,5 +54,7 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -16,7 +16,15 @@
     "sleeve",
     "crowd",
     "arm",
-    ""
+    "",
+    "anime",
+    "girl",
+    "phineas",
+    "ferb",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "socks"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -36,5 +44,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

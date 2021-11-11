@@ -2,7 +2,18 @@
   "source": "https://i.pinimg.com/564x/12/71/ce/1271cedd127cfb9a485eb6b1de5dbe72.jpg",
   "md5": "1BE1D3273C0FBC3BE50457F81231F34C",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "game",
+    "cover",
+    "graphics",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "top_wear",
+    "crop-top",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.7600000000000007,
@@ -22,5 +33,7 @@
     "offset_y": -19.212962962963047,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

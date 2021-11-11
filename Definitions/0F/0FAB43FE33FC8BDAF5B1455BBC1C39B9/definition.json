@@ -2,7 +2,13 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/069/484/large/mike-hallstein-bloodraven-beyond-the-wall.jpg?1516942626",
   "md5": "0FAB43FE33FC8BDAF5B1455BBC1C39B9",
   "tags": [
-    ""
+    "",
+    "aegor",
+    "rivers",
+    "brynden",
+    "bloodraven",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -22,5 +28,7 @@
     "offset_y": -252,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

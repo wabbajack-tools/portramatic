@@ -5,7 +5,14 @@
     "fox",
     "kitsune",
     "demon",
-    "yokai"
+    "yokai",
+    "yugio",
+    "marvel",
+    "comics",
+    "gurren",
+    "lagann",
+    "colin",
+    "searle"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +33,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/otUaXBD1_R2vuzgp7d71AVXrGXetZSsPt5ar-tHe8T4.jpg?auto=webp&s=c05fd82f7f0d9fccb4ff9d7a38a6c4ff2a1eae2c",
+  "source": "https://external-preview.redd.it/otUaXBD1_R2vuzgp7d71AVXrGXetZSsPt5ar-tHe8T4.jpg?auto=webp\u0026s=c05fd82f7f0d9fccb4ff9d7a38a6c4ff2a1eae2c",
   "md5": "EFF270DC867120A1B0FA5DED638F36F9",
   "tags": [
     "person",
@@ -19,7 +19,23 @@
     "animal",
     "mammal",
     "angel",
-    "aasimar"
+    "aasimar",
+    "vampire",
+    "lord",
+    "dungeons",
+    "dragons",
+    "hunter",
+    "masquerade",
+    "swain",
+    "\u5C0F\u5C71",
+    "\u6EE1",
+    "https://www.artstation.com",
+    "succumb",
+    "to",
+    "temptation",
+    "marzena",
+    "nereida",
+    "piwowar"
   ],
   "small": {
     "scale": 0.99,
@@ -39,5 +55,7 @@
     "offset_y": -3,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

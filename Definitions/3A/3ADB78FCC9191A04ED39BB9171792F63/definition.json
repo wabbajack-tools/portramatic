@@ -17,7 +17,32 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "skull",
+    "knight",
+    "evil",
+    "helmet",
+    "fallen",
+    "dark",
+    "souls",
+    "elf",
+    "lord",
+    "rings",
+    "orcs",
+    "oni",
+    "kenny",
+    "vo",
+    "zeph",
+    "plane",
+    "fire",
+    "ameera",
+    "sheikh",
+    "https://www.artstation.com/artwork",
+    "some",
+    "badass",
+    "hero",
+    "dima",
+    "sharak"
   ],
   "small": {
     "scale": 1.1800000000000002,
@@ -37,5 +62,7 @@
     "offset_y": -68,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

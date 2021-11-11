@@ -7,7 +7,12 @@
     "painting",
     "art",
     "world of warcraft",
-    ""
+    "",
+    "male",
+    "digital",
+    "head",
+    "anson",
+    "mount"
   ],
   "small": {
     "scale": 1.11,
@@ -27,5 +32,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

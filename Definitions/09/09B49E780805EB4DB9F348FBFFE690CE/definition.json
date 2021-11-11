@@ -16,7 +16,27 @@
     "fighter",
     "rogue",
     "magus",
-    ""
+    "",
+    "female",
+    "assassin",
+    "costume",
+    "names",
+    "armor",
+    "sk",
+    "lineage",
+    "victoria",
+    "sokolova",
+    "pray",
+    "for",
+    "your",
+    "sins",
+    "alexey",
+    "gorbatov",
+    "cybe",
+    "ii",
+    "phelan",
+    "a.",
+    "davion"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -36,5 +56,7 @@
     "offset_y": -70.66666666666686,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

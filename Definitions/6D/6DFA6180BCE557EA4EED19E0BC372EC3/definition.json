@@ -1,8 +1,26 @@
 {
-  "source": "https://milkshake-production-user-images.imgix.net/41c435b5-2d62-4b79-9057-f92d1c46e760?auto=format&w=828",
+  "source": "https://milkshake-production-user-images.imgix.net/41c435b5-2d62-4b79-9057-f92d1c46e760?auto=format\u0026w=828",
   "md5": "6DFA6180BCE557EA4EED19E0BC372EC3",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "illustration",
+    "female",
+    "russell",
+    "dongjun",
+    "lu",
+    "creature",
+    "concept",
+    "buzzard",
+    "lionel",
+    "cornelius",
+    "jr",
+    "berry",
+    "dragon",
+    "daena",
+    "key"
   ],
   "small": {
     "scale": 0.99,
@@ -22,5 +40,7 @@
     "offset_y": 8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

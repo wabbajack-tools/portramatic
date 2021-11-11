@@ -19,7 +19,12 @@
     "concept",
     "characters",
     "character",
-    "dungeons"
+    "dungeons",
+    "shoes",
+    "heels",
+    "allirias",
+    "dragon",
+    "fate"
   ],
   "small": {
     "scale": 0.97,
@@ -40,6 +45,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

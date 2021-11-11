@@ -6,7 +6,23 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "dark",
+    "demon",
+    "drawings",
+    "sketches",
+    "guy",
+    "heads",
+    "5",
+    "dude",
+    "edition",
+    "mingchen",
+    "shen",
+    "toko",
+    "suzuki",
+    "\u7EC3\u4E60",
+    "tong",
+    "yan"
   ],
   "small": {
     "scale": 0.6887499999999953,
@@ -26,5 +42,7 @@
     "offset_y": -184,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

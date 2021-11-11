@@ -12,7 +12,21 @@
     "horse",
     "weather",
     "nature",
-    ""
+    "",
+    "wolf",
+    "warrior",
+    "drawings",
+    "anime",
+    "girl",
+    "armors",
+    "leader",
+    "pack",
+    "alen",
+    "rocha",
+    "genghis",
+    "khan",
+    "thanh",
+    "tu\u1EA5n"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -32,5 +46,7 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

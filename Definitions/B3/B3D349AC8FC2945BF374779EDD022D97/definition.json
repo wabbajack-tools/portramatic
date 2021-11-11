@@ -2,12 +2,16 @@
   "source": "https://i.imgur.com/sMX6SJd.png",
   "md5": "B3D349AC8FC2945BF374779EDD022D97",
   "tags": [
-    ""
+    "",
+    "ocs",
+    "eclipse",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -216.00000000000094,
-    "offset_y": 2.2737367544323206e-13,
+    "offset_y": 2.2737367544323206E-13,
     "size": "small"
   },
   "medium": {
@@ -18,11 +22,11 @@
   },
   "full": {
     "scale": 1,
-    "offset_x": 9.094947017729282e-13,
-    "offset_y": 2.8421709430404007e-13,
+    "offset_x": 9.094947017729282E-13,
+    "offset_y": 2.8421709430404007E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

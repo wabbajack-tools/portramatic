@@ -7,7 +7,26 @@
     "book",
     "graphics",
     "art",
-    "shirabe"
+    "shirabe",
+    "woman",
+    "warrior",
+    "armor",
+    "northern",
+    "queen",
+    "women",
+    "archer",
+    "knight",
+    "skyrim",
+    "heavy",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "takeo",
+    "rui",
+    "jin",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -27,5 +46,7 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

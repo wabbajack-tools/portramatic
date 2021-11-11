@@ -1,8 +1,18 @@
 {
-  "source": "https://sun9-62.userapi.com/impg/1s1h77f5V2s_3QsC99lrDgKw1PsfoBDfvzw2Qw/6psRCB43Rqs.jpg?size=1280x1920&quality=96&sign=a32157bb6ea00515545186f6e31fd707&type=album",
+  "source": "https://sun9-62.userapi.com/impg/1s1h77f5V2s_3QsC99lrDgKw1PsfoBDfvzw2Qw/6psRCB43Rqs.jpg?size=1280x1920\u0026quality=96\u0026sign=a32157bb6ea00515545186f6e31fd707\u0026type=album",
   "md5": "51B140EF7F27C8ECADCA93BECF42CCF0",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "heels",
+    "liz",
+    "\u00B7",
+    "axsens"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -22,5 +32,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

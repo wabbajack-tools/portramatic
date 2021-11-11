@@ -17,7 +17,38 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "warrior",
+    "character",
+    "female",
+    "design",
+    "rpg",
+    "assassin",
+    "knight",
+    "armor",
+    "leather",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "concept",
+    "kyuhwan",
+    "park",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "https://www.artstation.com/artwork/mqogdv",
+    "2020",
+    "archer",
+    "lady",
+    "efe",
+    "vardar",
+    "characters",
+    "portraits"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -37,5 +68,7 @@
     "offset_y": -98,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

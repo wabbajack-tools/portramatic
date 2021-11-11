@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/E0OW-n8XsAA6MgM?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/E0OW-n8XsAA6MgM?format=jpg\u0026name=large",
   "md5": "9B72398844356ACB518F9ADE77E92E10",
   "tags": [
     "person",
@@ -17,7 +17,28 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "female",
+    "rock",
+    "gnome",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "league",
+    "angels",
+    "jungmin",
+    "jin",
+    "/dospi",
+    "https://www.artstation.com/artwork/lgkby",
+    "spellsouls",
+    "character",
+    "concept",
+    "paladin",
+    "nordeus",
+    "games",
+    "gangroad",
+    "monable"
   ],
   "small": {
     "scale": 0.3099999999999994,
@@ -37,5 +58,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

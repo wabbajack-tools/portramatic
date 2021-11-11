@@ -2,7 +2,28 @@
   "source": "https://i.imgur.com/3EFNyqf.jpeg",
   "md5": "7FAB6E6AB1A1A958E6520E561FA56477",
   "tags": [
-    ""
+    "",
+    "aries",
+    "warrior",
+    "artwork",
+    "anime",
+    "boy",
+    "castlevania",
+    "lords",
+    "shadow",
+    "mortal",
+    "kombat",
+    "dark",
+    "knight",
+    "sunong",
+    "akali",
+    "jericho",
+    "swain",
+    "exia",
+    "xiaotong",
+    "ootengu",
+    "ye",
+    "yuan"
   ],
   "small": {
     "scale": 1.6300000000000006,
@@ -18,11 +39,11 @@
   },
   "full": {
     "scale": 1.2300000000000002,
-    "offset_x": 4.547473508864641e-13,
+    "offset_x": 4.547473508864641E-13,
     "offset_y": -11.212962962962933,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

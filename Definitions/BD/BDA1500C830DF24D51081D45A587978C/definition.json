@@ -6,7 +6,10 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "oz",
+    "great",
+    "powerful"
   ],
   "small": {
     "scale": 0.9355833333333259,
@@ -26,5 +29,7 @@
     "offset_y": -180,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

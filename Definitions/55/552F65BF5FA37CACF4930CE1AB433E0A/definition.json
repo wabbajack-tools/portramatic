@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/originals/9d/76/39/9d7639b0d9c25163629bf6ac2fb49783.jpg",
   "md5": "552F65BF5FA37CACF4930CE1AB433E0A",
   "tags": [
-    ""
+    "",
+    "human",
+    "male",
+    "warrior",
+    "fighter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 2.0599999999999996,
@@ -23,6 +32,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

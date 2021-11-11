@@ -10,7 +10,29 @@
     "prima",
     "explore",
     "dormer",
-    "hot"
+    "hot",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "heels",
+    "kurumi",
+    "inaba",
+    "lostark",
+    "gunner",
+    "fanart",
+    "jm",
+    "lee",
+    "character",
+    "girl",
+    "juran",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1,
@@ -31,6 +53,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -19,7 +19,18 @@
     "crew",
     "matt",
     "forsyth",
-    "https://www"
+    "https://www",
+    "female",
+    "fighter",
+    "character",
+    "human",
+    "paladin",
+    "warrior",
+    "outdoor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.54,
@@ -40,6 +51,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

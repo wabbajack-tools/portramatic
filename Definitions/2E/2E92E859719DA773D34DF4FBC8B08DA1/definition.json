@@ -2,7 +2,16 @@
   "source": "https://www.fredzone.org/wp-content/uploads/2017/11/the_witcher_3_geralt.jpg",
   "md5": "2E92E859719DA773D34DF4FBC8B08DA1",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "game",
+    "cover",
+    "graphics",
+    "geralt",
+    "rivia",
+    "skellige",
+    "undvik",
+    "armor"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -22,5 +31,7 @@
     "offset_y": -16.018518518518704,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

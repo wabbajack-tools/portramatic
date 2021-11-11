@@ -17,7 +17,9 @@
     "overcoat",
     "suit",
     "knight",
-    ""
+    "",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -37,5 +39,7 @@
     "offset_y": -182,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

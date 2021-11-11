@@ -9,7 +9,32 @@
     "human",
     "bird",
     "animal",
-    ""
+    "",
+    "demon",
+    "hunter",
+    "concept",
+    "fan",
+    "male",
+    "death",
+    "knight",
+    "reaper",
+    "souls",
+    "predator",
+    "starcraft",
+    "brood",
+    "war",
+    "legacy",
+    "void",
+    "sarah",
+    "kerrigan",
+    "jun",
+    "seong",
+    "park",
+    "some",
+    "practice",
+    "lexey",
+    "anikin",
+    "https://www"
   ],
   "small": {
     "scale": 1.05,
@@ -29,5 +54,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

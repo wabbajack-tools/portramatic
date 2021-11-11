@@ -11,7 +11,27 @@
     "elf",
     "world of warcraft",
     "tiefling",
-    "demon"
+    "demon",
+    "paladin",
+    "male",
+    "cleric",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "heavy",
+    "princess",
+    "reindeer",
+    "concept",
+    "brandy",
+    "woods",
+    "\uC2B54",
+    "k",
+    "ei",
+    "warrior",
+    "monks",
+    "theresa",
+    "k\u00F6nigseder-haller"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -31,5 +51,7 @@
     "offset_y": -153,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

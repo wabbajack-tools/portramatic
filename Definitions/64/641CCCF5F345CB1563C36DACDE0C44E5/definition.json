@@ -3,7 +3,32 @@
   "md5": "641CCCF5F345CB1563C36DACDE0C44E5",
   "tags": [
     "person",
-    "human"
+    "human",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "kyparis",
+    "alliance",
+    "deer",
+    "naz",
+    "nemati",
+    "monster",
+    "last",
+    "knight",
+    "davood",
+    "diba",
+    "dishonored",
+    "arkane",
+    "studios",
+    "digital"
   ],
   "small": {
     "scale": 1.6600000000000006,
@@ -23,5 +48,7 @@
     "offset_y": -5.592592592592609,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

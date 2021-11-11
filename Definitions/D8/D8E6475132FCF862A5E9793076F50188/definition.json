@@ -1,8 +1,24 @@
 {
-  "source": "https://external-preview.redd.it/wmo9yFDLkDQzVBjoZlRz_GuLK3b06gVa4sH6eeoyjME.jpg?auto=webp&s=0a665fed199c5178165f6c6e0c77fc9a37482e38",
+  "source": "https://external-preview.redd.it/wmo9yFDLkDQzVBjoZlRz_GuLK3b06gVa4sH6eeoyjME.jpg?auto=webp\u0026s=0a665fed199c5178165f6c6e0c77fc9a37482e38",
   "md5": "D8E6475132FCF862A5E9793076F50188",
   "tags": [
-    "Our Lady General"
+    "Our Lady General",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "accessories",
+    "gloves",
+    "blade",
+    "dancer",
+    "han",
+    "woo",
+    "https://www.artstation.com/artwork/gjmwnl",
+    "2020",
+    "anime"
   ],
   "small": {
     "scale": 1.2600000000000002,
@@ -22,5 +38,7 @@
     "offset_y": -2.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

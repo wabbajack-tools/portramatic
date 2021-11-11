@@ -20,7 +20,20 @@
     "apparel",
     "costume",
     "knight",
-    ""
+    "",
+    "cute",
+    "clown",
+    "costumes",
+    "creepy",
+    "funny",
+    "wild",
+    "magic",
+    "lionel",
+    "dorviler",
+    "king",
+    "lee",
+    "jung",
+    "eun"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -40,5 +53,7 @@
     "offset_y": -119.19444444444468,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,21 @@
   "source": "https://i.pinimg.com/564x/80/94/7e/80947e3fe88da8ca7a8a5e42c5e79699.jpg",
   "md5": "D3BA46BAD11FC0F4B490411C597504CD",
   "tags": [
-    ""
+    "",
+    "blue",
+    "tiefling",
+    "rogue",
+    "vampire",
+    "costumes",
+    "armors",
+    "female",
+    "assassin",
+    "dark",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.05,
@@ -22,5 +36,7 @@
     "offset_y": 6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

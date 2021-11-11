@@ -1,8 +1,28 @@
 {
-  "source": "https://pbs.twimg.com/media/EutButSWgAYWEmX?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/EutButSWgAYWEmX?format=jpg\u0026name=medium",
   "md5": "599919642451E1128C5CBE32D791B94D",
   "tags": [
-    ""
+    "",
+    "castlevania",
+    "lords",
+    "shadow",
+    "league",
+    "legends",
+    "thresh",
+    "fan",
+    "aldo",
+    "calaveras",
+    "highwoman",
+    "cleveland",
+    "mosher",
+    "half-elf",
+    "paladin/hexblade",
+    "warlock",
+    "commissioned",
+    "michael",
+    "angelo",
+    "dulay",
+    "2021"
   ],
   "small": {
     "scale": 1.5600000000000005,
@@ -22,5 +42,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,11 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/008/506/584/large/vlada-monakhova-tiefling-portrait-sketch.jpg?1513198054",
   "md5": "A991125E51602B9250C4B93C328715C0",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "race",
+    "jason",
+    "jack"
   ],
   "small": {
     "scale": 0.4399999999999995,
@@ -22,5 +26,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

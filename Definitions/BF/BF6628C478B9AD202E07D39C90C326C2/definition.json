@@ -24,7 +24,12 @@
     "king",
     "ricardo",
     "ow",
-    "en"
+    "en",
+    "demon",
+    "hunter",
+    "\u9ED1\u7FFC\u77AC\u5929",
+    "good",
+    "hope"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -45,6 +50,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

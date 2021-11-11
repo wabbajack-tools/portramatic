@@ -10,7 +10,28 @@
     "clothing",
     "apparel",
     "woman",
-    ""
+    "",
+    "armor",
+    "concept",
+    "character",
+    "design",
+    "assassin",
+    "g.i.joe",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "kusari",
+    "karasu",
+    "ren",
+    "wei",
+    "pan",
+    "\u795D\u878D",
+    "jsyyy",
+    "dark",
+    "elf",
+    "kim",
+    "youngho"
   ],
   "small": {
     "scale": 1.4300000000000004,
@@ -30,5 +51,7 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

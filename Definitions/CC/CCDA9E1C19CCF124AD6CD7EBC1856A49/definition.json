@@ -16,7 +16,18 @@
     "fighter",
     "rogue",
     "magus",
-    ""
+    "",
+    "female",
+    "assassin",
+    "costume",
+    "castlevania",
+    "lords",
+    "shadow",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.12,
@@ -36,5 +47,7 @@
     "offset_y": -84.66666666666686,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

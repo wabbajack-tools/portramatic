@@ -17,7 +17,33 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "viking",
+    "warrior",
+    "princess",
+    "nordic",
+    "woman",
+    "swedish",
+    "female",
+    "assassin",
+    "mortal",
+    "kombat",
+    "ninja",
+    "terry",
+    "wei",
+    "2021",
+    "nep\u0027hys",
+    "dark",
+    "god",
+    "souls",
+    "ships.",
+    "paragon",
+    "irene",
+    "black",
+    "light",
+    "alexander",
+    "chiveli",
+    "navarro"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -37,5 +63,7 @@
     "offset_y": -100,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

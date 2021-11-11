@@ -17,7 +17,23 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "whip",
+    "byungjin",
+    "ahn",
+    "women",
+    "berserk",
+    "fanart",
+    "hodol",
+    "e",
+    "2020",
+    "priestess",
+    "david",
+    "martos"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -37,5 +53,7 @@
     "offset_y": -42,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

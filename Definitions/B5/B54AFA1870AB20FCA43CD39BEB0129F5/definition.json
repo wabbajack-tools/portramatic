@@ -2,7 +2,17 @@
   "source": "https://i.pinimg.com/564x/b0/86/4a/b0864a72ff67fa59d0fc6f20cb1a6b0d.jpg",
   "md5": "B54AFA1870AB20FCA43CD39BEB0129F5",
   "tags": [
-    ""
+    "",
+    "elf",
+    "character",
+    "portraits",
+    "female",
+    "cleric",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7499999999999998,
@@ -23,6 +33,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

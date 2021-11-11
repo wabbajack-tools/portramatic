@@ -11,7 +11,13 @@
     "person",
     "human",
     "elf",
-    ""
+    "",
+    "anime",
+    "angel",
+    "reven",
+    "zhao",
+    "lee",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.4800000000000004,
@@ -31,5 +37,7 @@
     "offset_y": -46,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

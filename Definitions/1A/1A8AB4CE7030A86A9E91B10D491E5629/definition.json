@@ -25,7 +25,12 @@
     "design",
     "astro",
     "burn",
-    "_w"
+    "_w",
+    "he-man",
+    "she-ra",
+    "man-e-faces",
+    "tv",
+    "show"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -46,6 +51,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,7 +9,15 @@
     "bow",
     "clothing",
     "apparel",
-    ""
+    "",
+    "rogue",
+    "halfling",
+    "image",
+    "druid",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.2999999999999994,
@@ -29,5 +37,7 @@
     "offset_y": -2.000000000000682,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

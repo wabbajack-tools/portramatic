@@ -17,7 +17,15 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "bunker",
+    "keeper",
+    "roberto",
+    "robert"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -37,5 +45,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

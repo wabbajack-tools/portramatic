@@ -2,7 +2,23 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/561/822/large/alexander-fuhr-gave-final-m.jpg?1484599082",
   "md5": "6CF9E25CA18719EA2231BBA310F4E92E",
   "tags": [
-    ""
+    "",
+    "warforged",
+    "monk",
+    "bard",
+    "gunslinger",
+    "\u6539\u9020\u4EBA",
+    "feng",
+    "chen",
+    "destiny",
+    "empyrean",
+    "cartographer",
+    "hunter",
+    "bone",
+    "tech",
+    "warrior",
+    "ron",
+    "bomhof"
   ],
   "small": {
     "scale": 0.7899999999999998,
@@ -22,5 +38,7 @@
     "offset_y": -34,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

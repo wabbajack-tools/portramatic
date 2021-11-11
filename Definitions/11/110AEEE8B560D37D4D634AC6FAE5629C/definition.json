@@ -2,7 +2,12 @@
   "source": "https://i.redd.it/mj8hgoxyfqa41.jpg",
   "md5": "110AEEE8B560D37D4D634AC6FAE5629C",
   "tags": [
-    ""
+    "",
+    "female",
+    "hill",
+    "dwarf",
+    "cleric",
+    "wizard"
   ],
   "small": {
     "scale": 1.12,
@@ -23,6 +28,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

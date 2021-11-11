@@ -2,7 +2,19 @@
   "source": "https://i.imgur.com/9zFsvxL.png",
   "md5": "04D9D2D16E4191A7039BB99D752844A9",
   "tags": [
-    ""
+    "",
+    "thief",
+    "concept",
+    "medieval",
+    "human",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "athletic_shoes_or_sneakers"
   ],
   "small": {
     "scale": 1.03,
@@ -18,11 +30,11 @@
   },
   "full": {
     "scale": 1,
-    "offset_x": 2.2737367544323206e-13,
-    "offset_y": -1.7053025658242404e-13,
+    "offset_x": 2.2737367544323206E-13,
+    "offset_y": -1.7053025658242404E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

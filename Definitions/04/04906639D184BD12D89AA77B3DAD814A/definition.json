@@ -11,7 +11,14 @@
     "dragon",
     "age",
     "inquisition",
-    "sexy"
+    "sexy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "skirt",
+    "top_wear",
+    "crop-top"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -32,6 +39,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,8 +1,17 @@
 {
-  "source": "https://pbs.twimg.com/media/E7U56abUcAA78iW?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/E7U56abUcAA78iW?format=jpg\u0026name=medium",
   "md5": "DC8DE8E8203D1CF0C66330A438FE98CB",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "suit",
+    "shoes",
+    "boots",
+    "accessories",
+    "tie"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -22,5 +31,7 @@
     "offset_y": -67.27777777777783,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

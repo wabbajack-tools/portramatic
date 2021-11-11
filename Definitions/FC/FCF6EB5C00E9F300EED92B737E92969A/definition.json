@@ -2,7 +2,17 @@
   "source": "https://i.pinimg.com/564x/f6/8e/44/f68e4471f7604c951a57b9a4b4654be0.jpg",
   "md5": "FCF6EB5C00E9F300EED92B737E92969A",
   "tags": [
-    ""
+    "",
+    "forest",
+    "gnome",
+    "dd",
+    "character",
+    "bard",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.4499999999999995,
@@ -22,5 +32,7 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

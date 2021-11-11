@@ -2,7 +2,18 @@
   "source": "https://i.pinimg.com/564x/84/8d/0e/848d0e37be8ffc6deaad85263a911a47.jpg",
   "md5": "43648A2D71EF1590EC9ED4816086FEE9",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "dwarf",
+    "character",
+    "dwarves",
+    "elder",
+    "scrolls",
+    "online",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -22,5 +33,7 @@
     "offset_y": -60,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

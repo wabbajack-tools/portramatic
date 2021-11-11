@@ -16,7 +16,14 @@
     "painting",
     "art",
     "hair",
-    ""
+    "",
+    "susanoo",
+    "fan",
+    "blazblue",
+    "terumi",
+    "red",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 1.05,
@@ -36,5 +43,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,12 @@
   "source": "https://www.gmbinder.com/images/O9IflsH.jpg",
   "md5": "B97BDEB64997A717EC3872C4EBE07696",
   "tags": [
-    ""
+    "",
+    "mystic",
+    "psion",
+    "class",
+    "anime",
+    "guys"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -22,5 +27,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

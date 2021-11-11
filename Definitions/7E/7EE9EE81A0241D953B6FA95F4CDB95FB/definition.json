@@ -11,7 +11,15 @@
     "book",
     "costume",
     "manga",
-    ""
+    "",
+    "enya",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "top_wear",
+    "blouse",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3199999999999994,
@@ -31,5 +39,7 @@
     "offset_y": -27.33333333333354,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

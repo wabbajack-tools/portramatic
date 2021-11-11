@@ -2,12 +2,17 @@
   "source": "https://i.pinimg.com/564x/93/89/48/9389480822be5ab1f9eeef1ec12c3858.jpg",
   "md5": "37A9FB6AF0FD885A47E9ED178BE76C7A",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "ii",
+    "sten",
+    "armor"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -11.199999999985323,
-    "offset_y": 4.263256414560601e-13,
+    "offset_y": 4.263256414560601E-13,
     "size": "small"
   },
   "medium": {
@@ -23,6 +28,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

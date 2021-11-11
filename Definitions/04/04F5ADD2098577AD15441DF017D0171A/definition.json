@@ -2,7 +2,15 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/042/432/080/large/stella-colorado-asset.jpg?1634505586",
   "md5": "04F5ADD2098577AD15441DF017D0171A",
   "tags": [
-    ""
+    "",
+    "hurt",
+    "peter",
+    "xiao",
+    "digital",
+    "k/da",
+    "evelynn",
+    "mars",
+    "foong"
   ],
   "small": {
     "scale": 0.2624166666666671,
@@ -22,5 +30,7 @@
     "offset_y": -44,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

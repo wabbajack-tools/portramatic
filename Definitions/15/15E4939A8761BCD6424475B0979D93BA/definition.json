@@ -4,7 +4,11 @@
   "tags": [
     "female",
     "tiefling",
-    "rogue"
+    "rogue",
+    "draenei",
+    "artwork",
+    "demon",
+    "wow"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -25,6 +29,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

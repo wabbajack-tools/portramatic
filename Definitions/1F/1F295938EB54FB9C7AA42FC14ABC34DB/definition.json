@@ -1,5 +1,5 @@
 {
-  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXlEcHz9r0UvDrhyGQEwxFNaKYf3eynsvkeA&usqp=CAU",
+  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXlEcHz9r0UvDrhyGQEwxFNaKYf3eynsvkeA\u0026usqp=CAU",
   "md5": "1F295938EB54FB9C7AA42FC14ABC34DB",
   "tags": [
     ""
@@ -22,5 +22,7 @@
     "offset_y": -50,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": true
 }

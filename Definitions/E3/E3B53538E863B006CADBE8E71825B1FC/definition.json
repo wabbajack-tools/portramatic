@@ -1,8 +1,17 @@
 {
-  "source": "https://pbs.twimg.com/media/En1plQ8XMAA-_iL?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/En1plQ8XMAA-_iL?format=jpg\u0026name=large",
   "md5": "E3B53538E863B006CADBE8E71825B1FC",
   "tags": [
-    ""
+    "",
+    "skyrim",
+    "armors",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -23,6 +32,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

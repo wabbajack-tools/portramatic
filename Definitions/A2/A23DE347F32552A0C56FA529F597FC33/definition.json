@@ -2,7 +2,11 @@
   "source": "https://i.pinimg.com/564x/f2/89/ea/f289ea621712a6598e3e67f0372606a5.jpg",
   "md5": "A23DE347F32552A0C56FA529F597FC33",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "knight",
+    "camille",
+    "alquier"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -22,5 +26,7 @@
     "offset_y": -136,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

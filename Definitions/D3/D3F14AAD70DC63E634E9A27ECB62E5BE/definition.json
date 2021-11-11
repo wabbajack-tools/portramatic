@@ -9,7 +9,16 @@
     "elf",
     "black",
     "magic",
-    "monk"
+    "monk",
+    "sleeve",
+    "tattoo",
+    "warrior",
+    "tattoos",
+    "sleeves",
+    "traditional",
+    "half",
+    "arm",
+    "artists"
   ],
   "small": {
     "scale": 0.38999999999999946,
@@ -30,6 +39,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

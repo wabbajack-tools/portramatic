@@ -8,7 +8,36 @@
     "manga",
     "comics",
     "book",
-    "demon"
+    "demon",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "female",
+    "pirate",
+    "zombie",
+    "costumes",
+    "assassin",
+    "wizard",
+    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "fighter",
+    "concept",
+    "eunsun",
+    "kim",
+    "game",
+    "b.elin",
+    ".",
+    "girl",
+    "women",
+    "heewon",
+    "kang",
+    "graphic"
   ],
   "small": {
     "scale": 0.8099999999999994,
@@ -28,5 +57,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

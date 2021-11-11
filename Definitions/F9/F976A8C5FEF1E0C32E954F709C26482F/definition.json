@@ -10,7 +10,29 @@
     "apparel",
     "photography",
     "photo",
-    ""
+    "",
+    "warriors",
+    "knight",
+    "armor",
+    "death",
+    "dark",
+    "black",
+    "geralt",
+    "de",
+    "rivia",
+    "fanart",
+    "nines",
+    "amaro",
+    "dragon",
+    "king",
+    "gui",
+    "yuan",
+    "bloodhound",
+    "apex",
+    "legends",
+    "eleonora",
+    "lisi",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.99,
@@ -30,5 +52,7 @@
     "offset_y": -18,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

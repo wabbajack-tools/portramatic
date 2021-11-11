@@ -16,7 +16,22 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "mtg",
+    "innistrad",
+    "shadow",
+    "over",
+    "cards",
+    "cenpertaurs",
+    "long",
+    "ken",
+    "fire",
+    "dragon",
+    "ariadna",
+    "\u017Cytniewska",
+    "monsigneaus",
+    "volcanic",
+    "legends"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -36,5 +51,7 @@
     "offset_y": -82,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

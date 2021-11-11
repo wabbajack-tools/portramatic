@@ -2,7 +2,13 @@
   "source": "https://i.pinimg.com/564x/33/f3/c2/33f3c286f1f4b374677e84f65921034f.jpg",
   "md5": "CDEC79678A64C37954C936481AD53A0F",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game"
   ],
   "small": {
     "scale": 0.98,
@@ -22,5 +28,7 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

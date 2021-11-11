@@ -2,7 +2,14 @@
   "source": "https://i.imgur.com/9fvuaWS.png",
   "md5": "C7BEC078F658DC8B5B33E57ADB657A74",
   "tags": [
-    ""
+    "",
+    "hobbit",
+    "dwarf",
+    "sword",
+    "character",
+    "with",
+    "crossbow",
+    "witcher"
   ],
   "small": {
     "scale": 1.12,
@@ -22,5 +29,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

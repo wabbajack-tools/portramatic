@@ -16,7 +16,34 @@
     "fighter",
     "rogue",
     "magus",
-    ""
+    "",
+    "game",
+    "character",
+    "design",
+    "2d",
+    "female",
+    "cartoon",
+    "thrones",
+    "vampire",
+    "masquerade",
+    "knight",
+    "manga",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "illyne",
+    "johann",
+    "blais",
+    "soul",
+    "collector",
+    "irina",
+    "koval",
+    "sonya",
+    "kayuda",
+    "victorian"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -36,5 +63,7 @@
     "offset_y": -106.66666666666686,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

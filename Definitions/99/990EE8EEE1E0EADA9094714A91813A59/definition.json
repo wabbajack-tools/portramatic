@@ -2,7 +2,18 @@
   "source": "https://i.pinimg.com/564x/57/4c/13/574c13ee166bf68de662c89f2c3643e3.jpg",
   "md5": "990EE8EEE1E0EADA9094714A91813A59",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "male",
+    "elf",
+    "wizard",
+    "blood",
+    "women",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.36999999999999944,
@@ -19,8 +30,10 @@
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -12.814814814814554,
-    "offset_y": -5.684341886080801e-13,
+    "offset_y": -5.684341886080801E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

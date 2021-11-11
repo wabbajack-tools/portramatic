@@ -12,7 +12,10 @@
     "face",
     "sport",
     "sports",
-    ""
+    "",
+    "fighter",
+    "female",
+    "male"
   ],
   "small": {
     "scale": 1.09,
@@ -32,5 +35,7 @@
     "offset_y": -43,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

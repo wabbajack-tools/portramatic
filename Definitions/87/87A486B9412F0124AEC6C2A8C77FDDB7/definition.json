@@ -8,7 +8,17 @@
     "human",
     "costume",
     "armor",
-    ""
+    "",
+    "character",
+    "concept",
+    "girl",
+    "characters",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -28,5 +38,7 @@
     "offset_y": -5.194444444444343,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

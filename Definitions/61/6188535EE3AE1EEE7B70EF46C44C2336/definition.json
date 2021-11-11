@@ -14,7 +14,33 @@
     "art",
     "rogue",
     "warrior",
-    "assassin"
+    "assassin",
+    "female",
+    "costume",
+    "evil",
+    "dark",
+    "dragon",
+    "age",
+    "origins",
+    "orcs",
+    "demon",
+    "hunter",
+    "conan",
+    "barbarian",
+    "torturer",
+    "pascal",
+    "quidault",
+    "death",
+    "knight",
+    "tomas",
+    "duchek",
+    "golden",
+    "girl",
+    "kaer",
+    "baer",
+    "world",
+    "warcraft",
+    "characters"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -34,5 +60,7 @@
     "offset_y": -154,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

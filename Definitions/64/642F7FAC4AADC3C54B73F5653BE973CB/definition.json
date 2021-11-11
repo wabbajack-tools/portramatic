@@ -13,7 +13,20 @@
     "porcelain",
     "pottery",
     "crow",
-    ""
+    "",
+    "anime",
+    "character",
+    "design",
+    "ideas",
+    "male",
+    "concepts",
+    "short",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -33,5 +46,7 @@
     "offset_y": -5,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

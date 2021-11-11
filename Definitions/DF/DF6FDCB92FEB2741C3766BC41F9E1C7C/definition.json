@@ -2,7 +2,13 @@
   "source": "https://i.pinimg.com/564x/29/5a/41/295a41591e2c65f18ef7d01f3e08bca3.jpg",
   "md5": "DF6FDCB92FEB2741C3766BC41F9E1C7C",
   "tags": [
-    ""
+    "",
+    "male",
+    "gnome",
+    "wizard",
+    "character",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -22,5 +28,7 @@
     "offset_y": -84,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

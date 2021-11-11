@@ -2,7 +2,19 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/004/332/891/large/xiaojian-liu-.jpg?1482536088",
   "md5": "8559E87C50E7910FFDA5E3036DD8E915",
   "tags": [
-    ""
+    "",
+    "ninja",
+    "sword",
+    "concept",
+    "shinobi",
+    "assassin",
+    "characters",
+    "vladimir",
+    "kiselev",
+    "skeletor",
+    "fernando",
+    "olivera",
+    "schr\u00F6der"
   ],
   "small": {
     "scale": 1.02,
@@ -22,5 +34,7 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

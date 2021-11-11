@@ -18,7 +18,13 @@
     "paladin",
     "grey",
     "terminator",
-    "martin"
+    "martin",
+    "character",
+    "sketch",
+    "stato",
+    "drawimgs",
+    "d\u0026d",
+    "sketches"
   ],
   "small": {
     "scale": 0.3099999999999994,
@@ -39,6 +45,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

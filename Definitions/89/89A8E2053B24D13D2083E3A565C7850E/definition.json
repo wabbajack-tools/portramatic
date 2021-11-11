@@ -4,7 +4,19 @@
   "tags": [
     "aasimar",
     "female",
-    "monk"
+    "monk",
+    "elder",
+    "scrolls",
+    "online",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "necklace"
   ],
   "small": {
     "scale": 1.03,
@@ -25,6 +37,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

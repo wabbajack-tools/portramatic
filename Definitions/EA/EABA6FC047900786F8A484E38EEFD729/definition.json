@@ -9,7 +9,19 @@
     "apparel",
     "duel",
     "ninja",
-    "Half-orc"
+    "Half-orc",
+    "thrall",
+    "shaman",
+    "wallpaper",
+    "zelda",
+    "twilight",
+    "princess",
+    "flash",
+    "matt",
+    "cowdery",
+    "black",
+    "anime",
+    "characters"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -29,5 +41,7 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

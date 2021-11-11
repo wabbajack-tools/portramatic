@@ -7,7 +7,19 @@
     "cute",
     "copic",
     "marker",
-    "drawings"
+    "drawings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "shaylee",
+    "flower",
+    "fairy",
+    "eliza",
+    "lim",
+    "artwork",
+    "paintings",
+    "wallpaper"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -28,6 +40,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

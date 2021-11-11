@@ -2,7 +2,15 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/026/783/986/medium/oliver-wetter-qarys-portrait-concept1-3-final-small.jpg?1589728494",
   "md5": "B60FBC95757FFD8EDB8256EB7879EF1B",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "princess",
+    "jerry",
+    "loh",
+    "zero2",
+    "witchzz",
+    "bearwitch"
   ],
   "small": {
     "scale": 0.3633333333333333,
@@ -22,5 +30,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -9,7 +9,24 @@
     "duchek",
     "character",
     "dark",
-    "skin"
+    "skin",
+    "magic",
+    "card",
+    "book",
+    "mtg",
+    "planeswalkers",
+    "league",
+    "legends",
+    "psijic",
+    "order",
+    "david",
+    "simons",
+    "battlewise",
+    "hoplite",
+    "will",
+    "murai",
+    "tong",
+    "zhuo"
   ],
   "small": {
     "scale": 1.04,
@@ -30,6 +47,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

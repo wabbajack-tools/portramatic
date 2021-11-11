@@ -2,7 +2,15 @@
   "source": "https://i.pinimg.com/originals/ea/eb/17/eaeb17359b0598b8e71b313ed546a9c7.jpg",
   "md5": "9A61943FB09B64CF1182CA28FF8BD5CA",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "elf",
+    "queen",
+    "lotr",
+    "female",
+    "girl",
+    "from"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -19,10 +27,10 @@
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -246.68518518518454,
-    "offset_y": 1.0231815394945443e-12,
+    "offset_y": 1.0231815394945443E-12,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -17,7 +17,14 @@
     "winter",
     "glacier",
     "adventure",
-    ""
+    "",
+    "tiefling",
+    "character",
+    "portraits",
+    "planescape",
+    "female",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -37,5 +44,7 @@
     "offset_y": -104,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

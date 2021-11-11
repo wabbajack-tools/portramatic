@@ -13,7 +13,33 @@
     "symbol",
     "emblem",
     "woman",
-    ""
+    "",
+    "male",
+    "elf",
+    "character",
+    "warrior",
+    "drawing",
+    "fighter",
+    "witcher",
+    "dark",
+    "souls",
+    "assassin",
+    "death",
+    "knight",
+    "lord",
+    "rings",
+    "black",
+    "antti",
+    "hakosaari",
+    "blackest",
+    "ser",
+    "matthew",
+    "reborn",
+    "barret",
+    "frymire",
+    "girl",
+    "sibyl",
+    "vane"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -33,5 +59,7 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

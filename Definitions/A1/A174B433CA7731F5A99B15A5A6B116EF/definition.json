@@ -24,7 +24,25 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "orcs",
+    "dungeons",
+    "dragons",
+    "tryndamere\uFF08lol\uFF09",
+    "t",
+    "yi",
+    "overwatch",
+    "winter",
+    "wonderland",
+    "skins",
+    "hong",
+    "chan",
+    "lim"
   ],
   "small": {
     "scale": 0.94,
@@ -45,6 +63,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

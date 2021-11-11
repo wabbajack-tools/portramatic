@@ -2,7 +2,19 @@
   "source": "https://i.pinimg.com/564x/35/9c/19/359c1978669d3cc1ff4d18397f02ee05.jpg",
   "md5": "D4A4072FE1F02824E4D90D05C1176FBD",
   "tags": [
-    ""
+    "",
+    "male",
+    "dwarf",
+    "monk",
+    "dd",
+    "cleric",
+    "coats",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 2.219999999999996,
@@ -22,5 +34,7 @@
     "offset_y": -234,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -17,7 +17,35 @@
     "sketch",
     "modern art",
     "hair",
-    ""
+    "",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "pisces",
+    "star",
+    "sign",
+    "abigail",
+    "diaz",
+    "signs",
+    "dream",
+    "lorenn",
+    "tyr",
+    "anime",
+    "artwork",
+    "drawings",
+    "gwen",
+    "stacy",
+    "spider-woman",
+    "blade",
+    "blackwood",
+    "spencer"
   ],
   "small": {
     "scale": 0.17999999999999927,
@@ -37,5 +65,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

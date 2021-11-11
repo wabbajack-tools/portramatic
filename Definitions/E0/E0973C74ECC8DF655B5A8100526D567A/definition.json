@@ -1,8 +1,20 @@
 {
-  "source": "https://pbs.twimg.com/media/EDJmCqJWwAAQ_Jm?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EDJmCqJWwAAQ_Jm?format=jpg\u0026name=large",
   "md5": "E0973C74ECC8DF655B5A8100526D567A",
   "tags": [
-    ""
+    "",
+    "worm",
+    "wildbow",
+    "fan",
+    "web",
+    "novel",
+    "amazing",
+    "spider-man",
+    "gears",
+    "war",
+    "ears",
+    "andrey",
+    "vasilchenko"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -22,5 +34,7 @@
     "offset_y": -50,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

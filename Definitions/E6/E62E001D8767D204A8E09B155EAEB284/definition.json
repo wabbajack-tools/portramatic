@@ -24,7 +24,32 @@
     "avocsquad",
     "alex",
     "lazar",
-    "https://www.artstation.com/artwork/aqgqn"
+    "https://www.artstation.com/artwork/aqgqn",
+    "madara",
+    "uchiha",
+    "sharingan",
+    "female",
+    "susanoo",
+    "bleach",
+    "anime",
+    "girl",
+    "characters",
+    "naruto",
+    "shippuden",
+    "yugio",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "erza",
+    "x",
+    "katarina",
+    "marcus",
+    "ling",
+    "https://www"
   ],
   "small": {
     "scale": 1.6300000000000006,
@@ -41,10 +66,10 @@
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": 0,
-    "offset_y": 6.821210263296962e-13,
+    "offset_y": 6.821210263296962E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

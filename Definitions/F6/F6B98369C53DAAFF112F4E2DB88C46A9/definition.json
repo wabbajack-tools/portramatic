@@ -16,7 +16,11 @@
     "apparel",
     "ranger",
     "assassin",
-    "warrior"
+    "warrior",
+    "cloaked",
+    "vamp",
+    "emanuel",
+    "mendez"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -36,5 +40,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -19,7 +19,25 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "male",
+    "pirate",
+    "swashbuckler",
+    "rogue",
+    "talion",
+    "rohirrim",
+    "armor",
+    "set",
+    "mario",
+    "ortiz",
+    "https://www.artstation.com/artwork/kzeow",
+    "lineage",
+    "remastered_knight",
+    "kim",
+    "sung",
+    "hwan",
+    "2020",
+    "ancient"
   ],
   "small": {
     "scale": 1.06,
@@ -39,5 +57,7 @@
     "offset_y": -61,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -14,7 +14,12 @@
     "evil",
     "human",
     "angel",
-    "aeon"
+    "aeon",
+    "anime",
+    "sorcerer",
+    "girl",
+    "wizards",
+    "male"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -35,6 +40,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

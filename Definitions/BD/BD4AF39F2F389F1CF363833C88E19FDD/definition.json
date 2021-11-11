@@ -10,7 +10,10 @@
     "apparel",
     "photography",
     "photo",
-    ""
+    "",
+    "mobius",
+    "artist",
+    "wallpaper"
   ],
   "small": {
     "scale": 1.3100000000000003,
@@ -30,5 +33,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

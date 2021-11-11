@@ -16,7 +16,24 @@
     "fighter",
     "rogue",
     "magus",
-    ""
+    "",
+    "pink",
+    "hair",
+    "girl",
+    "drawing",
+    "anime",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "dress",
+    "formal_dress",
+    "empress",
+    "freya",
+    "eldridsdottir",
+    "yasemin",
+    "asik",
+    "2021",
+    "female",
+    "warrior"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -36,5 +53,7 @@
     "offset_y": -36.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

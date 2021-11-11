@@ -2,7 +2,20 @@
   "source": "https://i.pinimg.com/originals/a8/50/aa/a850aa6bf0fd82ad83aeb8e002e690af.jpg",
   "md5": "2A799126A60F6182BE25E6A320F6333E",
   "tags": [
-    ""
+    "",
+    "character",
+    "concept",
+    "artwork",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1,
@@ -23,6 +36,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

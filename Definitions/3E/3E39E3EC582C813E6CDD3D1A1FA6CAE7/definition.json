@@ -2,7 +2,13 @@
   "source": "https://i.pinimg.com/564x/7e/bc/47/7ebc471f67f36fbd1291c885dbdbc669.jpg",
   "md5": "3E39E3EC582C813E6CDD3D1A1FA6CAE7",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "character",
+    "tiefling",
+    "bard",
+    "concept"
   ],
   "small": {
     "scale": 1.5400000000000005,
@@ -22,5 +28,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

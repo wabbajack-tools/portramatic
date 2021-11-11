@@ -4,7 +4,22 @@
   "tags": [
     "female",
     "cleric",
-    ""
+    "",
+    "character",
+    "warrior",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "heels",
+    "cyberpunk",
+    "ally",
+    "jordan",
+    "jordanov"
   ],
   "small": {
     "scale": 1.6100000000000005,
@@ -25,6 +40,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

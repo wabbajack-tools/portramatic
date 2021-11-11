@@ -8,7 +8,28 @@
     "magic",
     "mage",
     "elf",
-    "aasimar"
+    "aasimar",
+    "african",
+    "americans",
+    "woman",
+    "print",
+    "ancient",
+    "goddess",
+    "american",
+    "god",
+    "natural",
+    "hair",
+    "nefertiti",
+    "pencil",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "sun",
+    "karen",
+    "haloche"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -29,6 +50,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

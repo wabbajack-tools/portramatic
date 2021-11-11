@@ -6,7 +6,20 @@
     "human",
     "knight",
     "final fantasy",
-    "mage"
+    "mage",
+    "black",
+    "ff1",
+    "ff9",
+    "cosplay",
+    "league",
+    "legends",
+    "desktop",
+    "backgrounds",
+    "final",
+    "weapon",
+    "ff7",
+    "victor",
+    "fern\u00E1ndez"
   ],
   "small": {
     "scale": 0.22999999999999932,
@@ -26,5 +39,7 @@
     "offset_y": -9.6111111111112,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

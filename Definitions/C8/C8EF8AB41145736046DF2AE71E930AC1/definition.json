@@ -2,7 +2,18 @@
   "source": "https://i.pinimg.com/originals/71/47/11/71471189a6c207314439494d03f436e9.jpg",
   "md5": "C8EF8AB41145736046DF2AE71E930AC1",
   "tags": [
-    "Kassandra"
+    "Kassandra",
+    "female",
+    "assassin",
+    "costume",
+    "clothing",
+    "evil",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.4900000000000004,
@@ -22,5 +33,7 @@
     "offset_y": -26.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

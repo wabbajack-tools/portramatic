@@ -6,7 +6,22 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "male",
+    "vampire",
+    "drawing",
+    "characters",
+    "eyes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses",
+    "work",
+    "progress",
+    "tribal",
+    "leader",
+    "vincent",
+    "turcot"
   ],
   "small": {
     "scale": 0.5100833333333283,
@@ -26,5 +41,7 @@
     "offset_y": -26,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

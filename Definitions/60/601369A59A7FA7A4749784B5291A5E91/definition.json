@@ -18,7 +18,7 @@
     "samurai",
     "trunks",
     "guillem",
-    "daudén",
+    "daud\uFFFDn",
     "kenji_893",
     "dragon",
     "ball",
@@ -28,7 +28,18 @@
     "rhun",
     "aleksander",
     "karcz",
-    "https://www.artstation.com/artwork/ywp83"
+    "https://www.artstation.com/artwork/ywp83",
+    "ranger",
+    "rogue",
+    "male",
+    "conan",
+    "barbarian",
+    "barbarians",
+    "dmitry",
+    "skvortsov",
+    "sakura",
+    "ninja",
+    "female"
   ],
   "small": {
     "scale": 0.96,
@@ -49,6 +60,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,7 +6,36 @@
     "person",
     "human",
     "stained glass",
-    ""
+    "",
+    "blood",
+    "elf",
+    "drawing",
+    "concept",
+    "male",
+    "fan",
+    "j.",
+    "scott",
+    "campbell",
+    "league",
+    "legends",
+    "marvel",
+    "comics",
+    "soul",
+    "calibur",
+    "legend",
+    "zelda",
+    "captain",
+    "taree",
+    "yara",
+    "abril",
+    "character",
+    "design",
+    "star",
+    "sapphire",
+    "silver",
+    "banshee",
+    "super",
+    "woman"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -26,5 +55,7 @@
     "offset_y": -62,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

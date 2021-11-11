@@ -2,7 +2,11 @@
   "source": "https://i.pinimg.com/originals/d9/ef/e6/d9efe62414b8faf58c547ee7493d7047.jpg",
   "md5": "74B5BBAC6DDCCE0F788D98028DCC8B5A",
   "tags": [
-    ""
+    "",
+    "forest",
+    "elf",
+    "archer",
+    "night"
   ],
   "small": {
     "scale": 0.6699999999999997,
@@ -22,5 +26,7 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

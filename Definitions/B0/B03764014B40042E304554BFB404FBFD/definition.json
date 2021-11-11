@@ -17,7 +17,28 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "necromancer",
+    "drawing",
+    "girl",
+    "male",
+    "druid",
+    "lucas",
+    "leger\u0027s",
+    "submission",
+    "beyond",
+    "character",
+    "design",
+    "cyberpunk",
+    "dracula",
+    "dark",
+    "hair",
+    "black",
+    "eyes",
+    "vampires",
+    "gloomy",
+    "artwork",
+    "fan"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -37,5 +58,7 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,24 @@
   "source": "https://i.pinimg.com/564x/76/54/02/765402fc992b264ffc0906700fcb4598.jpg",
   "md5": "DE2D922F571AC6F9CE80D208B5E16F2D",
   "tags": [
-    ""
+    "",
+    "changeling",
+    "bard",
+    "rogue",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "captain",
+    "marvel",
+    "for",
+    "ramen"
   ],
   "small": {
     "scale": 1.5400000000000005,
@@ -22,5 +39,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

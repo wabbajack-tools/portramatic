@@ -1,8 +1,36 @@
 {
-  "source": "https://preview.redd.it/7mewbh4jngt21.jpg?auto=webp&s=64d7d6e59dc1ce260de11bb360bddaab4ee49ed3",
+  "source": "https://preview.redd.it/7mewbh4jngt21.jpg?auto=webp\u0026s=64d7d6e59dc1ce260de11bb360bddaab4ee49ed3",
   "md5": "163D7424769F877C1151CB08B670EC41",
   "tags": [
-    "Call of Freedom"
+    "Call of Freedom",
+    "star",
+    "wars",
+    "dark",
+    "christian",
+    "japanese",
+    "knight",
+    "armor",
+    "armors",
+    "spartan",
+    "warrior",
+    "plate",
+    "soldier",
+    "medieval",
+    "shields",
+    "elven",
+    "un",
+    "lee",
+    "https://www.artstation.com/artwork/2gnrk",
+    "warriors",
+    "character",
+    "piotr",
+    "chrzanowski",
+    "https://www.artstation.com/artwork",
+    "templar",
+    "finch",
+    "gerard",
+    "kalashnikoff",
+    "https://www.artstation.com/artwork/x"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -19,8 +47,10 @@
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -90.66666666666629,
-    "offset_y": 2.2737367544323206e-13,
+    "offset_y": 2.2737367544323206E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

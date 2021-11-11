@@ -2,7 +2,24 @@
   "source": "https://pbs.twimg.com/media/E9BZNN1XEAUUhpv.jpg:large",
   "md5": "916F4E677F4EF428D259BFEB0BED1805",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "anime",
+    "characters",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -22,5 +39,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

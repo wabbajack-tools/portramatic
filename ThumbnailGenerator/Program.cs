@@ -136,6 +136,11 @@ class Program
                             var newLabels = await GetLabels(definition.Source);
                             definition.Tags = definition.Tags.Concat(newLabels).Distinct().ToArray();
                             definition.Requeried = true;
+                            if (newLabels.Length == 0)
+                            {
+                                // No new labels means it's most likely NSFW and blocked by bing
+                                definition.IsNSFW = true;
+                            }
                             var json = JsonSerializer.Serialize(definition, jsonOptions);
                             await File.WriteAllTextAsync(itm.Item2, json, token);
                         }

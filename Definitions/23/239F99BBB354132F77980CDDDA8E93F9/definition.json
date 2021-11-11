@@ -19,7 +19,34 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "li",
+    "nan",
+    "voodoo",
+    "china",
+    "song",
+    "female",
+    "pirate",
+    "assassin",
+    "skyrim",
+    "black",
+    "hair",
+    "kingmaker",
+    "dwarf",
+    "archer",
+    "akim",
+    "panther",
+    "shuri",
+    "tully",
+    "summers",
+    "aeon",
+    "14",
+    "tek",
+    "tan",
+    "sci",
+    "fi",
+    "girl",
+    "cyberpunk"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -39,5 +66,7 @@
     "offset_y": -61,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

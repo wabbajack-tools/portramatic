@@ -3,7 +3,24 @@
   "md5": "7E74E453490493DCE2E60C20285AE7AE",
   "tags": [
     "female",
-    "cleric"
+    "cleric",
+    "half",
+    "elf",
+    "warrior",
+    "elven",
+    "male",
+    "she",
+    "ra",
+    "blood",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.05,
@@ -24,6 +41,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

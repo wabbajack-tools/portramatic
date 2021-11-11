@@ -22,7 +22,24 @@
     "male",
     "mulan",
     "pan",
-    "yi"
+    "yi",
+    "demon",
+    "men",
+    "zombie",
+    "demons",
+    "lord",
+    "dice",
+    "artwork_anna",
+    "yaga",
+    "goddess",
+    "ver.black",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "2019",
+    "8\u6708\u6478\u9C7C",
+    "zexi",
+    "guo"
   ],
   "small": {
     "scale": 1.3800000000000003,
@@ -43,6 +60,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

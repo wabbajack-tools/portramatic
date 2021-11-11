@@ -19,7 +19,13 @@
     "crew",
     "matt",
     "forsyth",
-    "https://www"
+    "https://www",
+    "character",
+    "design",
+    "inspiration",
+    "female",
+    "cartoon",
+    "girl"
   ],
   "small": {
     "scale": 0.52,
@@ -40,6 +46,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

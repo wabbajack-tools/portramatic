@@ -14,7 +14,20 @@
     "photo",
     "overcoat",
     "coat",
-    ""
+    "",
+    "female",
+    "pirate",
+    "photos",
+    "steampunk",
+    "male",
+    "queen",
+    "xena",
+    "game",
+    "thrones",
+    "vagabond",
+    "fae",
+    "render",
+    "goddess"
   ],
   "small": {
     "scale": 1.07,
@@ -34,5 +47,7 @@
     "offset_y": -60,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/736x/29/85/ef/2985efb80025801a76ad6975722c6880.jpg",
   "md5": "285E327D31949A67A1D73320F928FDCD",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -12,8 +17,8 @@
   },
   "medium": {
     "scale": 0.6899999999999997,
-    "offset_x": -5.684341886080802e-14,
-    "offset_y": -1.7053025658242404e-13,
+    "offset_x": -5.684341886080802E-14,
+    "offset_y": -1.7053025658242404E-13,
     "size": "medium"
   },
   "full": {
@@ -23,6 +28,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

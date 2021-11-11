@@ -18,7 +18,11 @@
     "snow",
     "white",
     "bgy",
-    "izu"
+    "izu",
+    "fairies",
+    "bergholtz",
+    "concept",
+    "artwork"
   ],
   "small": {
     "scale": 1.3900000000000003,
@@ -39,6 +43,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

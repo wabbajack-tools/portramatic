@@ -6,7 +6,22 @@
     "doctor",
     "male",
     "dark",
-    "skin"
+    "skin",
+    "female",
+    "world",
+    "warcraft",
+    "rogue",
+    "seok",
+    "jeon",
+    "lol",
+    "league",
+    "legends",
+    "unhide",
+    "conference",
+    "2018",
+    "poster",
+    "dieg",
+    "barcellos"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -27,6 +42,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

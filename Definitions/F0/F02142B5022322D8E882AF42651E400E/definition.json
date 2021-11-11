@@ -3,7 +3,10 @@
   "md5": "F02142B5022322D8E882AF42651E400E",
   "tags": [
     "league",
-    "legends"
+    "legends",
+    "poseidon",
+    "milos",
+    "rocenovic"
   ],
   "small": {
     "scale": 1.04,
@@ -24,6 +27,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

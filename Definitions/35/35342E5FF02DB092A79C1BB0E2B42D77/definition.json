@@ -1,8 +1,16 @@
 {
-  "source": "https://nomorsiapa.com/images/v/th/id/OIP.gJM5lW13h6WS5-IS5NVcAwHaI9?w=194&h=235&c=7&r=0&o=5&pid=1.7",
+  "source": "https://nomorsiapa.com/images/v/th/id/OIP.gJM5lW13h6WS5-IS5NVcAwHaI9?w=194\u0026h=235\u0026c=7\u0026r=0\u0026o=5\u0026pid=1.7",
   "md5": "35342E5FF02DB092A79C1BB0E2B42D77",
   "tags": [
-    ""
+    "",
+    "female",
+    "guardian",
+    "angel",
+    "with",
+    "sword",
+    "warrior",
+    "concept",
+    "anime"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -19,10 +27,10 @@
   "full": {
     "scale": 1.7900000000000007,
     "offset_x": -48.055555555554974,
-    "offset_y": 5.684341886080801e-13,
+    "offset_y": 5.684341886080801E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,7 +11,20 @@
     "sports",
     "bird",
     "animal",
-    ""
+    "",
+    "cleric",
+    "character",
+    "paladin",
+    "anime",
+    "characters",
+    "samurai",
+    "knight",
+    "armor",
+    "oriental",
+    "sword",
+    "girl",
+    "cheolseung",
+    "ok"
   ],
   "small": {
     "scale": 1,
@@ -31,5 +44,7 @@
     "offset_y": -64,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

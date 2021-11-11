@@ -2,7 +2,16 @@
   "source": "https://i.imgur.com/tnPnwQX.png",
   "md5": "673204B00399FFC04AD05E5988151164",
   "tags": [
-    ""
+    "",
+    "berserker",
+    "concept",
+    "witcher",
+    "gwent",
+    "artwork",
+    "lord",
+    "rings",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.95,
@@ -18,11 +27,11 @@
   },
   "full": {
     "scale": 1.01,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -3.2037037037035248,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

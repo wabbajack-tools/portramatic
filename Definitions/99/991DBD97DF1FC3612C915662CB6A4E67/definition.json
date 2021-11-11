@@ -12,7 +12,21 @@
     "ninja",
     "female",
     "woman",
-    "vampire"
+    "vampire",
+    "necromancer",
+    "fan",
+    "diablo",
+    "star",
+    "wars",
+    "clone",
+    "knight",
+    "armor",
+    "dark",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -32,5 +46,7 @@
     "offset_y": -80.76851851851848,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

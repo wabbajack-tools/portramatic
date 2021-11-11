@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/564x/b3/70/2b/b3702b1b26ee4a37aac461cb001f0c8d.jpg",
   "md5": "18DB38FA80BDEF5A308EE8401A3008E1",
   "tags": [
-    ""
+    "",
+    "jane",
+    "word",
+    "mary",
+    "name",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -23,6 +32,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

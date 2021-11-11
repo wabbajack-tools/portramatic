@@ -8,7 +8,20 @@
     "person",
     "human",
     "elf",
-    ""
+    "",
+    "alucard",
+    "castlevania",
+    "maria",
+    "adrian",
+    "tepes",
+    "beauty",
+    "beast",
+    "zarbon",
+    "tixielix",
+    "vergil",
+    "poster",
+    "leoz",
+    "etm"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -28,5 +41,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

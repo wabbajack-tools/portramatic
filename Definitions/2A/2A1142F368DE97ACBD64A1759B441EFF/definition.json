@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/564x/40/84/5d/40845dc3d53be5bb01ace4eecc6c8e33.jpg",
   "md5": "2A1142F368DE97ACBD64A1759B441EFF",
   "tags": [
-    ""
+    "",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble"
   ],
   "small": {
     "scale": 0.8299999999999998,
@@ -22,5 +27,7 @@
     "offset_y": -54,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

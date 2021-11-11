@@ -17,7 +17,20 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "moon",
+    "sung",
+    "ji",
+    "ho",
+    "song",
+    "\u4E3B\u89D2\u8BBE\u5B9A",
+    "jian",
+    "wang",
+    "forest",
+    "huntress",
+    "maria",
+    "panfilova",
+    "with"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -37,5 +50,7 @@
     "offset_y": -46,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

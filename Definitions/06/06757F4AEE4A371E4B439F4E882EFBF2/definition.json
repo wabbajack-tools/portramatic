@@ -7,7 +7,14 @@
     "animal",
     "mammal",
     "samurai",
-    "batman"
+    "batman",
+    "dark",
+    "paladin",
+    "holy",
+    "human",
+    "souls",
+    "death",
+    "black"
   ],
   "small": {
     "scale": 0.5599999999999996,
@@ -27,5 +34,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

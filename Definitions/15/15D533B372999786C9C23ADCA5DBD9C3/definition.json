@@ -2,7 +2,11 @@
   "source": "https://db4sgowjqfwig.cloudfront.net/images/4390186/ddfee1125eceb2c86e5bd60ccc1b1ed9.jpg",
   "md5": "15D533B372999786C9C23ADCA5DBD9C3",
   "tags": [
-    "Half Elf Beauty"
+    "Half Elf Beauty",
+    "dark",
+    "elf",
+    "female",
+    "tattoos"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -22,5 +26,7 @@
     "offset_y": -2.666666666666856,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

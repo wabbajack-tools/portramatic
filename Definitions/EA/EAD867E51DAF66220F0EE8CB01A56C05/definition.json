@@ -2,7 +2,22 @@
   "source": "https://i.pinimg.com/564x/d9/ef/10/d9ef10eacf590902ff85592aa019bccd.jpg",
   "md5": "EAD867E51DAF66220F0EE8CB01A56C05",
   "tags": [
-    ""
+    "",
+    "kitsune",
+    "sorcerer",
+    "characters",
+    "bard",
+    "dungeons",
+    "dragons",
+    "barbarians",
+    "orcs",
+    "black",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 1.09,
@@ -22,5 +37,7 @@
     "offset_y": 12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

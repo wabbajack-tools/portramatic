@@ -6,7 +6,13 @@
     "man",
     "male",
     "beach",
-    "pet"
+    "pet",
+    "women",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -27,6 +33,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

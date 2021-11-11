@@ -19,7 +19,34 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "dungeons",
+    "dragons",
+    "character",
+    "elf",
+    "ranger",
+    "advanced",
+    "orc",
+    "warrior",
+    "game",
+    "thrones",
+    "medieval",
+    "knights",
+    "orcs",
+    "paladin",
+    "dragon",
+    "hunters",
+    "bogdan",
+    "tomchuk",
+    "\u7EC3\u4E60",
+    "\u59DA",
+    "\u8FDC",
+    "characters",
+    "sellsword",
+    "cher",
+    "see",
+    "goh",
+    "https://www"
   ],
   "small": {
     "scale": 1.2900000000000003,
@@ -39,5 +66,7 @@
     "offset_y": -15,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -17,7 +17,32 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "spirit",
+    "wizard",
+    "cloud",
+    "_d",
+    "weapon",
+    "concept",
+    "bloodmoon",
+    "jhin",
+    "eugene",
+    "nam",
+    "kritika",
+    "0",
+    "q",
+    "https://www.artstation.com/artwork/4blrwl"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -37,5 +62,7 @@
     "offset_y": -4,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

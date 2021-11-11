@@ -14,7 +14,25 @@
     "cabinet",
     "night life",
     "crowd",
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "cards",
+    "dark",
+    "queen",
+    "angels",
+    "zelda",
+    "twilight",
+    "princess",
+    "pirates",
+    "caribbean",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -34,5 +52,7 @@
     "offset_y": -56,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

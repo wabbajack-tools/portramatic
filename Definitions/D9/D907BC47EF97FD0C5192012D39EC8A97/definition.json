@@ -6,7 +6,25 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "throne",
+    "glass",
+    "books",
+    "book",
+    "series",
+    "witcher",
+    "overflow",
+    "eve",
+    "blum",
+    "rogue",
+    "martin",
+    "johnson",
+    "shelley",
+    "will",
+    "murai",
+    "http://www.artstation.com/artwork/shelley",
+    "role",
+    "playing"
   ],
   "small": {
     "scale": 0.7879999999999926,
@@ -26,5 +44,7 @@
     "offset_y": -84,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

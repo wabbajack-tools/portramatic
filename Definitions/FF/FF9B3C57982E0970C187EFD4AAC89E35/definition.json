@@ -6,7 +6,10 @@
     "doctor",
     "male",
     "dark",
-    "skin"
+    "skin",
+    "anime",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 1.3500000000000003,
@@ -27,6 +30,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

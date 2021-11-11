@@ -10,7 +10,24 @@
     "male",
     "statue",
     "conan",
-    "barbarian"
+    "barbarian",
+    "diablo",
+    "tyrael",
+    "imperius",
+    "archangel",
+    "dragon",
+    "paladin",
+    "knight",
+    "death",
+    "dark",
+    "shaofu",
+    "liu",
+    "demon",
+    "pal",
+    "gyorgy",
+    "berszan",
+    "laura",
+    "beach"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -31,6 +48,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

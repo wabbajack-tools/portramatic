@@ -6,7 +6,23 @@
     "person",
     "human",
     "costume",
-    ""
+    "",
+    "modern",
+    "mage",
+    "concept",
+    "dark",
+    "wizard",
+    "yennefer",
+    "nicky",
+    "geerlings",
+    "sorceress",
+    "istvan",
+    "straban",
+    "https://www",
+    "captious",
+    "vampire",
+    "yutthaphong",
+    "kaewsuk"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -26,5 +42,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

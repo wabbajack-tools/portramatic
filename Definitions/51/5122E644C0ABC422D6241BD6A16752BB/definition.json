@@ -3,7 +3,21 @@
   "md5": "5122E644C0ABC422D6241BD6A16752BB",
   "tags": [
     "female",
-    "rogue"
+    "rogue",
+    "assassin",
+    "costume",
+    "clothing",
+    "evil",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "sphinx",
+    "dunhuang",
+    "chen",
+    "cyberpunk",
+    "character"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -23,5 +37,7 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

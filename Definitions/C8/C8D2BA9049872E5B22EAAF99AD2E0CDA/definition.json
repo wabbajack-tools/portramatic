@@ -17,7 +17,27 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "female",
+    "vampire",
+    "modern",
+    "costume",
+    "elensia",
+    "ana",
+    "rone",
+    "witch",
+    "character",
+    "demon",
+    "tanjiro",
+    "ian",
+    "drueco",
+    "\u05D2\u05D5\u05DC\u05DD",
+    "\u05D4\u05D5\u05D0",
+    "\u05D2\u05D5\u05E9",
+    "\u05E9\u05DC",
+    "\u05D7\u05D5\u05DE\u05E8",
+    "jozef",
+    "boza"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -37,5 +57,7 @@
     "offset_y": -128,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

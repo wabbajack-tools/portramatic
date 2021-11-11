@@ -19,7 +19,22 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "vampire",
+    "spawn",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "female",
+    "pirate",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "hat"
   ],
   "small": {
     "scale": 1.5400000000000005,
@@ -39,5 +54,7 @@
     "offset_y": -1,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

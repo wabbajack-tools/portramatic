@@ -2,7 +2,21 @@
   "source": "https://i.imgur.com/3sEGgFt.png",
   "md5": "7235A9A0BBA8367B5DAE4291EB232170",
   "tags": [
-    ""
+    "",
+    "shaolin",
+    "monk",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "greek",
+    "gods",
+    "harry",
+    "potter",
+    "deathly",
+    "hallows",
+    "ancient",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 1.4999999999999891,
@@ -18,11 +32,11 @@
   },
   "full": {
     "scale": 1.01,
-    "offset_x": 6.821210263296962e-13,
+    "offset_x": 6.821210263296962E-13,
     "offset_y": -4.80555555555577,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,8 +1,22 @@
 {
-  "source": "https://pbs.twimg.com/media/D9MznWwXUAUOPlv?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/D9MznWwXUAUOPlv?format=jpg\u0026name=medium",
   "md5": "1A5F89F053BADB332217BECFABD61119",
   "tags": [
-    ""
+    "",
+    "princess",
+    "zelda",
+    "breath",
+    "wild",
+    "outfits",
+    "elf",
+    "yogi",
+    "gustiana",
+    "link",
+    "new",
+    "power",
+    "martin",
+    "b\u00E9rard",
+    "https://www.artstation.com/artwork/ooox3q"
   ],
   "small": {
     "scale": 0.5199999999999996,
@@ -22,5 +36,7 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

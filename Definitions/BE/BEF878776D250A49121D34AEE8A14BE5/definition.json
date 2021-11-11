@@ -6,7 +6,13 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "drow",
+    "elf",
+    "concept",
+    "tiefling",
+    "bard",
+    "rogue"
   ],
   "small": {
     "scale": 0.2759999999999959,
@@ -26,5 +32,7 @@
     "offset_y": -24,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

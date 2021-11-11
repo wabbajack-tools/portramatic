@@ -2,7 +2,13 @@
   "source": "https://i.pinimg.com/564x/80/1d/19/801d19fa60031a921d6c6f5b7798c0bd.jpg",
   "md5": "185D6FC9A562067E06BA9EC68275914C",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "concept",
+    "game",
+    "characters"
   ],
   "small": {
     "scale": 0.99,
@@ -22,5 +28,7 @@
     "offset_y": 8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

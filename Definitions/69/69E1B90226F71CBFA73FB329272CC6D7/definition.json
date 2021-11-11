@@ -17,7 +17,28 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "monk",
+    "dd",
+    "male",
+    "st.",
+    "michael",
+    "elven",
+    "concept",
+    "peter",
+    "rocque",
+    "sune",
+    "mist",
+    "guardian.",
+    "julian",
+    "del",
+    "rey",
+    "archangel",
+    "uriel",
+    "for",
+    "joan",
+    "arc",
+    "boardgame"
   ],
   "small": {
     "scale": 0.4599999999999995,
@@ -37,5 +58,7 @@
     "offset_y": -38,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

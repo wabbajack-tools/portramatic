@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/FDm01elUcAQOKga?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/FDm01elUcAQOKga?format=jpg\u0026name=4096x4096",
   "md5": "9DD6C95D48A50F5F1552CC80AA6DAAE0",
   "tags": [
     ""
@@ -23,6 +23,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

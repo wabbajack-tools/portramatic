@@ -2,7 +2,8 @@
   "source": "https://i.pinimg.com/564x/38/05/b7/3805b79c902dd4c98d122e01b45a2ee9.jpg",
   "md5": "0FE3F545A20CBE5479DD7FF9FFA641AD",
   "tags": [
-    ""
+    "",
+    "bleach"
   ],
   "small": {
     "scale": 2.0699999999999994,
@@ -22,5 +23,7 @@
     "offset_y": -48,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

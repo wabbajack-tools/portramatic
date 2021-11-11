@@ -6,7 +6,24 @@
     "art",
     "person",
     "human",
-    "aasimar male elf half-elf"
+    "aasimar male elf half-elf",
+    "naga",
+    "x",
+    "reader",
+    "hetalia",
+    "snake",
+    "anime",
+    "girl",
+    "bleach",
+    "ichigo",
+    "kurosaki",
+    "characters",
+    "daenerys",
+    "targaryen",
+    "mother",
+    "dragons",
+    "gabriel",
+    "vitoria"
   ],
   "small": {
     "scale": 0.5102499999999959,
@@ -26,5 +43,7 @@
     "offset_y": -54,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

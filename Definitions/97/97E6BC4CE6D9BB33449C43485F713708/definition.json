@@ -28,7 +28,19 @@
     "archer",
     "min",
     "young",
-    "kim"
+    "kim",
+    "male",
+    "concept",
+    "drawings",
+    "elf",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "star",
+    "wars",
+    "headshots",
+    "mimi",
+    "shaw"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -49,6 +61,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

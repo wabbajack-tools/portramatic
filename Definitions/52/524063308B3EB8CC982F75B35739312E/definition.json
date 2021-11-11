@@ -2,7 +2,20 @@
   "source": "https://i.pinimg.com/564x/b4/3e/31/b43e3163712d5759a30b131cbb7cc78b.jpg",
   "md5": "524063308B3EB8CC982F75B35739312E",
   "tags": [
-    ""
+    "",
+    "human",
+    "female",
+    "warrior",
+    "elven",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -23,6 +36,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

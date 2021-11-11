@@ -17,7 +17,17 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "male",
+    "elf",
+    "armor",
+    "concept",
+    "drawing",
+    "injustice",
+    "superman",
+    "wonder",
+    "woman",
+    "house"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -37,5 +47,7 @@
     "offset_y": -16,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -24,7 +24,15 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "aasimar",
+    "sorcerer",
+    "cleric",
+    "dylan",
+    "dog",
+    "fanart",
+    "branko",
+    "petrovic"
   ],
   "small": {
     "scale": 0.99,
@@ -45,6 +53,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

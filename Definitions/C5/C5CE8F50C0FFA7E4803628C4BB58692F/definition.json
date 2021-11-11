@@ -2,12 +2,14 @@
   "source": "https://pbs.twimg.com/media/Era_vIsVoAIEnhI.jpg",
   "md5": "C5CE8F50C0FFA7E4803628C4BB58692F",
   "tags": [
-    "Portrait of Power"
+    "Portrait of Power",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.2199999999999993,
     "offset_x": -19.999999999999915,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "small"
   },
   "medium": {
@@ -22,5 +24,7 @@
     "offset_y": -2.6666666666662877,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

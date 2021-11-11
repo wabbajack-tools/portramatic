@@ -2,7 +2,21 @@
   "source": "https://i.imgur.com/9IS0lI0.png",
   "md5": "4B37931CFEA2FD76D26D2334B24752AB",
   "tags": [
-    ""
+    "",
+    "shadow",
+    "fight",
+    "hack",
+    "10",
+    "widow",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "catwoman",
+    "mark",
+    "armstrong",
+    "rand"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -19,10 +33,10 @@
   "full": {
     "scale": 1.01,
     "offset_x": -1.601851851851734,
-    "offset_y": 1.7053025658242404e-13,
+    "offset_y": 1.7053025658242404E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

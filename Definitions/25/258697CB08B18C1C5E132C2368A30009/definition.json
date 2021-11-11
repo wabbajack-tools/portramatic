@@ -2,7 +2,13 @@
   "source": "https://pbs.twimg.com/media/EiM70ClXgAEa19X.jpg",
   "md5": "258697CB08B18C1C5E132C2368A30009",
   "tags": [
-    ""
+    "",
+    "fire",
+    "genasi",
+    "female",
+    "water",
+    "male",
+    "earth"
   ],
   "small": {
     "scale": 0.4099999999999995,
@@ -23,6 +29,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

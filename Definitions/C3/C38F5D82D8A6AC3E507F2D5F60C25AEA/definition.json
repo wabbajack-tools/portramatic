@@ -17,7 +17,24 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "halfling",
+    "character",
+    "knight",
+    "drawing",
+    "soldiers",
+    "alexander",
+    "trufanov",
+    "https://www",
+    "mimori",
+    "kev",
+    "chan",
+    "https://www.artstation",
+    "black",
+    "lord",
+    "blades",
+    "mikhail",
+    "palamarchuk"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -37,5 +54,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

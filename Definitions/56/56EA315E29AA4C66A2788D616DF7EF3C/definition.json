@@ -2,7 +2,15 @@
   "source": "https://i.pinimg.com/originals/d3/bc/a0/d3bca01e2de5db8631075db2456deb4a.jpg",
   "md5": "56EA315E29AA4C66A2788D616DF7EF3C",
   "tags": [
-    ""
+    "",
+    "male",
+    "character",
+    "portraits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3399999999999994,
@@ -22,5 +30,7 @@
     "offset_y": -9,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

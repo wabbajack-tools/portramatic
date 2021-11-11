@@ -19,7 +19,28 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "conan",
+    "barbarian",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "witcher",
+    "iii",
+    "dettlaff",
+    "marcin",
+    "blaszczak",
+    "terry",
+    "mcginnis",
+    "aka.",
+    "batman",
+    "beyond",
+    "jason",
+    "michael",
+    "hall"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -39,5 +60,7 @@
     "offset_y": -71,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

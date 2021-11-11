@@ -3,7 +3,28 @@
   "md5": "AB9C7AF2CBAC95F53CA73A417A5941D6",
   "tags": [
     "female",
-    "knight"
+    "knight",
+    "character",
+    "pictures",
+    "sketches",
+    "ampersand",
+    "castlevania",
+    "lords",
+    "shadow",
+    "brotherhood",
+    "steel",
+    "death",
+    "warhammer",
+    "40k",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "brian",
+    "moncus"
   ],
   "small": {
     "scale": 1.6900000000000006,
@@ -19,11 +40,11 @@
   },
   "full": {
     "scale": 1.3400000000000003,
-    "offset_x": -2.2737367544323206e-13,
+    "offset_x": -2.2737367544323206E-13,
     "offset_y": 0,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/564x/d0/a4/ee/d0a4ee2166d2f0cb217c8e7abd5e49c3.jpg",
   "md5": "FC8810F2BEDCA4BA372B67F27C6BA473",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "male",
+    "elf",
+    "wood",
+    "ranger"
   ],
   "small": {
     "scale": 0.39999999999999947,
@@ -12,7 +17,7 @@
   },
   "medium": {
     "scale": 0.5899999999999996,
-    "offset_x": 5.684341886080802e-14,
+    "offset_x": 5.684341886080802E-14,
     "offset_y": -11.200000000000102,
     "size": "medium"
   },
@@ -23,6 +28,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

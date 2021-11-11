@@ -18,7 +18,18 @@
     "samurai",
     "weapon",
     "weaponry",
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "catwoman",
+    "fanart",
+    "karolina",
+    "mircevska",
+    "batman"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -38,5 +49,7 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

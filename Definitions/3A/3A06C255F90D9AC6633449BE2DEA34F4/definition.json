@@ -1,8 +1,37 @@
 {
-  "source": "https://pbs.twimg.com/media/EUtfQfmXQAE2HHO?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EUtfQfmXQAE2HHO?format=jpg\u0026name=large",
   "md5": "3A06C255F90D9AC6633449BE2DEA34F4",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "actionfigures",
+    "body",
+    "armor",
+    "amazing",
+    "spider-man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "some",
+    "xu",
+    "wang",
+    "sci",
+    "fi",
+    "concept",
+    "wastelands",
+    "smuggler",
+    "tatiana",
+    "vetrova",
+    "fallout",
+    "dujuan",
+    "sun",
+    "male",
+    "disney"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -22,5 +51,7 @@
     "offset_y": -2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -6,7 +6,31 @@
     "human",
     "knight",
     "samurai",
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "skirt",
+    "minotaur",
+    "guardian",
+    "lorenn",
+    "tyr",
+    "https://www.artstation.com/artwork/46xo2",
+    "works126",
+    "song",
+    "nan",
+    "li",
+    "demon",
+    "assassin",
+    "funsoo"
   ],
   "small": {
     "scale": 1.1,
@@ -26,5 +50,7 @@
     "offset_y": -66,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

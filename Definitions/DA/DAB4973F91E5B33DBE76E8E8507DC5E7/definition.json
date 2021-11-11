@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/originals/75/38/46/753846a195a5d05028b706d8d6b8ae24.jpg",
   "md5": "DAB4973F91E5B33DBE76E8E8507DC5E7",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "faces",
+    "inspiration",
+    "for",
+    "characters",
+    "with",
+    "brown",
+    "hair"
   ],
   "small": {
     "scale": 0.27999999999999936,
@@ -22,5 +31,7 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

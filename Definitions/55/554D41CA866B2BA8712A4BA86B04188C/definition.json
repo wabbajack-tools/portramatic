@@ -6,7 +6,23 @@
     "doctor",
     "female",
     "dark",
-    "skin"
+    "skin",
+    "diablo",
+    "character",
+    "male",
+    "league",
+    "legends",
+    "witcher",
+    "wild",
+    "hunt",
+    "fan",
+    "qichao",
+    "wang",
+    "https://www.artstation.com/artwork/nxm0d",
+    "creature",
+    "concept",
+    "demon",
+    "horror"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -27,6 +43,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

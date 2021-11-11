@@ -25,7 +25,15 @@
     "hao",
     "jiang",
     "samurai",
-    "artwork"
+    "artwork",
+    "cute",
+    "dark",
+    "kratos",
+    "snow",
+    "white",
+    "bgy",
+    "izu",
+    "steampunk"
   ],
   "small": {
     "scale": 0.6899999999999997,
@@ -46,6 +54,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

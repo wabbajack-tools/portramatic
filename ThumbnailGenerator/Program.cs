@@ -147,6 +147,11 @@ class Program
 
                         var (hash, size) = await GenerateThumbnail(archive, definition);
                         hashes.Add((definition, hash, size, path));
+
+                        if (string.IsNullOrEmpty(definition.PHash))
+                        {
+                            definition.PHash = Convert.ToBase64String(hash.Coefficients);
+                        }
                     }
                     catch (Exception ex)
                     {
@@ -196,6 +201,11 @@ class Program
                 }
             }
         }
+
+        var oldData = await File.ReadAllTextAsync($"../UnexDefinitions/{args[2]}");
+        await File.WriteAllTextAsync("../unex.yml",
+            oldData + $"\n{DateTime.Now:yyyy-MM-dd} {args[2]} release, now with {definitions.Count} images.");
+        
         Console.WriteLine($"Output zip is {outputMemoryStream.Length} bytes in size");
         await File.WriteAllBytesAsync(Path.Combine(args[1], "gallery.zip"), outputMemoryStream.ToArray());
         return 0;
@@ -207,10 +217,17 @@ class Program
         var (width, height) = definition.Full.FinalSize;
         using var src = SKImage.FromEncodedData(new MemoryStream(bitmapBytes));
 
+        Digest hash;
+        if (string.IsNullOrWhiteSpace(definition.PHash))
+        {
+            var ibitmap = new SKImageIBitmap(src);
+            hash = ImagePhash.ComputeDigest(ibitmap);
+        }
+        else
+        {
+            hash = new Digest {Coefficients = Convert.FromBase64String(definition.PHash)};
+        }
         
-        var ibitmap = new SKImageIBitmap(src);
-        var hash = ImagePhash.ComputeDigest(ibitmap);
-
         var cropped = definition.Crop(src, ImageSize.Full);
         var snap = Resize(cropped, width / 4, height / 4);
 

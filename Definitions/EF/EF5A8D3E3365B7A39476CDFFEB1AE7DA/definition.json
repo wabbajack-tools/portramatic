@@ -1,0 +1,28 @@
+{
+  "source": "https://images.uesp.net/4/4a/SR-npc-Gabriella.jpg",
+  "md5": "EF5A8D3E3365B7A39476CDFFEB1AE7DA",
+  "tags": [
+    "assassin"
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -561,
+    "offset_y": -23,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -372,
+    "offset_y": -18,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.8300000000000007,
+    "offset_x": -564,
+    "offset_y": -32,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

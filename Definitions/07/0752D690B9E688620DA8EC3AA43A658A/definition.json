@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/a6/5e/1f/a65e1fbe99edbd50eb27e8422a6090cb.jpg",
+  "md5": "0752D690B9E688620DA8EC3AA43A658A",
+  "tags": [
+    "dwarf",
+    "male",
+    "inquisitor",
+    "assassin",
+    "alchemist",
+    "monster hunter"
+  ],
+  "small": {
+    "scale": 0.7899999999999998,
+    "offset_x": -145.60000000000002,
+    "offset_y": -54.59999999999991,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -102.79999999999995,
+    "offset_y": -30,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.6000000000000005,
+    "offset_x": -117.19999999999993,
+    "offset_y": -84.39999999999986,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

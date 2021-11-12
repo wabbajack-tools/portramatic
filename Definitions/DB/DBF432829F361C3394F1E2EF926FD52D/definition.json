@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f4/61/a0/f461a00711a210e0f48a0ff026c0f852.jpg",
+  "md5": "DBF432829F361C3394F1E2EF926FD52D",
+  "tags": [
+    "dwarf",
+    "female",
+    "hungry",
+    "druid",
+    "shaman",
+    "barbarian"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -182.60000000000002,
+    "offset_y": -189.5999999999999,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -102.79999999999995,
+    "offset_y": -30,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.7500000000000007,
+    "offset_x": -195.19999999999993,
+    "offset_y": -54.399999999999864,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

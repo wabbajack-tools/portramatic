@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/564x/f5/be/4e/f5be4eaeae08909a5876434559e5b70d.jpg",
+  "md5": "BB01BE572ADE3DB4FCD55A32310614FC",
+  "tags": [
+    "dwarf",
+    "female",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -193.60000000000002,
+    "offset_y": -20.59999999999991,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -20.799999999999955,
+    "offset_y": -9,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.7200000000000006,
+    "offset_x": -97.19999999999993,
+    "offset_y": -54.399999999999864,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

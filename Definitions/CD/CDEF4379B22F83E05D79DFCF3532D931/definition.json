@@ -1,0 +1,29 @@
+{
+  "source": "https://i.pinimg.com/564x/34/a1/0b/34a10b647e17b88fba2eb80d61fe5656.jpg",
+  "md5": "CDEF4379B22F83E05D79DFCF3532D931",
+  "tags": [
+    "human",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.7399999999999998,
+    "offset_x": -128,
+    "offset_y": -2,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -150,
+    "offset_y": -4,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.4700000000000004,
+    "offset_x": -62,
+    "offset_y": -2,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

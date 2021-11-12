@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/WRXflCO.jpeg",
+  "md5": "0B7CD9AB2D901685C3FC8601DD5D96FC",
+  "tags": [
+    "dwarf",
+    "male",
+    "ranger",
+    "hunter"
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -411.6,
+    "offset_y": -250.5999999999999,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -266.79999999999995,
+    "offset_y": -256,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.7899999999999998,
+    "offset_x": -357.19999999999993,
+    "offset_y": -140.39999999999986,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

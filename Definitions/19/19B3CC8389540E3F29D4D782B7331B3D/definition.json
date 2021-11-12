@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/EuBXPRX.jpeg",
+  "md5": "19B3CC8389540E3F29D4D782B7331B3D",
+  "tags": [
+    "dwarf",
+    "female",
+    "barbarian",
+    "fighter",
+    "berserker"
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -301.6,
+    "offset_y": -92.59999999999997,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.4099999999999995,
+    "offset_x": -113.80000000000001,
+    "offset_y": -30,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.8799999999999999,
+    "offset_x": -249.19999999999993,
+    "offset_y": -48.399999999999864,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

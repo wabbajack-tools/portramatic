@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/BlZNKpw.jpeg",
+  "md5": "382CA4A086D1C77E49BB38DC9B79F451",
+  "tags": [
+    "dwarf",
+    "female",
+    "fighter",
+    "paladin",
+    "knight"
+  ],
+  "small": {
+    "scale": 0.4299999999999995,
+    "offset_x": -307.6,
+    "offset_y": -29.599999999999966,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.18999999999999928,
+    "offset_x": -22.80000000000001,
+    "offset_y": -4,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.4599999999999995,
+    "offset_x": -75.19999999999993,
+    "offset_y": -8.399999999999864,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

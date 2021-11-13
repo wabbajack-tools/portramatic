@@ -73,8 +73,6 @@ public class PortraitDefinition
 
     [JsonPropertyName("nsfw")] public bool IsNSFW { get; set; } = false;
 
-    [JsonPropertyName("phash")] public string? PHash { get; set; } = "";
-
     public SKImage Crop(SKImage src, ImageSize size)
     {
 

@@ -12,7 +12,25 @@
     "cloak",
     "knight",
     "duel",
-    ""
+    "",
+    "female",
+    "character",
+    "ideas",
+    "druid",
+    "artwork",
+    "hasan",
+    "tabrizi",
+    "skull",
+    "bones",
+    "batman",
+    "day",
+    "dark",
+    "mizuri",
+    "blackrose",
+    "paul",
+    "nong",
+    "https://www.artstation.com/artwork/4b4lrl",
+    "2020"
   ],
   "small": {
     "scale": 0.5499999999999996,
@@ -32,5 +50,7 @@
     "offset_y": -26.794344473007698,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

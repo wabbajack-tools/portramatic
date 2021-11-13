@@ -6,7 +6,20 @@
     "female",
     "mage",
     "wizard",
-    "sorcerer"
+    "sorcerer",
+    "wow",
+    "dwarf",
+    "priest",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "trio",
+    "steve",
+    "goad",
+    "warrior"
   ],
   "small": {
     "scale": 1.6200000000000006,
@@ -27,6 +40,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,7 +6,32 @@
     "female",
     "inquisitor",
     "monster hunter",
-    "alchemist"
+    "alchemist",
+    "character",
+    "steampunk",
+    "miniatures",
+    "pirates",
+    "caribbean",
+    "dungeons",
+    "dragons",
+    "gnome",
+    "barbarians",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "stefan",
+    "koidl\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "design",
+    "set",
+    "sun",
+    "qi",
+    "girls",
+    "characters"
   ],
   "small": {
     "scale": 1.5000000000000004,
@@ -27,6 +52,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

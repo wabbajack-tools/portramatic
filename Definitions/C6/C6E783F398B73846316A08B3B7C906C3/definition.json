@@ -5,7 +5,25 @@
     "dwarf",
     "female",
     "wildling",
-    "barbarian"
+    "barbarian",
+    "fighter",
+    "dwarves",
+    "monk",
+    "yugio",
+    "super",
+    "heroes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "horror",
+    "adventures",
+    "characters",
+    "fallout",
+    "fan",
+    "jab",
+    "jira",
+    "https://www"
   ],
   "small": {
     "scale": 1.08,
@@ -26,6 +44,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,7 +5,24 @@
     "dwarf",
     "female",
     "hammer",
-    "fighter"
+    "fighter",
+    "anime",
+    "gladiator",
+    "woman",
+    "pirate",
+    "samurai",
+    "geisha",
+    "marta",
+    "brown",
+    "serna",
+    "archer",
+    "sung",
+    "wook",
+    "baik",
+    "character",
+    "aristocrat",
+    "valtteri",
+    "heinonen"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -26,6 +43,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

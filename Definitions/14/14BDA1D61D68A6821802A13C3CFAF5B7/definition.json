@@ -2,7 +2,12 @@
   "source": "https://pbs.twimg.com/media/EOpKhNJXUAI8znH.jpg",
   "md5": "14BDA1D61D68A6821802A13C3CFAF5B7",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 1.1400000000000001,
@@ -23,6 +28,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

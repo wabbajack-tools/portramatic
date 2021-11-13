@@ -23,7 +23,21 @@
     "priestess",
     "amy",
     "cornelson",
-    "character"
+    "character",
+    "black",
+    "mage",
+    "fire",
+    "robe",
+    "concept",
+    "league",
+    "legends",
+    "dungeons",
+    "dragons",
+    "night",
+    "chaos",
+    "warrior",
+    "souls",
+    "orcs"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -44,6 +58,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

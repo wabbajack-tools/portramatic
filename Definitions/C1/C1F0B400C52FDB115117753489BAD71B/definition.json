@@ -6,7 +6,34 @@
     "female",
     "knight",
     "courtier",
-    "noble"
+    "noble",
+    "rpg",
+    "wizard",
+    "gnome",
+    "fighter",
+    "heavy",
+    "armor",
+    "armors",
+    "paladin",
+    "sets",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "halfling",
+    "ilina",
+    "naydenova",
+    "\u6CD5\u5E08",
+    "andy",
+    "zero",
+    "character",
+    "portraits",
+    "playing",
+    "paizo",
+    "brawler",
+    "fernanda",
+    "suarez"
   ],
   "small": {
     "scale": 1.09,
@@ -27,6 +54,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

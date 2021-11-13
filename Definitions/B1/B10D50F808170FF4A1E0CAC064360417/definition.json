@@ -5,7 +5,12 @@
     "dragon",
     "spirit",
     "ugin",
-    "mtg"
+    "mtg",
+    "planeswalker",
+    "magic",
+    "gathering",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 2.219999999999996,
@@ -22,8 +27,10 @@
   "full": {
     "scale": 2.419999999999992,
     "offset_x": -478.9537037037044,
-    "offset_y": -2.2737367544323206e-13,
+    "offset_y": -2.2737367544323206E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

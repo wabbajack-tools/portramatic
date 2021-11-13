@@ -3,7 +3,11 @@
   "md5": "064DF06C8ECF0371E7A27E16C97133B2",
   "tags": [
     "medieval",
-    "lord"
+    "lord",
+    "human",
+    "fighter",
+    "female",
+    "male"
   ],
   "small": {
     "scale": 1,
@@ -24,6 +28,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

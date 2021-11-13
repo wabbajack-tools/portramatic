@@ -13,7 +13,7 @@
     "death",
     "nameless",
     "king",
-    "adrián",
+    "adri\uFFFDn",
     "prado",
     "2021",
     "characters",
@@ -26,7 +26,10 @@
     "cleric",
     "beast",
     "igor",
-    "krstic"
+    "krstic",
+    "orc",
+    "warrior",
+    "adri\u00E1n"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -47,6 +50,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

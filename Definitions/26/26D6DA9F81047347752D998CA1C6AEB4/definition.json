@@ -2,7 +2,13 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/005/498/919/large/alexey-kot-0004-wip-2-5-jpg.jpg?1491478309",
   "md5": "26D6DA9F81047347752D998CA1C6AEB4",
   "tags": [
-    ""
+    "",
+    "tower",
+    "defense",
+    "defence",
+    "human_made_object",
+    "packaged_product",
+    "packaged_bottle_or_jar"
   ],
   "small": {
     "scale": 0.6499999999999997,
@@ -23,6 +29,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

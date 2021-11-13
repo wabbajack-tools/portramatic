@@ -2,7 +2,21 @@
   "source": "https://i.pinimg.com/736x/aa/73/12/aa7312575a4b65885033f660abe4c279.jpg",
   "md5": "21217A9D178CF864C0368B077D29CEAC",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones",
+    "pirates",
+    "caribbean",
+    "elder",
+    "scrolls",
+    "online",
+    "mad",
+    "hatter",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.4800000000000009,
@@ -22,5 +36,7 @@
     "offset_y": 0,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

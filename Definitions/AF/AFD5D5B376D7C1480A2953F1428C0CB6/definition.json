@@ -2,7 +2,21 @@
   "source": "https://i.redd.it/5nc5irt3prz21.jpg",
   "md5": "AFD5D5B376D7C1480A2953F1428C0CB6",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "human",
+    "fighter",
+    "rpg",
+    "characters",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "armor",
+    "barbarians",
+    "armors"
   ],
   "small": {
     "scale": 1.4700000000000004,
@@ -22,5 +36,7 @@
     "offset_y": -118,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

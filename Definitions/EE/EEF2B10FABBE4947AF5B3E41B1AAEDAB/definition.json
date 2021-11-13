@@ -9,7 +9,8 @@
     "thrones",
     "elder",
     "scrolls",
-    "online"
+    "online",
+    "kratos"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -30,6 +31,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

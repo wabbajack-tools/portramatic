@@ -24,7 +24,16 @@
     "animal",
     "mammal",
     "angel",
-    "aasimar"
+    "aasimar",
+    "character",
+    "design",
+    "challenge",
+    "cat",
+    "ninja",
+    "\u5DE5\u4F5C\u56FE02",
+    "d",
+    "dinno",
+    "animation"
   ],
   "small": {
     "scale": 0.6499999999999998,
@@ -44,5 +53,7 @@
     "offset_y": -29,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

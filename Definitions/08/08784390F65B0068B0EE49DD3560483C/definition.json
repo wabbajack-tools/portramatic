@@ -11,7 +11,18 @@
     "profile",
     "sexy",
     "girl",
-    "3d"
+    "3d",
+    "nature",
+    "witch",
+    "aesthetic",
+    "dark",
+    "laptop",
+    "background",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8499999999999999,
@@ -32,6 +43,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

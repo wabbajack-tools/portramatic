@@ -27,7 +27,14 @@
     ".",
     "female",
     "women",
-    "girl"
+    "girl",
+    "tokyo",
+    "babylon",
+    "manga",
+    "gate",
+    "anime",
+    "darth",
+    "vader"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -48,6 +55,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,13 +1,19 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
 using System.Collections.Concurrent;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.IO.Compression;
+using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Threading.Tasks;
 using System.Web;
 using Avalonia;
 using Avalonia.Media.Imaging;
@@ -198,7 +204,7 @@ class Program
         }
 
         var oldData = await File.ReadAllTextAsync($"../UnexDefinitions/{args[2]}.yml");
-        await File.WriteAllTextAsync("../unex.yml",
+        await File.WriteAllTextAsync("../unex.yml", "FileDescription: " +
             oldData + $"\n{DateTime.Now:yyyy-MM-dd} {args[2]} release, now with {definitions.Count} images.");
         
         Console.WriteLine($"Output zip is {outputMemoryStream.Length} bytes in size");
@@ -263,7 +269,7 @@ class Program
                 .ToArray();
 
 
-            Console.WriteLine($"Tags: {string.Join(", ", alltags)}");
+            Console.WriteLine($"Tags: {string.Join(", ", (string[])alltags)}");
             return alltags;
         
     }

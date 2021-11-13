@@ -13,7 +13,13 @@
     "portrait",
     "female",
     "hair",
-    ""
+    "",
+    "charlie",
+    "bowater",
+    "acotar",
+    "feyre",
+    "rhysand",
+    "fan"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -33,5 +39,7 @@
     "offset_y": -6,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

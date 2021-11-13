@@ -11,7 +11,35 @@
     "jacket",
     "overcoat",
     "female",
-    ""
+    "",
+    "cryomancer",
+    "yveltal",
+    "fan",
+    "cryomancy",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "anime",
+    "guys",
+    "illidari",
+    "felblade",
+    "angelica",
+    "alieva",
+    "hearthstone",
+    "artwork",
+    "warcraft",
+    "world",
+    "my",
+    "sorcerer",
+    "called",
+    "shiver",
+    "dan",
+    "bittencourt",
+    "shadow",
+    "huntress",
+    "olga",
+    "zhgirovskaya"
   ],
   "small": {
     "scale": 0.8499999999999999,
@@ -31,5 +59,7 @@
     "offset_y": -7.333333333333485,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

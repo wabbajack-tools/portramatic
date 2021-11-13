@@ -20,7 +20,23 @@
     "animal",
     "mammal",
     "angel",
-    "aasimar"
+    "aasimar",
+    "dark",
+    "resident",
+    "evil",
+    "revelations",
+    "\u6697\u7CBE\u7075",
+    "he",
+    "xiaofeng",
+    "https://www.artstation.com/artwork/d5lkx",
+    "concept",
+    "johanna",
+    "fanart",
+    "benjamin",
+    "wiesemann",
+    "curse",
+    "mortality",
+    "israelpato"
   ],
   "small": {
     "scale": 0.4499999999999995,
@@ -40,5 +56,7 @@
     "offset_y": -13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

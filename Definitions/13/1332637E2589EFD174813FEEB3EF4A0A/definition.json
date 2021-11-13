@@ -12,7 +12,26 @@
     "tattoo",
     "drawing",
     "furniture",
-    "monk"
+    "monk",
+    "shaolin",
+    "warrior",
+    "dragon",
+    "age",
+    "origins",
+    "elder",
+    "scrolls",
+    "online",
+    "king",
+    "th\u00E9oden",
+    "\uFF08the",
+    "lord",
+    "rings\uFF09",
+    "yuanguang",
+    "xu",
+    "escaped",
+    "prisoner",
+    "joart",
+    "14"
   ],
   "small": {
     "scale": 1.1,
@@ -32,5 +51,7 @@
     "offset_y": -44.399999999999864,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -11,7 +11,25 @@
     "profile",
     "sexy",
     "girl",
-    "3d"
+    "3d",
+    "female",
+    "gothic",
+    "witch",
+    "blonde",
+    "elves",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "enchantress",
+    "randy",
+    "vargas",
+    "vargasni"
   ],
   "small": {
     "scale": 0.7399999999999998,
@@ -32,6 +50,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

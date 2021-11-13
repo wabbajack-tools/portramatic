@@ -11,7 +11,35 @@
     "people",
     "dancer",
     "mage",
-    "assassin"
+    "assassin",
+    "anime",
+    "male",
+    "dark",
+    "elf",
+    "concept",
+    "drow",
+    "female",
+    "avengers\u0027",
+    "infinity",
+    "war",
+    "early",
+    "proxima",
+    "midnight",
+    "tully",
+    "summers",
+    "middle",
+    "earth",
+    "\u0022shadow",
+    "mordor\u0022",
+    "black",
+    "guard",
+    "kristian",
+    "bourdage",
+    "shadow",
+    "mordor",
+    "crow",
+    "j",
+    "hill"
   ],
   "small": {
     "scale": 0.2999999999999994,
@@ -31,5 +59,7 @@
     "offset_y": -7,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

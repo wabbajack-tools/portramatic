@@ -12,7 +12,25 @@
     "gun",
     "cleric",
     "inquisitor",
-    "mage"
+    "mage",
+    "warrior",
+    "with",
+    "shield",
+    "clip",
+    "magic",
+    "take",
+    "vengeance",
+    "mtg",
+    "randy",
+    "vargas",
+    "vargasni",
+    "ragnabreak",
+    "donfoo",
+    ".",
+    "character",
+    "\u6771\u65B9\u6B66\u58EB",
+    "mumu",
+    "mei"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -32,5 +50,7 @@
     "offset_y": -22,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

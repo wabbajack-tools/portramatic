@@ -30,7 +30,17 @@
     "online",
     "cinematic",
     "zombie",
-    "breton"
+    "breton",
+    "anime",
+    "queen",
+    "medieval",
+    "dark",
+    "concept",
+    "black",
+    "panther",
+    "marvel",
+    "kim",
+    "junjong"
   ],
   "small": {
     "scale": 1.03,
@@ -51,6 +61,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

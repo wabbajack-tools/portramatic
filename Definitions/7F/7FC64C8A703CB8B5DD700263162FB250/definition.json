@@ -11,7 +11,12 @@
     "jacket",
     "overcoat",
     "female",
-    ""
+    "",
+    "warrior",
+    "character",
+    "dark",
+    "elf",
+    "queen"
   ],
   "small": {
     "scale": 0.22999999999999932,
@@ -31,5 +36,7 @@
     "offset_y": -5.333333333333485,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

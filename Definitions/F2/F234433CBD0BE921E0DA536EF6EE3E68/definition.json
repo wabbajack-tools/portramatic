@@ -5,7 +5,29 @@
     "dwarf",
     "female",
     "fighter",
-    "blackguard"
+    "blackguard",
+    "behance",
+    "design",
+    "ui",
+    "concept",
+    "artist",
+    "business",
+    "card",
+    "realities",
+    "edge",
+    "book",
+    "cover",
+    "thomas",
+    "elliott",
+    "corsair",
+    "mage",
+    "character",
+    "rodrigo",
+    "rivas",
+    "~~",
+    "xuan",
+    "liu",
+    "dark"
   ],
   "small": {
     "scale": 1.1300000000000001,
@@ -26,6 +48,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

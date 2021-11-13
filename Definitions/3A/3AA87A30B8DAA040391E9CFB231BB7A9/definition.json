@@ -11,7 +11,24 @@
     "profile",
     "sexy",
     "girl",
-    "3d"
+    "3d",
+    "magic",
+    "artwork",
+    "fan",
+    "gathering",
+    "concept",
+    "game",
+    "thrones",
+    "hobbit",
+    "white",
+    "queen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "lord_of_death",
+    "mirco",
+    "paganessi"
   ],
   "small": {
     "scale": 1.06,
@@ -32,6 +49,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -19,7 +19,14 @@
     "frost",
     "warrior",
     "brad",
-    "groatman"
+    "groatman",
+    "mage",
+    "dark",
+    "elf",
+    "sorcerer",
+    "drawings",
+    "dawn",
+    "war"
   ],
   "small": {
     "scale": 1,
@@ -40,6 +47,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

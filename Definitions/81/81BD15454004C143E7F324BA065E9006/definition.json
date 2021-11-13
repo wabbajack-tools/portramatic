@@ -9,7 +9,24 @@
     "angel",
     "archangel",
     "dragon",
-    ""
+    "",
+    "demon",
+    "sketch",
+    "bogdan",
+    "padalko",
+    "2b",
+    "nier",
+    "fanart",
+    "resources",
+    "darth",
+    "vader",
+    "redesign",
+    "renaud",
+    "perochon",
+    "star",
+    "wars",
+    "pictures",
+    "sith"
   ],
   "small": {
     "scale": 0.7799999999999996,
@@ -29,5 +46,7 @@
     "offset_y": 2,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

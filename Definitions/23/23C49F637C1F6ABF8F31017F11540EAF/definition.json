@@ -19,8 +19,10 @@
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -404,
-    "offset_y": 5.115907697472721e-13,
+    "offset_y": 5.115907697472721E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": true
 }

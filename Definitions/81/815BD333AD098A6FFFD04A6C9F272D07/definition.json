@@ -5,7 +5,27 @@
     "warrior",
     "death",
     "knight",
-    "male"
+    "male",
+    "armor",
+    "sets",
+    "heavy",
+    "plate",
+    "dark",
+    "barbarian",
+    "nukey",
+    "hsieh",
+    "character",
+    "inspiration",
+    "bg-99",
+    "wang",
+    "bo",
+    "baggi",
+    "monster",
+    "hunter",
+    "fanart",
+    "daniel",
+    "hiew",
+    "fan"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -26,6 +46,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -20,7 +20,26 @@
     "apparel",
     "costume",
     "knight",
-    ""
+    "",
+    "hobbit",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "dress",
+    "formal_dress",
+    "jojen",
+    "reed",
+    "arvin",
+    "liu",
+    "a",
+    "song",
+    "ice",
+    "practice",
+    "artwork",
+    "zhou",
+    "sihui",
+    "character"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -40,5 +59,7 @@
     "offset_y": -8,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

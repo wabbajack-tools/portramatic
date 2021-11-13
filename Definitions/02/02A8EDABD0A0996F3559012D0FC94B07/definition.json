@@ -1,8 +1,13 @@
 {
-  "source": "https://sun9-42.userapi.com/impg/iUv-TpwpGD5jI8OgtSk5t8ViolfI2zVRnjQRVw/yn9exdp5_sc.jpg?size=1596x2160&quality=96&sign=ae92ab672a2dad67a0309153b65496f9&type=album",
+  "source": "https://sun9-42.userapi.com/impg/iUv-TpwpGD5jI8OgtSk5t8ViolfI2zVRnjQRVw/yn9exdp5_sc.jpg?size=1596x2160\u0026quality=96\u0026sign=ae92ab672a2dad67a0309153b65496f9\u0026type=album",
   "md5": "02A8EDABD0A0996F3559012D0FC94B07",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "dark"
   ],
   "small": {
     "scale": 0.7499999999999998,
@@ -22,5 +27,7 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

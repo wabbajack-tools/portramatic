@@ -23,7 +23,15 @@
     "design",
     "cecile",
     "yamanata",
-    "ho"
+    "ho",
+    "dark",
+    "elf",
+    "mortal",
+    "kombat",
+    "characters",
+    "\u9ED1\u6E56\u6B66\u58EB",
+    "\u9EC4",
+    "\u6CB3"
   ],
   "small": {
     "scale": 1.2000000000000002,
@@ -44,6 +52,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

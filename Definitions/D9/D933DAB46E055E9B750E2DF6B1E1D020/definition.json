@@ -5,7 +5,18 @@
     "gnome",
     "knight",
     "halfling",
-    "female"
+    "female",
+    "cat",
+    "mole",
+    "wang",
+    "character",
+    "design",
+    "berserker",
+    "kanu",
+    "jaeheon",
+    "kim",
+    "2020",
+    "great"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -26,6 +37,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

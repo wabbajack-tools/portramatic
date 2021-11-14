@@ -14,7 +14,7 @@
     "plasma",
     "cat",
     "drawing",
-    "&",
+    "\u0026",
     "rendering",
     "tutorial",
     "hunter",
@@ -24,7 +24,15 @@
     "warmother",
     "league",
     "legends",
-    "10th"
+    "10th",
+    "sasuke",
+    "from",
+    "shippuden",
+    "sakura",
+    "uchiha",
+    "ibrahem",
+    "swaid",
+    "character"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -45,6 +53,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

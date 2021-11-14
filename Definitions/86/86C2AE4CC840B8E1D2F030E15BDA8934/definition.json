@@ -16,7 +16,33 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "twilight",
+    "from",
+    "my",
+    "little",
+    "pony",
+    "princess",
+    "sparkle",
+    "movie",
+    "anime",
+    "girl",
+    "mega",
+    "man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\u6B66\u58EB\u5C0F\u53EF\u7231",
+    "yu",
+    "xiyan",
+    "https://www.artstation.com/artwork/w8vyjv",
+    "character",
+    "ophanim",
+    "erik",
+    "nilsson",
+    "https://www.artstation.com/artwork/kxk8k",
+    "creature"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -36,5 +62,7 @@
     "offset_y": -20,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

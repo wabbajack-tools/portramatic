@@ -2,9 +2,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:i="clr-namespace:Material.Icons.Avalonia;assembly=Material.Icons.Avalonia"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="Portramatic.Views.GalleryItem">
     <Button Margin="2" Padding="0" x:Name="FocusButton">
-      <Image x:Name="GalleryImage" Width="173" Height="256"/>
+        <Grid>
+            <Image x:Name="GalleryImage" Width="173" Height="256"/>
+            <Button HorizontalAlignment="Right" VerticalAlignment="Bottom" x:Name="DeleteButton" Click="DeleteClicked">
+                <i:MaterialIcon Kind="Delete"></i:MaterialIcon>
+            </Button>
+        </Grid>
     </Button>
 </UserControl>

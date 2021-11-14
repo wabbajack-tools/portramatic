@@ -1,8 +1,15 @@
 {
-  "source": "https://static.wikia.nocookie.net/elderscrolls/images/0/01/Festus.jpg/revision/latest?cb=20120303163618&path-prefix=ru",
+  "source": "https://static.wikia.nocookie.net/elderscrolls/images/0/01/Festus.jpg/revision/latest?cb=20120303163618\u0026path-prefix=ru",
   "md5": "FF13EA9FC2A1F790A26F5C02C589E37B",
   "tags": [
-    "assassin"
+    "assassin",
+    "festus",
+    "memes",
+    "krex",
+    "inside",
+    "out",
+    "spell",
+    "skyrim"
   ],
   "small": {
     "scale": 1.4500000000000004,
@@ -23,6 +30,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

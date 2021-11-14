@@ -9,7 +9,13 @@
     "fantasy",
     "blonde",
     "crow",
-    "hood"
+    "hood",
+    "dolls",
+    "raven",
+    "armor",
+    "league",
+    "legends",
+    "ninja"
   ],
   "small": {
     "scale": 0.94,
@@ -30,6 +36,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -26,7 +26,11 @@
     "female",
     "lisa",
     "nikisatez",
-    "https://www.artstation"
+    "https://www.artstation",
+    "king",
+    "arthur",
+    "pedro",
+    "jatob\u00E1"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -47,6 +51,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

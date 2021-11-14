@@ -16,7 +16,17 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "manga",
+    "anime",
+    "digital",
+    "animation",
+    "tumblr",
+    "girl",
+    "characters",
+    "katara",
+    "ross",
+    "tran"
   ],
   "small": {
     "scale": 1.1800000000000002,
@@ -36,5 +46,7 @@
     "offset_y": -12,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -35,24 +35,27 @@
     "zhao"
   ],
   "small": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
-    "size": "small"
+    "scale": 2.05,
+    "offset_x": -515,
+    "offset_y": -159,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
-    "size": "medium"
+    "scale": 1.2800000000000002,
+    "offset_x": -184,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
-    "scale": 1,
-    "offset_x": -330,
-    "offset_y": -116,
-    "size": "full"
+    "scale": 1.2700000000000002,
+    "offset_x": -20,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": true,
+  "requeried": false,
   "nsfw": false
 }

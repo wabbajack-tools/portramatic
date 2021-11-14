@@ -5,7 +5,11 @@
     "dwarf",
     "female",
     "wildling",
-    "barbarian"
+    "barbarian",
+    "druid",
+    "character",
+    "concept",
+    "noble"
   ],
   "small": {
     "scale": 0.38999999999999946,
@@ -26,6 +30,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

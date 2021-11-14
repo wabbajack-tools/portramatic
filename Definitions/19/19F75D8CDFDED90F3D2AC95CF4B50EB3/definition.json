@@ -18,7 +18,24 @@
     "nature",
     "female",
     "succubus",
-    "demon"
+    "demon",
+    "league",
+    "legends",
+    "flower",
+    "series-sacred",
+    "lotus",
+    "steve",
+    "zheng",
+    "wolf",
+    "ranger",
+    "shawn",
+    "ye",
+    "zhongyi",
+    "dark",
+    "elf",
+    "astro",
+    "burn",
+    "_w"
   ],
   "small": {
     "scale": 0.7699999999999998,
@@ -38,5 +55,7 @@
     "offset_y": -13.388888888889028,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

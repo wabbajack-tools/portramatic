@@ -6,7 +6,33 @@
     "female",
     "barbarian",
     "fighter",
-    "berserker"
+    "berserker",
+    "armor",
+    "monk",
+    "wood",
+    "elf",
+    "dungeons",
+    "dragons",
+    "armors",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "aquaman",
+    "fianto",
+    "kargono",
+    "duelist",
+    "gunship",
+    "revolution",
+    "https://www",
+    "bandit",
+    "boss",
+    "mepopa",
+    "sehun",
+    "jeong"
   ],
   "small": {
     "scale": 0.7199999999999998,
@@ -27,6 +53,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

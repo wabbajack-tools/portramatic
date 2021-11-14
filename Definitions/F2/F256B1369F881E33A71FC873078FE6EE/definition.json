@@ -33,7 +33,12 @@
     "portfolio",
     "yeonghee",
     "cho",
-    "women"
+    "women",
+    "elves",
+    "pirate",
+    "nata",
+    ".",
+    "pirates"
   ],
   "small": {
     "scale": 0.99,
@@ -50,10 +55,10 @@
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -139.3611111111113,
-    "offset_y": -2.2737367544323206e-13,
+    "offset_y": -2.2737367544323206E-13,
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

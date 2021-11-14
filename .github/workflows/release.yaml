@@ -48,10 +48,6 @@ jobs:
           folder: ./
           # Recursively search for supported files.
           recursive: false
-      - uses: actions/upload-artifact@v2
-        with:
-          name: Portramatic-win-${{ steps.date.outputs.date }}
-          path: Portramatic.exe
       - name: Export Cookies
         run: echo "$NEXUS_COOKIE" > ./cookies.txt
         shell: bash
@@ -61,6 +57,10 @@ jobs:
         run: nexus-mods-uploader upload 169 ./Portramatic.exe -v ${{ steps.date.outputs.date }}
         env:
           UNEX_COOKIES: ./cookies.txt
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Portramatic-win-${{ steps.date.outputs.date }}
+          path: Portramatic.exe          
 
   build-linux:
     name: Build Linux

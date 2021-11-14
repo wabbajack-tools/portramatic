@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Threading.Tasks;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Interactivity;
 using Avalonia.Markup.Xaml;
+using Avalonia.Media;
 using Avalonia.ReactiveUI;
 using Avalonia.Threading;
 using Avalonia.VisualTree;
@@ -28,6 +30,8 @@ namespace Portramatic.Views
 
             this.WhenActivated(disposables =>
             {
+
+                ResaveButton.IsVisible = Program.IsAdminMode;
                 this.OneWayBind(ViewModel, vm => vm.GalleryItems, view => view.Gallery.Items)
                     .DisposeWith(disposables);
                 
@@ -41,6 +45,25 @@ namespace Portramatic.Views
                     .DisposeWith(disposables);
 
                 ViewModel.WhenAnyValue(vm => vm.Definition.Small.Scale)
+                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Small.OffsetX),
+                        ViewModel.WhenAnyValue(vm => vm.Definition.Small.OffsetY),
+                        ViewModel.WhenAnyValue(vm => vm.Definition.Small.Rotation),
+                        ViewModel.WhenAnyValue(vm => vm.RawImage))
+                    .Where(d => d.Fifth != null)
+                    .Subscribe(t =>
+                    {
+                        var matrix =
+                            Matrix.CreateRotation(t.Fourth) *
+                            Matrix.CreateScale(t.First, t.First) *
+                            Matrix.CreateTranslation(t.Second, t.Third);
+
+                        Small.RenderTransformOrigin = RelativePoint.TopLeft;
+                        Small.RenderTransform = new MatrixTransform(matrix);
+
+                    }).DisposeWith(disposables);
+                    
+/*
+                ViewModel.WhenAnyValue(vm => vm.Definition.Small.Scale)
                     .CombineLatest(ViewModel.WhenAnyValue(vm => vm.RawImage))
                     .Where(d => d.Second != null)
                     .Subscribe(t =>
@@ -49,7 +72,7 @@ namespace Portramatic.Views
                         Small.Height = t.Second.Size.Height * t.First;
                     })
                     .DisposeWith(disposables);
-
+                
                 ViewModel.WhenAnyValue(vm => vm.Definition.Small.OffsetX)
                     .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Small.OffsetY))
                     //.Throttle(TimeSpan.FromMilliseconds(100))
@@ -59,56 +82,51 @@ namespace Portramatic.Views
                         Canvas.SetLeft(Small, t.First);
                         Canvas.SetTop(Small, t.Second);
                     }).DisposeWith(disposables);
+                    */
 
                 
                 this.OneWayBind(ViewModel, vm => vm.RawImage, view => view.Medium.Source)
                     .DisposeWith(disposables);
 
                 ViewModel.WhenAnyValue(vm => vm.Definition.Medium.Scale)
-                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.RawImage))
-                    .Where(d => d.Second != null)
+                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Medium.OffsetX),
+                        ViewModel.WhenAnyValue(vm => vm.Definition.Medium.OffsetY),
+                        ViewModel.WhenAnyValue(vm => vm.Definition.Medium.Rotation),
+                        ViewModel.WhenAnyValue(vm => vm.RawImage))
+                    .Where(d => d.Fifth != null)
                     .Subscribe(t =>
                     {
-                        Medium.Width = t.Second.Size.Width * t.First;
-                        Medium.Height = t.Second.Size.Height * t.First;
-                    })
-                    .DisposeWith(disposables);
+                        var matrix =
+                            Matrix.CreateRotation(t.Fourth) *
+                            Matrix.CreateScale(t.First, t.First) *
+                            Matrix.CreateTranslation(t.Second, t.Third);
 
+                        Medium.RenderTransformOrigin = RelativePoint.TopLeft;
+                        Medium.RenderTransform = new MatrixTransform(matrix);
 
-                ViewModel.WhenAnyValue(vm => vm.Definition.Medium.OffsetX)
-                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Medium.OffsetY))
-                    //.Throttle(TimeSpan.FromMilliseconds(100))
-                    .ObserveOn(RxApp.MainThreadScheduler)
-                    .Subscribe(t =>
-                    {
-                        Canvas.SetLeft(Medium, ViewModel.Definition.Medium.OffsetX);
-                        Canvas.SetTop(Medium, ViewModel.Definition.Medium.OffsetY);
                     }).DisposeWith(disposables);
-
 
                 this.OneWayBind(ViewModel, vm => vm.RawImage, view => view.Full.Source)
                     .DisposeWith(disposables);
 
                 ViewModel.WhenAnyValue(vm => vm.Definition.Full.Scale)
-                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.RawImage))
-                    .Where(d => d.Second != null)
+                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Full.OffsetX),
+                        ViewModel.WhenAnyValue(vm => vm.Definition.Full.OffsetY),
+                        ViewModel.WhenAnyValue(vm => vm.Definition.Full.Rotation),
+                        ViewModel.WhenAnyValue(vm => vm.RawImage))
+                    .Where(d => d.Fifth != null)
                     .Subscribe(t =>
                     {
-                        Full.Width = t.Second.Size.Width * t.First;
-                        Full.Height = t.Second.Size.Height * t.First;
-                    })
-                    .DisposeWith(disposables);
 
-                ViewModel.WhenAnyValue(vm => vm.Definition.Full.OffsetX)
-                    .CombineLatest(ViewModel.WhenAnyValue(vm => vm.Definition.Full.OffsetY))
-                    //.Throttle(TimeSpan.FromMilliseconds(100))
-                    .ObserveOn(RxApp.MainThreadScheduler)
-                    .Subscribe(t =>
-                    {
-                        Canvas.SetLeft(Full, t.First);
-                        Canvas.SetTop(Full, t.Second);
+                        var matrix =
+                            Matrix.CreateRotation(t.Fourth) *
+                            Matrix.CreateScale(t.First, t.First) *
+                            Matrix.CreateTranslation(t.Second, t.Third);
+
+                        Full.RenderTransformOrigin = RelativePoint.TopLeft;
+                        Full.RenderTransform = new MatrixTransform(matrix);
+
                     }).DisposeWith(disposables);
-
                 
                 this.BindCommand(ViewModel, vm => vm.Export, view => view.ExportButton)
                     .DisposeWith(disposables);
@@ -132,15 +150,37 @@ namespace Portramatic.Views
 
         private void InputElement_OnPointerWheelChangedSmall(object? sender, PointerWheelEventArgs e)
         {
-            ViewModel!.Definition.Small.Scale += (e.Delta.Y * 0.01);
+            if (e.KeyModifiers.HasFlag(KeyModifiers.Alt))
+            {
+                ViewModel!.Definition.Small.Rotation += (e.Delta.Y * 0.01);
+            }
+            else
+            {
+                ViewModel!.Definition.Small.Scale += (e.Delta.Y * 0.01);
+            }
+
         }
         private void InputElement_OnPointerWheelChangedMedium(object? sender, PointerWheelEventArgs e)
         {
-            ViewModel!.Definition.Medium.Scale += (e.Delta.Y * 0.01);
+            if (e.KeyModifiers.HasFlag(KeyModifiers.Alt))
+            {
+                ViewModel!.Definition.Medium.Rotation += (e.Delta.Y * 0.01);
+            }
+            else
+            {
+                ViewModel!.Definition.Medium.Scale += (e.Delta.Y * 0.01);
+            }
         }
         private void InputElement_OnPointerWheelChangedFull(object? sender, PointerWheelEventArgs e)
         {
-            ViewModel!.Definition.Full.Scale += (e.Delta.Y * 0.01);
+            if (e.KeyModifiers.HasFlag(KeyModifiers.Alt))
+            {
+                ViewModel!.Definition.Full.Rotation += (e.Delta.Y * 0.01);
+            }
+            else
+            {
+                ViewModel!.Definition.Full.Scale += (e.Delta.Y * 0.01);
+            }
         }
 
         private Vector? _lastPositionSmall = null;
@@ -233,6 +273,18 @@ namespace Portramatic.Views
                 }
             });
 
+        }
+
+        private void ResetTransforms(object? sender, RoutedEventArgs e)
+        {
+            ViewModel!.Definition.Small.Reset();
+            ViewModel!.Definition.Medium.Reset();
+            ViewModel!.Definition.Full.Reset();
+        }
+
+        private void Resave(object? sender, RoutedEventArgs e)
+        {
+            ViewModel!.Resave();
         }
     }
 }

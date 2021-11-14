@@ -2,7 +2,21 @@
   "source": "https://pbs.twimg.com/media/B-Oxsy-IYAEmV4S.jpg:large",
   "md5": "7B4859551CC7248439CA4A94D8702F45",
   "tags": [
-    ""
+    "",
+    "alley",
+    "cat",
+    "drawing",
+    "comic",
+    "book",
+    "cats",
+    "cartoon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.09,
@@ -23,6 +37,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

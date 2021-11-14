@@ -15,7 +15,18 @@
     "loki",
     "dyana",
     "wang",
-    "https://www"
+    "https://www",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "shoes",
+    "heels",
+    "yuri",
+    "murilo",
+    "miranda"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -36,6 +47,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

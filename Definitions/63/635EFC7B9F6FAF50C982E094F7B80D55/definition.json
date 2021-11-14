@@ -25,7 +25,10 @@
     "master",
     "ruwaki",
     "joyeon_won",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "cards",
+    "female",
+    "tiefling"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -46,6 +49,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

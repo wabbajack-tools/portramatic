@@ -7,7 +7,9 @@
     "fan",
     "angel",
     "altered",
-    "archangels"
+    "archangels",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -28,6 +30,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

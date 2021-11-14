@@ -1,13 +1,19 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
 using System.Collections.Concurrent;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.IO.Compression;
+using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Threading.Tasks;
 using System.Web;
 using Avalonia;
 using Avalonia.Media.Imaging;
@@ -147,13 +153,6 @@ class Program
 
                         var (hash, size) = await GenerateThumbnail(archive, definition);
                         hashes.Add((definition, hash, size, path));
-
-                        if (string.IsNullOrEmpty(definition.PHash))
-                        {
-                            definition.PHash = Convert.ToBase64String(hash.Coefficients);
-                            var json = JsonSerializer.Serialize(definition, jsonOptions);
-                            await File.WriteAllTextAsync(itm.Item2, json, token);
-                        }
                     }
                     catch (Exception ex)
                     {
@@ -204,8 +203,8 @@ class Program
             }
         }
 
-        var oldData = await File.ReadAllTextAsync($"../UnexDefinitions/{args[2]}");
-        await File.WriteAllTextAsync("../unex.yml",
+        var oldData = await File.ReadAllTextAsync($"../UnexDefinitions/{args[2]}.yml");
+        await File.WriteAllTextAsync("../unex.yml", "FileDescription: " +
             oldData + $"\n{DateTime.Now:yyyy-MM-dd} {args[2]} release, now with {definitions.Count} images.");
         
         Console.WriteLine($"Output zip is {outputMemoryStream.Length} bytes in size");
@@ -219,16 +218,8 @@ class Program
         var (width, height) = definition.Full.FinalSize;
         using var src = SKImage.FromEncodedData(new MemoryStream(bitmapBytes));
 
-        Digest hash;
-        if (string.IsNullOrWhiteSpace(definition.PHash))
-        {
-            var ibitmap = new SKImageIBitmap(src);
-            hash = ImagePhash.ComputeDigest(ibitmap);
-        }
-        else
-        {
-            hash = new Digest {Coefficients = Convert.FromBase64String(definition.PHash)};
-        }
+        var ibitmap = new SKImageIBitmap(src);
+        var hash = ImagePhash.ComputeDigest(ibitmap);
         
         var cropped = definition.Crop(src, ImageSize.Full);
         var snap = Resize(cropped, width / 4, height / 4);
@@ -278,7 +269,7 @@ class Program
                 .ToArray();
 
 
-            Console.WriteLine($"Tags: {string.Join(", ", alltags)}");
+            Console.WriteLine($"Tags: {string.Join(", ", (string[])alltags)}");
             return alltags;
         
     }

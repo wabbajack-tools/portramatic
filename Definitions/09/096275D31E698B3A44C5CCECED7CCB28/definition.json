@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/originals/b5/14/4d/b5144d45a897e2259327593aa9a10a90.jpg",
   "md5": "096275D31E698B3A44C5CCECED7CCB28",
   "tags": [
-    "The Board is Set"
+    "The Board is Set",
+    "witcher",
+    "game",
+    "cover",
+    "graphics",
+    "thrones"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -22,5 +27,7 @@
     "offset_y": -28,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

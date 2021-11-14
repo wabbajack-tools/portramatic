@@ -17,7 +17,11 @@
     "sculpture",
     "clothing",
     "apparel",
-    ""
+    "",
+    "archer",
+    "dragon",
+    "age",
+    "nest"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -37,5 +41,7 @@
     "offset_y": -10,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

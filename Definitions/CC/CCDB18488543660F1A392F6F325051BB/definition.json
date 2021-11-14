@@ -21,7 +21,13 @@
     "241",
     "su",
     "jian",
-    "characters"
+    "characters",
+    "leather",
+    "soldier",
+    "shieldmaiden",
+    "max",
+    "hugo",
+    "tribal"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -42,6 +48,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -21,7 +21,20 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "female",
+    "full",
+    "plate",
+    "armor",
+    "half",
+    "woman",
+    "witch",
+    "character",
+    "goblin",
+    "femme",
+    "fatale",
+    "christos",
+    "martinis"
   ],
   "small": {
     "scale": 0.98,
@@ -42,6 +55,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

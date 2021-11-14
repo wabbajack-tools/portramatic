@@ -18,7 +18,12 @@
     "shadows",
     "mistletoe",
     "character",
-    "design"
+    "design",
+    "white",
+    "tiger",
+    "head",
+    "transparent",
+    "standing"
   ],
   "small": {
     "scale": 0.8299999999999998,
@@ -39,6 +44,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

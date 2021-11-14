@@ -2,7 +2,18 @@
   "source": "https://static.wikia.nocookie.net/starwars/images/5/5a/YodaNEGAS.jpg/revision/latest?cb=20061129202540",
   "md5": "290BC1315ABF92E4157E03AD235989CB",
   "tags": [
-    "Yoda in Autumn"
+    "Yoda in Autumn",
+    "star",
+    "wars",
+    "humanoids",
+    "sith",
+    "species",
+    "jedi",
+    "master",
+    "names",
+    "lion",
+    "head",
+    "rasta"
   ],
   "small": {
     "scale": 1.5200000000000005,
@@ -22,5 +33,7 @@
     "offset_y": -21.33333333333337,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -6,7 +6,32 @@
     "female",
     "fighter",
     "paladin",
-    "knight"
+    "knight",
+    "cleric",
+    "miniature",
+    "dd",
+    "death",
+    "night",
+    "elf",
+    "armor",
+    "lich",
+    "king",
+    "m",
+    "plate",
+    "shield",
+    "cloak",
+    "sword",
+    "urban",
+    "city",
+    "undercity",
+    "pathfi\u2026",
+    "zhongju",
+    "sun",
+    "warrior",
+    "=",
+    "kyung",
+    "han",
+    "kim"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -27,6 +52,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

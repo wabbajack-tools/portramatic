@@ -14,7 +14,17 @@
     "sports",
     "archery",
     "dragon",
-    ""
+    "",
+    "eldritch",
+    "dd",
+    "skyrim",
+    "assassin",
+    "arkon",
+    "marius",
+    "bota",
+    "\u706B\u9E92\u9E9F",
+    "zhao",
+    "guichun"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -34,5 +44,7 @@
     "offset_y": -51,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

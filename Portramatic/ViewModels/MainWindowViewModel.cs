@@ -52,6 +52,8 @@ namespace Portramatic.ViewModels
         [Reactive] public int CurrentTab { get; set; } = 0;
 
         [Reactive] public string SearchTags { get; set; } = "";
+
+        public bool AdminMode => Program.IsAdminMode;
         
         public SourceCache<GalleryItemViewModel, string> _galleryItems = new(vm => vm.Definition.MD5);
 
@@ -115,6 +117,15 @@ namespace Portramatic.ViewModels
                         return await _client.GetByteArrayAsync(url);
                     })
                     .ObserveOn(RxApp.MainThreadScheduler)
+                    .Select(v =>
+                    {
+                        /*
+                        Definition.Small.Reset();
+                        Definition.Medium.Reset();
+                        Definition.Full.Reset();*/
+
+                        return v;
+                    })
                     .BindTo(this, vm => vm.ImageData)
                     .DisposeWith(disposables);
 
@@ -255,6 +266,13 @@ namespace Portramatic.ViewModels
             //await Task.Delay(500);
             Definition.Load(definition);
             Url = Definition.Source.ToString();
+        }
+
+        public void Resave()
+        {
+            var md5 = Definition.MD5;
+            var path = Program.AdminPath.Combine(md5[..2], md5);
+            var tsk = ExportDefinition(path.ToString(), Definition.AsDTO());
         }
     }
 }

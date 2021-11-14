@@ -9,7 +9,29 @@
     "female",
     "face",
     "ninja",
-    ""
+    "",
+    "vampire",
+    "male",
+    "elf",
+    "dark",
+    "elves",
+    "drawings",
+    "knight",
+    "saint",
+    "seiya",
+    "lost",
+    "canvas",
+    "skyrim",
+    "nightwing",
+    "lord",
+    "shiva",
+    "illustration",
+    "amitabha",
+    "naskar",
+    "injustice",
+    "vince",
+    "wilder",
+    "https://www.artstation.com/artwork/aw2ax"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -29,5 +51,7 @@
     "offset_y": -14,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

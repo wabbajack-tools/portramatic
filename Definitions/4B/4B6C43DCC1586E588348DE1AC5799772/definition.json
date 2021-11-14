@@ -6,7 +6,31 @@
     "elf",
     "arbalest",
     "bageumi",
-    "."
+    ".",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "beginer",
+    "sword",
+    "girl",
+    "junq",
+    "jeon",
+    "2020",
+    "warrior",
+    "character",
+    "design",
+    "\u3002",
+    "bing",
+    "qian",
+    "viking",
+    "poulsta",
+    "star",
+    "woman",
+    "assassins",
+    "creed"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -27,6 +51,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

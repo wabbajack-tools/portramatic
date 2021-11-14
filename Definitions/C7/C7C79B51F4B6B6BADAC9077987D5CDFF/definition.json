@@ -5,7 +5,14 @@
     "dwarf",
     "female",
     "wildling",
-    "barbarian"
+    "barbarian",
+    "armor",
+    "wizard",
+    "rpg",
+    "fur",
+    "coats",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 1.3500000000000003,
@@ -26,6 +33,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

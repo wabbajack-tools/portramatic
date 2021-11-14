@@ -2,7 +2,20 @@
   "source": "https://gwent.pro/img/1100-big.jpg",
   "md5": "BC3D4759FA84201C789037AA71476FFA",
   "tags": [
-    "Be Prepared"
+    "Be Prepared",
+    "gwent",
+    "card",
+    "game",
+    "geralt",
+    "ciri",
+    "foltest",
+    "stanton",
+    "feng",
+    "dun",
+    "banner",
+    "lius",
+    "lasahido",
+    "https://www"
   ],
   "small": {
     "scale": 1.5200000000000005,
@@ -18,9 +31,11 @@
   },
   "full": {
     "scale": 0.7199999999999998,
-    "offset_x": 2.2737367544323206e-13,
-    "offset_y": -1.1368683772161603e-13,
+    "offset_x": 2.2737367544323206E-13,
+    "offset_y": -1.1368683772161603E-13,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

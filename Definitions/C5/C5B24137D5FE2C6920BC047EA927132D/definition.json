@@ -11,7 +11,23 @@
     "profile",
     "sexy",
     "girl",
-    "3d"
+    "3d",
+    "elven",
+    "female",
+    "warrior",
+    "tattoo",
+    "elf",
+    "drawings",
+    "dragon",
+    "age",
+    "origins",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "monster",
+    "fighter",
+    "snappers"
   ],
   "small": {
     "scale": 0.98,
@@ -32,6 +48,6 @@
     "size": "full"
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

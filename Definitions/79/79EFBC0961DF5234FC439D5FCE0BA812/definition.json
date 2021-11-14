@@ -13,7 +13,34 @@
     "statue",
     "sculpture",
     "angel",
-    "aasimar"
+    "aasimar",
+    "anime",
+    "girl",
+    "priest",
+    "cleric",
+    "drawing",
+    "male",
+    "death",
+    "knight",
+    "world",
+    "warcraft",
+    "rogue",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "shadows",
+    "night",
+    "warlock",
+    "concept",
+    "sergey",
+    "kondratovich",
+    "https://www.artstation.com/artwork",
+    "war",
+    "gods",
+    "destined",
+    "house",
+    "home"
   ],
   "small": {
     "scale": 0.95,
@@ -33,5 +60,7 @@
     "offset_y": -15,
     "size": "full"
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

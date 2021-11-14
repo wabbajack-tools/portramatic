@@ -115,6 +115,15 @@ namespace Portramatic.ViewModels
                         return await _client.GetByteArrayAsync(url);
                     })
                     .ObserveOn(RxApp.MainThreadScheduler)
+                    .Select(v =>
+                    {
+                        /*
+                        Definition.Small.Reset();
+                        Definition.Medium.Reset();
+                        Definition.Full.Reset();*/
+
+                        return v;
+                    })
                     .BindTo(this, vm => vm.ImageData)
                     .DisposeWith(disposables);
 

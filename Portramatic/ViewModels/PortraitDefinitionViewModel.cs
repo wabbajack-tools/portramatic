@@ -13,6 +13,10 @@ public class CroppedImageViewModel : ViewModelBase
     [Reactive] [JsonPropertyName("scale")] public double Scale { get; set; } = 1;
 
     [Reactive]
+    [JsonPropertyName("rotation")]
+    public double Rotation { get; set; } = 0;
+
+    [Reactive]
     [JsonPropertyName("offset_x")]
     public double OffsetX { get; set; }
     
@@ -50,6 +54,7 @@ public class CroppedImageViewModel : ViewModelBase
         OffsetX = dto.OffsetX;
         OffsetY = dto.OffsetY;
         Size = dto.Size;
+        Rotation = dto.Rotation;
     }
 
     public CroppedImage AsDTO()
@@ -59,8 +64,17 @@ public class CroppedImageViewModel : ViewModelBase
             Scale = Scale,
             OffsetX = OffsetX,
             OffsetY = OffsetY,
-            Size = Size
+            Size = Size,
+            Rotation = Rotation
         };
+    }
+
+    public void Reset()
+    {
+        Scale = 1;
+        OffsetX = 0;
+        OffsetY = 0;
+        Rotation = 0;
     }
 }
 

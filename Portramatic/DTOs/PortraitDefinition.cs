@@ -28,6 +28,9 @@ public class CroppedImage
     
     [JsonPropertyName("size")]
     public ImageSize Size { get; set; }
+    
+    [JsonPropertyName("rotation")]
+    public double Rotation { get; set; }
 
     [JsonIgnore]
     public (int Width, int Height) FinalSize =>
@@ -48,6 +51,7 @@ public class CroppedImage
             ImageSize.Small => "Small.png",
             _ => throw new ArgumentOutOfRangeException()
         };
+
 
 }
 
@@ -83,6 +87,7 @@ public class PortraitDefinition
         using var surface = SKSurface.Create(new SKImageInfo(width, height, SKColorType.Rgba8888, SKAlphaType.Opaque));
         surface.Canvas.Translate((float)cropData.OffsetX, (float)cropData.OffsetY);
         surface.Canvas.Scale((float)cropData.Scale, (float)cropData.Scale);
+        surface.Canvas.RotateRadians((float)cropData.Rotation);
 
         var paint = new SKPaint();
         paint.IsAntialias = true;

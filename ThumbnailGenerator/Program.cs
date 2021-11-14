@@ -204,8 +204,8 @@ class Program
         }
 
         var oldData = await File.ReadAllTextAsync($"../UnexDefinitions/{args[2]}.yml");
-        await File.WriteAllTextAsync("../unex.yml", "FileDescription: " +
-            oldData + $"\n{DateTime.Now:yyyy-MM-dd} {args[2]} release, now with {definitions.Count} images.");
+        await File.WriteAllTextAsync("../unex.yml", 
+            oldData + "\nFileDescription: " + $"{DateTime.Now:yyyy-MM-dd} {args[2]} release, now with {definitions.Count} images.");
         
         Console.WriteLine($"Output zip is {outputMemoryStream.Length} bytes in size");
         await File.WriteAllBytesAsync(Path.Combine(args[1], "gallery.zip"), outputMemoryStream.ToArray());

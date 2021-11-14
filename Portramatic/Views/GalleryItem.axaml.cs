@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Reactive.Disposables;
 using System.Reflection;
+using Avalonia.Interactivity;
 using Avalonia.Media.Imaging;
 using Avalonia.ReactiveUI;
 using Portramatic.ViewModels;
@@ -32,7 +33,14 @@ namespace Portramatic.Views
                         .DisposeWith(new CompositeDisposable(disposables, Disposable.Create(() => GalleryImage.Source = DefaultBitmap.Value))));
                 this.BindCommand(ViewModel, vm => vm.Clicked, view => view.FocusButton)
                     .DisposeWith(disposables);
+
+                DeleteButton.IsVisible = Program.IsAdminMode;
             });
+        }
+
+        private void DeleteClicked(object? sender, RoutedEventArgs e)
+        {
+            ViewModel!.Delete();
         }
     }
 }

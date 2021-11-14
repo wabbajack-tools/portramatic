@@ -30,6 +30,8 @@ namespace Portramatic.Views
 
             this.WhenActivated(disposables =>
             {
+
+                ResaveButton.IsVisible = Program.IsAdminMode;
                 this.OneWayBind(ViewModel, vm => vm.GalleryItems, view => view.Gallery.Items)
                     .DisposeWith(disposables);
                 
@@ -278,6 +280,11 @@ namespace Portramatic.Views
             ViewModel!.Definition.Small.Reset();
             ViewModel!.Definition.Medium.Reset();
             ViewModel!.Definition.Full.Reset();
+        }
+
+        private void Resave(object? sender, RoutedEventArgs e)
+        {
+            ViewModel!.Resave();
         }
     }
 }

@@ -6,23 +6,27 @@
     "castlevania"
   ],
   "small": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
-    "size": "small"
+    "scale": 0.96,
+    "offset_x": -159,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
-    "scale": 1,
-    "offset_x": 0,
-    "offset_y": 0,
-    "size": "medium"
+    "scale": 0.9299999999999999,
+    "offset_x": -45,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
-    "scale": 1,
+    "scale": 1.7300000000000006,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": true
+  "requeried": false,
+  "nsfw": false
 }

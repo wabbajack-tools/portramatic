@@ -16,25 +16,52 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "guardian",
+    "angels",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "serpent\u0027s",
+    "blade",
+    "carlo",
+    "reynolds",
+    "badass",
+    "character",
+    "li",
+    "qian",
+    "artwork",
+    "warrior",
+    "high",
+    "hui",
+    "zou"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -270,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -170,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -187,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

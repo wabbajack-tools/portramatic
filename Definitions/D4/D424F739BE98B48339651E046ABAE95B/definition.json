@@ -2,27 +2,58 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2021/11/Henrika-Domnathi-Innistrad-Crimson-Vow-MtG-Art.jpg",
   "md5": "D424F739BE98B48339651E046ABAE95B",
   "tags": [
-    ""
+    "",
+    "world",
+    "warcraft",
+    "rogue",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "blood",
+    "i",
+    "remember",
+    "your",
+    "eyes",
+    "bo",
+    "chen",
+    "tome",
+    "wonders",
+    "satoshi",
+    "kamanaka",
+    "darkest",
+    "part",
+    "forest",
+    "ashley",
+    "cassaday"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -258,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -154,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -206,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

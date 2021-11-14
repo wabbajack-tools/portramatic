@@ -2,25 +2,51 @@
   "source": "https://i.pinimg.com/564x/86/38/3b/86383b1b4556ae8b8770e74cd28908b5.jpg",
   "md5": "51D2FF0DF2D728791C0ED1FFD406EC44",
   "tags": [
-    ""
+    "",
+    "female",
+    "elves",
+    "princess",
+    "beautiful",
+    "elf",
+    "brown",
+    "hair",
+    "league",
+    "legends",
+    "wizard",
+    "mark",
+    "tarrisse",
+    "ace",
+    "wands",
+    "lorena",
+    "lammer",
+    "https://www.artstation.com/artwork/q4xma",
+    "mereoleona",
+    "vermillion",
+    "hallibell",
+    "yin"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -144,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -105,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

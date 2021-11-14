@@ -3,27 +3,50 @@
   "md5": "2D45C3B25E39585237323AD23B215165",
   "tags": [
     "pathfinder",
-    "sorcerer"
+    "sorcerer",
+    "sorceress",
+    "elf",
+    "female",
+    "alice",
+    "wonderland",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "queen",
+    "flowers",
+    "geumsil",
+    "lee",
+    "anime",
+    "butterfly",
+    "knight",
+    "jihyeon",
+    "bae"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -139,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -103,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -20,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

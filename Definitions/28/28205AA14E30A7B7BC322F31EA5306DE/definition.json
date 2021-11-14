@@ -17,25 +17,36 @@
     "costume",
     "man",
     "skin",
-    ""
+    "",
+    "male",
+    "digital",
+    "head",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -157,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -141,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -101,
     "offset_y": -49,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

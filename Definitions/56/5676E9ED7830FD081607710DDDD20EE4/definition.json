@@ -1,30 +1,53 @@
 {
-  "source": "https://th.bing.com/th/id/R.5676e9ed7830fd081607710dddd20ee4?rik=%2fMwBhxmRlgzYGg&riu=http%3a%2f%2forig04.deviantart.net%2fd4cf%2ff%2f2013%2f177%2f9%2fa%2fsorceress_by_mineworker-d419rs1.jpg&ehk=ic1qy9u2ceQUg5%2bpgPvLHjkk8HUxQdFlg09Y4dBwF%2b0%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.5676e9ed7830fd081607710dddd20ee4?rik=%2fMwBhxmRlgzYGg\u0026riu=http%3a%2f%2forig04.deviantart.net%2fd4cf%2ff%2f2013%2f177%2f9%2fa%2fsorceress_by_mineworker-d419rs1.jpg\u0026ehk=ic1qy9u2ceQUg5%2bpgPvLHjkk8HUxQdFlg09Y4dBwF%2b0%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "5676E9ED7830FD081607710DDDD20EE4",
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "mining",
+    "workers",
+    "coal",
+    "mine",
+    "assassin",
+    "warrior",
+    "woman",
+    "sinjin",
+    "treharne",
+    "women",
+    "mobile",
+    "characters",
+    "ryan-john",
+    "keates",
+    "https://www.artstation.com/artwork/v2e5da",
+    "one",
+    "piece",
+    "#nami",
+    "marcelo",
+    "bastos"
   ],
   "small": {
     "scale": 1,
     "offset_x": -176,
     "offset_y": -66.11111111111109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -31,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -7.76863753213388,
     "offset_y": -24.447300771208347,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

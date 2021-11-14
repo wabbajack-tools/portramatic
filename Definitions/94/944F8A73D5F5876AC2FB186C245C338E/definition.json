@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/012/743/large/kyoung-hwan-kim-mcro-f.jpg?1443932280",
   "md5": "944F8A73D5F5876AC2FB186C245C338E",
   "tags": [
-    ""
+    "",
+    "evil",
+    "witch",
+    "concept",
+    "spirit",
+    "shadow",
+    "demon",
+    "orc",
+    "warrior",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "angel",
+    "chiral"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -194,
     "offset_y": -222,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -35,
     "offset_y": -84,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -76,
     "offset_y": -178,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

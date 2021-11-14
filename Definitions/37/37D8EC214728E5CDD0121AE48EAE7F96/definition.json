@@ -3,27 +3,58 @@
   "md5": "37D8EC214728E5CDD0121AE48EAE7F96",
   "tags": [
     "paladin",
-    "warrior"
+    "warrior",
+    "golden",
+    "knight",
+    "armor",
+    "anime",
+    "dragon",
+    "concept",
+    "medieval",
+    "knights",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "conquers",
+    "another",
+    "world.",
+    "mansik",
+    "yang",
+    "fullmetal",
+    "alchemist",
+    "hyunseok",
+    "jin",
+    "https://www.artstation.com/artwork/zv6ad",
+    "edge",
+    "volcano",
+    "ruben",
+    "perez",
+    "gonzalez",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -186,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -93,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6700000000000006,
     "offset_x": -72,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

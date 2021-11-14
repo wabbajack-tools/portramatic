@@ -4,27 +4,66 @@
   "tags": [
     "elf",
     "female",
-    "elementalist"
+    "elementalist",
+    "wood",
+    "elves",
+    "archer",
+    "ranger",
+    "pirate",
+    "conan",
+    "barbarian",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "drow",
+    "queen",
+    "natalie",
+    "alexandrova",
+    "dark",
+    "girl",
+    "wolf",
+    "character",
+    "ningguang",
+    "genshin",
+    "impact",
+    "shilozart",
+    "2021",
+    "girls",
+    "illustration",
+    "legend",
+    "cryptids",
+    "viktoria",
+    "gavrilenko",
+    "digital"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -184,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -31,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -14,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,45 @@
   "source": "https://i.pinimg.com/originals/78/15/66/781566a1440b0bd91a2b170ccaf578d8.png",
   "md5": "8DEE6042F9572DF0692BF05E4FD03990",
   "tags": [
-    ""
+    "",
+    "critical",
+    "role",
+    "yasha",
+    "wings",
+    "beau",
+    "character",
+    "sheet",
+    "gears",
+    "war",
+    "lumberjack",
+    "tomas",
+    "duchek",
+    "warhammer",
+    "roleplay",
+    "illustration"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -566,
     "offset_y": -263,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -202,
     "offset_y": -139,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -142,
     "offset_y": -162,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

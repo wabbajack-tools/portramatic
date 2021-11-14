@@ -21,23 +21,27 @@
     "ho"
   ],
   "small": {
-    "scale": 0.6799999999999997,
-    "offset_x": -90,
-    "offset_y": -8,
-    "size": "small"
+    "scale": 0.39999999999999947,
+    "offset_x": -309,
+    "offset_y": -119,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
-    "scale": 0.7499999999999998,
-    "offset_x": -52,
-    "offset_y": -8,
-    "size": "medium"
+    "scale": 0.24999999999999933,
+    "offset_x": -74,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
-    "scale": 1.2400000000000002,
-    "offset_x": -2,
-    "offset_y": -10,
-    "size": "full"
+    "scale": 0.37999999999999945,
+    "offset_x": -30,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": true
+  "requeried": false,
+  "nsfw": false
 }

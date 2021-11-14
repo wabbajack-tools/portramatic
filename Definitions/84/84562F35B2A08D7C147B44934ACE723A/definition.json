@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/EpsqpY8U8AAiDJb?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/EpsqpY8U8AAiDJb?format=jpg\u0026name=medium",
   "md5": "84562F35B2A08D7C147B44934ACE723A",
   "tags": [
     "dragon",
@@ -10,25 +10,48 @@
     "animal",
     "crystal",
     "graphics",
-    ""
+    "",
+    "vampire",
+    "knight",
+    "manga",
+    "female",
+    "assassin",
+    "dark",
+    "demon",
+    "hunter",
+    "slayer",
+    "fahmi",
+    "fauzi",
+    "saber",
+    "alter",
+    "gold",
+    "can",
+    "p159",
+    "hrvoje",
+    "be\u0161li\u0107"
   ],
   "small": {
     "scale": 1.1199999999999999,
     "offset_x": -363,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -87,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -114,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

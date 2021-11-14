@@ -2,27 +2,42 @@
   "source": "https://www.giantbomb.com/a/uploads/original/0/6173/187760-sarevok2.jpg",
   "md5": "47A1204074DBE9B662AC1302A9A14A61",
   "tags": [
-    ""
+    "",
+    "baldur\u0027s",
+    "gate",
+    "ee",
+    "portraits",
+    "wizard",
+    "characters",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -16,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5800000000000005,
     "offset_x": -1,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 3.3199999999999728,
     "offset_x": -6,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

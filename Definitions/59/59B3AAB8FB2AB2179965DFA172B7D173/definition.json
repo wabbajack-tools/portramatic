@@ -2,27 +2,57 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/021/787/930/large/jihae-park-queenofdarkelf-191105.jpg?1572953988",
   "md5": "59B3AAB8FB2AB2179965DFA172B7D173",
   "tags": [
-    ""
+    "",
+    "elf",
+    "drawing",
+    "forest",
+    "queen",
+    "renaissance",
+    "dresses",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "berengaria",
+    "stefan",
+    "kopinski",
+    "https://www.artstation.com/artwork/1q",
+    "miko\u0027s",
+    "attire",
+    "with",
+    "manga",
+    "shader",
+    "daniel",
+    "solovev",
+    "2021",
+    "fashion",
+    "clothes"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -738,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -403,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -334,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

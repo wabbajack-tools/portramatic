@@ -8,27 +8,54 @@
     "chan",
     "characters",
     "rpg",
-    "dark"
+    "dark",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "vampire",
+    "masquerade",
+    "league",
+    "legends",
+    "harry",
+    "potter",
+    "chamber",
+    "secrets-fanart-12",
+    "vladislav",
+    "pantic",
+    "https://www",
+    "krend",
+    "rigrena",
+    "sanja",
+    "grbic",
+    "https://www.artstation.com/artwork/oggmq",
+    "emily",
+    "dishonored",
+    "ann"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -134.4444444444453,
     "offset_y": -116.84444444444435,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -77.46666666666687,
     "offset_y": -124.6666666666664,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -4.185185185185674,
     "offset_y": -0.21296296296276296,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

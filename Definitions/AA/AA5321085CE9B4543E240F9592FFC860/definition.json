@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/564x/d0/fa/c9/d0fac90ab3d471b98e646a2fbfa1d18c.jpg",
   "md5": "AA5321085CE9B4543E240F9592FFC860",
   "tags": [
-    ""
+    "",
+    "elder",
+    "scrolls",
+    "character",
+    "concept",
+    "legends",
+    "knight",
+    "armor",
+    "predator",
+    "black",
+    "assassin\u0027s",
+    "dark",
+    "souls",
+    "shredder",
+    "gears",
+    "war",
+    "death",
+    "uruk-hai",
+    "from",
+    "lord",
+    "rings",
+    "unreal",
+    "engine",
+    "4",
+    "carin",
+    "backlund",
+    "fantastic",
+    "four",
+    "early",
+    "victor",
+    "tully",
+    "summers",
+    "https://www.artstation.com/artwork",
+    "draugr",
+    "olya",
+    "sh"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -350,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -132,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

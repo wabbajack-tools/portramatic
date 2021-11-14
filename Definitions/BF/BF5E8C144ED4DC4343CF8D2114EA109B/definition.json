@@ -3,27 +3,45 @@
   "md5": "BF5E8C144ED4DC4343CF8D2114EA109B",
   "tags": [
     "pathfinder",
-    "sorcerer"
+    "sorcerer",
+    "female",
+    "elf",
+    "human",
+    "fighter",
+    "rpg",
+    "characters",
+    "anime",
+    "dana",
+    "rot",
+    "anna",
+    "pavleeva",
+    "2020",
+    "concept",
+    "\u4E09\u56FD",
+    "mingming"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -230,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -179,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -102,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

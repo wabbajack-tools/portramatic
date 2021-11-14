@@ -2,27 +2,51 @@
   "source": "https://static.wikia.nocookie.net/hokuto/images/b/b3/Muso_Tensei_Raoh.png/revision/latest?cb=20210926055056",
   "md5": "C8DBD50464A23AF2B7CDBBC2E6AA9A97",
   "tags": [
-    ""
+    "",
+    "kratos",
+    "star",
+    "wars",
+    "clone",
+    "garruk",
+    "planeswalker",
+    "ond\u0159ej",
+    "ondr\u00E1\u010Dek",
+    "cinematic",
+    "character",
+    "2017",
+    "ching-kai",
+    "yen",
+    "\u984F\u9756\u51F1",
+    "whip",
+    "user",
+    "cotta",
+    "female",
+    "design",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -557,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -212,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -162,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

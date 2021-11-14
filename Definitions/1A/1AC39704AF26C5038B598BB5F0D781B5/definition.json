@@ -2,25 +2,59 @@
   "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
   "md5": "1AC39704AF26C5038B598BB5F0D781B5",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "desktop",
+    "theme",
+    "lcs",
+    "sion",
+    "wow",
+    "druid",
+    "marvel",
+    "ultimate",
+    "spider-man",
+    "pete",
+    "phe",
+    "mudwiggle",
+    "mari",
+    "suomela",
+    "warcraft",
+    "characters",
+    "world",
+    "ivern",
+    "maria",
+    "novosad",
+    "haunted",
+    "lord",
+    "wraith",
+    "king",
+    "set",
+    "kyle",
+    "cornelius"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -410,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -421,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -1088,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "http://community.gtarcade.com/attachments/image/month_1408/20140826_937981409055770.jpg",
   "md5": "43D6E3EF3115A9F77D21E0ECE3020041",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "black",
+    "symbols",
+    "dragon",
+    "demon",
+    "hunter",
+    "dark",
+    "elf",
+    "vampire",
+    "lord",
+    "guilherme",
+    "batista",
+    "monster",
+    "goddess",
+    "death",
+    "#",
+    "ferdinando",
+    "adiletta",
+    "priest_of_fate",
+    "www.redpencilart.com",
+    "red",
+    "pencil"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -620.5,
     "offset_y": -174,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -448.5,
     "offset_y": -73.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -348,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://img.booru.org/grognard//images/30/7df8cac99a5215ca72821f8a156e885a490e93a1.jpeg",
   "md5": "3A6D2165BFE64FCAB1832F790DEF2EC4",
   "tags": [
-    ""
+    "",
+    "large",
+    "succubus",
+    "green",
+    "succubi",
+    "dragon",
+    "scourge",
+    "lord",
+    "rings",
+    "black",
+    "sheol",
+    "cesar",
+    "eidrian",
+    "demon",
+    "huntress",
+    "louis",
+    "descarreaux",
+    "aarbron",
+    "shadow",
+    "beast",
+    "steven",
+    "de-sykes",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -223,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -189,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

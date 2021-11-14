@@ -18,25 +18,49 @@
     "beard",
     "head",
     "man",
-    ""
+    "",
+    "elven",
+    "pirate",
+    "character",
+    "sketch",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "black",
+    "queen",
+    "zhirui",
+    "wang",
+    "https://www"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -49,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -52,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -129,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

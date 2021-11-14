@@ -19,27 +19,55 @@
     "lies",
     "nen",
     "chang",
-    "painting"
+    "painting",
+    "celtic",
+    "goddess",
+    "statues",
+    "earth",
+    "danu",
+    "triple",
+    "wood",
+    "elf",
+    "orcs",
+    "eternal",
+    "essence",
+    "jason",
+    "engle",
+    "wizard",
+    "dark",
+    "galatea",
+    "god",
+    "eye",
+    "natallia",
+    "zakharova",
+    "\u7CBE\u7075\u5F13\u7BAD\u624B",
+    "\u6C34\u6BCD",
+    "mumu",
+    "girl",
+    "character"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -364.6666666666656,
     "offset_y": -109.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -192.0000000000001,
     "offset_y": -80.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -73.33333333333326,
     "offset_y": -55.33333333333326,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

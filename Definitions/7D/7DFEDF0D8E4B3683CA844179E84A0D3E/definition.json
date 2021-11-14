@@ -4,27 +4,58 @@
   "tags": [
     "human",
     "bard",
-    "female"
+    "female",
+    "blind",
+    "guardian",
+    "album",
+    "covers",
+    "logo",
+    "transformers",
+    "revenge",
+    "fallen",
+    "warlock",
+    "kim",
+    "herbst",
+    "cheathunter",
+    "4",
+    "book",
+    "cover",
+    "marishka",
+    "kleyman",
+    "https://www.artstation.com",
+    "affiche",
+    "pour",
+    "le",
+    "festival",
+    "\u0022echos",
+    "\u0026",
+    "merveilles\u0022",
+    "2016",
+    "gwen",
+    "vibancos"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -589.6666666666666,
     "offset_y": -206.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -416.99999999999994,
     "offset_y": -153.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8900000000000008,
     "offset_x": -665.3333333333333,
     "offset_y": -280.3333333333334,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

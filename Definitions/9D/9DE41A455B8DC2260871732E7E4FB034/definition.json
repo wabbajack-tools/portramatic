@@ -2,25 +2,41 @@
   "source": "https://i.pinimg.com/564x/f5/66/b0/f566b0626d6df1a8e355f29f0fbde56b.jpg",
   "md5": "9DE41A455B8DC2260871732E7E4FB034",
   "tags": [
-    ""
+    "",
+    "horse",
+    "head",
+    "armor",
+    "knights",
+    "war",
+    "armour",
+    "horseheads",
+    "figurines",
+    "bronze",
+    "toy",
+    "horses"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -33,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -31,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

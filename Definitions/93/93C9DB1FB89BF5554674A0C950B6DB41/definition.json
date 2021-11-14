@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/90/eb/c9/90ebc94faeccc204e9e0f3b2280ab9e6.jpg",
   "md5": "93C9DB1FB89BF5554674A0C950B6DB41",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "dd",
+    "human",
+    "characters",
+    "wood",
+    "elf",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "armor",
+    "female",
+    "pirate",
+    "black",
+    "magician",
+    "sujin",
+    "jo",
+    "character",
+    "design",
+    "concept",
+    "rpg",
+    "set",
+    "04",
+    "ernesto",
+    "irawan"
   ],
   "small": {
     "scale": 1,
     "offset_x": -416,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -338,
     "offset_y": -135,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -112,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

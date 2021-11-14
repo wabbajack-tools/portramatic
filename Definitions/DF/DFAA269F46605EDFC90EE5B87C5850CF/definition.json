@@ -43,24 +43,27 @@
     "https://www"
   ],
   "small": {
-    "scale": 1,
-    "offset_x": -178,
-    "offset_y": -84,
-    "size": "small"
+    "scale": 0.3499999999999994,
+    "offset_x": -249,
+    "offset_y": -127,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
-    "scale": 0.98,
-    "offset_x": -123,
-    "offset_y": -76,
-    "size": "medium"
+    "scale": 0.3399999999999994,
+    "offset_x": -187,
+    "offset_y": -104,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
-    "scale": 1.3400000000000003,
-    "offset_x": -44,
-    "offset_y": -10,
-    "size": "full"
+    "scale": 0.46999999999999953,
+    "offset_x": -118,
+    "offset_y": -42,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": true,
+  "requeried": false,
   "nsfw": false
 }

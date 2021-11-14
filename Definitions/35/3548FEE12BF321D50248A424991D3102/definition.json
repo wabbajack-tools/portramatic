@@ -16,25 +16,51 @@
     "book",
     "demon",
     "succubus",
-    "tiefling"
+    "tiefling",
+    "living",
+    "saint",
+    "40k",
+    "warhammer",
+    "celestine",
+    "st.",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "elder",
+    "scrolls",
+    "online",
+    "watchman",
+    "sachin",
+    "nagar"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -220,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -317,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -187,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

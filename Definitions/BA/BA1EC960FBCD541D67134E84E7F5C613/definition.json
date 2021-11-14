@@ -4,27 +4,61 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "male",
+    "elf",
+    "character",
+    "warrior",
+    "drawing",
+    "fighter",
+    "assassin",
+    "knight",
+    "armor",
+    "samurai",
+    "skyrim",
+    "necromancer",
+    "medieval",
+    "knights",
+    "\u4E8C\u90CE\u795E\u6218\u7EAA",
+    "legendary",
+    "hero",
+    "erlang",
+    "kaijie",
+    "huang",
+    "monster",
+    "artwork",
+    "design",
+    "human",
+    "patricio",
+    "clarey",
+    "portraits",
+    "concept",
+    "priest",
+    "bailey",
+    "butel"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -245.33333333333292,
     "offset_y": -23.888888888888914,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -147.44444444444446,
     "offset_y": -25.888888888888914,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -22,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

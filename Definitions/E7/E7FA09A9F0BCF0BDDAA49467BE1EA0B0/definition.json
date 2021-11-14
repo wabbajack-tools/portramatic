@@ -2,25 +2,42 @@
   "source": "https://qph.fs.quoracdn.net/main-qimg-e7fa09a9f0bcf0bddaa49467be1ea0b0",
   "md5": "E7FA09A9F0BCF0BDDAA49467BE1EA0B0",
   "tags": [
-    "Malfoy"
+    "Malfoy",
+    "draco",
+    "malfoy",
+    "from",
+    "harry",
+    "potter",
+    "narcissa",
+    "fan",
+    "lord",
+    "rings",
+    "shadow",
+    "mordor",
+    "emperor"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -191.33333333333331,
     "offset_y": -95.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -89.33333333333326,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": 0,
     "offset_y": -29.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

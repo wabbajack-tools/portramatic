@@ -19,27 +19,59 @@
     "lies",
     "nen",
     "chang",
-    "painting"
+    "painting",
+    "disney",
+    "princess",
+    "jasmine",
+    "costume",
+    "from",
+    "aladdin",
+    "names",
+    "j.",
+    "scott",
+    "campbell",
+    "bra",
+    "swim_wear",
+    "bikini",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "necklace",
+    "franken",
+    "fran",
+    "\u7530",
+    "\u70CF\u9D09",
+    "https://www.artstation.com/artwork/vrdwx",
+    "anime",
+    "mermaid",
+    "gvart",
+    "gv",
+    "ahri",
+    "p1ka",
+    "9"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -489.33333333333235,
     "offset_y": -211.3333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -212.0000000000001,
     "offset_y": -152.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -21.333333333333258,
     "offset_y": -56.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

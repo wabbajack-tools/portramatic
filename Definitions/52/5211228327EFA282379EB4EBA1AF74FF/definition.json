@@ -2,25 +2,49 @@
   "source": "https://i.pinimg.com/564x/86/8b/5a/868b5a09db8a8a634259b7ea49988ff3.jpg",
   "md5": "5211228327EFA282379EB4EBA1AF74FF",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "desktop",
+    "theme",
+    "lcs",
+    "sion",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "wee",
+    "mage",
+    "elodie",
+    "perquis",
+    "2020",
+    "character",
+    "design",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -92,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -116,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -74,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -5,27 +5,50 @@
     "human",
     "female",
     "elementalist",
-    "Blonde"
+    "Blonde",
+    "jaina",
+    "proudmoore",
+    "new",
+    "theramore",
+    "azeroth",
+    "c-c-c-combo",
+    "breaker",
+    "martin",
+    "kirby-jackson",
+    "warrior",
+    "queen",
+    "andrey",
+    "modestov",
+    "https://www.artstation.com/artwork/3orzyo",
+    "oaths",
+    "\u0026",
+    "conquests",
+    "alexander",
+    "mokhov",
+    "https://www.artstation.com/artwork/nqx834"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -568,
     "offset_y": -756,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -242,
     "offset_y": -556,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -2,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

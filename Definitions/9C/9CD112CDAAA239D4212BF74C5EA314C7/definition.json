@@ -14,25 +14,57 @@
     "weapon",
     "weaponry",
     "knight",
-    "fighter"
+    "fighter",
+    "elf",
+    "bard",
+    "concept",
+    "ocarina",
+    "time",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "tricky",
+    "mengya",
+    "chen",
+    "characters",
+    "demi",
+    "ajanta",
+    "galactic",
+    "elite",
+    "squad",
+    "stanis\u0142aw",
+    "loonin",
+    "mass",
+    "effect",
+    "spirit",
+    "\u675C\u540C\u5B66-yiihuu",
+    "workshop",
+    "yiihuu",
+    "warrior"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -442.66666666666663,
     "offset_y": -138.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -133,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -15.999999999999716,
     "offset_y": -49.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

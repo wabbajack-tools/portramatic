@@ -19,27 +19,46 @@
     "lies",
     "nen",
     "chang",
-    "painting"
+    "painting",
+    "mata",
+    "hari",
+    "dancing",
+    "film",
+    "execution",
+    "league",
+    "legends",
+    "esmeralda",
+    "marvel",
+    "comics",
+    "hunchback",
+    "notre",
+    "dame",
+    "evil",
+    "xu",
+    "pengcheng"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -739.3333333333321,
     "offset_y": -163.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -535.3333333333335,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -321.33333333333326,
     "offset_y": -48.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

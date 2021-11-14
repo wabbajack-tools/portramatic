@@ -4,27 +4,58 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "anime",
+    "demon",
+    "human",
+    "hybrid",
+    "dragon",
+    "half",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "clothing",
+    "under_wear",
+    "panties",
+    "cleric",
+    "gayeon",
+    "kim",
+    "character",
+    "illustration",
+    "design",
+    "cute",
+    "wizard.",
+    "kang",
+    "jihun",
+    "https://www.artstation.com/artwork/58g8d1",
+    "moth",
+    "lady",
+    "bam"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -253.3333333333319,
     "offset_y": -28.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -173.66666666666674,
     "offset_y": -35.22222222222223,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -62.02570694087376,
     "offset_y": -8.43701799485865,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

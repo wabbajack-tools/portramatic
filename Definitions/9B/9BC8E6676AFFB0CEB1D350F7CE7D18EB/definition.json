@@ -2,27 +2,61 @@
   "source": "https://db4sgowjqfwig.cloudfront.net/campaigns/145332/assets/628330/Thanatos.jpg?1471145249",
   "md5": "9BC8E6676AFFB0CEB1D350F7CE7D18EB",
   "tags": [
-    "Armor"
+    "Armor",
+    "dragon",
+    "with",
+    "armor",
+    "evil",
+    "armour",
+    "demon",
+    "hunter",
+    "gears",
+    "war",
+    "lich",
+    "king",
+    "demons",
+    "dungeons",
+    "dragons",
+    "conan",
+    "barbarian",
+    "prometheus",
+    "billy",
+    "christian",
+    "cyborg",
+    "alejdark",
+    "red",
+    "potion",
+    "studios",
+    "legend",
+    "cryptids",
+    "kiyocat",
+    "illust",
+    "artstation.",
+    "men",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -423,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -321,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -440,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

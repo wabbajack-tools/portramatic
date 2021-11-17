@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/b7/dc/9a/b7dc9a7c0bf2732efa0cf72b7a2b4a0b.jpg",
   "md5": "284E37CA22B823EDD0DBD7658B7E3A04",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "concept",
+    "male",
+    "elves",
+    "warrior",
+    "elder",
+    "scrolls",
+    "online",
+    "tyr",
+    "master",
+    "an",
+    "skellig",
+    "joshua",
+    "bermudez",
+    "kill",
+    "confirmed",
+    "wengu",
+    "eddy",
+    "hu",
+    "https://www",
+    "yaksha",
+    "king",
+    "tianhua",
+    "xu",
+    "2020",
+    "evil",
+    "anime"
   ],
   "small": {
     "scale": 1,
     "offset_x": -320,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -216,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -38,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

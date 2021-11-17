@@ -4,27 +4,41 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "huang",
+    "guangjian",
+    "male",
+    "elf",
+    "concept",
+    "prince",
+    "elves",
+    "tree",
+    "pauline",
+    "vo\u00DF",
+    "2020"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -63.5,
     "offset_y": -144,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -4.5,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.089999999999998,
     "offset_x": -1,
     "offset_y": -153,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

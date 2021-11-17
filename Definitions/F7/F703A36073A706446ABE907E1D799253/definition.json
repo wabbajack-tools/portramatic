@@ -2,27 +2,48 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/012/343/920/large/younghan-kim-fantasy05.jpg?1534313584",
   "md5": "F703A36073A706446ABE907E1D799253",
   "tags": [
-    ""
+    "",
+    "realistic",
+    "knight",
+    "skeleton",
+    "dragon",
+    "medieval",
+    "knights",
+    "5518",
+    "studios",
+    "https://www.artstation.com/artwork/bzo68",
+    "black",
+    "templar",
+    "misha",
+    "savier",
+    "https://www",
+    "starhead",
+    "martin",
+    "le",
+    "borgne"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -594,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -299,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -184,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

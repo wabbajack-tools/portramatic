@@ -11,27 +11,32 @@
     "general",
     "artist",
     "jmrem1",
-    "bridle"
+    "bridle",
+    "corpse",
+    "bride"
   ],
   "small": {
     "scale": 1.32,
     "offset_x": -191,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -75,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

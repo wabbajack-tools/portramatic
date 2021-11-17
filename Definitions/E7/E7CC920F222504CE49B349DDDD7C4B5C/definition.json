@@ -8,7 +8,7 @@
     "ivric",
     "priest",
     "alejandro",
-    "garcía",
+    "garc\uFFFDa",
     "2020",
     "xing",
     "character",
@@ -19,27 +19,43 @@
     "wizard",
     "ernesto",
     "irawan",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "g.i.joe",
+    "dynasty",
+    "warriors",
+    "spartan",
+    "warrior",
+    "garc\u00EDa",
+    "conan",
+    "gunship",
+    "revolution",
+    "red",
+    "soldier",
+    "vinz",
+    "lim"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -640,
     "offset_y": -142.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -338.5,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -131,
     "offset_y": -95,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

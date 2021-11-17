@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/e8/46/a8/e846a8ad40ac27c8ec3d631e17ba83a4.jpg",
   "md5": "73949B5AB5934504EB4418D4B623EB16",
   "tags": [
-    ""
+    "",
+    "world",
+    "warcraft",
+    "lady",
+    "sylvanas",
+    "wow",
+    "windrunner",
+    "tyrande",
+    "whisperwind",
+    "castlevania",
+    "lords",
+    "shadow",
+    "chaos",
+    "warrior",
+    "free",
+    "liebe",
+    "loss",
+    "https://www",
+    "forest",
+    "shade",
+    "alexander",
+    "borodin",
+    "elves",
+    "legend",
+    "king",
+    "arthur",
+    "part.1",
+    "angelica"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -258,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -47,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -22,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

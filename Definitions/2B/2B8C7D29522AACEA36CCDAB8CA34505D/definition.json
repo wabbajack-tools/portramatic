@@ -2,25 +2,52 @@
   "source": "https://i.redd.it/w7n6nwv9ofq71.png",
   "md5": "2B8C7D29522AACEA36CCDAB8CA34505D",
   "tags": [
-    ""
+    "",
+    "kratos",
+    "lord",
+    "rings",
+    "zelda",
+    "twilight",
+    "princess",
+    "greek",
+    "gods",
+    "orc",
+    "andrew",
+    "mironishin",
+    "warhammer",
+    "40000",
+    "fan",
+    "art.",
+    "stanislav",
+    "dikolenko",
+    "zafrariel",
+    "protector",
+    "weak",
+    "steven",
+    "shan"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -787,
     "offset_y": -93,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -429,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -514,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

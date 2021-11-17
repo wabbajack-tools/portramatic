@@ -19,27 +19,50 @@
     "denecke",
     "dragon",
     "fu",
-    "chenqi"
+    "chenqi",
+    "deviant",
+    "anime",
+    "line",
+    "woman",
+    "barroth",
+    "andy",
+    "tantowi",
+    "https://www.artstation.com/artwork/obvd8",
+    "monster",
+    "hunter",
+    "hobbit",
+    "battle",
+    "five",
+    "armies",
+    "orc",
+    "creatures",
+    "weta",
+    "workshop",
+    "design",
+    "studio"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -311,
     "offset_y": -174,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -70,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -2,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

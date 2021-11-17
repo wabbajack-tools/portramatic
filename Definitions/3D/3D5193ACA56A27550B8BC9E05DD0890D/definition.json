@@ -1,5 +1,5 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/000/589/826/large/mark-tarrisse-female-elf-wizard-final.jpg?1427753393&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/000/589/826/large/mark-tarrisse-female-elf-wizard-final.jpg?1427753393\u0026dl=1",
   "md5": "3D5193ACA56A27550B8BC9E05DD0890D",
   "tags": [
     "person",
@@ -14,25 +14,60 @@
     "costume",
     "elf",
     "female",
-    ""
+    "",
+    "wizard",
+    "pictures",
+    "sun",
+    "drow",
+    "prince",
+    "persia",
+    "two",
+    "thrones",
+    "warrior",
+    "within",
+    "lord",
+    "rings",
+    "ocarina",
+    "time",
+    "varg",
+    "mystic",
+    "francis",
+    "brunet",
+    "https://www",
+    "sword",
+    "\u0026",
+    "spear",
+    "diego",
+    "cunha",
+    "arte",
+    "com",
+    "mephisto",
+    "dmitry",
+    "prozorov",
+    "dark"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -597,
     "offset_y": -333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -168,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -120,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

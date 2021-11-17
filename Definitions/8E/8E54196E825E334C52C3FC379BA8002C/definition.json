@@ -3,27 +3,49 @@
   "md5": "8E54196E825E334C52C3FC379BA8002C",
   "tags": [
     "artorias",
-    "abysswalker"
+    "abysswalker",
+    "fan",
+    "dark",
+    "souls",
+    "abyss",
+    "walker",
+    "armor",
+    "skyrim",
+    "death",
+    "knight",
+    "chaos",
+    "warrior",
+    "orc",
+    "game",
+    "thrones",
+    "infinity",
+    "artbook",
+    "cover",
+    "stan",
+    "poltavsky"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -200.00000000000026,
     "offset_y": -307.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -61.333333333333485,
     "offset_y": -199.9999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -77.33333333333371,
     "offset_y": -40.00000000000017,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

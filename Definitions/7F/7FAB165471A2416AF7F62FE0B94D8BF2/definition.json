@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/57/15/3c/57153c39c80258dfebdc84e64a477353.jpg",
   "md5": "7FAB165471A2416AF7F62FE0B94D8BF2",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "praetorian",
+    "lukhwinder",
+    "chumber",
+    "https://www.artstation.com/artwork/w6gxq",
+    "warrior",
+    "pavel",
+    "kondrashov",
+    "character",
+    "design",
+    "rpg",
+    "king",
+    "adnan",
+    "ali"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -263,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -91,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -66,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

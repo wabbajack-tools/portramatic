@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/564x/98/3d/7a/983d7a7798becd8512d56da6018e4942.jpg",
   "md5": "9AC9226E81EC55E6186765B664525EB4",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game"
   ],
   "small": {
     "scale": 0.6399999999999981,
     "offset_x": -101,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -13,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3099999999999885,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

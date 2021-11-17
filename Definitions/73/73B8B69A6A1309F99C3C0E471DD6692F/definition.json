@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/64/99/d2/6499d29c154dd3ec4d702c4b2865f9ca.jpg",
   "md5": "73B8B69A6A1309F99C3C0E471DD6692F",
   "tags": [
-    ""
+    "",
+    "male",
+    "druid",
+    "elf",
+    "human",
+    "nomads",
+    "denis",
+    "kornev",
+    "https://www",
+    "song",
+    "wild",
+    "kimonas",
+    ".",
+    "dungeons"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -159,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -27,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -20,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

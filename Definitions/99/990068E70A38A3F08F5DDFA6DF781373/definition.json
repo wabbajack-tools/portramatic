@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/564x/82/db/df/82dbdfc5799e785019c3a51f741b48d8.jpg",
   "md5": "990068E70A38A3F08F5DDFA6DF781373",
   "tags": [
-    ""
+    "",
+    "kvothe",
+    "fan",
+    "name",
+    "wind",
+    "characters",
+    "artwork"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -146,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -52,
     "offset_y": -138,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -10,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

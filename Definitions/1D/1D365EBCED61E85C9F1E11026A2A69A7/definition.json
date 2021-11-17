@@ -24,27 +24,32 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -739,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -444,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -441,
     "offset_y": -53,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

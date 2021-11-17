@@ -2,25 +2,53 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/273c24c4-b1b5-417f-bc25-e73f7b5bb1ae/db3925w-9adfe265-f67b-4eb5-bc50-7f8b46771f47.jpg/v1/fill/w_800,h_1229,q_75,strp/seridiel_by_erickefata_db3925w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyOSIsInBhdGgiOiJcL2ZcLzI3M2MyNGM0LWIxYjUtNDE3Zi1iYzI1LWU3M2Y3YjViYjFhZVwvZGIzOTI1dy05YWRmZTI2NS1mNjdiLTRlYjUtYmM1MC03ZjhiNDY3NzFmNDcuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rFUckt-FU6dk9SxPRhhWZLDSh0gYO2gqD_c-VK_hOe4",
   "md5": "FBFE3930CCC082B0EDC4116B538D6C3D",
   "tags": [
-    ""
+    "",
+    "elven",
+    "helmet",
+    "elf",
+    "warrior",
+    "helm",
+    "female",
+    "assassin",
+    "dark",
+    "knight",
+    "armor",
+    "duke",
+    "vedam",
+    "dren",
+    "nuare",
+    "studio",
+    "elder",
+    "scrolls",
+    "weihao",
+    "wei",
+    "personal",
+    "exercise",
+    "zp",
+    "cheng"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -394,
     "offset_y": -175,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -89,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -18,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/033/644/211/large/hyeonsick-choi-aruana-sick-.jpg?1610181288",
   "md5": "BBF05C202FFDE33092D39EEA8A3914F4",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "girl",
+    "\u6768",
+    "\u5FD7",
+    "\u8FBE",
+    "kai-sa",
+    "league",
+    "legends",
+    "fan",
+    "g.",
+    "redon",
+    "gwen",
+    "stacy",
+    "simon",
+    "si"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -375,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -144,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -38,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

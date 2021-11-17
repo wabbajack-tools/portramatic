@@ -2,25 +2,36 @@
   "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
   "md5": "704F79041B4CE17382F958610DCF1293",
   "tags": [
-    ""
+    "",
+    "mistletoe",
+    "leblanc",
+    "build",
+    "runes",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 1,
     "offset_x": -721,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -651,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -736,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

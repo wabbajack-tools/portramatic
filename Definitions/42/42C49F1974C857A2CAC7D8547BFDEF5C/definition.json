@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/e9/db/b6/e9dbb64f8bdee56a68e5430620d04dfe.jpg",
   "md5": "42C49F1974C857A2CAC7D8547BFDEF5C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "vampire",
+    "knight",
+    "manga",
+    "night",
+    "blood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "wand",
+    "bearer",
+    "morgan",
+    "madeline",
+    "undead",
+    "templar",
+    "assassin",
+    "adrian",
+    "barcenas",
+    "souls",
+    "girl",
+    "sibyl",
+    "vane"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -199.20000000000016,
     "offset_y": -65.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -66.40000000000003,
     "offset_y": -20.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -17.6203703703693,
     "offset_y": -8.009259259259125,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

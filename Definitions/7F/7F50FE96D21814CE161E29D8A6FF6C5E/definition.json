@@ -2,27 +2,55 @@
   "source": "https://s-media-cache-ak0.pinimg.com/originals/c1/d5/be/c1d5bec8f3f3917348a7ef329e3e1e23.png",
   "md5": "7F50FE96D21814CE161E29D8A6FF6C5E",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "male",
+    "knight",
+    "armor",
+    "armors",
+    "heavy",
+    "death",
+    "dungeons",
+    "dragons",
+    "critical",
+    "role",
+    "grog",
+    "chaim",
+    "garcia",
+    "characters",
+    "barbarian",
+    "soldier",
+    "yintion",
+    "j",
+    "warrior",
+    "assassin",
+    "caio",
+    "monteiro",
+    "http://www.artstation.com/artwork/assassin-0c36b20b"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -351,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -144,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -40,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

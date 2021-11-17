@@ -3,27 +3,38 @@
   "md5": "1C3F645EEDB738EC74EB7AF23551E685",
   "tags": [
     "thief",
-    "backgrounds"
+    "backgrounds",
+    "pc",
+    "game",
+    "gameplay",
+    "shadow",
+    "alien",
+    "vs",
+    "predator",
+    "predators"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -622.0000000000018,
     "offset_y": -183.33333333333405,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -288.6666666666669,
     "offset_y": -79.86666666666684,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -145.1481481481478,
     "offset_y": -1.8148148148154064,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

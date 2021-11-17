@@ -4,27 +4,48 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "witch",
+    "queen",
+    "wicked",
+    "hunter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "ring",
+    "gumiho",
+    "dao",
+    "le",
+    "trong",
+    "https://app",
+    "demon",
+    "shaman",
+    "amuri",
+    "e"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -93.5,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -5.5,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3599999999999983,
     "offset_x": -21,
     "offset_y": -93,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/564x/ee/1e/b9/ee1eb9a95d3a271bcd3f5100ea886cc7.jpg",
   "md5": "29919D77F725157F1C44B8F89F608C6C",
   "tags": [
-    ""
+    "",
+    "oblivion",
+    "fan",
+    "elder",
+    "scrolls",
+    "concept",
+    "skyrim",
+    "harry",
+    "potter",
+    "deathly",
+    "hallows",
+    "god",
+    "war",
+    "chains",
+    "olympus",
+    "league",
+    "legends",
+    "order",
+    "phoenix",
+    "legend",
+    "zelda",
+    "kratos",
+    "goblet",
+    "fire",
+    "fist",
+    "lee",
+    "sin",
+    "splash",
+    "animation",
+    "dream",
+    "ride",
+    "meet",
+    "terracadas",
+    "pixzzo",
+    "zenitsu",
+    "marcin",
+    "bystrzycki",
+    "https://www"
   ],
   "small": {
     "scale": 0.7399999999999982,
     "offset_x": -175,
     "offset_y": -218,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -61,
     "offset_y": -201,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2399999999999884,
     "offset_x": -8,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

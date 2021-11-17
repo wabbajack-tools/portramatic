@@ -12,25 +12,46 @@
     "samurai",
     "sport",
     "sports",
-    "female mage"
+    "female mage",
+    "witcher",
+    "mercenary",
+    "dongho",
+    "kang",
+    "character",
+    "\u65E5\u5E38\u6478\u9C7C",
+    "zexi",
+    "guo",
+    "2021",
+    "valianna",
+    "\u0022anna\u0022",
+    "oldwater",
+    "for",
+    "robert",
+    "tom",
+    "rhodes"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -1087.2000000000012,
     "offset_y": -1126.3999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -293.5999999999998,
     "offset_y": -407.19999999999953,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -80.09259259259079,
     "offset_y": -299.5462962962955,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

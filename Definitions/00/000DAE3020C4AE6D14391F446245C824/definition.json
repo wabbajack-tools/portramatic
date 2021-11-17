@@ -11,27 +11,47 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "dragon",
+    "splash",
+    "skin",
+    "bloodmoon",
+    "twisted",
+    "fate",
+    "viktor",
+    "titov",
+    "lune",
+    "nefarian",
+    "lord",
+    "blackrock",
+    "xi",
+    "zhang",
+    "mythgard",
+    "saeed",
+    "ramez"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -936.8000000000029,
     "offset_y": -54.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -471.19999999999976,
     "offset_y": -33.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -626.3240740740748,
     "offset_y": -1.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

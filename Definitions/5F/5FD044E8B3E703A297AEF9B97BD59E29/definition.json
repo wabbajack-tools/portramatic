@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/79/ce/e1/79cee1c11c95f168d523fa710403eb2a.jpg",
   "md5": "5FD044E8B3E703A297AEF9B97BD59E29",
   "tags": [
-    ""
+    "",
+    "cool",
+    "characters",
+    "steampunk",
+    "bag",
+    "holding",
+    "dark",
+    "elf",
+    "https://cdna.artstation.com/p/assets/images/images/007/888",
+    "forbidden",
+    "love",
+    "tri",
+    "nguyen",
+    "https://www"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -246,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -134,
     "offset_y": -153,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -20,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

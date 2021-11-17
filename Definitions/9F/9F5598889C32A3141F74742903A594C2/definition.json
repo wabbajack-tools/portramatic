@@ -19,27 +19,38 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "anime",
+    "girl",
+    "characters",
+    "stylet",
+    "chen",
+    "kh",
+    "frame",
+    "arms"
   ],
   "small": {
     "scale": 0.6299999999999998,
     "offset_x": -35.000000000001876,
     "offset_y": -23.600000000001046,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4799999999999997,
     "offset_x": -1.0000000000001137,
     "offset_y": -14.800000000000125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -12.407407407409892,
     "offset_y": -24.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

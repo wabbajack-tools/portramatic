@@ -2,27 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7b9ee76-7b3f-40a4-bc80-88f6f314ba7e/de7v3xq-a3cc09a2-2887-4e62-aad7-eaabc9c5ceea.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3YjllZTc2LTdiM2YtNDBhNC1iYzgwLTg4ZjZmMzE0YmE3ZVwvZGU3djN4cS1hM2NjMDlhMi0yODg3LTRlNjItYWFkNy1lYWFiYzljNWNlZWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nOq65RiEzf_pqPBJmplqrfAuFZvub964z4N_VQ8qBjw",
   "md5": "71BAB33AA811A86ADDE4E7D4220EBB2B",
   "tags": [
-    ""
+    "",
+    "sabrina",
+    "chilling",
+    "adventures",
+    "cast",
+    "characters",
+    "actress",
+    "guardians",
+    "galaxy",
+    "marvel",
+    "comics",
+    "tahlai",
+    "snake",
+    "sorcerer",
+    "lina",
+    "monge"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -369.33333333333377,
     "offset_y": -141.33333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -67.33333333333366,
     "offset_y": -26.00000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -14.666666666667197,
     "offset_y": -23.999999999999375,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

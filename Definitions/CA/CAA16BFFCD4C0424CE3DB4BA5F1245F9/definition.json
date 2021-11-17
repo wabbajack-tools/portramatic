@@ -1,5 +1,5 @@
 {
-  "source": "https://cdnb.artstation.com/p/assets/images/images/020/695/511/large/amanda-kihlstrom-resorc3.jpg?1568808236&dl=1                                    ",
+  "source": "https://cdnb.artstation.com/p/assets/images/images/020/695/511/large/amanda-kihlstrom-resorc3.jpg?1568808236\u0026dl=1                                    ",
   "md5": "CAA16BFFCD4C0424CE3DB4BA5F1245F9",
   "tags": [
     "white",
@@ -28,21 +28,24 @@
     "scale": 0.7599999999999998,
     "offset_x": -779,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -663,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -335,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

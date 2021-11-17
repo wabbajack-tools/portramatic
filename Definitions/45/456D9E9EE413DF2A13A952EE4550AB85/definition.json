@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/26/8b/9a/268b9acd790946f474dbe22d4e91c245.jpg",
   "md5": "456D9E9EE413DF2A13A952EE4550AB85",
   "tags": [
-    ""
+    "",
+    "ra",
+    "al",
+    "ghul",
+    "arrow",
+    "ras",
+    "quotes",
+    "world",
+    "warcraft",
+    "rogue",
+    "archangels",
+    "techno-priestess",
+    "carhvax",
+    "simons",
+    "hellfire",
+    "caelestra",
+    "dylan",
+    "pierpont"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -133,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -35,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -4,
     "offset_y": -140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

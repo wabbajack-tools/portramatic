@@ -8,25 +8,50 @@
     "art",
     "samurai",
     "knight",
-    "Half-orc"
+    "Half-orc",
+    "male",
+    "paladin",
+    "character",
+    "portraits",
+    "kingmaker",
+    "wizard",
+    "armor",
+    "medieval",
+    "knights",
+    "armors",
+    "templar",
+    "pavel",
+    "romanov",
+    "http://www",
+    "general",
+    "orient",
+    "maidenhair",
+    "tree",
+    "nim",
+    "py"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -409.39999999999986,
     "offset_y": -28.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8900833333333331,
     "offset_x": -194.8000000000004,
     "offset_y": -18.60000000000025,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0288333333333337,
     "offset_x": -5.999999999998636,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

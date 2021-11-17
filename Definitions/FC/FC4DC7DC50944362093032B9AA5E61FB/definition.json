@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/0f/59/89/0f598949197207385d742115c3a8356d.jpg",
   "md5": "FC4DC7DC50944362093032B9AA5E61FB",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "inquisition",
+    "tarot",
+    "multiplayer",
+    "characters",
+    "origins",
+    "marvel",
+    "comics"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -72,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -13,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -2,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

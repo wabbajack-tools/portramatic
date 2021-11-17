@@ -2,27 +2,35 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/037/692/019/large/lera-pi-lerapi-portrait.jpg?1621051186",
   "md5": "561DB4DA5C55EA2182E466A443110C8F",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -79,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -81,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -164,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

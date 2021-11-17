@@ -24,27 +24,38 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "heart",
+    "vayne",
+    "league",
+    "legends",
+    "wild",
+    "girl4",
+    "sheng",
+    "mai"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -194,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -129,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -93,
     "offset_y": -87,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

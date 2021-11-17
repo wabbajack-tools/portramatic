@@ -23,29 +23,33 @@
     "via",
     "ios",
     "app",
-    "©",
+    "\uFFFD",
     "2017",
-    "garotas"
+    "garotas",
+    "\u00A9"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -217.3333333333333,
     "offset_y": -23.333333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -26.66666666666663,
     "offset_y": -5.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -2.6666666666667425,
     "offset_y": -9.333333333333258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

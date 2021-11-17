@@ -2,25 +2,46 @@
   "source": "https://i.pinimg.com/originals/9b/8c/91/9b8c919e3fc7228dce271adfe12c6fc2.jpg",
   "md5": "7DA7E35C979D840FE968DAED5ED142BE",
   "tags": [
-    "Our Fair Lady"
+    "Our Fair Lady",
+    "witcher",
+    "female",
+    "portraits",
+    "geralt",
+    "pirates",
+    "caribbean",
+    "omu",
+    "upied",
+    "https://www.artstation.com/artwork/o30ro",
+    "warcraft",
+    "siegfried",
+    "denesle",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "knight"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -212.66666666666833,
     "offset_y": -137.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -151.33333333333331,
     "offset_y": -73.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
-    "offset_x": -2.2737367544323206e-13,
-    "offset_y": 5.115907697472721e-13,
-    "size": "full"
+    "offset_x": -2.2737367544323206E-13,
+    "offset_y": 5.115907697472721E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

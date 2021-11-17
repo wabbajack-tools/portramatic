@@ -2,27 +2,51 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/000/402/066/large/kilart-_-test1122-9.jpg?1443927352",
   "md5": "6741E3244EED174E91DB6390A44ED5A0",
   "tags": [
-    ""
+    "",
+    "demonic",
+    "characters",
+    "female",
+    "demon",
+    "character",
+    "gallery",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "\u9634\u9633\u5E08",
+    "k",
+    "dash",
+    "mage",
+    "fighting",
+    "lukas",
+    "baumgartner",
+    "sylvanas",
+    "windrunner",
+    "daria",
+    "klusina"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -303,
     "offset_y": -243,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -82,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -8,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

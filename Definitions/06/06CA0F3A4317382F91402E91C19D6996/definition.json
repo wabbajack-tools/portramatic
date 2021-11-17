@@ -2,25 +2,53 @@
   "source": "https://i.pinimg.com/originals/60/01/be/6001be190dbc6a17a1aa28617ed6958e.png",
   "md5": "06CA0F3A4317382F91402E91C19D6996",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "japanese",
+    "warrior",
+    "female",
+    "costume",
+    "woman",
+    "cosplay",
+    "wigs",
+    "anime",
+    "girl",
+    "girls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "practice",
+    "neo",
+    "lee",
+    "akali",
+    "kda",
+    "tanasil",
+    "chotchoung"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -155,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -47,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -74,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

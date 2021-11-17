@@ -8,27 +8,53 @@
     "devil",
     "miguelregodon",
     "d",
-    "cambion"
+    "cambion",
+    "pirate",
+    "dragon",
+    "armor",
+    "spider-man",
+    "armors",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "170423",
+    "hye",
+    "ji",
+    "kim",
+    "06",
+    "bbang",
+    "q",
+    "warrior",
+    "feline",
+    "jay",
+    "jiwoopark",
+    "character"
   ],
   "small": {
     "scale": 2.0599999999999996,
     "offset_x": -478.4000000000012,
     "offset_y": -268.7999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -121.59999999999991,
     "offset_y": -33.59999999999957,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -4.805555555554747,
     "offset_y": -56.06481481481421,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

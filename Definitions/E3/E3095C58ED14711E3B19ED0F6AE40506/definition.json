@@ -2,27 +2,38 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/010/794/736/large/san-tez-.jpg?1526285376",
   "md5": "E3095C58ED14711E3B19ED0F6AE40506",
   "tags": [
-    ""
+    "",
+    "studying",
+    "arcane",
+    "minard",
+    "maxime",
+    "granblue",
+    "ferry",
+    "yardy",
+    "cat"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -879,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -526,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -640,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

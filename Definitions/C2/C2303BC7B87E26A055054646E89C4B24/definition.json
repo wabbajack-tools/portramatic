@@ -1,26 +1,35 @@
 {
-  "source": "https://pbs.twimg.com/media/EYXj3HLX0AECsu5?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EYXj3HLX0AECsu5?format=jpg\u0026name=large",
   "md5": "C2303BC7B87E26A055054646E89C4B24",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -483,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -170,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -6,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

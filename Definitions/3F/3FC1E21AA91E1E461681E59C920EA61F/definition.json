@@ -8,12 +8,12 @@
     "#1",
     "kyu",
     "yong",
-    "\"what",
+    "\u0022what",
     "is",
     "broken",
     "can",
     "be",
-    "reforged!\"",
+    "reforged!\u0022",
     "subin",
     "you",
     "sohyun",
@@ -31,21 +31,24 @@
     "scale": 0.4399999999999995,
     "offset_x": -422.79999999999984,
     "offset_y": -115.80000000000032,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -7.333333333333513,
     "offset_y": -17.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -12.000000000000455,
     "offset_y": -52.66666666666697,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

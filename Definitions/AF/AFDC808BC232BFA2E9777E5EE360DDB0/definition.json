@@ -2,27 +2,55 @@
   "source": "https://img.wattpad.com/cc8598f7154069e6209e3877132e7f88e63b0722/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6e336d4b68566334686e497041673d3d2d3735363338393432342e313562336535383037663939653035643333303531373833373730372e6a7067",
   "md5": "AFDC808BC232BFA2E9777E5EE360DDB0",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "knight",
+    "black",
+    "paintings",
+    "chaos",
+    "warhammer",
+    "40k",
+    "lord",
+    "rings",
+    "lucifer1",
+    "crow",
+    "god",
+    "artstation.",
+    "artwork",
+    "insane",
+    "puck",
+    "adv",
+    "randy",
+    "vargas",
+    "vargasni",
+    "summoner",
+    "joseph",
+    "weston",
+    "illustration"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -46,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -24,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

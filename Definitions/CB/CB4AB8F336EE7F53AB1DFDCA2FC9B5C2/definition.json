@@ -19,27 +19,37 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "stay",
+    "oda",
+    "nobunaga",
+    "avenger",
+    "fgo",
+    "grand",
+    "order"
   ],
   "small": {
     "scale": 0.7199999999999999,
     "offset_x": -85.00000000000188,
     "offset_y": -37.600000000001046,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999967,
     "offset_x": -19.000000000000114,
     "offset_y": -35.800000000000125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -120.40740740740989,
     "offset_y": -70.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

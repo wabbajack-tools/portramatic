@@ -2,27 +2,63 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/013/648/557/large/zack-stella-zackstella-elspeth-knight-errant-small.jpg?1540560071",
   "md5": "1A5841E245ADE0CB7BD15629C0F654B8",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "elspeth",
+    "card",
+    "planeswalker",
+    "star",
+    "wars",
+    "clone",
+    "captain",
+    "america",
+    "first",
+    "avenger",
+    "winter",
+    "soldier",
+    "female",
+    "assassin",
+    "avengers",
+    "medieval",
+    "knights",
+    "dark",
+    "elf",
+    "\u8BC5\u5492\u6D41\u6D6A\u8005",
+    "wei",
+    "hongyang",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2016",
+    "madallaine",
+    "gunship",
+    "revolution",
+    "character"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -445.3333333333282,
     "offset_y": -104,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -258.0000000000003,
     "offset_y": -7.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999999,
     "offset_x": -83.99999999999977,
     "offset_y": -13.333333333333258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

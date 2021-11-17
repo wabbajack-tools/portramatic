@@ -7,25 +7,52 @@
     "armor",
     "bronze",
     "knight",
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "illustration",
+    "female",
+    "samurai",
+    "armors",
+    "medieval",
+    "knights",
+    "orc",
+    "warrior",
+    "warriors",
+    "sichen",
+    "wang",
+    "grace",
+    "park",
+    "concept",
+    "characters",
+    "slayer\u0027s",
+    "armour",
+    "bart\u0142omiej",
+    "\u0022valery"
   ],
   "small": {
     "scale": 1,
     "offset_x": -739,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -668,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -450,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

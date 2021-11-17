@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/29/1c/de/291cdeaeed2e2a82eb775b2f119bfd73.jpg",
   "md5": "EBCE114BE6C2B0579E661239B93E6767",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "artwork",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "captain",
+    "marvel",
+    "kontorn",
+    "boonyanate",
+    "alita",
+    "3d",
+    "fanart",
+    "substance",
+    "painter",
+    "hong",
+    "lust",
+    "fullmetal",
+    "alchemist",
+    "rey",
+    "jhon",
+    "rosano"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -200,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -107,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

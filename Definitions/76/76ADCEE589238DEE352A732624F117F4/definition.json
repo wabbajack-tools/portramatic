@@ -2,25 +2,58 @@
   "source": "https://elitegamer.ie/wp-content/uploads/2015/06/kings-of-the-realm-baner-Anomandis-729x1024.jpg",
   "md5": "76ADCEE589238DEE352A732624F117F4",
   "tags": [
-    ""
+    "",
+    "realm",
+    "medieval",
+    "king",
+    "concept",
+    "kings",
+    "characters",
+    "orc",
+    "warrior",
+    "warriors",
+    "samurai",
+    "armor",
+    "heavy",
+    "armors",
+    "jon",
+    "snow",
+    "winter",
+    "arjun",
+    "vishwanath",
+    "assassin\u0027s",
+    "creed",
+    "valhalla",
+    "ivar",
+    "boneless",
+    "female",
+    "gnome",
+    "barbarian",
+    "diana",
+    "galimova"
   ],
   "small": {
     "scale": 1.9600000000000009,
     "offset_x": -608,
     "offset_y": -192,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2400000000000002,
     "offset_x": -273,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -110,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

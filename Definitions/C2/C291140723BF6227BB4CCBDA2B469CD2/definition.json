@@ -2,27 +2,47 @@
   "source": "https://i.imgur.com/Qy9TX6r.png",
   "md5": "C291140723BF6227BB4CCBDA2B469CD2",
   "tags": [
-    ""
+    "",
+    "human",
+    "fighter",
+    "iconic",
+    "characters",
+    "character",
+    "illustrations",
+    "7854",
+    "anna",
+    "helme",
+    "https://www.artstation",
+    "siwoo",
+    "kim",
+    "morrigan",
+    "fan",
+    "emylie",
+    "boivin",
+    "illustration"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -170,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -61,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

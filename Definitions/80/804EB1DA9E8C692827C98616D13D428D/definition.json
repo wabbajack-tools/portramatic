@@ -32,27 +32,31 @@
     "scared",
     "princess",
     "sandra",
-    "prober"
+    "prober",
+    "night"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -377,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -241,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -442.74530560806556,
     "offset_y": -102.26540642722114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

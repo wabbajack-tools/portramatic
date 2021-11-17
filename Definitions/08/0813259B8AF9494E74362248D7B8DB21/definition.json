@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/339/975/4k/yi-y2.jpg?1567413782",
   "md5": "0813259B8AF9494E74362248D7B8DB21",
   "tags": [
-    ""
+    "",
+    "death",
+    "knight",
+    "witcher",
+    "gears",
+    "war",
+    "mummy",
+    "st.",
+    "michael",
+    "dark",
+    "lost",
+    ".",
+    "yi",
+    "papel",
+    "de",
+    "parede",
+    "computador",
+    "wasp",
+    "wip",
+    "owl",
+    "439",
+    "witch",
+    "hunter",
+    "anton",
+    "fort"
   ],
   "small": {
     "scale": 1.0799999999999998,
     "offset_x": -1896,
     "offset_y": -609,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999996,
     "offset_x": -1005,
     "offset_y": -355,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -604,
     "offset_y": -220,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -19,27 +19,36 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "jeanne",
+    "alter",
+    "cute",
+    "fgo",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -148.00000000000188,
     "offset_y": -191.60000000000105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -18.000000000000114,
     "offset_y": -79.80000000000013,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -40.40740740740989,
     "offset_y": -314.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

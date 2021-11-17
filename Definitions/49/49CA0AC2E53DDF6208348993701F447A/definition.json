@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/564x/f3/cf/a3/f3cfa3fa1c7d43ad54eff15e45f1092e.jpg",
   "md5": "49CA0AC2E53DDF6208348993701F447A",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "characters",
+    "cards",
+    "prostitute",
+    "xiao",
+    "sen"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -179,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -100,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -44,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -28,27 +28,49 @@
     "souls",
     "girl",
     "sibyl",
-    "vane"
+    "vane",
+    "knight",
+    "pencil",
+    "drawing",
+    "female",
+    "warrior",
+    "cartoon",
+    "dragon",
+    "armor",
+    ".",
+    "artist",
+    "laura",
+    "sava",
+    "#artstation",
+    "women",
+    "irvan",
+    "solkor",
+    "joshua",
+    "cairos",
+    "https://www.artstation.com/artwork/8awpq"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -325,
     "offset_y": -221,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -327,
     "offset_y": -216,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -382,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

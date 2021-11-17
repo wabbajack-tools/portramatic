@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/3b/35/72/3b35729f261cfa1e94f516f4dceb764d.jpg",
   "md5": "125660D750EC81A08AD22E36236F3AAC",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bruce",
+    "jasric",
+    "a",
+    "few",
+    "rounds",
+    "gwent",
+    "dominique",
+    "wesson"
   ],
   "small": {
     "scale": 0.7799999999999983,
     "offset_x": -115,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999997,
     "offset_x": -92,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5599999999999887,
     "offset_x": -76,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

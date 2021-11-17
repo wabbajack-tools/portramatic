@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/32/f2/c5/32f2c5d4b8c6e2a2e31460b1c07e6de8.jpg",
   "md5": "3154D0FB639D42FF9785EFC0B6D50810",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -75.99999999999997,
     "offset_y": -20.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -56,
     "offset_y": -18.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -81.6944444444448,
     "offset_y": -24.027777777777487,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

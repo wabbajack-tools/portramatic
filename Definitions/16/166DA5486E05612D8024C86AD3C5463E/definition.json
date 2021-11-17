@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/fc/80/42/fc8042b6107b9a98257cfb99137683ee.jpg",
   "md5": "166DA5486E05612D8024C86AD3C5463E",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "bounty",
+    "hunter",
+    "oliver",
+    "odmark",
+    "http://www",
+    "osman",
+    "empire",
+    "sunwoo",
+    "lee",
+    "https://www"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -278,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -109,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -8,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

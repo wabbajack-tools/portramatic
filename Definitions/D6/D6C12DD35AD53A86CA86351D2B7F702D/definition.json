@@ -2,25 +2,49 @@
   "source": "https://krot.info/uploads/posts/2019-10/1570397240_mranyj-jelf-art-55.jpg",
   "md5": "D6C12DD35AD53A86CA86351D2B7F702D",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "concept",
+    "elf",
+    "portraits",
+    "blood",
+    "horde\u0027s",
+    "assassin",
+    "warcraft",
+    "eddy",
+    "senna",
+    "redeemer",
+    "yaroslav",
+    "shiyan",
+    "doodle",
+    "_z",
+    "ed_",
+    "doodles",
+    "painting"
   ],
   "small": {
     "scale": 0.5199999999999997,
     "offset_x": -347,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.42999999999999966,
     "offset_x": -202,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -492,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,49 @@
   "source": "https://i.imgur.com/l4rqPX8.jpeg",
   "md5": "6ACCD333F02C9E3C7A239D0431E137FA",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "concept",
+    "male",
+    "character",
+    "portraits",
+    "witcher",
+    "anime",
+    "characters",
+    "punisher",
+    "angel",
+    "chocolazy",
+    "/\uCD08\uCF54\uB808\uC774\uC9C0",
+    "karen",
+    "raymond",
+    "griego",
+    "sun",
+    "herald",
+    "rimma",
+    "b"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -272,
     "offset_y": -144,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -49,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

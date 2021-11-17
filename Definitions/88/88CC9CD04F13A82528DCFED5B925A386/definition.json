@@ -5,27 +5,41 @@
     "DnD",
     "Halfling",
     "Cleric",
-    "Aj Ramos"
+    "Aj Ramos",
+    "grimm",
+    "fairy",
+    "tales",
+    "tale",
+    "marvel",
+    "comics",
+    "comic",
+    "book",
+    "wonder",
+    "woman",
+    "deadpool"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -164,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -131,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -86,
     "offset_y": -192,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

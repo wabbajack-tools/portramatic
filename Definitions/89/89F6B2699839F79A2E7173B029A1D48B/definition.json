@@ -9,25 +9,60 @@
     "elf",
     "costume",
     "world of warcraft",
-    "evil fighter"
+    "evil fighter",
+    "mythical",
+    "dragon",
+    "mystical",
+    "magical",
+    "creatures",
+    "beast",
+    "chronicles",
+    "riddick",
+    "elder",
+    "scrolls",
+    "online",
+    "dark",
+    "death",
+    "knight",
+    "witcher",
+    "geralt",
+    "rivia",
+    "minsung",
+    "seo",
+    "https://www.artstation.com/artwork",
+    "elemental",
+    "mage",
+    "anton",
+    "valiukonis",
+    "2020",
+    "laura",
+    "sava",
+    "warrior",
+    "artwork",
+    "gothic"
   ],
   "small": {
     "scale": 1,
     "offset_x": -721,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -637,
     "offset_y": -102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -494,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

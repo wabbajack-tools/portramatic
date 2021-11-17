@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/fd/c6/b3/fdc6b38cec486792da424e51a2e1d16e.jpg",
   "md5": "0D74FDB8859FAFAB89D2F86E2A4F500D",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "concept",
+    "wood",
+    "wild",
+    "druid",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.9399999999999984,
     "offset_x": -164,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -102,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4699999999999886,
     "offset_x": -52,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

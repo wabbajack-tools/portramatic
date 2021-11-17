@@ -2,27 +2,41 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/042/975/474/large/abigail-diaz-pearl-rouge.jpg?1635951258",
   "md5": "7524C948DB7234BB4EDD081060488AF2",
   "tags": [
-    ""
+    "",
+    "black",
+    "lady",
+    "sailor",
+    "moon",
+    "thao",
+    "anh",
+    "1111",
+    "queen",
+    "hearts",
+    "yan",
+    "chuan"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -191,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -59,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -52,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

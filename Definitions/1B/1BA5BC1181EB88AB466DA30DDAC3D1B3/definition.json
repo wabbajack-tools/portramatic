@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/6b/16/6a/6b166ace89d438dd13fc1fe4fc7ff366.jpg",
   "md5": "1BA5BC1181EB88AB466DA30DDAC3D1B3",
   "tags": [
-    ""
+    "",
+    "bard",
+    "character",
+    "female",
+    "elf",
+    "portraits",
+    "dungeons",
+    "dragons",
+    "wood",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "string_instrument",
+    "guitar",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "minstrel",
+    "detail",
+    "oleksandra",
+    "ishchenko",
+    "warrior",
+    "haesun",
+    "jung",
+    "men",
+    "anne",
+    "bonny",
+    "antoine",
+    "petit"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -212,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -59,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -52,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

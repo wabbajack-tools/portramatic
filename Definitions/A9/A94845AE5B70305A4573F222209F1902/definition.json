@@ -4,27 +4,58 @@
   "tags": [
     "female",
     "shaman",
-    "character"
+    "character",
+    "warrior",
+    "photos",
+    "woman",
+    "concept",
+    "pirates",
+    "caribbean",
+    "skyrim",
+    "storm",
+    "half-giant",
+    "paladin",
+    "ryan",
+    "van",
+    "dongen",
+    "https://www.artstation.c\u2026",
+    "dungeons",
+    "vikings",
+    "name",
+    "odin",
+    "victor",
+    "perez",
+    "corbella",
+    "hexxen",
+    "1733",
+    "rpg",
+    "illustrations",
+    "piotr",
+    "chrzanowski",
+    "illustration"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -310,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -99,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -2,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

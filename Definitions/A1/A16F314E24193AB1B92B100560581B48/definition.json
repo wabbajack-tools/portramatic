@@ -2,27 +2,33 @@
   "source": "https://i.pinimg.com/564x/60/8f/ff/608fffc4601fb2a28ccf5e5a4bbbacb0.jpg",
   "md5": "A16F314E24193AB1B92B100560581B48",
   "tags": [
-    ""
+    "",
+    "male",
+    "digital",
+    "character"
   ],
   "small": {
     "scale": 0.5999999999999981,
     "offset_x": -46,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -29,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2899999999999885,
     "offset_x": -4,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

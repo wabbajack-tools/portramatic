@@ -2,25 +2,35 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/509/637/medium/alexander-kozachenko-1797-dijkstra-2-syndicate-leader-card-kozachenko-cropped.jpg?1568057068",
   "md5": "2E374D1CC44951583B3370033AF9B10C",
   "tags": [
-    "King of Novigrad"
+    "King of Novigrad",
+    "sigismund",
+    "dijkstra",
+    "vizimir",
+    "witcher",
+    "zerrikania"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -439.3333333333353,
     "offset_y": -325.99999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -93.33333333333326,
     "offset_y": -127.99999999999983,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -22.66666666666697,
     "offset_y": -1.3333333333329733,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

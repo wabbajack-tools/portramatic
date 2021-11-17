@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/47/81/7a/47817a3ce66e557e546f1d1cdca50a20.jpg",
   "md5": "90C33B05161E477DD827BC47E317872B",
   "tags": [
-    ""
+    "",
+    "luna",
+    "moth",
+    "cute",
+    "creature",
+    "drawing",
+    "skyrim",
+    "black",
+    "knights",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "moon",
+    "child",
+    "olivia",
+    "rea",
+    "androgynous",
+    "haircut",
+    "character",
+    "inspiration",
+    "crow",
+    "witch",
+    "maksim",
+    "kuznetsov",
+    "mirkwood",
+    "explorer",
+    "kim",
+    "sokol",
+    "https://www.artstation.com/artwork/kpyq4"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -244,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -66,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -30,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

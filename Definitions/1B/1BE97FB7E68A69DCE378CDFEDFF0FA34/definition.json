@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/ab/b3/17/abb317addb94605b86030d138ac0e78c.jpg",
   "md5": "1BE97FB7E68A69DCE378CDFEDFF0FA34",
   "tags": [
-    ""
+    "",
+    "kingkiller",
+    "chronicle",
+    "kvothe",
+    "chronicles",
+    "fan",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "elven",
+    "firemage-arcane",
+    "gladiator",
+    "tcg",
+    "manthos",
+    "hellfire",
+    "caelestra",
+    "dylan",
+    "pierpont"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -195,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -112,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -4,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

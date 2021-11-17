@@ -2,25 +2,56 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/012/171/920/large/riikka-sofia-riekkinen-lady-of-the-forest-ii-netsize.jpg?1576800373",
   "md5": "1B7FDDB3F11EEF273AAA26E125BFD28F",
   "tags": [
-    ""
+    "",
+    "forest",
+    "elf",
+    "drawings",
+    "anime",
+    "male",
+    "girl",
+    "elves",
+    "female",
+    "pirate",
+    "paladin",
+    "night",
+    "pin",
+    "up",
+    "legend",
+    "cryptids",
+    "tatiana",
+    "kirgetova",
+    "elven",
+    "firemage-arcane",
+    "gladiator",
+    "tcg",
+    "manthos",
+    "greatshield",
+    "eolgria[evolves",
+    "shuichi",
+    "wada"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -217,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999947,
     "offset_x": -46,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -106,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

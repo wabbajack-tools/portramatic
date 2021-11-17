@@ -1,26 +1,39 @@
 {
-  "source": "https://sun9-8.userapi.com/impg/QEYSw8JYIv8c6e0-SahvQIUwVpEQKtfc1o5ktw/Njhgn5Sz_QQ.jpg?size=811x963&quality=96&sign=643286aa7a52f0a3c2bb9d887b41f273&type=album",
+  "source": "https://sun9-8.userapi.com/impg/QEYSw8JYIv8c6e0-SahvQIUwVpEQKtfc1o5ktw/Njhgn5Sz_QQ.jpg?size=811x963\u0026quality=96\u0026sign=643286aa7a52f0a3c2bb9d887b41f273\u0026type=album",
   "md5": "3305FFFEDCE82AFD5D80DEB2CD6B6AF2",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "characters",
+    "fairy",
+    "tail",
+    "guys",
+    "erza",
+    "scarlet"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -240,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -48,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -148,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

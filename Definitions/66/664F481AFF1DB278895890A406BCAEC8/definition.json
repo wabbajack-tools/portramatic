@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/564x/95/e6/2e/95e62eb3c8b7617aa07a702c8d83940a.jpg",
   "md5": "664F481AFF1DB278895890A406BCAEC8",
   "tags": [
-    ""
+    "",
+    "cullen",
+    "rutherford",
+    "fan",
+    "dragon",
+    "age",
+    "armor"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -63,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -7,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2499999999999976,
     "offset_x": -4,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/010/276/778/4k/bram-sels-wotc-hallar-the-firefletcher-bram-sels.jpg?1523551642",
   "md5": "DBB7868DDFEF3F1FEC08D1D263568DE7",
   "tags": [
-    ""
+    "",
+    "wolf",
+    "elf",
+    "ranger",
+    "female",
+    "moon",
+    "warrior",
+    "with",
+    "king",
+    "monsters",
+    "dungeons",
+    "dragons",
+    "north",
+    "aelwyn",
+    "alorr",
+    "wood",
+    "siegfried",
+    "jos\u00E9-patricio",
+    "aguirre",
+    "https://www.artstation.com/artwork/gjng0q"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -578.6666666666672,
     "offset_y": -112.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -258.66666666666697,
     "offset_y": -2.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -434.6666666666665,
     "offset_y": -34.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

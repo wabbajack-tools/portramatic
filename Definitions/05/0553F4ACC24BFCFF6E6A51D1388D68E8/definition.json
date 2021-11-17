@@ -6,25 +6,51 @@
     "human",
     "samurai",
     "costume",
-    "Bloodyknight"
+    "Bloodyknight",
+    "female",
+    "armor",
+    "concept",
+    "warrior",
+    "character",
+    "woman",
+    "lord",
+    "rings",
+    "pirates",
+    "caribbean",
+    "cultivation",
+    "qiwen",
+    "dong",
+    "for",
+    "honor",
+    "berzerker",
+    "fragment",
+    "ffxiv",
+    "chuby",
+    "mi",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -122.40000000000052,
     "offset_y": -41.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -67.19999999999992,
     "offset_y": -45.600000000000364,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -89.20000000000016,
     "offset_y": -14.400000000000176,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

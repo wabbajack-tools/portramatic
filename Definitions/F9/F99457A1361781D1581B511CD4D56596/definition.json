@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7b9ee76-7b3f-40a4-bc80-88f6f314ba7e/ddfgyfa-9a053f96-f3a0-4938-b09c-3be64a394b88.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3YjllZTc2LTdiM2YtNDBhNC1iYzgwLTg4ZjZmMzE0YmE3ZVwvZGRmZ3lmYS05YTA1M2Y5Ni1mM2EwLTQ5MzgtYjA5Yy0zYmU2NGEzOTRiODgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kJ8ZvmhBIgZCimt_bufn003jgSRz1bQaUx6VpvrDe2k",
   "md5": "F99457A1361781D1581B511CD4D56596",
   "tags": [
-    ""
+    "",
+    "monster",
+    "hunter",
+    "lagombi",
+    "shia",
+    "comics",
+    "humanoid",
+    "thicc",
+    "witch",
+    "jordi",
+    "navarrete",
+    "last",
+    "geoffrey",
+    "chan",
+    "https://www"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -297.99999999999847,
     "offset_y": -93.33333333333317,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -32.00000000000017,
     "offset_y": -14.666666666666742,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -6.66666666666697,
     "offset_y": -30.666666666666288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

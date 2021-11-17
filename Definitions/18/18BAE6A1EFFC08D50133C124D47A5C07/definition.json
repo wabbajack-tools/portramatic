@@ -2,27 +2,35 @@
   "source": "https://64.media.tumblr.com/59a28d129b1030521db6fd8afafc6e57/tumblr_mg1msvwizN1rgj6reo1_500.jpg",
   "md5": "18BAE6A1EFFC08D50133C124D47A5C07",
   "tags": [
-    ""
+    "",
+    "nene",
+    "thomas",
+    "puzzles",
+    "prints",
+    "figurines"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -130,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -106,
     "offset_y": -174,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": -12,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

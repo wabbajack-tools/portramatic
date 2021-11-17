@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/5e/7e/0c/5e7e0cb966ed799e5e580d6395a2ba0e.jpg",
   "md5": "6A6242F54D4C266F7A41EE7CC66346C2",
   "tags": [
-    ""
+    "",
+    "anime",
+    "men",
+    "with",
+    "beards",
+    "beautiful",
+    "digital",
+    "couples",
+    "aosora",
+    "sky",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "pillars",
+    "eternity",
+    "portraits",
+    "penett"
   ],
   "small": {
     "scale": 0.9199999999999984,
     "offset_x": -184,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -55,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.759999999999989,
     "offset_x": -44,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

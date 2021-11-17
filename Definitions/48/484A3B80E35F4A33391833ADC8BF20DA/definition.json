@@ -2,27 +2,59 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/010/599/311/large/kwon-young-jin-2.jpg?1526924042",
   "md5": "484A3B80E35F4A33391833ADC8BF20DA",
   "tags": [
-    ""
+    "",
+    "incubus",
+    "or",
+    "succubus",
+    "anime",
+    "oc",
+    "female",
+    "pirate",
+    "fire",
+    "emblem",
+    "path",
+    "radiance",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "\uD551\uD06C\uB9C8\uB140_\uC545\uB9C8\uB0A0\uAC1C",
+    "\uC545\uC138\uC0AC\uB9AC",
+    "\uC7AC\uBB38",
+    "\uC724",
+    "half",
+    "devil",
+    "\uC545",
+    "\uB140",
+    "goddess",
+    "ver.black",
+    "taekwon",
+    "kim",
+    "a-rang"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -437,
     "offset_y": -267,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -231,
     "offset_y": -167,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -84,
     "offset_y": -184,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,49 @@
   "md5": "43D3EFCC9C01B583072D53CBE6AD8A45",
   "tags": [
     "Dwarf",
-    "female"
+    "female",
+    "dwarf",
+    "armor",
+    "warrior",
+    "cleric",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "goblin",
+    "girl",
+    "concept",
+    "rigrena",
+    "\u2605",
+    "sanja",
+    "forest",
+    "keeper.",
+    "klaher",
+    "baklaher"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -112,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -62,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -24,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

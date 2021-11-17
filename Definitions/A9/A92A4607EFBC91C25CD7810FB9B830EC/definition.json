@@ -4,27 +4,59 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "sagittarius",
+    "warrior",
+    "black",
+    "archer",
+    "dawn",
+    "war",
+    "kratos",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "beastmen",
+    "warhammer",
+    "40k",
+    "raging",
+    "starfire",
+    "gun",
+    "gunawan",
+    "alba",
+    "armored",
+    "division",
+    "grafit",
+    "studio",
+    "work",
+    "dong",
+    "mao",
+    "with",
+    "dark",
+    "station"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -488.5,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -385.5,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.799999999999982,
     "offset_x": -877,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

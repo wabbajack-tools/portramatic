@@ -2,25 +2,47 @@
   "source": "https://avavatar.ru/images/full/41/FYjr5D9DU4RT2cdd.jpg",
   "md5": "51AF9D0F12548038BB8801379A19CD49",
   "tags": [
-    ""
+    "",
+    "legend",
+    "zelda",
+    "nissa",
+    "revane",
+    "_",
+    "tutu",
+    "sage",
+    "ancient",
+    "lore",
+    "slawomir",
+    "maniak",
+    "undead",
+    "with",
+    "skull",
+    "geun",
+    "jang",
+    "https://www.artstation.com/artwork/ygbwk"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -408,
     "offset_y": -273,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999965,
     "offset_x": -103,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -120,
     "offset_y": -146,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

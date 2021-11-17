@@ -2,25 +2,53 @@
   "source": "https://i.pinimg.com/originals/6d/73/e3/6d73e30c408c65cf844ceb3f4d42ae9f.jpg",
   "md5": "37E2C642D6F0314FE54BC7AA62BE98B6",
   "tags": [
-    ""
+    "",
+    "male",
+    "human",
+    "paladin",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "osman",
+    "empire",
+    "sunwoo",
+    "lee",
+    "ancient",
+    "armor",
+    "tarzan",
+    "fabio",
+    "paiva",
+    "sorin",
+    "markov",
+    "billy",
+    "christian",
+    "concept"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -331,
     "offset_y": -241,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -107,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -110,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

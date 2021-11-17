@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/6b/2b/1c/6b2b1c25304608893e4a8095f41344da.jpg",
   "md5": "8B34467625D0AD516A9CDBC57F2C5A1E",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "hair",
+    "white",
+    "man",
+    "with",
+    "long",
+    "blonde",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "top_wear",
+    "blouse",
+    "bottom_wear",
+    "pants"
   ],
   "small": {
     "scale": 0.9699999999999984,
     "offset_x": -125,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -79,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4899999999999887,
     "offset_x": -4,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

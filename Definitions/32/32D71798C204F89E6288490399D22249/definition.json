@@ -2,27 +2,43 @@
   "source": "https://i.imgur.com/r01cxwY.jpeg",
   "md5": "32D71798C204F89E6288490399D22249",
   "tags": [
-    ""
+    "",
+    "human",
+    "female",
+    "warrior",
+    "woman",
+    "with",
+    "sword",
+    "medieval",
+    "archer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -148,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -40,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

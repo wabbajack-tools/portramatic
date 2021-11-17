@@ -2,27 +2,50 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/042/258/892/large/-2.jpg?1634021126",
   "md5": "0EA3953697E2C64B72E1B9FA20BD2B78",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "hat",
+    "jewelry",
+    "necklace",
+    "seunghee",
+    "lee",
+    "concept",
+    "characters",
+    "female",
+    "elderwood",
+    "ahri",
+    "thao",
+    "anh",
+    "corinthian",
+    "inspired",
+    "helmet",
+    "etienne"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -332,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -143,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -4,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

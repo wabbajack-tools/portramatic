@@ -2,25 +2,48 @@
   "source": "https://i.pinimg.com/originals/10/80/f6/1080f68666d21d3af6f8ca7807dc5978.jpg",
   "md5": "6594AE817CFED0BC15B3C9E8BEE71949",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "characters",
+    "concept",
+    "gwent",
+    "dungeons",
+    "dragons",
+    "wicked",
+    "witch",
+    "g.i.joe",
+    "160",
+    "paul",
+    "shut",
+    "\u87D2",
+    "xue",
+    "cheng",
+    "clash",
+    "empires",
+    "house"
   ],
   "small": {
     "scale": 1.7700000000000007,
     "offset_x": -750,
     "offset_y": -389,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -399,
     "offset_y": -256,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -130,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

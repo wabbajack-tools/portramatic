@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/d6/6f/52/d66f52ec03692092e1ab05dd278b5b3f.jpg",
   "md5": "4890779D7523D6DD35CA2E51BF868E25",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "wizard",
+    "spells",
+    "sorcerer",
+    "dragon",
+    "magic",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -211,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -89,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -34,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

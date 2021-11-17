@@ -2,27 +2,56 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/473/287/large/nessi-white2.jpg?1474058118",
   "md5": "0EFFD3B9C5310C0F2389CD9EC89F084B",
   "tags": [
-    ""
+    "",
+    "elf",
+    "girl",
+    "concept",
+    "dark",
+    "female",
+    "archer",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "https://www.artstation.com/artwork/bdnr6",
+    "warrior",
+    "woman",
+    "casual",
+    "cotta",
+    "https://www.artstation",
+    "daegyo",
+    "wonjo",
+    "jung",
+    "hex",
+    "character"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -420,
     "offset_y": -241,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -182,
     "offset_y": -163,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -12,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

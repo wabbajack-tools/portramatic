@@ -24,27 +24,35 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "albedo",
+    "overlord",
+    "face",
+    "anime",
+    "lady"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -430,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -510,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -439,
     "offset_y": -101,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

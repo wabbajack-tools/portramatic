@@ -4,27 +4,37 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "face",
+    "painting",
+    "beautiful",
+    "digital",
+    "surreal",
+    "porcelain",
+    "dolls"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -140.5,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -122.5,
     "offset_y": -171,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4399999999999984,
     "offset_x": -131,
     "offset_y": -267,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/07/94/cd/0794cd7a43ad27ac802ccbcd1375d73b.jpg",
   "md5": "835D196D74B11D92A1678248574FBBBD",
   "tags": [
-    ""
+    "",
+    "bard",
+    "character",
+    "medieval",
+    "elf",
+    "orc",
+    "warrior",
+    "death",
+    "korps",
+    "krieg",
+    "warhammer",
+    "40k",
+    "hobbit",
+    "lord",
+    "rings",
+    "nissa",
+    "revane",
+    "_",
+    "tutu",
+    "nile",
+    "order",
+    "batu",
+    "ince",
+    "concept",
+    "world",
+    "illustration",
+    "drawings",
+    "artwork",
+    "tattoo"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -149,
     "offset_y": -128,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -54,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

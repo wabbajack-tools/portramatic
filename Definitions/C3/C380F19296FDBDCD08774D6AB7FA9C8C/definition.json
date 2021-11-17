@@ -3,27 +3,43 @@
   "md5": "C380F19296FDBDCD08774D6AB7FA9C8C",
   "tags": [
     "female",
-    "priest"
+    "priest",
+    "phoenix",
+    "priestess",
+    "tail",
+    "fire",
+    "fairy",
+    "drawings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -273,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -78,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -14,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

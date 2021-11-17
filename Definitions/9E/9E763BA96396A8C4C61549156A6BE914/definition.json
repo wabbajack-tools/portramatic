@@ -24,27 +24,53 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "fall",
+    "icarus",
+    "kda",
+    "lera",
+    "pi",
+    "fine",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "la",
+    "signora",
+    "genshin",
+    "impact",
+    "\u98DE",
+    "\u7FBD"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -218,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -127,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -69,
     "offset_y": -27,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

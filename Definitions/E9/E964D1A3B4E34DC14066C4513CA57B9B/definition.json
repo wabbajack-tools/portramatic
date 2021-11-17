@@ -2,27 +2,47 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/669/652/large/lera-pi-lerapi-commission-oc-aurelia1clothed-extra.jpg?1592220510",
   "md5": "E964D1A3B4E34DC14066C4513CA57B9B",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "night_lights",
+    "mary",
+    "savina",
+    "break",
+    "ice",
+    "natalie",
+    "bernard",
+    "k/da",
+    "pop/stars",
+    "yaroslava",
+    "vorobyova"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -781,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4800000000000004,
     "offset_x": -885,
     "offset_y": -169,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -648,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,39 @@
   "source": "https://i.pinimg.com/originals/ef/49/cc/ef49cc5667a359c90c0189eed734a1d3.jpg",
   "md5": "01C8A1DA20000B1C2D6C39CE3C067AE8",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "girl",
+    "drawings",
+    "beautiful",
+    "woman",
+    "female",
+    "warriors",
+    "with",
+    "swords"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -424,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999999,
     "offset_x": -156,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -88,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

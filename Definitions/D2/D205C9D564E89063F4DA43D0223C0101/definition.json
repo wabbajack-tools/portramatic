@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/5d/22/63/5d226382c493a8ede5c092f962396b80.jpg",
   "md5": "D205C9D564E89063F4DA43D0223C0101",
   "tags": [
-    ""
+    "",
+    "female",
+    "characters",
+    "with",
+    "blue",
+    "hair",
+    "purple",
+    "cartoon",
+    "character",
+    "anime",
+    "girl",
+    "name",
+    "dyes",
+    "color",
+    "marceline",
+    "x",
+    "pbg",
+    "tati",
+    "moons",
+    "male",
+    "woman",
+    "priest",
+    "basic_87",
+    "oh",
+    "ji",
+    "sung"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -71.19999999999999,
     "offset_y": -28.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -56,
     "offset_y": -18.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -78.49074074074088,
     "offset_y": -8.00925925925901,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

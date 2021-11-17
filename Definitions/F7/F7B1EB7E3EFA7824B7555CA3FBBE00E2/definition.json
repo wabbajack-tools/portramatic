@@ -4,27 +4,38 @@
   "tags": [
     "human",
     "male",
-    "rogue"
+    "rogue",
+    "elf",
+    "druid",
+    "female",
+    "wow",
+    "wood",
+    "siegfried",
+    "jos\u00E9-patricio",
+    "aguirre"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -374,
     "offset_y": -277,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -141,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -54,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7b9ee76-7b3f-40a4-bc80-88f6f314ba7e/dddx5xt-8b1a89e0-92d9-4665-8361-3ce1a0dd4187.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3YjllZTc2LTdiM2YtNDBhNC1iYzgwLTg4ZjZmMzE0YmE3ZVwvZGRkeDV4dC04YjFhODllMC05MmQ5LTQ2NjUtODM2MS0zY2UxYTBkZDQxODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T8bbV1xREI7aJTf18Ul7iwf2IcpuMdDIa6tIsX2T-rU",
   "md5": "77676169D9D61339D66204A4109D0F95",
   "tags": [
-    ""
+    "",
+    "fire",
+    "emblem",
+    "petra",
+    "hot",
+    "memes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -225.99999999999608,
     "offset_y": -134.6666666666667,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -120.6666666666668,
     "offset_y": -66.66666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -10.666666666667197,
     "offset_y": -67.99999999999926,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

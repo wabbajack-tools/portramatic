@@ -24,27 +24,45 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "female",
+    "assassin",
+    "green",
+    "arrow",
+    "\u695A\u7559\u9999",
+    "\u65B9\u601D\u660E",
+    "\u53C1\u4E54\u5C45",
+    "3qstudio",
+    "\u5251\u5BA2",
+    "yin",
+    "rongsheng",
+    "sci-fi",
+    "characters",
+    "hanna",
+    "nechytailo"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -283,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -93,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -71,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,52 @@
   "tags": [
     "dark",
     "male",
-    "wizard"
+    "wizard",
+    "battle",
+    "mage",
+    "armor",
+    "female",
+    "world",
+    "warcraft",
+    "rogue",
+    "skyrim",
+    "guardians",
+    "galaxy",
+    "queen",
+    "coast",
+    "alessandro",
+    "musumeci",
+    "legend",
+    "cryptids",
+    "boss",
+    "monster",
+    "dong",
+    "illidan",
+    "marina",
+    "maltseva"
   ],
   "small": {
     "scale": 0.7599999999999993,
     "offset_x": -126,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -17,
     "offset_y": -146,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -49,
     "offset_y": -185,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

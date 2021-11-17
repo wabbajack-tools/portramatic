@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/564x/d1/8f/2c/d18f2c990bc99204064ce07a7f551013.jpg",
   "md5": "759F7FDF865BF4A61198215E5095DE9A",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "men",
+    "cool",
+    "human"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -155,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -28,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3599999999999977,
     "offset_x": -24,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

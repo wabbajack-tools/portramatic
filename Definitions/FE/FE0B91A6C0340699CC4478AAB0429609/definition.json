@@ -7,7 +7,7 @@
     "elves",
     "elf",
     "dungeons",
-    "&",
+    "\u0026",
     "dragons",
     "wood",
     "demon",
@@ -31,27 +31,37 @@
     "mi",
     "liu",
     "xiao",
-    "character"
+    "character",
+    "warrior",
+    "female",
+    "drawings",
+    "warhammer",
+    "assassin",
+    "angel",
+    "spider-woman"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -353,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -108,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -98,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

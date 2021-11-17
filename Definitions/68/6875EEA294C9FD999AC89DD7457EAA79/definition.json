@@ -4,27 +4,35 @@
   "tags": [
     "anime",
     "angel",
-    "girl"
+    "girl",
+    "shingeki",
+    "no",
+    "kyojin/attack",
+    "titan",
+    "levi"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -138.39999999999964,
     "offset_y": -138.40000000000032,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -42.39999999999981,
     "offset_y": -42.40000000000032,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -20.82407407407527,
     "offset_y": -8.009259259259807,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/a0/db/6b/a0db6b84370a3abfcb2aedeb26bc6c5a.jpg",
   "md5": "654D91F2E725580405EF446CB259201A",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "orc",
+    "warrior",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "monkey",
+    "war",
+    "fenghua",
+    "zhong",
+    "artstation.",
+    "dwarf",
+    "daniel",
+    "zrom",
+    "https://www",
+    "blasphemous",
+    "fanart",
+    "vasco",
+    "mariano"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -127,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -53,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/3f/30/8b/3f308b31a0f8402c3f8b18dd1d32ea60.jpg",
   "md5": "DD296BC72008021FDA5D734CD73A88D6",
   "tags": [
-    ""
+    "",
+    "modern",
+    "rpg",
+    "character",
+    "cyberpunk",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "dual",
+    "sword",
+    "girl",
+    "gwang-beom",
+    "kho",
+    "2020",
+    "talia",
+    "\u0026",
+    "vylhana",
+    "rachel",
+    "denton",
+    "khaleesi",
+    "dragon",
+    "warrick",
+    "wong",
+    "cdnb.artstation"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -90,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -52,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -16,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

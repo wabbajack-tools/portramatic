@@ -2,27 +2,32 @@
   "source": "https://i.imgur.com/tKeQiIw.png",
   "md5": "C7AFE7712087475FBD55C9B37D9CA096",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -147.99999999999997,
     "offset_y": -78.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -69.59999999999997,
     "offset_y": -92.00000000000011,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

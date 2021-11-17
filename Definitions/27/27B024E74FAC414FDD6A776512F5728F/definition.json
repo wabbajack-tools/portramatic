@@ -11,25 +11,59 @@
     "manga",
     "comics",
     "book",
-    "female mage"
+    "female mage",
+    "medieval",
+    "female",
+    "outfits",
+    "vikings",
+    "characters",
+    "character",
+    "concept",
+    "pirate",
+    "samurai",
+    "armor",
+    "knights",
+    "knight",
+    "dynasty",
+    "warriors",
+    "night",
+    "elf",
+    "project",
+    "ebon",
+    "blade",
+    "zach",
+    "fischer",
+    "world",
+    "\u5973\u9A91\u58EB",
+    "\u7EC3\u4E60",
+    "jsyyy",
+    "2020",
+    "royal",
+    "guard",
+    "celder"
   ],
   "small": {
     "scale": 1,
     "offset_x": -876.8000000000014,
     "offset_y": -536.7999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -268.79999999999967,
     "offset_y": -207.99999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -65.6759259259236,
     "offset_y": -124.94444444444377,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

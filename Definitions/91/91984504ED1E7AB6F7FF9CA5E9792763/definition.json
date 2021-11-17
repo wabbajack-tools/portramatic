@@ -2,25 +2,35 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/755/841/small/servia-d-smoke-window-copys.jpg?1452259737",
   "md5": "91984504ED1E7AB6F7FF9CA5E9792763",
   "tags": [
-    "Moments of Reflection"
+    "Moments of Reflection",
+    "vernon",
+    "roche",
+    "chibi",
+    "witcher",
+    "roach"
   ],
   "small": {
     "scale": 1.7199999999999973,
     "offset_x": -430.66666666666663,
     "offset_y": -122.6666666666668,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -140.66666666666669,
     "offset_y": -63.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -218.66666666666674,
     "offset_y": -1.3333333333328596,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

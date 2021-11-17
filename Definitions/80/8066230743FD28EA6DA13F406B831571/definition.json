@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/20/e4/af/20e4af66e177531fceb5457971a1a1b3.jpg",
   "md5": "8066230743FD28EA6DA13F406B831571",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "knight",
+    "red",
+    "sun",
+    "death",
+    "black",
+    "armor",
+    "knights",
+    "fallen",
+    "paladin",
+    "lubomir",
+    "hij",
+    "https://www.artstation.com/artwork/bpbkd",
+    "concept",
+    "virus",
+    "john",
+    "taylor",
+    "blacksands",
+    "archetype",
+    "hugo",
+    "lam"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -254,
     "offset_y": -184,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -73,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": 0,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,39 @@
   "source": "https://mocah.org/thumbs/1200917-digital-art-artwork-portrait-display-video-games.jpg",
   "md5": "FC155DC8B5707D722B09FA455AEC9861",
   "tags": [
-    "Osprey I"
+    "Osprey I",
+    "witcher",
+    "cover",
+    "artwork",
+    "concept",
+    "cyberpunk",
+    "girl",
+    "alexander",
+    "kretov",
+    "2020"
   ],
   "small": {
     "scale": 3.929999999999961,
     "offset_x": -414.6666666666682,
     "offset_y": -75.33333333333329,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -26.666666666666686,
     "offset_y": -20.666666666666572,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3899999999999926,
     "offset_x": -6.6666666666667425,
     "offset_y": -1.3333333333328596,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

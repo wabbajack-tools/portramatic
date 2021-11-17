@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/1b/dc/3c/1bdc3c4e0d913f4ff5c21d8991f0b244.jpg",
   "md5": "FB74FDE8E359AC852FC0EA4699A6E3C3",
   "tags": [
-    ""
+    "",
+    "mirkwood",
+    "elf",
+    "lotr",
+    "oropher",
+    "hobbit",
+    "lord",
+    "rings",
+    "dark",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.9699999999999984,
     "offset_x": -129,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -38,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2399999999999884,
     "offset_x": 0,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/ca/ab/c5/caabc50f80a8f00b5b96c3f8e05f6648.jpg",
   "md5": "4D7D554D102E35039FA33F1CB97E4F67",
   "tags": [
-    ""
+    "",
+    "cassian",
+    "nesta",
+    "fan",
+    "court",
+    "thorns",
+    "roses",
+    "acotar",
+    "gold",
+    "feather",
+    "boissb",
+    "b.j",
+    "https://www",
+    "druid",
+    "monk",
+    "satyr",
+    "john",
+    "ric",
+    "deto-on"
   ],
   "small": {
     "scale": 0.7099999999999982,
     "offset_x": -99,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999997,
     "offset_x": -51,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4199999999999886,
     "offset_x": -42,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

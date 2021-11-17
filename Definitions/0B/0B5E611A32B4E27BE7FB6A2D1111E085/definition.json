@@ -3,27 +3,48 @@
   "md5": "0B5E611A32B4E27BE7FB6A2D1111E085",
   "tags": [
     "lich",
-    "queen"
+    "queen",
+    "dota",
+    "champions",
+    "players",
+    "download",
+    "tyrant\u0026kahonis",
+    "dragons",
+    "michele",
+    "marchionne",
+    "riven",
+    "lorne",
+    "lanning",
+    "yi",
+    "https://www",
+    "neoartcore",
+    "thongmai",
+    "creature",
+    "artwork",
+    "lion"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -499,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -285,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -463,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

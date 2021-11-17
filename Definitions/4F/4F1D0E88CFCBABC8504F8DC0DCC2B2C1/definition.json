@@ -2,25 +2,37 @@
   "source": "https://static.wikia.nocookie.net/witcher/images/d/da/Gwent_cardart_nilfgaard_jan_calveit.jpg/revision/latest?cb=20200209200332",
   "md5": "4F1D0E88CFCBABC8504F8DC0DCC2B2C1",
   "tags": [
-    "Toussaint Tomorrow"
+    "Toussaint Tomorrow",
+    "gwent",
+    "card",
+    "game",
+    "geralt",
+    "ciri",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 1.5099999999999971,
     "offset_x": -751.333333333333,
     "offset_y": -288.6666666666667,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -350.00000000000006,
     "offset_y": -169.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -22.666666666666742,
     "offset_y": -1.3333333333328596,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

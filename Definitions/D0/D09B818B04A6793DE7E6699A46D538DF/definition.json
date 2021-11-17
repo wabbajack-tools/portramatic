@@ -22,27 +22,65 @@
     "il",
     "kim",
     "https://www.artstation.com/artwork/yb3x8",
-    "concept"
+    "concept",
+    "god",
+    "woman",
+    "warrior",
+    "god\u0027s",
+    "princess",
+    "women",
+    "bible",
+    "dark",
+    "elf",
+    "rise",
+    "guardians",
+    "dragon",
+    "age",
+    "origins",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "editing",
+    "september",
+    "illustration",
+    "for",
+    "dragons\u0027s",
+    "5",
+    "works",
+    "that",
+    "which",
+    "sleeps",
+    "alexander",
+    "stand",
+    "my",
+    "ground",
+    "raven",
+    "morgoth"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -424,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -252,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -196,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

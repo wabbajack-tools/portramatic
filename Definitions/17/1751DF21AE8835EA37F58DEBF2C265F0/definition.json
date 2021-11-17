@@ -2,27 +2,37 @@
   "source": "https://i.imgur.com/AbB3qvj.png",
   "md5": "1751DF21AE8835EA37F58DEBF2C265F0",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones",
+    "darth",
+    "nihilus",
+    "m.",
+    "j.",
+    "solomon"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -39,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -19,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

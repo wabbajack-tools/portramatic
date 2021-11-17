@@ -2,27 +2,49 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/030/899/689/large/taekwon-kim-a-rang-versace7-11.jpg?1601996202",
   "md5": "1C5AF7A01EEB055CD7EFBC6D91ACF00C",
   "tags": [
-    "wallpaper"
+    "wallpaper",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "clothing",
+    "under_wear",
+    "bra",
+    "jeff",
+    "chen",
+    "bone",
+    "armor",
+    "monster",
+    "hunter",
+    "kui",
+    "bu",
+    "zombie",
+    "thor",
+    "jean",
+    "carlier"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -940.7999999999997,
     "offset_y": -696.0000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -238.39999999999992,
     "offset_y": -231.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -89.70370370370256,
     "offset_y": -83.29629629629642,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

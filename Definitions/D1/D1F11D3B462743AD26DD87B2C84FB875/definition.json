@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/bc/0e/1a/bc0e1a844edd8c4bb305e3566582f55a.jpg",
   "md5": "D1F11D3B462743AD26DD87B2C84FB875",
   "tags": [
-    ""
+    "",
+    "horror",
+    "game",
+    "concept",
+    "woods",
+    "ashen",
+    "gameplay",
+    "emperor",
+    "ji",
+    "zhang",
+    "https://www.artstation",
+    "\u65AF\u5766",
+    "\u674E",
+    "dsl",
+    "gangroad",
+    "hyunseung",
+    "kim",
+    "boobi"
   ],
   "small": {
     "scale": 1.1699999999999986,
     "offset_x": -209,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -112,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2799999999999885,
     "offset_x": -12,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

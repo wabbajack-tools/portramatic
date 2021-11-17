@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/6d/b8/ba/6db8ba2eaf16ae0d74b7667459b1b1a8.jpg",
   "md5": "BCF20B6D4FE35448DC4F53C5DA2DBA66",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "rpg",
+    "character",
+    "concept",
+    "pictures",
+    "jesus",
+    "rembrandt",
+    "last",
+    "mohicans",
+    "oil",
+    "paintings",
+    "mages",
+    "matej",
+    "budimir",
+    "wood",
+    "scifi"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -136,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -91,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -6,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

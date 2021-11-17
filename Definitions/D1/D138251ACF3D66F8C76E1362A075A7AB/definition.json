@@ -24,27 +24,44 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "overwatch",
+    "symetra",
+    "arnold",
+    "tsang",
+    "uchiha",
+    "madara",
+    "ally",
+    "loren",
+    "evelynn",
+    "adriana",
+    "jin",
+    "2021",
+    "lol",
+    "league"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -302,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -172,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -111,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

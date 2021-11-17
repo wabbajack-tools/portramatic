@@ -2,27 +2,54 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e7d6289-ff5e-443f-8f0c-c009f2a701da/d7zabfg-f31fc846-6e98-456b-add1-e5aa7e176f2b.jpg/v1/fill/w_1024,h_1763,q_75,strp/lucien_by_chibi_oneechan_d7zabfg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc2MyIsInBhdGgiOiJcL2ZcLzJlN2Q2Mjg5LWZmNWUtNDQzZi04ZjBjLWMwMDlmMmE3MDFkYVwvZDd6YWJmZy1mMzFmYzg0Ni02ZTk4LTQ1NmItYWRkMS1lNWFhN2UxNzZmMmIuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.BqbljA8hjTRV08_qLrbpW7GG9VuyZnK9DNInL4cxkP8",
   "md5": "675FE3400CC395E78C3C4D49455006B7",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "concept",
+    "character",
+    "sketch",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "snow",
+    "white",
+    "huntsman",
+    "clash",
+    "titans",
+    "chaos",
+    "warrior",
+    "summoning",
+    "joseph",
+    "c-knight",
+    "zizka",
+    "tomas",
+    "duchek",
+    "https://www"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -119,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -8,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -2,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -31,27 +31,41 @@
     "rpg",
     "character",
     "dungeons",
-    "dragons"
+    "dragons",
+    "warriors",
+    "legends",
+    "warrior",
+    "predator",
+    "https://www.artstation",
+    "nedaieru",
+    "who",
+    "leads",
+    "dead",
+    "ignacio",
+    "bazan"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -429,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -241,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -127,
     "offset_y": -107,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

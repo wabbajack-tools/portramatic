@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/0b/0d/8e/0b0d8e2e1e4452fe04bdcc0a77c8ba19.jpg",
   "md5": "B658B7D97ADFBB48B3A6C37343D928D2",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "armor",
+    "concept",
+    "medieval",
+    "knight",
+    "heavy",
+    "samurai",
+    "plate",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "dark",
+    "changhoon",
+    "lee",
+    "medrash",
+    "dragonborn",
+    "warlock",
+    "david",
+    "koo",
+    "d",
+    "prince",
+    "c",
+    "juk",
+    "choi",
+    "ji",
+    "wuk",
+    "https://www"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -81,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -27,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -42,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

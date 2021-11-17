@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/7c/e9/55/7ce955aee26bdd28788245c88a557651.jpg",
   "md5": "7AFBC009B8445EBE51D2B364B687F325",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "wizard",
+    "portraits",
+    "characters",
+    "elf",
+    "rogue",
+    "knight",
+    "armor",
+    "body",
+    "black",
+    "dragon",
+    "medieval",
+    "knights",
+    "tiefling",
+    "akim",
+    "kaliberda",
+    "warlock",
+    "concept",
+    "sergey",
+    "kondratovich",
+    "witness",
+    "valera",
+    "lutfullina"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -224,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -81,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

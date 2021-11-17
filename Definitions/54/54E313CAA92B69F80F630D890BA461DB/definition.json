@@ -31,27 +31,44 @@
     "aux",
     "corbeaux",
     "etienne",
-    "beschet"
+    "beschet",
+    "warlock",
+    "battle",
+    "gods",
+    "dungeons",
+    "dragons",
+    "advanced",
+    "an",
+    "avengers",
+    "daniele",
+    "daf",
+    "afferni",
+    "summoner",
+    "wolf",
+    "luke"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -338,
     "offset_y": -211,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -215,
     "offset_y": -168,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -232,
     "offset_y": -216,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

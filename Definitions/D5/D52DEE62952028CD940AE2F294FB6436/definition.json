@@ -11,25 +11,67 @@
     "armor",
     "overcoat",
     "coat",
-    ""
+    "",
+    "male",
+    "cartoon",
+    "characters",
+    "list",
+    "elf",
+    "character",
+    "concepts",
+    "actionfigures",
+    "suit",
+    "star",
+    "wars",
+    "toys",
+    "knight",
+    "medieval",
+    "knights",
+    "female",
+    "assassin",
+    "man",
+    "steel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "shoes",
+    "boots",
+    "gunner",
+    "songhee",
+    "g",
+    "design",
+    "concept",
+    "ahmed",
+    "akib",
+    "https://www",
+    "black",
+    "silver",
+    "gautier",
+    "foucart",
+    "2021"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -532,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -162,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -78,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

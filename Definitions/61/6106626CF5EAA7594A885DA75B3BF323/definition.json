@@ -19,27 +19,47 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "from",
+    "stay",
+    "night",
+    "figure",
+    "anime",
+    "girl",
+    "characters",
+    "vocaloid",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "smoke",
+    "agu",
+    "szwarc",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -176.00000000000188,
     "offset_y": -52.600000000001046,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -73.00000000000011,
     "offset_y": -75.80000000000013,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -78.40740740740989,
     "offset_y": -70.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -21,27 +21,38 @@
     "skull",
     "mask",
     "brenton",
-    "goodwin"
+    "goodwin",
+    "knight",
+    "assassin",
+    "les",
+    "chroniques",
+    "de",
+    "l\u0027ombre",
+    "s\u00E9l\u00E8nes",
+    "thomas"
   ],
   "small": {
     "scale": 1,
     "offset_x": -183.99999999999997,
     "offset_y": -21.999999999999943,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -140.66666666666663,
     "offset_y": -21.99999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2584166666666656,
     "offset_x": -37.33333333333326,
     "offset_y": -32.66666666666674,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

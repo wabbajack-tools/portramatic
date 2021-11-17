@@ -1,26 +1,44 @@
 {
-  "source": "https://external-preview.redd.it/sTg4ene_qXP4XHFOVdy0fkRay6r0XOLc2GKzy6KnY-0.jpg?width=640&crop=smart&auto=webp&s=ca45e43198234f9f1c8fd5eb0c6651bec302c677",
+  "source": "https://external-preview.redd.it/sTg4ene_qXP4XHFOVdy0fkRay6r0XOLc2GKzy6KnY-0.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=ca45e43198234f9f1c8fd5eb0c6651bec302c677",
   "md5": "7C227DDBAAD9ACD6BBE77459972735CE",
   "tags": [
-    ""
+    "",
+    "rescuers",
+    "down",
+    "under",
+    "pokemon",
+    "misdreavus",
+    "gijinka",
+    "ingrit",
+    "lima",
+    "camazotz",
+    "erikas",
+    "perl",
+    "character",
+    "illustration"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -59.19999999999999,
     "offset_y": -199.2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -71.19999999999999,
     "offset_y": -286.4000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -25.62962962962979,
     "offset_y": -100.91666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

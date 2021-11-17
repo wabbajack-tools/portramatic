@@ -4,27 +4,51 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "elven",
+    "prince",
+    "dark",
+    "elf",
+    "dragon",
+    "lord",
+    "rings",
+    "dragon\u0027s",
+    "gift",
+    "jeremy",
+    "chong",
+    "old",
+    "hag",
+    "raluca",
+    "iosifescu",
+    "https://www",
+    "alexia",
+    "ashford",
+    "dir",
+    "aru",
+    "arudo"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -146.5,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -45.5,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3599999999999983,
     "offset_x": -21,
     "offset_y": -93,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

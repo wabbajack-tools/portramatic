@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/57/16/27/5716270a74596062cafbe2a97ed44f0b.jpg",
   "md5": "2A6E41615468BF7B83F369314D6D7B85",
   "tags": [
-    ""
+    "",
+    "angel",
+    "steampunk",
+    "tiefling",
+    "drawings",
+    "dark",
+    "knight",
+    "game",
+    "thrones",
+    "king",
+    "kong",
+    "cthulhu",
+    "bill",
+    "balzer",
+    "https://www",
+    "fishman",
+    "alex",
+    "tuis"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -85,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -13,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -26,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

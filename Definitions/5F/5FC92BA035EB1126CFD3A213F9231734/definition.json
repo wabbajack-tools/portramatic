@@ -4,27 +4,43 @@
   "tags": [
     "westgate",
     "regent",
-    "mtg"
+    "mtg",
+    "black",
+    "cauldron",
+    "necromancer",
+    "mark",
+    "pancham",
+    "maverick",
+    "maxim",
+    "marenkov",
+    "vision",
+    "vs",
+    "thor",
+    "denni",
+    "andria"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -718,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -245,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -410,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

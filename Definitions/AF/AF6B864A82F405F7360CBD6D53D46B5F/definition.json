@@ -2,27 +2,34 @@
   "source": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/46/Uruha_Rushia_-_Full_Illustration_01.png/revision/latest/scale-to-width-down/554?cb=20191205141724",
   "md5": "AF6B864A82F405F7360CBD6D53D46B5F",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -140,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -108,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": 52,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

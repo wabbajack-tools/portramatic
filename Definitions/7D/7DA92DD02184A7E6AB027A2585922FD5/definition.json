@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/92/c3/fa/92c3fa10cb30a7a12cebf85ca9831811.jpg",
   "md5": "7DA92DD02184A7E6AB027A2585922FD5",
   "tags": [
-    ""
+    "",
+    "girl",
+    "with",
+    "red",
+    "hair",
+    "drawing",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -64,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -56,
     "offset_y": -18.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -89.70370370370347,
     "offset_y": -1.6018518518518476,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

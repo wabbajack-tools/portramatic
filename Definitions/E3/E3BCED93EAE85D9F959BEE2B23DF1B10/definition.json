@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/55/56/d7/5556d753d3719d61bb4c4ff766604a13.jpg",
   "md5": "E3BCED93EAE85D9F959BEE2B23DF1B10",
   "tags": [
-    ""
+    "",
+    "female",
+    "half",
+    "orc",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "male",
+    "dark",
+    "death",
+    "knight",
+    "night",
+    "dungeons",
+    "dragons",
+    "study",
+    "srasa",
+    "sketch",
+    "song",
+    "yueran",
+    "warrior",
+    "blightbark",
+    "paladin",
+    "alex",
+    "brock",
+    "arte"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -270,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -117,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -30,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

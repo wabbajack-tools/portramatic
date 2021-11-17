@@ -2,25 +2,41 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/033/480/029/large/muhammx-faiz-tiefling-magus.jpg?1609740473",
   "md5": "ECDD3B3AFD983D22483BF7B7D698F50A",
   "tags": [
-    ""
+    "",
+    "female",
+    "pirate",
+    "assassin",
+    "clerk",
+    "alexey",
+    "kruglov",
+    "https://www",
+    "sniper",
+    "alexander",
+    "kuronen",
+    "warrior"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -525,
     "offset_y": -150,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -136,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

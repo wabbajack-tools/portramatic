@@ -2,27 +2,36 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7b9ee76-7b3f-40a4-bc80-88f6f314ba7e/de2bi6k-56a2b26d-b0dd-4ee7-b2b7-c45bfc223a07.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3YjllZTc2LTdiM2YtNDBhNC1iYzgwLTg4ZjZmMzE0YmE3ZVwvZGUyYmk2ay01NmEyYjI2ZC1iMGRkLTRlZTctYjJiNy1jNDViZmMyMjNhMDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.g1eaS3Mpc3U41Ull1eDv7-MqDriKH1KI_2GzTQB_V1M",
   "md5": "784ED0CA9BAD775B6A118F29B2413692",
   "tags": [
-    ""
+    "",
+    "fire",
+    "emblem",
+    "series",
+    "dragon",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -485.3333333333319,
     "offset_y": -108.66666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -338.00000000000017,
     "offset_y": -102.00000000000014,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -108,
     "offset_y": -87.99999999999989,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

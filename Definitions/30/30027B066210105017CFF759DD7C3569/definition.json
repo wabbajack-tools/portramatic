@@ -2,27 +2,66 @@
   "source": "https://i.pinimg.com/564x/6a/7d/2c/6a7d2ca1190c3ccdc9887e5de773f48d.jpg",
   "md5": "30027B066210105017CFF759DD7C3569",
   "tags": [
-    ""
+    "",
+    "elena",
+    "throne",
+    "glass",
+    "books",
+    "yrene",
+    "scarlet",
+    "witch",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "gwent",
+    "cards",
+    "grafit",
+    "studio",
+    "undead",
+    "dr.",
+    "otto",
+    "octavius",
+    "ruslan",
+    "skifonich",
+    "sellsword",
+    "cher",
+    "see",
+    "goh",
+    "https://www"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -222,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -89,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0200000000000005,
     "offset_x": -110,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

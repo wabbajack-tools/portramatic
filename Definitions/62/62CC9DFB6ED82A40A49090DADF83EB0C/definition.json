@@ -20,25 +20,47 @@
     "apparel",
     "lingerie",
     "underwear",
-    ""
+    "",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "mayreel_3d",
+    "\u0432\u0430\u0445\u0442\u0430\u043D\u0433",
+    "\u0438\u043B\u044C\u044F\u0441\u043E\u0432",
+    "legend",
+    "cryptids",
+    "\uBBFC\uD638",
+    "\uC774",
+    "mu",
+    "h5",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "https://www"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -271.0000000000001,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -103,
     "offset_y": -36.333333333333485,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -22,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

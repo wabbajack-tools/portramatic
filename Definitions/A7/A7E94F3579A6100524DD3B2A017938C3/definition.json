@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/a7/67/e7/a767e769613904dcb3e5ecc74bfa4a02.jpg",
   "md5": "A7E94F3579A6100524DD3B2A017938C3",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "pyromancer",
+    "female",
+    "cosplay",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dr",
+    "jeckyl",
+    "\u0026",
+    "mr",
+    "hyde",
+    "braito"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -253,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -114,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4099999999999977,
     "offset_x": -52,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

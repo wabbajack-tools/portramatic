@@ -4,27 +4,54 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "hgjart",
+    "death",
+    "god",
+    "angel",
+    "digital",
+    "greek",
+    "gods",
+    "warrior",
+    "tattoos",
+    "\u300A\u5C71\u6D77\u7ECF\u300B\u51B0\u5937",
+    "zhao",
+    "huanhua",
+    "sci",
+    "fi",
+    "concept",
+    "nabries",
+    "putrid",
+    "headsman",
+    "sebastian",
+    "horoszko",
+    "mines",
+    "behemoth",
+    "stanislav",
+    "dikolenko"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -282.5,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -198.5,
     "offset_y": -179,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6799999999999986,
     "offset_x": -191,
     "offset_y": -243,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

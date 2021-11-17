@@ -19,27 +19,52 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "grand",
+    "order",
+    "characters",
+    "caster",
+    "stay",
+    "night",
+    "anime",
+    "guys",
+    "red",
+    "dragon",
+    "scorpion",
+    "queen",
+    "jy",
+    "choe",
+    "runic",
+    "todor",
+    "hristov",
+    "https://www",
+    "guard",
+    "excalibur",
+    "wei",
+    "chang"
   ],
   "small": {
     "scale": 0.7699999999999999,
     "offset_x": -245.00000000000188,
     "offset_y": -29.600000000001046,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999998,
     "offset_x": -69.00000000000011,
     "offset_y": -23.800000000000125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -52.40740740740989,
     "offset_y": -26.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

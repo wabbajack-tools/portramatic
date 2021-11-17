@@ -2,27 +2,54 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/348/634/large/ding-ga-min-1.jpg?1591278114",
   "md5": "DFE190CF48442FEB7A00F944404CE79C",
   "tags": [
-    ""
+    "",
+    "paloma",
+    "piquet",
+    "girls",
+    "bayonetta",
+    "vampire",
+    "masquerade",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "black",
+    "witch.",
+    "hyunwook",
+    "jeon",
+    "queen",
+    "ahmed",
+    "nasser",
+    "joan",
+    "arc",
+    "real",
+    "time",
+    "andrea",
+    "savchenko"
   ],
   "small": {
     "scale": 0.6699999999999995,
     "offset_x": -432,
     "offset_y": -132,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999994,
     "offset_x": -214,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -106,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -14,25 +14,34 @@
     "mountain",
     "nature",
     "outdoors",
-    ""
+    "",
+    "corrupted",
+    "ichisip",
+    "rr",
+    "character"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -637,
     "offset_y": -418,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -193,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -158,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/c7/ec/d2/c7ecd2ccd2201aa35517c813f8398718.jpg",
   "md5": "E5BBA1CF3EBD63081BBEB1B4A3FD3AB4",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "concept",
+    "character",
+    "sketch",
+    "lord",
+    "rings",
+    "clash",
+    "titans",
+    "skyrim",
+    "archer",
+    "artur",
+    "treffner",
+    "female",
+    "summoning",
+    "joseph",
+    "c-knight"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -103,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -74,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -14,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

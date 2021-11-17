@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/originals/9c/2c/35/9c2c35073ec5fb9d7c8bc54422a84006.jpg",
   "md5": "A9D7F4AC917AB166C0D01FAC46D4EF20",
   "tags": [
-    ""
+    "",
+    "dark",
+    "paladin",
+    "female",
+    "angel",
+    "warrior",
+    "concept",
+    "dragon",
+    "age",
+    "origins",
+    "lord",
+    "rings",
+    "demon",
+    "hunter",
+    "elf",
+    "dungeons",
+    "dragons",
+    "helion",
+    "sunveil",
+    "simon",
+    "dubuc",
+    "half",
+    "drow",
+    "historical",
+    "a",
+    "dragon\u2019s",
+    "guardian",
+    "tsutomu",
+    "kitazawa",
+    "digital",
+    "war",
+    "hero",
+    "ac",
+    "odyssey",
+    "fan",
+    "murat",
+    "g\u00FCl",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -393,
     "offset_y": -332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -152,
     "offset_y": -204,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -86,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

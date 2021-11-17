@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/c9/d2/86/c9d286924ddeb35dcd663da75454790c.jpg",
   "md5": "6E95B69B84B277078978760937F00763",
   "tags": [
-    ""
+    "",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "two",
+    "oh",
+    "one",
+    "seven",
+    "brian",
+    "wells",
+    "weapon",
+    "skeletor",
+    "redesign",
+    "miguel",
+    "a.",
+    "lopez",
+    "esta\u00F1ol",
+    "lao",
+    "tze",
+    "envak",
+    "enkaqti"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -219,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -71,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -14,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

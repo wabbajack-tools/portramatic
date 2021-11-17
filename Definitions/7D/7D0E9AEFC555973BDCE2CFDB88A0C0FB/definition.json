@@ -22,27 +22,53 @@
     "il",
     "kim",
     "https://www.artstation.com/artwork/yb3x8",
-    "concept"
+    "concept",
+    "blood",
+    "elf",
+    "drawing",
+    "pencil",
+    "drawings",
+    "elves",
+    "mythical",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "liang",
+    "xing",
+    "mercy",
+    "guys",
+    "alchemistress",
+    "kerem",
+    "beyit"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -70,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -85,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -72,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

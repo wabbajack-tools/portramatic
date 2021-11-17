@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/39/58/b9/3958b9a01d62acdad98a2958314c1e47.jpg",
   "md5": "09B5926B98655021D9D446F091F86025",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "\u674E\u540C\u5B66",
+    "yiihuu",
+    "workshop",
+    "artwork",
+    "2020",
+    "3d",
+    "character",
+    "lorna",
+    "private",
+    "elisa",
+    "serio"
   ],
   "small": {
     "scale": 2.0599999999999996,
     "offset_x": -472.0000000000008,
     "offset_y": -44.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -201.59999999999997,
     "offset_y": -29.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8500000000000008,
     "offset_x": -208.24074074073974,
     "offset_y": -8.009259259259352,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

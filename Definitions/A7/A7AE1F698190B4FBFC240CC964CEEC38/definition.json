@@ -16,27 +16,64 @@
     "bra",
     "wolf",
     "mohamed",
-    "saad"
+    "saad",
+    "dd",
+    "human",
+    "wizard",
+    "character",
+    "dwarf",
+    "elf",
+    "hansel",
+    "gretel",
+    "vampire",
+    "knight",
+    "manga",
+    "chaos",
+    "warrior",
+    "assassin",
+    "warriors",
+    "\u201C#digitalart",
+    "#art",
+    "#2dart",
+    "#2dartist",
+    "#artstation",
+    "#tumblr",
+    "#artstagram",
+    "skeletor",
+    "concept",
+    "illustration",
+    "george",
+    "evangelista",
+    "masters",
+    "universe",
+    "witcher\u00B4s",
+    "journal",
+    "cover",
+    "martina",
+    "fa\u010Dkov\u00E1"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -321,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -139,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -14,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

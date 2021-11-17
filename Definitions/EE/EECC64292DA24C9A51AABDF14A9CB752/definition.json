@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/29/00/26/290026a5b4472533a8bf0a818000a9bc.jpg",
   "md5": "EECC64292DA24C9A51AABDF14A9CB752",
   "tags": [
-    ""
+    "",
+    "sarah",
+    "j.",
+    "maas",
+    "fan",
+    "court",
+    "thorns",
+    "roses",
+    "rhysand",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.8699999999999983,
     "offset_x": -171,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999997,
     "offset_x": -95,
     "offset_y": -134,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2299999999999884,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

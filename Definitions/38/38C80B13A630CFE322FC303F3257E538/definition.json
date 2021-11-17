@@ -2,27 +2,47 @@
   "source": "https://i.imgur.com/Njz04kU.jpeg",
   "md5": "38C80B13A630CFE322FC303F3257E538",
   "tags": [
-    "Warrior Elf"
+    "Warrior Elf",
+    "female",
+    "fighter",
+    "character",
+    "drawing",
+    "paladin",
+    "greatsword",
+    "dark",
+    "elf",
+    "vampire",
+    "knight",
+    "manga",
+    "elves",
+    "night",
+    "vagrant",
+    "jihwan",
+    "ha",
+    "men"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -441,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -319,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -436,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

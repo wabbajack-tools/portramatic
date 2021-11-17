@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/cc/30/f1/cc30f148d9357f13c87c181c8f1ee3e2.jpg",
   "md5": "3DF952981D8D16E711689383C1DAB0DA",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "rahab",
+    "update",
+    "patrick",
+    "johnson",
+    "letho",
+    "from",
+    "witcher",
+    "ya\u011F\u0131z",
+    "kani",
+    "split",
+    "fan",
+    "made",
+    "poster",
+    "rafael",
+    "danesin"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -81,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -110,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4199999999999977,
     "offset_x": -36,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

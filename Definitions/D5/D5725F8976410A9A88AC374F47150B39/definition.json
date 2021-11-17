@@ -22,27 +22,34 @@
     "deathdragon",
     "anubis",
     "stu",
-    "harrington"
+    "harrington",
+    "sigmar",
+    "astri",
+    "lohne",
+    "https://www"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -796,
     "offset_y": -239,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -431,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -567,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

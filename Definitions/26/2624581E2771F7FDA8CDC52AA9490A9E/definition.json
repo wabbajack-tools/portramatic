@@ -11,25 +11,47 @@
     "sports",
     "painting",
     "art",
-    ""
+    "",
+    "tiefling",
+    "race",
+    "mtg",
+    "planeswalkers",
+    "dmytro",
+    "rudenko",
+    "artwork",
+    "pose",
+    "reference",
+    "photo",
+    "bow-girl",
+    "anna",
+    "lakisova",
+    "https://www",
+    "\u7EC3\u4E60",
+    "cheng",
+    "tian"
   ],
   "small": {
     "scale": 0.3948333333333327,
     "offset_x": -182.3999999999999,
     "offset_y": -46.40000000000015,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38008333333333266,
     "offset_x": -116.00000000000057,
     "offset_y": -32.800000000000296,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5950833333333336,
     "offset_x": -113.5999999999982,
     "offset_y": -44.79999999999956,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

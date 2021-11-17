@@ -4,27 +4,46 @@
   "tags": [
     "human",
     "male",
-    "rogue"
+    "rogue",
+    "black",
+    "woman",
+    "character",
+    "female",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "chinese",
+    "b",
+    "beask"
   ],
   "small": {
     "scale": 2.2999999999999967,
     "offset_x": -439,
     "offset_y": -232,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -119,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -50,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

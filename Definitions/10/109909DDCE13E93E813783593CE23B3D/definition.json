@@ -5,27 +5,52 @@
     "magic",
     "gathering",
     "planeswalker",
-    "artwork"
+    "artwork",
+    "blue",
+    "white",
+    "god",
+    "starcraft",
+    "brood",
+    "war",
+    "marvel",
+    "comics",
+    "dungeons",
+    "dragons",
+    "nile",
+    "order",
+    "batu",
+    "ince",
+    "concept",
+    "demon",
+    "king",
+    "mitch",
+    "fields",
+    "archer",
+    "ahmad",
+    "said"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -666,
     "offset_y": -296,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -179,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -68,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

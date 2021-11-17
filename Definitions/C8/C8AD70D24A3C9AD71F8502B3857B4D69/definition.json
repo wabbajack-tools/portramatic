@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/42/e6/66/42e666b22be87b23c5caf0bb81ffc724.jpg",
   "md5": "C8AD70D24A3C9AD71F8502B3857B4D69",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "character",
+    "rogue",
+    "female",
+    "pirate",
+    "lord",
+    "rings",
+    "pirates",
+    "caribbean",
+    "hobbit",
+    "dragon",
+    "age",
+    "origins",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "queen",
+    "usarnakurdu",
+    "tomasz",
+    "jedruszek",
+    "ufc/mma",
+    "kode",
+    "lgx",
+    "ufc",
+    "fighters",
+    "mma",
+    "dwarf",
+    "real-time",
+    "daniel",
+    "soloviov"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -288,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -37,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2899999999999976,
     "offset_x": -20,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

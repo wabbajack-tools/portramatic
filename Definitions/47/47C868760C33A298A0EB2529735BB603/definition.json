@@ -3,27 +3,60 @@
   "md5": "47C868760C33A298A0EB2529735BB603",
   "tags": [
     "fictional",
-    "character"
+    "character",
+    "tortle",
+    "druid",
+    "paladin",
+    "orc",
+    "warrior",
+    "suit",
+    "armor",
+    "knight",
+    "assassin",
+    "black",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "month",
+    "zhihui",
+    "su",
+    "concept",
+    "characters",
+    "near",
+    "future",
+    "soldier",
+    "ingvar",
+    "trusov",
+    "barbarian",
+    "people",
+    "strange"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -168,
     "offset_y": -49.60000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -75.99999999999996,
     "offset_y": -43.200000000000045,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -10.399999999999977,
     "offset_y": -19.199999999999903,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

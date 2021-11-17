@@ -2,27 +2,66 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/019/468/900/large/reliah-a-commission2.jpg?1563633785",
   "md5": "8CDEFCD5CCA748E487F5EC3882BD8096",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "character",
+    "portraits",
+    "dungeons",
+    "dragons",
+    "female",
+    "ranger",
+    "characters",
+    "assassin",
+    "dark",
+    "elf",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "goliath",
+    "barbarian",
+    "reliah",
+    "a.",
+    "f",
+    "pirate",
+    "pistols",
+    "treasure",
+    "chest",
+    "designs",
+    "batch",
+    "hector",
+    "moran",
+    "hec",
+    "works138",
+    "song",
+    "nan",
+    "li",
+    "https://www.artstation.com/artwork/e0x1kd"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -143,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -39,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -2,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -14,27 +14,43 @@
     "jacket",
     "accessories",
     "jewelry",
-    "bracelet"
+    "bracelet",
+    "male",
+    "elf",
+    "druid",
+    "half",
+    "beauty",
+    "beast",
+    "dark",
+    "things",
+    "camila",
+    "vielmond",
+    "aquaman",
+    "xu",
+    "wang"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -104.79999999999998,
     "offset_y": -34.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -54,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -32,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

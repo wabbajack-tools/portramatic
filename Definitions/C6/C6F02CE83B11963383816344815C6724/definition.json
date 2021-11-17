@@ -4,27 +4,49 @@
   "tags": [
     "female",
     "shaman",
-    "character"
+    "character",
+    "ideas",
+    "cartoon",
+    "girl",
+    "design",
+    "concept",
+    "anime",
+    "characters",
+    "assassin",
+    "archer",
+    "cheolseung",
+    "ok",
+    "2018",
+    "cowgirl",
+    "maggie",
+    "xie",
+    "ndoor",
+    "nam",
+    "hyeon",
+    "gwan"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -343,
     "offset_y": -196,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -195,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -116,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

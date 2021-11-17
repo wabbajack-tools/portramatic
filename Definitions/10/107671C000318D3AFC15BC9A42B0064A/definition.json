@@ -2,25 +2,42 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/016/802/568/large/panos-tzimas-artstation.jpg?1553535684",
   "md5": "107671C000318D3AFC15BC9A42B0064A",
   "tags": [
-    "Letho on the Loose"
+    "Letho on the Loose",
+    "perseus",
+    "medusa",
+    "xavier",
+    "zu\u00F1iga",
+    "slayer",
+    "goliath",
+    "jackson",
+    "tjota",
+    "redhead",
+    "warrior",
+    "pavel",
+    "kolomeyets"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -876.6666666666684,
     "offset_y": -115.33333333333323,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -226.66666666666663,
     "offset_y": -48.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -2.6666666666667425,
     "offset_y": -2.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

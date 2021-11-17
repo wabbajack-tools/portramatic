@@ -15,25 +15,50 @@
     "woman",
     "quake",
     "Duelist",
-    "rogue"
+    "rogue",
+    "character",
+    "assassin",
+    "male",
+    "g.i.joe",
+    "body",
+    "leather",
+    "hansel",
+    "gretel",
+    "orc",
+    "warrior",
+    "ting",
+    "xu",
+    "concept",
+    "dia",
+    "nak",
+    "characters",
+    "northerner",
+    "evgeny",
+    "zakharov",
+    "https://www"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -850.0000000000006,
     "offset_y": -78.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -666.0000000000003,
     "offset_y": -11.000000000000114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -81.99999999999989,
     "offset_y": -8.000000000000057,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

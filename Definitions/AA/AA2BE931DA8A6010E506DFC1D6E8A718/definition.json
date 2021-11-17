@@ -4,27 +4,50 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "hgjart",
+    "death",
+    "god",
+    "angel",
+    "digital",
+    "zombies",
+    "\u5F7C\u5CB8\u82B1",
+    "huang",
+    "guangjian",
+    "bounty",
+    "hunter",
+    "roman",
+    "kuzmin",
+    "igorevich",
+    "demon",
+    "runner",
+    "xavier",
+    "\u0022lozano\u0022",
+    "ribeiro",
+    "races"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -317.5,
     "offset_y": -182,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -249.5,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8799999999999988,
     "offset_x": -339,
     "offset_y": -165,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

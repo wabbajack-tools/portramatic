@@ -19,27 +19,42 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "oda",
+    "nobunaga",
+    "avenger",
+    "maou",
+    "fgo",
+    "wallpaper",
+    "yugio",
+    "ghost",
+    "groom",
+    "mordekaiser",
+    "christopher",
+    "vu"
   ],
   "small": {
     "scale": 0.3399999999999995,
     "offset_x": -227.00000000000188,
     "offset_y": -70.60000000000105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999947,
     "offset_x": -44.000000000000114,
     "offset_y": -10.800000000000125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -10.407407407409892,
     "offset_y": -70.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

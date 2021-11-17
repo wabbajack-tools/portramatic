@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/564x/be/5f/fd/be5ffd0f28e97b84142a33d666bab87e.jpg",
   "md5": "DE7B8AD8B8DBD7477382B6EA8352DBDF",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "character",
+    "faces",
+    "white",
+    "hair",
+    "vampires",
+    "study",
+    "bea",
+    "may",
+    "www.artstation.co",
+    "firez"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -120,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -25,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": 0,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

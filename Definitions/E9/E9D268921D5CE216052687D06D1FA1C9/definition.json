@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/f5/ae/ae/f5aeae4a4fc2e436c4cc77f937b9302c.jpg",
   "md5": "E9D268921D5CE216052687D06D1FA1C9",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "paladin",
+    "female",
+    "character",
+    "castlevania",
+    "lords",
+    "shadow",
+    "black",
+    "knight",
+    "chaos",
+    "warrior",
+    "orc",
+    "samurai",
+    "armor",
+    "dark",
+    "warhammer",
+    "40k",
+    "myev",
+    "gladiators",
+    "dragon",
+    "isle",
+    "manthos",
+    "tenkatoitsu",
+    "cronicle",
+    "el",
+    "jay",
+    "lee",
+    "bonecarver",
+    "www.redpencilart.com",
+    "red",
+    "pencil"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -180,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -306,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

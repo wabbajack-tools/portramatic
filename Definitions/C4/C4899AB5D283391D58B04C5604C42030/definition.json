@@ -24,27 +24,60 @@
     "watercolor",
     "gem",
     "roleplay",
-    "characters"
+    "characters",
+    "generator",
+    "dwarf",
+    "portraits",
+    "narnia",
+    "dark",
+    "world",
+    "elf",
+    "hobbit",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "rogue",
+    "robert",
+    "mallinson",
+    "viking",
+    "sea",
+    "wolf.",
+    "dedicated",
+    "to",
+    "my",
+    "friend",
+    "first",
+    "we",
+    "feast",
+    "emilis",
+    "emka"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -285.00000000000017,
     "offset_y": -80.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -55.000000000000114,
     "offset_y": -28.666666666666742,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -15.333333333333712,
     "offset_y": -2.6666666666664582,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

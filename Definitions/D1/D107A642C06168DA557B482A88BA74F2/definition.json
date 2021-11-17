@@ -7,25 +7,58 @@
     "finger",
     "painting",
     "art",
-    ""
+    "",
+    "legend",
+    "hero",
+    "king",
+    "marth",
+    "legendary",
+    "heroes",
+    "male",
+    "superheros",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "forging",
+    "stormbreaker",
+    "fredrich",
+    "custodio",
+    "survivor",
+    "natalie",
+    "lesiv",
+    "jedi",
+    "fallen",
+    "order",
+    "shipyard",
+    "riggers",
+    "jordan"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -621,
     "offset_y": -192,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -367,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -160,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/ea/b8/38/eab8385dbf90c4b80fdd5b7712eec66b.jpg",
   "md5": "186C736921EF0C148BEA52B75CA9668F",
   "tags": [
-    ""
+    "",
+    "black",
+    "inspiration",
+    "male",
+    "character",
+    "anime",
+    "adoration",
+    "shepherd\u0027s",
+    "apostle",
+    "paul",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "snake",
+    "charmer",
+    "sam",
+    "kemp",
+    "odds",
+    "randy",
+    "vargas",
+    "vargasni",
+    "https://www",
+    "steam",
+    "gunner",
+    "yu",
+    "cheng",
+    "hong"
   ],
   "small": {
     "scale": 0.8899999999999983,
     "offset_x": -84,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999996,
     "offset_x": -29,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2899999999999872,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/28/e3/28/28e32808ecbb2bda727467a3d362f70f.jpg",
   "md5": "6C71524E789C84D2D0C77257B3C1393B",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "rises",
+    "reaper",
+    "darth",
+    "scorn",
+    "nuxcia",
+    "apis",
+    "mecha",
+    "unit",
+    "sasha",
+    "krieger",
+    "ristic",
+    "with",
+    "venom",
+    "saifuddin",
+    "dayana"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -12,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -7,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2399999999999975,
     "offset_x": -6,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

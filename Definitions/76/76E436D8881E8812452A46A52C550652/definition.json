@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/originals/1b/c1/e6/1bc1e66514447f604cf946de9e78fd66.jpg",
   "md5": "76E436D8881E8812452A46A52C550652",
   "tags": [
-    ""
+    "",
+    "critical",
+    "role",
+    "campaign",
+    "fan",
+    "adult",
+    "vox",
+    "machina",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -202.39999999999984,
     "offset_y": -17.600000000000023,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -16.000000000000057,
     "offset_y": -33.60000000000008,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -72.08333333333326,
     "offset_y": -22.425925925925753,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

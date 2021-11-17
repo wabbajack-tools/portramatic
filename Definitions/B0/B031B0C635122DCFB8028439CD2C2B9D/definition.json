@@ -2,25 +2,45 @@
   "source": "https://cdn.donmai.us/sample/ed/0f/sample-ed0f074dfd17475f65d231acf4331f08.jpg",
   "md5": "B031B0C635122DCFB8028439CD2C2B9D",
   "tags": [
-    "School of the Viper"
+    "School of the Viper",
+    "marvel",
+    "comics",
+    "keeper",
+    "thorn",
+    "rita",
+    "fei",
+    "character",
+    "design",
+    "dungeons",
+    "dragons",
+    "characters",
+    "gunslinger",
+    "roman",
+    "mindek",
+    "https://www.artstation.com/artwork/gunslinger-8ff84d0c"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -350.00000000000205,
     "offset_y": -127.33333333333309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -152.66666666666657,
     "offset_y": -91.99999999999989,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -69.33333333333348,
     "offset_y": -7.999999999999773,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

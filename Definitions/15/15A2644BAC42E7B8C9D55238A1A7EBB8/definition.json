@@ -2,25 +2,52 @@
   "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
   "md5": "15A2644BAC42E7B8C9D55238A1A7EBB8",
   "tags": [
-    ""
+    "",
+    "darius",
+    "fan",
+    "build",
+    "garen",
+    "vs",
+    "chiron",
+    "smite",
+    "fanart",
+    "dhaniels",
+    "castillo",
+    "one-hit",
+    "wounder",
+    "oksana",
+    "kerro",
+    "https://www",
+    "red",
+    "tides_27",
+    "yang",
+    "qi917",
+    "artstation.",
+    "alien",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -569,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -505,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -582,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

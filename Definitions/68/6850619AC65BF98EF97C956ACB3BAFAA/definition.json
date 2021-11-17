@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/e4/80/0b/e4800b3b957992b85c1d663456d1b65a.jpg",
   "md5": "6850619AC65BF98EF97C956ACB3BAFAA",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "character",
+    "rogue",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "pirate",
+    "queen",
+    "usarnakurdu",
+    "tomasz",
+    "jedruszek",
+    "ufc/mma",
+    "kode",
+    "lgx",
+    "ufc",
+    "fighters",
+    "mma",
+    "will",
+    "i",
+    "survive...",
+    "pawel",
+    "g"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -282,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -51,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -42,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

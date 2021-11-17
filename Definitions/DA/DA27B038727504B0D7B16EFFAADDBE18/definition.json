@@ -25,27 +25,35 @@
     "jackie",
     "felix",
     "girl",
-    "fantastic"
+    "fantastic",
+    "ranger",
+    "bye-bye",
+    "moogle",
+    "billy",
+    "christian"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -239,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -137,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -10,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

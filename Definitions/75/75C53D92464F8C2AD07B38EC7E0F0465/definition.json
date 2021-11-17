@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/8f/40/7b/8f407b3be393a9aaceb6429b52915dab.jpg",
   "md5": "75C53D92464F8C2AD07B38EC7E0F0465",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "characters",
+    "drawing",
+    "sketch",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "knight",
+    "manga",
+    "dungeons",
+    "dragons",
+    "shadows",
+    "necromance",
+    "istvan",
+    "straban",
+    "warrior",
+    "sung_wha",
+    "jung",
+    "character",
+    "design.",
+    "atanu",
+    "ghosh"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -144,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -47,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -40,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,44 @@
   "source": "https://i.pinimg.com/564x/d3/27/55/d32755a9bea94f6e0a9bced397c971bc.jpg",
   "md5": "DB1412BB8F5B7CE3CDC39C66B2CCBCAF",
   "tags": [
-    ""
+    "",
+    "awesome",
+    "character",
+    "design",
+    "illustration",
+    "stylized",
+    "another",
+    "yana",
+    "vaseva",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -82,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -44,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -12,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

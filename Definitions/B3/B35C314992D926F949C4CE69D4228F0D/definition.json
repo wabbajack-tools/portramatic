@@ -2,27 +2,69 @@
   "source": "https://i.pinimg.com/564x/48/61/97/486197cdc2507c6d349987a4c732d053.jpg",
   "md5": "B35C314992D926F949C4CE69D4228F0D",
   "tags": [
-    ""
+    "",
+    "court",
+    "thorns",
+    "roses",
+    "fan",
+    "sarah",
+    "j.",
+    "maas",
+    "feyre",
+    "rhysand",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "nero",
+    "gen",
+    "collection",
+    "character",
+    "inspiration",
+    "witcher",
+    "ciri",
+    "rod",
+    "wong",
+    "casey",
+    "jones",
+    "takes",
+    "off",
+    "his",
+    "mask",
+    "ricardo",
+    "vultos",
+    "teenage",
+    "mutant",
+    "ninja"
   ],
   "small": {
     "scale": 0.8399999999999983,
     "offset_x": -143,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999998,
     "offset_x": -78,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4499999999999886,
     "offset_x": -42,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/9a/aa/21/9aaa21638d7fa41111f1cd7fb5b6c5bf.jpg",
   "md5": "E9C2548E88A6BDAB81582C560AA2008B",
   "tags": [
-    ""
+    "",
+    "character",
+    "creation",
+    "wizard",
+    "characters",
+    "rogue",
+    "mortal",
+    "kombat",
+    "knight",
+    "armor",
+    "four",
+    "horsemen",
+    "apocalypse",
+    "arc",
+    "noir",
+    "luck",
+    "shot",
+    "zhexin",
+    "wang",
+    "cyberpunk",
+    "neto-02",
+    "final",
+    "eric",
+    "kim",
+    "with"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -164,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -78,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": -52,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

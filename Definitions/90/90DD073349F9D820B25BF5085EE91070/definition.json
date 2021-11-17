@@ -28,27 +28,55 @@
     "souls",
     "girl",
     "sibyl",
-    "vane"
+    "vane",
+    "female",
+    "knight",
+    "warrior",
+    "armor",
+    "medieval",
+    "knights",
+    "assassin",
+    "evil",
+    "queen",
+    "hunter",
+    "yuri",
+    "choi",
+    "https://www.artstation.com/artwork/w2noed",
+    "hadern",
+    "deliverer",
+    "vitaly",
+    "bulgarov",
+    "characters",
+    "shadow",
+    "elder",
+    "witcher",
+    "nils",
+    "ruisch",
+    "character",
+    "concept"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -159,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -101,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -8,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

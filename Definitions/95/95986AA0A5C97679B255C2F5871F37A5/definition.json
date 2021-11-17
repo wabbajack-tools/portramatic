@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/6d/5f/20/6d5f20129f002ee2bcaa49624c762724.jpg",
   "md5": "95986AA0A5C97679B255C2F5871F37A5",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "character",
+    "concept",
+    "steampunk",
+    "male",
+    "staff",
+    "king",
+    "alaric",
+    "visigoths",
+    "joel",
+    "holtzman",
+    "visigoth",
+    "warrior",
+    "superman",
+    "returns",
+    "black",
+    "suit",
+    "gerard",
+    "kravchuk",
+    "marvel",
+    "statues",
+    "superhero"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -253,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -109,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -12,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

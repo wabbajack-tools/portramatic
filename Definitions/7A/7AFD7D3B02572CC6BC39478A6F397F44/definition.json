@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/98/6c/d5/986cd51e6e2b7369a5703fa6792d74eb.jpg",
   "md5": "7AFD7D3B02572CC6BC39478A6F397F44",
   "tags": [
-    ""
+    "",
+    "no",
+    "blood",
+    "bone",
+    "ash",
+    "from",
+    "fan",
+    "evil",
+    "dead",
+    "ydris",
+    "cecilia",
+    "pintado"
   ],
   "small": {
     "scale": 1.1199999999999986,
     "offset_x": -209,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999995,
     "offset_x": -29,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3999999999999873,
     "offset_x": -30,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

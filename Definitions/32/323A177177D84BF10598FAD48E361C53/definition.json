@@ -4,27 +4,38 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "dark",
+    "priest",
+    "evil",
+    "warrior",
+    "christmas",
+    "goblin",
+    "josu\u00E9",
+    "mac\u00EDas"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -344.5,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -249.5,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8799999999999988,
     "offset_x": -337,
     "offset_y": -67,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

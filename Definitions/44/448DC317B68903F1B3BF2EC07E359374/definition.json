@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/a5/bc/1d/a5bc1dc25be25a71d41f556641c6bdf8.jpg",
   "md5": "448DC317B68903F1B3BF2EC07E359374",
   "tags": [
-    "Warrior Elf"
+    "Warrior Elf",
+    "fate",
+    "grand",
+    "order",
+    "anime",
+    "scathach",
+    "rider",
+    "girl",
+    "characters",
+    "inuyasha",
+    "kagome"
   ],
   "small": {
     "scale": 1,
     "offset_x": -182,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -32,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -26,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

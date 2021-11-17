@@ -31,7 +31,10 @@
     "sf",
     "concept",
     "jeongseok",
-    "lee"
+    "lee",
+    "adult",
+    "sexual",
+    "naughty"
   ],
   "small": {
     "scale": 1.2800000000000002,
@@ -55,6 +58,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,27 +8,49 @@
     "pathfinder",
     "rpg",
     "nicholas",
-    "&quot;rookzer0&quot"
+    "\u0026quot;rookzer0\u0026quot",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "lord",
+    "rings",
+    "nurgle",
+    "champion",
+    "cesar",
+    "concept",
+    "xv",
+    "behnam",
+    "green",
+    "skaven",
+    "with",
+    "heavy",
+    "armor",
+    "tim",
+    "remin",
+    "warhammer"
   ],
   "small": {
     "scale": 1.8500000000000008,
     "offset_x": -477.4,
     "offset_y": -112.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -221.60000000000014,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -109.12037037037067,
     "offset_y": -44.898148148148266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

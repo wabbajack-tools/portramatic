@@ -14,27 +14,33 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "dwarves",
+    "dwarven",
+    "barbarian"
   ],
   "small": {
     "scale": 1,
     "offset_x": -158,
     "offset_y": -199,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.0083333333333333,
     "offset_x": -87,
     "offset_y": -175,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.466666666666665,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

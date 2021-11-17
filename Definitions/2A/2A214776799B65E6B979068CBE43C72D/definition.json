@@ -7,27 +7,47 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "walking",
+    "dead",
+    "862",
+    "arr",
+    "4",
+    "\u043C\u0443\u043B\u044C\u0442\u0444\u0438\u043B\u044C\u043C\u044B",
+    "\u0432\u0434\u043E\u0445\u043D\u043E\u0432\u0435\u043D\u0438\u0435",
+    "rose",
+    "dewitt",
+    "bukater",
+    "mandy",
+    "jurgens"
   ],
   "small": {
     "scale": 0.24999999999999933,
     "offset_x": -11,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -16,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -54,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

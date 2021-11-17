@@ -4,27 +4,60 @@
   "tags": [
     "human",
     "male",
-    "rogue"
+    "rogue",
+    "abyss",
+    "abby",
+    "demons",
+    "osrs",
+    "dark",
+    "elf",
+    "alien",
+    "warrior",
+    "knight",
+    "armor",
+    "chaos",
+    "orcs",
+    "death",
+    "dungeons",
+    "dragons",
+    "samurai",
+    "ciaran",
+    "demon",
+    "form",
+    "fred",
+    "rambaud",
+    "hellboy",
+    "2019",
+    "elves",
+    "grigor",
+    "georgiev",
+    "amantia",
+    "aleksey",
+    "iromonik",
+    "konyshev"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -406,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -119,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -8,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

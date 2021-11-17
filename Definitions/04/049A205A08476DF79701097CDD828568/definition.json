@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/7a/a2/95/7aa2953f75198f41d981947709d0778f.jpg",
   "md5": "049A205A08476DF79701097CDD828568",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -206,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -89,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -34,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

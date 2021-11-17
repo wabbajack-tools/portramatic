@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/6d/5d/62/6d5d62886c43846988fbf1800de86ec1.jpg",
   "md5": "8D44674DB1AC3DF5861A0C5136757F7C",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "sci-fi",
+    "concept",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 1.3199999999999987,
     "offset_x": -197,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -97,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.969999999999989,
     "offset_x": 0,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

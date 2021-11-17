@@ -2,27 +2,36 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/032/969/303/large/tea-me-img-20201123-212011-591.jpg?1608023616",
   "md5": "DC55B5623548B0D94BF1E6651D8D3AA1",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "reign",
+    "sean",
+    "\u0022raiko\u0022",
+    "tay"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -903,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -679,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -786,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

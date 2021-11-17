@@ -19,27 +19,32 @@
     "burns",
     "breechill",
     "gunship",
-    "revolution"
+    "revolution",
+    "red",
+    "demons"
   ],
   "small": {
     "scale": 1.4800000000000004,
     "offset_x": -555,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -228,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -57,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

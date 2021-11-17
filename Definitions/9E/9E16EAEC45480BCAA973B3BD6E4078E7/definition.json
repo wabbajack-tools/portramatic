@@ -2,27 +2,44 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/041/844/054/large/chocofing-r-a-210927-07-rr.jpg?1632852963",
   "md5": "9E16EAEC45480BCAA973B3BD6E4078E7",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "golden",
+    "warrior",
+    "shirogahara",
+    "sexy",
+    "ahri",
+    "bo",
+    "xun",
+    "lin",
+    "rias",
+    "gremory",
+    "elcias",
+    "neto"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -95,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -3,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -12,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

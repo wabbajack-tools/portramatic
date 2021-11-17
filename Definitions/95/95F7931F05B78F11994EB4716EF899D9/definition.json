@@ -23,25 +23,57 @@
     "symbol",
     "emblem",
     "woman",
-    ""
+    "",
+    "maidens",
+    "all",
+    "maiden",
+    "arcana",
+    "dota",
+    "fan",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "artio",
+    "arctic",
+    "seeker",
+    "devin",
+    "platts",
+    "wavespinner",
+    "andrew",
+    "mar",
+    "jace",
+    "beleren",
+    "nick",
+    "gaul",
+    "character",
+    "design",
+    "magic"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -198,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -30,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -43,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

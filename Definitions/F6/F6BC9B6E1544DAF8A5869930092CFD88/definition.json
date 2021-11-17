@@ -2,25 +2,32 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/029/425/913/large/anastasia-ivanova-68285d80-3e59-480c-82ca-a464dc54fa0b.jpg?1597506700",
   "md5": "F6BC9B6E1544DAF8A5869930092CFD88",
   "tags": [
-    "tiefling fire mage demon"
+    "tiefling fire mage demon",
+    "flames",
+    "demons"
   ],
   "small": {
     "scale": 0.16999999999999926,
     "offset_x": -78,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -102,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -100,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

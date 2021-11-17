@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/f1/3f/d2/f13fd2062b60f958662d0c42520ebcc0.jpg",
   "md5": "36B4FBE61AA21DF51A341411A070C343",
   "tags": [
-    ""
+    "",
+    "epic",
+    "warrior",
+    "anime",
+    "women",
+    "film",
+    "conan",
+    "barbarian",
+    "witcher",
+    "phantom",
+    "opera"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -99,
     "offset_y": -234,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -57,
     "offset_y": -210,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -20,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

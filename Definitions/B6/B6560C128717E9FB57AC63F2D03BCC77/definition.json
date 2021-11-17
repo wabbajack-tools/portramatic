@@ -2,27 +2,45 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/290/896/large/mam-ba-mamba-01.jpg?1591117518",
   "md5": "B6560C128717E9FB57AC63F2D03BCC77",
   "tags": [
-    ""
+    "",
+    "aloy",
+    "dan",
+    "calvert",
+    "horizon",
+    "zero",
+    "dawn",
+    "destiny",
+    "2-seaon",
+    "4-iron",
+    "banner",
+    "armor\uFF08hunter",
+    "undead",
+    "warlord",
+    "bruno",
+    "camara"
   ],
   "small": {
     "scale": 1.19,
     "offset_x": -1050,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999997,
     "offset_x": -645,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -664,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

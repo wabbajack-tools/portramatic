@@ -24,27 +24,56 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "league",
+    "legends",
+    "hot",
+    "characters",
+    "lol",
+    "female",
+    "champions",
+    "list",
+    "anime",
+    "girl",
+    "coven",
+    "morgana",
+    "citemer",
+    "liu",
+    "damacia",
+    "man",
+    "eater",
+    "ricardo",
+    "rivera",
+    "scathach",
+    "lancer",
+    "fate",
+    "grand",
+    "order",
+    "rachta",
+    "lin"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -150,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -125,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -21,
     "offset_y": -31,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,41 @@
   "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
   "md5": "8238BE7CE60B1C1EE167849057F5A58A",
   "tags": [
-    ""
+    "",
+    "league",
+    "fan",
+    "marquis",
+    "vladimir",
+    "splash",
+    "legends",
+    "mage",
+    "concept",
+    "jason",
+    "nguyen",
+    "https://www.artstation.com/artwork/mage-concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -842,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -685,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -500,
     "offset_y": 120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

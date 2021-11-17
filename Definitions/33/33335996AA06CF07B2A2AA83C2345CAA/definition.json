@@ -1,26 +1,38 @@
 {
-  "source": "https://pbs.twimg.com/media/EJWL1TpWwAYxaO6?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EJWL1TpWwAYxaO6?format=jpg\u0026name=large",
   "md5": "33335996AA06CF07B2A2AA83C2345CAA",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "race",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -434,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -162,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -42,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

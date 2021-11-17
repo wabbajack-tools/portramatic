@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/736x/b7/58/a0/b758a0fa3290611ba5576946feab6235.jpg",
   "md5": "E8DD3930C64294C0D9F7D2DE2B6965C9",
   "tags": [
-    "Doctor"
+    "Doctor",
+    "meditating",
+    "animals",
+    "men",
+    "nurse"
   ],
   "small": {
     "scale": 1,
     "offset_x": -214,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -131,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -16,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

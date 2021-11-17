@@ -4,27 +4,49 @@
   "tags": [
     "human",
     "male",
-    "rogue"
+    "rogue",
+    "female",
+    "elf",
+    "character",
+    "assassin",
+    "league",
+    "legends",
+    "death",
+    "knight",
+    "night",
+    "vampire",
+    "manga",
+    "dark",
+    "\u9F99\u523A\u5BA2",
+    "ingram",
+    "y",
+    "goddess",
+    "#2",
+    "ferdinando",
+    "adiletta"
   ],
   "small": {
     "scale": 1.579999999999999,
     "offset_x": -391,
     "offset_y": -291,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -167,
     "offset_y": -139,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

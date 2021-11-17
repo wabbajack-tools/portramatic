@@ -22,27 +22,44 @@
     "male",
     "mulan",
     "pan",
-    "yi"
+    "yi",
+    "lion",
+    "armor",
+    "animals",
+    "blue",
+    "fox",
+    "drawing",
+    "samurai",
+    "warriors",
+    "process_knight",
+    "sen",
+    "baek",
+    "warrior",
+    "woman",
+    "concept"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -412.33333333333326,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -150,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -136,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

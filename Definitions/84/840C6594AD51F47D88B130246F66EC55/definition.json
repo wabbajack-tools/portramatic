@@ -5,27 +5,52 @@
     "lich",
     "achlich",
     "necromancer",
-    "dark mage"
+    "dark mage",
+    "demon",
+    "dragon",
+    "dd",
+    "believe",
+    "emilis",
+    "emka",
+    "world",
+    "darkness",
+    "changeling",
+    "alpha",
+    "zhichao",
+    "cheng",
+    "feathers",
+    "en",
+    "fins",
+    "michelle",
+    "tolo",
+    "op",
+    "www.artstation.co",
+    "schilder",
+    "jeny",
+    "kunst"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -438.3999999999998,
     "offset_y": -117.60000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -340.80000000000007,
     "offset_y": -103.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -515.7962962962958,
     "offset_y": -115.33333333333348,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

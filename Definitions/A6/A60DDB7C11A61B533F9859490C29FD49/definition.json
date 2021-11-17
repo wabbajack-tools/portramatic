@@ -24,27 +24,47 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "anime",
+    "girl",
+    "bleach",
+    "accessories",
+    "glasses",
+    "\u0027ellera\u0027",
+    "character",
+    "sketch",
+    "ryan",
+    "alexander",
+    "lee",
+    "kachima",
+    "han",
+    "alita",
+    "battle",
+    "izhar",
+    "draws"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -571,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -278,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -247,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

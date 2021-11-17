@@ -24,27 +24,43 @@
     "watercolor",
     "gem",
     "roleplay",
-    "characters"
+    "characters",
+    "warrior",
+    "cats",
+    "fox",
+    "hex",
+    "root",
+    "wrangler",
+    "ursula",
+    "dorada",
+    "here",
+    "be",
+    "zandalor",
+    "jane",
+    "katsubo"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -345.00000000000017,
     "offset_y": -142.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -131.0000000000001,
     "offset_y": -111.66666666666674,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -89.33333333333371,
     "offset_y": -92.66666666666646,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

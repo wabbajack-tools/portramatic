@@ -4,27 +4,51 @@
   "tags": [
     "female",
     "shaman",
-    "character"
+    "character",
+    "women",
+    "male",
+    "concept",
+    "samurai",
+    "armor",
+    "elves",
+    "warriors",
+    "heavy",
+    "age",
+    "pantheons",
+    "huitzilopochtli",
+    "pantheon",
+    "sorceress",
+    "redesign",
+    "micha\u0142",
+    "sowa",
+    "salvarola",
+    "from",
+    "rift",
+    "herman",
+    "ng"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -310,
     "offset_y": -185,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -152,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -6,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

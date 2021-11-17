@@ -4,27 +4,54 @@
   "tags": [
     "male",
     "drow",
-    "tiefling"
+    "tiefling",
+    "wood",
+    "elf",
+    "armor",
+    "archer",
+    "concept",
+    "knight",
+    "alien",
+    "warrior",
+    "death",
+    "medieval",
+    "knights",
+    "dark",
+    "black",
+    "khajiit",
+    "executioner",
+    "mohammad",
+    "chowdhury",
+    "\u9648\u8302\u7F51\u7EDC\u73ED\u4F5C\u4E1A\u6548\u679C\u56FE",
+    "\u7FFC\u6B21\u65B9",
+    "cg",
+    "https://www.artstation",
+    "\u6768\u751F\u6797-ycf-student",
+    "showcase",
+    "www.ycfcg.com"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -414,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -265,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -22,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

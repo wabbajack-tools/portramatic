@@ -2,27 +2,60 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/021/836/998/large/z-w-gu-vvvf2a.jpg?1573128564",
   "md5": "8CCB5FF6E72F90697D3C1C2433F6794D",
   "tags": [
-    ""
+    "",
+    "witch",
+    "character",
+    "design",
+    "forest",
+    "anime",
+    "black",
+    "knight",
+    "dragon",
+    "armor",
+    "dark",
+    "souls",
+    "deathwing",
+    "blood",
+    "bog",
+    "todd",
+    "ulrich",
+    "2020",
+    "digital",
+    "inspiration",
+    "sorcerer",
+    "https://www.artstation.com/artwork/0xxz9e",
+    "concept",
+    "saint",
+    "xiv",
+    "brian",
+    "moncus",
+    "destiny",
+    "game",
+    "backgrounds",
+    "comic"
   ],
   "small": {
     "scale": 0.2199999999999993,
     "offset_x": -81,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -29,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -32,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

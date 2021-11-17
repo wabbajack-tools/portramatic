@@ -22,27 +22,40 @@
     "il",
     "kim",
     "https://www.artstation.com/artwork/yb3x8",
-    "concept"
+    "concept",
+    "medieval",
+    "knights",
+    "dark",
+    "timothy",
+    "kong",
+    "ji",
+    "ni",
+    "harvest",
+    "livia",
+    "prima"
   ],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -245,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -202,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -102,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/34/74/5a/34745acc0e614ddf6f9fbf9d5f13014e.jpg",
   "md5": "AF100C3288C007E96D1A8260F2B7FA3F",
   "tags": [
-    ""
+    "",
+    "assassin\u0027s",
+    "creed",
+    "series",
+    "artwork",
+    "syndicate",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "exhibition",
+    "christian",
+    "steve",
+    "scampini",
+    "fear",
+    "dark",
+    "https://tonysart.artstation.com/projects/ewyjp",
+    "wied\u017Amin",
+    "https://www.artstation.com/artwork/xvem3",
+    "witcher",
+    "game",
+    "triss",
+    "merigold"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -344.1999999999998,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -191.39999999999998,
     "offset_y": -138,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -2.8240740740739056,
     "offset_y": -112.42592592592587,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

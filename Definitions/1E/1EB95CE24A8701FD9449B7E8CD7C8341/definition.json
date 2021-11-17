@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/bLwmuw3mPRKC7Tqypt_DNDMCgYmH60rKDwcJpghTZp8.jpg?auto=webp&s=d838b31eabec2b9836e5b0f3d54ce07e87ecaeb3",
+  "source": "https://external-preview.redd.it/bLwmuw3mPRKC7Tqypt_DNDMCgYmH60rKDwcJpghTZp8.jpg?auto=webp\u0026s=d838b31eabec2b9836e5b0f3d54ce07e87ecaeb3",
   "md5": "1EB95CE24A8701FD9449B7E8CD7C8341",
   "tags": [
     "dark",
@@ -19,27 +19,41 @@
     "sarin",
     "s.",
     "https://www.artstation.com/artwork/xazxd",
-    "concept"
+    "concept",
+    "oda",
+    "nobunaga",
+    "anime",
+    "girl",
+    "grand",
+    "order",
+    "stay",
+    "yugio",
+    "red",
+    "blood",
+    "cells"
   ],
   "small": {
     "scale": 0.34999999999999953,
     "offset_x": -364.0000000000019,
     "offset_y": -20.600000000001046,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999954,
     "offset_x": -279.0000000000001,
     "offset_y": -32.800000000000125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -560.4074074074099,
     "offset_y": -12.1388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

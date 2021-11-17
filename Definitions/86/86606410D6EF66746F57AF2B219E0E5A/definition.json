@@ -4,27 +4,48 @@
   "tags": [
     "legend",
     "cryptids",
-    "magician"
+    "magician",
+    "psychic",
+    "pictures",
+    "drawings",
+    "hand",
+    "zodiac",
+    "fairies",
+    "warrior\u0027s",
+    "darkening",
+    "mansik",
+    "yang",
+    "king",
+    "ork",
+    "dimitar",
+    "ivanov",
+    "merry",
+    "maple",
+    "jo\u00E3o",
+    "bragato"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -333.5,
     "offset_y": -332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -246.5,
     "offset_y": -273,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7399999999999987,
     "offset_x": -239,
     "offset_y": -295,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

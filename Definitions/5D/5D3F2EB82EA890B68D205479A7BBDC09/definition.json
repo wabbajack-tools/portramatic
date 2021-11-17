@@ -5,27 +5,43 @@
     "lich",
     "undead",
     "necromancer",
-    "dark mage"
+    "dark mage",
+    "hugo",
+    "weaving",
+    "elrond",
+    "lord",
+    "if",
+    "rings",
+    "3d",
+    "printable",
+    "female",
+    "head",
+    "4",
+    "game",
+    "assets"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -217.60000000000016,
     "offset_y": -102.40000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -157.59999999999997,
     "offset_y": -5.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -310.7592592592598,
     "offset_y": -1.6018518518512792,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

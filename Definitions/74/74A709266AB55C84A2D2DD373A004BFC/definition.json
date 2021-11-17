@@ -24,27 +24,40 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -446,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -308,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -317,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

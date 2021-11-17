@@ -24,25 +24,50 @@
     "archangel",
     "doll",
     "toy",
-    ""
+    "",
+    "shinobi",
+    "warrior",
+    "drawings",
+    "reaper",
+    "souls",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "assassin",
+    "oleg",
+    "matsokin",
+    "https://www",
+    "sketch3",
+    "dan",
+    "cha",
+    "white",
+    "demon",
+    "davood",
+    "diba"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -1191.1999999999982,
     "offset_y": -97.40000000000038,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -446.00000000000017,
     "offset_y": -15.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -703.4999999999995,
     "offset_y": -12.055555555555543,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

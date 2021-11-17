@@ -1,28 +1,38 @@
 {
-  "source": "https://steamuserimages-a.akamaihd.net/ugc/1621848866704566315/5B286D25745176797069B8FA79B2ACF12F919CE3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "source": "https://steamuserimages-a.akamaihd.net/ugc/1621848866704566315/5B286D25745176797069B8FA79B2ACF12F919CE3/?imw=5000\u0026imh=5000\u0026ima=fit\u0026impolicy=Letterbox\u0026imcolor=%23000000\u0026letterbox=false",
   "md5": "22238304812A4DD4A7621E888D71BD34",
   "tags": [
-    ""
+    "",
+    "prince",
+    "egypt",
+    "custom",
+    "for",
+    "kingmaker",
+    "tunde",
+    "keszerice"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -333.60000000000036,
     "offset_y": -55.19999999999976,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -152.8,
     "offset_y": -32.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.27999999999999936,
     "offset_x": -3.2037037037039227,
-    "offset_y": 1.1368683772161603e-13,
-    "size": "full"
+    "offset_y": 1.1368683772161603E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

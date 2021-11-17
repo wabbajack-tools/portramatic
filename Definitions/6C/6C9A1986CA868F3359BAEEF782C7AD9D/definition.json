@@ -5,27 +5,42 @@
     "lich",
     "achlich",
     "necromancer",
-    "dark mage"
+    "dark mage",
+    "demon",
+    "dragon",
+    "dd",
+    "graveyard",
+    "guard",
+    "jens",
+    "fiedler",
+    "\u0444\u044D\u043D\u0442\u0435\u0437\u0438",
+    "lekso",
+    "tiger",
+    "rpg",
+    "norse"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -123.20000000000016,
     "offset_y": -20.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -44,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7700000000000007,
     "offset_x": -62.472222222222854,
     "offset_y": -38.44444444444389,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

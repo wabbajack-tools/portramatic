@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/4f/0c/3c/4f0c3c9f39b6be5716428ff23a25cc46.jpg",
   "md5": "AEB7A13F2FE94B74EF1BF940B7CEB4C7",
   "tags": [
-    ""
+    "",
+    "character",
+    "concept",
+    "sketches",
+    "female",
+    "sketch",
+    "drawing",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -129,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -16,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -20,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

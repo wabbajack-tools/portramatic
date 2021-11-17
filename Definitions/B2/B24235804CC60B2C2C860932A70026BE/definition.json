@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/38/6d/ff/386dff41d26e0728d1a8f39ab6293f94.jpg",
   "md5": "B24235804CC60B2C2C860932A70026BE",
   "tags": [
-    ""
+    "",
+    "gwent",
+    "card",
+    "game",
+    "locations",
+    "real",
+    "cards",
+    "wood",
+    "elf",
+    "witcher",
+    "league",
+    "legends",
+    "dawn",
+    "war",
+    "nile",
+    "order",
+    "batu",
+    "ince",
+    "concept",
+    "world",
+    "illustration"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -216,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -133,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3199999999999976,
     "offset_x": -36,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

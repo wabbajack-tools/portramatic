@@ -2,27 +2,38 @@
   "source": "https://64.media.tumblr.com/tumblr_lif1v8lTBn1qfoasdo1_400.png",
   "md5": "BA49FD7E7CA3CE8FF64514ABF115AE6C",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "arishok",
+    "characters",
+    "sten",
+    "female",
+    "head",
+    "yun"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -31,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -41,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0899999999999994,
     "offset_x": -66,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

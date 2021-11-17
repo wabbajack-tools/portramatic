@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/564x/9e/ca/fd/9ecafdbfb3da263bea3fafa2319e6512.jpg",
   "md5": "B8352425959D4977F6AAF93151CB1B83",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "mercenary",
+    "male",
+    "warrior",
+    "concept",
+    "female",
+    "ongoing",
+    "work",
+    "tae",
+    "chul",
+    "kang",
+    "https://www"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -120,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -17,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

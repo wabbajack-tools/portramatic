@@ -2,25 +2,57 @@
   "source": "https://i.imgur.com/8Z29sJm.jpeg",
   "md5": "F0C2893F50207F7C0748C33507F1D6A2",
   "tags": [
-    ""
+    "",
+    "military",
+    "wolf",
+    "furries",
+    "tribal",
+    "male",
+    "furry",
+    "black",
+    "fur",
+    "kratos",
+    "league",
+    "legends",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "predator",
+    "friday",
+    "13th",
+    "elf",
+    "ranger",
+    "kieran",
+    "yanner",
+    "elric",
+    "melnibone",
+    "alex",
+    "chen",
+    "character"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -87,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -105,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -170,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

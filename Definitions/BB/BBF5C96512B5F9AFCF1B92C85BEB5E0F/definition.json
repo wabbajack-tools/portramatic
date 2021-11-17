@@ -23,29 +23,32 @@
     "lili",
     "rochefort",
     "evandro",
-    "''van",
-    "mars''",
+    "\u0027\u0027van",
+    "mars\u0027\u0027",
     "menezes"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -204.6666666666666,
     "offset_y": -11.000000000000028,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -51.99999999999994,
     "offset_y": -1.9999999999999432,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -2.6666666666667425,
     "offset_y": -5.999999999999886,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

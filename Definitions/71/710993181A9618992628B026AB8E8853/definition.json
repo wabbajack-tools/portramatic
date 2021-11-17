@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/63/9a/0e/639a0e419fda8ee69093def41c8da6e8.jpg",
   "md5": "710993181A9618992628B026AB8E8853",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "armor",
+    "concept",
+    "character",
+    "design",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "insane",
+    "puck",
+    "adv",
+    "randy",
+    "vargas",
+    "vargasni",
+    "#selfie_orc",
+    "anylia",
+    "larmina",
+    "warcraft",
+    "steven",
+    "tobiasz"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -112,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -47,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -4,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

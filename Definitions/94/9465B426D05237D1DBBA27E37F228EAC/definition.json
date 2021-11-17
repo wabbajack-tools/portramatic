@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/originals/fc/cf/89/fccf892a1ec5ed097729e11ba8258b3e.jpg",
   "md5": "9465B426D05237D1DBBA27E37F228EAC",
   "tags": [
-    ""
+    "",
+    "elf",
+    "guy",
+    "male",
+    "character",
+    "knight",
+    "female",
+    "assassin",
+    "lord",
+    "rings",
+    "f",
+    "sorcerer",
+    "15th",
+    "lvl",
+    "robes",
+    "cloak",
+    "staff",
+    "dagger",
+    "underdark",
+    "tower",
+    "kim",
+    "jongeun",
+    "45",
+    "necromancer",
+    "maryna",
+    "shcherbakova",
+    "2020",
+    "sword",
+    "sorcery",
+    "rae",
+    "christina",
+    "wu",
+    "https://www.artstation.com/artwork/gj05ym",
+    "super",
+    "hero"
   ],
   "small": {
     "scale": 1,
     "offset_x": -395,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -317,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -144,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

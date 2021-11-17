@@ -31,27 +31,36 @@
     "matyukhin",
     "ft",
     "character",
-    "monster"
+    "monster",
+    "yugio",
+    "magis",
+    "sombra",
+    "blizzcon",
+    "eddy",
+    "shinjuku"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -365,
     "offset_y": -266,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -268,
     "offset_y": -200,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -5,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

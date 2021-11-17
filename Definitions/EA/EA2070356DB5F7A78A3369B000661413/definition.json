@@ -24,27 +24,51 @@
     "watercolor",
     "gem",
     "roleplay",
-    "characters"
+    "characters",
+    "female",
+    "fox",
+    "cute",
+    "ninja",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "aion_concept",
+    "_",
+    "sfersh",
+    "31/365",
+    "witch",
+    "lookout",
+    "gabriel",
+    "ramos",
+    "orcquest",
+    "enchanteur",
+    "daniel",
+    "zrom",
+    "card"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -243.00000000000017,
     "offset_y": -28.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -85.00000000000011,
     "offset_y": -21.666666666666742,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -27.333333333333712,
     "offset_y": -30.66666666666646,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

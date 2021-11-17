@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/3e/53/23/3e5323606e67316c9af266d9dfda0227.jpg",
   "md5": "BEB625F9F14621E647E01C916569A0E0",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "mage",
+    "female",
+    "half",
+    "orc",
+    "male",
+    "dungeons",
+    "dragons",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "orcs",
+    "zombie",
+    "hunter",
+    "lvl",
+    "filipe",
+    "pagliuso",
+    "kylin",
+    "li",
+    "\u6B63\u4E00",
+    "guo",
+    "feng",
+    "cute",
+    "monsters",
+    "day"
   ],
   "small": {
     "scale": 0.8399999999999983,
     "offset_x": -151,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -86,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5799999999999887,
     "offset_x": -56,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

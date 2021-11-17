@@ -2,25 +2,48 @@
   "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
   "md5": "F3E84510D6B1EDAEA6E562C59D1CCC69",
   "tags": [
-    ""
+    "",
+    "draven",
+    "fan",
+    "meme",
+    "anime",
+    "league",
+    "legends",
+    "yone",
+    "splash",
+    "esben",
+    "lash",
+    "rasmussen",
+    "lol",
+    "ootengu",
+    "ye",
+    "yuan",
+    "poseidon",
+    "milos",
+    "rocenovic"
   ],
   "small": {
     "scale": 1,
     "offset_x": -785,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -728,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -1044,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

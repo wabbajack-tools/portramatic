@@ -2,25 +2,41 @@
   "source": "https://static.zerochan.net/Letho.of.Gulet.full.2177594.jpg",
   "md5": "5EF9844B10E872E050A14A6D166DE821",
   "tags": [
-    "Letho Nobilified"
+    "Letho Nobilified",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "assassin\u0027s",
+    "creed",
+    "odyssey",
+    "kronos",
+    "armor"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -592.6666666666686,
     "offset_y": -43.99999999999986,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -82.66666666666657,
     "offset_y": -6.666666666666629,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -2.6666666666667425,
     "offset_y": -2.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

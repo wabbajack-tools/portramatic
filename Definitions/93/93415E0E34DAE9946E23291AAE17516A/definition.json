@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/df/06/78/df0678ecfcbb150a83921f77ee876a55.jpg",
   "md5": "93415E0E34DAE9946E23291AAE17516A",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "phantom",
+    "ghost",
+    "who",
+    "walks",
+    "gurjeet",
+    "singh",
+    "2020",
+    "comics",
+    "crimson",
+    "mist",
+    "ambush",
+    "warmics",
+    "mario",
+    "vazquez"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -213.60000000000088,
     "offset_y": -7.199999999999932,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -127.19999999999999,
     "offset_y": -11.199999999999989,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -124.94444444444343,
     "offset_y": -4.805555555555657,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

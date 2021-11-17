@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/f7/38/3b/f7383b2ad70d744e3369bfb0d1670031.jpg",
   "md5": "29A60FDB80B18A6367E37EAE0A5B6C34",
   "tags": [
-    ""
+    "",
+    "male",
+    "drow",
+    "bard",
+    "elf",
+    "dark",
+    "knight",
+    "eveline",
+    "anna",
+    "maystrenko",
+    "vortua",
+    "characters",
+    "comissions",
+    "yana",
+    "kot",
+    "process",
+    "grayscale",
+    "to",
+    "color",
+    "arogoth",
+    "tutorials"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -78,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -32,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

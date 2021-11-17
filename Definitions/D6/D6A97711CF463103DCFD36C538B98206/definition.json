@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/a6/53/81/a653814835bd33a897fde7cd0019c084.jpg",
   "md5": "D6A97711CF463103DCFD36C538B98206",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "dalish",
+    "armor",
+    "elves",
+    "camp",
+    "vampire",
+    "knight",
+    "manga",
+    "imperial",
+    "agent",
+    "thibault",
+    "girard",
+    "l\u00E9a",
+    "emilis",
+    "emka",
+    "https://www.artstation",
+    "emperor",
+    "skywalker",
+    "\u00E1lvaro",
+    "fern\u00E1ndez",
+    "gonz\u00E1lez"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -190,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -34,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/71/7e/fc/717efcfb95078ad397e6c9bcfb9657c3.jpg",
   "md5": "E5A11DD588C1C0C3BB7CAA86E45743A2",
   "tags": [
-    ""
+    "",
+    "male",
+    "character",
+    "human",
+    "female",
+    "rogue",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -220,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -163,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -12,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

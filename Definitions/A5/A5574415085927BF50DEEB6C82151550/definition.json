@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/02/08/30/020830d2af74faf3298f98e136558c40.jpg",
   "md5": "A5574415085927BF50DEEB6C82151550",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "mu",
+    "yanling",
+    "mowu",
+    "global",
+    "series",
+    "hobbit",
+    "wrong",
+    "neighborhood",
+    "bro",
+    "victor",
+    "sales",
+    "https://www.artstation.com/artwork/kvnv6",
+    "legend",
+    "5",
+    "rings",
+    "nasrul",
+    "hakim",
+    "healspell",
+    "lie",
+    "setiawan"
   ],
   "small": {
     "scale": 1.0499999999999985,
     "offset_x": -247,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -202,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4199999999999886,
     "offset_x": -44,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

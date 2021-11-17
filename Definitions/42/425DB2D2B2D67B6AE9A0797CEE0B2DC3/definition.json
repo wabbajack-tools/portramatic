@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/474x/40/19/fb/4019fb5adcfda93154c608495b9925da--fantasy-artwork-dark-knight.jpg",
   "md5": "425DB2D2B2D67B6AE9A0797CEE0B2DC3",
   "tags": [
-    ""
+    "",
+    "evil",
+    "knight",
+    "helmet",
+    "drawing",
+    "anime",
+    "skull",
+    "lord",
+    "rings",
+    "dark",
+    "messiah",
+    "might",
+    "magic",
+    "demon",
+    "hunter",
+    "thomas",
+    "shirley",
+    "thor",
+    "ragnarok",
+    "surtur",
+    "wounded",
+    "aleksi",
+    "diablo",
+    "prime",
+    "fan",
+    "velimir",
+    "kondic"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -217,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -78,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

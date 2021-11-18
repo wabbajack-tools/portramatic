@@ -1,0 +1,28 @@
+{
+  "source": "https://i.redd.it/aos53jp1e7e21.jpg",
+  "md5": "2CD3A095EE90DD9D8D63984D9D514278",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -1,
+    "offset_y": 1,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -4,
+    "offset_y": 0,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -12,
+    "offset_y": 8,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

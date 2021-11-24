@@ -1,0 +1,28 @@
+{
+  "source": "https://i.redd.it/lz917op3zfo21.jpg",
+  "md5": "AEB088D26EE220522010002836147792",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -275,
+    "offset_y": -90,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -203,
+    "offset_y": -72,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -26,
+    "offset_y": -10,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

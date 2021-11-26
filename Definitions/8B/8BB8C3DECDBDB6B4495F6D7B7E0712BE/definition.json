@@ -1,0 +1,29 @@
+{
+  "source": "https://i.pinimg.com/474x/93/16/ff/9316ff9c4e14088701c310dc3beee6e0.jpg",
+  "md5": "8BB8C3DECDBDB6B4495F6D7B7E0712BE",
+  "tags": [
+    "human",
+    "adventurer"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": -72.00000000000006,
+    "offset_y": -31.66666666666663,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7499999999999998,
+    "offset_x": -8.666666666666629,
+    "offset_y": 0.3333333333334565,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.3500000000000003,
+    "offset_x": 3.3333333333337123,
+    "offset_y": 3.0000000000002274,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

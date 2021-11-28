@@ -1,0 +1,30 @@
+{
+  "source": "https://i.imgur.com/GYD9RWO.jpeg",
+  "md5": "0689A7598FD9ED8CA82C456FED870D54",
+  "tags": [
+    "Archer",
+    "Female",
+    "Masked"
+  ],
+  "small": {
+    "scale": 0.30999999999999783,
+    "offset_x": -115.99999999999994,
+    "offset_y": -14.333333333333286,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.28999999999999937,
+    "offset_x": -18.666666666666686,
+    "offset_y": -11.00000000000017,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.5000000000000009,
+    "offset_x": -4.666666666667197,
+    "offset_y": -18.666666666667084,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

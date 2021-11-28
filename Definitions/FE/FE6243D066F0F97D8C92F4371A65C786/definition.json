@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/4f/6a/25/4f6a25f11dc418dd01d1746fdf41678e.jpg",
+  "md5": "FE6243D066F0F97D8C92F4371A65C786",
+  "tags": [
+    "paladin",
+    "erastil",
+    "knight",
+    "fighter",
+    "barbarian",
+    "viking"
+  ],
+  "small": {
+    "scale": 1.6400000000000006,
+    "offset_x": -361,
+    "offset_y": -63,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -181,
+    "offset_y": -30,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -6,
+    "offset_y": -28,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

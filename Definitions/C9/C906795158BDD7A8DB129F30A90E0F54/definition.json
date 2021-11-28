@@ -1,0 +1,29 @@
+{
+  "source": "https://www.giantbomb.com/a/uploads/scale_small/0/1366/1775330-shepard.jpg",
+  "md5": "C906795158BDD7A8DB129F30A90E0F54",
+  "tags": [
+    "shepard",
+    "mass effect"
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -166.22222222222229,
+    "offset_y": -8.333333333333428,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -66.66666666666652,
+    "offset_y": -9.222222222222229,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.6100000000000005,
+    "offset_x": -70,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

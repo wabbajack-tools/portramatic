@@ -1,0 +1,36 @@
+{
+  "source": "https://pbs.twimg.com/media/FFkER0wUYAAeMzX?format=jpg&name=medium",
+  "md5": "1278F65097DC2CDCED50C6642E49406F",
+  "tags": [
+    "Sword",
+    "Elf",
+    "Magic",
+    "Holy",
+    "Paladin",
+    "Blond",
+    "Male",
+    "Boy",
+    "Plate"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": 26,
+    "offset_y": -47,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

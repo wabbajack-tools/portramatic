@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/564x/32/db/b0/32dbb019aeed14a205c7cfddc5c42f68.jpg",
+  "md5": "7A5E25FDC5F338506F70C4EE80D68234",
+  "tags": [
+    "female",
+    "tiefling",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.7600000000000007,
+    "offset_x": -509,
+    "offset_y": -229,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.11,
+    "offset_x": -202,
+    "offset_y": -57,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -36,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

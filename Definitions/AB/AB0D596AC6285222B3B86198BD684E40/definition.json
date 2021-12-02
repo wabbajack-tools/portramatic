@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/64/10/7d/64107da59964614ca74011e910d8e4f1.jpg",
+  "md5": "AB0D596AC6285222B3B86198BD684E40",
+  "tags": [
+    "Barbarian",
+    "Battlerager",
+    "Half-Orc",
+    "Orc",
+    "Shaman",
+    "Skald"
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -268,
+    "offset_y": -89,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -129,
+    "offset_y": -69,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -84,
+    "offset_y": -90,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

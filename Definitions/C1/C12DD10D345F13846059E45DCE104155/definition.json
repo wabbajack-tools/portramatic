@@ -1,0 +1,33 @@
+{
+  "source": "https://sv.bagoum.com/getRawImage/0/0/111731010",
+  "md5": "C12DD10D345F13846059E45DCE104155",
+  "tags": [
+    "sorcerer",
+    "cleric",
+    "angel",
+    "divine",
+    "mage",
+    "wizard"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -324.79999999999995,
+    "offset_y": -137.59999999999997,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -264.8,
+    "offset_y": -103.19999999999999,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -54.46296296296305,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

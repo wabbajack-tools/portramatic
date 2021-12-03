@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/f0/fe/21/f0fe2182452c7ecc8d891313f5a23606.jpg",
+  "md5": "7221D238714DB660999C4FBCD8794F5B",
+  "tags": [
+    "bard",
+    "human",
+    "undead",
+    "necromancer"
+  ],
+  "small": {
+    "scale": 1.09,
+    "offset_x": -202,
+    "offset_y": -28,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -65,
+    "offset_y": -20,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.4200000000000004,
+    "offset_x": -62,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

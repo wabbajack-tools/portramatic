@@ -1,0 +1,30 @@
+{
+  "source": "https://www.jessesdnd.com/sites/default/files/human_e7.jpg",
+  "md5": "D8E41191C662307D71904C4041F4A3DA",
+  "tags": [
+    "female",
+    "tiefling",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.3200000000000003,
+    "offset_x": -282,
+    "offset_y": -50,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -124,
+    "offset_y": -63,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.3500000000000003,
+    "offset_x": -10,
+    "offset_y": -38,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

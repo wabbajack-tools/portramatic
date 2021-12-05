@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.aws-k8s.generated.photos/ai-generated-photos/upscaler-uploads/94/ab47d83c-982a-4612-a950-a2c8cc486058.jpg",
+  "md5": "CD58B07A3D37642CC5AAF5FB5F97324A",
+  "tags": [
+    "Elf",
+    "Assassin",
+    "Rogue",
+    "Magus"
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -398,
+    "offset_y": -234,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.36999999999999944,
+    "offset_x": -148,
+    "offset_y": -146,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.35999999999999943,
+    "offset_x": -48,
+    "offset_y": -38,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

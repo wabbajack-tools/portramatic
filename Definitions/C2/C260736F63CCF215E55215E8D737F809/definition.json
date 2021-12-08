@@ -1,0 +1,30 @@
+{
+  "source": "https://pbs.twimg.com/media/D2aSUSlWoAYhqy5?format=jpg&name=medium",
+  "md5": "C260736F63CCF215E55215E8D737F809",
+  "tags": [
+    "warlock",
+    "scythe",
+    "orc"
+  ],
+  "small": {
+    "scale": 1.06,
+    "offset_x": -297,
+    "offset_y": -309,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -134,
+    "offset_y": -181,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.02,
+    "offset_x": -90,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

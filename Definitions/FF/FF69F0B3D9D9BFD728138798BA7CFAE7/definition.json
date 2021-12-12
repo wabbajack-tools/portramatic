@@ -1,0 +1,30 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+  "md5": "FF69F0B3D9D9BFD728138798BA7CFAE7",
+  "tags": [
+    "jinx",
+    "league",
+    "legends"
+  ],
+  "small": {
+    "scale": 0.98,
+    "offset_x": -663.0000000000001,
+    "offset_y": -50.00000000000006,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.7299999999999998,
+    "offset_x": -485.66666666666623,
+    "offset_y": -5.666666666666686,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.4400000000000004,
+    "offset_x": -842,
+    "offset_y": -3.3333333333333712,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

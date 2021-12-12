@@ -1,0 +1,28 @@
+{
+  "source": "http://mms2.baidu.com/it/u=1338415195,2045972400&fm=253&app=138&f=JPG&fmt=auto&q=75?w=424&h=604",
+  "md5": "1F17BB8D74EFA3A8E22670DA1E1FE241",
+  "tags": [
+    "guanyu"
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -182,
+    "offset_y": -17,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -55,
+    "offset_y": -10,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.7000000000000006,
+    "offset_x": -12,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

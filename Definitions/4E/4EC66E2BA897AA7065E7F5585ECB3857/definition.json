@@ -1,0 +1,30 @@
+{
+  "source": "https://i.imgur.com/n9PFLlB.jpeg",
+  "md5": "4EC66E2BA897AA7065E7F5585ECB3857",
+  "tags": [
+    "Barbarian",
+    "Human",
+    "Male"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -303,
+    "offset_y": -187,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -223,
+    "offset_y": -80,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -36,
+    "offset_y": -12,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,28 @@
+{
+  "source": "https://i.imgur.com/dDU6Fvt.jpeg",
+  "md5": "0E484D4029018058F2A598799F1DA74C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -250,
+    "offset_y": -144,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -179,
+    "offset_y": -77,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -122,
+    "offset_y": -68,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

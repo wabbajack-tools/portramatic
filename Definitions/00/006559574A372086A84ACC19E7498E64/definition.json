@@ -1,0 +1,28 @@
+{
+  "source": "https://i.imgur.com/AKKMIW5.jpeg",
+  "md5": "006559574A372086A84ACC19E7498E64",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.9500000000000008,
+    "offset_x": -406,
+    "offset_y": -336,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.2600000000000002,
+    "offset_x": -180,
+    "offset_y": -135,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.6200000000000006,
+    "offset_x": -64,
+    "offset_y": -40,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

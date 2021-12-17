@@ -1,0 +1,30 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/644266106994819103/921344504441733170/vecchio_mago_chierico.png",
+  "md5": "9136E675AD36D4F850C758C3193E60BF",
+  "tags": [
+    "druid",
+    "mage",
+    "cleric"
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -342.5,
+    "offset_y": -70,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -167.5,
+    "offset_y": -44,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -5,
+    "offset_y": -7,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

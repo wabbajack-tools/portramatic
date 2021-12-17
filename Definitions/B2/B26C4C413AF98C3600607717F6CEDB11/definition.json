@@ -1,0 +1,30 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/644266106994819103/921343265620504586/guerriera_nordica_corazzata.jpg",
+  "md5": "B26C4C413AF98C3600607717F6CEDB11",
+  "tags": [
+    "female",
+    "barbarian",
+    "warrior"
+  ],
+  "small": {
+    "scale": 0.7999999999999996,
+    "offset_x": -344,
+    "offset_y": -69,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.49999999999999956,
+    "offset_x": -119,
+    "offset_y": -27,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.7499999999999998,
+    "offset_x": -74,
+    "offset_y": -30,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

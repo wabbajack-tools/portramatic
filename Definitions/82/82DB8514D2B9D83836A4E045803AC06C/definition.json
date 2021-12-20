@@ -5,27 +5,38 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "angle",
+    "n",
+    "pye",
+    "conqueror",
+    "sapoo",
+    "woman",
+    "fengzhi",
+    "zhang"
   ],
   "small": {
     "scale": 0.8699999999999997,
     "offset_x": -471.5,
     "offset_y": -271,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999992,
     "offset_x": -166.5,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999994,
     "offset_x": -53,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

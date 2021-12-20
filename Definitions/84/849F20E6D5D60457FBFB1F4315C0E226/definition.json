@@ -5,27 +5,49 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "girl",
+    "women",
+    "long",
+    "hair",
+    "closed",
+    "eyes",
+    "artwork",
+    "1920x1369",
+    "dawn",
+    "madness",
+    "man",
+    "invaded",
+    "plants",
+    "rudolf",
+    "b\u00E9res",
+    "she",
+    "god",
+    "theerapol",
+    "vonghirunsombut"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -724,
     "offset_y": -347,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -431,
     "offset_y": -177,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5796666666666663,
     "offset_x": -210,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,43 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "catfolk",
+    "rogue",
+    "monk",
+    "illustration",
+    "exercise",
+    "liujiang",
+    "jin",
+    "draconika",
+    "nina",
+    "ward",
+    "shangxiang",
+    "wang",
+    "xiao"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -293,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -99,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.46,
     "offset_x": -68,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

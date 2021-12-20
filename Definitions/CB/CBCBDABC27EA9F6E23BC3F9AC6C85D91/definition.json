@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/84/14/7d/84147db5a3813a3e5a42af18e74e01f4.jpg",
   "md5": "CBCBDABC27EA9F6E23BC3F9AC6C85D91",
   "tags": [
-    ""
+    "",
+    "modern",
+    "rpg",
+    "character",
+    "cyberpunk",
+    "concept",
+    "assassin",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "patricc",
+    "woo",
+    "kyungzin",
+    "https://www.artstation.com/artwork/xbjey",
+    "dungeons",
+    "lucia",
+    "massucco",
+    "https://www.artstation.com/artwork/b8ozk",
+    "stylized",
+    "full-body",
+    "ahmad",
+    "alshawa"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -352,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -49,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -44,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

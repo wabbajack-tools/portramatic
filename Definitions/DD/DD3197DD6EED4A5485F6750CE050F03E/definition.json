@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/736x/4c/4c/88/4c4c8807a5e72e4f6778d0051bea3845.jpg",
   "md5": "DD3197DD6EED4A5485F6750CE050F03E",
   "tags": [
-    ""
+    "",
+    "girl",
+    "with",
+    "sword",
+    "cool",
+    "anime",
+    "pokemon",
+    "female",
+    "assassin",
+    "star",
+    "wars",
+    "bounty",
+    "hunter",
+    "death",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "night",
+    "elf",
+    "dark",
+    "tyreen",
+    "calypso",
+    "nikita",
+    "samartsev"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -131,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -71,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -156,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,39 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "liliana",
+    "vess",
+    "chandra",
+    "card",
+    "league",
+    "legends",
+    "human_made_object",
+    "furniture_or_decor",
+    "candle_or_candle_holder"
   ],
   "small": {
     "scale": 1,
     "offset_x": -270.7999999999997,
     "offset_y": -179.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -107.19999999999982,
     "offset_y": -79.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -138.32407407407482,
     "offset_y": -91.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

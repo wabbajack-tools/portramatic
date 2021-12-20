@@ -2,27 +2,63 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/034/977/426/large/mam-ba-03.jpg?16137540187",
   "md5": "E16387DB7F39DD55312E0EB91EF6D48B",
   "tags": [
-    ""
+    "",
+    "zelda",
+    "sbubby",
+    "gashi",
+    "princess",
+    "smash",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "heels",
+    "\u6CD5\u5E08\u7EC3\u4E60",
+    "\u6A61\u6811",
+    "\u5C71\u96E8",
+    "artwork",
+    "rpg_character_archer",
+    "jeong",
+    "seong",
+    "hun",
+    "rpg",
+    "character",
+    "races",
+    "black",
+    "desert",
+    "online",
+    "outfit",
+    "challenge",
+    "midknight",
+    "armor",
+    "concept",
+    "adam",
+    "isailovic"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -442,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -220,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -36,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

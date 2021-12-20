@@ -2,25 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19c68a42-b189-4a3f-ad8d-1d9ef6ec342c/dczhaho-387429bd-485a-491c-80bd-927532fc8544.png/v1/fill/w_600,h_873,q_80,strp/the_yiling_patriarch_by_merwild_dczhaho-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODczIiwicGF0aCI6IlwvZlwvMTljNjhhNDItYjE4OS00YTNmLWFkOGQtMWQ5ZWY2ZWMzNDJjXC9kY3poYWhvLTM4NzQyOWJkLTQ4NWEtNDkxYy04MGJkLTkyNzUzMmZjODU0NC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2vPN6r3pTFXkoPhbcHgxT3lnAbVKSsDWD7y1lY8-TBw",
   "md5": "2BF8447CF385DE33142BC5FC346020D5",
   "tags": [
-    ""
+    "",
+    "animes",
+    "anime",
+    "girl",
+    "guys",
+    "characters",
+    "one",
+    "piece"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -92,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -45,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -50,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

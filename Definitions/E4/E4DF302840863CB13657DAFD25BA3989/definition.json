@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/originals/d0/e6/0e/d0e60e182e847f0e0699af7242e3cc5f.jpg",
   "md5": "E4DF302840863CB13657DAFD25BA3989",
   "tags": [
-    ""
+    "",
+    "gothic",
+    "knight",
+    "dark",
+    "concept",
+    "artwork",
+    "armor",
+    "medieval",
+    "knights",
+    "heavy",
+    "samurai",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "marcus",
+    "renewal",
+    "yoon",
+    "\u2606",
+    "2020",
+    "fighter",
+    "black",
+    "panther",
+    "costumes",
+    "soyoung",
+    "pak",
+    "warrior",
+    "fang",
+    "woo",
+    "character",
+    "inspiration"
   ],
   "small": {
     "scale": 1,
     "offset_x": -541,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -279,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -2,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

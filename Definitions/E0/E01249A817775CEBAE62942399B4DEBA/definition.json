@@ -9,27 +9,58 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "silver",
+    "knight",
+    "armor",
+    "real",
+    "medieval",
+    "leather",
+    "designs",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "mabinogi\uFF1Aheros",
+    "fan",
+    "02",
+    "dead",
+    "man",
+    "auria",
+    "righteous",
+    "tyler",
+    "james",
+    "work",
+    "daehun",
+    "park",
+    "https://www.artstation.com/artwork/work-a484c515-6665-4291"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -327,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -174,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.38,
     "offset_x": -52,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

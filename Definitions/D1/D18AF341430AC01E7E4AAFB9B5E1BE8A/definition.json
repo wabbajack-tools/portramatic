@@ -5,27 +5,41 @@
     "undead",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "green",
+    "goblin",
+    "spider-man",
+    "movie",
+    "spawn",
+    "jackson",
+    "caspersz",
+    "https://www.artstation.com/artwork/l2akx0",
+    "assassin",
+    "john",
+    "aranha"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -209.79999999999973,
     "offset_y": -63.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -171.19999999999982,
     "offset_y": -8.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -260.3240740740748,
     "offset_y": -21.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

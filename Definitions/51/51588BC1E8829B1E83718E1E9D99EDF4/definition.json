@@ -17,27 +17,34 @@
     "snod",
     "snow",
     "https://www.artstation.com/artwork/kxmd9",
-    "cyberpunk"
+    "cyberpunk",
+    "children",
+    "hurin",
+    "map",
+    "tolkien"
   ],
   "small": {
     "scale": 0.13999999999999924,
     "offset_x": -39,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2099999999999993,
     "offset_x": -44,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -66,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

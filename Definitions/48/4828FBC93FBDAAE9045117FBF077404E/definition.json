@@ -5,27 +5,54 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "gloves",
+    "shoes",
+    "heels",
+    "\u5973\u5251\u58EB(swrod",
+    "wang",
+    "chuncan",
+    "https://www",
+    "archeress",
+    "d.s",
+    "kang",
+    "girl",
+    "\uCC3D\uAE30\uC0AC",
+    "jiyoo",
+    "kim"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -563,
     "offset_y": -167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999996,
     "offset_x": -222,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -74,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

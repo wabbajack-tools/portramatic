@@ -11,27 +11,56 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "diablo",
+    "archangel",
+    "auriel",
+    "tyrael",
+    "league",
+    "legends",
+    "gundam",
+    "wing",
+    "death",
+    "knight",
+    "legend",
+    "zelda",
+    "female",
+    "assassin",
+    "\u673A\u75327\u53F7",
+    "jie",
+    "li",
+    "nova",
+    "terra",
+    "evandro",
+    "\u0027\u0027van",
+    "mars\u0027\u0027",
+    "menezes",
+    "thief",
+    "mirco",
+    "paganessi"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -129.79999999999973,
     "offset_y": -66.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -49.19999999999976,
     "offset_y": -38.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4.324074074074815,
     "offset_y": -21.601851851852643,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "https://pbs.twimg.com/media/D9mcAWvXoAAB1Hc.jpg",
   "md5": "034B6A6752E85E8B982EE03F788C29EA",
   "tags": [
-    ""
+    "",
+    "legolas",
+    "magali",
+    "villeneuve",
+    "haldir",
+    "mtg",
+    "abyss",
+    "voice",
+    "guilherme",
+    "batista",
+    "scorching",
+    "torrent",
+    "artcraft",
+    "studio",
+    "cypertaur",
+    "longken"
   ],
   "small": {
     "scale": 1,
     "offset_x": -282.39999999999986,
     "offset_y": -136.8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -216.8,
     "offset_y": -100.7999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -41.64814814814781,
     "offset_y": -4.805555555555429,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

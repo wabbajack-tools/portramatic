@@ -8,27 +8,61 @@
     "Evil",
     "Ruler",
     "Pitax",
-    "Concept Art"
+    "Concept Art",
+    "kingmaker",
+    "tiefling",
+    "wizard",
+    "portraits",
+    "female",
+    "cleric",
+    "character",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "dungeons",
+    "dragons",
+    "warhammer",
+    "40k",
+    "heavy",
+    "concept",
+    "sangsoo",
+    "jeong",
+    "characters",
+    "dusk",
+    "new",
+    "moon",
+    "marcia",
+    "devana",
+    "human",
+    "nr-rs",
+    "rosen",
+    "jo\u6865",
+    "https://www.artstation.com/artwork/oe42w",
+    "2020"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -525.6000000000008,
     "offset_y": -150.39999999999986,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -182.40000000000015,
     "offset_y": -61.60000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -27.23148148148175,
     "offset_y": -38.44444444444457,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

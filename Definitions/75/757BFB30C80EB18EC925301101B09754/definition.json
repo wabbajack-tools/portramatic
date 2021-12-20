@@ -19,27 +19,53 @@
     "lim",
     "artwork",
     "paintings",
-    "wallpaper"
+    "wallpaper",
+    "2017",
+    "run",
+    "ze",
+    "totem",
+    "pole",
+    "cuardian",
+    "bageumi",
+    ".",
+    "warrior",
+    "woman",
+    "women",
+    "female",
+    "characters",
+    "beyond",
+    "human",
+    "heroes",
+    "micha\u0142",
+    "sowa",
+    "street",
+    "punk",
+    "character",
+    "design",
+    "hero"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -482.9999999999999,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -250.00000000000006,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -50,
     "offset_y": -4.000000000000057,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

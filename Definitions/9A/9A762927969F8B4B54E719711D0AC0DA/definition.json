@@ -6,27 +6,44 @@
     "female",
     "priest",
     "mage",
-    "dancer"
+    "dancer",
+    "moonlight",
+    "4k",
+    "holy",
+    "blade",
+    "game",
+    "anime",
+    "girl",
+    "angel",
+    "halberd",
+    "warrior",
+    "glauber",
+    "jung",
+    "moon",
+    "lim"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -1119.7999999999997,
     "offset_y": -321.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7901666666666667,
     "offset_x": -542.1999999999998,
     "offset_y": -80.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8314166666666662,
     "offset_x": -404.3240740740748,
     "offset_y": -55.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,39 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "https://www.artstation.com/artwork/zab9am",
+    "character",
+    "a",
+    "little",
+    "python",
+    "liz",
+    "s",
+    "big",
+    "sheep"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -661,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999998,
     "offset_x": -496,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8996666666666666,
     "offset_x": -444,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,51 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "sci-fi",
+    "woman",
+    "concept",
+    "girl",
+    "drawing",
+    "league",
+    "legends",
+    "angels",
+    "game",
+    "thrones",
+    "vampire",
+    "ruslan",
+    "svobodin",
+    "knight",
+    "jin",
+    "woo",
+    "park",
+    "netease",
+    "games",
+    "chul",
+    "lee"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -388,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -102,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9000000000000006,
     "offset_x": -198,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

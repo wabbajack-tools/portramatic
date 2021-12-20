@@ -25,7 +25,7 @@
     "design",
     "herman",
     "ng",
-    "d&d",
+    "d\u0026d",
     "fenrir",
     "ahri",
     "sarah",
@@ -33,27 +33,43 @@
     "animation",
     "archer",
     "artem",
-    "slakva"
+    "slakva",
+    "dynasty",
+    "warriors",
+    "samurai",
+    "gears",
+    "war",
+    "sister",
+    "battle",
+    "vladimir",
+    "kharchenko",
+    "spawn",
+    "violator",
+    "stephen",
+    "spinas"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -164,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -96,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -20,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

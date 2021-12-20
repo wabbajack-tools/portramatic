@@ -1,28 +1,66 @@
 {
-  "source": "https://pbs.twimg.com/media/FEZkw5DagAE_E84?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/FEZkw5DagAE_E84?format=jpg\u0026name=4096x4096",
   "md5": "DD427F65CC65279C93CB26517940B056",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "drawings",
+    "medieval",
+    "knights",
+    "how",
+    "to",
+    "draw",
+    "armors",
+    "black",
+    "heavy",
+    "dark",
+    "elf",
+    "ottoman",
+    "arquebusier",
+    "gianluca",
+    "rolli",
+    "https://www.artstation.com/artwork/kq8va",
+    "hobbit",
+    "battle",
+    "five",
+    "armies",
+    "hero",
+    "orcs",
+    "weta",
+    "workshop",
+    "design",
+    "studio",
+    "random",
+    "character",
+    "study",
+    "jin-hong",
+    "park",
+    "with",
+    "concept"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -371,
     "offset_y": -235,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -549,
     "offset_y": -305,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -68,
     "offset_y": -204,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

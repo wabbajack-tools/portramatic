@@ -3,29 +3,38 @@
   "md5": "F0FED5CE111D129178F017DE4D52A580",
   "tags": [
     "wizard",
-    "d&amp;d",
+    "d\u0026amp;d",
     "character",
-    "portrait"
+    "portrait",
+    "mtg",
+    "war",
+    "spark",
+    "dreadhorde",
+    "arcanist",
+    "cards"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -1143.0000000000002,
     "offset_y": -378.1999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -850.3999999999995,
     "offset_y": -284.40000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -744.8611111111111,
     "offset_y": -160.18518518518465,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

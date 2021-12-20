@@ -5,27 +5,61 @@
     "lord",
     "rings",
     "aragorn",
-    "tavern"
+    "tavern",
+    "martin",
+    "luther",
+    "king",
+    "books",
+    "jr",
+    "black",
+    "white",
+    "stamp",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "companion",
+    "ji",
+    "yeun",
+    "kim",
+    "gund_adv",
+    "mansik",
+    "yang",
+    "characters",
+    "vampire",
+    "forest",
+    "warrior",
+    "hyeong",
+    "bin",
+    "jeon"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -446.19999999999993,
     "offset_y": -221.20000000000027,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -106.40000000000003,
     "offset_y": -81.40000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -104.12037037037067,
     "offset_y": -36.41666666666697,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

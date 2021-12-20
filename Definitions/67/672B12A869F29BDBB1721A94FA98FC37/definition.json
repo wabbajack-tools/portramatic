@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/f7/3d/d9/f73dd9981d2a56ee410a71d9c2b67596.jpg",
   "md5": "672B12A869F29BDBB1721A94FA98FC37",
   "tags": [
-    ""
+    "",
+    "death",
+    "god",
+    "sun",
+    "odin",
+    "norse",
+    "dark",
+    "elf",
+    "blood",
+    "night",
+    "female",
+    "assassin",
+    "wind",
+    "running",
+    "lordaeron",
+    "wenmo",
+    "zhang",
+    "abject",
+    "violinist",
+    "beytrand",
+    "\u856D",
+    "\u4F2F\u540C",
+    "work",
+    "progress",
+    "angel",
+    "secrets",
+    "pei",
+    "wei",
+    "li"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -303,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2100000000000002,
     "offset_x": -181,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8400000000000007,
     "offset_x": -70,
     "offset_y": -128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

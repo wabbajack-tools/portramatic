@@ -9,27 +9,35 @@
     "female",
     "half",
     "orc",
-    "portrait"
+    "portrait",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.13999999999999924,
     "offset_x": -37.00000000000023,
     "offset_y": -1.6000000000000227,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.1999999999999993,
     "offset_x": -5,
     "offset_y": -18.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -18.81481481481478,
     "offset_y": -15.203703703703809,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

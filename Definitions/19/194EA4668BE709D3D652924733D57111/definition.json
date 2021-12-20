@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/5d/48/6a/5d486a4d01b171dc45ae5fc2b60d931c.jpg",
   "md5": "194EA4668BE709D3D652924733D57111",
   "tags": [
-    ""
+    "",
+    "cool",
+    "knight",
+    "armor",
+    "designs",
+    "medieval",
+    "concept",
+    "character",
+    "knights",
+    "dragon",
+    "samurai",
+    "plate",
+    "armors",
+    "cursed",
+    "infantry",
+    "craig",
+    "matchett",
+    "dungeons",
+    "dragons",
+    "game",
+    "armiche",
+    "lora",
+    "warrior",
+    "penda",
+    "mercia",
+    "elijah",
+    "mcneal",
+    "https://www.artstation.com/artwork/5jnye"
   ],
   "small": {
     "scale": 2.0799999999999956,
     "offset_x": -296.7999999999992,
     "offset_y": -214.4000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -63.19999999999959,
     "offset_y": -55.19999999999993,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7600000000000007,
     "offset_x": 32.037037037036725,
     "offset_y": -70.48148148148141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

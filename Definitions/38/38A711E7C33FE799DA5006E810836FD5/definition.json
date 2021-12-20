@@ -7,27 +7,51 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "diablo",
+    "concept",
+    "dmc",
+    "succubus",
+    "ffxiv",
+    "anime",
+    "characters",
+    "girl",
+    "assassin",
+    "pirate",
+    "191028",
+    "minkyu",
+    "lee",
+    "character",
+    "design",
+    "game",
+    "bell",
+    "one",
+    "demon",
+    "hyeyoung",
+    "kim"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -483.06666666666797,
     "offset_y": -243.86666666668185,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -230.0666666666644,
     "offset_y": -110.33333333334247,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -123.36111111111211,
     "offset_y": -95.26851851851961,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

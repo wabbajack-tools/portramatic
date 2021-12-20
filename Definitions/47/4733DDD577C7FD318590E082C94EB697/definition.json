@@ -3,27 +3,52 @@
   "md5": "4733DDD577C7FD318590E082C94EB697",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "legends",
+    "cryptids",
+    "warrior",
+    "legend",
+    "characters",
+    "dark",
+    "elf",
+    "league",
+    "faerie",
+    "dragon",
+    "amber",
+    "ye",
+    "https://www",
+    "126/365",
+    "2019",
+    "mia",
+    "marina",
+    "devil",
+    "astrological\u0027s",
+    "girl",
+    "minerva",
+    "knights"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -526,
     "offset_y": -289,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -142,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -6,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/68/fc/45/68fc454563c85282844ab7904babdbe9.png",
   "md5": "B6D4B6A516BE0864B5FE06B0D5DABDF4",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "characters",
+    "fighter",
+    "portraits",
+    "druid",
+    "kratos",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "odin",
+    "simon",
+    "zhong",
+    "cartoon",
+    "orc",
+    "slaver",
+    "joseph",
+    "weston",
+    "https://www",
+    "garoblin",
+    "klaher",
+    "baklaher"
   ],
   "small": {
     "scale": 1,
     "offset_x": -288,
     "offset_y": -151,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -265,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

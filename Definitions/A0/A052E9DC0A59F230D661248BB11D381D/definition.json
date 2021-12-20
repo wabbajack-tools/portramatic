@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/0b/6e/3e/0b6e3ec4975e85b688e077c00a606e01.jpg",
   "md5": "A052E9DC0A59F230D661248BB11D381D",
   "tags": [
-    ""
+    "",
+    "african",
+    "american",
+    "character",
+    "desert",
+    "warrior",
+    "concept",
+    "arabian",
+    "samurai",
+    "steel",
+    "adept",
+    "joseph",
+    "meehan",
+    "flintlock",
+    "andris",
+    "saputra",
+    "destiny",
+    "knights",
+    "round",
+    "table",
+    "sam"
   ],
   "small": {
     "scale": 1,
     "offset_x": -205,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -122,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -82,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

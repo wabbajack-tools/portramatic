@@ -9,27 +9,42 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "lusty",
+    "argonian",
+    "maid",
+    "mod",
+    "e621",
+    "full",
+    "vonyc525",
+    "cell",
+    "redesign",
+    "10",
+    "itamar",
+    "reiner"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -125.66666666666664,
     "offset_y": -12.333333333333258,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -88.66666666666663,
     "offset_y": -23.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0399999999999976,
     "offset_x": -18.66666666666697,
     "offset_y": -16.666666666666288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/RiMqQiY.jpeg",
   "md5": "7F32C8BCA207683445E523E11E1DB6D9",
   "tags": [
-    ""
+    "",
+    "hearing",
+    "something",
+    "things",
+    "i",
+    "can",
+    "hear",
+    "trying",
+    "to",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "niary",
+    "hunter",
+    "guilherme",
+    "batista",
+    "\u5149\u306E\u5996\u7CBE\u306B\u5C0E\u304B\u308C\u308B\u30A8\u30CE\u30C3\u30B5_adv",
+    "zinna",
+    "du",
+    "artworks",
+    "2020",
+    "mobile",
+    "legend",
+    "wallpaper",
+    "legends",
+    "alucard"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

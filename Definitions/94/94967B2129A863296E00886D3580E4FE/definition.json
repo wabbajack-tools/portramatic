@@ -30,27 +30,51 @@
     "a.",
     "szade",
     "2020",
-    "undead"
+    "undead",
+    "rpg",
+    "character",
+    "design",
+    "illustration",
+    "female",
+    "knight",
+    "black",
+    "heavy",
+    "medieval",
+    "knights",
+    "son",
+    "he",
+    "xiaosong",
+    "aoife~",
+    "~",
+    "kev",
+    "chan",
+    "dragonage",
+    "fan",
+    "mi",
+    "ker"
   ],
   "small": {
     "scale": 0.5727499999999999,
     "offset_x": -425,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28366666666666607,
     "offset_x": -57,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4460833333333323,
     "offset_x": -104,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

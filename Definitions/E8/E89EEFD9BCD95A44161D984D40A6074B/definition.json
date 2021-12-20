@@ -21,34 +21,65 @@
     "anton",
     "kokarev",
     "concept",
-    "angoulême",
+    "angoul\uFFFDme",
     "india-lee",
     "crews",
     "ice",
     "golem",
     "igor",
     "golovkov",
-    "2020"
+    "2020",
+    "male",
+    "pirate",
+    "captain",
+    "steampunk",
+    "elf",
+    "dynasty",
+    "warriors",
+    "female",
+    "samurai",
+    "armor",
+    "assassin",
+    "barbarians",
+    "suit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "ares",
+    "\u738B\u5609\u71DA",
+    "character",
+    "monkey",
+    "king",
+    "pt",
+    "tacit",
+    "sign",
+    "studio"
   ],
   "small": {
     "scale": 1.9500000000000008,
     "offset_x": -580.8,
     "offset_y": -77.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -183.2,
     "offset_y": -18.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -41.64814814814781,
     "offset_y": -22.425925925925867,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

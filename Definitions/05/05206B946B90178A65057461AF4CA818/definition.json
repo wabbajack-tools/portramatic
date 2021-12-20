@@ -1,28 +1,36 @@
 {
-  "source": "https://alexasfantasywardrobe.files.wordpress.com/2017/11/0045f21.jpg?w=640&h=378",
+  "source": "https://alexasfantasywardrobe.files.wordpress.com/2017/11/0045f21.jpg?w=640\u0026h=378",
   "md5": "05206B946B90178A65057461AF4CA818",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 1.9600000000000009,
     "offset_x": -582,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.9100000000000008,
     "offset_x": -483,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 3.2499999999999742,
     "offset_x": -780,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/10/c0/a1/10c0a19917eef4cce2c84dbd0e874b44.jpg",
   "md5": "E58EF440652888B92F6F24B37D4C5815",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "concept",
+    "character",
+    "warrior",
+    "blade",
+    "armors",
+    "kingdom",
+    "hearts",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "theagar",
+    "\u201C(via",
+    "thief",
+    "pu",
+    "reum",
+    "lee",
+    "pirate",
+    "gunner",
+    "left",
+    "hand",
+    "byeol",
+    "kim",
+    "women",
+    "female"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -355,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -109,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -26,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

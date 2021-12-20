@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/b5/bb/33/b5bb33ad9c6341f81151131064edf527.jpg",
   "md5": "68E98B4DC4F76F14E5B2D86F3EF6EA21",
   "tags": [
-    ""
+    "",
+    "bloody",
+    "demon",
+    "anime",
+    "blood",
+    "eye",
+    "dark",
+    "elf",
+    "angel",
+    "souls",
+    "personal",
+    "work",
+    "gonzo",
+    "journey",
+    "priestess",
+    "morgan",
+    "le",
+    "fay",
+    "gabe",
+    "rose",
+    "nyavka",
+    "maryna",
+    "shcherbakova",
+    "ukrainian"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -218,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -29,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -58,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

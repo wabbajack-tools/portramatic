@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/736x/af/39/ca/af39cab51f9a984ba3d68f6251e8114c.jpg",
   "md5": "B57BDAC0F1341A77EB4C498E3E188068",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "archer",
+    "ranger",
+    "miniature",
+    "castlevania",
+    "lords",
+    "shadow",
+    "league",
+    "legends",
+    "astral",
+    "lich",
+    "eryk",
+    "szczygie\u0142",
+    "clark",
+    "ocleasa",
+    "https://www",
+    "bo",
+    "chen",
+    "money",
+    "today",
+    "believe"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -89,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -64,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

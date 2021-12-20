@@ -4,27 +4,53 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "dark",
+    "knight",
+    "concept",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "ancient",
+    "armors",
+    "plate",
+    "heavy",
+    "mikhail",
+    "palamarchuk",
+    "at\u2026",
+    "character",
+    "design",
+    "support",
+    "me",
+    "thanks",
+    "www.artstation.com/artwork/yrd\u2026",
+    "matthew",
+    "hjellen",
+    "https://www.artstation.com/artwork/0djze"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -332,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -107,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": 0,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

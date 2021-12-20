@@ -2,27 +2,51 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921403098398855228/arciera_lupa.jpg",
   "md5": "A44EAD6AAD8C92D3FD3B19F9E2D658FF",
   "tags": [
-    ""
+    "",
+    "female",
+    "archer",
+    "concept",
+    "drawing",
+    "purple",
+    "warrior",
+    "lord",
+    "rings",
+    "valkyre",
+    "septian",
+    "devenum",
+    "uie",
+    "vu",
+    "nguyen",
+    "hydestudio",
+    "fire",
+    "emblem",
+    "blue",
+    "lions",
+    "aric",
+    "athesis"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -483,
     "offset_y": -303,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -225,
     "offset_y": -165,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -94,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

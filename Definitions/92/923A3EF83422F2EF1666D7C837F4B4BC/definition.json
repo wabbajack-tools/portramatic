@@ -5,27 +5,45 @@
     "dwarf",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "castlevania",
+    "lords",
+    "shadow",
+    "crying",
+    "eyes",
+    "lan",
+    "hunter\u0027s",
+    "phantom",
+    "bloodborne",
+    "edric",
+    "luffie",
+    "zayel",
+    "darius",
+    "elyn",
+    "gontier"
   ],
   "small": {
     "scale": 0.6100000000000003,
     "offset_x": -328,
     "offset_y": -313,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.43999999999999984,
     "offset_x": -125,
     "offset_y": -135,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -86,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

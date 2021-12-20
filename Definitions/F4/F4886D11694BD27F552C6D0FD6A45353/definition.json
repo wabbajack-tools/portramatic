@@ -5,27 +5,46 @@
     "human",
     "male",
     "mage",
-    "old"
+    "old",
+    "beardo",
+    "miki",
+    "bencz",
+    "omen",
+    "master",
+    "battle",
+    "elisha",
+    "ovalles",
+    "unwoven",
+    "seamstress",
+    "her",
+    "serger",
+    "travis",
+    "anderson",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.6300000000000003,
     "offset_x": -368,
     "offset_y": -292,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.44999999999999984,
     "offset_x": -156,
     "offset_y": -133,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -106,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

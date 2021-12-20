@@ -11,27 +11,50 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "orc",
+    "warrior",
+    "anime",
+    "warcraft",
+    "characters",
+    "orcs",
+    "orks",
+    "berserker",
+    "jay",
+    "yang",
+    "warmeow",
+    "40",
+    "000",
+    "yaroslav",
+    "golubev",
+    "turiel",
+    "angel",
+    "mountain",
+    "peter",
+    "mohrbacher"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -326.7999999999997,
     "offset_y": -201.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -135.19999999999976,
     "offset_y": -109.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -74.32407407407482,
     "offset_y": 0.39814814814735655,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

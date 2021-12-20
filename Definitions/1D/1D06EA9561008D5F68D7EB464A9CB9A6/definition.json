@@ -16,27 +16,61 @@
     "weekend",
     "sketches",
     "eric",
-    "persson"
+    "persson",
+    "battle",
+    "mage",
+    "armor",
+    "female",
+    "kratos",
+    "tannenberg",
+    "dungeons",
+    "dragons",
+    "metal",
+    "batman",
+    "sculpture",
+    "marco",
+    "plouffe",
+    "keos",
+    "masons",
+    "https://www.artstation.com",
+    "run",
+    "amok",
+    "svetlin",
+    "velinov",
+    "https://www.artstation.com/artwork/xerbr",
+    "earth",
+    "loc",
+    "work",
+    "skycaptain_reg",
+    "mansik",
+    "yang",
+    "pirate",
+    "pictures",
+    "war",
+    "concept"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -527,
     "offset_y": -251,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -269,
     "offset_y": -154,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -60,
     "offset_y": -29,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

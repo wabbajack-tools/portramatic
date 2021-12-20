@@ -11,27 +11,41 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "santorini",
+    "greece",
+    "hotels",
+    "tripadvisor",
+    "fira",
+    "island",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -58.39999999999981,
     "offset_y": -26.4000000000012,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -26.399999999999864,
     "offset_y": -36.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -11.21296296296282,
     "offset_y": -3.2037037037040363,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

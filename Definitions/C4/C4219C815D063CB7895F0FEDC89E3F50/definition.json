@@ -4,27 +4,51 @@
   "tags": [
     "human",
     "male",
-    "mage"
+    "mage",
+    "grindelwald",
+    "dumbledore",
+    "harry",
+    "potter",
+    "old",
+    "gellert",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "pirates",
+    "caribbean",
+    "underworld",
+    "rise",
+    "lycans",
+    "ghost",
+    "recon",
+    "wildlands",
+    "season",
+    "pass",
+    "keyart"
   ],
   "small": {
     "scale": 0.5599999999999997,
     "offset_x": -158.5,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -82.5,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -129,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

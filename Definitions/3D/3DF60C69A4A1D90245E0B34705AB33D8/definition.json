@@ -11,27 +11,50 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "dungeons",
+    "dragons",
+    "gears",
+    "war",
+    "black",
+    "orc",
+    "additional",
+    "heroes",
+    "band",
+    "character",
+    "bluehair",
+    "ork",
+    "mansik",
+    "yang",
+    "warcraft",
+    "hexxen",
+    "1733",
+    "rpg",
+    "illustration",
+    "piotr"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -129.5999999999998,
     "offset_y": -7.200000000001211,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -22.39999999999992,
     "offset_y": -17.600000000000136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -28.83333333333303,
     "offset_y": -25.629629629629903,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

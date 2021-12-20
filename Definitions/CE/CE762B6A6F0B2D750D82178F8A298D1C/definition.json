@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/736x/d2/35/6d/d2356d4a534997bda73f14d1ae98dd2e--diablo--dark-fantasy.jpg",
   "md5": "CE762B6A6F0B2D750D82178F8A298D1C",
   "tags": [
-    ""
+    "",
+    "shaolin",
+    "monk",
+    "warrior",
+    "orc",
+    "lord",
+    "rings",
+    "castlevania",
+    "lords",
+    "shadow",
+    "symphony",
+    "night",
+    "kratos",
+    "master",
+    "orion",
+    "orcs",
+    "hulk",
+    "vs",
+    "saitama",
+    "inhyuk",
+    "lee",
+    "memento",
+    "mori",
+    "anarchic",
+    "fox",
+    "https://www.artstation.com/artwork/zazqkd",
+    "https://www.artstation.com/artwork/n16oe",
+    "science",
+    "fiction",
+    "cyberpunk",
+    "artist"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -481,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -241,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9900000000000009,
     "offset_x": -354,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

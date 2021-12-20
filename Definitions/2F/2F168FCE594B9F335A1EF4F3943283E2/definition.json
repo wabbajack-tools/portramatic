@@ -11,27 +11,58 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "angel",
+    "warrior",
+    "armor",
+    "god\u0027s",
+    "angels",
+    "samurai",
+    "knight",
+    "heavy",
+    "medieval",
+    "knights",
+    "warriors",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "recent",
+    "character",
+    "commissions",
+    "james",
+    "child",
+    "berserker",
+    "max",
+    "yenin",
+    "https://www",
+    "https://www.artstation.com/artwork/qvmxa",
+    "soldado",
+    "romano"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -311.7999999999997,
     "offset_y": -127.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -139.19999999999976,
     "offset_y": -93.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -24.324074074074815,
     "offset_y": -21.601851851852643,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

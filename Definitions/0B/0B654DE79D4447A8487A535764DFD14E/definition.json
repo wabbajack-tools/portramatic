@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/7a/4e/5e/7a4e5e89b0b066b0772efff3a43e2378.jpg",
   "md5": "0B654DE79D4447A8487A535764DFD14E",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "female",
+    "assassin",
+    "plate",
+    "death",
+    "raven",
+    "hue",
+    "k",
+    "althea",
+    "sheila",
+    "amajida",
+    "selia",
+    "chris",
+    "dien",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -235,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -114,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.569999999999998,
     "offset_x": -110,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

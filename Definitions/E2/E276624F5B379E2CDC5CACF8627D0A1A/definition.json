@@ -5,27 +5,44 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "dovura",
+    "grand",
+    "locust",
+    "accamah",
+    "kendji",
+    "granblue",
+    "yueyang",
+    "xie",
+    "apocalypse",
+    "devilman",
+    "amon",
+    "statue",
+    "robin",
+    "kwok"
   ],
   "small": {
     "scale": 1.4500000000000004,
     "offset_x": -1442,
     "offset_y": -381,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -926,
     "offset_y": -224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.279666666666667,
     "offset_x": -1014,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

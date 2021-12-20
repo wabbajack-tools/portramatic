@@ -2,27 +2,51 @@
   "source": "https://pbs.twimg.com/media/CzfvmX_XEAAkfpg.jpg",
   "md5": "0C8A3156B3C8D71E8B81933B7481FE07",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "costume",
+    "geralt",
+    "wallpaper",
+    "death",
+    "knight",
+    "ep",
+    "01",
+    "tr\u01B0\u01A1ng",
+    "mai",
+    "tr\u00FAc",
+    "character",
+    "sarke",
+    "nightfall",
+    "ina",
+    "wong",
+    "warcraft",
+    "leviathans",
+    "aaron",
+    "florento",
+    "female"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -353,
     "offset_y": -218,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -114,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -4,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -21,27 +21,34 @@
     "bornier",
     "omu",
     "upied",
-    "https://www"
+    "https://www",
+    "tiefling",
+    "image",
+    "male",
+    "fighter"
   ],
   "small": {
     "scale": 0.2999999999999994,
     "offset_x": -6,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -5,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1699999999999955,
     "offset_x": -58,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

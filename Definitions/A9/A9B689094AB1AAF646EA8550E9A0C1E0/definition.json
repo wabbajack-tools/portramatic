@@ -2,27 +2,58 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/017/514/854/large/justin-gerard-justin-gerard-dh1900-n15v1x08-72web.jpg?1556285551",
   "md5": "A9B689094AB1AAF646EA8550E9A0C1E0",
   "tags": [
-    ""
+    "",
+    "moria",
+    "gate",
+    "map",
+    "lego",
+    "mines",
+    "starcraft",
+    "brood",
+    "war",
+    "chaos",
+    "warrior",
+    "warhammer",
+    "40k",
+    "space",
+    "marine",
+    "fire",
+    "demon",
+    "chen",
+    "xiao",
+    "dark",
+    "kylin",
+    "king",
+    "\u9E92\u9E9F\u81F3\u5C0A",
+    "bee",
+    "colo",
+    "\u0022warhammer",
+    "imperium",
+    "nihilus",
+    "vigilus"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -804,
     "offset_y": -477,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -417,
     "offset_y": -230,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -148,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/bf/1b/75/bf1b756424c3e0ed4633ec915f0e1c95.jpg",
   "md5": "E3AF0BEDAA581CF52770D73C8B93C5C8",
   "tags": [
-    ""
+    "",
+    "dwarves",
+    "wow",
+    "dwarf",
+    "warrior",
+    "character",
+    "dungeons",
+    "dragons",
+    "shogun",
+    "warriors",
+    "knight",
+    "armor",
+    "barbarians",
+    "tatar",
+    "hero",
+    "toni",
+    "justamante",
+    "jacobs",
+    "kingmaker",
+    "archer",
+    "akim",
+    "kaliberda",
+    "portraits",
+    "wip",
+    "persian",
+    "prince",
+    "contest",
+    "\u2014",
+    "polycount"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -357,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -83,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -26,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

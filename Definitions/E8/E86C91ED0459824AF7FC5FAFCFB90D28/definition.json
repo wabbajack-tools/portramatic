@@ -2,27 +2,41 @@
   "source": "https://artbreeder.b-cdn.net/imgs/76f719f33ca4589cf7f1f33482e4.jpeg",
   "md5": "E86C91ED0459824AF7FC5FAFCFB90D28",
   "tags": [
-    ""
+    "",
+    "layered",
+    "hairstyles",
+    "human",
+    "hair",
+    "wigs",
+    "short",
+    "haircut",
+    "bob",
+    "straight",
+    "haircuts",
+    "bangs"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -30,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -53,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.01,
     "offset_x": -158,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

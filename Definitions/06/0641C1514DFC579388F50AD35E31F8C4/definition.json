@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/92/f9/5e/92f95e7849c12cfa3cfab75877c008ce.jpg",
   "md5": "0641C1514DFC579388F50AD35E31F8C4",
   "tags": [
-    ""
+    "",
+    "drow",
+    "elf",
+    "sorceress",
+    "dark",
+    "male",
+    "wizard",
+    "night",
+    "female",
+    "assassin",
+    "vampire",
+    "knight",
+    "manga",
+    "death",
+    "yennefer",
+    "witcher",
+    "wild",
+    "hunt",
+    "\u0161\u00E1rka",
+    "\u0161",
+    "ranger",
+    "igor",
+    "artyomenko",
+    "necromancer",
+    "carl",
+    "johan",
+    "b\u00E4ckman",
+    "elves"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -26,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -65,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -6,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

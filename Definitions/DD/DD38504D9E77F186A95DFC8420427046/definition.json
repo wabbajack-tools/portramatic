@@ -2,27 +2,55 @@
   "source": "http://vignette4.wikia.nocookie.net/warhammerfb/images/0/0c/Warhammer_Wood_Elves_Waystalker.jpg/revision/latest?cb=20160909032654",
   "md5": "DD38504D9E77F186A95DFC8420427046",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "dragon",
+    "druid",
+    "dungeons",
+    "dragons",
+    "ranger",
+    "wood",
+    "high",
+    "skyrim",
+    "elves",
+    "dark",
+    "forest",
+    "stephen",
+    "najarian",
+    "legend",
+    "cryptids-\u30A8\u30EA\u30A8\u30C3\u30BF",
+    "kisuny",
+    "park",
+    "https://www.artstation.com/artwork",
+    "eternal",
+    "essence",
+    "jason",
+    "engle",
+    "wizard"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -281,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -62,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -156,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

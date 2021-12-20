@@ -4,27 +4,57 @@
   "tags": [
     "human",
     "male",
-    "archer"
+    "archer",
+    "samurai",
+    "armor",
+    "alien",
+    "warrior",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "leather",
+    "rpg",
+    "character",
+    "set",
+    "29",
+    "ernesto",
+    "irawan",
+    "2021",
+    "\u6E38\u4FA0\uFF08ranger\uFF09",
+    "zhongping",
+    "zhang",
+    "omg",
+    "i",
+    "just",
+    "found",
+    "ryan",
+    "metcalf",
+    "his",
+    "is"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -832,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -527,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6296666666666664,
     "offset_x": -282,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

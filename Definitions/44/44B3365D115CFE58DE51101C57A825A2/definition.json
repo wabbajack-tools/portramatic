@@ -2,27 +2,38 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/039/560/860/large/alexander-davtyan-swarmthatwalks.jpg?1626262429",
   "md5": "44B3365D115CFE58DE51101C57A825A2",
   "tags": [
-    ""
+    "",
+    "medal",
+    "honor",
+    "game",
+    "zhaoyuan",
+    "pan",
+    "character",
+    "anime",
+    "military"
   ],
   "small": {
     "scale": 1,
     "offset_x": -406,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -276,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -184,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

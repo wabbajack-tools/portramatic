@@ -2,27 +2,50 @@
   "source": "https://fsa.zobj.net/crop.php?r=y6p1wEESeO8a2ou1vAg8Zk1MOIQnAdA1cNzmnVanxJOCBjucRvpN_y-ZEBfbs6kPKSW20aD3gngq9xfFzNUGXVXw_dp-d11UT1d36MXpPO1gMDQXoTTgohUqDKwh6Rpo_5bMQ6fEZF6etCCYG8skWESmVfUd3a0GDQqisyp40htJFp3DysB-dpEiIGFyJxs17fNN42gKZbRsUMVl",
   "md5": "A8F81148FC8DF6FBBDB455697C14E3F1",
   "tags": [
-    ""
+    "",
+    "female",
+    "druid",
+    "male",
+    "half",
+    "elf",
+    "wood",
+    "dark",
+    "angel",
+    "fallen",
+    "spores",
+    "anna",
+    "ben",
+    "david",
+    "khajiit",
+    "maria",
+    "zwanskaya",
+    "artwork",
+    "orc",
+    "j",
+    "e"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -168,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -1,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -6,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

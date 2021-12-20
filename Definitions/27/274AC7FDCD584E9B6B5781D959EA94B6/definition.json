@@ -1,30 +1,55 @@
 {
-  "source": "https://image.winudf.com/v2/image/Y29tLkFydFdhbGxwYXBlclN0dWRpby5QYWxhZGluc1dhbGxwYXBlckhEX3NjcmVlbl8zXzE1MjQzNDgzODdfMDc2/screen-3.jpg?fakeurl=1&type=.jpg",
+  "source": "https://image.winudf.com/v2/image/Y29tLkFydFdhbGxwYXBlclN0dWRpby5QYWxhZGluc1dhbGxwYXBlckhEX3NjcmVlbl8zXzE1MjQzNDgzODdfMDc2/screen-3.jpg?fakeurl=1\u0026type=.jpg",
   "md5": "274AC7FDCD584E9B6B5781D959EA94B6",
   "tags": [
     "knight",
     "white",
-    "gold"
+    "gold",
+    "golden",
+    "armor",
+    "anime",
+    "dragon",
+    "concept",
+    "lord",
+    "rings",
+    "legend",
+    "cryptids",
+    "tatiana",
+    "kirgetova",
+    "elven",
+    "jackie",
+    "felix",
+    "women",
+    "characters",
+    "character",
+    "crow",
+    "god",
+    "illustration",
+    "drawing",
+    "tutorial"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -271.33333333333326,
     "offset_y": -340.6666666666667,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -123,
     "offset_y": -224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -12,
     "offset_y": -206,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

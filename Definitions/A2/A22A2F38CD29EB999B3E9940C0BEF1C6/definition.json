@@ -19,27 +19,43 @@
     "edelgard",
     "timeskip",
     "michelle",
-    "zhao"
+    "zhao",
+    "ninja",
+    "gaiden",
+    "armor",
+    "costume",
+    "bosses",
+    "characters",
+    "legend",
+    "zelda",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -237.33333333333354,
-    "offset_y": 5.684341886080802e-14,
-    "size": "small"
+    "offset_y": 5.684341886080802E-14,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -132.66666666666669,
     "offset_y": -0.6666666666665435,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1199999999999983,
     "offset_x": -129.33333333333326,
     "offset_y": -0.6666666666666288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

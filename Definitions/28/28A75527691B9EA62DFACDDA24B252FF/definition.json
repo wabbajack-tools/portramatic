@@ -11,27 +11,63 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "vampire",
+    "spawn",
+    "dracula",
+    "race",
+    "dragon",
+    "armor",
+    "plate",
+    "knight",
+    "power",
+    "heavy",
+    "suit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "https://www.artstation.com/artwork/mqogdv",
+    "2020",
+    "\u6768\u540C\u5B66--\u7EBF\u4E0B\u96F6\u57FA\u7840\u73ED\u4F5C\u4E1A--beginner\u0027s",
+    "class",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "2021",
+    "characters",
+    "orc",
+    "warrior",
+    "ting",
+    "xu",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -278.7999999999997,
     "offset_y": -43.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -101.19999999999976,
     "offset_y": -14.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6.324074074074815,
     "offset_y": -3.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,40 @@
     "elf",
     "female",
     "archer",
-    "princess"
+    "princess",
+    "f-zero",
+    "snes",
+    "game",
+    "characters",
+    "armored",
+    "rider",
+    "elseedy",
+    ".",
+    "zbrush",
+    "character"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -784,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -472,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8896666666666666,
     "offset_x": -288,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

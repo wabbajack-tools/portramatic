@@ -11,27 +11,55 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "male",
+    "witch",
+    "costume",
+    "drawing",
+    "oc",
+    "gears",
+    "war",
+    "game",
+    "thrones",
+    "chaos",
+    "warrior",
+    "dawn",
+    "rise",
+    "guardians",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "head_wear",
+    "hat",
+    "hunger",
+    "luka",
+    "brico"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -326.7999999999997,
     "offset_y": -136.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -120.19999999999976,
     "offset_y": -73.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -66.32407407407482,
     "offset_y": -79.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

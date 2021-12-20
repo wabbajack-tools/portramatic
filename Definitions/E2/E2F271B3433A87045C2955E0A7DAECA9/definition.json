@@ -6,27 +6,48 @@
     "male",
     "warrior",
     "priest",
-    "prince"
+    "prince",
+    "dungeons",
+    "dragons",
+    "elf",
+    "spearman",
+    "daniel",
+    "kim",
+    "character",
+    "concept",
+    "illustration",
+    "_",
+    "kaiser",
+    "ki",
+    "woong",
+    "blue",
+    "magician",
+    "kang",
+    "jihun",
+    "https://www.artstation.com/artwork/bmxrq\u2026"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -1578,
     "offset_y": -365,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.041583333333333,
     "offset_x": -926,
     "offset_y": -170,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9517499999999997,
     "offset_x": -658,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

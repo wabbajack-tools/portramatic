@@ -5,27 +5,47 @@
     "outsider",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "dota",
+    "desktop",
+    "fan",
+    "screenshot",
+    "sombra",
+    "michelle",
+    "hoefener",
+    "https://www",
+    "\u2022",
+    "overwatch",
+    "caro",
+    "tuts",
+    "spirit",
+    "blossom",
+    "kindred",
+    "suji",
+    "ye"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -169,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -80,
     "offset_y": 1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -5,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

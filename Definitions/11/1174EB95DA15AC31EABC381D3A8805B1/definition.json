@@ -5,27 +5,50 @@
     "half",
     "orc",
     "portrait",
-    "pathfinder"
+    "pathfinder",
+    "female",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "male",
+    "mortal",
+    "kombat",
+    "x",
+    "quan",
+    "chi",
+    "solomon",
+    "gaitan",
+    "drow",
+    "arcane",
+    "archer",
+    "rafael",
+    "boo",
+    "trickster",
+    "illustration"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -130.00000000000023,
     "offset_y": -120.60000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -12,
     "offset_y": -8.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -78.81481481481478,
     "offset_y": -23.20370370370381,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

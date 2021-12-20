@@ -5,27 +5,54 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "assassin",
+    "actionfigures",
+    "resident",
+    "evil",
+    "revelations",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "\uAD70\uC778",
+    "\uCF54\uC2A4\uD504\uB808",
+    "\uC7AC\uBB38",
+    "\uC724",
+    "concept",
+    "gogi",
+    "kim",
+    "outfit",
+    "gunner",
+    "harok",
+    "lee",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.0300000000000002,
     "offset_x": -879,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -458,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -556,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

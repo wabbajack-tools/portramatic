@@ -2,27 +2,53 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/004/670/573/large/ibrahem-swaid-ww-concept-2-10s.jpg?1485429893-vamp-08s.jpg?1637312872",
   "md5": "D500A250E89C20F1B935D6D6044DA7DC",
   "tags": [
-    ""
+    "",
+    "white",
+    "witch",
+    "drawing",
+    "costume",
+    "beautiful",
+    "dia",
+    "de",
+    "los",
+    "muertos",
+    "day",
+    "dead",
+    "guilty",
+    "crown",
+    "lost",
+    "christmas",
+    "zong",
+    "yu",
+    "r\u014Dnin",
+    "hikaze",
+    "rich",
+    "carey",
+    "\uD83E\uDD8E",
+    "with"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -362,
     "offset_y": -291,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -141,
     "offset_y": -160,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -144,
     "offset_y": -190,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

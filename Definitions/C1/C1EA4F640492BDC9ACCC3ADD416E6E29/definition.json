@@ -1,28 +1,56 @@
 {
-  "source": "https://th.bing.com/th/id/R.c1ea4f640492bdc9accc3add416e6e29?rik=v9Zzj6gNWkSFjg&riu=http%3a%2f%2fdhost1.mmomiss.com%2fupload%2fuserfiles%2fimages%2f85264d383d8c8fa1018b047aa6a6008e.png&ehk=MR73LqVpe8f4%2bIFbbzo3Jm05Rto4jf74uXMrAIRmxqw%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.c1ea4f640492bdc9accc3add416e6e29?rik=v9Zzj6gNWkSFjg\u0026riu=http%3a%2f%2fdhost1.mmomiss.com%2fupload%2fuserfiles%2fimages%2f85264d383d8c8fa1018b047aa6a6008e.png\u0026ehk=MR73LqVpe8f4%2bIFbbzo3Jm05Rto4jf74uXMrAIRmxqw%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "C1EA4F640492BDC9ACCC3ADD416E6E29",
   "tags": [
-    ""
+    "",
+    "villain",
+    "concept",
+    "rogue",
+    "superhero",
+    "concepts",
+    "lord",
+    "rings",
+    "demon",
+    "hunter",
+    "hobbit",
+    "for",
+    "joan",
+    "arc",
+    "bayard",
+    "wu",
+    "https://www.artstation.com/artwork/bgoy4",
+    "dragonborn",
+    "john",
+    "tedrick",
+    "character",
+    "dungeons",
+    "dragons",
+    "characters",
+    "sam",
+    "peterson"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -259,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -144,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -38,
     "offset_y": 28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

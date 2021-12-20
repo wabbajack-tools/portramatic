@@ -11,27 +11,53 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "christian",
+    "knights",
+    "templar",
+    "black",
+    "clip",
+    "elder",
+    "scrolls",
+    "online",
+    "knight",
+    "armor",
+    "medieval",
+    "samurai",
+    "plate",
+    "maya",
+    "render",
+    "june",
+    "ho",
+    "cho",
+    "creatures",
+    "dungeons",
+    "post-apo",
+    "haekel",
+    "lav."
   ],
   "small": {
     "scale": 1,
     "offset_x": -122.79999999999973,
     "offset_y": -122.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -69.19999999999976,
     "offset_y": -57.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -8.324074074074815,
     "offset_y": -35.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

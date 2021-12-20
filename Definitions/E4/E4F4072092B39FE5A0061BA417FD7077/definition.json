@@ -2,27 +2,57 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/795/639/large/kaines-elande-3.jpg?1569215876",
   "md5": "E4F4072092B39FE5A0061BA417FD7077",
   "tags": [
-    ""
+    "",
+    "forest",
+    "king",
+    "wood",
+    "splitter",
+    "elves",
+    "drawing",
+    "statue",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "necromancer",
+    "dark",
+    "elf",
+    "creature",
+    "study",
+    "jin-hong",
+    "park",
+    "https://www.artstation.com/artwork/g4nrq",
+    "lautrec",
+    "redesigned",
+    "decayed",
+    "stef",
+    "tastan",
+    "2018/6/19",
+    "gu",
+    "junyi"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -690.857142857144,
     "offset_y": -595.9999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -373.71428571428584,
     "offset_y": -330.2857142857143,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -203.4285714285718,
     "offset_y": -165.71428571428578,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

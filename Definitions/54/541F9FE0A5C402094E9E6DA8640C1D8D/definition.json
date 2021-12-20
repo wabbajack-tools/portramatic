@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/6a/a5/35/6aa5355624065d817006cb23573d8e36.jpg",
   "md5": "541F9FE0A5C402094E9E6DA8640C1D8D",
   "tags": [
-    ""
+    "",
+    "black",
+    "orange",
+    "dragon",
+    "red",
+    "baby",
+    "mother",
+    "hongqi",
+    "zhang",
+    "sun",
+    "shangxiang",
+    "chang",
+    "qing",
+    "girl",
+    "blonde",
+    "long",
+    "hair",
+    "painted",
+    "nails",
+    "artwork",
+    "crown",
+    "dress"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -98,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": 0,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -8,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

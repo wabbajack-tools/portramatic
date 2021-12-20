@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/fb/e1/46/fbe14655ea8b7446a4e3e7772697cf97.jpg",
   "md5": "885E247703F718CA8F29244E7FDFBBFD",
   "tags": [
-    ""
+    "",
+    "chen",
+    "wei",
+    "model",
+    "ting",
+    "photography",
+    "knight",
+    "death",
+    "devil",
+    "sci",
+    "fi",
+    "samurai",
+    "ted",
+    "ottosson",
+    "tarot",
+    "card",
+    "saad",
+    "irfan",
+    "https://www.artstation.com/artwork/v1de4y",
+    "2020",
+    "a",
+    "piece",
+    "shaman",
+    "sketches",
+    "alexey",
+    "anikin"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -325,
     "offset_y": -332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -150,
     "offset_y": -241,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -42,
     "offset_y": -202,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

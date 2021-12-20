@@ -5,27 +5,43 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "pirate",
+    "wonder",
+    "woman",
+    "dragon",
+    "girl",
+    "mam",
+    "ba",
+    "concept",
+    "characters",
+    "soullamp",
+    "walker",
+    "lee",
+    "kent"
   ],
   "small": {
     "scale": 0.32999999999999985,
     "offset_x": -292,
     "offset_y": -173,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2712499999999993,
     "offset_x": -143,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4405833333333329,
     "offset_x": -72,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

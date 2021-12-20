@@ -12,27 +12,52 @@
     "yuhime",
     "thedragonages",
     "fine",
-    "arts"
+    "arts",
+    "wood",
+    "elves",
+    "elf",
+    "drawings",
+    "archer",
+    "concept",
+    "dragon",
+    "armor",
+    "knight",
+    "spider-man",
+    "plate",
+    "heavy",
+    "star",
+    "wars",
+    "toys",
+    "iron",
+    "man",
+    "suit",
+    "kukulkani",
+    "character",
+    "concepts",
+    "georgios"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -361,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -50,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -12,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

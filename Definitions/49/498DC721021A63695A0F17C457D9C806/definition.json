@@ -2,25 +2,35 @@
   "source": "https://i.pinimg.com/736x/8e/88/f8/8e88f87099081fa0db5d631088620e38.jpg",
   "md5": "498DC721021A63695A0F17C457D9C806",
   "tags": [
-    "elf"
+    "elf",
+    "brown",
+    "hair",
+    "girl",
+    "female",
+    "red"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -78,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -44,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

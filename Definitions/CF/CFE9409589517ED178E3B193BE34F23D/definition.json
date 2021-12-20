@@ -5,27 +5,61 @@
     "tiefling",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "man",
+    "steel",
+    "witcher",
+    "power",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "under_wear",
+    "panties",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "annunaki",
+    "katya",
+    "https://www.artstation.com/artwork/k1o1g",
+    "concept",
+    "oriental",
+    "princess",
+    "jeongseok",
+    "lee",
+    "\u89D2\u8272\u8A2D\u8A08",
+    "\u6BD3\u58EB",
+    "\u674E",
+    "https://www.artstation.com/artwork/ddxex",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.9600000000000002,
     "offset_x": -828,
     "offset_y": -298,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -392,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -260,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

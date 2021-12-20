@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/236x/81/06/b7/8106b765e6430642d7cb35b9261fb7ec.jpg",
   "md5": "A99CF75E39058BD813CCED46F4EE2509",
   "tags": [
-    ""
+    "",
+    "male",
+    "elven",
+    "clothes",
+    "elf",
+    "robes",
+    "costume",
+    "renaissance",
+    "costumes",
+    "dresses",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "hausbrandt",
+    "beatrice",
+    "pelagatti",
+    "2020",
+    "dark",
+    "scholar",
+    "dai",
+    "nguyen",
+    "inspiration",
+    "nr-rs",
+    "rosen",
+    "jo\u6865",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1,
     "offset_x": -28,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 39,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 218,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

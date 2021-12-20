@@ -7,27 +7,45 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "marvel",
+    "venom",
+    "carnage",
+    "v",
+    "gwen",
+    "stacy",
+    "bleach",
+    "hollow",
+    "ichigo",
+    "anime",
+    "guys",
+    "blood",
+    "angel",
+    "ben",
+    "newman"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -262.26666666666745,
     "offset_y": -156.66666666668192,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -82.86666666666429,
     "offset_y": -48.7333333333425,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -28.851851851852302,
     "offset_y": -34.3981481481494,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

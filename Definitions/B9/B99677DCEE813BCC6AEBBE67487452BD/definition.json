@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/eNAskkI.jpeg",
   "md5": "B99677DCEE813BCC6AEBBE67487452BD",
   "tags": [
-    ""
+    "",
+    "kingdom",
+    "come",
+    "deliverance",
+    "sword",
+    "treasure",
+    "locations",
+    "castle",
+    "warriors",
+    "game",
+    "thrones",
+    "pirates",
+    "caribbean",
+    "guild",
+    "wars",
+    "felder",
+    "guga",
+    "lobato",
+    "https://www",
+    "bard",
+    "henrique",
+    "dld",
+    "character",
+    "demon",
+    "hunter",
+    "mikhail",
+    "palamarchuk",
+    "2020"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -924,
     "offset_y": -561,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -290,
     "offset_y": -224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -2,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

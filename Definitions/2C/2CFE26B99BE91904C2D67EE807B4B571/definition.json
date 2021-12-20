@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/originals/a0/44/6f/a0446f62f51e3bc7232ec92fa774a4dc.jpg",
   "md5": "2CFE26B99BE91904C2D67EE807B4B571",
   "tags": [
-    ""
+    "",
+    "lucio",
+    "fowoo",
+    "liu",
+    "donjon",
+    "de",
+    "la",
+    "liche",
+    "hugues",
+    "laroche"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -246,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -102,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -2,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,52 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "dark",
+    "iron",
+    "dwarf",
+    "armor",
+    "heritage",
+    "elf",
+    "demon",
+    "hunter",
+    "demons",
+    "knight",
+    "neptune",
+    "jason",
+    "nguyen",
+    "http://www.artstation.com/artwork/neptune-f51acd2e-2bd3",
+    "forest",
+    "man",
+    "faraz",
+    "shanyar",
+    "dungeons",
+    "dragons",
+    "frederick",
+    "cooper"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -70,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -32,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -60,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

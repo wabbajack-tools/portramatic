@@ -6,27 +6,53 @@
     "female",
     "knight",
     "Joan",
-    "d'Arc"
+    "d\u0027Arc",
+    "dragon",
+    "dungeons",
+    "dragons",
+    "concept",
+    "death",
+    "four",
+    "horsemen",
+    "demons",
+    "dark",
+    "night",
+    "elf",
+    "souls",
+    "anu",
+    "patten",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "warrior",
+    "jp",
+    "targete"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -438,
     "offset_y": -495,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -96,
     "offset_y": -234,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -2,
     "offset_y": -224,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "https://i.imgur.com/uaawugB.jpeg",
   "md5": "FC2E32C8F4B038EB1371F56A4E91E951",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "artwork",
+    "death",
+    "dealer",
+    "\u82F1\u7075\u6BBF\u5802-\u6355\u98DF\u80052-\u6BC5\u529B",
+    "cl",
+    "m",
+    "character",
+    "design",
+    "yunhao",
+    "zheng",
+    "warrior",
+    "concept",
+    "egyptian"
   ],
   "small": {
     "scale": 1,
     "offset_x": -359,
     "offset_y": -296,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -301,
     "offset_y": -286,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -80,
     "offset_y": -254,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

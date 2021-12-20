@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/d2/6f/50/d26f509ae0e2df38a4f32f37d190130c.jpg",
   "md5": "66EBE758B75553D73CAE8A6E635D2615",
   "tags": [
-    ""
+    "",
+    "male",
+    "orc",
+    "fighter",
+    "warrior",
+    "concept",
+    "cleric",
+    "alien",
+    "dark",
+    "elf",
+    "souls",
+    "angel",
+    "warhammer",
+    "40k",
+    "chiron",
+    "smite",
+    "fanart",
+    "dhaniels",
+    "castillo",
+    "carter",
+    "adair",
+    "samurai",
+    "artwork",
+    "ninja",
+    "redesign",
+    "de",
+    "krang",
+    "des",
+    "tortues",
+    "gwen"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -279,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -172,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.079999999999999,
     "offset_x": -250,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

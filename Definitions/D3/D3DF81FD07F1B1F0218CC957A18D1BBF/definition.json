@@ -2,25 +2,34 @@
   "source": "https://images.discerningassets.com/image/upload/c_fit,h_1000,w_1000/c_fit,fl_relative,h_1.0,l_deco_watermark,o_40,w_1.0/ar_5125:7250,c_fill/c_crop,h_0.9655172413793104,w_0.975609756097561,x_0,y_0.017241379310344827/v1484272301/Swamp_Thing_dj51pv.jpg",
   "md5": "D3DF81FD07F1B1F0218CC957A18D1BBF",
   "tags": [
-    ""
+    "",
+    "swamp",
+    "thing",
+    "covers",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -55,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -18,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

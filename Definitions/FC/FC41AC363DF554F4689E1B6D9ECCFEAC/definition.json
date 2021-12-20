@@ -5,27 +5,45 @@
     "outsider",
     "female",
     "warrior",
-    "dancer"
+    "dancer",
+    "arabic",
+    "belly",
+    "dancing",
+    "egyptian",
+    "dance",
+    "arabian",
+    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "couple_magiciangirl",
+    "tu",
+    "na"
   ],
   "small": {
     "scale": 0.6099999999999999,
     "offset_x": -676,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.411166666666666,
     "offset_x": -325,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4802499999999995,
     "offset_x": -348,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/originals/dd/31/45/dd31457bed7279c93a0ebb6e4a028dad.jpg",
   "md5": "31FBE4D0BFBB8B6B3A23BC22AFA9BC62",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "rpg",
+    "character",
+    "concept",
+    "minotaur",
+    "night",
+    "demons",
+    "condemned",
+    "brute",
+    "pascal",
+    "quidault",
+    "immortal",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "2020",
+    "warrior",
+    "solomon",
+    "kane",
+    "anton",
+    "tareev"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -626,
     "offset_y": -194,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -654,
     "offset_y": -215,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -896,
     "offset_y": -302,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

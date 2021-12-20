@@ -8,27 +8,34 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "fairies",
+    "faerie",
+    "token",
+    "magic"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -455,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -361,
     "offset_y": -164,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -556,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

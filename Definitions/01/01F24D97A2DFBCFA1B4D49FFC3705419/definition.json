@@ -19,27 +19,47 @@
     "sorcerer",
     "girl",
     "wizards",
-    "male"
+    "male",
+    "league",
+    "skins",
+    "ezreal",
+    "hecarim",
+    "legends",
+    "spooky",
+    "queen",
+    "chwa",
+    "matias",
+    "habert",
+    "kira",
+    "killer",
+    "kirill",
+    "gusarov",
+    "ysera",
+    "yaroslav",
+    "tarasenko"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -764,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -349,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -524,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

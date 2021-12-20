@@ -2,27 +2,49 @@
   "source": "https://pic2.zhimg.com/80/v2-626627e9e2832eff31ede0dc55f70a8d_720w.jpg",
   "md5": "217421195F8F99F421799ED1EE5C3BFB",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "female",
+    "monster",
+    "unknown",
+    "four",
+    "horsemen",
+    "dungeons",
+    "dragons",
+    "gorod",
+    "manthos",
+    "lappas",
+    "https://www.artstation.com/artwork/n5wnq5",
+    "dark",
+    "warrior",
+    "marina",
+    "lunina",
+    "https://www.artstation.com/artwork/3o1eea",
+    "https://cdna.artstation.com/p/assets/images/images/010/267/172/large/liebe-loss-01.jpg"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -340,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -112,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -25,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

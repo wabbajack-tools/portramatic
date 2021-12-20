@@ -4,27 +4,49 @@
   "tags": [
     "outsider",
     "female",
-    "archer"
+    "archer",
+    "geralt",
+    "gwent",
+    "card",
+    "ciri",
+    "roach",
+    "dota",
+    "battle",
+    "mid",
+    "stephen",
+    "stark",
+    "triss",
+    "telekinesis",
+    "lorenzo",
+    "mastroianni",
+    "witcher",
+    "jeu",
+    "les",
+    "arts",
+    "personnages"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -411.7999999999997,
     "offset_y": -216.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -259.19999999999976,
     "offset_y": -168.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -124.32407407407482,
     "offset_y": -41.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

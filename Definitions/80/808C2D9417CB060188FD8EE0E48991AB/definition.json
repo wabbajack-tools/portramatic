@@ -3,27 +3,50 @@
   "md5": "808C2D9417CB060188FD8EE0E48991AB",
   "tags": [
     "sexy",
-    "arab"
+    "arab",
+    "tiefling",
+    "image",
+    "mage",
+    "drawing",
+    "cara_whaler",
+    "girl",
+    "yun",
+    "du",
+    "white",
+    "horror",
+    "character",
+    "https://www.artstation.com/artwork/lvezrk",
+    "design",
+    "game",
+    "mordred",
+    "dmitriy",
+    "sizov",
+    "concept",
+    "characters",
+    "aesthetic"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -340,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -153,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -59,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

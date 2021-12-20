@@ -2,25 +2,58 @@
   "source": "https://wallpaperaccess.com/full/741547.jpg",
   "md5": "ADC581CDF930EFA7B1818C640C2A73EE",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "knight",
+    "templar",
+    "painting",
+    "horse",
+    "guild",
+    "wars",
+    "death",
+    "spartan",
+    "warrior",
+    "dark",
+    "skyrim",
+    "lord",
+    "rings",
+    "black",
+    "slayer",
+    "shuichi",
+    "wada",
+    "army",
+    "artem",
+    "khorchev",
+    "with",
+    "angelsworn",
+    "jon",
+    "wing"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -380,
     "offset_y": -39.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -290,
     "offset_y": -73.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -268,
     "offset_y": -33,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

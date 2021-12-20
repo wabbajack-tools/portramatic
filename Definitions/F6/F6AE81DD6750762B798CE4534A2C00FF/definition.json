@@ -4,27 +4,55 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "fighter",
+    "iconic",
+    "characters",
+    "character",
+    "illustrations",
+    "four",
+    "horsemen",
+    "reaper",
+    "souls",
+    "game",
+    "thrones",
+    "dark",
+    "elf",
+    "green",
+    "mage",
+    "konstantinos",
+    "skenteridis",
+    "dungeons",
+    "dragons",
+    "design",
+    "d\u0026d",
+    "drow",
+    "aethel",
+    "sara",
+    "hum"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -291,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -123,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -128,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

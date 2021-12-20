@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/9d/73/cf/9d73cf68da463c34b56bc33bc605f07e.jpg",
   "md5": "494CA7E662C9320708D9D868F68BB2C2",
   "tags": [
-    ""
+    "",
+    "jace",
+    "mtg",
+    "full",
+    "human",
+    "league",
+    "angels",
+    "anime",
+    "girl",
+    "death",
+    "knight",
+    "world",
+    "warcraft",
+    "rogue",
+    "night",
+    "elf",
+    "blood",
+    "fsdfsdf",
+    "god",
+    "open",
+    "https://www.artstation",
+    "lifeless",
+    "eyes",
+    "anthony",
+    "star",
+    "character",
+    "https://www.artstation.com/artwork/qpzmn",
+    "concept"
   ],
   "small": {
     "scale": 2.0200000000000005,
     "offset_x": -462,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -85,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -40,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

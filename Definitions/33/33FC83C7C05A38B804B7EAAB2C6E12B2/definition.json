@@ -11,27 +11,44 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "steampunk",
+    "plants",
+    "girly",
+    "letters",
+    "pencil",
+    "drawings",
+    "beautiful",
+    "mermaid",
+    "tail",
+    "noctis",
+    "lucian",
+    "king",
+    "tida",
+    "kietsungden"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -224.79999999999973,
     "offset_y": -276.6000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -139.19999999999976,
     "offset_y": -254.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -0.32407407407481514,
     "offset_y": -253.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,52 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "drow",
+    "noble",
+    "house",
+    "names",
+    "death",
+    "knight",
+    "star",
+    "wars",
+    "clone",
+    "armor",
+    "hiro",
+    "ome",
+    "garer",
+    "sci-fi",
+    "girl",
+    "svetlana",
+    "solnyshkina",
+    "dark",
+    "lucian",
+    "league",
+    "legends",
+    "fanart"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -380,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -162,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -128,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

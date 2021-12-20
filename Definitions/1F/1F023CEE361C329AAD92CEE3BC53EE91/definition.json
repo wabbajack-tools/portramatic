@@ -3,27 +3,50 @@
   "md5": "1F023CEE361C329AAD92CEE3BC53EE91",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "orcs",
+    "book",
+    "half-orc",
+    "warlord",
+    "morannon",
+    "marvel",
+    "comics",
+    "dc",
+    "spider-man",
+    "lobezno",
+    "wolverine",
+    "juanjo",
+    "lopez",
+    "comic",
+    "trade",
+    "miro",
+    "petrov",
+    "illustration",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -307,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -209,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -14,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

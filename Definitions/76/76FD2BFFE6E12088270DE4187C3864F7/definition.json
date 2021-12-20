@@ -3,27 +3,66 @@
   "md5": "76FD2BFFE6E12088270DE4187C3864F7",
   "tags": [
     "selene",
-    "underworld"
+    "underworld",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "dark",
+    "elf",
+    "death",
+    "skyrim",
+    "orcs",
+    "haracter",
+    "concept",
+    "for",
+    "\u0027iron",
+    "throne\u0027,mmo",
+    "strategy",
+    "game",
+    "hans",
+    "park",
+    "viking",
+    "zhuoxin",
+    "ye",
+    "2020",
+    "character",
+    "chaos",
+    "drive",
+    "mansik",
+    "yang",
+    "com",
+    "imagens",
+    "cyberpunk",
+    "personagem",
+    "samurai",
+    "rpg"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -261,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -113,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -18,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

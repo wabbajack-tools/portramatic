@@ -2,25 +2,51 @@
   "source": "https://static.wikia.nocookie.net/kingofkatanova/images/e/e1/Balgarath.jpg/revision/latest?cb=20150608210645",
   "md5": "CED1C960D2333D5E8F0DA49BD6F05E29",
   "tags": [
-    ""
+    "",
+    "wow",
+    "warlock",
+    "fan",
+    "orc",
+    "shaman",
+    "classic",
+    "orcs",
+    "spawn",
+    "jackson",
+    "caspersz",
+    "https://www.artstation.com/artwork/l2akx0",
+    "nile",
+    "order",
+    "batu",
+    "ince",
+    "evokers",
+    "lucifer",
+    "demon",
+    "pride",
+    "joshua",
+    "raphael"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -317,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -170,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -82,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

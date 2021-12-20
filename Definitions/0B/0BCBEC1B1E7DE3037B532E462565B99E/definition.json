@@ -11,27 +11,58 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "female",
+    "fighter",
+    "character",
+    "rpg",
+    "pirate",
+    "zombie",
+    "costumes",
+    "halloween",
+    "samurai",
+    "armor",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sangmok",
+    "00",
+    "\u2013",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "barbarian",
+    "niki",
+    "vaszi",
+    "@@",
+    "\u517B",
+    "\u6CB9\u83DC"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -186.79999999999973,
     "offset_y": -13.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -67.19999999999976,
     "offset_y": -12.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2099999999999964,
     "offset_x": -16.324074074074815,
     "offset_y": -33.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

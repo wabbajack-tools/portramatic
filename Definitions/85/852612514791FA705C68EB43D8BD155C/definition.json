@@ -2,27 +2,53 @@
   "source": "https://staticdelivery.nexusmods.com/images/2607/1152573-1595664060.jpg",
   "md5": "852612514791FA705C68EB43D8BD155C",
   "tags": [
-    "Octavia"
+    "Octavia",
+    "kingmaker",
+    "characters",
+    "valerie",
+    "linzi",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "juliana",
+    "wilhelm",
+    "https://www.artstation.com/artwork/ymyq6",
+    "dr.",
+    "jekyll",
+    "mr.",
+    "hyde",
+    "sperasoft",
+    "studio",
+    "concept",
+    "character"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -203,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -84,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

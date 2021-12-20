@@ -1,34 +1,44 @@
 {
-  "source": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t31.18172-8/16700358_388175381538857_6627146095994616516_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=dbeb18&_nc_ohc=BlPGyU519RwAX-O_G1X&_nc_ht=scontent.fhkg4-1.fna&oh=00_AT-5qs_npPt3a_OWX0Ug9Dhyp3uL6-kjHYZfh4IGBQK0ZA&oe=61E56961",
+  "source": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t31.18172-8/16700358_388175381538857_6627146095994616516_o.jpg?_nc_cat=108\u0026ccb=1-5\u0026_nc_sid=dbeb18\u0026_nc_ohc=BlPGyU519RwAX-O_G1X\u0026_nc_ht=scontent.fhkg4-1.fna\u0026oh=00_AT-5qs_npPt3a_OWX0Ug9Dhyp3uL6-kjHYZfh4IGBQK0ZA\u0026oe=61E56961",
   "md5": "3DB2661EEDB9EBB98BD8063CFED3C75F",
   "tags": [
     "dark",
-    "star&cosmic",
+    "star\u0026cosmic",
     "lux",
     "splash",
     "bo",
     "chen",
-    "cosmic"
+    "cosmic",
+    "cosplay",
+    "wedding",
+    "dress",
+    "anime",
+    "white",
+    "ram",
+    "girl"
   ],
   "small": {
     "scale": 0.26033333333333275,
     "offset_x": -95.20000000000084,
     "offset_y": -35.199999999999875,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24633333333333263,
     "offset_x": -14.399999999999011,
     "offset_y": -15.200000000000102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -67.27777777777783,
     "offset_y": -89.70370370370358,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

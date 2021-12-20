@@ -5,27 +5,52 @@
     "lord",
     "rings",
     "aragorn",
-    "tavern"
+    "tavern",
+    "capricorn",
+    "tattoo",
+    "zodiac",
+    "anime",
+    "constellation",
+    "dungeons",
+    "dragons",
+    "black",
+    "dragon",
+    "brad",
+    "rigney",
+    "concept",
+    "monster",
+    "alien",
+    "diablo",
+    "brinis",
+    "yacine",
+    "beat",
+    "out",
+    "hatered",
+    "musketeer",
+    "studio"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -812.6000000000008,
     "offset_y": -158.80000000000098,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -285.59999999999997,
     "offset_y": -0.6000000000000227,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -927.4722222222223,
     "offset_y": -47.62962962962979,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

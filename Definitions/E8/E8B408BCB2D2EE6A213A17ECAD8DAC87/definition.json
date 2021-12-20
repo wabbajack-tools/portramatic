@@ -5,27 +5,49 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "dynasty",
+    "warriors",
+    "armor",
+    "sets",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "knight",
+    "sen",
+    "baek",
+    "\u3002\u3002\u3002",
+    "chen",
+    "sihan",
+    "a",
+    "man",
+    "un",
+    "chat",
+    "noir"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -798,
     "offset_y": -336,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6115833333333327,
     "offset_x": -398,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6219999999999992,
     "offset_x": -204,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

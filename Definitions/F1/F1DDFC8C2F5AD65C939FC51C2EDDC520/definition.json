@@ -4,27 +4,58 @@
   "tags": [
     "tiefling",
     "male",
-    "druid"
+    "druid",
+    "sitri",
+    "demon",
+    "goetia",
+    "spirits",
+    "marchosias",
+    "mughal",
+    "dungeons",
+    "dragons",
+    "raven",
+    "daniel",
+    "kamarudin",
+    "character",
+    "dc",
+    "comics",
+    "\u706B\u9E21",
+    "w.",
+    "z",
+    "scifi",
+    "dark",
+    "concept",
+    "characters",
+    "les",
+    "fleurs",
+    "du",
+    "mal",
+    "detail",
+    "yoann",
+    "lossel"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -304,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -106,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -46,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

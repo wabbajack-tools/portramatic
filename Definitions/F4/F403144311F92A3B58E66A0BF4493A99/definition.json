@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/ce/87/24/ce8724fc8ccf7c7048fdfd995c1565e8.jpg",
   "md5": "F403144311F92A3B58E66A0BF4493A99",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "character",
+    "artwork",
+    "knight",
+    "armor",
+    "heavy",
+    "female",
+    "assassin",
+    "dark",
+    "knights",
+    "black",
+    "rogue",
+    "soldiers",
+    "lian",
+    "zhen",
+    "wei",
+    "marina",
+    "mosolova",
+    "rpg",
+    "male",
+    "roach",
+    "lp",
+    "ysg",
+    "historical",
+    "samurai",
+    "gear"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -487,
     "offset_y": -260,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -224,
     "offset_y": -175,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

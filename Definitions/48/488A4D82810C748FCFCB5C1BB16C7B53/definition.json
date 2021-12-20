@@ -6,27 +6,44 @@
     "female",
     "dancer",
     "mage",
-    "warrior"
+    "warrior",
+    "lee",
+    "seung",
+    "gi",
+    "movies",
+    "ki",
+    "min",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -528.7999999999997,
     "offset_y": -36.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24016666666666597,
     "offset_x": -250.19999999999982,
     "offset_y": -1.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4713333333333327,
     "offset_x": -430.3240740740748,
     "offset_y": 88.3981481481473,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

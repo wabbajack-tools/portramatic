@@ -11,27 +11,56 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "elf",
+    "ranger",
+    "male",
+    "dungeons",
+    "dragons",
+    "wood",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "dark",
+    "orcs",
+    "zhihui",
+    "su",
+    "character",
+    "tabaxi",
+    "shadow",
+    "sorcerer",
+    "hound",
+    "ill",
+    "omen",
+    "vanguard",
+    "shane",
+    "walters",
+    "2020",
+    "beast"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -262.7999999999997,
     "offset_y": -215.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -67.19999999999976,
     "offset_y": -130.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -32.324074074074815,
     "offset_y": -73.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

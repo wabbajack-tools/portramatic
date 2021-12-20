@@ -4,27 +4,43 @@
   "tags": [
     "tiefling",
     "monk",
-    "rouge"
+    "rouge",
+    "female",
+    "male",
+    "tomoe",
+    "\u0022shogunate",
+    "feudal",
+    "japan\u0022",
+    "challenge",
+    "half-length",
+    "sure",
+    "wang",
+    "woman",
+    "soldier",
+    "xiao"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -292,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -366,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -338,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

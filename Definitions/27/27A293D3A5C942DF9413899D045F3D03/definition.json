@@ -5,27 +5,59 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "anime",
+    "girl",
+    "cute",
+    "sword",
+    "with",
+    "white",
+    "hair",
+    "character",
+    "holding",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "pin",
+    "ramadhan",
+    "inspirasi",
+    "ide",
+    "concept",
+    "design",
+    "exercise11",
+    "peirong",
+    "huang",
+    "inspiration",
+    "dark",
+    "knight",
+    "dahye",
+    "choi",
+    "2021"
   ],
   "small": {
     "scale": 1.7100000000000006,
     "offset_x": -895.7999999999997,
     "offset_y": -290.6000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -406.19999999999976,
     "offset_y": -97.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -124.32407407407482,
     "offset_y": -1.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

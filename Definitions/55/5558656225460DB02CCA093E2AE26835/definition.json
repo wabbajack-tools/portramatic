@@ -2,27 +2,35 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eeae53d5-f666-4d9d-bf70-9696b5e10d30/ddtzx95-1ac798c2-e017-4265-8cfa-6fda3cd1d400.jpg/v1/fill/w_1920,h_1162,q_75,strp/battle_sister_by_yangzheyy_ddtzx95-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE2MiIsInBhdGgiOiJcL2ZcL2VlYWU1M2Q1LWY2NjYtNGQ5ZC1iZjcwLTk2OTZiNWUxMGQzMFwvZGR0eng5NS0xYWM3OThjMi1lMDE3LTQyNjUtOGNmYS02ZmRhM2NkMWQ0MDAuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vA1xWmbrGVTnxh0uqvD9HelPSAkc98aZkTB9bVhyMuE",
   "md5": "5558656225460DB02CCA093E2AE26835",
   "tags": [
-    ""
+    "",
+    "erebus",
+    "god",
+    "greek",
+    "warhammer",
+    "40k"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -827.4285714285727,
     "offset_y": -39.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -459.42857142857133,
     "offset_y": -21.714285714285666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -840.0000000000002,
     "offset_y": -25.142857142856656,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

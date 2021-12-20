@@ -2,27 +2,45 @@
   "source": "https://i.imgur.com/q9dmEdx.jpeg",
   "md5": "3DC2D6E47DD94B5708BD063B00DBF0FB",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "death",
+    "dealer",
+    "conan",
+    "barbarian",
+    "dragons",
+    "vikings",
+    "grom",
+    "hellscream",
+    "yunhao",
+    "zheng",
+    "2020"
   ],
   "small": {
     "scale": 1,
     "offset_x": -378,
     "offset_y": -181,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -312,
     "offset_y": -170,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -72,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,39 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/039/310/505/large/feng-wei-c12-.jpg?1625548839",
   "md5": "E8A919B28E54CD5CB533C6BB14F34B6B",
   "tags": [
-    ""
+    "",
+    "legend",
+    "king",
+    "arthur",
+    "challenge",
+    "zhengyi",
+    "chainsaw",
+    "zsolt",
+    "ekho",
+    "farkas"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -553,
     "offset_y": -348,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -216,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -76,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

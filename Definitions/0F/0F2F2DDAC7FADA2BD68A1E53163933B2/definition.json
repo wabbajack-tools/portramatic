@@ -4,27 +4,58 @@
   "tags": [
     "blonde",
     "female",
-    "knight"
+    "knight",
+    "anime",
+    "girl",
+    "beauty",
+    "illustration",
+    "manga",
+    "death",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "night",
+    "blood",
+    "orc",
+    "warrior",
+    "sunghoon",
+    "hong",
+    "fate",
+    "grand",
+    "order",
+    "fanart",
+    "yang",
+    "guifei",
+    "noiar",
+    "chen",
+    "crow",
+    "samurai",
+    "joseph",
+    "lin"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -227,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -137,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -92,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

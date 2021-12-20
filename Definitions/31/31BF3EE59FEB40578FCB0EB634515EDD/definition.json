@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/fv0LUgd.jpeg",
   "md5": "31BF3EE59FEB40578FCB0EB634515EDD",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shinobi",
+    "for",
+    "honor",
+    "erik",
+    "ly",
+    "14",
+    "tg",
+    "zhangshuai",
+    "artwork",
+    "zelda",
+    "characters",
+    "samurai",
+    "sebastian",
+    "vranceanu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -242,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -166,
     "offset_y": -222,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 26,
     "offset_y": 100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/originals/9f/f3/83/9ff383c75abecdc5a2859ffbb392035c.jpg",
   "md5": "DC3063A2739B0093FFF912AF7FF600C0",
   "tags": [
-    ""
+    "",
+    "kingdom",
+    "come",
+    "deliverance",
+    "sword",
+    "gameplay",
+    "hairstyles",
+    "napoleonic",
+    "wars",
+    "death",
+    "korps",
+    "krieg",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 1,
     "offset_x": -203,
     "offset_y": -280,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -111,
     "offset_y": -269,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -28,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

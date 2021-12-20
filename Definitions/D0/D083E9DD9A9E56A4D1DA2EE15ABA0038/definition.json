@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/ab/18/97/ab1897c4ee46ed22cb2c397170a88a0a.png",
   "md5": "D083E9DD9A9E56A4D1DA2EE15ABA0038",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "brotherhood",
+    "steel",
+    "elf",
+    "demon",
+    "league",
+    "legends",
+    "night",
+    "boba",
+    "fett",
+    "bounty",
+    "hunter",
+    "star",
+    "wars",
+    "villains",
+    "science",
+    "fiction",
+    "1061x1500",
+    "across",
+    "forest",
+    "feng",
+    "tiancheng",
+    "20",
+    "alexey",
+    "anikin"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -220.66666666666666,
     "offset_y": -36.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

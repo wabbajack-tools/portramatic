@@ -5,27 +5,45 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    "counties",
+    "italy/spain",
+    "anastasia",
+    "bulgakova",
+    "with",
+    "knight",
+    "\u3001",
+    "master\u0027s",
+    "sword\u3001",
+    "\u4E09\u5C11\u7237\u7684\u5251\u3001\u624B\u6E38\u624B\u7ED8\u89D2\u8272",
+    "gao",
+    "song",
+    "girl~",
+    "taejun",
+    "kim"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -487,
     "offset_y": -427,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7315833333333328,
     "offset_x": -275,
     "offset_y": -264,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9817499999999997,
     "offset_x": -226,
     "offset_y": -382,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

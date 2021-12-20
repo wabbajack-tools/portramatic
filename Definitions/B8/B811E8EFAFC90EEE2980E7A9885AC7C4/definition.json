@@ -8,27 +8,46 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "jace",
+    "x",
+    "deck",
+    "haunted",
+    "mansion",
+    "into",
+    "woods",
+    "saints",
+    "cosmas",
+    "damian",
+    "hobbit",
+    "vampyr",
+    "florent",
+    "auguy",
+    "gothic",
+    "characters"
   ],
   "small": {
     "scale": 1.7300000000000006,
     "offset_x": -696,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5500000000000005,
     "offset_x": -540,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.50999999999999,
     "offset_x": -774,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

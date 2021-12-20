@@ -2,25 +2,51 @@
   "source": "https://i.redd.it/rl1r0x6shu371.jpg",
   "md5": "F1AC25B7C3C911005E6D81609D3A638B",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "temerian",
+    "scout",
+    "maureen",
+    "\u0027ibealia\u0027",
+    "caudron",
+    "https://www.artstation.com/artwork",
+    "war",
+    "council",
+    "sebastian",
+    "schmidt",
+    "warhammer",
+    "40k",
+    "artwork",
+    "mindheart",
+    "patricio",
+    "clarey",
+    "digital",
+    "artists",
+    "comic"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -414,
     "offset_y": -372,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -331,
     "offset_y": -370,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -266,
     "offset_y": -393,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

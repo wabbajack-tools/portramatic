@@ -2,27 +2,46 @@
   "source": "https://get.wallhere.com/photo/illustration-video-games-fantasy-art-fantasy-girl-anime-horns-World-of-Warcraft-demon-jungle-comics-mythology-succubus-screenshot-fictional-character-woman-warrior-350384.jpg",
   "md5": "DCCA785B2DC8B9226610896A30FF1D11",
   "tags": [
-    ""
+    "",
+    "wow",
+    "demons",
+    "warcraft",
+    "warlock",
+    "night",
+    "elf",
+    "demon",
+    "hunter",
+    "blood",
+    "broly",
+    "2018",
+    "false",
+    "super",
+    "saiyan",
+    "alexander",
+    "phillips"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -661.6000000000008,
     "offset_y": -52.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -343.2000000000001,
     "offset_y": -0.7999999999999545,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -531.8148148148152,
     "offset_y": -1.6018518518519613,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

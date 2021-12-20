@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/56/42/55/564255014e9887f70be5ee14cda069a3.jpg",
   "md5": "B63FF1D263855474B544D9CB52E83698",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "fallen",
+    "evil",
+    "orc",
+    "dungeons",
+    "dragons",
+    "conan",
+    "barbarian",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork",
+    "crimson",
+    "jason",
+    "giraldo",
+    "hunger",
+    "luka",
+    "brico"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -258,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -116,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -92,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

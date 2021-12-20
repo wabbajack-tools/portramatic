@@ -19,7 +19,7 @@
     "random",
     "sketch",
     "und",
-    "unveröffentlichte",
+    "unver\uFFFDffentlichte",
     "art.",
     "jeremy",
     "chong",
@@ -36,27 +36,46 @@
     "bat",
     "knight",
     "yoo",
-    "kyoungmin"
+    "kyoungmin",
+    "league",
+    "legends",
+    "female",
+    "warlock",
+    "kim",
+    "herbst",
+    "\u6697\u591C\u5973\u738B",
+    "yuanyuan",
+    "wang",
+    "2020",
+    "\u0022the",
+    "lich",
+    "king\u0022",
+    "edgar",
+    "s\u00E1nchez",
+    "hidalgo"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -261,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -133,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -86,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

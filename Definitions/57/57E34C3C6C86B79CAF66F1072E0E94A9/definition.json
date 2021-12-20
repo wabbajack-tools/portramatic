@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/bb/e5/41/bbe541ea0c1ff379852fcb6f173b3d78.jpg",
   "md5": "57E34C3C6C86B79CAF66F1072E0E94A9",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "man",
+    "character",
+    "orc",
+    "warrior",
+    "knight",
+    "armor",
+    "armors",
+    "vikings",
+    "hobbit",
+    "battle",
+    "five",
+    "armies",
+    "hero",
+    "orcs",
+    "m",
+    "fighter",
+    "platemail",
+    "hande",
+    "sword",
+    "dark",
+    "hunter",
+    "\u3147\u3147",
+    "joo",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -582,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -517,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -330,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

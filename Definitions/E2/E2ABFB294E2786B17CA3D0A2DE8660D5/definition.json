@@ -2,27 +2,48 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/028/417/110/large/mam-ba-01.jpg?15944051027",
   "md5": "E2ABFB294E2786B17CA3D0A2DE8660D5",
   "tags": [
-    ""
+    "",
+    "female",
+    "pirate",
+    "wandering",
+    "artists",
+    "anthony",
+    "star",
+    "bard",
+    "character",
+    "design",
+    "\u5251\u5BA2",
+    "\uFF08swordsman\uFF09",
+    "chengtao",
+    "ma",
+    "bone",
+    "warrior",
+    "version",
+    "n2",
+    "chinz"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -461,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -246,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -84,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/736x/3c/6c/16/3c6c16260810d71d51188a2e25f416ec.jpg",
   "md5": "23DA99464104E3FD3EE8DCDF4E52D9D5",
   "tags": [
-    ""
+    "",
+    "dark",
+    "gothic",
+    "witch",
+    "anime",
+    "artwork",
+    "league",
+    "legends",
+    "world",
+    "warcraft",
+    "rogue",
+    "broom",
+    "halloween",
+    "wallpapers",
+    "elven",
+    "gold",
+    "timelapse",
+    "ashley",
+    "a.",
+    "adams",
+    "https://www.artstation.com/artwork",
+    "spider_man",
+    "veronika",
+    "kozlova"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -240,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -179,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.269999999999995,
     "offset_x": -452,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

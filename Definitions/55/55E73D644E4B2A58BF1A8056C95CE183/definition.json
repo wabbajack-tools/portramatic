@@ -27,27 +27,43 @@
     "moth",
     "svetlana",
     "tebyakina",
-    "https://www"
+    "https://www",
+    "jacket",
+    "vagabond",
+    "dongho",
+    "kang",
+    "portraits",
+    "cyril",
+    "angelica",
+    "donarini",
+    "warhammer",
+    "online\uFF082009\uFF09",
+    "ji",
+    "zhang",
+    "2020"
   ],
   "small": {
     "scale": 0.5599999999999883,
     "offset_x": -214.79999999999825,
     "offset_y": -81.20000000000027,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -73.80000000000013,
     "offset_y": -65.00000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -33.99999999999932,
     "offset_y": -81.61111111111131,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

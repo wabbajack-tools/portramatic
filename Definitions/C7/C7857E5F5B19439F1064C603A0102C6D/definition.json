@@ -16,27 +16,39 @@
     "moto",
     "hachiya",
     "anime",
-    "image"
+    "image",
+    "league",
+    "legends",
+    "manga",
+    "studio",
+    "cyber",
+    "animation",
+    "\u65CB\u98CE\u9F99\u5377\u817F",
+    "\u9EC4",
+    "\u94A6"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -186.00000000000023,
     "offset_y": -133.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -36.99999999999994,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": 45.33333333333326,
     "offset_y": -181.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

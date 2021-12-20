@@ -4,27 +4,45 @@
   "tags": [
     "elf",
     "female",
-    "archer"
+    "archer",
+    "eve",
+    "artist",
+    "ventrue",
+    "vampire",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "waldelfe",
+    "character",
+    "attendere",
+    "olya",
+    "bossak",
+    "artwork"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -656,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -317,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1796666666666669,
     "offset_x": -324,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

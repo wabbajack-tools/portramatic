@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/Eq4UJp6VQAIpe0k?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/Eq4UJp6VQAIpe0k?format=jpg\u0026name=medium",
   "md5": "215F49588CE9DB002A830903FBB8CE9D",
   "tags": [
     "male",
@@ -18,27 +18,39 @@
     "color",
     "study",
     "andrea",
-    "mazziotti"
+    "mazziotti",
+    "animes",
+    "anime",
+    "girl",
+    "guys",
+    "inuyasha",
+    "fate",
+    "stay",
+    "night",
+    "kagome"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -22,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -6,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

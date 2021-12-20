@@ -4,27 +4,43 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "viking",
+    "woman",
+    "drawing",
+    "with",
+    "sword",
+    "black",
+    "haired",
+    "knight",
+    "bride",
+    "witch",
+    "ricardo",
+    "ow",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -863,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -489,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999998,
     "offset_x": -792,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

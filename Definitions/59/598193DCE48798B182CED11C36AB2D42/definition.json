@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/ae/78/13/ae78133d42a93f0911c29662fa0f963f.jpg",
   "md5": "598193DCE48798B182CED11C36AB2D42",
   "tags": [
-    ""
+    "",
+    "skeleton",
+    "concept",
+    "undead",
+    "warrior",
+    "evil",
+    "warriors",
+    "world",
+    "warcraft",
+    "rogue",
+    "demon",
+    "hunter",
+    "thresh",
+    "fanart",
+    "\u0161\u00E1rka",
+    "\u0161.",
+    "claina",
+    "2021",
+    "death",
+    "jonas",
+    "jakobsson",
+    "orcs",
+    "sam",
+    "hu"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -445,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -219,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

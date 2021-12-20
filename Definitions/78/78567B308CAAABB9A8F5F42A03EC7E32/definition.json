@@ -6,27 +6,52 @@
     "male",
     "bard",
     "warrior",
-    "rogue"
+    "rogue",
+    "character",
+    "portraits",
+    "orc",
+    "witcher",
+    "elder",
+    "scrolls",
+    "online",
+    "orcs",
+    "hjalmar",
+    "anthony",
+    "star",
+    "gwent",
+    "card",
+    "game",
+    "golyat",
+    "bryan",
+    "sola",
+    "griffin",
+    "archer",
+    "hunter",
+    "schulz",
+    "concept"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -542.5,
     "offset_y": -215,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -283.5,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -201,
     "offset_y": -25,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

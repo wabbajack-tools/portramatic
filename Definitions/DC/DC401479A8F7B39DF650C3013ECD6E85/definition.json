@@ -2,27 +2,35 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2b13d6f-0ee1-46aa-bfa4-2c577de5a370/d8204y4-a81fae5a-2f9d-4d54-b56e-6dd6caaa8f84.jpg/v1/fill/w_1024,h_768,q_75,strp/vampire_of_the_domain__magic_the_gathering_by_jason_felix-d8204y4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9iMmIxM2Q2Zi0wZWUxLTQ2YWEtYmZhNC0yYzU3N2RlNWEzNzAvZDgyMDR5NC1hODFmYWU1YS0yZjlkLTRkNTQtYjU2ZS02ZGQ2Y2FhYThmODQuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTc2OCJ9XV19.muNtQ2TIA2u5_5aHDKoj-kIISI-icYIBB1LRbZhlOM4",
   "md5": "DC401479A8F7B39DF650C3013ECD6E85",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "red",
+    "vampire",
+    "black",
+    "cards"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -214,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -109,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -86,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

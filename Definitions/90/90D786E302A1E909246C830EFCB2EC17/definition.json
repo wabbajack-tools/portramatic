@@ -11,27 +11,51 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "anime",
+    "angel",
+    "warrior",
+    "princess",
+    "female",
+    "guardian",
+    "demon",
+    "kratos",
+    "dragon",
+    "mother",
+    "hongqi",
+    "zhang",
+    "https://www",
+    "smite",
+    "heimdallr",
+    "vigilant",
+    "nathaniel",
+    "morning",
+    "ride",
+    "graham",
+    "lefroy"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -252.79999999999973,
     "offset_y": -316.6000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -80.19999999999976,
     "offset_y": -236.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -14.324074074074815,
     "offset_y": -301.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

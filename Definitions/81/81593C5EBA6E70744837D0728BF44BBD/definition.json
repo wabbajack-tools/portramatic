@@ -1,28 +1,36 @@
 {
-  "source": "https://external-preview.redd.it/zXI-VYOa5CY9G15nQNLSS5P_MA0dc4MWk6EKZmcDiIU.jpg?auto=webp&s=451cbca59791657ac8ae8f7572a9ef1c07be7cc8",
+  "source": "https://external-preview.redd.it/zXI-VYOa5CY9G15nQNLSS5P_MA0dc4MWk6EKZmcDiIU.jpg?auto=webp\u0026s=451cbca59791657ac8ae8f7572a9ef1c07be7cc8",
   "md5": "81593C5EBA6E70744837D0728BF44BBD",
   "tags": [
-    ""
+    "",
+    "steampunk",
+    "cyborg",
+    "character",
+    "ideas",
+    "male"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -240,
     "offset_y": -155,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2099999999999993,
     "offset_x": -27,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -6,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

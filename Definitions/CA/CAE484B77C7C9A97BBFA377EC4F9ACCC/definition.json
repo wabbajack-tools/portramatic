@@ -2,25 +2,43 @@
   "source": "https://i.pinimg.com/564x/22/d8/72/22d872b47999db464df6ffc2e2b5a55a.jpg",
   "md5": "CAE484B77C7C9A97BBFA377EC4F9ACCC",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "female",
+    "assassin",
+    "bleach",
+    "fate",
+    "stay",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dress_shoes"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -333.6,
     "offset_y": -46.400000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -177.59999999999997,
     "offset_y": -20.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

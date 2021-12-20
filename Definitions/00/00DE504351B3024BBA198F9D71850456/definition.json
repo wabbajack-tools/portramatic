@@ -5,27 +5,63 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "photos",
+    "woman",
+    "character",
+    "concept",
+    "pirate",
+    "game",
+    "thrones",
+    "works138",
+    "song",
+    "nan",
+    "li",
+    "#artstation",
+    "#fantasy",
+    "#li",
+    "#nan",
+    "#s",
+    "2020",
+    "hayvan",
+    "duvar",
+    "not",
+    "one",
+    "step",
+    "back",
+    "rkka",
+    "batalion",
+    "commissar",
+    "dmitry",
+    "bezrodniy",
+    "dieselpunk",
+    "armour",
+    "zsoka",
+    "nelli",
+    "erdelyi"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -369,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999954,
     "offset_x": -194,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999996,
     "offset_x": -70,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

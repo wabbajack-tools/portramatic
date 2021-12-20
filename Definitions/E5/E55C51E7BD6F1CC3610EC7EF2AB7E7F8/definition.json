@@ -5,27 +5,36 @@
     "elf",
     "female",
     "mage",
-    "princess"
+    "princess",
+    "beautiful",
+    "fairy",
+    "girl",
+    "pretty",
+    "woman",
+    "artwork"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -234.5,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999993,
     "offset_x": -131.5,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999998,
     "offset_x": -251,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

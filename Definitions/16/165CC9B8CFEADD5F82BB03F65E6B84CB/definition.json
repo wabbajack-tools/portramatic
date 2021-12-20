@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/1200x/96/ee/f0/96eef0024743de82adcfc63277cc1cd0.jpg",
   "md5": "165CC9B8CFEADD5F82BB03F65E6B84CB",
   "tags": [
-    ""
+    "",
+    "characters",
+    "game",
+    "thrones",
+    "pencil",
+    "drawings",
+    "book",
+    "witcher",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.15999999999999925,
     "offset_x": -2,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": 0,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -10,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

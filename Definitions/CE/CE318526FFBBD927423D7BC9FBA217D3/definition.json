@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/564x/58/3c/e1/583ce1f2df967f157c60e60a5f51a66a.jpg",
   "md5": "CE318526FFBBD927423D7BC9FBA217D3",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "suit",
+    "armor",
+    "body",
+    "daedric",
+    "heavy",
+    "black",
+    "assassin\u0027s",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "combat",
+    "hazmat/stealth",
+    "thiago",
+    "macedo",
+    "designs",
+    "illedgable",
+    "pinterest",
+    "robot",
+    "sushil",
+    "pawar",
+    "futuristic",
+    "armour",
+    "tactical",
+    "orc",
+    "fun",
+    "andrew",
+    "\u0022boog\u0022",
+    "faithfull"
   ],
   "small": {
     "scale": 1,
     "offset_x": -185.33333333333331,
     "offset_y": -13.333333333333485,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104.00000000000034,
     "offset_y": -14.666666666666742,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 67.99999999999977,
     "offset_y": -5.333333333333087,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

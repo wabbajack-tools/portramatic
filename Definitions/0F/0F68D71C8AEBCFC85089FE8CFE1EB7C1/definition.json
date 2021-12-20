@@ -2,25 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/000/110/047/large/xiaodi-jin-.jpg?1443931496",
   "md5": "0F68D71C8AEBCFC85089FE8CFE1EB7C1",
   "tags": [
-    ""
+    "",
+    "class",
+    "characters",
+    "mystic",
+    "night",
+    "demons",
+    "dungeons",
+    "dragons",
+    "warlock",
+    "kirill",
+    "stepanov",
+    "https://www.artstation.com/artwork/b1kxbd",
+    "warcraft",
+    "dragon\u0027s",
+    "gift",
+    "jeremy",
+    "chong",
+    "2020",
+    "epic",
+    "dragon",
+    "rpg",
+    "big",
+    "dump",
+    "caio",
+    "monteiro"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -557,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -138,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -74,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

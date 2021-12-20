@@ -2,27 +2,58 @@
   "source": "https://i.imgur.com/hX5ejjv.jpeg",
   "md5": "84C8CA044A49639F1D71E75B16612A3F",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "concept",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "ancient",
+    "monkey",
+    "king",
+    "pt",
+    "tacit",
+    "sign",
+    "studio",
+    "dungeons",
+    "dragons",
+    "adventurer",
+    "d\u0026d",
+    "character",
+    "dai",
+    "nguyen",
+    "portraits",
+    "d",
+    "characters",
+    "paladin",
+    "eugene",
+    "rudakov",
+    "design"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -462,
     "offset_y": -229,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -278,
     "offset_y": -187,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -24,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

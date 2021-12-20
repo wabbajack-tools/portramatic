@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/89/55/b1/8955b14a0260630175d6a2608bbfd7c5.jpg",
   "md5": "685EF0F77A30F8BA6856D81776D3AA1E",
   "tags": [
-    ""
+    "",
+    "dwarven",
+    "king",
+    "warhammer",
+    "dwarf",
+    "artwork",
+    "passion",
+    "christ",
+    "wizard",
+    "oz",
+    "lord",
+    "rings",
+    "cowardly",
+    "lion",
+    "pictures",
+    "jesus",
+    "hobbit",
+    "ivan",
+    "stan",
+    "painting",
+    "murat",
+    "g\u00FCl",
+    "https://www.artstation",
+    "feng",
+    "guo"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": 0,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -6,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

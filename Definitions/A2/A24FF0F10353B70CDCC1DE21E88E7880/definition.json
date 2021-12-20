@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/originals/1c/d4/78/1cd478b2cbfdc6d54b2ae3c41bb65677.jpg",
   "md5": "A24FF0F10353B70CDCC1DE21E88E7880",
   "tags": [
-    "oread"
+    "oread",
+    "kratos",
+    "greek",
+    "gods",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -261,
     "offset_y": -372,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -5,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -10,
     "offset_y": -188,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

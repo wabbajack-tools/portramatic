@@ -11,27 +11,48 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "world",
+    "warcraft",
+    "pictures",
+    "woman",
+    "horde",
+    "characters",
+    "marvel",
+    "comics",
+    "lina",
+    "puppet",
+    "wj",
+    "women",
+    "dark",
+    "3rd",
+    "wedding",
+    "anniversary",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -263.7999999999997,
     "offset_y": -52.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -109.19999999999976,
     "offset_y": -33.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -20.324074074074815,
     "offset_y": -5.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

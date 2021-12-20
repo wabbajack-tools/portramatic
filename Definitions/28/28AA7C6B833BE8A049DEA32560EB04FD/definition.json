@@ -9,27 +9,57 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "dragon",
+    "awaken",
+    "game",
+    "blue",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "lady",
+    "punisher",
+    "reivash",
+    ".art",
+    "wonder",
+    "woman",
+    "superhero",
+    "katarina",
+    "star",
+    "yultuzay",
+    "https://www.artstation.com/artwork/rmdke",
+    "lol",
+    "league",
+    "\u6781\u6B66\u5723",
+    "liujiang",
+    "jin"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -323,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -106,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9000000000000004,
     "offset_x": -200,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

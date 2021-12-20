@@ -5,27 +5,47 @@
     "sun",
     "khamunaki",
     "red",
-    "sonja"
+    "sonja",
+    "elementalist",
+    "lux",
+    "elements",
+    "form",
+    "combinations",
+    "lol",
+    "\u3010star",
+    "guardian",
+    "xayah",
+    "vk_wenqi",
+    "owo",
+    "concept",
+    "character",
+    "design",
+    "for",
+    "breakaway",
+    "game"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -232,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -131,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -22,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

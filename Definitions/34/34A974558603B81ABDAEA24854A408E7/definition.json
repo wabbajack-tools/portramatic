@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/9b/e5/2d/9be52df6cb162f392df2dabee0f3d4ce.jpg",
   "md5": "34A974558603B81ABDAEA24854A408E7",
   "tags": [
-    ""
+    "",
+    "christian",
+    "knights",
+    "templar",
+    "black",
+    "clip",
+    "body",
+    "armor",
+    "conan",
+    "barbarian"
   ],
   "small": {
     "scale": 1.7200000000000006,
     "offset_x": -429,
     "offset_y": -371,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -194,
     "offset_y": -245,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -6,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

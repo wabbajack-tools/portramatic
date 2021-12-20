@@ -2,27 +2,41 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2017/04/Nissa-Steward-of-Elements-Amonkhet-MtG-Art.jpg",
   "md5": "0A5A1A5E3EBC8533CB6374206A3B4392",
   "tags": [
-    ""
+    "",
+    "nissa",
+    "mtg",
+    "fan",
+    "planeswalker",
+    "revane",
+    "greek",
+    "gods",
+    "action",
+    "economy",
+    "james",
+    "esquivel"
   ],
   "small": {
     "scale": 1,
     "offset_x": -332.7999999999986,
     "offset_y": -136.00000000000117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -264.00000000000176,
     "offset_y": -103.99999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -65.67592592592678,
-    "offset_y": 6.252776074688882e-13,
-    "size": "full"
+    "offset_y": 6.252776074688882E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

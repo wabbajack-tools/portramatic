@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/db/0c/51/db0c511ad36d66f372a5ff32f00f43e6.jpg",
   "md5": "66518C22A3250531987836397EF2139B",
   "tags": [
-    ""
+    "",
+    "kaisa",
+    "fan",
+    "lol",
+    "kda",
+    "league",
+    "legends",
+    "red",
+    "hair",
+    "pink",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -156,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -151,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -48,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

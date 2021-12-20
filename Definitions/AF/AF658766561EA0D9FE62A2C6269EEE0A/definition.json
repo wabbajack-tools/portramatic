@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/34/5f/34/345f34f327d0dc1ac93eb8f7cf0818b4.jpg",
   "md5": "AF658766561EA0D9FE62A2C6269EEE0A",
   "tags": [
-    "Mage Fox"
+    "Mage Fox",
+    "kawaii",
+    "cute",
+    "wolf",
+    "furries",
+    "furry",
+    "digital",
+    "fan",
+    "parvati",
+    "hindu",
+    "gods",
+    "radha",
+    "shiva",
+    "hearthstone",
+    "untamed",
+    "beastmaster",
+    "eric",
+    "kenji"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -188,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -93,
     "offset_y": -205,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -20,
     "offset_y": -204,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

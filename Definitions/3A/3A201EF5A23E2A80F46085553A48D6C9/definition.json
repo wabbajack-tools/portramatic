@@ -4,27 +4,58 @@
   "tags": [
     "elf",
     "female",
-    "warrior"
+    "warrior",
+    "conan",
+    "exiles",
+    "all",
+    "armor",
+    "sets",
+    "looking",
+    "derketo",
+    "pirate",
+    "hot",
+    "toys",
+    "rain",
+    "hidden",
+    "argus",
+    "mortal",
+    "kombat",
+    "11",
+    "girl_1",
+    "2018",
+    "no",
+    "dap",
+    "women",
+    "3d",
+    "cirilla",
+    "fiona",
+    "elen",
+    "riannon",
+    "fanart",
+    "kirill"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -320.5,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999915,
     "offset_x": -125.5,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.40999999999999925,
     "offset_x": -65,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

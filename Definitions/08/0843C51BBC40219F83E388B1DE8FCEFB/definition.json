@@ -6,27 +6,60 @@
     "female",
     "samurai",
     "warrior",
-    "rogue"
+    "rogue",
+    "dc",
+    "comics",
+    "iron",
+    "man",
+    "marvel",
+    "silver",
+    "anime",
+    "girl",
+    "power",
+    "guys",
+    "pin",
+    "up",
+    "league",
+    "legends",
+    "demon",
+    "days",
+    "x-men",
+    "#1",
+    "inhyuk",
+    "lee",
+    "2021",
+    "\u89D2",
+    "ming",
+    "xiao",
+    "black",
+    "widow",
+    "\u0026",
+    "spider",
+    "sam",
+    "delatorre"
   ],
   "small": {
     "scale": 1,
     "offset_x": -333.9999999999999,
     "offset_y": -210.9999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5700833333333329,
     "offset_x": -100.99999999999977,
     "offset_y": -63.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -143.22222222222285,
     "offset_y": -5.6111111111108585,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

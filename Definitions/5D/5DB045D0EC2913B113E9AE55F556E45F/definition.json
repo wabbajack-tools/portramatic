@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/c9/41/b9/c941b94248c8beadc6e2c634971b4f13.jpg",
   "md5": "5DB045D0EC2913B113E9AE55F556E45F",
   "tags": [
-    ""
+    "",
+    "african",
+    "earth",
+    "goddess",
+    "igbo",
+    "forest",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "luo",
+    "wy",
+    "c",
+    "character",
+    "design",
+    "priestess",
+    "yekaterina",
+    "chibisova",
+    "warcraft",
+    "blazing",
+    "blue",
+    "fusion",
+    "stefano",
+    "spaziani"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -347,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -24,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://miro.medium.com/max/1400/1*YdIjrxQaqbKrKADYOhTIZA.jpeg",
   "md5": "A2EA9EFE052A46F2261691F67999F3B5",
   "tags": [
-    ""
+    "",
+    "black",
+    "woman",
+    "character",
+    "african",
+    "american",
+    "female",
+    "warrior",
+    "concept",
+    "conan",
+    "barbarian",
+    "necropolitan",
+    "islanders",
+    "portraits",
+    "denis",
+    "steampunk",
+    "girl",
+    "maksym",
+    "haydar",
+    "glamarye",
+    "maja",
+    "budner",
+    "2020",
+    "dwarf"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -153,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -80,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -174,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

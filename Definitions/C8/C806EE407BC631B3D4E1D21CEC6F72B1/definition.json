@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/60/a7/52/60a752e209e78bb2f66977dfd5f86e63.jpg",
   "md5": "C806EE407BC631B3D4E1D21CEC6F72B1",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "monk",
+    "night",
+    "j.",
+    "scott",
+    "campbell",
+    "fire",
+    "emblem",
+    "path",
+    "radiance",
+    "anime",
+    "characters",
+    "league",
+    "legends",
+    "dragon",
+    "ball",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "bravely",
+    "default",
+    "praying",
+    "brage",
+    "jungmin",
+    "jin"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -573,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -429,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -244,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

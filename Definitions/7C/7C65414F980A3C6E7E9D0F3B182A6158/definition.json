@@ -4,27 +4,48 @@
   "tags": [
     "misc",
     "female",
-    "mage. warrior"
+    "mage. warrior",
+    "league",
+    "legends",
+    "red",
+    "dragon",
+    "fire",
+    "kritika",
+    "nobleria",
+    "dixneuf",
+    "cho",
+    "godhunt",
+    "sun",
+    "god",
+    "sol",
+    "joshua",
+    "raphael",
+    "notifications",
+    "2020",
+    "landscape"
   ],
   "small": {
     "scale": 0.5799999999999998,
     "offset_x": -234,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -48,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -66,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

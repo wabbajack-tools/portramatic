@@ -14,25 +14,45 @@
     "people",
     "figurine",
     "crowd",
-    ""
+    "",
+    "anime",
+    "girl",
+    "desu",
+    "ka",
+    "characters",
+    "yu",
+    "gi",
+    "oh",
+    "zexal",
+    "yugio",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.6299999999999999,
     "offset_x": -25.999999999999986,
     "offset_y": -4.199999999999989,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -1,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7400000000000007,
     "offset_x": -6,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/81/ce/df/81cedf3861e86bbb257c0e8e31cd689a.jpg",
   "md5": "E0F7AD56F1B2688A5B3AC545FAC847CC",
   "tags": [
-    ""
+    "",
+    "assassin",
+    "fan",
+    "all",
+    "assassin\u0027s",
+    "creed",
+    "cover",
+    "knight",
+    "armor",
+    "death",
+    "heavy",
+    "dragon",
+    "medieval",
+    "knights",
+    "kaius",
+    "character",
+    "concept",
+    "doriana",
+    "dream",
+    "2020",
+    "characters",
+    "cyberlich",
+    "abyss",
+    "jorge",
+    "xu",
+    "male",
+    "guard",
+    "jeffrey",
+    "chang",
+    "design"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -412,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -135,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -5,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

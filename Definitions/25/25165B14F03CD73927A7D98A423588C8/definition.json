@@ -4,27 +4,54 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "chandra",
+    "magic",
+    "nalaar",
+    "mtg",
+    "planeswalker",
+    "pirate",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "black",
+    "geun",
+    "paint",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "\u708E\u708E",
+    "2020",
+    "anime",
+    "girl",
+    "woman",
+    "ares",
+    "warrior"
   ],
   "small": {
     "scale": 0.8800000000000006,
     "offset_x": -839,
     "offset_y": -276,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999998,
     "offset_x": -331,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -276,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -12,25 +12,50 @@
     "figurine",
     "clothing",
     "apparel",
-    ""
+    "",
+    "female",
+    "fighter",
+    "character",
+    "armor",
+    "concept",
+    "warrior",
+    "assassin",
+    "medieval",
+    "knights",
+    "\u8840",
+    "hl",
+    "b",
+    "hye",
+    "jeong",
+    "hwang",
+    "https://www",
+    "woman",
+    "sickle",
+    "hyun",
+    "noh"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -1200,
     "offset_y": -733,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -342,
     "offset_y": -267,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -80,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

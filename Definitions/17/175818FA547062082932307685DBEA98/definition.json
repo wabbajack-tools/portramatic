@@ -2,27 +2,65 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/010/926/923/large/jeff-chen-tenembrau.jpg?1526985259",
   "md5": "175818FA547062082932307685DBEA98",
   "tags": [
-    ""
+    "",
+    "male",
+    "tiefling",
+    "fighter",
+    "female",
+    "drow",
+    "barbarian",
+    "knight",
+    "armor",
+    "alien",
+    "warrior",
+    "death",
+    "knights",
+    "medieval",
+    "iron",
+    "rxx",
+    "496",
+    "show",
+    "painting",
+    "smite",
+    "gladiator",
+    "guan",
+    "yu",
+    "skin",
+    "varios",
+    "projects",
+    "andy",
+    "timm",
+    "https://www.artstation",
+    "satyr",
+    "fletcher",
+    "kinnear",
+    "concept",
+    "characters",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -474.5,
     "offset_y": -335.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -5.5,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -60,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

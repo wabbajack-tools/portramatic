@@ -8,27 +8,37 @@
     "concept",
     "rpg",
     "league",
-    "legends"
+    "legends",
+    "jace",
+    "mind",
+    "sculptor",
+    "mtg",
+    "planeswalker",
+    "lich",
+    "king"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -372.4000000000007,
     "offset_y": -50.999999999999886,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -288.20000000000005,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -261.7222222222222,
     "offset_y": -8.638888888889028,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

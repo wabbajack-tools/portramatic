@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/564x/d7/b7/e8/d7b7e8dd22b2c7646398fc43704a13c7.jpg",
   "md5": "56C9F083A1FE747865B68E8A9A13D322",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "woman",
+    "anime",
+    "picture",
+    "digital"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -205,
     "offset_y": -448,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -128,
     "offset_y": -390,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -86,
     "offset_y": -390,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/77/02/73/7702735a03b9f25d370bf179f70a7dfe.jpg",
   "md5": "5FDC03EB7EC8DE99981A3018B6712070",
   "tags": [
-    ""
+    "",
+    "dire",
+    "tiger",
+    "thylacine",
+    "medieval",
+    "knights",
+    "civil",
+    "war",
+    "conan",
+    "barbarian",
+    "\u5218\u8FBE-ycf-student",
+    "wip",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "2020",
+    "02",
+    "viviane",
+    "souza",
+    "legend",
+    "cryptids",
+    "ming",
+    "qi"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -97,
     "offset_y": -161,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -10,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -6,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

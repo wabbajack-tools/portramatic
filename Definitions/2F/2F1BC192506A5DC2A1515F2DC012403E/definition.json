@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/736x/b6/02/e3/b602e37e8692e4fb847cfd32e6a73c0c.jpg",
   "md5": "2F1BC192506A5DC2A1515F2DC012403E",
   "tags": [
-    ""
+    "",
+    "priestess",
+    "from",
+    "goblin",
+    "slayer",
+    "girl",
+    "high",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "tights",
+    "lingerie",
+    "bra",
+    "demon",
+    "king",
+    "nobunaga",
+    "summer",
+    "version",
+    "kuzu",
+    "orphaned",
+    "alchemist",
+    "gunship",
+    "revolution",
+    "card",
+    "illust",
+    "ryeowon",
+    "kwon"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -98,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -101,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -76,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -15,25 +15,69 @@
     "animal",
     "dragon",
     "samurai",
-    ""
+    "",
+    "berserk",
+    "guts",
+    "tattoo",
+    "casca",
+    "artwork",
+    "gears",
+    "war",
+    "league",
+    "legends",
+    "armor",
+    "mortal",
+    "kombat",
+    "characters",
+    "female",
+    "pirate",
+    "actionfigures",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "panties",
+    "shoes",
+    "boots",
+    "bra",
+    "archer",
+    "2011",
+    "ed",
+    "lee",
+    "https://www.artstation.com/artwork/60nnw",
+    "sorcerer",
+    "gwangmin",
+    "choi",
+    "2020",
+    "tiefling",
+    "character",
+    "design",
+    "hooded",
+    "cyborg.",
+    "nivanh",
+    "chanthara"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -394,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -187,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -82,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

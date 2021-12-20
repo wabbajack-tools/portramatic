@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/66/df/08/66df089c1d2406f5c3f300c6ec80b99a.jpg",
   "md5": "0C2464C94041F0ADAF0C95AA55A35F6B",
   "tags": [
-    "spearman"
+    "spearman",
+    "male",
+    "elf",
+    "warrior",
+    "drawings",
+    "viking",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "samurai",
+    "heavy",
+    "orc",
+    "dark",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "archer",
+    "jisoo",
+    "song",
+    "character",
+    "total",
+    "war",
+    "warhammer",
+    "warriors",
+    "breton",
+    "so",
+    "jihyun",
+    "concept"
   ],
   "small": {
     "scale": 1.3491666666666668,
     "offset_x": -369.79999999999995,
     "offset_y": -40.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2388333333333332,
     "offset_x": -244.39999999999998,
     "offset_y": -25.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4860833333333328,
     "offset_x": -139.3611111111113,
     "offset_y": -14.814814814814781,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

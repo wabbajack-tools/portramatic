@@ -2,27 +2,44 @@
   "source": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1696f441560517.57aaf429199b9.jpg",
   "md5": "196A05B7A9A2DF332C0E22AE7D7D9CCB",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "sylvaneth",
+    "ever",
+    "queen",
+    "high",
+    "elf",
+    "four",
+    "horsemen",
+    "league",
+    "legends",
+    "elemental",
+    "creature",
+    "vasilyna",
+    "holod"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -252,
     "offset_y": -317,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -131,
     "offset_y": -217,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4199999999999975,
     "offset_x": -182,
     "offset_y": -352,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

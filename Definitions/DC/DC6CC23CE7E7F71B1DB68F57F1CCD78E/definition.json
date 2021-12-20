@@ -2,27 +2,56 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/515/654/large/yuanyuan-wang-111111.jpg?1591754941https://cdna.artstation.com/p/assets/images/images/027/515/654/large/yuanyuan-wang-111111.jpg?1591754941",
   "md5": "DC6CC23CE7E7F71B1DB68F57F1CCD78E",
   "tags": [
-    ""
+    "",
+    "shadow",
+    "warrior",
+    "anime",
+    "high",
+    "elf",
+    "girl",
+    "reaper",
+    "dark",
+    "angel",
+    "fallen",
+    "orianna",
+    "tempest",
+    "cleric",
+    "talos",
+    "elena",
+    "barbieri",
+    "2021",
+    "roveone",
+    "sergey",
+    "emiel",
+    "regis",
+    "witcher",
+    "darya",
+    "kozhemyakina",
+    "2020",
+    "books"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -506,
     "offset_y": -236,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -198,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -64,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

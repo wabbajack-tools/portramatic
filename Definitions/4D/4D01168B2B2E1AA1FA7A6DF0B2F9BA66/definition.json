@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/2c/41/6c/2c416c229cbc430eb44a00bbc340bac1.jpg",
   "md5": "4D01168B2B2E1AA1FA7A6DF0B2F9BA66",
   "tags": [
-    ""
+    "",
+    "changeling",
+    "bard",
+    "rogue",
+    "male",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "shoes",
+    "boots",
+    "ronin",
+    "yuhong",
+    "ding",
+    "men",
+    "armor",
+    "musketeer",
+    "panhart",
+    "old",
+    "work",
+    "kbone5",
+    "\u53CD\u5C04\u5F27k5"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -404.0000000000008,
     "offset_y": -56.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -124,
     "offset_y": -23.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -12.814814814814781,
     "offset_y": -28.833333333333258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

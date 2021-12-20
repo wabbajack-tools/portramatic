@@ -4,27 +4,40 @@
   "tags": [
     "female",
     "human",
-    "sorcerer"
+    "sorcerer",
+    "long",
+    "hair",
+    "witch",
+    "old",
+    "names",
+    "white",
+    "prince",
+    "earth",
+    "iosif",
+    "buianovskii"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -175,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -80,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -84,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

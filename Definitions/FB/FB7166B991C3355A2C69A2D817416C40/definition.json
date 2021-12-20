@@ -10,27 +10,55 @@
     "edition",
     "polar",
     "legends",
-    "women"
+    "women",
+    "seed",
+    "academy",
+    "school",
+    "maryland",
+    "miami",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "\u738B\u91D1\u9F99-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "atlantica_priestess",
+    "se",
+    "gil",
+    "o",
+    "luthiel_character",
+    "concept",
+    "kim",
+    "ssang"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -595,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -306,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -19,
     "offset_y": -45,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

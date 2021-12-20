@@ -2,27 +2,53 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/023/003/536/large/dia-nak-asdf.jpg?1577677877",
   "md5": "27E07DE0E07A66320F68D7E0F02ED5D3",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "origins",
+    "kingdoms",
+    "amalur",
+    "reckoning",
+    "game",
+    "thrones",
+    "fortune",
+    "teller",
+    "aleksandra",
+    "wojtas",
+    "https://www.artstation.com/artwork/l33exk",
+    "dungeon",
+    "delve",
+    "dennis",
+    "darmody",
+    "https://www.artstation.com/artwork/5vwa",
+    "mistborn",
+    "well",
+    "ascension",
+    "chris",
+    "mcgrath"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -185,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -27,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -102,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

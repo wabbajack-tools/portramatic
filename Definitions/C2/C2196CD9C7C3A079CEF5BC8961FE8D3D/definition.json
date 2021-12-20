@@ -2,27 +2,45 @@
   "source": "https://i.redd.it/vx5isql8t4711.jpg",
   "md5": "C2196CD9C7C3A079CEF5BC8961FE8D3D",
   "tags": [
-    "night elf druid"
+    "night elf druid",
+    "night",
+    "elf",
+    "fan",
+    "warrior",
+    "male",
+    "druid",
+    "red",
+    "dragon",
+    "black",
+    "runic",
+    "todor",
+    "hristov",
+    "magic",
+    "lydia",
+    "qx"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -564,
     "offset_y": -196,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -499,
     "offset_y": -148,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -96,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/23/c2/6a/23c26ace7249cbbd9618d21352f698a5.jpg",
   "md5": "3118D0786324BCF047A8B17C5255AD27",
   "tags": [
-    ""
+    "",
+    "amazon",
+    "scout",
+    "robot",
+    "vehicles",
+    "gift",
+    "skyrim",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "crow",
+    "witch",
+    "maksim",
+    "kuznetsov",
+    "mobius",
+    "final",
+    "dhampyr",
+    "laura",
+    "sava",
+    "babrian",
+    "king",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -448.7999999999996,
     "offset_y": -141.60000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -177.60000000000014,
     "offset_y": -72.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -68.87962962962956,
     "offset_y": -52.861111111111086,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

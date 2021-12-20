@@ -7,27 +7,53 @@
     "mage",
     "priest",
     "princess",
-    "rogue"
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "cloud",
+    "strife",
+    "vs",
+    "sephiroth",
+    "kazbek",
+    "dzasezhev",
+    "https://www.artstation.com/artwork",
+    "little",
+    "light",
+    "great",
+    "darkness",
+    "luis",
+    "pacho",
+    "artist",
+    "inspiration",
+    "aspiring",
+    "dark",
+    "robber",
+    "resources"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -1073,
     "offset_y": -296,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -710,
     "offset_y": -175,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -512,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

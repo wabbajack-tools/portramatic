@@ -5,27 +5,56 @@
     "elven",
     "princess",
     "bluish",
-    "salt"
+    "salt",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "joan",
+    "arc",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "jacket",
+    "hyunjoong",
+    ".",
+    "genghis",
+    "khan",
+    "thanh",
+    "tu\u1EA5n",
+    "cyber",
+    "ninja",
+    "michael",
+    "weisheim",
+    "beresin"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -439,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -146,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -57,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/008/725/845/large/sergey-gurskiy-111.jpg?1514904689",
   "md5": "C3B9A307A58C4F8FE1F49AEF4F0C06B9",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "annabel",
+    "fan",
+    "saurabh",
+    "bhandari",
+    "character",
+    "rogue",
+    "qingkai",
+    "yang",
+    "characters",
+    "dungeons",
+    "dragons",
+    "party",
+    "bailey"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -550,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -191,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -4,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,59 @@
   "tags": [
     "sexy",
     "dragon",
-    "girl"
+    "girl",
+    "character",
+    "design",
+    "inspiration",
+    "female",
+    "cartoon",
+    "anime",
+    "characters",
+    "fire",
+    "emblem",
+    "path",
+    "radiance",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "shoes",
+    "boots",
+    "lancer",
+    "seojung",
+    "kim",
+    "gin",
+    "portraits",
+    "nanyang",
+    "k",
+    "dash",
+    "roxi",
+    "zheng"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -272.00000000000006,
     "offset_y": -69.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -125.33333333333331,
     "offset_y": -39.333333333333286,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -110,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

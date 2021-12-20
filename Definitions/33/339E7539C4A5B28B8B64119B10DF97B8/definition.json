@@ -6,27 +6,54 @@
     "male",
     "mage",
     "warrior",
-    "samurai"
+    "samurai",
+    "mo",
+    "dao",
+    "zu",
+    "shi",
+    "kiss",
+    "wei",
+    "wu",
+    "xian",
+    "teleria",
+    "windrunner",
+    "christian",
+    "schob",
+    "wwe",
+    "immortals",
+    "undertaker",
+    "zhao",
+    "yan",
+    "\u256E(\uFFE3",
+    "\uFFE3\u0022)\u256D",
+    "ruined",
+    "shyvana",
+    "\u5927",
+    "\u9ED1\u67F1",
+    "https://www"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -561,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -337,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -349,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

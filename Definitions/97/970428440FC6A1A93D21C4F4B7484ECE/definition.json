@@ -4,27 +4,47 @@
   "tags": [
     "outsider",
     "female",
-    "mage"
+    "mage",
+    "storm",
+    "from",
+    "marvel",
+    "ultimate",
+    "drawing",
+    "league",
+    "legends",
+    "game",
+    "thrones",
+    "aria",
+    "digital",
+    "sketch",
+    "meghan",
+    "hetrick",
+    "moonlight",
+    "luna",
+    "dark"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -310,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -201,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

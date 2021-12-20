@@ -9,27 +9,47 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shugolady",
+    "lucy",
+    "rakavka",
+    "oni",
+    "shaman",
+    "gold",
+    "can",
+    "samurai",
+    "mask",
+    "demon"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -184,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -97,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3499999999999999,
     "offset_x": -50,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

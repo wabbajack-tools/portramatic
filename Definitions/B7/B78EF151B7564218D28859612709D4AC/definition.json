@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/68/4c/55/684c55caec8b92cdabe80f93d91bb85b.jpg",
   "md5": "B78EF151B7564218D28859612709D4AC",
   "tags": [
-    ""
+    "",
+    "conan",
+    "barbarian",
+    "tattoo",
+    "drawing",
+    "pirates",
+    "caribbean",
+    "stranger",
+    "tides",
+    "orc",
+    "warrior",
+    "spartan",
+    "bog",
+    "witch",
+    "todd",
+    "ulrich",
+    "character",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork",
+    "sandchief",
+    "raph",
+    "herrera",
+    "lomotan"
   ],
   "small": {
     "scale": 1.5499999999999967,
     "offset_x": -347.9999999999995,
     "offset_y": -56.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -219.1999999999996,
     "offset_y": -54.39999999999975,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -84.89814814814872,
     "offset_y": -41.6481481481477,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

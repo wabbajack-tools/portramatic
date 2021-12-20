@@ -8,27 +8,44 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "dangerous",
+    "mythical",
+    "creatures",
+    "satyr",
+    "creature",
+    "fairies",
+    "dungeons",
+    "dragons",
+    "wood",
+    "elf",
+    "swamp",
+    "shaman",
+    "raoul",
+    "vitale"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -200,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -88,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

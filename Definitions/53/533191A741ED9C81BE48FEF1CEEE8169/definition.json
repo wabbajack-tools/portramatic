@@ -2,27 +2,36 @@
   "source": "https://pbs.twimg.com/media/DxGIl8OWsAEcLzi?format=jpg",
   "md5": "533191A741ED9C81BE48FEF1CEEE8169",
   "tags": [
-    ""
+    "",
+    "wow",
+    "paladin",
+    "transmog",
+    "draenei",
+    "shaman",
+    "fan"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -532,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -306,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -398,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

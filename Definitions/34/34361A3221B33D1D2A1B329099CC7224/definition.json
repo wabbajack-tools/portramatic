@@ -2,27 +2,48 @@
   "source": "https://i.imgur.com/Pj8IGbD.png",
   "md5": "34361A3221B33D1D2A1B329099CC7224",
   "tags": [
-    ""
+    "",
+    "anime",
+    "female",
+    "assassin\u0027s",
+    "creed",
+    "assassin",
+    "character",
+    "chinese",
+    "kato",
+    "danzo",
+    "fanart",
+    "phichaya(scykiazor",
+    "boonton",
+    "witch",
+    "wild",
+    "iga",
+    "kunoichi",
+    "thor",
+    "odenson"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -270,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -376,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -636,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

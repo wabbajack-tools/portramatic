@@ -6,27 +6,42 @@
     "female",
     "mage",
     "princess",
-    ""
+    "",
+    "ada",
+    "wong",
+    "fan",
+    "ash",
+    "lord",
+    "concept",
+    "othello",
+    "paintings",
+    "famous",
+    "oil",
+    "birth",
+    "venus"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -547,
     "offset_y": -329,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8914166666666663,
     "offset_x": -340,
     "offset_y": -238,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1419166666666662,
     "offset_x": -298,
     "offset_y": -234,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

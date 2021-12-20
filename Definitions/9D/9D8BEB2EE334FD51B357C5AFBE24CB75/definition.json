@@ -2,25 +2,64 @@
   "source": "https://i.pinimg.com/564x/76/f1/fc/76f1fc9e9d394764038bffdddbbf53e2.jpg",
   "md5": "9D8BEB2EE334FD51B357C5AFBE24CB75",
   "tags": [
-    ""
+    "",
+    "demon",
+    "oc",
+    "ideas",
+    "anime",
+    "line",
+    "prince",
+    "persia",
+    "two",
+    "thrones",
+    "elder",
+    "scrolls",
+    "online",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "attack",
+    "titan",
+    "lord",
+    "rings",
+    "darksiders",
+    "genesis",
+    "coloring",
+    "grace",
+    "liu",
+    "art-wod",
+    "summer",
+    "bootcamp",
+    "designs",
+    "antonio",
+    "halvard",
+    "naranbaatar",
+    "ganbold",
+    "https://www"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -140,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -106,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -116,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

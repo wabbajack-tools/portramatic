@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/b2/79/2c/b2792c9049b351589d5953408b96ea2e.jpg",
   "md5": "A0BBBA0947A0E5AC7EE24AB37610C125",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "ii",
+    "sten",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -31.20000000000084,
     "offset_y": -2.4000000000000057,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -12.800000000000068,
     "offset_y": -0.7999999999997272,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -49.657407407406936,
     "offset_y": -3.20370370370415,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

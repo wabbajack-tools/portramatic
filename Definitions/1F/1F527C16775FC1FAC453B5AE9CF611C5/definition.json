@@ -4,27 +4,62 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "mud",
+    "golem",
+    "monster",
+    "warrior",
+    "kratos",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "world",
+    "warcraft",
+    "chronicle",
+    "chapter",
+    "5",
+    "second",
+    "war",
+    "abe",
+    "taraky",
+    "https://www",
+    "maniacal",
+    "rage",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "digital",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "sealer-lady",
+    "huayang",
+    "antilous",
+    "chao"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -608.5,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999995,
     "offset_x": -291.5,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999996,
     "offset_x": -125,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

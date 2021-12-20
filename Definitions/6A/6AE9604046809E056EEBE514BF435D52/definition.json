@@ -6,27 +6,55 @@
     "female",
     "samurai",
     "warrior",
-    "princess"
+    "princess",
+    "knight",
+    "armor",
+    "ancient",
+    "rome",
+    "medieval",
+    "knights",
+    "dynasty",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "cassandra",
+    "valghare",
+    "ceremonial",
+    "armour",
+    "king",
+    "arthur",
+    "challenge",
+    "ylva",
+    "total",
+    "war",
+    "three",
+    "kingdoms-character",
+    "design"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -591,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6315833333333327,
     "offset_x": -422,
     "offset_y": -104,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5519999999999992,
     "offset_x": -150,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -29,27 +29,35 @@
     "sailor",
     "moon",
     "girls",
-    "aesthetic"
+    "aesthetic",
+    "gwent",
+    "card",
+    "game",
+    "geralt",
+    "ciri"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -288.40000000000003,
     "offset_y": -98.79999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -107.80000000000007,
     "offset_y": -56.799999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -92.00925925925935,
     "offset_y": -68.00925925925958,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

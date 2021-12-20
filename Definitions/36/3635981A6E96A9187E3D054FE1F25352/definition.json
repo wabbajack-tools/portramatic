@@ -22,25 +22,56 @@
     "gun",
     "cleric",
     "inquisitor",
-    "mage"
+    "mage",
+    "fate",
+    "ishtar",
+    "thighs",
+    "anime",
+    "wallpaper",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "princess",
+    "connect",
+    "r",
+    "kyaru",
+    "cluseller",
+    "paperrobber",
+    "nezuko",
+    "demon",
+    "slayer",
+    "hitokiri",
+    "nguyen",
+    "neeko",
+    "fan",
+    "naifan",
+    "zhang"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -229.26666666666677,
     "offset_y": -43.26666666666662,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -166.13333333333327,
     "offset_y": -20.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -50.53333333333342,
     "offset_y": -1.0666666666665208,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

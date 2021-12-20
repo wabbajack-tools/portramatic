@@ -2,25 +2,53 @@
   "source": "https://i.imgur.com/Ru5M9am.jpeg",
   "md5": "B41CB5435B39B253FB04453276CFB5C9",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "predator",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "death",
+    "knight",
+    "dark",
+    "daily",
+    "sketches",
+    "week",
+    "#51",
+    "tomasz",
+    "chistowski",
+    "\u9B54\u531601",
+    "crow",
+    "god",
+    "heroes",
+    "thor\uFF01",
+    "qichao",
+    "wang"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -672,
     "offset_y": -295,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -181,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -22,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

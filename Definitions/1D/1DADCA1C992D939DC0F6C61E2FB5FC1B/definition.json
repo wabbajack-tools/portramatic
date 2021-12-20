@@ -15,27 +15,59 @@
     "bear",
     "spirit",
     "dmitry",
-    "alexeev"
+    "alexeev",
+    "samurai",
+    "armor",
+    "paizo",
+    "plate",
+    "hansel",
+    "gretel",
+    "war",
+    "hammer",
+    "power",
+    "leather",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "mythic",
+    "adventures\u0027",
+    "characters",
+    "denman",
+    "rooke",
+    "character",
+    "rpg",
+    "black",
+    "magician",
+    "jawsu",
+    "trystan",
+    "custodis",
+    "andrew",
+    "leung"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -288,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -92,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -3,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

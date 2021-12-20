@@ -5,27 +5,58 @@
     "orc",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "vogue",
+    "china",
+    "chen",
+    "xiao",
+    "xiaowang",
+    "wrath",
+    "titans",
+    "clash",
+    "witcher",
+    "hobbit",
+    "dragon",
+    "age",
+    "origins",
+    "warcraft",
+    "durotan",
+    "dato",
+    "kiknavelidze",
+    "barbarian",
+    "mark",
+    "gerrard",
+    "viking",
+    "character",
+    "drawings",
+    "men",
+    "willow",
+    "returns",
+    "sam",
+    "rowan"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -245.5,
     "offset_y": -165,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999925,
     "offset_x": -123.5,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999995,
     "offset_x": -81,
     "offset_y": -141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

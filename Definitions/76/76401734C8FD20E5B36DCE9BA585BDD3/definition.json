@@ -5,27 +5,51 @@
     "human",
     "male",
     "rogue",
-    "warrior"
+    "warrior",
+    "mercenary",
+    "artwork",
+    "concept",
+    "dungeons",
+    "dragons",
+    "lord",
+    "rings",
+    "mariusz",
+    "kozik",
+    "monster",
+    "warhammer",
+    "vampire",
+    "counts",
+    "reinhardt_adv",
+    "mansik",
+    "yang",
+    "https://www.artstation.com/artwork/oln44",
+    "hailstorm",
+    "bruno",
+    "biazotto",
+    "https://www.artstation.com/artwork/w9xql"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -576,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -377,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -208,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

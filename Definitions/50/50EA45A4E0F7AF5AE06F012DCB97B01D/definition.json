@@ -2,27 +2,40 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/003/986/110/large/mario-wibisono-sara-unbound-mermaid-reg-web.jpg?1479204192",
   "md5": "50EA45A4E0F7AF5AE06F012DCB97B01D",
   "tags": [
-    ""
+    "",
+    "mermaid",
+    "illustrations",
+    "fine",
+    "pretty",
+    "ariel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -66,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -24,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -94,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

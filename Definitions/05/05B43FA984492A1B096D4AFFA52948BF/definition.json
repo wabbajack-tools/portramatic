@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/86/49/0c/86490c35602bd80beb6c4c0ea0d94858.jpg",
   "md5": "05B43FA984492A1B096D4AFFA52948BF",
   "tags": [
-    ""
+    "",
+    "100",
+    "hundred",
+    "years",
+    "war",
+    "flags",
+    "france",
+    "knight",
+    "armor",
+    "heavy",
+    "plate",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "jumanji",
+    "hero",
+    "villains",
+    "03",
+    "kelton",
+    "cram",
+    "shadow",
+    "tomb",
+    "raider",
+    "micha\u00EBl",
+    "verhaaf",
+    "https://www.artstation.com/artwork/x1kma",
+    "skyrim",
+    "concept"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -352,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -71,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1799999999999986,
     "offset_x": -24,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

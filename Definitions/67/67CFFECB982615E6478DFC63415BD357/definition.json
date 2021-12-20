@@ -11,27 +11,45 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "47",
+    "ronin",
+    "samurai",
+    "tattoo",
+    "japanese",
+    "kirra",
+    "techno",
+    "assassin",
+    "gerry",
+    "arthur",
+    "dragonzzzz",
+    "john",
+    "park",
+    "dragon",
+    "anatomy"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -272.7999999999997,
     "offset_y": -192.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -162.19999999999976,
     "offset_y": -131.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -32.324074074074815,
     "offset_y": -11.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

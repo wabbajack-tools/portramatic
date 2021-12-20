@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/736x/55/72/47/557247a56570484e3d05002d21f50fbf.jpg",
   "md5": "E4354414C9B0FDBA805B814F78C49FE0",
   "tags": [
-    ""
+    "",
+    "shaolin",
+    "monk",
+    "warrior",
+    "world",
+    "warcraft",
+    "rogue",
+    "pose",
+    "medieval",
+    "knights",
+    "romance",
+    "three",
+    "kingdoms",
+    "yaevinn",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "https://www.artstation.com/artwork/e1q2b",
+    "witcher",
+    "andrew",
+    "clark",
+    "human",
+    "character",
+    "escaped",
+    "prisoner",
+    "joart",
+    "14"
   ],
   "small": {
     "scale": 1.0539999999999994,
     "offset_x": -303,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6420000000000008,
     "offset_x": -63,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1058333333333334,
     "offset_x": -84,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

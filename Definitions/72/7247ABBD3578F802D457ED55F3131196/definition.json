@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/f3/d8/e1/f3d8e1305705724d131cd002efdbe02a.jpg",
   "md5": "7247ABBD3578F802D457ED55F3131196",
   "tags": [
-    "#Barbarian #knight"
+    "#Barbarian #knight",
+    "dark",
+    "elf",
+    "concept",
+    "anime",
+    "warrior",
+    "knight",
+    "orc",
+    "lord",
+    "rings",
+    "death",
+    "crusader",
+    "demon",
+    "slayer",
+    "series",
+    "piotr",
+    "foksowicz",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "martyr",
+    "logarius",
+    "pablo",
+    "mendoza",
+    "peces"
   ],
   "small": {
     "scale": 1.4599999999999993,
     "offset_x": -380.80000000000194,
     "offset_y": -91.20000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2400000000000002,
     "offset_x": -292.8000000000003,
     "offset_y": -63.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000008,
     "offset_x": -168.19444444444457,
     "offset_y": -84.89814814814827,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

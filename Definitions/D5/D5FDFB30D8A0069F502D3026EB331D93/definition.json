@@ -9,25 +9,53 @@
     "knight",
     "painting",
     "art",
-    ""
+    "",
+    "vampire",
+    "character",
+    "design",
+    "concept",
+    "hunter",
+    "world",
+    "warcraft",
+    "rogue",
+    "league",
+    "legends",
+    "manga",
+    "death",
+    "hansel",
+    "gretel",
+    "seok",
+    "jeon",
+    "lol",
+    "\u5973\u9B54\u5934",
+    "leozee",
+    "black",
+    "warrior",
+    "u",
+    "see"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -181,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -127,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -8,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

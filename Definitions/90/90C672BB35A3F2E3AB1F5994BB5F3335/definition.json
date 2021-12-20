@@ -3,27 +3,42 @@
   "md5": "90C672BB35A3F2E3AB1F5994BB5F3335",
   "tags": [
     "gnome",
-    "girl"
+    "girl",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -44,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -31,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8000000000000007,
     "offset_x": -30,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

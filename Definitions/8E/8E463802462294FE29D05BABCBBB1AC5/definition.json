@@ -5,27 +5,57 @@
     "human",
     "male",
     "rogue",
-    "warrior"
+    "warrior",
+    "legends",
+    "cryptids",
+    "legend",
+    "goddess",
+    "love",
+    "female",
+    "league",
+    "attack",
+    "titan",
+    "fate",
+    "stay",
+    "night",
+    "war",
+    "gods",
+    "destined",
+    "concept",
+    "house",
+    "greek",
+    "mythology",
+    "lone",
+    "prophetess",
+    "reg",
+    "fajareka",
+    "setiawan",
+    "crow",
+    "god",
+    "illustration"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -245,
     "offset_y": -234,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -184,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -40,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/FYlW8jX.png",
   "md5": "EB1C26705450FC1D4CF3E2331FE92E57",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "image",
+    "knight",
+    "return",
+    "jedi",
+    "tales",
+    "vesperia",
+    "alice",
+    "wonderland",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "d\u0026d",
+    "satyr",
+    "bard",
+    "m",
+    "penman",
+    "gondolin",
+    "wood",
+    "gate",
+    "from",
+    "silmarillion",
+    "\u718A\u732B\u4EBA",
+    "ning",
+    "li"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -278,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -132,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

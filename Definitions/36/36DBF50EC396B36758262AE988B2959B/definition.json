@@ -2,27 +2,35 @@
   "source": "https://i.imgur.com/bAwBqiQ.jpeg",
   "md5": "36DBF50EC396B36758262AE988B2959B",
   "tags": [
-    ""
+    "",
+    "beautiful",
+    "wishing",
+    "well",
+    "paintings",
+    "drawing"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -444,
     "offset_y": -475,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -345,
     "offset_y": -443,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -291,
     "offset_y": -107,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

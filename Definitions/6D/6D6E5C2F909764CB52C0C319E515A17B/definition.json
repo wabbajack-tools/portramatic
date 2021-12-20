@@ -2,25 +2,32 @@
   "source": "https://pbs.twimg.com/media/EXEYQ84WAAAEGjZ.jpg",
   "md5": "6D6E5C2F909764CB52C0C319E515A17B",
   "tags": [
-    ""
+    "",
+    "lion",
+    "king"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -225,
     "offset_y": -286,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -238,
     "offset_y": -325,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -180,
     "offset_y": -324,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -31,27 +31,42 @@
     "concept",
     "characters",
     "world",
-    "inspiration"
+    "inspiration",
+    "egypt",
+    "artwork",
+    "scenery",
+    "dark",
+    "angel",
+    "fallen",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "https://www.artstation.com",
+    "baros_adv",
+    "https://www"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -525,
     "offset_y": -174.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -172,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -144,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

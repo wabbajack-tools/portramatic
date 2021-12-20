@@ -17,27 +17,37 @@
     "snod",
     "snow",
     "https://www.artstation.com/artwork/kxmd9",
-    "cyberpunk"
+    "cyberpunk",
+    "tolkien",
+    "middle",
+    "earth",
+    "elves",
+    "fan",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -157,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -100,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": 0,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

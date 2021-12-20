@@ -2,27 +2,44 @@
   "source": "https://i.pinimg.com/564x/d9/64/5b/d9645baf47199a2ff7c913a60ae28bca.jpg",
   "md5": "6DDECA1EB4172057416BCAD4E50588F5",
   "tags": [
-    ""
+    "",
+    "smite",
+    "game",
+    "pc",
+    "zeus",
+    "karma",
+    "maho",
+    "chio",
+    "lol",
+    "league",
+    "legends",
+    "morgana",
+    "yuanbin",
+    "hu",
+    "fighter"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -329,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -91,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2599999999999998,
     "offset_x": -14,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/35/a1/0c/35a10ccdbfb2d7ab3aa41359e5fc7ddc.png",
   "md5": "35A10CCDBFB2D7AB3AA41359E5FC7DDC",
   "tags": [
-    ""
+    "",
+    "dark",
+    "paladin",
+    "holy",
+    "human",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "black",
+    "templar",
+    "spartan",
+    "warrior",
+    "canor",
+    "boado",
+    "5",
+    "ben",
+    "juniu",
+    "https://www.artstation.com/artwork/b2604",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "conquers",
+    "another",
+    "world.",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -154,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -79,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -2,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

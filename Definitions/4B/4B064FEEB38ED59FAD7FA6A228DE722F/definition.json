@@ -6,27 +6,47 @@
     "female",
     "warrior",
     "mage",
-    "rogue"
+    "rogue",
+    "return",
+    "prodigal",
+    "son",
+    "elder",
+    "scrolls",
+    "online",
+    "slayer",
+    "guang",
+    "yang",
+    "gouram",
+    "lost",
+    "ruler",
+    "poji",
+    "chow",
+    "waiting",
+    ".",
+    "yi"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -253.5,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -111.5,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2399166666666668,
     "offset_x": -3,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

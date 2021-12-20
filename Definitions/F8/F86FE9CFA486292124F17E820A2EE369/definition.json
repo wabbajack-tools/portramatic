@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/1a/2e/ad/1a2ead0c96db3deba7ca394bd4e93e86.jpg",
   "md5": "F86FE9CFA486292124F17E820A2EE369",
   "tags": [
-    ""
+    "",
+    "death",
+    "knight",
+    "heavy",
+    "armor",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "dark",
+    "black",
+    "mieszko",
+    "i",
+    "ancestors",
+    "legacy",
+    "mariusz",
+    "kozik",
+    "roman",
+    "ancient",
+    "warriors",
+    "warrior",
+    "character",
+    "concept",
+    "stuart",
+    "cooper",
+    "meat",
+    "grinder",
+    "alex",
+    "bosoy",
+    "characters"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -331,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -93,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

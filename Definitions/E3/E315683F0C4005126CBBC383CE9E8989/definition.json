@@ -5,27 +5,51 @@
     "outsider",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "legend",
+    "cryptids",
+    "legends",
+    "characters",
+    "marvel",
+    "comics",
+    "league",
+    "moudra",
+    "funeral",
+    "shamaness",
+    "kisuny",
+    "park",
+    "belle",
+    "age",
+    "heroes-ursula",
+    "weichi",
+    "chen",
+    "yvette",
+    "advance",
+    "xi",
+    "zhang"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -494,
     "offset_y": -225,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -323,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -208,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

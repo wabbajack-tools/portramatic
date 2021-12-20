@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/564x/7d/ca/37/7dca372b75308b6e0fdbf6f080f468ef.jpg",
   "md5": "75045C3682E9C635BCDF27E98FCBD73A",
   "tags": [
-    ""
+    "",
+    "ninja",
+    "warrior",
+    "women",
+    "digital",
+    "female",
+    "samurai",
+    "assassin",
+    "armor",
+    "star",
+    "wars",
+    "bounty",
+    "hunter",
+    "pirate",
+    "leather",
+    "knight",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "sorceress",
+    "concept",
+    "redesign",
+    "micha\u0142",
+    "sowa",
+    "character",
+    "human",
+    "razortail",
+    "ranger",
+    "platinum",
+    "yb",
+    "succubus",
+    "magician",
+    "o",
+    "magicians",
+    "girl"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -202,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -110,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -12,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,48 @@
   "md5": "C906795158BDD7A8DB129F30A90E0F54",
   "tags": [
     "shepard",
-    "mass effect"
+    "mass effect",
+    "commander",
+    "jane",
+    "n7",
+    "armor",
+    "model",
+    "john",
+    "g.i.joe",
+    "jill",
+    "valentine",
+    "jerry",
+    "luo",
+    "resident",
+    "evil",
+    "girl",
+    "dva",
+    "animations",
+    "michael",
+    "cuevas"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -166.22222222222229,
     "offset_y": -8.333333333333428,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -66.66666666666652,
     "offset_y": -9.222222222222229,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -70,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

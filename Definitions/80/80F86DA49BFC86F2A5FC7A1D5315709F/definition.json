@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/ef/2d/29/ef2d295f23b9340474d604049f007ead.jpg",
   "md5": "80F86DA49BFC86F2A5FC7A1D5315709F",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "king",
+    "wow",
+    "lion",
+    "stranger",
+    "yuan",
+    "cui",
+    "artwork",
+    "character",
+    "design",
+    "sculpture",
+    "warlord",
+    "bodyguard",
+    "david",
+    "ceballos",
+    "l\u00F3pez",
+    "day",
+    "florin",
+    "voicu",
+    "artstation.",
+    "with"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -78,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -20,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -30,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

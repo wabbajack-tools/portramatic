@@ -7,27 +7,58 @@
     "warrior",
     "fighter",
     "heavy armor",
-    "male"
+    "male",
+    "gears",
+    "war",
+    "dark",
+    "souls",
+    "demon",
+    "hunter",
+    "god",
+    "ghost",
+    "sparta",
+    "demons",
+    "fallen",
+    "angel",
+    "death",
+    "knight",
+    "yutthaphong",
+    "kaewsuk",
+    "https://www.artstation.com/artwork/zoa51",
+    "prometheus",
+    "billy",
+    "christian",
+    "https://www.artstation.com/artwork/e4pe4",
+    "mobius",
+    "metroid",
+    "chozo",
+    "suit",
+    "ian",
+    "barker",
+    "https://www.artstation.com/artwork/yrogo"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -305.79999999999995,
     "offset_y": -35.400000000002365,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999996,
     "offset_x": -157.79999999999978,
     "offset_y": -8.799999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -0.17592592592586698,
     "offset_y": -15.796296296296532,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

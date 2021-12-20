@@ -20,25 +20,41 @@
     "male",
     "red",
     "shaman",
-    "gaallo"
+    "gaallo",
+    "legend",
+    "cryptids",
+    "cards",
+    "dark",
+    "queen",
+    "angels",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -176.77777777777774,
     "offset_y": -70.66666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -105.5555555555556,
     "offset_y": -41.77777777777777,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -129.5578406169668,
     "offset_y": -40.45244215938334,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

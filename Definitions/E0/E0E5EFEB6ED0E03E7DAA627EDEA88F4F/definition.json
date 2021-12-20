@@ -4,27 +4,47 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "plate",
+    "swords",
+    "heavy",
+    "death",
+    "paladin",
+    "jun",
+    "k",
+    "https://www.artstation.com/artwork/ry1wke",
+    "cheolseung",
+    "ok",
+    "https://www.artstation.com/artwork/zazx9q",
+    "maidenhair",
+    "tree"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -708,
     "offset_y": -241,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -441,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -194,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

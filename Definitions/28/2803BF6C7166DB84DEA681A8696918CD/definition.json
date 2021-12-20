@@ -6,27 +6,59 @@
     "female",
     "warrior",
     "rogue",
-    "hunter"
+    "hunter",
+    "kassandra",
+    "from",
+    "assassin\u0027s",
+    "creed",
+    "odyssey",
+    "athena",
+    "drawings",
+    "dark",
+    "elf",
+    "skyrim",
+    "dungeons",
+    "dragons",
+    "assassin\u0027",
+    "s",
+    "illustrations",
+    "fred",
+    "rambaud",
+    "assassin\u2019s",
+    "skaven",
+    "plague",
+    "monk",
+    "clan",
+    "pestilens",
+    "jon",
+    "cave",
+    "jaron",
+    "zheng",
+    "character",
+    "artwork"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -624.7999999999997,
     "offset_y": -366.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -330.1999999999998,
     "offset_y": -155.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -246.32407407407482,
     "offset_y": -125.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -14,27 +14,37 @@
     "ga",
     "hoole",
     "twilight",
-    "princess"
+    "princess",
+    "girl",
+    "fairy",
+    "tail",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -288.2000000000001,
     "offset_y": -33.400000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -126.40000000000003,
     "offset_y": -18.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9300000000000008,
     "offset_x": -30.907407407408073,
     "offset_y": -10.935185185185105,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

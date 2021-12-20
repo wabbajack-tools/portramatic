@@ -5,27 +5,51 @@
     "outsider",
     "female",
     "mage",
-    "queen"
+    "queen",
+    "snow",
+    "fairy",
+    "winter",
+    "costume",
+    "league",
+    "legends",
+    "albedo",
+    "//",
+    "overlord",
+    "pauline",
+    "vo\u00DF",
+    "dawnbringer",
+    "soraka",
+    "vy",
+    "venom",
+    "x",
+    "ahri",
+    "citemer",
+    "liu",
+    "anime",
+    "artwork"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -127.5,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -34.5,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899166666666662,
     "offset_x": -23,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

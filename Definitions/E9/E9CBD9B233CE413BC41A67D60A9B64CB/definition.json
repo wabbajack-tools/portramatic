@@ -20,27 +20,38 @@
     "tiefling",
     "anthony",
     "dipaolo",
-    "https://www.artstation.com/artwork/g1zkm"
+    "https://www.artstation.com/artwork/g1zkm",
+    "female",
+    "paladin",
+    "angel",
+    "anime",
+    "girl",
+    "pin",
+    "up",
+    "guys"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -24.799999999999983,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -20.600000000000136,
     "offset_y": -22.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -27.89814814814804,
     "offset_y": -1.5833333333333712,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

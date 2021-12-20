@@ -2,27 +2,36 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/111/222/large/grzegorz-rutkowski-dwarf-2-4.jpg?1480452628",
   "md5": "738D9D71D56AC7C3C257A3514E26441D",
   "tags": [
-    ""
+    "",
+    "greg",
+    "rutkowski",
+    "witch",
+    "digital",
+    "swamp",
+    "concept"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -1295,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -792,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -704,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

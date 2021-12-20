@@ -2,27 +2,49 @@
   "source": "https://i.imgur.com/lRbKxPd.jpeg",
   "md5": "7AA6DBADFAF92E7283AD0453E1B55AB2",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "conan",
+    "barbarian",
+    "artwork",
+    "pirates",
+    "caribbean",
+    "tarzan",
+    "jane",
+    "david",
+    "goliath",
+    "hydra",
+    "simon",
+    "dominic",
+    "brewer",
+    "meeting",
+    "noumenon",
+    "edvige",
+    "faini"
   ],
   "small": {
     "scale": 1,
     "offset_x": -302,
     "offset_y": -232,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -272,
     "offset_y": -187,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -68,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

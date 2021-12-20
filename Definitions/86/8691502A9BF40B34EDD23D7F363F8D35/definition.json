@@ -18,27 +18,43 @@
     "sculpture",
     "white",
     "hair",
-    "mintoucan"
+    "mintoucan",
+    "rpg",
+    "character",
+    "witch",
+    "dirge",
+    "cerberus",
+    "ilsu",
+    "jang",
+    "characters",
+    "oni",
+    "skinwalers",
+    "alexander",
+    "dudar",
+    "design"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -288,
     "offset_y": -195,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -167,
     "offset_y": -165,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7600000000000007,
     "offset_x": -134,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

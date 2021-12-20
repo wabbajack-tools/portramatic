@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/e9/f6/dc/e9f6dc5a86be1f26b5914e2b476e50d0.png",
   "md5": "29342342A0EB355F71206DBBA9FD2AD9",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "warlock",
+    "female",
+    "samurai",
+    "armor",
+    "knight",
+    "dragon",
+    "death",
+    "arcane",
+    "warrior",
+    "charlo",
+    "nocete",
+    "medieval",
+    "characters",
+    "caio",
+    "santos",
+    "loki",
+    "god",
+    "mischief",
+    "li",
+    "hao",
+    "norse",
+    "mythology",
+    "character"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -200,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -219,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -32,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

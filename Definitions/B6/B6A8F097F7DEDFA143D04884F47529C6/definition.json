@@ -2,25 +2,46 @@
   "source": "https://i.pinimg.com/originals/35/47/87/354787020c300957e47c0d04c3e0fc19.jpg",
   "md5": "B6A8F097F7DEDFA143D04884F47529C6",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "forgotten",
+    "realms",
+    "gods",
+    "drow",
+    "cats",
+    "\u0026",
+    "catacombs",
+    "suzanne",
+    "helmigh",
+    "animal",
+    "shieldmaiden",
+    "marcos",
+    "g.",
+    "geymonat"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -319,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -162,
     "offset_y": -134,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -127,
     "offset_y": -95,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

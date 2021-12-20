@@ -2,27 +2,59 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/159/404/large/igor-sid-122-3.jpg?1517436463",
   "md5": "68DC12864B0CA6562FB9986FC31541F8",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "40k",
+    "characters",
+    "flesh",
+    "tearers",
+    "space",
+    "marine",
+    "chapter",
+    "master",
+    "knight",
+    "armor",
+    "fallout",
+    "new",
+    "vegas",
+    "batman",
+    "under",
+    "red",
+    "hood",
+    "abaddon",
+    "beyond",
+    "human",
+    "deiv",
+    "calviz",
+    "david",
+    "cyclops",
+    "phoenix",
+    "force",
+    "gerard",
+    "kravchuk"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -457.7142857142851,
     "offset_y": -423.99999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -233.71428571428567,
     "offset_y": -245.71428571428572,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -75.42857142857179,
     "offset_y": -44.57142857142844,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

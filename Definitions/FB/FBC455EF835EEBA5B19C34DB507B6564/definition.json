@@ -4,27 +4,47 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "elf",
+    "druid",
+    "moon",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "through",
+    "mists",
+    "twelve",
+    "guage"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -357,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -174,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -106,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

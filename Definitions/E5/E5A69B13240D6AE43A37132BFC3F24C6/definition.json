@@ -33,27 +33,42 @@
     "portfolio",
     "yeonghee",
     "cho",
-    "women"
+    "women",
+    "baby",
+    "superhero",
+    "costume",
+    "captain",
+    "action",
+    "costumes",
+    "heroes",
+    "night",
+    "pirate",
+    "nata",
+    ".",
+    "pirates"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -578.9999999999989,
     "offset_y": -65.20000000000016,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -193.79999999999995,
     "offset_y": -9.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -143.3611111111113,
     "offset_y": -4.000000000000227,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

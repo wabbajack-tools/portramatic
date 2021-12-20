@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/e8/60/fd/e860fd34f1614d2dc7d0075603073f19.jpg",
   "md5": "6F39C028E93AC2007B3A5CA230C40373",
   "tags": [
-    ""
+    "",
+    "new",
+    "balance",
+    "drawings",
+    "design",
+    "form",
+    "anime",
+    "girl",
+    "alice",
+    "wonderland"
   ],
   "small": {
     "scale": 1.9100000000000008,
     "offset_x": -442.00000000000017,
     "offset_y": -204.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -208.66666666666669,
     "offset_y": -132.66666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -141.33333333333326,
     "offset_y": -73.33333333333343,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

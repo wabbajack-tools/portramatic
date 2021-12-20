@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/35/d6/4a/35d64ad28322821b82241f5678962a5e.jpg",
   "md5": "91581905718F72490CD49BBC1DF0D15F",
   "tags": [
-    ""
+    "",
+    "girl",
+    "knight",
+    "armor",
+    "female",
+    "costume",
+    "warrior",
+    "plate",
+    "samurai",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "\uC7A5\uBBF8",
+    "\uCE90\uB9AD\uD130",
+    "\uCEE8\uC149",
+    "rose",
+    "concept",
+    "_",
+    "moowm",
+    "red",
+    "\u0026",
+    "silver",
+    "bugeon",
+    "choi",
+    "full",
+    "yeajin",
+    "heo",
+    "https://www"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -285,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -89,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

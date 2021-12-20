@@ -2,25 +2,37 @@
   "source": "https://s1.zerochan.net/Georg.Carmine.600.3296635.jpg",
   "md5": "8CE0641A913968C28CBEA44930CD181A",
   "tags": [
-    "Georg Carmine V"
+    "Georg Carmine V",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "socks",
+    "shoes",
+    "sandals"
   ],
   "small": {
     "scale": 1.9800000000000009,
     "offset_x": -247.3333333333299,
     "offset_y": -48.666666666666714,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -74.66666666666725,
     "offset_y": -6.666666666666657,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9700000000000009,
     "offset_x": -2.666666666665151,
     "offset_y": -5.333333333332973,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

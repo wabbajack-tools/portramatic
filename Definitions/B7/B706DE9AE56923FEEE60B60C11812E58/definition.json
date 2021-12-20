@@ -5,27 +5,35 @@
     "human",
     "female",
     "rogue",
-    "mage"
+    "mage",
+    "nevernight",
+    "chronicle",
+    "kristoff",
+    "fan",
+    "book"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -621.7999999999997,
     "offset_y": -223.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5601666666666665,
     "offset_x": -336.1999999999998,
     "offset_y": -88.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8514166666666663,
     "offset_x": -458.3240740740748,
     "offset_y": -109.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

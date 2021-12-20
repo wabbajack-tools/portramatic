@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/b4/ea/31/b4ea31f0e4cb13932370e65d4d7a4188.jpg",
   "md5": "55BF73392FDB510E12C12FFD724505BB",
   "tags": [
-    ""
+    "",
+    "heroquest",
+    "box",
+    "barbarian",
+    "hero",
+    "human",
+    "dungeons",
+    "dragons",
+    "lord",
+    "rings",
+    "knight",
+    "armor",
+    "cahracters",
+    "25th",
+    "monsters",
+    "pit",
+    "studio",
+    "monster",
+    "character",
+    "scifi",
+    "concept",
+    "witch",
+    "doctor",
+    "giovanni",
+    "lazzari",
+    "african",
+    "design"
   ],
   "small": {
     "scale": 1.779999999999997,
     "offset_x": -439.99999999999943,
     "offset_y": -319.20000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -74.39999999999958,
     "offset_y": -71.19999999999976,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": 3.203703703703013,
     "offset_y": -144.16666666666617,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

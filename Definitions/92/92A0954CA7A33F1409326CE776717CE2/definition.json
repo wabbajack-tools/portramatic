@@ -9,27 +9,46 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "li",
+    "qian",
+    "chinese",
+    "girl",
+    "character",
+    "\u738B\u57CE\u4E89\u593A\u6218",
+    "chen",
+    "sihan",
+    "grimm",
+    "fairy",
+    "tales",
+    "cover",
+    "#",
+    "39",
+    "julius",
+    "abrera"
   ],
   "small": {
     "scale": 1.8500000000000008,
     "offset_x": -283,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -100,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.53,
     "offset_x": -40,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

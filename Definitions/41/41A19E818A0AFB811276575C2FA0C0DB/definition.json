@@ -1,28 +1,53 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2Fa3ba%2Ff%2F2009%2F313%2Fb%2Fc%2Fgolden_elf_by_molybdenumgp03.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2Fa3ba%2Ff%2F2009%2F313%2Fb%2Fc%2Fgolden_elf_by_molybdenumgp03.jpg\u0026f=1\u0026nofb=1",
   "md5": "41A19E818A0AFB811276575C2FA0C0DB",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "ladies",
+    "3d",
+    "model",
+    "characters",
+    "cartoon",
+    "woman",
+    "female",
+    "assassin",
+    "clash",
+    "empires",
+    "concept",
+    "house",
+    "alexis",
+    "huiyen",
+    "chen",
+    "corsair",
+    "mage",
+    "character",
+    "design",
+    "rodrigo",
+    "rivas"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -546,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -180,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -106,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

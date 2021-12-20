@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/58/3c/be/583cbe13bd939dc63a9a65f31746085f.jpg",
   "md5": "8A1FDDD141E17ECE0756A249FA676CC9",
   "tags": [
-    ""
+    "",
+    "dwarves",
+    "male",
+    "dwarf",
+    "fighter",
+    "lord",
+    "rings",
+    "wei",
+    "feng",
+    "tribute",
+    "johan",
+    "grenier",
+    "2020",
+    "monster",
+    "creatures",
+    "dark",
+    "abyssal",
+    "tooth",
+    "wu",
+    "2021",
+    "magical",
+    "sci",
+    "fi",
+    "characters",
+    "armor",
+    "antti",
+    "hakosaari"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -158,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -71,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -112,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,54 @@
     "female",
     "hunter",
     "archer",
-    "warrior"
+    "warrior",
+    "unicorn",
+    "horn",
+    "instrument",
+    "theseus",
+    "knight",
+    "death",
+    "devil",
+    "witcher",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "king",
+    "dead",
+    "regular",
+    "tomasz",
+    "jedruszek",
+    "lorenzo",
+    "nuti",
+    "disegnatore",
+    "rusty",
+    "brige"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -555,
     "offset_y": -734,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8814166666666663,
     "offset_x": -185,
     "offset_y": -319,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7619166666666668,
     "offset_x": -284,
     "offset_y": -120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

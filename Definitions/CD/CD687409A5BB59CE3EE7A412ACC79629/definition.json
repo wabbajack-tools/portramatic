@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/60/df/36/60df36ce969f09dd7ad08efb0ca88436.jpg",
   "md5": "CD687409A5BB59CE3EE7A412ACC79629",
   "tags": [
-    ""
+    "",
+    "repentant",
+    "heart",
+    "sinner",
+    "repentance",
+    "lds",
+    "knight",
+    "armor",
+    "samurai",
+    "orc",
+    "warrior",
+    "armors",
+    "heavy",
+    "medieval",
+    "knights",
+    "alien",
+    "ting",
+    "xu",
+    "https://www.artstation.com/artwork/4bevgw",
+    "half-elf",
+    "barbarians",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "2021",
+    "barbarian",
+    "dungeons",
+    "reptile",
+    "ariel",
+    "perez",
+    "https://www.artstation.com/artwork/enzpa"
   ],
   "small": {
     "scale": 1.929999999999997,
     "offset_x": -386.3999999999995,
     "offset_y": -188.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4000000000000004,
     "offset_x": -206.39999999999958,
     "offset_y": -69.5999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -84.89814814814872,
     "offset_y": -41.6481481481477,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

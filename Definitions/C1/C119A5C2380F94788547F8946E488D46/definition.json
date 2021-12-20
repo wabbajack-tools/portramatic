@@ -3,27 +3,42 @@
   "md5": "C119A5C2380F94788547F8946E488D46",
   "tags": [
     "dragon",
-    "silver"
+    "silver",
+    "female",
+    "black",
+    "ring",
+    "statues",
+    "bronze",
+    "old",
+    "fashion",
+    "dinosaures",
+    "gilles",
+    "roussel",
+    "aka",
+    "boulet"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -91.3333333333332,
     "offset_y": -35.33333333333334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -38.000000000000114,
     "offset_y": -25.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -13.333333333333258,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

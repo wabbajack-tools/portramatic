@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/736x/6a/cf/73/6acf73c5d516e53c9b628451a38a87a1.jpg",
   "md5": "78B8FC51E85B019F5C52EC8669CD47D6",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "character",
+    "warrior",
+    "drawing",
+    "fighter",
+    "league",
+    "legends",
+    "devil",
+    "may",
+    "cry",
+    "female",
+    "pirate",
+    "legend",
+    "zelda",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 1,
     "offset_x": 469,
     "offset_y": -210,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -471,
     "offset_y": -631,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2230,
     "offset_y": -1150,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

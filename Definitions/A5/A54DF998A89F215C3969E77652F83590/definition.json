@@ -4,27 +4,50 @@
   "tags": [
     "human",
     "female",
-    "archer"
+    "archer",
+    "warhammer",
+    "40k",
+    "king",
+    "arthur\u0027s",
+    "last",
+    "battle",
+    "marat",
+    "latypov",
+    "en",
+    "2020",
+    "heroe",
+    "humanoide",
+    "elf",
+    "resources",
+    "\u9B54\u738B\u7684\u5B88\u8B77\u8005",
+    "mumu",
+    "mei",
+    "monster",
+    "illustration",
+    "beasts"
   ],
   "small": {
     "scale": 1.14,
     "offset_x": -1227.5,
     "offset_y": -434,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999996,
     "offset_x": -701.5,
     "offset_y": -215,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999995,
     "offset_x": -503,
     "offset_y": -57,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

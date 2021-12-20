@@ -6,27 +6,48 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "action",
+    "wallpapers",
+    "hd",
+    "desktop",
+    "wallpaper",
+    "latex",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "polarity",
+    "nick",
+    "gan",
+    "artstation.",
+    "knight",
+    "character",
+    "inspiration"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -425,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -164,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6108333333333329,
     "offset_x": -328,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

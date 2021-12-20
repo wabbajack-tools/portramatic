@@ -2,27 +2,50 @@
   "source": "https://64.media.tumblr.com/f439ea7977a6577ab483fdaec8553550/tumblr_p2acuagocN1rss1kvo1_1280.jpg",
   "md5": "50BB6184795802D66B9947E803FB61D6",
   "tags": [
-    ""
+    "",
+    "kvothe",
+    "fan",
+    "name",
+    "wind",
+    "characters",
+    "artwork",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "harry",
+    "potter",
+    "camille",
+    "fourcade",
+    "azerite",
+    "sasha",
+    "figarella",
+    "girl",
+    "anime"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -134,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -26,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -50,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

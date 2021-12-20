@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/FFISoWVVQAEHNuf?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/FFISoWVVQAEHNuf?format=jpg\u0026name=4096x4096",
   "md5": "ABDB80D2831A4C8606E4FA530B604635",
   "tags": [
     "half-orc druid"
@@ -8,21 +8,24 @@
     "scale": 0.2199999999999993,
     "offset_x": -300,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2410833333333327,
     "offset_x": -252,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.2665833333333322,
     "offset_x": -84,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

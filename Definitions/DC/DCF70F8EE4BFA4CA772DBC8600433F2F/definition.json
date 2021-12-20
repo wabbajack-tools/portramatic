@@ -7,27 +7,52 @@
     "warrior",
     "prince",
     "mage",
-    "priest"
+    "priest",
+    "hades",
+    "fan",
+    "artwork",
+    "greek",
+    "death",
+    "knight",
+    "assassin",
+    "lich",
+    "king",
+    "mermonster",
+    "lane",
+    "brown",
+    "https://www.artstation.com/artwork/e044zp",
+    "elemental",
+    "anton",
+    "valiukonis",
+    "women",
+    "scene",
+    "girl",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -696,
     "offset_y": -408,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -224,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -54,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

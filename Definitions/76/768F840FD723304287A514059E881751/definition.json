@@ -4,27 +4,52 @@
   "tags": [
     "human",
     "female",
-    "dancer"
+    "dancer",
+    "priest",
+    "high",
+    "priestess",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "kassandra",
+    "eivor",
+    "\uC19C\uC0AC\uD0D5\uC53B\uB294",
+    "\uBB3C\uACF0",
+    "blue",
+    "fairies",
+    "eulalie",
+    "brunaud",
+    "https://www.artstation.com/artwork/jz3or"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -332,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -274,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -92,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,50 @@
     "sun",
     "khamunaki",
     "red",
-    "sonja"
+    "sonja",
+    "female",
+    "assassin",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "eagle",
+    "knight",
+    "shoo",
+    "concept",
+    "various",
+    "commissions",
+    "kim",
+    "sokol",
+    "warhammer",
+    "character",
+    "designs",
+    "for",
+    "paizo\u0027s"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -291,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -205,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -142,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

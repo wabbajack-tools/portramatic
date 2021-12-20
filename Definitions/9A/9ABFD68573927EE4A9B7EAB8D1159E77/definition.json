@@ -23,27 +23,39 @@
     "hunter",
     "anton",
     "fort",
-    "https://www"
+    "https://www",
+    "female",
+    "assassin",
+    "necromancer",
+    "armor",
+    "cinder",
+    "lana",
+    "monad",
+    "warrior",
+    "heroes"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -468,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999965,
     "offset_x": -190,
     "offset_y": -104,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -4,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

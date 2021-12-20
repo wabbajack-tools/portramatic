@@ -27,7 +27,7 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
@@ -42,27 +42,40 @@
     "eom",
     "dark",
     "portraits",
-    "artwork"
+    "artwork",
+    "warriors",
+    "nature",
+    "snow",
+    "white",
+    "huntsman",
+    "dragon",
+    "wizard",
+    "maxi",
+    "hoy",
+    "https://www.artstation.com/artwork/krjxn"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -209.60000000000002,
     "offset_y": -88.79999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -135.2000000000001,
     "offset_y": -70.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -27.231481481481296,
     "offset_y": -38.44444444444446,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

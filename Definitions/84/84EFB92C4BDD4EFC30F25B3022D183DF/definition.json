@@ -2,27 +2,37 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/009/912/905/4k/dao-le-trong-mothianna-the-diamond-sword-export.jpg?1521557359",
   "md5": "84EFB92C4BDD4EFC30F25B3022D183DF",
   "tags": [
-    ""
+    "",
+    "beautiful",
+    "water",
+    "fairy",
+    "angel",
+    "artwork",
+    "drawing",
+    "fairies"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -697,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -357,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -790,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

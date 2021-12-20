@@ -4,27 +4,51 @@
   "tags": [
     "elf",
     "female",
-    "mage"
+    "mage",
+    "red",
+    "hair",
+    "witch",
+    "aesthetic",
+    "halloween",
+    "narnia",
+    "fairies",
+    "morgan",
+    "le",
+    "fay",
+    "julia",
+    "soleillo",
+    "https://www.artstation.com/artwork/3vz22",
+    "olde",
+    "republic",
+    "draugr",
+    "general",
+    "grevious",
+    "jake",
+    "bartok",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -497,
     "offset_y": -435,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999997,
     "offset_x": -217,
     "offset_y": -191,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -128,
     "offset_y": -146,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

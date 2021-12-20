@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/8a/66/dc/8a66dc5c73ea660b8a82f51378c3463d.jpg",
   "md5": "572DF6EA34353FFDE5813B1F6892830C",
   "tags": [
-    ""
+    "",
+    "anime",
+    "men",
+    "male",
+    "warrior",
+    "black",
+    "man",
+    "medieval",
+    "knights",
+    "dark",
+    "elf",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "amor",
+    "fati",
+    "nerissa",
+    "alchemist",
+    "eleonora",
+    "lisi",
+    "emiel",
+    "salvano",
+    "sixmorevodka",
+    "studio",
+    "2021",
+    "wortmann"
   ],
   "small": {
     "scale": 2.079999999999999,
     "offset_x": -469,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -160,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8900000000000008,
     "offset_x": -178,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

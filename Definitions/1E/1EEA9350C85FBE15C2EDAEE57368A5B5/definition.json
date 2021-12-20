@@ -4,27 +4,44 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "nier",
+    "automata",
+    "2b",
+    "artwork",
+    "back",
+    "b2",
+    "yoga",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "cocktail_dress",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -304,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -159,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -3,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

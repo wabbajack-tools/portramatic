@@ -26,27 +26,46 @@
     "harder",
     "tiefling",
     "bard",
-    "fan"
+    "fan",
+    "women",
+    "half",
+    "drow",
+    "medieval",
+    "knights",
+    "female",
+    "assassin",
+    "pirate",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "design",
+    "dungeons",
+    "monks",
+    "dragons",
+    "characters",
+    "paladin"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -492,
     "offset_y": -170,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -507,
     "offset_y": -203,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -194,
     "offset_y": -196,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

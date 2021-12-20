@@ -5,27 +5,35 @@
     "gnome",
     "female",
     "rogue",
-    "mage"
+    "mage",
+    "papa",
+    "ninja",
+    "serge",
+    "birault",
+    "lucy"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -162.79999999999973,
     "offset_y": -106.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6201666666666665,
     "offset_x": -55.19999999999982,
     "offset_y": -21.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0714166666666665,
     "offset_x": -16.324074074074815,
     "offset_y": -11.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

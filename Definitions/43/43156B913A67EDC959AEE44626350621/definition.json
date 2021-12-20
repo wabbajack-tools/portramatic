@@ -3,27 +3,54 @@
   "md5": "43156B913A67EDC959AEE44626350621",
   "tags": [
     "lich",
-    "elf"
+    "elf",
+    "vampire",
+    "masquerade",
+    "modern",
+    "male",
+    "hobbit",
+    "wicked",
+    "witch",
+    "dragon",
+    "age",
+    "origins",
+    "rogue",
+    "ahmed",
+    "aldoori",
+    "https://www",
+    "hobgoblin",
+    "jelsaag",
+    "yorsy",
+    "hernandez",
+    "dark",
+    "souls",
+    "fire",
+    "keeper",
+    "zoma",
+    "phamoz"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -186,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -28,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -18,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

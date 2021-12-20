@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/vabGFJd.jpeg",
   "md5": "548120CC89E5817A06C7AEC07182B756",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "custom",
+    "portraits",
+    "aasimar",
+    "character",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "spy",
+    "inna",
+    "kozak",
+    "artwork",
+    "rogues",
+    "faeries",
+    "taras",
+    "susak",
+    "characters",
+    "design",
+    "sister",
+    "saphia",
+    "reg",
+    "mario",
+    "v\u00E1zquez",
+    "women"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -146,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -55,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -42,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

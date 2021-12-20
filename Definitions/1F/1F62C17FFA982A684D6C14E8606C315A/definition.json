@@ -4,27 +4,55 @@
   "tags": [
     "human",
     "female",
-    "archer"
+    "archer",
+    "assassin",
+    "spartan",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "\u0027o\u0027hammer",
+    "girl",
+    "sonacia",
+    "youngmin",
+    "suh",
+    "\u7EFF\u5200\u4FA0",
+    "he",
+    "xiaosong",
+    "concept",
+    "characters",
+    "character",
+    "design",
+    "forest",
+    "jung",
+    "moon",
+    "lim"
   ],
   "small": {
     "scale": 1.1300000000000003,
     "offset_x": -974,
     "offset_y": -490,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -369,
     "offset_y": -166,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -244,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

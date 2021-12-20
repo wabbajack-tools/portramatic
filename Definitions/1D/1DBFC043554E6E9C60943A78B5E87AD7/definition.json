@@ -11,27 +11,49 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "accessories",
+    "belt",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "dottie",
+    "call",
+    "cthulu",
+    "rachel",
+    "denton",
+    "https://www.artstation.com/artwork",
+    "maria-ahat",
+    "kira",
+    "mayer"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -296.2999999999997,
     "offset_y": -85.10000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999932,
     "offset_x": -56.19999999999976,
     "offset_y": -47.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -152.32407407407482,
     "offset_y": -105.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

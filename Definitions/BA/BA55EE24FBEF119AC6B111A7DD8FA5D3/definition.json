@@ -5,27 +5,56 @@
     "whisp",
     "gnome",
     "wizard",
-    "mattforsyth"
+    "mattforsyth",
+    "dishonored",
+    "corvo",
+    "attano",
+    "fan",
+    "game",
+    "samurai",
+    "armor",
+    "wood",
+    "elf",
+    "armors",
+    "female",
+    "pirate",
+    "dragon",
+    "sadie",
+    "ironcrest",
+    "bloodwood",
+    "warden",
+    "brutality",
+    "rpg",
+    "character",
+    "set",
+    "07",
+    "ernesto",
+    "irawan",
+    "sk",
+    "\u3066\u3044\u304F\u3093"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -126.66666666666163,
     "offset_y": -30.999999999997527,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -32.33333333333326,
     "offset_y": -33.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -7.33333333333303,
     "offset_y": -1.9999999999998295,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

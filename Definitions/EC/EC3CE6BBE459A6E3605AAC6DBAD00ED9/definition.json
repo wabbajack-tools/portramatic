@@ -2,25 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55a55ef6-0eef-4cdf-a68a-e44d2a96a438/de8hjy0-977841cc-b75b-4974-ac70-a022f87126b8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1YTU1ZWY2LTBlZWYtNGNkZi1hNjhhLWU0NGQyYTk2YTQzOFwvZGU4aGp5MC05Nzc4NDFjYy1iNzViLTQ5NzQtYWM3MC1hMDIyZjg3MTI2YjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ih3Xc0uR9VEYAZZTeKEeMm-Jrylxzg-L68tRf_G4_9M",
   "md5": "EC3CE6BBE459A6E3605AAC6DBAD00ED9",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -254,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -194,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -62,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

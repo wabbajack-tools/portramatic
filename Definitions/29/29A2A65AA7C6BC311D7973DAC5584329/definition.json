@@ -11,7 +11,7 @@
     "assassin",
     "armor",
     "aftermath",
-    "ângelo",
+    "\uFFFDngelo",
     "bortolini",
     "artifact",
     "stepan",
@@ -20,27 +20,49 @@
     "lady",
     "aleite",
     "david",
-    "sondered"
+    "sondered",
+    "character",
+    "concept",
+    "elf",
+    "portraits",
+    "moderator",
+    "original",
+    "tutorial",
+    "video",
+    "provided",
+    "alex",
+    "chow",
+    "movie",
+    "poster",
+    "#3",
+    "fallout",
+    "project",
+    "arroyo",
+    "harlen",
+    "bertrand"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -24,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -5,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -40,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

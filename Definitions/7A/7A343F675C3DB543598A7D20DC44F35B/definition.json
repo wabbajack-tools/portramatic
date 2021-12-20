@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e39bc8-2533-40fc-bccd-5fe75d3e2b24/d5jyye0-d8b143f1-236a-4deb-8760-2deb425a338c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZTM5YmM4LTI1MzMtNDBmYy1iY2NkLTVmZTc1ZDNlMmIyNFwvZDVqeXllMC1kOGIxNDNmMS0yMzZhLTRkZWItODc2MC0yZGViNDI1YTMzOGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BZSxnsB1w7IQuTKAdwtCqrJ3I9MyRrrSDIP6aLD6wbc",
   "md5": "7A343F675C3DB543598A7D20DC44F35B",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "cards",
+    "monster",
+    "characters",
+    "demon",
+    "hunter",
+    "warhammer",
+    "40k",
+    "hua",
+    "lu",
+    "cthulhu",
+    "cool",
+    "artwork",
+    "centaur",
+    "masaki",
+    "hayashi",
+    "https://www"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -382,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -147,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9,
     "offset_x": -68,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

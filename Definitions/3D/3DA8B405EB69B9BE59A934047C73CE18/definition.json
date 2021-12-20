@@ -29,27 +29,40 @@
     "www.redpencilart.com",
     "red",
     "pencil",
-    "creepy"
+    "creepy",
+    "black",
+    "woman",
+    "african",
+    "american",
+    "female",
+    "assassin",
+    "swans",
+    "valkyrie",
+    "joshua",
+    "cairos"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -218,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -246,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -360,
     "offset_y": -204,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

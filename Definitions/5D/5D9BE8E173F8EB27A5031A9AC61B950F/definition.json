@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/09/66/88/09668861a3ca73a9185b758f633caf02.jpg",
   "md5": "5D9BE8E173F8EB27A5031A9AC61B950F",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "digital",
+    "hair",
+    "girl",
+    "with",
+    "red",
+    "personal",
+    "work",
+    "hyunjoong",
+    ".",
+    "https://www",
+    "soullamp",
+    "walker",
+    "lee",
+    "kent",
+    "swordsman",
+    "yun",
+    "ju",
+    "jeon"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -151,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -2,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -72,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,27 +8,55 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "human",
+    "male",
+    "character",
+    "concept",
+    "armors",
+    "dynasty",
+    "warriors",
+    "lamellar",
+    "knight",
+    "armor",
+    "centaur",
+    "alexander",
+    "shatohin",
+    "female",
+    "dungeons",
+    "dragons",
+    "characters",
+    "pirate",
+    "army",
+    "faction",
+    "assassin\u0027s",
+    "creed",
+    "odyssey",
+    "fred",
+    "rambaud"
   ],
   "small": {
     "scale": 2.000000000000001,
     "offset_x": -358.0000000000002,
     "offset_y": -100.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -144.00000000000006,
     "offset_y": -25.666666666666487,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -12.666666666666742,
     "offset_y": -2.6666666666660035,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

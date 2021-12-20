@@ -5,27 +5,55 @@
     "elf",
     "female",
     "rogue",
-    "mage"
+    "mage",
+    "blood",
+    "fan",
+    "girl",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "jean",
+    "grey",
+    "laiken",
+    "designz",
+    "https://www.artstation.com/artwork/nv0le",
+    "marvel",
+    "main",
+    "character",
+    "design",
+    "salvador",
+    "trakal",
+    "redraw",
+    "muay",
+    "thai",
+    "maya",
+    "lin"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -369,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -158,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -120,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

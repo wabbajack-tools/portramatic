@@ -9,27 +9,62 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "angel",
+    "sketch",
+    "female",
+    "guardian",
+    "drawings",
+    "concept",
+    "knight",
+    "armor",
+    "assassin",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "2013",
+    "bbang",
+    "zipna",
+    "https://www.artstation.com/artwork/2013-4ae2f3ff-380e-4508",
+    "light",
+    "source",
+    "konstantin",
+    "porubov",
+    "cool",
+    "dark",
+    "artwork",
+    "virlask",
+    "reo",
+    "solomon",
+    "destiny",
+    "fallen",
+    "game",
+    "comic"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -732,
     "offset_y": -226,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -286,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999994,
     "offset_x": -88,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

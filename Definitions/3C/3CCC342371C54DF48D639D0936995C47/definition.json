@@ -1,28 +1,51 @@
 {
-  "source": "https://preview.redd.it/d9pq69af7cm51.jpg?auto=webp&s=a78bda29a5bd4bb153835394e8ef6cab5988193e",
+  "source": "https://preview.redd.it/d9pq69af7cm51.jpg?auto=webp\u0026s=a78bda29a5bd4bb153835394e8ef6cab5988193e",
   "md5": "3CCC342371C54DF48D639D0936995C47",
   "tags": [
-    ""
+    "",
+    "lee",
+    "sin",
+    "splash",
+    "acolyte",
+    "league",
+    "legends",
+    "storm",
+    "dragon",
+    "leesin",
+    "fanart",
+    "ckn",
+    "cuong",
+    "shinobi",
+    "smoke",
+    "fajareka",
+    "setiawan",
+    "eternal",
+    "felrauk",
+    "outcast",
+    "kevin"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -350,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -264,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -604,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

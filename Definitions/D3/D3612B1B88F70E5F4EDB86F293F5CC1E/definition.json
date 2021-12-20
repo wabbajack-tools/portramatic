@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/05/d3/fc/05d3fc7b0eb4fd18c476bfecf3ff9907.jpg",
   "md5": "D3612B1B88F70E5F4EDB86F293F5CC1E",
   "tags": [
-    ""
+    "",
+    "human",
+    "female",
+    "warrior",
+    "elven",
+    "character",
+    "league",
+    "legends",
+    "yugio",
+    "dark",
+    "magician",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -178,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -56,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6899999999999982,
     "offset_x": -94,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

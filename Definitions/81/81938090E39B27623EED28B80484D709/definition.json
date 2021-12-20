@@ -2,25 +2,66 @@
   "source": "https://i.pinimg.com/564x/4c/62/07/4c62079dae04c70e309bd21ad24e3c50.jpg",
   "md5": "81938090E39B27623EED28B80484D709",
   "tags": [
-    ""
+    "",
+    "thor",
+    "vs",
+    "giant",
+    "frost",
+    "giants",
+    "ice",
+    "heavy",
+    "armor",
+    "gears",
+    "war",
+    "plate",
+    "orc",
+    "warrior",
+    "scale",
+    "knight",
+    "tanker",
+    "sung",
+    "wook",
+    "baik",
+    "barbarians",
+    "vlad",
+    "gheneli",
+    "character",
+    "design",
+    "illustration",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "film",
+    "media",
+    "\u0026",
+    "entertainment",
+    "artists"
   ],
   "small": {
     "scale": 1.9200000000000008,
     "offset_x": -450,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -149,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -70,
     "offset_y": -79,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

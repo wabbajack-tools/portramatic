@@ -15,27 +15,40 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "holstaur",
+    "#as51",
+    "gvart",
+    "gv"
   ],
   "small": {
     "scale": 0.84,
     "offset_x": -248,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -138,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4299999999999984,
     "offset_x": -238,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

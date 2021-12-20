@@ -5,27 +5,51 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    "knight",
+    "armor",
+    "plate",
+    "dawn",
+    "war",
+    "assassin",
+    "sets",
+    "medieval",
+    "knights",
+    "a",
+    "man",
+    "un",
+    "chat",
+    "noir",
+    "griffin",
+    "renee",
+    "ryckman",
+    "\u5B59\u540C\u5B66-cg\u7CBE\u54C1\u73ED-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -741,
     "offset_y": -274,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6214166666666661,
     "offset_x": -412,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6319999999999992,
     "offset_x": -238,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,42 @@
     "female",
     "priest",
     "mage",
-    "queen"
+    "queen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "astrologist",
+    "chaei",
+    "min",
+    "concept",
+    "characters",
+    "character"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -784,
     "offset_y": -318,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -474,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -296,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

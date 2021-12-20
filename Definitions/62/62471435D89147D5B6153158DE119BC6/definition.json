@@ -5,27 +5,54 @@
     "human",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "ruan",
+    "li",
+    "digital",
+    "painting",
+    "ji",
+    "maschinen",
+    "project",
+    "17",
+    "ignacio",
+    "fern\u00E1ndez",
+    "r\u00EDos",
+    "https://www.artstation.com/artwork",
+    "song",
+    "roland",
+    "dong",
+    "jianhua",
+    "girl",
+    "concept",
+    "characters",
+    "shani",
+    "syo",
+    "sui",
+    "witcher",
+    "books"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -332,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999994,
     "offset_x": -122,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8093333333333332,
     "offset_x": -72,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

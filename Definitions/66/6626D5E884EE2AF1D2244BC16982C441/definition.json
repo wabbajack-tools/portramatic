@@ -2,27 +2,50 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/019/774/237/large/hwan-21.jpg?1564972772",
   "md5": "6626D5E884EE2AF1D2244BC16982C441",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "warrior",
+    "ting",
+    "xu",
+    "woman",
+    "elf",
+    "high",
+    "sword-bearer",
+    "leo",
+    "safiriht",
+    "tiefling",
+    "druid",
+    "april",
+    "marble",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1010,
     "offset_y": -172,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -446,
     "offset_y": -84,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -312,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

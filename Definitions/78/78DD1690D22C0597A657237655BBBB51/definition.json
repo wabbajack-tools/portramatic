@@ -11,25 +11,58 @@
     "person",
     "human",
     "graphics",
-    "necromancer"
+    "necromancer",
+    "warrior",
+    "concept",
+    "fallen",
+    "evil",
+    "orc",
+    "lord",
+    "rings",
+    "conan",
+    "barbarian",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "auron",
+    "reliah",
+    "a.",
+    "minotaur",
+    "hak",
+    "sun",
+    "kim",
+    "https://www",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -218,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -72,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -65,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

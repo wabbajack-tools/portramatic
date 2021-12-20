@@ -1,5 +1,5 @@
 {
-  "source": "https://loginportal.funnyjunk.com/comments/Sorcerers+are+descended+from+a+powerful+bloodline+theyre+born+with+_71254d3be6be3f46faf552674c9a9c50.jpg",
+  "source": "https://loginportal.funnyjunk.com/comments/Sorcerers\u002Bare\u002Bdescended\u002Bfrom\u002Ba\u002Bpowerful\u002Bbloodline\u002Btheyre\u002Bborn\u002Bwith\u002B_71254d3be6be3f46faf552674c9a9c50.jpg",
   "md5": "71254D3BE6BE3F46FAF552674C9A9C50",
   "tags": [
     "lich",
@@ -27,27 +27,58 @@
     "suh",
     "priest",
     "jiyun",
-    "lim"
+    "lim",
+    "warrior",
+    "drawings",
+    "hunter",
+    "concept",
+    "character",
+    "knight",
+    "armor",
+    "death",
+    "heavy",
+    "mandalorian",
+    "star",
+    "wars",
+    "bounty",
+    "medieval",
+    "knights",
+    "skyrim",
+    "\u4EBA\u8BBE",
+    "\u95EE\u521D",
+    "\u59DA",
+    "https://www.artstation.com",
+    "illustration",
+    "chengtao",
+    "ma",
+    "https://www",
+    "goblin",
+    "soldier",
+    "gabriele",
+    "d\u0027aleo"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -298,
     "offset_y": -230,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -6,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -27,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,60 @@
   "tags": [
     "outsider",
     "male",
-    "mage"
+    "mage",
+    "game",
+    "thrones",
+    "targaryen",
+    "warrior",
+    "woman",
+    "ascent",
+    "artwork",
+    "gi",
+    "joe",
+    "rise",
+    "cobra",
+    "witcher",
+    "g.i.joe",
+    "warhammer",
+    "40k",
+    "evil",
+    "dead",
+    "dungeons",
+    "dragons",
+    "dennis",
+    "fr\u00F6hlich",
+    "science",
+    "fiction",
+    "retro",
+    "women",
+    "persian",
+    "\u5B66\u751F\u4F5C\u54C1",
+    "\u5929\u5929\u753B\u5802",
+    "daydaypainting",
+    "studio"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -165.79999999999973,
     "offset_y": -185.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -22.199999999999818,
     "offset_y": -6.600000000000421,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9600000000000009,
     "offset_x": -0.32407407407481514,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

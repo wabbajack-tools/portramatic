@@ -24,27 +24,59 @@
     "egypt",
     "human_made_object",
     "furniture_or_decor",
-    "candle_or_candle_holder"
+    "candle_or_candle_holder",
+    "male",
+    "wood",
+    "elf",
+    "rogue",
+    "half",
+    "female",
+    "teardrop",
+    "white-eye",
+    "assassin",
+    "clothing",
+    "design",
+    "for",
+    "game",
+    "characters",
+    "5518",
+    "studios",
+    "gaming",
+    "clothes",
+    "genghis",
+    "khan",
+    "character",
+    "concept",
+    "practice",
+    "soulis",
+    "grey",
+    "mahealani",
+    "rodrigues",
+    "artwork",
+    "armor"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -529,
     "offset_y": -335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -220,
     "offset_y": -192,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -331,
     "offset_y": -343,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

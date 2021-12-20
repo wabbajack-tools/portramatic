@@ -2,27 +2,49 @@
   "source": "http://img10.joyreactor.cc/pics/post/full/art-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0-art-Fantasy-%D0%9C%D0%B8%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-6109454.jpeg",
   "md5": "9E00C236CD11A0E1622BC3F46787B0FA",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "death",
+    "knight",
+    "masters",
+    "universe",
+    "loc",
+    "mansik",
+    "yang",
+    "\u03C0\u03BF\u03BB\u03B5\u03BC\u03B9\u03C3\u03C4\u03AD\u03C2",
+    "8/7/2016",
+    "maoshan",
+    "zhan",
+    "sable",
+    "warmics",
+    "mario",
+    "vazquez"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -520.8000000000002,
     "offset_y": -139.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -166.39999999999998,
     "offset_y": -56.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -16.018518518518476,
     "offset_y": -44.85185185185151,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

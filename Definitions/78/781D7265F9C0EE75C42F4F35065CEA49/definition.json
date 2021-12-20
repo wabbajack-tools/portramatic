@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/52/e5/8a/52e58a4c48c43e1d044beee9efd48d18.jpg",
   "md5": "781D7265F9C0EE75C42F4F35065CEA49",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "anime",
+    "female",
+    "guardian",
+    "dark",
+    "angels",
+    "archangel",
+    "raphael",
+    "fallen",
+    "st.",
+    "michael",
+    "vitory_angel",
+    "byoungkang",
+    "kwon",
+    "2020",
+    "viking",
+    "raph",
+    "herrera",
+    "lomotan",
+    "gisela",
+    "blade",
+    "goldnight",
+    "miguel",
+    "mercado"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -158,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -81,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -22,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

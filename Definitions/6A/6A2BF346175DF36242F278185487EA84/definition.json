@@ -19,27 +19,35 @@
     "karimi",
     "cecile",
     "yamanata",
-    "ho"
+    "ho",
+    "miniature",
+    "waiting",
+    "renderhub",
+    "3d",
+    "models"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -438.0000000000009,
     "offset_y": -190.99999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -276.4,
     "offset_y": -70.20000000000005,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -311.0462962962961,
     "offset_y": -145.2962962962963,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

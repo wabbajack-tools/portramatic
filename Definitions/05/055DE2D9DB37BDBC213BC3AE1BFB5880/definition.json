@@ -2,27 +2,47 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7cf080f2-55f5-4fbb-9244-5f11aa451c0d/debc5jq-9d3f06f8-a681-43b9-b645-51c5c4e3c7d9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZjA4MGYyLTU1ZjUtNGZiYi05MjQ0LTVmMTFhYTQ1MWMwZFwvZGViYzVqcS05ZDNmMDZmOC1hNjgxLTQzYjktYjY0NS01MWM1YzRlM2M3ZDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KCM9lL9mXzZZaUq420Q4xaiicsKQp9v0LbXrMZfIVtw",
   "md5": "055DE2D9DB37BDBC213BC3AE1BFB5880",
   "tags": [
-    ""
+    "",
+    "j.",
+    "scott",
+    "campbell",
+    "anime",
+    "girl",
+    "characters",
+    "guys",
+    "angel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "dystopian",
+    "league",
+    "erlan",
+    "arya"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -154,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -135,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -38,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

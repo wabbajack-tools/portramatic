@@ -2,27 +2,37 @@
   "source": "https://dailystormer.su/wp-content/uploads/2019/12/carlos-martinez-anger-final-31dic.jpg",
   "md5": "FE2C8200C55C1A87F877717CFDD4CD5E",
   "tags": [
-    ""
+    "",
+    "black",
+    "fire",
+    "demon",
+    "blue",
+    "dragons",
+    "flames",
+    "dragon"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -448.80000000000064,
     "offset_y": -57.60000000000019,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -233.60000000000002,
     "offset_y": -26.400000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -297.94444444444457,
     "offset_y": -11.212962962962933,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

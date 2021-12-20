@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/8c/b4/4c/8cb44ccd7e805cc631cce62b0009530c.jpg",
   "md5": "C2D87755425D12C6CB75191BEAD99752",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "concept",
+    "game",
+    "monster",
+    "league",
+    "legends",
+    "blood",
+    "elf",
+    "night",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "characters",
+    "fate",
+    "apocrypha",
+    "mordred",
+    "miyu",
+    "mayu",
+    "notifications",
+    "d"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -47,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -41,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -10,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,46 @@
     "elf",
     "female",
     "archer",
-    "hunter"
+    "hunter",
+    "dungeons",
+    "dragons",
+    "greek",
+    "gods",
+    "rhino",
+    "worrier",
+    "kishore",
+    "ghosh",
+    "druid",
+    "rio",
+    "sabda",
+    "lixin",
+    "yin\u0027s",
+    "submission",
+    "wild",
+    "west"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -721,
     "offset_y": -284,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.801583333333333,
     "offset_x": -484,
     "offset_y": -185,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9017499999999996,
     "offset_x": -478,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

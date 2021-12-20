@@ -16,27 +16,59 @@
     "weekend",
     "sketches",
     "eric",
-    "persson"
+    "persson",
+    "sorcerer",
+    "concept",
+    "wizard",
+    "staff",
+    "female",
+    "elf",
+    "character",
+    "dark",
+    "vampire",
+    "knight",
+    "manga",
+    "masquerade",
+    "lethargia",
+    "aleksandra",
+    "sergeeva",
+    "battle",
+    "\u3147\u3147",
+    "joo",
+    "\uD310\uD0C0\uC9C0",
+    "\uC77C\uB7EC\uC2A4\uD2B8\uB808\uC774\uC158",
+    "\uCE90\uB9AD\uD130",
+    "\uC544\uD2B8",
+    "d\u0026d",
+    "shadow",
+    "luca",
+    "mosqa",
+    "2021",
+    "design",
+    "inspiration"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -450,
     "offset_y": -175,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -116,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -4,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

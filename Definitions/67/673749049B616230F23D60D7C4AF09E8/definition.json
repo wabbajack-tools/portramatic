@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/originals/e2/a1/8a/e2a18a30f77c95573371731cf8e54014.png",
   "md5": "673749049B616230F23D60D7C4AF09E8",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "beard",
+    "dark",
+    "king",
+    "african",
+    "conor",
+    "mcgregor",
+    "statue",
+    "wilhelm",
+    "vera",
+    "dakhova",
+    "https://www"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -38,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -7,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -34,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/66/25/14/662514ce404bd99e589be1b14db27abf.jpg",
   "md5": "9F7393AF530200A31BA006A3F86CACDF",
   "tags": [
-    ""
+    "",
+    "lich",
+    "queen",
+    "wow",
+    "female",
+    "death",
+    "knight",
+    "league",
+    "legends",
+    "king",
+    "has",
+    "frost",
+    "giant",
+    "rod",
+    "wong",
+    "baruka",
+    "shadow",
+    "solo",
+    "leveling",
+    "bier",
+    "schwarz",
+    "jory",
+    "cassel",
+    "erta\u00E7",
+    "alt\u0131n\u00F6z"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -214,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -2,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -58,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,46 @@
   "source": "https://w0.peakpx.com/wallpaper/472/585/HD-wallpaper-maelstrom-art-fantasy-luminos-lee-kent-dark-elf-white.jpg",
   "md5": "A553C2C3DC1973B058571EB19245DC94",
   "tags": [
-    ""
+    "",
+    "evil",
+    "queen",
+    "dark",
+    "elf",
+    "\u65E0\u5357\u6613",
+    "wunanyi",
+    "golova",
+    "smotrit",
+    "anastasia",
+    "smirnova",
+    "character",
+    "portraits",
+    "paintings",
+    "hoary",
+    "andrew",
+    "kuzinskiy"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -72,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -140,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6800000000000006,
     "offset_x": -320,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

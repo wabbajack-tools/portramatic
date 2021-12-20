@@ -2,27 +2,69 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/036/848/127/large/yun-zhang-.jpg?1636600610",
   "md5": "EF3B4E412A348590A11C3E8914E4A062",
   "tags": [
-    ""
+    "",
+    "elven",
+    "bladesinger",
+    "eladrin",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "battle",
+    "sorcerer",
+    "\u2171",
+    "repainted",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "2020",
+    "digital",
+    "painting",
+    "character",
+    "girl_1",
+    "2018",
+    "no",
+    "dap",
+    "women",
+    "3d",
+    "model",
+    "design",
+    "inspiration",
+    "cecilia",
+    "blinded",
+    "witch",
+    "pat",
+    "suchatsirikul"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -755,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -302,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -44,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

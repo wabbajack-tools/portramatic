@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/originals/84/1f/87/841f8761f443439aca2c781ff9e8b0e4.jpg",
   "md5": "4F2220E9AD3EB6AF23449EDDF0790DBF",
   "tags": [
-    ""
+    "",
+    "digital",
+    "male",
+    "female",
+    "warrior",
+    "character",
+    "concept",
+    "blonde",
+    "hair"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -53,
     "offset_y": 0.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -50,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -138,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

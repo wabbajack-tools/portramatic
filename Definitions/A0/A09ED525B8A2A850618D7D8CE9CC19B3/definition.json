@@ -17,25 +17,59 @@
     "armor",
     "bronze",
     "male",
-    "bard"
+    "bard",
+    "varangian",
+    "vikings",
+    "guard",
+    "symbol",
+    "armors",
+    "knight",
+    "plate",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "japanese",
+    "x",
+    "bowen\uD83D\uDC0C",
+    "warrior",
+    "master",
+    "yi",
+    "xiao",
+    "jun",
+    "https://www",
+    "valhalla",
+    "awaits",
+    "rodion",
+    "vlasov"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -344,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -223,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -20,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

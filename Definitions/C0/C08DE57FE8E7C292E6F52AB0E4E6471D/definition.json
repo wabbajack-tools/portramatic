@@ -6,27 +6,54 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "lee",
+    "artist",
+    "mech",
+    "suit",
+    "steps",
+    "mirumoto",
+    "prodigy",
+    "sheila",
+    "amajida",
+    "samurai",
+    "warrior",
+    "woman",
+    "artwork",
+    "forest",
+    "escape",
+    "eilene",
+    "cherie",
+    "dark",
+    "disney",
+    "fine",
+    "pirate",
+    "kim",
+    "junghun",
+    "https://www.artstation.com/artwork/xgbyw"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -388,
     "offset_y": -202,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -152,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -142,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

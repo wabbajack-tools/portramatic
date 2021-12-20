@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/c0/61/df/c061dff7641796eea7362eaecda69aec.jpg",
   "md5": "28CB3202BF6DCEC568C2E9D4B0ABBCB4",
   "tags": [
-    ""
+    "",
+    "dwarves",
+    "dwarf",
+    "barbarian",
+    "miniature",
+    "cleric",
+    "orcs",
+    "dungeons",
+    "dragons",
+    "barbarians",
+    "female",
+    "pirate",
+    "gnoll",
+    "berserker",
+    "boris",
+    "rogozin",
+    "https://www.artstation.com/artwork/gnoll",
+    "alex",
+    "alexandrov",
+    "character",
+    "portraits",
+    "characters",
+    "for",
+    "ekaterina",
+    "burmak",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -572,
     "offset_y": -306,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -537,
     "offset_y": -237,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -500,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

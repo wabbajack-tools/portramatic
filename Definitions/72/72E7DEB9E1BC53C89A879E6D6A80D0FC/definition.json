@@ -2,27 +2,37 @@
   "source": "https://pbs.twimg.com/media/Eeg6dkLWsAAQARC.jpg",
   "md5": "72E7DEB9E1BC53C89A879E6D6A80D0FC",
   "tags": [
-    ""
+    "",
+    "hero",
+    "peril",
+    "heroine",
+    "super",
+    "thunderspear",
+    "mariusz",
+    "gandzel"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -123,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -42,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -22,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

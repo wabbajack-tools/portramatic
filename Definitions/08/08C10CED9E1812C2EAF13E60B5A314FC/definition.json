@@ -4,27 +4,52 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "witch",
+    "character",
+    "design",
+    "forest",
+    "anime",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "alien",
+    "warrior",
+    "jjahawa",
+    "roman",
+    "kupriianov",
+    "\u4E00\u9897\u5927\u8471",
+    "neko",
+    "fan",
+    "japanese",
+    "dan",
+    "pogrebny"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -553.7999999999997,
     "offset_y": -381.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -520.1999999999998,
     "offset_y": -391.6000000000004,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.35999999999999943,
     "offset_x": -10.324074074074815,
     "offset_y": -93.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

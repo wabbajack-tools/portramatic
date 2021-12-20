@@ -2,27 +2,54 @@
   "source": "https://7wallpapers.net/wp-content/uploads/WarCraft-III-Reforged-27.jpg",
   "md5": "68EA7A38548A97C678E5ECDAF3AD54CA",
   "tags": [
-    ""
+    "",
+    "warcraft",
+    "remastered",
+    "reforged",
+    "map",
+    "undead",
+    "death",
+    "knight",
+    "world",
+    "rogue",
+    "wow",
+    "night",
+    "elf",
+    "dark",
+    "\u0022the",
+    "lich",
+    "king\u0022",
+    "edgar",
+    "s\u00E1nchez",
+    "hidalgo",
+    "warcraft\u0027s",
+    "arthas",
+    "fan",
+    "r\u00E9mi",
+    "pondepeyre"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -201,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -160,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -224,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

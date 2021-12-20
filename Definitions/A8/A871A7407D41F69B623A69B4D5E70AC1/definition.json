@@ -9,27 +9,56 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "anime",
+    "demon",
+    "human",
+    "as",
+    "humans",
+    "fire",
+    "dragon",
+    "devil",
+    "may",
+    "cry",
+    "shrine",
+    "pansup",
+    "kim",
+    "character",
+    "design",
+    "dark",
+    "mother",
+    "francisco",
+    "garc\u00EDa",
+    "2020",
+    "game",
+    "thrones",
+    "aoe",
+    "card-mulan",
+    "red",
+    "pencil"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -268,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -69,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.54,
     "offset_x": -26,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

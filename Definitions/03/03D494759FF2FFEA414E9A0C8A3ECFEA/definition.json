@@ -6,27 +6,40 @@
     "male",
     "warrior",
     "rogue",
-    "prince"
+    "prince",
+    "ventrue",
+    "vampire",
+    "eve",
+    "female",
+    "a",
+    "knight",
+    "before",
+    "battle",
+    "yunkyeong",
+    "kim"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -336,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -131,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9496666666666667,
     "offset_x": -68,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

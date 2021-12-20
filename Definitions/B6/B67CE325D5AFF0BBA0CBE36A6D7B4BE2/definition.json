@@ -12,29 +12,52 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "warrior",
+    "cryptids",
+    "legend",
+    "cryptid",
+    "fallen",
+    "angel",
+    "card",
+    "2017",
+    "let\u0027s",
+    "get",
+    "rich",
+    "artwork",
+    "nirvana",
+    "dasom",
+    "equinox",
+    "charlie",
+    "bowater",
+    "aries",
+    "thong",
+    "nguyen"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -223,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -93,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -76,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

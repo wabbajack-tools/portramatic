@@ -6,27 +6,48 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "geralt",
+    "fan",
+    "rivia",
+    "witcher",
+    "girl",
+    "illustration",
+    "anna",
+    "larionova",
+    "obry",
+    "superman",
+    "instant",
+    "ip",
+    "character",
+    "aaa",
+    "xu",
+    "yang",
+    "fashion",
+    "woman"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -355.7999999999997,
     "offset_y": -59.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -154.19999999999976,
     "offset_y": -23.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -64.32407407407482,
     "offset_y": -21.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

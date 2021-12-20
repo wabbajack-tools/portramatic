@@ -4,27 +4,45 @@
   "tags": [
     "aasimar",
     "female",
-    "mtg"
+    "mtg",
+    "sephora",
+    "sky\u0027s",
+    "blade",
+    "sunforged",
+    "yorian",
+    "sky",
+    "regna\u0027s",
+    "brightblast",
+    "bayard",
+    "wu",
+    "ana",
+    "amari",
+    "shrike",
+    "fanart",
+    "gourd"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -857,
     "offset_y": -190,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -747,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -508,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

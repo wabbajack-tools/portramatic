@@ -4,27 +4,55 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "realistic",
+    "knight",
+    "skeleton",
+    "dragon",
+    "actionfigures",
+    "assassin",
+    "daedric",
+    "armor",
+    "metal",
+    "gear",
+    "rising",
+    "heavy",
+    "body",
+    "owl",
+    "jae",
+    "hyeok",
+    "jang",
+    "lancer",
+    "r",
+    "k",
+    "character",
+    "concept",
+    "characters",
+    "jaeyeong",
+    "cha"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -900,
     "offset_y": -279,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -502,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -388,
     "offset_y": -128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

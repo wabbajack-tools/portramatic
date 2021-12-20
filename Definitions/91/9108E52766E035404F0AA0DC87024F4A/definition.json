@@ -2,27 +2,52 @@
   "source": "https://static.wikia.nocookie.net/sans-nagito/images/b/b7/Ryker.jpeg/revision/latest?cb=20200911015053",
   "md5": "9108E52766E035404F0AA0DC87024F4A",
   "tags": [
-    ""
+    "",
+    "dark",
+    "demon",
+    "anime",
+    "half",
+    "angel",
+    "boy",
+    "names",
+    "girl",
+    "demons",
+    "castlevania",
+    "symphony",
+    "night",
+    "characters",
+    "dragon",
+    "armor",
+    "emperor",
+    "shuxian",
+    "zhang",
+    "jhin",
+    "zelaura.",
+    "joelin",
+    "tan"
   ],
   "small": {
     "scale": 1.3004999999999995,
     "offset_x": -523,
     "offset_y": -282,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9073333333333332,
     "offset_x": -281,
     "offset_y": -191,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0479999999999992,
     "offset_x": -196,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

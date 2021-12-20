@@ -4,27 +4,49 @@
   "tags": [
     "human",
     "male",
-    "mage"
+    "mage",
+    "sorcerer",
+    "drawings",
+    "ancient",
+    "witches",
+    "wizard",
+    "rise",
+    "guardians",
+    "ffxiv",
+    "au",
+    "ra",
+    "yonathan",
+    "stefano",
+    "eolim",
+    "bruno",
+    "wagner",
+    "portraits",
+    "hqg-000",
+    "li",
+    "fengyang"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -176.5,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -113.5,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -153,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -20,27 +20,63 @@
     "cromwell",
     "renewal",
     "b.elin",
-    "."
+    ".",
+    "half",
+    "plate",
+    "armor",
+    "half-plate",
+    "armour",
+    "full",
+    "leather",
+    "assassin",
+    "armors",
+    "knight",
+    "knight-3",
+    "youngmin",
+    "jo",
+    "design",
+    "characters",
+    "\u72C2\u87D2\uFF1A\u67E5\u514B",
+    "rs",
+    "\u5DE5",
+    "\u4F5C",
+    "\u5BA4",
+    "sci",
+    "fi",
+    "inspiration",
+    "science",
+    "swtor",
+    "infamous",
+    "bounty",
+    "hunter\u2019s",
+    "set",
+    "anna",
+    "inkyung",
+    "lee",
+    "https://\u2026"
   ],
   "small": {
     "scale": 1.29,
     "offset_x": -237,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -126,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.4799999999999907,
     "offset_x": -278,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

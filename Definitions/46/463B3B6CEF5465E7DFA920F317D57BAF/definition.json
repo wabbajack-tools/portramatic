@@ -8,27 +8,43 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "pagan",
+    "celtic",
+    "cross",
+    "nature",
+    "gods",
+    "wiccan",
+    "oil",
+    "paintings",
+    "landscape",
+    "watercolor",
+    "cave",
+    "tree",
+    "life"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -384,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -393,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -432,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

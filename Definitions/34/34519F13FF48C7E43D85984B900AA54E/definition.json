@@ -6,27 +6,54 @@
     "female",
     "warrior",
     "mage",
-    "queen"
+    "queen",
+    "tyler",
+    "james",
+    "williams",
+    "movies",
+    "now",
+    "guitars",
+    "blood",
+    "elf",
+    "league",
+    "legends",
+    "goddess",
+    "death",
+    "#2",
+    "ferdinando",
+    "adiletta",
+    "brittle",
+    "thorns",
+    "alvaro",
+    "estrada",
+    "luffy",
+    "gear",
+    "4",
+    "le",
+    "vuong"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -304.5,
     "offset_y": -155,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -107.5,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -21,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

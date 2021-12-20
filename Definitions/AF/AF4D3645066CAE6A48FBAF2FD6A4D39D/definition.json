@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/564x/ec/da/9a/ecda9a101533cc803ca16ea7f761781b.jpg",
   "md5": "AF4D3645066CAE6A48FBAF2FD6A4D39D",
   "tags": [
-    ""
+    "",
+    "peyton",
+    "sawyer",
+    "\u5927",
+    "\u8868\u54E5"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -265,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -73,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.589999999999998,
     "offset_x": -114,
     "offset_y": -106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

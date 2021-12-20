@@ -2,27 +2,44 @@
   "source": "https://64.media.tumblr.com/884ae049b28c09d9a58965c2465db395/tumblr_pb0830yqaC1tldnfvo1_1280.png",
   "md5": "BFE17A8F31D9AEEFFFCB2589D8C2A536",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "drawing",
+    "bard",
+    "character",
+    "sheet",
+    "anime",
+    "guys",
+    "characters",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -124,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -26,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -64,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

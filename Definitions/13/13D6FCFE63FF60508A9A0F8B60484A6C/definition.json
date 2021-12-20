@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/474x/40/61/df/4061df1fe6ae16c884511565e8a6ea49.jpg",
   "md5": "13D6FCFE63FF60508A9A0F8B60484A6C",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "tennogen",
+    "banshee",
+    "dominia",
+    "helmet",
+    "lendel",
+    "fajardo",
+    "warframe",
+    "gao",
+    "xu",
+    "outfit",
+    "pirates",
+    "black",
+    "soyun",
+    "won"
   ],
   "small": {
     "scale": 1,
     "offset_x": -87,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 5,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 174,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

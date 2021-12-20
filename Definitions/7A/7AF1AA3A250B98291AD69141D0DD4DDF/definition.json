@@ -11,7 +11,7 @@
     "assassin",
     "armor",
     "aftermath",
-    "ângelo",
+    "\uFFFDngelo",
     "bortolini",
     "artifact",
     "stepan",
@@ -20,27 +20,51 @@
     "lady",
     "aleite",
     "david",
-    "sondered"
+    "sondered",
+    "black",
+    "woman",
+    "character",
+    "african",
+    "american",
+    "warrior",
+    "concept",
+    "elves",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "wisnu",
+    "tan",
+    "indonesia",
+    "magic",
+    "ninja",
+    "successor_reg",
+    "jessada",
+    "sutthi"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -207,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -36,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -14,
     "offset_y": -51,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

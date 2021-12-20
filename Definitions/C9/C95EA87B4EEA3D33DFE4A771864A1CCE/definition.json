@@ -5,27 +5,60 @@
     "orc",
     "male",
     "warrior",
-    "hunter"
+    "hunter",
+    "fighter",
+    "concept",
+    "cleric",
+    "lord",
+    "rings",
+    "zombies",
+    "\u7F51\u7EDC\u73ED\u5B66\u751F\u4F5C\u4E1A",
+    "\u7FFC\u6B21\u65B9",
+    "ycf",
+    "online",
+    "masterclass",
+    "illustration",
+    "new",
+    "superhero",
+    "anubis",
+    "wip",
+    "manuel",
+    "martin",
+    "alien",
+    "monster",
+    "artwork",
+    "zbrush",
+    "character",
+    "161",
+    "paul",
+    "shut",
+    "drawings",
+    "design",
+    "ancient",
+    "animals"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -443,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999997,
     "offset_x": -366,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46966666666666623,
     "offset_x": -168,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

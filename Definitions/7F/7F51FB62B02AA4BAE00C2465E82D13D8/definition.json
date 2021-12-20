@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/fd/09/34/fd09346b7949e130cc1021dd05742019.jpg",
   "md5": "7F51FB62B02AA4BAE00C2465E82D13D8",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "garruk",
+    "planeswalker",
+    "conan",
+    "barbarian",
+    "david",
+    "goliath",
+    "orc",
+    "warrior",
+    "orcs",
+    "magis",
+    "asambosan",
+    "matteo",
+    "spirito",
+    "https://www.artstation.com/artwork/q9bz1e",
+    "lich",
+    "henrique",
+    "dld",
+    "undead",
+    "monsters",
+    "dark",
+    "song",
+    "cindy",
+    "a.",
+    "avelino",
+    "character",
+    "design",
+    "furry",
+    "cat",
+    "folk"
   ],
   "small": {
     "scale": 1,
     "offset_x": -487.20000000000005,
     "offset_y": -506.4000000000011,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -416.0000000000018,
     "offset_y": -476.79999999999944,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -235.4722222222224,
     "offset_y": -422.88888888888835,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

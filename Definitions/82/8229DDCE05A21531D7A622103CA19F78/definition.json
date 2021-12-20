@@ -2,27 +2,52 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/043/551/069/large/vladislav-stepura-vladislav-stepura-girl-flower-red.jpg?1637603525",
   "md5": "8229DDCE05A21531D7A622103CA19F78",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "sorceress",
+    "concept",
+    "micha\u0142",
+    "sowa",
+    "elf",
+    "girl",
+    "hector",
+    "marquez",
+    "study",
+    "2016.11",
+    "hsieh",
+    "yi-wen",
+    "female",
+    "samurai",
+    "character",
+    "design",
+    "scifi",
+    "woman"
   ],
   "small": {
     "scale": 1,
     "offset_x": -866,
     "offset_y": -324,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -781,
     "offset_y": -282,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -634,
     "offset_y": -274,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

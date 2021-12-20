@@ -10,27 +10,56 @@
     "edition",
     "polar",
     "legends",
-    "women"
+    "women",
+    "beautiful",
+    "woman",
+    "digital",
+    "examples",
+    "painting",
+    "assassin",
+    "dark",
+    "elf",
+    "chaos",
+    "warrior",
+    "pin",
+    "up",
+    "world",
+    "girl",
+    "archer",
+    "iryna",
+    "yurova",
+    "referenced",
+    "daeho",
+    "cha",
+    "drawing",
+    "https://www.artstation.com",
+    "seoni",
+    "iconic",
+    "sorcerer",
+    "rafael"
   ],
   "small": {
     "scale": 1.8200000000000007,
     "offset_x": -367,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2900000000000003,
     "offset_x": -179,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -19,
     "offset_y": -45,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

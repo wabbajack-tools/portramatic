@@ -2,27 +2,43 @@
   "source": "https://i.imgur.com/hI2Wx0I.jpg",
   "md5": "C20540E36E7B93F7DCA5FF5CAC94C63D",
   "tags": [
-    ""
+    "",
+    "geralt",
+    "rivia",
+    "fan",
+    "gerald",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -234,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -224,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -66,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

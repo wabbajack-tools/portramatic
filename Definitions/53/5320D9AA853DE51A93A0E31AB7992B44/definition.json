@@ -5,27 +5,60 @@
     "misc",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "pet",
+    "shop",
+    "horrors",
+    "count",
+    "d",
+    "horror",
+    "anime",
+    "league",
+    "legends",
+    "frostwarlord",
+    "www.redpencilart.com",
+    "red",
+    "pencil",
+    "\u56DB\u8C61\u9752\u9F99",
+    "hua",
+    "lu",
+    "2021",
+    "character",
+    "design",
+    "final",
+    "artwork",
+    "creature",
+    "eredan",
+    "arena",
+    "hourglaryon",
+    "florent",
+    "moonyeah",
+    "mounier",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -763,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999997,
     "offset_x": -529,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6996666666666664,
     "offset_x": -514,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

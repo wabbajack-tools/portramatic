@@ -9,27 +9,53 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "viking",
+    "warrior",
+    "princess",
+    "nordic",
+    "woman",
+    "swedish",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "orc",
+    "ronin",
+    "natitorn",
+    "poungtawai",
+    "https://www.artstation.com/artwork/lzqng",
+    "mtg",
+    "zombie",
+    "token",
+    "paul",
+    "canavan",
+    "undead",
+    "monster"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -261,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -215.33333333333331,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -40,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

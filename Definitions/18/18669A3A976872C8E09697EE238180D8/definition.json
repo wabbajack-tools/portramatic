@@ -7,27 +7,35 @@
     "blonde",
     "female",
     "knife",
-    "rogue"
+    "rogue",
+    "rainbow",
+    "pfp",
+    "anime",
+    "drawn",
+    "girl"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -237,
     "offset_y": -144,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -119,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -66,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

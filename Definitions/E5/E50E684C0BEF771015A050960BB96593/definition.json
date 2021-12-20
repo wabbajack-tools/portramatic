@@ -4,27 +4,37 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "violet",
+    "evergarden",
+    "characters",
+    "hair",
+    "erica",
+    "dongyu",
+    "mao"
   ],
   "small": {
     "scale": 0.2999999999999994,
     "offset_x": -196.5,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.29999999999999916,
     "offset_x": -150.5,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.42999999999999927,
     "offset_x": -65,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

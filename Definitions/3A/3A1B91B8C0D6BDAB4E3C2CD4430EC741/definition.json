@@ -4,27 +4,37 @@
   "tags": [
     "Arthas Menethil",
     "Lich King",
-    "WoW"
+    "WoW",
+    "lich",
+    "king",
+    "gears",
+    "war",
+    "death",
+    "knight",
+    "paladin"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -264,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -109,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -182,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

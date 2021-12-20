@@ -5,27 +5,52 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "scorpion",
+    "king",
+    "dragon",
+    "armor",
+    "league",
+    "legends",
+    "devil",
+    "\u5178\u97E6",
+    "z",
+    "zbyer",
+    "shadow",
+    "quest-druid",
+    "pascal",
+    "vasile",
+    "https://www.artstation.com/artwork/q2ywa",
+    "adri\u00E1n",
+    "iglesias"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -532,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -375,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -198,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

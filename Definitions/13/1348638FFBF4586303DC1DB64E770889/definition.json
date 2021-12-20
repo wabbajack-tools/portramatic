@@ -4,27 +4,55 @@
   "tags": [
     "elf",
     "female",
-    "archer"
+    "archer",
+    "sasuke",
+    "queen",
+    "drawings",
+    "dark",
+    "assassin",
+    "game",
+    "thrones",
+    "wood",
+    "concept",
+    "alfonso",
+    "maesa",
+    "artstation.",
+    "characters",
+    "ranger",
+    "\u6D6E\u5C18",
+    "xiaosu",
+    "chen",
+    "https://www.artstation.com/artwork/x1vb1",
+    "character",
+    "various",
+    "concepts",
+    "sperasoft",
+    "a",
+    "keywords",
+    "studio"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -769,
     "offset_y": -290,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999997,
     "offset_x": -392,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5996666666666663,
     "offset_x": -302,
     "offset_y": -120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

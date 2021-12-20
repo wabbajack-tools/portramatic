@@ -15,25 +15,52 @@
     "leisure activities",
     "purple",
     "bard",
-    "dancer"
+    "dancer",
+    "samurai",
+    "armor",
+    "knight",
+    "fate",
+    "stay",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "shivana",
+    "lol",
+    "yu",
+    "il",
+    "park",
+    "\uC9C4",
+    "\uC18C\uB4DC\uB9C8\uC2A4\uD130",
+    "\uBFD4",
+    "horn",
+    "blood",
+    "artio",
+    "butsee"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -368,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -290,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -112,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

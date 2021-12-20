@@ -2,27 +2,49 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/705b1c70-b724-447d-9eea-4f3e76650a75/dbvqx8g-af32f56b-862d-4cd9-b1c5-4db9a324421f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwNWIxYzcwLWI3MjQtNDQ3ZC05ZWVhLTRmM2U3NjY1MGE3NVwvZGJ2cXg4Zy1hZjMyZjU2Yi04NjJkLTRjZDktYjFjNS00ZGI5YTMyNDQyMWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1bDK2ePxC5KxKTUcryyntbfcool3zY_G2eUW1s5iVdE",
   "md5": "F0E203942C588081101A156876503A55",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "elves",
+    "woman",
+    "angels",
+    "anime",
+    "girl",
+    "yongjae",
+    "choi",
+    "2020",
+    "magic",
+    "gathering",
+    "wizards",
+    "coast",
+    "a",
+    "blessed",
+    "man",
+    "erta\u00E7",
+    "alt\u0131n\u00F6z"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -111,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -47,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -50,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

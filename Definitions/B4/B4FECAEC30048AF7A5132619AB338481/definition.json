@@ -1,26 +1,48 @@
 {
-  "source": "https://pbs.twimg.com/media/Ejb_QZPVkAEL60U?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/Ejb_QZPVkAEL60U?format=jpg\u0026name=large",
   "md5": "B4FECAEC30048AF7A5132619AB338481",
   "tags": [
-    ""
+    "",
+    "street",
+    "fighter",
+    "gears",
+    "war",
+    "juwoong",
+    "j",
+    "fate\u0027s",
+    "folly",
+    "warrior",
+    "card",
+    "#1",
+    "jerry",
+    "padilla",
+    "cursed",
+    "hand",
+    "jeongseok",
+    "lee"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -316,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -199,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -382,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

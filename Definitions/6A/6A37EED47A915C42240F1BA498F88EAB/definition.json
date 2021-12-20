@@ -5,27 +5,45 @@
     "undead",
     "tiefling",
     "female",
-    "warrior"
+    "warrior",
+    "path",
+    "exile",
+    "shadow",
+    "characters",
+    "kali",
+    "american",
+    "gods",
+    "ang",
+    "chen",
+    "concepts",
+    "part",
+    "iii",
+    "roman",
+    "mikhail",
+    "palamarchuk"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -1295.7999999999997,
     "offset_y": -322.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -991.1999999999998,
     "offset_y": -152.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -822.3240740740748,
     "offset_y": -169.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

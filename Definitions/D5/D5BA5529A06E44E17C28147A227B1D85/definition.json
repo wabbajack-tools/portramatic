@@ -4,27 +4,56 @@
   "tags": [
     "outsider",
     "female",
-    "mage"
+    "mage",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "dark",
+    "elf",
+    "assassin",
+    "high",
+    "night",
+    "orcs",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "fire",
+    "rooster",
+    "lorenz",
+    "basuki",
+    "medieval",
+    "age",
+    "46",
+    "lamuserie",
+    "antoine"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -413,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -291,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -74,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

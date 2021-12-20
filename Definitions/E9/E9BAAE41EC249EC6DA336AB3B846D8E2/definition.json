@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/736x/71/24/17/712417cb40a336d916b44db4d8dc922a.jpg",
   "md5": "E9BAAE41EC249EC6DA336AB3B846D8E2",
   "tags": [
-    ""
+    "",
+    "a",
+    "black",
+    "widow",
+    "spider",
+    "silhouette",
+    "design",
+    "league",
+    "legends",
+    "master",
+    "orion",
+    "lord",
+    "rings",
+    "indian",
+    "cattle",
+    "qiwen",
+    "dong",
+    "world",
+    "warcraft",
+    "orc",
+    "combined",
+    "samurai"
   ],
   "small": {
     "scale": 2.6799999999999864,
     "offset_x": -872,
     "offset_y": -410,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.269999999999995,
     "offset_x": -665,
     "offset_y": -350,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3699999999999934,
     "offset_x": -506,
     "offset_y": -380,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

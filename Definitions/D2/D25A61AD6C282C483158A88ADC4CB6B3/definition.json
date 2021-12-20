@@ -2,27 +2,48 @@
   "source": "https://static.wikia.nocookie.net/vsdebating/images/4/4a/Liliana-Vess-MtG-Planeswalker-Art.jpg/revision/latest/scale-to-width-down/886?cb=20170803185905",
   "md5": "D25A61AD6C282C483158A88ADC4CB6B3",
   "tags": [
-    ""
+    "",
+    "liliana",
+    "vess",
+    "chandra",
+    "card",
+    "league",
+    "legends",
+    "~",
+    "leblanc",
+    "yutaka",
+    "li",
+    "soul",
+    "extract",
+    "filaments",
+    "martin",
+    "nancekievill",
+    "banshee",
+    "joshua",
+    "/exes9yui@qq.com"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -289,
     "offset_y": -167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -6,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -70,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

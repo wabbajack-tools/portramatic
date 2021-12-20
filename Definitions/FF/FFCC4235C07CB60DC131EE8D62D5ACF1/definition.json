@@ -3,27 +3,64 @@
   "md5": "FFCC4235C07CB60DC131EE8D62D5ACF1",
   "tags": [
     "man",
-    "knight"
+    "knight",
+    "male",
+    "warrior",
+    "concept",
+    "african",
+    "ancient",
+    "renaissance",
+    "dresses",
+    "gothic",
+    "clothing",
+    "victorian",
+    "fashion",
+    "velvet",
+    "dress",
+    "coats",
+    "traditional",
+    "harry",
+    "potter",
+    "order",
+    "phoenix",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "formal_dress",
+    "accessories",
+    "gloves",
+    "\u72EC\u773C\u7537",
+    "zhang",
+    "zili",
+    "design",
+    "anna",
+    "aizel",
+    "kon",
+    "moshak",
+    "designer",
+    "https://cdnb.artstation.com/p/assets/images/images/022/587/365/large/minovo-wang-15b-thamanyah"
   ],
   "small": {
     "scale": 2.089999999999999,
     "offset_x": -472,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -186,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -46,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/eb/6b/c0/eb6bc026993b2e07786c3293f6a970b8.jpg",
   "md5": "FA79468577E9AB7A3AF5CB836F3CD1E8",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elves",
+    "elf",
+    "concept",
+    "drawings",
+    "league",
+    "legends",
+    "blood",
+    "night",
+    "anime",
+    "girl",
+    "madness",
+    "returns",
+    "helena",
+    "nikulina",
+    "https://www.artstation.com/artwork/vz4ad",
+    "andrey",
+    "kamenov",
+    "tomb",
+    "keeper",
+    "vladimir",
+    "matyukhin",
+    "ft"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -75,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -77,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -22,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

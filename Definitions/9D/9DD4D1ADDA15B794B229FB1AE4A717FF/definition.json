@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/736x/f7/c8/79/f7c879124f20245e53cdd8a323464bec.jpg",
   "md5": "9DD4D1ADDA15B794B229FB1AE4A717FF",
   "tags": [
-    ""
+    "",
+    "human",
+    "wizard",
+    "portraits",
+    "character",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "dusk",
+    "new",
+    "moon",
+    "marcia",
+    "devana",
+    "zhongkui",
+    "creature",
+    "form",
+    "concept.",
+    "paul",
+    "tobin"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -59,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -122,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -22,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

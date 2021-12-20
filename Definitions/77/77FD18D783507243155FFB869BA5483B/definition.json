@@ -5,27 +5,52 @@
     "dwarf",
     "male",
     "warrior",
-    "hunter"
+    "hunter",
+    "elf",
+    "human",
+    "drawings",
+    "knight",
+    "armor",
+    "armors",
+    "medieval",
+    "knights",
+    "plate",
+    "warriors",
+    "heavy",
+    "dragon",
+    "179",
+    "paul",
+    "shut",
+    "chengtao",
+    "ma",
+    "character",
+    "ottoman",
+    "arquebusier",
+    "gianluca",
+    "rolli"
   ],
   "small": {
     "scale": 1.0600000000000007,
     "offset_x": -639,
     "offset_y": -574,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.71,
     "offset_x": -314,
     "offset_y": -282,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -186,
     "offset_y": -252,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

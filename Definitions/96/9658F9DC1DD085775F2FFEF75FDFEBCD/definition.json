@@ -8,27 +8,56 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "male",
+    "druid",
+    "elf",
+    "human",
+    "conan",
+    "barbarian",
+    "lord",
+    "rings",
+    "harry",
+    "potter",
+    "chamber",
+    "secrets",
+    "dungeons",
+    "dragons",
+    "vivien",
+    "reid",
+    "anna",
+    "steinbauer",
+    "wandering",
+    "folklorist",
+    "https://www.artstation.com",
+    "baba-yaga",
+    "from",
+    "swamp",
+    "alesya",
+    "matziush"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -527,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -338,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -388,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

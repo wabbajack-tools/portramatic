@@ -25,27 +25,52 @@
     "witcher",
     "maxifen",
     "maxim",
-    "samarin"
+    "samarin",
+    "two",
+    "towers",
+    "trilogy",
+    "hobbit",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "metal",
+    "z.w.",
+    "gu",
+    "afterlife",
+    "nat",
+    "martin",
+    "drow",
+    "elves",
+    "future",
+    "soldier",
+    "jeongseok",
+    "lee"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -394.6,
     "offset_y": -7.600000000000023,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -435.99999999999983,
     "offset_y": -0.5999999999999659,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -602.9814814814818,
-    "offset_y": -3.410605131648481e-13,
-    "size": "full"
+    "offset_y": -3.410605131648481E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

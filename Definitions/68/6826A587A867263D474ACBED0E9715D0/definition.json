@@ -11,7 +11,7 @@
     "assassin",
     "armor",
     "aftermath",
-    "ângelo",
+    "\uFFFDngelo",
     "bortolini",
     "artifact",
     "stepan",
@@ -20,27 +20,56 @@
     "lady",
     "aleite",
     "david",
-    "sondered"
+    "sondered",
+    "black",
+    "woman",
+    "character",
+    "african",
+    "american",
+    "warrior",
+    "concept",
+    "lord",
+    "rings",
+    "castlevania",
+    "lords",
+    "shadow",
+    "bastet",
+    "jaffa",
+    "realtime",
+    "model",
+    "butterfly",
+    "goddess",
+    "wizard",
+    "coco",
+    "kim",
+    "2020",
+    "design",
+    "02",
+    "josua",
+    "rival"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -224,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -122,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -204,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

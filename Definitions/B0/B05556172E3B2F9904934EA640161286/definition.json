@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/16/d9/18/16d918aa1c5aed0c432751bc7777ad86.jpg",
   "md5": "B05556172E3B2F9904934EA640161286",
   "tags": [
-    ""
+    "",
+    "alien",
+    "warrior",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "necromance",
+    "istvan",
+    "straban",
+    "lord",
+    "rings",
+    "a",
+    "land",
+    "shadow",
+    "lukasz",
+    "druid",
+    "simon",
+    "palm\u00E9r"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -210,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -105,
     "offset_y": -157,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6899999999999982,
     "offset_x": -132,
     "offset_y": -152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/pAsdKFCrKdE-7AvR3DQOJTPjZ-GZ-tv-2glnsSB9BDM.jpg?auto=webp&s=1111cc484ce2a2e8930450483d15fc65c0da26ba",
+  "source": "https://external-preview.redd.it/pAsdKFCrKdE-7AvR3DQOJTPjZ-GZ-tv-2glnsSB9BDM.jpg?auto=webp\u0026s=1111cc484ce2a2e8930450483d15fc65c0da26ba",
   "md5": "8F633BE30B889515F376E5DEDCC31BDE",
   "tags": [
     "warrior",
@@ -17,27 +17,60 @@
     "vampire",
     "noble",
     "adam",
-    "fisher"
+    "fisher",
+    "dark",
+    "paladin",
+    "elf",
+    "armor",
+    "orc",
+    "death",
+    "knight",
+    "manga",
+    "zelda",
+    "twilight",
+    "princess",
+    "dragon",
+    "crusader",
+    "lord",
+    "soth",
+    "lucas",
+    "salcedo",
+    "lance",
+    "muel",
+    "kim",
+    "character",
+    "design",
+    "anime",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "epic"
   ],
   "small": {
     "scale": 1.094166666666666,
     "offset_x": -341,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5554999999999998,
     "offset_x": -63,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0250000000000001,
     "offset_x": -34,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

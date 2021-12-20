@@ -11,27 +11,57 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "changeling",
+    "rogue",
+    "bard",
+    "dragon",
+    "armors",
+    "knight",
+    "armor",
+    "daedric",
+    "wood",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "boots",
+    "female",
+    "roxi",
+    "zheng",
+    "spire",
+    "jose",
+    "parodi",
+    "pictures",
+    "artwork",
+    "characters",
+    "2020",
+    "kai",
+    "yi"
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -383.7999999999997,
     "offset_y": -198.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -178.19999999999976,
     "offset_y": -81.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -2.324074074074815,
     "offset_y": -77.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

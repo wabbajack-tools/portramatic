@@ -2,27 +2,35 @@
   "source": "https://i.4cdn.org/s/1636534816420.jpg",
   "md5": "62172B83B1F99071AAB63D2ADD736124",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 1,
     "offset_x": -252.66666666666688,
     "offset_y": -10.666666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -116,
     "offset_y": -32.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -71.99999999999977,
     "offset_y": -20.000000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

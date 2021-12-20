@@ -2,27 +2,43 @@
   "source": "https://www.gamepressure.com/gallery/html/news/28121312.jpg",
   "md5": "0A012ABF9211A0BA57B90E755A7008F7",
   "tags": [
-    ""
+    "",
+    "henry",
+    "cavill",
+    "hand",
+    "some",
+    "beautiful",
+    "man",
+    "superman",
+    "suit",
+    "death",
+    "knight",
+    "lich",
+    "king",
+    "dark"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -120,
     "offset_y": -5.600000000000023,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -123.99999999999989,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -164.99074074074088,
     "offset_y": -4.805555555555429,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

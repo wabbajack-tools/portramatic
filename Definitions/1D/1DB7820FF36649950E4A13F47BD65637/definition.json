@@ -9,27 +9,46 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "kyu-yong",
+    "eom",
+    "print",
+    "artist",
+    "anime",
+    "girl",
+    "angel",
+    "\u795E\u4ED9",
+    "good",
+    "hope",
+    "frozen",
+    "knight",
+    "elsa",
+    "prywinko",
+    "disney",
+    "fan"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -410,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -41,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2999999999999998,
     "offset_x": -118,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,27 +8,60 @@
     "elf",
     "fire",
     "flame",
-    "staff"
+    "staff",
+    "girl",
+    "concept",
+    "dark",
+    "archer",
+    "high",
+    "dungeons",
+    "dragons",
+    "elves",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "skirt",
+    "isara",
+    "#2",
+    "ivona",
+    "denovic",
+    "character",
+    "portraits",
+    "kirra",
+    "techno",
+    "assassin",
+    "gerry",
+    "arthur",
+    "studying",
+    "\u0026",
+    "practice",
+    "0222/17",
+    "jason",
+    "liu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -367.33333333333326,
     "offset_y": -162.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -261.6666666666667,
     "offset_y": -160.33333333333331,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -7.333333333333485,
     "offset_y": -4.666666666666629,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

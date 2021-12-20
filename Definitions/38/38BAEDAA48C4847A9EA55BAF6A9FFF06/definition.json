@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/68/2c/74/682c74f04f3b1c24cd7f7ad02be4a110.jpg",
   "md5": "38BAEDAA48C4847A9EA55BAF6A9FFF06",
   "tags": [
-    ""
+    "",
+    "character",
+    "concept",
+    "girl",
+    "characters",
+    "samurai",
+    "guardians",
+    "ga",
+    "hoole",
+    "castlevania",
+    "lords",
+    "shadow",
+    "galaxy",
+    "reaper",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "zhafir",
+    "sam",
+    "keiser",
+    "https://www.artstation.com/artwork/mn49d",
+    "eastern",
+    "dragon",
+    "microraptor",
+    "lindsey",
+    "wakefield",
+    "https://www.artstation.com/artwork/4mpy1",
+    "corvus",
+    "lily",
+    "vonk"
   ],
   "small": {
     "scale": 1,
     "offset_x": -111,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -41,
     "offset_y": -254,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -20,
     "offset_y": 12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

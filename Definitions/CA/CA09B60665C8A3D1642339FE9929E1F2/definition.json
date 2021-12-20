@@ -18,27 +18,66 @@
     "succubus",
     "tiefling",
     "attack",
-    "titan"
+    "titan",
+    "mtg",
+    "gallery",
+    "innistrad",
+    "cards",
+    "sorin",
+    "gears",
+    "war",
+    "dragon",
+    "armor",
+    "3d",
+    "monsters",
+    "fire",
+    "creature",
+    "from",
+    "black",
+    "lagoon",
+    "\u0027avacyn",
+    "corrupted\u0027",
+    "fanart",
+    "gislaine",
+    "avila",
+    "illustrations",
+    "for",
+    "yoozoo",
+    "g-host",
+    "lee",
+    "artwork",
+    "wizard",
+    "concept",
+    "cabal",
+    "initiate",
+    "bastien",
+    "lecouffe",
+    "deharme",
+    "2021",
+    "vampire"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -755,
     "offset_y": -154,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -402,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -407,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

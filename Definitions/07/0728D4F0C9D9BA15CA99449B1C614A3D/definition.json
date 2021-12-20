@@ -16,25 +16,48 @@
     "manga",
     "comics",
     "book",
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "cards",
+    "dark",
+    "queen",
+    "angels",
+    "storm",
+    "sheryl",
+    "brown",
+    "\u9670\u967D\u5E2B",
+    "s",
+    "p\u5FA1\u6028\u822C\u82E5(\u0942\uFF61\u2022\u03C9\u2022\uFF61",
+    "\u856D",
+    "\u4F2F\u540C",
+    "prisoner",
+    "v",
+    "ray",
+    "84"
   ],
   "small": {
     "scale": 2.419999999999992,
     "offset_x": -575,
     "offset_y": -415,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3900000000000003,
     "offset_x": -224,
     "offset_y": -186,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -148,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -6,27 +6,47 @@
     "female",
     "warrior",
     "mage",
-    "queen"
+    "queen",
+    "life",
+    "binder",
+    "printables",
+    "organization",
+    "organizing",
+    "binders",
+    "league",
+    "legends",
+    "demon",
+    "dylan",
+    "wang",
+    "with",
+    "amy",
+    "fiery",
+    "soul",
+    "marcelo",
+    "rhasdra"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -269,
     "offset_y": -254,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -162,
     "offset_y": -142,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -106,
     "offset_y": -198,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

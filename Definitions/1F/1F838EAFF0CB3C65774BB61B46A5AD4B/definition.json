@@ -4,27 +4,58 @@
   "tags": [
     "goblin",
     "male",
-    "rogue"
+    "rogue",
+    "king",
+    "wow",
+    "league",
+    "legends",
+    "dirge",
+    "cerberus",
+    "dark",
+    "elf",
+    "lord",
+    "rings",
+    "something",
+    "job",
+    "stuff~",
+    "fang",
+    "zheng",
+    "heimdall",
+    "50",
+    "anton",
+    "fort",
+    "sketches",
+    "character",
+    "design",
+    "tegn",
+    "old",
+    "hero",
+    "patreon",
+    "assignment",
+    "even"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -600.7999999999997,
     "offset_y": -65.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -504.1999999999998,
     "offset_y": -23.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -486.3240740740748,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

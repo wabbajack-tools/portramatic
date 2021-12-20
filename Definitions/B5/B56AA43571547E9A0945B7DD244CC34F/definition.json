@@ -10,27 +10,49 @@
     "lavender",
     "knight",
     "supernatural",
-    "creature"
+    "creature",
+    "dark",
+    "elf",
+    "night",
+    "world",
+    "warcraft",
+    "rogue",
+    "red",
+    "mage",
+    "mikhail",
+    "palamarchuk",
+    "2020",
+    "trish",
+    "yoon",
+    "seseon",
+    "concept",
+    "bounty",
+    "hunter",
+    "daniele",
+    "solimene"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -650.0000000000059,
     "offset_y": -272.4000000000011,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -316.60000000000014,
     "offset_y": -146.80000000000013,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -72.48148148148402,
     "offset_y": -115.06481481481433,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

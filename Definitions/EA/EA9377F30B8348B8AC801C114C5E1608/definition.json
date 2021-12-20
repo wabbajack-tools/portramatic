@@ -3,27 +3,63 @@
   "md5": "EA9377F30B8348B8AC801C114C5E1608",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "wizard",
+    "portraits",
+    "character",
+    "male",
+    "dynasty",
+    "warriors",
+    "staff",
+    "samurai",
+    "custom",
+    "characters",
+    "knight",
+    "armor",
+    "chinese",
+    "symbols",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "warhammer",
+    "online\uFF082009\uFF09",
+    "ji",
+    "zhang",
+    "arcane",
+    "warrior",
+    "charlo",
+    "nocete",
+    "medieval",
+    "garden_7",
+    ".",
+    "female"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -286.00000000000006,
     "offset_y": -89.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -117.66666666666663,
     "offset_y": -63.66666666666654,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -184.6666666666663,
     "offset_y": -124.99999999999977,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

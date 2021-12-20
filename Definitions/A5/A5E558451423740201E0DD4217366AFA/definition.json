@@ -2,27 +2,43 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/584/039/large/abraao-lucas-jucara-by-abraaolucas-d55ha9e.jpg?1475262279",
   "md5": "A5E558451423740201E0DD4217366AFA",
   "tags": [
-    "Half elf female"
+    "Half elf female",
+    "jungle",
+    "woman",
+    "fan",
+    "women",
+    "peril",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -408,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4800000000000004,
     "offset_x": -285,
     "offset_y": -192,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.04,
     "offset_x": -238,
     "offset_y": -252,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

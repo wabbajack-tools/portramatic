@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/VMREN6c.jpeg",
   "md5": "EBD6DF5C634AD7014ED5B597649047B9",
   "tags": [
-    ""
+    "",
+    "male",
+    "high",
+    "elf",
+    "wizard",
+    "concept",
+    "lord",
+    "rings",
+    "shadowmancer",
+    "loles",
+    "romero",
+    "https://www.artstation.com/artwork/zojzv6",
+    "dark",
+    "knight",
+    "george",
+    "guo",
+    "https://www.artstation.com/artwork/ad6zm",
+    "teferi",
+    "timebender",
+    "magic",
+    "gathering",
+    "zack",
+    "stella",
+    "#wizard",
+    "#artwork",
+    "#"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -578,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -245,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -152,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

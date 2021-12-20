@@ -2,27 +2,47 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a510700-d63e-449c-82b7-525f770c9f14/de9enzn-cfbaca26-5e92-4781-b16c-e7364db02469.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhNTEwNzAwLWQ2M2UtNDQ5Yy04MmI3LTUyNWY3NzBjOWYxNFwvZGU5ZW56bi1jZmJhY2EyNi01ZTkyLTQ3ODEtYjE2Yy1lNzM2NGRiMDI0NjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JMPl7fMioChx5ol27v8U72pf_7OuJMRoPKbAg6J4Q60",
   "md5": "B8AC2B07902C545C20C8C2F4DACC6E74",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "dc",
+    "comics",
+    "nunu",
+    "rework",
+    "illustrations",
+    "jeremy",
+    "anninos",
+    "vampire",
+    "backpacker",
+    "marcos",
+    "kenji",
+    "uchima",
+    "sorceress",
+    "sothina",
+    "khiev"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -510,
     "offset_y": -132,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -243,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -52,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

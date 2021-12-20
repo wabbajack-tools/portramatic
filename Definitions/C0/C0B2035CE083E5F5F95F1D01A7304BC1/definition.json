@@ -1,5 +1,5 @@
 {
-  "source": "https://th.bing.com/th/id/R.6b33fed4b159076e4fcd73674f85138a?rik=o70p0%2fY%2fSlVq5A&riu=http%3a%2f%2fpre08.deviantart.net%2f7c79%2fth%2fpre%2fi%2f2014%2f257%2fc%2f4%2ffeiya___pathfinder_iconic_witch_by_markelli-d7z4iy8.jpg&ehk=papAXBxopYzM9aqYP0zoQZBPkjIQli8CkxMftvgwHLs%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.6b33fed4b159076e4fcd73674f85138a?rik=o70p0%2fY%2fSlVq5A\u0026riu=http%3a%2f%2fpre08.deviantart.net%2f7c79%2fth%2fpre%2fi%2f2014%2f257%2fc%2f4%2ffeiya___pathfinder_iconic_witch_by_markelli-d7z4iy8.jpg\u0026ehk=papAXBxopYzM9aqYP0zoQZBPkjIQli8CkxMftvgwHLs%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "C0B2035CE083E5F5F95F1D01A7304BC1",
   "tags": [
     "feiya",
@@ -13,27 +13,60 @@
     "fan",
     "vela",
     "night-clad",
-    "mayhem44"
+    "mayhem44",
+    "character",
+    "concept",
+    "clash",
+    "titans",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "archdruid",
+    "sanako",
+    "mira",
+    "dzhantova",
+    "world",
+    "warcraft",
+    "night",
+    "dungeon",
+    "fighter",
+    "garam",
+    "song",
+    "prophet",
+    "tatiana",
+    "vetrova\u0027s",
+    "submission",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found"
   ],
   "small": {
     "scale": 1,
     "offset_x": -293,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -217,
     "offset_y": -104,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -52,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

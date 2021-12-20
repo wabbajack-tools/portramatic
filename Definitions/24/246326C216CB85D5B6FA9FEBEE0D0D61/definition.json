@@ -2,27 +2,44 @@
   "source": "https://www.kindpng.com/picc/m/127-1276749_warden-for-honor-helmet-png-download-warden-head.png",
   "md5": "246326C216CB85D5B6FA9FEBEE0D0D61",
   "tags": [
-    ""
+    "",
+    "for",
+    "honor",
+    "warden",
+    "gear",
+    "knight",
+    "armor",
+    "helmet",
+    "tattoo",
+    "viking",
+    "medieval",
+    "helmets",
+    "armors",
+    "gladiator",
+    "scale"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -93,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -98,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -254,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

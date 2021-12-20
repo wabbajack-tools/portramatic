@@ -3,27 +3,63 @@
   "md5": "731F8116769B5DE95812195E9B4B712B",
   "tags": [
     "Oread",
-    "Druid"
+    "Druid",
+    "demon",
+    "wings",
+    "costume",
+    "bat",
+    "halloween",
+    "castlevania",
+    "lords",
+    "shadow",
+    "vampire",
+    "knight",
+    "manga",
+    "dark",
+    "elf",
+    "angel",
+    "world",
+    "death",
+    "sworn",
+    "abyss",
+    "cl\u00E9ment",
+    "blum",
+    "https://www.artstation.com/artwork",
+    "\u82D7\u7426-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "character",
+    "space",
+    "pirate",
+    "ariel",
+    "perez",
+    "concept",
+    "characters",
+    "warrior"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -277,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -139,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

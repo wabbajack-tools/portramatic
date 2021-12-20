@@ -2,27 +2,44 @@
   "source": "https://www.wallpapertip.com/wmimgs/92-925329_medieval-knight-wallpapers-warrior-background.jpg",
   "md5": "FD26ED9606156786A611F46DFFC98449",
   "tags": [
-    "knight"
+    "knight",
+    "warrior",
+    "cool",
+    "epic",
+    "dungeons",
+    "dragons",
+    "slayer",
+    "shuichi",
+    "wada",
+    "raymond",
+    "minnaar",
+    "temple",
+    "ruins",
+    "ricardo",
+    "robles"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1226,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1156,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -970,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

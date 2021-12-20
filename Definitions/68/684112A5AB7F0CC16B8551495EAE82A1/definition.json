@@ -12,29 +12,50 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "galaxy",
+    "saga",
+    "digital",
+    "demon",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "lady",
+    "spring",
+    "summer",
+    "kerem",
+    "beyit",
+    "contest",
+    "blizzard2015",
+    "evgeniya",
+    "bandi"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -205,
     "offset_y": -258,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -106,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -78,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

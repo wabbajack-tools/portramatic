@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MKqEXeW8XA71amOSZ7hE3AHaHH%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MKqEXeW8XA71amOSZ7hE3AHaHH%26pid%3DApi\u0026f=1",
   "md5": "55E54DD4FF32BD0A5375A0B5D04AB61F",
   "tags": [
     "human",
@@ -16,27 +16,51 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "wood",
+    "elf",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "elfarcher",
+    "lana",
+    "g",
+    "female",
+    "warrior",
+    "blonde",
+    "design",
+    "elven",
+    "ranger",
+    "aeg",
+    "alejandro",
+    "hurtado",
+    "wenjuinn",
+    "png"
   ],
   "small": {
     "scale": 1.0700000000000003,
     "offset_x": -107.33333333333277,
     "offset_y": -21.333333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -81.77777777777794,
     "offset_y": -6.666666666666771,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2599999999999953,
     "offset_x": -235.74464438731866,
     "offset_y": -4.445586975149354,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

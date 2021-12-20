@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/564x/00/db/12/00db12f89ef3a3aafbae858ca95a574e.jpg",
   "md5": "22F148DD5909C0E7EA58414B37C7B77E",
   "tags": [
-    ""
+    "",
+    "female",
+    "armor",
+    "concept",
+    "warrior",
+    "character",
+    "woman",
+    "assassin",
+    "medieval",
+    "knights",
+    "vampire",
+    "knight",
+    "manga",
+    "dark",
+    "elf",
+    "templar",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sangmin",
+    "park",
+    "human",
+    "pictures",
+    "lone",
+    "wolf",
+    "owl",
+    "studio",
+    "https://www.artstation.com/artwork/dx0wze",
+    "kingdom",
+    "under",
+    "fire",
+    "illustration",
+    "sungryun"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -360,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -72,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

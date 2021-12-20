@@ -3,27 +3,50 @@
   "md5": "2FCFDD4DA836E5224257B544F1D3F626",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "female",
+    "bard",
+    "medieval",
+    "concept",
+    "actionfigures",
+    "armors",
+    "dark",
+    "elf",
+    "archer",
+    "denis",
+    "pospelov",
+    "en",
+    "2020",
+    "character",
+    "design",
+    "meva",
+    "eyuboglu",
+    "mercenary",
+    "yurii",
+    "nikolaiko"
   ],
   "small": {
     "scale": 1.26,
     "offset_x": -439,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -162,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999939,
     "offset_x": 0,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

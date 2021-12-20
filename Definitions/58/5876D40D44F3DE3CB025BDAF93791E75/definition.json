@@ -2,27 +2,61 @@
   "source": "https://pictures.hentai-foundry.com/g/GeteraFromFaerun/913085/GeteraFromFaerun-913085-Another_Savage.jpg",
   "md5": "5876D40D44F3DE3CB025BDAF93791E75",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "demon",
+    "hunter",
+    "blood",
+    "elf",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini",
+    "accessories",
+    "glasses",
+    "elven",
+    "mage",
+    "dragon",
+    "age",
+    "krzysztof",
+    "orczyk",
+    "kusari",
+    "karasu",
+    "ren",
+    "wei",
+    "pan",
+    "https://www",
+    "lion-o",
+    "lord",
+    "thundercats",
+    "fredo",
+    "viktor"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -292,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -8,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -20,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

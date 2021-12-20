@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/ac/68/e7/ac68e7a89b784899a14c7a66abe72b13.jpg",
   "md5": "68E1AA126E112D8BE1C9463985E97AEA",
   "tags": [
-    ""
+    "",
+    "changeling",
+    "bard",
+    "rogue",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "personal",
+    "work",
+    "siwoo",
+    "kim",
+    "https://www",
+    "ling",
+    "bai",
+    "zhihui",
+    "su",
+    "basic",
+    "iron",
+    "armor",
+    "jan-wah",
+    "li"
   ],
   "small": {
     "scale": 1.9500000000000008,
     "offset_x": -466,
     "offset_y": -229,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2400000000000002,
     "offset_x": -175,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -122,
     "offset_y": -196,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/a/a9/Liliana_the_Necromancer.jpg/revision/latest?cb=20200807145701",
   "md5": "EC7C8EEB7D45F8BB01CEF5A375B669C6",
   "tags": [
-    ""
+    "",
+    "cool",
+    "liliana",
+    "vess",
+    "veil",
+    "fan",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "peruru",
+    "kou",
+    "takano",
+    "https://www.artstation.com/artwork/0jyze",
+    "female",
+    "dragon",
+    "alice",
+    "champion",
+    "underland",
+    "steven",
+    "shan",
+    "character",
+    "inspiration",
+    "artwork",
+    "illustration",
+    "soufiane",
+    "idrassi",
+    "https://www.artstation.com/artwork/dxb5yr"
   ],
   "small": {
     "scale": 1,
     "offset_x": -328.8,
     "offset_y": -110.4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -272,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -86.5,
     "offset_y": -40.046296296296305,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

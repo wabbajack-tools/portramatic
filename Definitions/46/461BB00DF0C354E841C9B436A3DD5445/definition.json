@@ -2,27 +2,45 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/005/716/large/hyewon-milk-simmm077-death.jpg?1590338683",
   "md5": "461BB00DF0C354E841C9B436A3DD5445",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "female",
+    "assassin",
+    "pirate",
+    "eternal",
+    "love",
+    "dave",
+    "greco",
+    "warcraft",
+    "dark"
   ],
   "small": {
     "scale": 1.7900000000000007,
     "offset_x": -672,
     "offset_y": -376,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -238,
     "offset_y": -188,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -116,
     "offset_y": -226,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,25 +11,50 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "female",
+    "fighter",
+    "character",
+    "rpg",
+    "concept",
+    "anime",
+    "characters",
+    "girl",
+    "lux",
+    "sun",
+    "haiyang",
+    "https://www.artstation.com/artwork/jlljgv",
+    "lol",
+    "league",
+    "fengyun2.2",
+    "mingzhu",
+    "yang",
+    "design",
+    "artwork",
+    "artist"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -252,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -13,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": 0,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

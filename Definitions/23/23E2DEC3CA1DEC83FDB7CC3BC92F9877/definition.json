@@ -16,25 +16,56 @@
     "art",
     "archery",
     "bow",
-    ""
+    "",
+    "drakengard",
+    "characters",
+    "3.zero",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "dress",
+    "formal_dress",
+    "targaryen-1",
+    "yunhao",
+    "zheng",
+    "2020",
+    "girl",
+    "epic",
+    "sesshoumaru",
+    "fanart",
+    "jun",
+    "tai",
+    "li",
+    "mother",
+    "dragons",
+    "francisco",
+    "garc\u00EDa",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -183,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -126,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -22,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

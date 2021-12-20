@@ -2,25 +2,42 @@
   "source": "https://miro.medium.com/max/1838/1*mJQfl_Q_sjxBBsXnoUsoww.jpeg",
   "md5": "D38BA6E1408249C639293BCE34CA87C4",
   "tags": [
-    ""
+    "",
+    "girl",
+    "with",
+    "violin",
+    "painting",
+    "oil",
+    "woman",
+    "sabriel",
+    "tory",
+    "miles",
+    "thanos",
+    "ryan",
+    "meinerding"
   ],
   "small": {
     "scale": 0.26999999999999935,
     "offset_x": -89,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -1,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -54,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

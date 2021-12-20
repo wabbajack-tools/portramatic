@@ -5,27 +5,48 @@
     "human",
     "male",
     "warrior",
-    "hunter"
+    "hunter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "second",
+    "son",
+    "dragon",
+    "serge",
+    "minhulin",
+    "martial",
+    "arts",
+    "photography",
+    "two",
+    "freedom",
+    "valerio",
+    "korax",
+    "carbone"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -499.5,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999994,
     "offset_x": -361.5,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999997,
     "offset_x": -529,
     "offset_y": -147,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

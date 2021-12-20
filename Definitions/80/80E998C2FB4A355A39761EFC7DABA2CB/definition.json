@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/30/77/75/3077757c18ca87db5fec509a89299ce7.jpg",
   "md5": "80E998C2FB4A355A39761EFC7DABA2CB",
   "tags": [
-    ""
+    "",
+    "digital",
+    "female",
+    "hair",
+    "drawing",
+    "girl",
+    "with",
+    "black",
+    "african",
+    "american"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -35,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -8,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3199999999999992,
     "offset_x": -20,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

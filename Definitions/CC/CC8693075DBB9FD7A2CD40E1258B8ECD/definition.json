@@ -6,27 +6,36 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "viking",
+    "woman",
+    "warrior",
+    "princess",
+    "drawing",
+    "painting"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -62,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -26,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -87,
     "offset_y": -71,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

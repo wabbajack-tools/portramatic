@@ -11,7 +11,7 @@
     "assassin",
     "armor",
     "aftermath",
-    "ângelo",
+    "\uFFFDngelo",
     "bortolini",
     "artifact",
     "stepan",
@@ -20,27 +20,46 @@
     "lady",
     "aleite",
     "david",
-    "sondered"
+    "sondered",
+    "black",
+    "woman",
+    "character",
+    "african",
+    "american",
+    "warrior",
+    "concept",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "vest",
+    "angel",
+    "soffa"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -230,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -93,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8500000000000008,
     "offset_x": -256,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

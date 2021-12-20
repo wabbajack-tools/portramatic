@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/564x/ba/45/f9/ba45f901121169b70b3458a65fd0491f.jpg",
   "md5": "41A73A0F5252475DC2918CC7BF6E8843",
   "tags": [
-    ""
+    "",
+    "elf",
+    "wizard",
+    "pictures",
+    "female",
+    "moon"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -27,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -3,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

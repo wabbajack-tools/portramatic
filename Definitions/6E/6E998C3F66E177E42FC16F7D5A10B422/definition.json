@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/fe/04/c6/fe04c6a7848d56cc3a8b49c6b8ed1321.jpg",
   "md5": "6E998C3F66E177E42FC16F7D5A10B422",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "drawing",
+    "characters",
+    "eyes",
+    "skyrim",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "demon",
+    "hunter",
+    "souls",
+    "masquerade",
+    "castlevania",
+    "lords",
+    "shadow",
+    "knight",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork",
+    "korppi",
+    "raven",
+    "reliah",
+    "a.",
+    "character",
+    "living",
+    "debt",
+    "stepan",
+    "alekseev"
   ],
   "small": {
     "scale": 0.49233333333333346,
     "offset_x": -262,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3420000000000001,
     "offset_x": -103,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.40300000000000064,
     "offset_x": -80,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

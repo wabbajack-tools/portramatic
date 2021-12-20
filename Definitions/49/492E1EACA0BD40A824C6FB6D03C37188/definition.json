@@ -4,27 +4,54 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "drawings",
+    "paladin",
+    "elf",
+    "female",
+    "assassin",
+    "dark",
+    "knight",
+    "skyrim",
+    "heavy",
+    "armor",
+    "hobbit",
+    "game",
+    "thrones",
+    "souls",
+    "guardian",
+    "lourdes",
+    "padial",
+    "alena",
+    "ymhin",
+    "artwork",
+    "witcher",
+    "characters",
+    "creatures",
+    "sasho"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -280,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -162,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -106,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

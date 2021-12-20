@@ -6,27 +6,52 @@
     "female",
     "warrior",
     "rogue",
-    "princess"
+    "princess",
+    "drawing",
+    "forest",
+    "elves",
+    "anime",
+    "league",
+    "legends",
+    "alextras",
+    "wow",
+    "fanart",
+    "lin",
+    "jin",
+    "\u50B2\u6162",
+    "\u6BD2",
+    "\u7624",
+    "character",
+    "design",
+    "book",
+    "cover",
+    "viking",
+    "girl",
+    "razvan",
+    "matei"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -623,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.42999999999999966,
     "offset_x": -502,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6996666666666664,
     "offset_x": -728,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,47 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "rogue",
+    "arcane",
+    "trickster",
+    "elf",
+    "female",
+    "desu",
+    "ka",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "path",
+    "to",
+    "avengement",
+    "chalky",
+    "nan"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -180,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -102,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0100000000000007,
     "offset_x": -289,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60857c91-66c4-4d16-b48d-0d3762f6da29/d9nk748-02139fa4-5dda-41ea-a0ed-f702e9b1e280.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODU3YzkxLTY2YzQtNGQxNi1iNDhkLTBkMzc2MmY2ZGEyOVwvZDluazc0OC0wMjEzOWZhNC01ZGRhLTQxZWEtYTBlZC1mNzAyZTliMWUyODAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hGac6dxhaOPChkpLfkKSvwZGsZ7XfOgEn64qywO-HAQ",
   "md5": "BDDB7B04821DA08E0B7BC6E298301010",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "characters",
+    "panther",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "storm",
+    "sheryl",
+    "brown",
+    "wenjuinn",
+    "png",
+    "starcraft",
+    "gorgeous"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -276,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -89,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -86,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

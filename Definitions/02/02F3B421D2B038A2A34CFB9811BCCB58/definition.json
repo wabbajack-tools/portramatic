@@ -6,27 +6,41 @@
     "female",
     "dancer",
     "mage",
-    "queen"
+    "queen",
+    "anime",
+    "girl",
+    "concept",
+    "guy",
+    "character",
+    "kyoung",
+    "su",
+    "oh",
+    "countess",
+    "omer",
+    "elfassy"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -183.9333333333334,
     "offset_y": -184.5999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999975,
     "offset_x": -34.13333333333327,
     "offset_y": -81.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -87.19999999999993,
     "offset_y": -270.39999999999986,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

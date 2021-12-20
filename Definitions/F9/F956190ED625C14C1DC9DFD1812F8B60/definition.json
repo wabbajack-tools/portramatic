@@ -5,27 +5,56 @@
     "human",
     "female",
     "warrior",
-    "samurai"
+    "samurai",
+    "3d",
+    "dick",
+    "cute",
+    "shemale",
+    "free",
+    "model",
+    "anime",
+    "character",
+    "pirate",
+    "infighter",
+    "bgy",
+    "izu",
+    "girl",
+    "luthiel_character",
+    "concept",
+    "kim",
+    "ssang",
+    "crow",
+    "\u9ED1\u7FBD",
+    "jun",
+    "rao",
+    "https://www.artstation.com/artwork/3jxog",
+    "\uD83C\uDFA8",
+    "#artwork",
+    "#art",
+    "#"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -748,
     "offset_y": -303,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -422,
     "offset_y": -166,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -206,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

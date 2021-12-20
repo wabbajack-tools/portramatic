@@ -8,27 +8,50 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "vampire",
+    "mage",
+    "kess",
+    "dark",
+    "witcher",
+    "souls",
+    "general",
+    "east",
+    "d.",
+    "rock-art",
+    "d\u0026d",
+    "elf",
+    "wizard",
+    "ian",
+    "boe",
+    "rakion",
+    "b",
+    "h.c",
+    "bae",
+    "hyoung-chul"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -396,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -281,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -470,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

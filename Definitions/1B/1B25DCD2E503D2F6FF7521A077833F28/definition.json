@@ -5,27 +5,55 @@
     "outsider",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "legend",
+    "cryptids",
+    "characters",
+    "dawn",
+    "war",
+    "montauk",
+    "monster",
+    "league",
+    "legends",
+    "dungeons",
+    "dragons",
+    "babrian",
+    "king",
+    "mansik",
+    "yang",
+    "https://www.artstation.com/artwork/3o0evj",
+    "\u5486\u54EE\u517D\u4EBA",
+    "rongzhen",
+    "li",
+    ".",
+    "artist",
+    "laura",
+    "sava",
+    "#artstation",
+    "women"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -544,
     "offset_y": -154,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -336,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -140,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

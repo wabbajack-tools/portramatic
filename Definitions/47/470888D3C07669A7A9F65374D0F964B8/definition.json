@@ -2,25 +2,43 @@
   "source": "https://static.zerochan.net/Solas.full.2138239.png",
   "md5": "470888D3C07669A7A9F65374D0F964B8",
   "tags": [
-    "Strolling Across"
+    "Strolling Across",
+    "dragon",
+    "age",
+    "4",
+    "solas",
+    "inquisition",
+    "trespasser",
+    "game",
+    "thrones",
+    "artworks",
+    "2020",
+    "morning",
+    "cartoon",
+    "saturday"
   ],
   "small": {
     "scale": 2.07,
     "offset_x": -733.9999999999997,
     "offset_y": -247.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3200000000000003,
     "offset_x": -356.6666666666669,
     "offset_y": -148.00000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -81.33333333333348,
     "offset_y": -13.333333333333485,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

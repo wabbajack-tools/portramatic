@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/01/43/05/0143059366b884ec950f3bd594954d93.jpg",
   "md5": "907C96B5D4CF87ED2AC35A6252019551",
   "tags": [
-    ""
+    "",
+    "lotr",
+    "arwen",
+    "demon",
+    "hunter",
+    "sesshomaru",
+    "drawing",
+    "anime",
+    "girl",
+    "tadas",
+    "sidlauskas",
+    "violet",
+    "evergarden",
+    "fan",
+    "wip",
+    "darriel",
+    "jaina",
+    "proudmoore",
+    "mootium",
+    "d\u00EDaz"
   ],
   "small": {
     "scale": 0.12999999999999923,
     "offset_x": -37,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -73,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -90,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

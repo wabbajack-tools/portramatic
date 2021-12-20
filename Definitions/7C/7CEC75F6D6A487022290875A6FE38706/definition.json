@@ -6,27 +6,52 @@
     "female",
     "archer",
     "warrior",
-    "hunter"
+    "hunter",
+    "cloaked",
+    "man",
+    "figure",
+    "anime",
+    "dungeons",
+    "dragons",
+    "heroes",
+    "storm",
+    "bonecarver",
+    "www.redpencilart.com",
+    "red",
+    "pencil",
+    "dragon",
+    "knight",
+    "01",
+    "qiujian",
+    "yuan",
+    "https://www.artstation.com/artwork/odyg",
+    "dark",
+    "ambrosio",
+    "marco",
+    "gonz\u00E1lez"
   ],
   "small": {
     "scale": 0.3599999999999995,
     "offset_x": -283,
     "offset_y": -234,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999993,
     "offset_x": -169,
     "offset_y": -199,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.299583333333333,
     "offset_x": -54,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

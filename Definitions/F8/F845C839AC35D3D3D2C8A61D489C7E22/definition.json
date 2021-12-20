@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f21613a4-22c2-4540-b410-88b51859413f/d8ww3qn-df62cdf2-0b6c-4e28-ae81-b5d4590486e4.jpg/v1/fill/w_1280,h_2004,q_75,strp/ciri___witcher_heritage_by_zhoujiasheng_d8ww3qn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwNCIsInBhdGgiOiJcL2ZcL2YyMTYxM2E0LTIyYzItNDU0MC1iNDEwLTg4YjUxODU5NDEzZlwvZDh3dzNxbi1kZjYyY2RmMi0wYjZjLTRlMjgtYWU4MS1iNWQ0NTkwNDg2ZTQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Zo0ETfNR6MnUuWKyAwsQj7LZ9fIqZPL7sQ5WwtcJA8g",
   "md5": "F845C839AC35D3D3D2C8A61D489C7E22",
   "tags": [
-    ""
+    "",
+    "geralt",
+    "fan",
+    "rivia",
+    "witcher",
+    "girl",
+    "game",
+    "thrones",
+    "warriors",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -240,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -56,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -10,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

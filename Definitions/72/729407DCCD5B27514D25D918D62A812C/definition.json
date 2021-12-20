@@ -4,27 +4,43 @@
   "tags": [
     "mage",
     "androgynous",
-    "necromancer"
+    "necromancer",
+    "puff",
+    "magic",
+    "dragon",
+    "cards",
+    "mtg",
+    "picture",
+    "for",
+    "\u201C\u660E\u65E5\u4E4B\u540E\u201D",
+    "copyright",
+    "netease",
+    "yanchong",
+    "lim",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -1026,
     "offset_y": -488,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -597,
     "offset_y": -324,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -674,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

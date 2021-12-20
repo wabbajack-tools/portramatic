@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/pxxrjqip11u71.png?width=640&crop=smart&auto=webp&s=066e7a95eb8c9fb23d90cfa38fd6dad73a2f6820",
+  "source": "https://preview.redd.it/pxxrjqip11u71.png?width=640\u0026crop=smart\u0026auto=webp\u0026s=066e7a95eb8c9fb23d90cfa38fd6dad73a2f6820",
   "md5": "C17237AC7B7F4A0A1B7B951C6F82E560",
   "tags": [
     "mandalorian",
@@ -20,27 +20,48 @@
     "tiefling",
     "anthony",
     "dipaolo",
-    "https://www.artstation.com/artwork/g1zkm"
+    "https://www.artstation.com/artwork/g1zkm",
+    "female",
+    "warrior",
+    "elf",
+    "paladin",
+    "dd",
+    "god",
+    "war",
+    "chains",
+    "olympus",
+    "assassin",
+    "conan",
+    "barbarian",
+    "league",
+    "legends",
+    "blue",
+    "dragon",
+    "danae",
+    "rue"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -237.6,
     "offset_y": -39.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -71.00000000000011,
     "offset_y": -33.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -16.68518518518522,
     "offset_y": -14.398148148148152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

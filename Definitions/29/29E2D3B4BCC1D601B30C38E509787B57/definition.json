@@ -9,27 +9,53 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "shadow",
+    "demon",
+    "dark",
+    "concept",
+    "elf",
+    "orc",
+    "league",
+    "legends",
+    "nemesis",
+    "primal",
+    "hunter",
+    "smite",
+    "ramza",
+    "mobius",
+    "ff",
+    "legendary",
+    "dragon",
+    "lord",
+    "rakuen",
+    "shiva",
+    "cowboy",
+    "jacob",
+    "atienza"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -442,
     "offset_y": -329,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -171,
     "offset_y": -166,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000003,
     "offset_x": -178,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

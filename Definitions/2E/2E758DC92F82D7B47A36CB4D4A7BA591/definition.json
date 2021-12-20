@@ -3,27 +3,57 @@
   "md5": "2E758DC92F82D7B47A36CB4D4A7BA591",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "elf",
+    "ranger",
+    "male",
+    "wood",
+    "female",
+    "richard",
+    "lionheart",
+    "amun",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "2019\u7684\u5C0F\u753B",
+    "\u75BE\u901F",
+    "k",
+    "warhammer",
+    "larp",
+    "costume",
+    "sylvanian",
+    "\u76DC\u9B42\uFF0D\u6F01\u7FC1",
+    "chin",
+    "likhui"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -267.00000000000006,
     "offset_y": -41.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": 0.33333333333337123,
     "offset_y": -0.6666666666665435,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -10.666666666666288,
     "offset_y": -0.9999999999997726,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

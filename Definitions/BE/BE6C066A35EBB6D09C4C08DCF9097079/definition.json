@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/43/e8/7f/43e87f920539c027a62e501a56f57f17.jpg",
   "md5": "BE6C066A35EBB6D09C4C08DCF9097079",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "ash",
+    "elemental",
+    "markella",
+    "stavropoulou",
+    "https://www.artstation.com/artwork/kawkdr",
+    "infernal",
+    "power",
+    "paola",
+    "giari",
+    "butic",
+    "myth",
+    "tcg",
+    "envak",
+    "enkaqti",
+    "mayan",
+    "aztec",
+    "warrior"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -332,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -140,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.42,
     "offset_x": -50,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/564x/e6/22/99/e62299789941758a05cd7c0d378712e0.jpg",
   "md5": "64D7871A6AD8D7B5AB0601FC25C5E5DD",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "night",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "clothing",
+    "under_wear",
+    "panties",
+    "heels",
+    "\u738B\u8005\u8363\u8000\u963F\u73C2",
+    "\u753B\u4E2A\u86CB\u86CB",
+    "00",
+    "pin",
+    "cornelia",
+    "gray",
+    "magia",
+    "guerrera",
+    "character",
+    "design",
+    "concept",
+    "k/da",
+    "pop",
+    "stars",
+    "evelynn",
+    "gyeong",
+    "nam",
+    "cho",
+    "league",
+    "legends",
+    "female",
+    "artwork"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -262,
     "offset_y": -104,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -101,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6799999999999982,
     "offset_x": -150,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,51 @@
   "source": "https://static.wikia.nocookie.net/villains/images/0/08/Gul%27dan_HoW.jpg/revision/latest?cb=20160606195345",
   "md5": "568116AC7EB1FC213F4DF3E6CC175B9F",
   "tags": [
-    ""
+    "",
+    "blizzard",
+    "hearthstone",
+    "icon",
+    "wow",
+    "spawn",
+    "comics",
+    "number",
+    "beast",
+    "dc",
+    "demonio",
+    "ariel",
+    "gutierrez",
+    "gomez",
+    "frostheart",
+    "ivan",
+    "fomin",
+    "reaper",
+    "tf",
+    "skin",
+    "owen",
+    "kim"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -311,
     "offset_y": -305,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -108,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -86,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

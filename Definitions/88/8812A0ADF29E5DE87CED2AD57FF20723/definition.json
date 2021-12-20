@@ -5,27 +5,40 @@
     "human",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "thor",
+    "comic",
+    "cover",
+    "book",
+    "covers",
+    "hammer",
+    "marvel",
+    "comics",
+    "alexander",
+    "great"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -388,
     "offset_y": -461,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7404999999999997,
     "offset_x": -89,
     "offset_y": -159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02025,
     "offset_x": -122,
     "offset_y": -190,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

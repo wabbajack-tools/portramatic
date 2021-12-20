@@ -8,27 +8,47 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "planeswalker",
+    "welcome",
+    "to",
+    "league",
+    "draven",
+    "chuhao",
+    "liu",
+    "fire",
+    "emblem",
+    "blue",
+    "lions",
+    "aric",
+    "athesis",
+    "crimean",
+    "warfare",
+    "bruno",
+    "balixa"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -357,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -265,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -376,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

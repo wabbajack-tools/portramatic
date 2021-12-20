@@ -1,28 +1,48 @@
 {
-  "source": "https://njgentertainment.files.wordpress.com/2021/01/screen-shot-2021-01-21-at-5.28.54-am.png?w=NaN&h=",
+  "source": "https://njgentertainment.files.wordpress.com/2021/01/screen-shot-2021-01-21-at-5.28.54-am.png?w=NaN\u0026h=",
   "md5": "CD494F9CA6806FDB2B64C4D883C02B88",
   "tags": [
-    ""
+    "",
+    "jacket",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "bottom_wear",
+    "pants",
+    "20180311",
+    "ji",
+    "young",
+    "joo",
+    "2020",
+    "with",
+    "female",
+    "character",
+    "design",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -180,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -98,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 36,
     "offset_y": 144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

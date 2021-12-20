@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/5c/bb/d6/5cbbd6aef3894e3be46cfd8157b1f4ac.jpg",
   "md5": "458C9E2C47736020D7089BA93EC50402",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "ideas",
+    "cartoon",
+    "girl",
+    "design",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "winter",
+    "marcel",
+    "nilo",
+    "cosplay",
+    "study",
+    "kyle",
+    "enochs",
+    "https://www",
+    "epic",
+    "quest",
+    "rico",
+    "cilliers",
+    "princess"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

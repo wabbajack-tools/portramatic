@@ -4,27 +4,45 @@
   "tags": [
     "female",
     "tiefling",
-    "fighter"
+    "fighter",
+    "race",
+    "orcs",
+    "cursed",
+    "matt",
+    "forsyth",
+    "sister",
+    "battle",
+    "chi",
+    "huei",
+    "chen",
+    "gary",
+    "jamroz-palma",
+    "star",
+    "wars",
+    "illustration"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -389,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5200000000000005,
     "offset_x": -239,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -14,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

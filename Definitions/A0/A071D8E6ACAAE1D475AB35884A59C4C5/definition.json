@@ -2,27 +2,49 @@
   "source": "https://64.media.tumblr.com/c372d7216af58415932aef0df7dc2298/tumblr_pkvkzakAsn1qm1bz4o1_1280.jpg",
   "md5": "A071D8E6ACAAE1D475AB35884A59C4C5",
   "tags": [
-    "sorceress"
+    "sorceress",
+    "anime",
+    "half-elf",
+    "elf",
+    "wizard",
+    "pictures",
+    "renaissance",
+    "costumes",
+    "female",
+    "pirate",
+    "witch",
+    "broom",
+    "high",
+    "priestess",
+    "wonmi",
+    "choi",
+    "inventor",
+    "gustavo",
+    "torqueto",
+    "https://www"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -232,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -214,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -38,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

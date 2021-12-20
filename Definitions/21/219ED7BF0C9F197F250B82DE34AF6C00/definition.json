@@ -2,27 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd3d5447-63a0-428b-a2d5-0cfb15ae99f2/dee4bwg-95389aa0-fd72-4f20-8f8e-1a8a2bf799c3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkM2Q1NDQ3LTYzYTAtNDI4Yi1hMmQ1LTBjZmIxNWFlOTlmMlwvZGVlNGJ3Zy05NTM4OWFhMC1mZDcyLTRmMjAtOGY4ZS0xYThhMmJmNzk5YzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.L4oeB7glrbJrTBjRlewoozZ9kAyr5ki3jcsVhrHGLPs",
   "md5": "219ED7BF0C9F197F250B82DE34AF6C00",
   "tags": [
-    ""
+    "",
+    "vampires",
+    "feeding",
+    "women",
+    "twinklight",
+    "kristina",
+    "queen",
+    "comic"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -272,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -74,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -38,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

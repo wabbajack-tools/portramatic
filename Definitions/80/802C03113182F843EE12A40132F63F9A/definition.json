@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/474x/1d/74/ce/1d74ce36560cd3bc1a0799a1eb02ba02--miyazaki-film-howls-moving-castle.jpg",
   "md5": "802C03113182F843EE12A40132F63F9A",
   "tags": [
-    "daerancustom"
+    "daerancustom",
+    "anime",
+    "howls",
+    "moving",
+    "castle",
+    "howl\u0027s",
+    "miyazaki",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "yaodaoji",
+    "chazi",
+    "prprpr",
+    "asuka",
+    "study",
+    "oliver",
+    "wetter",
+    "\u4E2A\u4EBA\u7EC3\u4E60",
+    "\u5F6C\u4ED4"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -214,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -77,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.079999999999999,
     "offset_x": -56,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

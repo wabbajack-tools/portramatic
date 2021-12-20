@@ -1,26 +1,47 @@
 {
-  "source": "https://external-preview.redd.it/n5L4ZMIlWswEexr-r6Mg6WXnarfOU3qv8UI31k6g4tU.jpg?auto=webp&s=6ee133952ccd843045a4f1da4d77db6e35e85771",
+  "source": "https://external-preview.redd.it/n5L4ZMIlWswEexr-r6Mg6WXnarfOU3qv8UI31k6g4tU.jpg?auto=webp\u0026s=6ee133952ccd843045a4f1da4d77db6e35e85771",
   "md5": "DFE1123AAD4A13040C880A47BC051912",
   "tags": [
-    "King Batman II"
+    "King Batman II",
+    "joker",
+    "throne",
+    "batman",
+    "sitting",
+    "his",
+    "image",
+    "gears",
+    "war",
+    "classical",
+    "statue",
+    "pluto",
+    "goran",
+    "josic",
+    "hades",
+    "greek",
+    "mythology"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -178.66666666666603,
     "offset_y": -247.9999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -22.66666666666663,
     "offset_y": -114.66666666666669,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -5.3333333333332575,
     "offset_y": -44.00000000000006,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

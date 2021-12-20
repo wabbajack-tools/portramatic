@@ -7,27 +7,50 @@
     "Battlerager",
     "Great Axe",
     "Half-Orc",
-    "Orc"
+    "Orc",
+    "orc",
+    "creature",
+    "dark",
+    "warrior",
+    "lord",
+    "rings",
+    "dawn",
+    "war",
+    "warhammer",
+    "40k",
+    "orcus",
+    "jun",
+    "lee",
+    "https://www.artstation.com",
+    "draugr",
+    "olya",
+    "sh",
+    "w-08",
+    "xavier",
+    "cuenca"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -309,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -170,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

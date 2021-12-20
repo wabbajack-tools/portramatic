@@ -2,25 +2,70 @@
   "source": "https://i.pinimg.com/564x/02/44/9d/02449d495e513e7781354c798490c649.jpg",
   "md5": "58A6C619BC6231371EBFD1B6F8F3FAFE",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "armors",
+    "body",
+    "armor",
+    "ninja",
+    "costume",
+    "heavy",
+    "star",
+    "wars",
+    "bounty",
+    "hunter",
+    "suits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "ivan",
+    "dedov\u0027s",
+    "submission",
+    "ancient",
+    "epic",
+    "tia",
+    "jaehong",
+    "jeon",
+    "knight",
+    "model",
+    "evgeny",
+    "epanchintsev"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -203,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -64,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -2,
     "offset_y": -144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

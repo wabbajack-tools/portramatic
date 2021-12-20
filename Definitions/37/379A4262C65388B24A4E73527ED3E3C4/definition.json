@@ -4,27 +4,58 @@
   "tags": [
     "female",
     "tiefling",
-    "archer"
+    "archer",
+    "rogue",
+    "thief",
+    "character",
+    "assassin",
+    "dark",
+    "elf",
+    "samurai",
+    "armor",
+    "knight",
+    "black",
+    "heavy",
+    "lx",
+    "liang",
+    "chengzhi",
+    "gaming",
+    "pinwire",
+    "tinlef",
+    "elharil",
+    "monica",
+    "doss",
+    "bada",
+    "2018",
+    "pinterest",
+    "32",
+    "mins",
+    "templar",
+    "misha",
+    "savier"
   ],
   "small": {
     "scale": 1.0199999999999998,
     "offset_x": -401,
     "offset_y": -261,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -233,
     "offset_y": -194,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -9,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

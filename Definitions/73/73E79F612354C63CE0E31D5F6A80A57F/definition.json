@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/000/427/403/large/bamuth-lai-dpoa222-1200.jpg?1422000237",
   "md5": "73E79F612354C63CE0E31D5F6A80A57F",
   "tags": [
-    ""
+    "",
+    "dd",
+    "necromancer",
+    "human",
+    "dragon",
+    "game",
+    "thrones",
+    "keeper",
+    "secrets",
+    "league",
+    "legends",
+    "dark",
+    "angel",
+    "\u9AD8\u624B",
+    "\u6BD2\u624B\u9B54\u7687",
+    "\u6B7B\u8987\u5929",
+    "inhyuk",
+    "lee",
+    "formal",
+    "armour",
+    "madeleine",
+    "\u00E5",
+    "moonlight",
+    "kelly",
+    "perry"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -219,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -65,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -24,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

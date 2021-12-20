@@ -4,27 +4,49 @@
   "tags": [
     "elf",
     "female",
-    "mage"
+    "mage",
+    "lol",
+    "concept",
+    "league",
+    "fan",
+    "game",
+    "character",
+    "anime",
+    "girl",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "ice",
+    "god",
+    "tanawut",
+    "jittakanworakit"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -148,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -39,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -7,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

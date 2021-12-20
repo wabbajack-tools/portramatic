@@ -9,27 +9,51 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "asriel",
+    "grace",
+    "zhu",
+    "fie",
+    "claussell",
+    "esther",
+    "shen",
+    "old",
+    "work",
+    "fmm",
+    "cat"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -647,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -222,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999994,
     "offset_x": -220,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

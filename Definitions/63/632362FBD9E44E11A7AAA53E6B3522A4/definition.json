@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/df/3c/7f/df3c7f7ef0102b828ae9abafe4b77763.jpg",
   "md5": "632362FBD9E44E11A7AAA53E6B3522A4",
   "tags": [
-    ""
+    "",
+    "forest",
+    "elf",
+    "archer",
+    "night",
+    "dark",
+    "female",
+    "assassin",
+    "castlevania",
+    "lords",
+    "shadow",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "belt",
+    "jewelry",
+    "necklace",
+    "soufiane",
+    "idrassi",
+    "cyberpunk",
+    "girl",
+    "character",
+    "cyborg",
+    "elder",
+    "scrolls",
+    "legends",
+    "concept",
+    "house",
+    "warrior",
+    "omar",
+    "samy",
+    "https://www.artstation.com/artwork/e0woap?fbclid"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -75,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -125,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -54,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

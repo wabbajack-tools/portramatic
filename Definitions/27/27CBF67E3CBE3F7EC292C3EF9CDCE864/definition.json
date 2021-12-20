@@ -26,27 +26,33 @@
     "harder",
     "tiefling",
     "bard",
-    "fan"
+    "fan",
+    "american",
+    "werewolf",
+    "london"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -163,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -383,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -636,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

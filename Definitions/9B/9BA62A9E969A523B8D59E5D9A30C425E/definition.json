@@ -2,27 +2,49 @@
   "source": "https://4.bp.blogspot.com/-DdT5WACXKTs/WbPkWuHWWEI/AAAAAAAADq8/P2pyKGLXOrE2q_RXoQ1y1LqJhBXibQ4xACLcBGAs/s1600/dragonlady.jpg",
   "md5": "9BA62A9E969A523B8D59E5D9A30C425E",
   "tags": [
-    ""
+    "",
+    "anime",
+    "demon",
+    "human",
+    "dragons",
+    "as",
+    "humans",
+    "fire",
+    "dragon",
+    "dark",
+    "elf",
+    "demons",
+    "mother",
+    "francisco",
+    "garc\u00EDa",
+    "2020",
+    "blood",
+    "dance",
+    "jackie",
+    "felix"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -73,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -59,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8000000000000007,
     "offset_x": -24,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

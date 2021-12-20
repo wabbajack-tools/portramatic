@@ -2,27 +2,46 @@
   "source": "https://cdn.discordapp.com/attachments/893989303246520352/893992352815919115/EY97MSkXgAItuXy.png",
   "md5": "C3E1360422861AD1BDF3467EDEB3AB12",
   "tags": [
-    ""
+    "",
+    "anime",
+    "characters",
+    "zone",
+    "ender\u0027s",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "winx",
+    "gretel",
+    "lusky",
+    "girls",
+    "cartoon"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -581.6000000000001,
     "offset_y": -309.6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7800000000000007,
     "offset_x": -515.2,
     "offset_y": -19.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2899999999999947,
     "offset_x": -627.9259259259256,
     "offset_y": -44.85185185185185,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

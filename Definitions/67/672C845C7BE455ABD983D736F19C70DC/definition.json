@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/90/a1/2a/90a12af026546ea3e18c6d6826a8c474.jpg",
   "md5": "672C845C7BE455ABD983D736F19C70DC",
   "tags": [
-    ""
+    "",
+    "scythe",
+    "game",
+    "cool",
+    "drawings",
+    "awesome",
+    "alien",
+    "warrior",
+    "female",
+    "assassin",
+    "orc",
+    "hobbit",
+    "star",
+    "wars",
+    "rise",
+    "skywalker",
+    "serenity",
+    "mizuri",
+    "mythic",
+    "battles",
+    "pantheon",
+    "circe",
+    "her",
+    "wolves",
+    "blade",
+    "fan",
+    "ar",
+    "rob",
+    "brunette",
+    "with"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -283.9999999999997,
     "offset_y": -20.666666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -237.33333333333337,
     "offset_y": -30.666666666666714,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -17.333333333332973,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

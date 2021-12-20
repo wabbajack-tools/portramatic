@@ -11,27 +11,60 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "priestess",
+    "costume",
+    "dress",
+    "outfit",
+    "dark",
+    "angel",
+    "lord",
+    "rings",
+    "night",
+    "elf",
+    "meir",
+    "\u30E1",
+    "\u30A4\u30A2\uFF09\u0022cat",
+    "ear",
+    "costume\u0022",
+    "wisnu",
+    "tan",
+    "white",
+    "lion",
+    "knight",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "https://www.artstation.com/artwork/qvlbz",
+    "for",
+    "alliance",
+    "jeremy",
+    "chong",
+    "warcraft",
+    "world"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -350.7999999999997,
     "offset_y": -115.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -255.19999999999976,
     "offset_y": -74.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -0.32407407407481514,
     "offset_y": 0.39814814814735655,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

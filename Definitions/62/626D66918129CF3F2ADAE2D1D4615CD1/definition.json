@@ -8,27 +8,57 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "black",
+    "egyptian",
+    "warrior",
+    "ancient",
+    "egypt",
+    "warriors",
+    "goddess",
+    "aeacus",
+    "top",
+    "cats",
+    "cat",
+    "male",
+    "character",
+    "design",
+    "inspiration",
+    "gold",
+    "armor",
+    "angel",
+    "chris",
+    "setra",
+    "https://www.artstation.com/artwork/9myl5o",
+    "2021",
+    "blood",
+    "hunter",
+    "thia",
+    "milica",
+    "\u010Delikovi\u0107"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -351,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -316,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -434,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

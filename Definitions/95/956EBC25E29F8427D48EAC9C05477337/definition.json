@@ -9,27 +9,50 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "woman",
+    "cleavage",
+    "great",
+    "bikini",
+    "erotic",
+    "blossom",
+    "powerpuff",
+    "girls",
+    "disney",
+    "princess",
+    "snow",
+    "white",
+    "seven",
+    "dwarfs",
+    "sailor",
+    "moon",
+    "candy",
+    "girl",
+    "renato",
+    "giacomini"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -82.3333333333333,
     "offset_y": -26.999999999999886,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -77.33333333333337,
     "offset_y": -42.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9799999999999975,
     "offset_x": -18.66666666666697,
     "offset_y": -16.666666666666288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

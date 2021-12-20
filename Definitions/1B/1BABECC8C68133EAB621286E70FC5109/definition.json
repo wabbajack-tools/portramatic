@@ -1,5 +1,5 @@
 {
-  "source": "https://steamuserimages-a.akamaihd.net/ugc/1740070782982589916/D1D04425D2E580A9722B88BD46F5C9038BC05974/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "source": "https://steamuserimages-a.akamaihd.net/ugc/1740070782982589916/D1D04425D2E580A9722B88BD46F5C9038BC05974/?imw=5000\u0026imh=5000\u0026ima=fit\u0026impolicy=Letterbox\u0026imcolor=%23000000\u0026letterbox=false",
   "md5": "1BABECC8C68133EAB621286E70FC5109",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 1.06,
     "offset_x": -1030,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -715,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1999999999999973,
     "offset_x": -938,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

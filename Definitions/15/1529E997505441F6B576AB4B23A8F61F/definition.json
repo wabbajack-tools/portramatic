@@ -4,27 +4,54 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "heavy",
+    "armor",
+    "knight",
+    "medieval",
+    "knights",
+    "\u767D\u733F",
+    "xiaodi",
+    "jin",
+    "https://www.artstation.com/artwork/gnpqz",
+    "plague",
+    "siman",
+    "vlaisavljevi\u0107",
+    "characters",
+    "dark",
+    "martial",
+    "race",
+    "\u3147\u3147",
+    "joo",
+    "https://www.artstation.com/artwork/rgzqm"
   ],
   "small": {
     "scale": 0.9900000000000007,
     "offset_x": -795,
     "offset_y": -488,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.75,
     "offset_x": -542,
     "offset_y": -313,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -292,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

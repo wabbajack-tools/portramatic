@@ -4,27 +4,35 @@
   "tags": [
     "human",
     "ranger",
-    "d&amp;d"
+    "d\u0026amp;d",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -142.39999999999998,
     "offset_y": -31.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -74.20000000000005,
     "offset_y": -15.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -55.81481481481478,
     "offset_y": -11.750000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

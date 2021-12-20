@@ -3,27 +3,51 @@
   "md5": "F66A42B1966C32DBCD79D120939E2A24",
   "tags": [
     "human",
-    "female"
+    "female",
+    "blood",
+    "elf",
+    "fan",
+    "warlock",
+    "drawing",
+    "3d",
+    "showreel",
+    "lakshminarayan",
+    "ghara",
+    "shu",
+    "li",
+    "\u2013",
+    "sanxingdui",
+    "shaman",
+    "challenge",
+    "ancient",
+    "civilization",
+    "ray",
+    "thuc",
+    "le",
+    "zbrushtuts"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -262,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -170,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -148,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/fe/2e/fe/fe2efec08c8550585a500f9ff10557d0.jpg",
   "md5": "631D6BA9C91896297695562964CD455D",
   "tags": [
-    ""
+    "",
+    "galaxy",
+    "anime",
+    "characters",
+    "lol",
+    "dolly",
+    "duck",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "d\u0026d",
+    "character",
+    "dorzada",
+    "goodbarrel",
+    "billy",
+    "garretsen",
+    "d",
+    "female",
+    "a",
+    "couple",
+    "roi",
+    "horn",
+    "mage",
+    "n",
+    "p",
+    "y",
+    "e"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -157,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -3,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -72,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

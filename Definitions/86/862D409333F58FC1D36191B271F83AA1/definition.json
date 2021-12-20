@@ -2,25 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/036/823/869/large/insist-__-3.jpg?1618735148",
   "md5": "862D409333F58FC1D36191B271F83AA1",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u5916\u5305",
+    "insist",
+    "__",
+    "character",
+    "characters",
+    "design",
+    "andventrr",
+    "half",
+    "elf",
+    "khairizal",
+    "anwar",
+    "\uAE30\uC0AC",
+    "a",
+    "ram",
+    "choi",
+    "inspiration"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -219,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -150,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -262,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

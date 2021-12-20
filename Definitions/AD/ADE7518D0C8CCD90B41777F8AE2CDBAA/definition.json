@@ -2,27 +2,53 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/019/646/796/large/caio-monteiro-409318-cobra-mage-final-web.jpg?1564422106",
   "md5": "ADE7518D0C8CCD90B41777F8AE2CDBAA",
   "tags": [
-    ""
+    "",
+    "mage",
+    "concept",
+    "dark",
+    "elf",
+    "sorcerer",
+    "drawings",
+    "league",
+    "angels",
+    "orcs",
+    "sylvanas",
+    "itzah",
+    "dota",
+    "phantom",
+    "assassin",
+    "set",
+    "gleaming",
+    "lady",
+    "a",
+    "swamp",
+    "land",
+    ".",
+    "kishore",
+    "ghosh"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -283,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -237,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -522,
     "offset_y": 8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

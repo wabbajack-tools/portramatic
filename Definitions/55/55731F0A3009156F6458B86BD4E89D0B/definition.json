@@ -3,27 +3,52 @@
   "md5": "55731F0A3009156F6458B86BD4E89D0B",
   "tags": [
     "outsider",
-    "female. warrior"
+    "female. warrior",
+    "smite",
+    "chronos",
+    "fan",
+    "league",
+    "legends",
+    "warrior",
+    "princes",
+    "vs",
+    "ogre",
+    "guillermo",
+    "cartay",
+    "\u77EE\u4EBA",
+    "mr.",
+    "xie",
+    "https://www.artstation.com/artwork/wbw32",
+    "dwarf",
+    "vainglory",
+    "radagio",
+    "mushk",
+    "rizvi",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -193,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -34,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -78,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

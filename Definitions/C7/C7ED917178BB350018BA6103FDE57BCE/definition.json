@@ -5,27 +5,44 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "blackguard",
+    "assassin",
+    "denis",
+    "zhbankov",
+    "skyrim",
+    "future",
+    "soldier",
+    "stefan",
+    "celic",
+    "2020",
+    "strong",
+    "world",
+    "nero",
+    "gen"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -469.7999999999997,
     "offset_y": -64.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -282.19999999999976,
     "offset_y": -1.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -432.3240740740748,
     "offset_y": -37.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

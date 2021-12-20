@@ -2,27 +2,44 @@
   "source": "https://i.redd.it/jvr0qdiuspy11.jpg",
   "md5": "9BA5B3F4E509BCFEFBE196F8A1F5F41D",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "slayer",
+    "priestess",
+    "age",
+    "girl",
+    "main",
+    "character",
+    "anime",
+    "drawings",
+    "final",
+    "xv",
+    "stella",
+    "nox",
+    "fleuret"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -251,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -257,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -76,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

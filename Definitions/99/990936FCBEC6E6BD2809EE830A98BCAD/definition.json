@@ -5,27 +5,54 @@
     "human",
     "female",
     "warrior",
-    "queen"
+    "queen",
+    "legend",
+    "cryptids",
+    "cards",
+    "dragons",
+    "wild",
+    "demon",
+    "princesses",
+    "david",
+    "gaillet",
+    "heroes",
+    "baldur\u0027s",
+    "gate",
+    "agri",
+    "karuniawan",
+    "battle",
+    "sorcerer",
+    "\u2171",
+    "repainted",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s"
   ],
   "small": {
     "scale": 1.0000000000000002,
     "offset_x": -724,
     "offset_y": -224,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6311666666666662,
     "offset_x": -342,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7602499999999998,
     "offset_x": -310,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/1e/1a/b2/1e1ab29966b6e82e97fd0311bad6d79a.jpg",
   "md5": "5B7A28B7FC60F7B2CBAD288B86806A31",
   "tags": [
-    ""
+    "",
+    "elf",
+    "queen",
+    "female",
+    "warrior",
+    "fire",
+    "orc",
+    "demon",
+    "hunter",
+    "dark",
+    "predator",
+    "brazilian",
+    "legend",
+    "saci",
+    "perere",
+    "jo\u00E3o",
+    "ramos",
+    "filho",
+    "barbarian",
+    "muyoung",
+    "kim",
+    "https://www",
+    "andrey",
+    "terentev",
+    "creature",
+    "concept"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -338,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -130,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

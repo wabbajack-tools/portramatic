@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/736x/ee/a7/79/eea77975f2ffafe69e01568e699f12dc--character-art-character-inspiration.jpg",
   "md5": "A3DBEA4E534E60E5E4EEFC6E706D515B",
   "tags": [
-    ""
+    "",
+    "warcraft",
+    "shaman",
+    "orc",
+    "wow",
+    "fan",
+    "lich",
+    "king",
+    "black",
+    "dragon",
+    "https://www.artstation.com/artwork/qpzmn",
+    "concept",
+    "characters",
+    "artwork",
+    "character",
+    "geralt",
+    "azeroth",
+    "steven",
+    "crowe",
+    "daric",
+    "rylan",
+    "nik",
+    "hagialas"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -237,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -128,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -10,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

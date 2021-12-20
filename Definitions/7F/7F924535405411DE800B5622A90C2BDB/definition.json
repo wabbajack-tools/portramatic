@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/EDpymfbUEAAFGTk?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EDpymfbUEAAFGTk?format=jpg\u0026name=large",
   "md5": "7F924535405411DE800B5622A90C2BDB",
   "tags": [
     "explore",
@@ -9,27 +9,45 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "bottomless",
+    "huge",
+    "ass",
+    "wide",
+    "hips",
+    "brunette",
+    "big",
+    "fanart",
+    "ebony",
+    "maw",
+    "marver",
+    "yahya_diatmika",
+    "yahya",
+    "diatmika",
+    "https://www"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -12.333333333333329,
     "offset_y": -256.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -77.33333333333337,
     "offset_y": -42.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999974,
     "offset_x": -5.333333333333712,
     "offset_y": -7.33333333333303,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,42 @@
     "female",
     "mage",
     "priest",
-    "warrior"
+    "warrior",
+    "lancer",
+    "cu",
+    "chulainn",
+    "fate",
+    "stay",
+    "night",
+    "class",
+    "scathach",
+    "grand",
+    "order",
+    "rachta",
+    "lin"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -405,
     "offset_y": -192,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -143,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -50,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

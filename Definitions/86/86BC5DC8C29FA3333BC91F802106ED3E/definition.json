@@ -2,27 +2,62 @@
   "source": "https://a-static.besthdwallpaper.com/world-of-warcraft-wow-night-elf-sylvanas-tapet-2048x1536-55835_26.jpg",
   "md5": "86BC5DC8C29FA3333BC91F802106ED3E",
   "tags": [
-    ""
+    "",
+    "sylvanas",
+    "banshee",
+    "blood",
+    "elf",
+    "wow",
+    "four",
+    "horsemen",
+    "dark",
+    "lord",
+    "rings",
+    "demons",
+    "sylvanaswindrunner",
+    "my",
+    "name",
+    "is",
+    "zg",
+    "artstation.",
+    "windrunner",
+    "world",
+    "warcraft",
+    "human",
+    "knight",
+    "vs",
+    "namho",
+    "baek",
+    "male",
+    "artworks",
+    "concept",
+    "digital",
+    "dark_elf_knight_adv",
+    "justice",
+    "wong"
   ],
   "small": {
     "scale": 0.24999999999999933,
     "offset_x": -219,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -186,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -504,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

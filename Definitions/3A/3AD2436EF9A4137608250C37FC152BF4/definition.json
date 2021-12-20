@@ -5,27 +5,45 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "bloodborne",
+    "doll",
+    "fan",
+    "plain",
+    "anime",
+    "girl",
+    "zoma",
+    "phamoz",
+    "bloodbrone",
+    "\u4EBA\u5076",
+    "w.",
+    "zhao",
+    "sorceress",
+    "srem",
+    "v."
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -252.5,
     "offset_y": -144,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -122.5,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9999166666666666,
     "offset_x": -1,
     "offset_y": -47,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

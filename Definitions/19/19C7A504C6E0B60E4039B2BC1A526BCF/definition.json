@@ -2,27 +2,36 @@
   "source": "https://cdn.discordapp.com/attachments/870086496835743768/914357282991669248/Lissi.png",
   "md5": "19C7A504C6E0B60E4039B2BC1A526BCF",
   "tags": [
-    ""
+    "",
+    "yugio",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -195.9999999999999,
     "offset_y": -13.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -252.79999999999995,
     "offset_y": -23.200000000000045,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -73.68518518518476,
     "offset_y": -9.6111111111112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

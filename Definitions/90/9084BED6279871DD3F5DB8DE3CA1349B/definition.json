@@ -2,25 +2,42 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84af6c26-83fa-4a74-bb82-1ba492e4d250/devd267-3ecfad62-74c8-41e5-9397-8ed0c4522f67.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0YWY2YzI2LTgzZmEtNGE3NC1iYjgyLTFiYTQ5MmU0ZDI1MFwvZGV2ZDI2Ny0zZWNmYWQ2Mi03NGM4LTQxZTUtOTM5Ny04ZWQwYzQ1MjJmNjcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VcHSfqYt_GqxomVU2H_mbrmF3-8Nv9YUH12zvxcvqwU",
   "md5": "9084BED6279871DD3F5DB8DE3CA1349B",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "taihou",
+    "wtparadise",
+    "aerith",
+    "gainsborough",
+    "ff7",
+    "tanasil",
+    "chotchoung"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -133,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -34,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": 0,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

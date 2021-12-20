@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/originals/75/64/55/7564559ac583e7c3292b3980e27ee378.png",
   "md5": "97210FF26B258033BF958927A866E24C",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "pirates",
+    "caribbean",
+    "red",
+    "hunter",
+    "dan",
+    "pilla",
+    "lovely",
+    "old",
+    "hag",
+    "todd",
+    "ulrich",
+    "witch",
+    "nathrezim",
+    "dmitry",
+    "savin"
   ],
   "small": {
     "scale": 1,
     "offset_x": -141,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -107,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 84,
     "offset_y": 234,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

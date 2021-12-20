@@ -6,27 +6,37 @@
     "female",
     "warrior",
     "hunter",
-    "mage"
+    "mage",
+    "overwatch",
+    "mercy",
+    "fan",
+    "realistic",
+    "hot",
+    "character",
+    "body"
   ],
   "small": {
     "scale": 0.1999999999999993,
     "offset_x": -56.5,
     "offset_y": -151,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.19999999999999907,
     "offset_x": -1.5,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3799999999999992,
     "offset_x": -3,
     "offset_y": -65,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

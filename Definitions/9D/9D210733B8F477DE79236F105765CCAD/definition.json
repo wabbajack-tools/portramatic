@@ -2,25 +2,58 @@
   "source": "https://i.pinimg.com/564x/b4/63/71/b46371a16dbc15432d9ec27ec8c0c541.jpg",
   "md5": "9D210733B8F477DE79236F105765CCAD",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "race",
+    "j.",
+    "scott",
+    "campbell",
+    "knight",
+    "armor",
+    "samurai",
+    "necromancer",
+    "heavy",
+    "medieval",
+    "knights",
+    "orphea",
+    "vadim",
+    "bakhlychev",
+    "character",
+    "modeling",
+    "noho\u0027s",
+    "sorceress",
+    "shovel",
+    "kim",
+    "en",
+    "2020",
+    "gunner",
+    "black",
+    "mucuzi",
+    "k.y.k",
+    "female"
   ],
   "small": {
     "scale": 1.6700000000000006,
     "offset_x": -414,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -154,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -84,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

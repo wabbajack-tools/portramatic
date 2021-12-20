@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/564x/ab/34/2b/ab342b8d30eca280e876541e8535e3b2.jpg",
   "md5": "B57FEF8BAEF2DFE9DA689903FC757FA1",
   "tags": [
-    ""
+    "",
+    "female",
+    "elves",
+    "elf",
+    "druid",
+    "cleric"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -63,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -53,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3599999999999999,
     "offset_x": -50,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

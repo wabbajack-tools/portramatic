@@ -4,27 +4,52 @@
   "tags": [
     "human",
     "female",
-    "dancer"
+    "dancer",
+    "nathan",
+    "bowen",
+    "michael",
+    "robert",
+    "emily",
+    "corpse",
+    "bride",
+    "1/100",
+    "ginger",
+    "elf",
+    "sebastian",
+    "horoszko",
+    "zombie",
+    "hunter",
+    "lvl",
+    "filipe",
+    "pagliuso",
+    "https://www.artstation.com/artwork/e1wn2",
+    "painting",
+    "practice",
+    "ma",
+    "chao"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -256.5,
     "offset_y": -426,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2499999999999991,
     "offset_x": -67.5,
     "offset_y": -204,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3699999999999992,
     "offset_x": -5,
     "offset_y": -291,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

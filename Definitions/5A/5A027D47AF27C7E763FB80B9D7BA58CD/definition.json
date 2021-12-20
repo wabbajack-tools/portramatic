@@ -6,27 +6,51 @@
     "female",
     "rogue",
     "mage",
-    "priest"
+    "priest",
+    "tiefling",
+    "miniature",
+    "warrior",
+    "assassin",
+    "pirate",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "storm",
+    "queen",
+    "alexander",
+    "kretov",
+    "yu",
+    "hansol",
+    "barbarian",
+    "girl",
+    "cheolseung",
+    "ok"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -611,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9904999999999999,
     "offset_x": -220,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1102500000000002,
     "offset_x": -198,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

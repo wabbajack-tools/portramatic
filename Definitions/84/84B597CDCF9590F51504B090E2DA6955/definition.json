@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/0c/3e/7f/0c3e7f47ea07aef5ab5561162466e9ee.jpg",
   "md5": "84B597CDCF9590F51504B090E2DA6955",
   "tags": [
-    ""
+    "",
+    "giant",
+    "rat",
+    "cartoon",
+    "monster",
+    "warriors",
+    "orc",
+    "warrior",
+    "dragon",
+    "armor",
+    "conan",
+    "barbarian",
+    "troll",
+    "spearman",
+    "tony",
+    "sart",
+    "pin",
+    "gary",
+    "lish",
+    "creature",
+    "concept",
+    "creatures",
+    "zombie",
+    "samurai",
+    "sergei",
+    "baranov",
+    "https://www.artstation.com/artwork/0x3rjy"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -383,
     "offset_y": -194,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -57,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -38,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

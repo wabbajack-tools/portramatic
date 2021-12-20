@@ -3,27 +3,47 @@
   "md5": "F8A6B694DD9B4DE21A5B64456F69F21B",
   "tags": [
     "female",
-    "druid"
+    "druid",
+    "elf",
+    "male",
+    "marie",
+    "laveau",
+    "alessandra",
+    "pisano",
+    "monkey",
+    "king",
+    "alex",
+    "mordovets",
+    "nile",
+    "order",
+    "batu",
+    "ince",
+    "concept",
+    "world",
+    "illustration"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -302,
     "offset_y": -237,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -184,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -196,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

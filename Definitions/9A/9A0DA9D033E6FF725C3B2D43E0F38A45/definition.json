@@ -2,7 +2,7 @@
   "source": "https://forum.owlcatgames.com/uploads/default/original/2X/9/922e98f36cefa04bddddba85406eac4f2589bcfb.jpeg",
   "md5": "9A0DA9D033E6FF725C3B2D43E0F38A45",
   "tags": [
-    "engle's",
+    "engle\u0027s",
     "drawing",
     "revenant",
     "engle",
@@ -31,27 +31,42 @@
     "leader",
     "riccardo",
     "moscatello",
-    "digital"
+    "digital",
+    "anime",
+    "fox",
+    "warrior",
+    "native",
+    "girl",
+    "alien",
+    "knight",
+    "armor",
+    "skyrim",
+    "aion_concept",
+    "_",
+    "sfersh"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -214.33333333333377,
     "offset_y": -934.3333333333335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6600000000000006,
     "offset_x": -63,
     "offset_y": -37.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.07,
     "offset_x": -33,
     "offset_y": -1.6666666666666288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,40 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "accessories",
-    "tie"
+    "tie",
+    "game",
+    "thrones",
+    "glasses",
+    "overflow",
+    "eve",
+    "blum",
+    "https://www.artstation.com/artwork/kra1br",
+    "robert",
+    "pattinson",
+    "twilight"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -74,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -77,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -80,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

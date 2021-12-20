@@ -5,27 +5,53 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "world",
+    "warcraft",
+    "mounts",
+    "dungeons",
+    "dragons",
+    "daughter",
+    "dragon",
+    "king",
+    "pixel",
+    "cat",
+    "2020",
+    "pet",
+    "monsters",
+    "some",
+    "my",
+    "artworks",
+    "way",
+    "darkness",
+    "falls",
+    "mogi",
+    "group",
+    "dark",
+    "artwork"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -955,
     "offset_y": -399,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -663,
     "offset_y": -289,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0096666666666667,
     "offset_x": -480,
     "offset_y": -194,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

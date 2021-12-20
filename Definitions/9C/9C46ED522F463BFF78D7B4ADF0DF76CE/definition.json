@@ -2,27 +2,56 @@
   "source": "https://64.media.tumblr.com/75753eb0295f32d55aa9de234d1e654e/tumblr_pc6yxzXcEx1uurxgjo1_1280.png",
   "md5": "9C46ED522F463BFF78D7B4ADF0DF76CE",
   "tags": [
-    ""
+    "",
+    "european",
+    "dragon",
+    "drawings",
+    "green",
+    "symbol",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "tiefling",
+    "warlock",
+    "hessel",
+    "bouma",
+    "old",
+    "account",
+    "tyto",
+    "visionkeeper",
+    "fanmade",
+    "champion",
+    "captain",
+    "jason",
+    "nguyen",
+    "2020(\uC774\uBBF8\uC9C0",
+    "\uD3EC\uD568",
+    "\uCE90\uB9AD\uD130",
+    "\uC544\uD2B8"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -333,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -189,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -72,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

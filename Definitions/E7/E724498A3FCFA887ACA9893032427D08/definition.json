@@ -19,27 +19,44 @@
     "orianna",
     "tempest",
     "cleric",
-    "talos"
+    "talos",
+    "drow",
+    "wizard",
+    "rogue",
+    "nytemyst",
+    "humanoid",
+    "christopher",
+    "dennis",
+    "ciri_fan",
+    "ildik\u00F3",
+    "t\u00F3th",
+    "ash",
+    "gods",
+    "ink",
+    "kozak"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -138.23768115941962,
     "offset_y": -72.7536231884057,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -47.46666666666658,
     "offset_y": -45.57391304347803,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7900000000000007,
     "offset_x": -113.52413358538115,
     "offset_y": -101.9271581600504,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

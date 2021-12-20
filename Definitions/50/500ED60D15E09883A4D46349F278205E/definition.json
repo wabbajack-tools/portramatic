@@ -5,27 +5,44 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "genshin",
+    "impact",
+    "fan",
+    "lumine",
+    "png",
+    "artwork",
+    "nina",
+    "galinska",
+    "jaina",
+    "proudmoore",
+    "aku",
+    "\u60AA",
+    "https://www.artstation.com/artwork/yaqglk",
+    "warcraft"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -754,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -381,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -436,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

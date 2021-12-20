@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/43/c1/df/43c1df12b7264350894d4185a21cb508.jpg",
   "md5": "82E83F3EA809A5F32CFA66B806E42A66",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "concept",
+    "sci-fi",
+    "armour",
+    "plate",
+    "samurai",
+    "medieval",
+    "knights",
+    "heavy",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "grace",
+    "park",
+    "https://www.artstation.com/artwork/v05q5",
+    "yoon",
+    "seseon",
+    "characters",
+    "dungeons",
+    "dragons",
+    "warrior",
+    "denis",
+    "didenko",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -442,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -202,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -70,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

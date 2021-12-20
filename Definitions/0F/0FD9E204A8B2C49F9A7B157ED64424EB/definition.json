@@ -9,27 +9,63 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "league",
+    "angels",
+    "character",
+    "game",
+    "characters",
+    "liz",
+    "anime",
+    "girl",
+    "angel",
+    "legends",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "imagine",
+    "fx",
+    "136",
+    "cover",
+    "anna",
+    "steinbauer",
+    "2020",
+    "with",
+    "priscilla",
+    "fire",
+    "emblem",
+    "fanart",
+    "azto",
+    "dio",
+    "\u51B0\u51E4\u5973\u795E",
+    "yankong",
+    "bu"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -545,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -179,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0799999999999996,
     "offset_x": -318,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

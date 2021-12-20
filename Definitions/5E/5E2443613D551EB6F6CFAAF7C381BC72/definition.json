@@ -2,27 +2,59 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921421476542951485/guerriero_puzzone_barbuto_con_spadone.jpg",
   "md5": "5E2443613D551EB6F6CFAAF7C381BC72",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "warrior",
+    "woman",
+    "armor",
+    "concept",
+    "dark",
+    "knight",
+    "ghost",
+    "recon",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "death",
+    "orcs",
+    "zhihui",
+    "su",
+    "shadow",
+    "hand",
+    "battle",
+    "pose",
+    "\u6768\u751F\u6797-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "30/4/19",
+    "danila",
+    "kalinin",
+    "https://www"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -445,
     "offset_y": -185,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -180,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -12,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

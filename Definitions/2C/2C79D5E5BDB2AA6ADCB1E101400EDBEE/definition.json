@@ -2,25 +2,57 @@
   "source": "https://static.wikia.nocookie.net/warhammerfb/images/c/cb/Warhammer_Tyrion.png/revision/latest?cb=20161214013318",
   "md5": "2C79D5E5BDB2AA6ADCB1E101400EDBEE",
   "tags": [
-    ""
+    "",
+    "teclis",
+    "warhammer",
+    "prince",
+    "tyrion",
+    "high",
+    "elf",
+    "orc",
+    "warrior",
+    "death",
+    "knight",
+    "pirates",
+    "caribbean",
+    "hel",
+    "goddess",
+    "dead",
+    "rod",
+    "wong",
+    "dioses",
+    "jaynorn",
+    "lin",
+    "world",
+    "warcraft",
+    "repeler",
+    "humano",
+    "sara",
+    "contreras",
+    "yunaxd"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -130,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -3,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -62,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

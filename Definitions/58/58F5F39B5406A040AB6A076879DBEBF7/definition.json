@@ -8,27 +8,35 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "mythical",
+    "satyr",
+    "names",
+    "pan",
+    "greek"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -199,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -130,
     "offset_y": -104,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6900000000000006,
     "offset_x": -230,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

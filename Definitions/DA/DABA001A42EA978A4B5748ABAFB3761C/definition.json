@@ -4,27 +4,56 @@
   "tags": [
     "outsider",
     "male",
-    "warrior"
+    "warrior",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "minotaur",
+    "game",
+    "thrones",
+    "pixel",
+    "style",
+    "try\uFF1A2020/01/14",
+    "rex",
+    "cat",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "applibot",
+    "inc",
+    "marat",
+    "ars",
+    "raging",
+    "starfire",
+    "gun",
+    "gunawan"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -517.7999999999997,
     "offset_y": -169.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -314.1999999999998,
     "offset_y": -42.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -352.3240740740748,
     "offset_y": -15.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

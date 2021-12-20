@@ -5,27 +5,37 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    "sense",
+    "wall",
+    "decor",
+    "sens",
+    "drawing",
+    "children",
+    "abuse"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -605.7999999999997,
     "offset_y": -95.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.43016666666666636,
     "offset_x": -267.1999999999998,
     "offset_y": -50.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.611416666666666,
     "offset_x": -266.3240740740748,
     "offset_y": -181.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

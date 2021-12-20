@@ -2,27 +2,44 @@
   "source": "https://3.bp.blogspot.com/-KFiJP06zGZY/WAMP91MC65I/AAAAAAAAJik/eTb0m8Acj-YIntE-UEB0f4zXWDiW-36gQCLcB/s1600/nocticktac.jpg",
   "md5": "D538278D5AAD5E4BCB29BB4518DB4798",
   "tags": [
-    ""
+    "",
+    "lady",
+    "carnage",
+    "glasya",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "contracted_pagan_devil",
+    "pavel",
+    "romanov",
+    "study",
+    "joong",
+    "gon",
+    "lee"
   ],
   "small": {
     "scale": 2.879999999999982,
     "offset_x": -714,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.7899999999999823,
     "offset_x": -618,
     "offset_y": -209,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7599999999999996,
     "offset_x": -146,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

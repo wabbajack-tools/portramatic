@@ -6,27 +6,46 @@
     "female",
     "rogue",
     "archer",
-    "warrior"
+    "warrior",
+    "stanley",
+    "artgerm",
+    "artwork",
+    "copic",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "asuka",
+    "study",
+    "oliver",
+    "wetter"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -292,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -122,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

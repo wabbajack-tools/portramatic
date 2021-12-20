@@ -2,27 +2,50 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bbb685b6-9c0f-449e-9ab7-55748fadbe25/dei6vy9-08662005-f984-4a80-bd11-02be681e392a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiYjY4NWI2LTljMGYtNDQ5ZS05YWI3LTU1NzQ4ZmFkYmUyNVwvZGVpNnZ5OS0wODY2MjAwNS1mOTg0LTRhODAtYmQxMS0wMmJlNjgxZTM5MmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IIO8kjwoFnk5WnVfiR1aPO0t0B_vTCSZNPvWrSOTUN0",
   "md5": "7267716922666381899E6F8B2ACE1311",
   "tags": [
-    ""
+    "",
+    "genshin",
+    "impact",
+    "elements",
+    "gameplay",
+    "logo",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "age",
+    "heroes_devil",
+    "master",
+    "weichi",
+    "chen",
+    "guardian",
+    "humberto",
+    "maldonado",
+    "vampire",
+    "black",
+    "hood"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -188,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -104,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -92,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

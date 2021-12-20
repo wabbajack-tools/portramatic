@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/736x/94/01/c1/9401c1f487fe8072ac23c5300ae31caf--storytelling-tokyo.jpg",
   "md5": "8DB0338AA5CCADA628A9F955B9B8BB5B",
   "tags": [
-    ""
+    "",
+    "shogun",
+    "samurai",
+    "dark",
+    "sucker",
+    "punch",
+    "armor",
+    "death",
+    "knight",
+    "dragon",
+    "lord",
+    "necromancer",
+    "swame",
+    "studio",
+    "character",
+    "design",
+    "monster",
+    "crimson",
+    "barazoku",
+    "\u8594\u8587\u65CFart",
+    "total",
+    "war",
+    "three",
+    "kingdoms-character",
+    "design_kingdom",
+    "shu",
+    "lulu",
+    "zhang",
+    "warrior"
   ],
   "small": {
     "scale": 1,
     "offset_x": -305,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -200,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 16,
     "offset_y": 140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

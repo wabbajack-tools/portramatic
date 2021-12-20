@@ -5,27 +5,47 @@
     "outsider",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "black",
+    "watch",
+    "genji",
+    "fan",
+    "drawing",
+    "skin",
+    "mech",
+    "speedsters",
+    "kode",
+    "lgx",
+    "hex",
+    "nolan",
+    "lu",
+    "character",
+    "design",
+    "cg\u5973\u89D2\u8272\u5236\u4F5C",
+    "\u5212\u6C34\u83DC\u9E21\u5222\u8D8A\u543E"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -173,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -102,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -153,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

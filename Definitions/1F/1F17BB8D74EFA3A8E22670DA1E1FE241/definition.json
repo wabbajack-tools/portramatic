@@ -1,28 +1,55 @@
 {
-  "source": "http://mms2.baidu.com/it/u=1338415195,2045972400&fm=253&app=138&f=JPG&fmt=auto&q=75?w=424&h=604",
+  "source": "http://mms2.baidu.com/it/u=1338415195,2045972400\u0026fm=253\u0026app=138\u0026f=JPG\u0026fmt=auto\u0026q=75?w=424\u0026h=604",
   "md5": "1F17BB8D74EFA3A8E22670DA1E1FE241",
   "tags": [
-    "guanyu"
+    "guanyu",
+    "liu",
+    "bei",
+    "quotes",
+    "emperor",
+    "three",
+    "kingdoms",
+    "dynasty",
+    "warriors",
+    "chinese",
+    "golden",
+    "state",
+    "romance",
+    "guan",
+    "yu",
+    "rupid79",
+    "lee",
+    "jung-myung",
+    "concept",
+    "characters",
+    "\u7EC7\u7530\u4FE1\u957F",
+    "oda",
+    "nobunaga",
+    "kuang",
+    "chonghao"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -182,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -55,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7000000000000006,
     "offset_x": -12,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

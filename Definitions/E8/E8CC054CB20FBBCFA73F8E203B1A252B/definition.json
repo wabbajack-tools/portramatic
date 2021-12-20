@@ -5,27 +5,45 @@
     "outsider",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "league",
+    "legends",
+    "elder",
+    "n-ix",
+    "production",
+    "studio",
+    "beatrix",
+    "flores",
+    "philip",
+    "puskalyov",
+    "monster",
+    "maximir",
+    "vampire",
+    "alexandr",
+    "leskinen"
   ],
   "small": {
     "scale": 0.71,
     "offset_x": -1084,
     "offset_y": -223,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5111666666666661,
     "offset_x": -686,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4902499999999995,
     "offset_x": -516,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

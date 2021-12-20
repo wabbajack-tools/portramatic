@@ -1,5 +1,5 @@
 {
-  "source": "https://sun9-48.userapi.com/impf/13BMwocZ_lgEAb6oHiAA4kVyzFIVI84ywhRUzQ/27xRlfG-Bxk.jpg?size=604x604&quality=96&sign=af6ad635aff677d3a53aeeb3db394c8d&type=album",
+  "source": "https://sun9-48.userapi.com/impf/13BMwocZ_lgEAb6oHiAA4kVyzFIVI84ywhRUzQ/27xRlfG-Bxk.jpg?size=604x604\u0026quality=96\u0026sign=af6ad635aff677d3a53aeeb3db394c8d\u0026type=album",
   "md5": "A91A601399E1F9812252B9B238819C7E",
   "tags": [
     "clothing",
@@ -12,25 +12,50 @@
     "sleeve",
     "fire",
     "armor",
-    ""
+    "",
+    "pirates",
+    "caribbean",
+    "medieval",
+    "knights",
+    "star",
+    "wars",
+    "force",
+    "unleashed",
+    "bear",
+    "school",
+    "witcher",
+    "francesco",
+    "cavallo",
+    "geralt",
+    "rivia",
+    "smart",
+    "materials",
+    "retribution...",
+    "petr",
+    "sokolov"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -385,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -204,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8400000000000007,
     "offset_x": -210,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -29,34 +29,56 @@
     "venesha",
     "#drow",
     "#assassin",
-    "dévote",
-    "\"venera\"",
+    "d\uFFFDvote",
+    "\u0022venera\u0022",
     "par",
     "hasan",
     "danilov",
     "sur",
     "artstation).",
-    "beautiful"
+    "beautiful",
+    "fate",
+    "stay",
+    "night",
+    "dark",
+    "souls",
+    "hamsa",
+    "joel",
+    "chaim",
+    "holtzman",
+    "ancient",
+    "symbols",
+    "cool",
+    "illustration",
+    "d\u00E9vote",
+    "vesryn",
+    "veiros",
+    "kenny",
+    "vo",
+    "https://www.artstation.com/artwork/1gmb8"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -226,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -81,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -7,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

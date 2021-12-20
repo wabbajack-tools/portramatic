@@ -4,27 +4,57 @@
   "tags": [
     "league",
     "legends",
-    "evelynn"
+    "evelynn",
+    "black",
+    "widow",
+    "spider",
+    "male",
+    "female",
+    "halloween",
+    "costume",
+    "four",
+    "horsemen",
+    "vampire",
+    "lord",
+    "guilherme",
+    "batista",
+    "anime",
+    "dark",
+    "\u9B54\u306A\u308B\u3082\u306E\u306E\u738B\u5973",
+    "rui",
+    "li",
+    "all",
+    "hail",
+    "to",
+    "you",
+    "your",
+    "nameless",
+    "nightmare",
+    "syrup",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -1513.2000000000003,
     "offset_y": -301.2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -1116,
     "offset_y": -228.99999999999983,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9100000000000008,
     "offset_x": -1910.388888888888,
     "offset_y": -363.6203703703703,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

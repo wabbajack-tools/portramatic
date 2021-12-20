@@ -8,27 +8,40 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "titania",
+    "green",
+    "elemental",
+    "beautiful",
+    "elf",
+    "woman",
+    "game",
+    "thrones",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -216,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -159,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -324,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

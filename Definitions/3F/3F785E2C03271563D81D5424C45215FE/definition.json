@@ -4,27 +4,50 @@
   "tags": [
     "human",
     "male",
-    "mage"
+    "mage",
+    "cris",
+    "ortega",
+    "puzzles",
+    "chris",
+    "dark",
+    "spider",
+    "warrior",
+    "veronika",
+    "kozlova",
+    "monster",
+    "dragon",
+    "hunters",
+    "bogdan",
+    "tomchuk",
+    "minotaur",
+    "hak",
+    "sun",
+    "kim",
+    "2020",
+    "character"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -458,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -303,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -18,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

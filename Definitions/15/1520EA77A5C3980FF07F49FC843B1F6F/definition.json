@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/a5/bd/93/a5bd93b2bc8277e3337f48f13fbdded2.jpg",
   "md5": "1520EA77A5C3980FF07F49FC843B1F6F",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "happy",
+    "halloween",
+    "ken",
+    "shjn",
+    "park",
+    "overwatch",
+    "mercy\u0026mccree",
+    "sharon",
+    "antezza",
+    "siryf",
+    "raging",
+    "elements",
+    "carin",
+    "huurnink"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -345,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -220,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.539999999999998,
     "offset_x": -170,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

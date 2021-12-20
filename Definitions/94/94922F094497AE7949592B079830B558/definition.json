@@ -9,25 +9,56 @@
     "apparel",
     "armor",
     "female",
-    ""
+    "",
+    "triton",
+    "character",
+    "race",
+    "assassin",
+    "pirate",
+    "knight",
+    "warrior",
+    "pose",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "heels",
+    "under_wear",
+    "bra",
+    "design",
+    "girl",
+    "manipulator",
+    "arm\u2014\u673A\u68B0\u624B",
+    "ryan",
+    "wong",
+    "beginer",
+    "sword",
+    "junq",
+    "jeon"
   ],
   "small": {
     "scale": 1,
     "offset_x": -320,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -220,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -10,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

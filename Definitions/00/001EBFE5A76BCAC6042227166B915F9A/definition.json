@@ -11,25 +11,66 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "knight",
+    "armor",
+    "shield",
+    "roman",
+    "helmet",
+    "drawing",
+    "medieval",
+    "knights",
+    "star",
+    "wars",
+    "toys",
+    "batman",
+    "hansel",
+    "gretel",
+    "spartan",
+    "warrior",
+    "dark",
+    "dracula",
+    "untold",
+    "vlad",
+    "suad",
+    "kapetanovic",
+    "cosplay",
+    "2019",
+    "dragon",
+    "practice",
+    "ningbo",
+    "jiang",
+    "concept",
+    "characters",
+    "woman",
+    "character",
+    "lion",
+    "heart",
+    "ed",
+    "pantera"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -483,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -117,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -80,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

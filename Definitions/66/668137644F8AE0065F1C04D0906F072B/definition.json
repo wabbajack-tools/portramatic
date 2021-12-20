@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/736x/1b/f5/e8/1bf5e8cdce7838121513ce49a1418c36.jpg",
   "md5": "668137644F8AE0065F1C04D0906F072B",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "drawing",
+    "thief",
+    "character",
+    "concept",
+    "female",
+    "pirate",
+    "women",
+    "viking",
+    "hyun",
+    "noh",
+    "rpg",
+    "set",
+    "11",
+    "ernesto",
+    "irawan",
+    "characters",
+    "heaven\u0027s",
+    "guardian",
+    "yangtian",
+    "li",
+    "design",
+    "wonder",
+    "woman",
+    "chinese",
+    "armor"
   ],
   "small": {
     "scale": 1,
     "offset_x": -186,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -127,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 44,
     "offset_y": 98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

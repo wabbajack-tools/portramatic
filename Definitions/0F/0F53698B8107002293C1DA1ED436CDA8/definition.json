@@ -19,27 +19,43 @@
     "anna",
     "kharitonova",
     "design",
-    "juliana"
+    "juliana",
+    "rpg",
+    "armor",
+    "armors",
+    "plate",
+    "leather",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "vlad",
+    "gheneli\u0027s",
+    "submission",
+    "wild",
+    "west"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -376,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -156,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2599999999999991,
     "offset_x": -16,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

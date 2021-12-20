@@ -2,27 +2,50 @@
   "source": "https://i.redd.it/yap9ztitx84z.png",
   "md5": "D5C3A68633AA6622657C486D49EEAEA1",
   "tags": [
-    ""
+    "",
+    "changeling",
+    "androgynous",
+    "female",
+    "male",
+    "chaos",
+    "champion",
+    "marauder",
+    "alex",
+    "boca",
+    "elf",
+    "warrior_",
+    "mtg",
+    "randy",
+    "vargas",
+    "vargasni",
+    "wizard",
+    "metal",
+    "william",
+    "r.",
+    "liberto"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -230.85714285714513,
     "offset_y": -65.71428571428555,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -105.71428571428584,
     "offset_y": -1.7142857142856656,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -58.28571428571445,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

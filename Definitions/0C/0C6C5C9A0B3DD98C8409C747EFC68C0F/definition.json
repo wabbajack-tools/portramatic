@@ -3,27 +3,45 @@
   "md5": "0C6C5C9A0B3DD98C8409C747EFC68C0F",
   "tags": [
     "tyrande",
-    "whisperwind"
+    "whisperwind",
+    "night",
+    "elf",
+    "archer",
+    "anime",
+    "rogue",
+    "league",
+    "legends",
+    "\u0022darkblade",
+    "pele\u0022",
+    "splash",
+    "yan",
+    "kyohara",
+    "\u795E\u90FD\u591C\u884C\u5F55\u540C\u4EBA",
+    "\u4E00\u66F2",
+    "\u6D45\u5531"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -617,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -645.5,
     "offset_y": -74.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -431,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

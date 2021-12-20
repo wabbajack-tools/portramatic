@@ -5,27 +5,33 @@
     "pathfinder",
     "female",
     "gnome",
-    "rogue"
+    "rogue",
+    "male",
+    "wizard",
+    "character"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -103.80000000000018,
     "offset_y": -53.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -50.59999999999985,
     "offset_y": -14.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -32.82407407407436,
     "offset_y": -0.8425925925926094,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/899/783/large/daria-rashev-sorcerer-art.jpg?1561148734",
   "md5": "9AA35A50821C09A764A59539B14B60F2",
   "tags": [
-    ""
+    "",
+    "john",
+    "bigboote",
+    "buckaroo",
+    "banzai",
+    "parker",
+    "lord",
+    "whorfin",
+    "ghost",
+    "shell",
+    "mortal",
+    "kombat",
+    "overwatch",
+    "mercy\u0026mccree",
+    "sharon",
+    "antezza",
+    "widowmaker",
+    "stanley",
+    "barros"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -506,
     "offset_y": -288,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -147,
     "offset_y": -130,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

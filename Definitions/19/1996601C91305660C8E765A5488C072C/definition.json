@@ -8,27 +8,49 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "aristocrats",
+    "vampire",
+    "aristocrat",
+    "dark",
+    "souls",
+    "sarah",
+    "kerrigan",
+    "jun",
+    "seong",
+    "park",
+    "starcraft",
+    "99",
+    "snook-8",
+    "marina",
+    "karakatsani",
+    "wizard",
+    "alejandro",
+    "burdisio",
+    "https://www.artstation.com/artwork/dnoy9"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -373,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -313,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8000000000000007,
     "offset_x": -524,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

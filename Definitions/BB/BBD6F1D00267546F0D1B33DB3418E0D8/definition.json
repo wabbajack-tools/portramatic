@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/6c/15/74/6c157485d545c88a56cc5605ce77e0ed.jpg",
   "md5": "BBD6F1D00267546F0D1B33DB3418E0D8",
   "tags": [
-    ""
+    "",
+    "male",
+    "druid",
+    "elf",
+    "human",
+    "dreadlocks",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -33,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -2,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -2,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

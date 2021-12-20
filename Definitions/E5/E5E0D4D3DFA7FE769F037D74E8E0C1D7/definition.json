@@ -5,27 +5,35 @@
     "elf",
     "female",
     "rogue",
-    "mage"
+    "mage",
+    "dark",
+    "male",
+    "white",
+    "hair",
+    "wood"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -34.79999999999973,
     "offset_y": -80.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -18.199999999999818,
     "offset_y": -19.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -20.324074074074815,
     "offset_y": -15.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

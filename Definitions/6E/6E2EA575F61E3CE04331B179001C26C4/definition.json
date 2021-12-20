@@ -6,27 +6,44 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "que",
+    "na-to-ra",
+    "you",
+    "will",
+    "understand",
+    "\u00B7",
+    "axsens",
+    "oleksandra",
+    "ishchenko",
+    "celeste",
+    "vainglory",
+    "jane",
+    "\u2018artelsia\u2019",
+    "choi"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -225.79999999999973,
     "offset_y": -146.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -76.19999999999982,
     "offset_y": -50.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -20.324074074074815,
     "offset_y": -39.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

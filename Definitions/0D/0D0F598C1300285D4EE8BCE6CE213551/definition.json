@@ -1,28 +1,46 @@
 {
-  "source": "https://external-preview.redd.it/K3afypQTtZbOmXz3nGYIW5qzpoEt3x4jmAYphAgG_Ek.jpg?auto=webp&s=45c70ba4aaac0797d7c5a939acb1e86380979b1c",
+  "source": "https://external-preview.redd.it/K3afypQTtZbOmXz3nGYIW5qzpoEt3x4jmAYphAgG_Ek.jpg?auto=webp\u0026s=45c70ba4aaac0797d7c5a939acb1e86380979b1c",
   "md5": "0D0F598C1300285D4EE8BCE6CE213551",
   "tags": [
-    ""
+    "",
+    "buddha",
+    "goddess",
+    "buddhist",
+    "tara",
+    "devi",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "thundering",
+    "chariot",
+    "mtg",
+    "aaron",
+    "miller"
   ],
   "small": {
     "scale": 1,
     "offset_x": -356,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -279,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -172,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

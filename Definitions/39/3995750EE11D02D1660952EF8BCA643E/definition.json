@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/x3jJJwS.jpeg",
   "md5": "3995750EE11D02D1660952EF8BCA643E",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "berserker",
+    "death",
+    "dealer",
+    "lich",
+    "king",
+    "lagiacrus",
+    "colors",
+    "audy",
+    "ravindra",
+    "monster",
+    "hunter",
+    "series",
+    "wolverine",
+    "vs",
+    "omega",
+    "red",
+    "javier",
+    "lazo",
+    "breath",
+    "infinite",
+    "denis",
+    "rootski"
   ],
   "small": {
     "scale": 1,
     "offset_x": -465,
     "offset_y": -302,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -358,
     "offset_y": -314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

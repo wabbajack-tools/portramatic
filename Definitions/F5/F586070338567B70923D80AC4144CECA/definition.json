@@ -2,27 +2,43 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921413577007562852/gnocca_esotica_arianna_SBAV_magali_villeneuve.jpg",
   "md5": "F586070338567B70923D80AC4144CECA",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones",
+    "house",
+    "martell",
+    "asoiaf",
+    "arianne",
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -272,
     "offset_y": -225,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -97,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -48,
     "offset_y": -128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

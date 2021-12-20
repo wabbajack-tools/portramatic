@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/736x/7c/3f/81/7c3f812aafb661e0442a41afa0eed6be.jpg",
   "md5": "9C9915B96EE46905371F734B8150CF76",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "character",
+    "portraits",
+    "dungeons",
+    "dragons",
+    "female",
+    "ranger",
+    "characters",
+    "assassin",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "sets",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "concept",
+    "dragon",
+    "age",
+    "fan",
+    "el",
+    "mhaia",
+    "personal",
+    "work",
+    "unic024",
+    "lwh",
+    "d\u0026d",
+    "fenrir",
+    "ahri",
+    "rogue"
   ],
   "small": {
     "scale": 1,
     "offset_x": -114,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -55,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -2,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

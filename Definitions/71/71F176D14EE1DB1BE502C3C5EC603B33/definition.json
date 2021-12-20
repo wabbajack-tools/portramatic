@@ -23,27 +23,50 @@
     "design",
     "demon",
     "game",
-    "assets"
+    "assets",
+    "dmc",
+    "4",
+    "fan",
+    "wallpaper",
+    "anime",
+    "girl",
+    "championship",
+    "riven",
+    "boyi",
+    "cui",
+    "lothal",
+    "white",
+    "shadow",
+    "destiny",
+    "honor",
+    "kings",
+    "splash",
+    "artworks",
+    "qichao",
+    "wang"
   ],
   "small": {
     "scale": 0.917,
     "offset_x": -178.39999999999898,
     "offset_y": -0.7999999999998408,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8183333333333331,
     "offset_x": -76.80000000000001,
-    "offset_y": 5.684341886080802e-14,
-    "size": "medium"
+    "offset_y": 5.684341886080802E-14,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9664166666666683,
     "offset_x": -278.7222222222222,
     "offset_y": -1.601851851852075,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

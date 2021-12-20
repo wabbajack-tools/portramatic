@@ -4,27 +4,58 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "hedge",
+    "knight",
+    "duncan",
+    "targaryen",
+    "ser",
+    "tall",
+    "armors",
+    "prince",
+    "piotr",
+    "tekie\u0144",
+    "del",
+    "liadon",
+    "eladrin",
+    "tiago",
+    "alexandre",
+    "npc",
+    "elf",
+    "female",
+    "character",
+    "inspiration",
+    "battle",
+    "agincourt",
+    "details",
+    "\u0026",
+    "progress",
+    "shots",
+    "darren",
+    "tan"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -331,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -310,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -86,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

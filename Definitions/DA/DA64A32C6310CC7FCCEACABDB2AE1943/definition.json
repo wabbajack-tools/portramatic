@@ -9,27 +9,65 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "legend",
+    "cryptids",
+    "cards",
+    "legends",
+    "elves",
+    "sinbad",
+    "seven",
+    "seas",
+    "anime",
+    "girl",
+    "amazing",
+    "spider-man",
+    "magis",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "liliana",
+    "vess",
+    "fan",
+    "leonardo",
+    "santanna",
+    "dragon",
+    "knight",
+    "darkness",
+    "adv",
+    "diego",
+    "peres",
+    "gypsy",
+    "puppetteer",
+    "kevin",
+    "sidharta"
   ],
   "small": {
     "scale": 1.8600000000000008,
     "offset_x": -237,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -54,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8200000000000005,
     "offset_x": -128,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

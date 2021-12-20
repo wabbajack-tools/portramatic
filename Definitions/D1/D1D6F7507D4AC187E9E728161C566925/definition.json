@@ -8,27 +8,46 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "amonkhet",
+    "magic",
+    "gathering",
+    "gods",
+    "sketches",
+    "cindy",
+    "avelino",
+    "character",
+    "design",
+    "animation",
+    "furry",
+    "miles",
+    "morales",
+    "todd",
+    "napier",
+    "https://www.artstation.com/artwork/nqbxe1"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -672,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -489,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -734,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

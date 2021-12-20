@@ -9,27 +9,59 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "gentalman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "royal",
+    "guard",
+    "celder",
+    "zombie_spearman",
+    "basic_87",
+    "oh",
+    "ji",
+    "sung",
+    "set",
+    "jin-hong",
+    "park"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -223.6666666666667,
     "offset_y": -60.333333333333314,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -92.66666666666669,
     "offset_y": -41.99999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7900000000000007,
     "offset_x": -40,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

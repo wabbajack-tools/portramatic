@@ -4,27 +4,48 @@
   "tags": [
     "blonde",
     "female",
-    "knight"
+    "knight",
+    "vampire",
+    "witches",
+    "halloween",
+    "witch",
+    "wood",
+    "elf",
+    "high",
+    "dungeons",
+    "dragons",
+    "elves",
+    "night",
+    "ayla",
+    "artur",
+    "m\u00F3sca",
+    "artemis",
+    "danielle",
+    "nicole",
+    "https://www.artstation.com/artwork/llqxa"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -357,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -145,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -30,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

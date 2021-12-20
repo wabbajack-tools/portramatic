@@ -2,25 +2,46 @@
   "source": "https://d.furaffinity.net/art/fluff-kevlar/1638068034/1637758154.fluff-kevlar_srkdaki_nde_web.jpg",
   "md5": "3BDD9EE540DF1F91BAFC71C2BEEEBECB",
   "tags": [
-    ""
+    "",
+    "yugio",
+    "anime",
+    "characters",
+    "girl",
+    "yu-gi-oh",
+    "gx",
+    "legend",
+    "korra",
+    "majestic",
+    "parrot",
+    "manuel",
+    "de",
+    "jorge",
+    "necromancer",
+    "vlad",
+    "ermolenko"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -215,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -560,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -2,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

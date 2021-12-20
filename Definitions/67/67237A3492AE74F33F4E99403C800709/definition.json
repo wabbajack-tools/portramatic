@@ -6,27 +6,52 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "female",
+    "dark",
+    "elf",
+    "shadowrun",
+    "male",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "white",
+    "priestess",
+    "my",
+    "version",
+    "ruslan",
+    "pronin",
+    "quistis",
+    "firons",
+    "koh",
+    "princess",
+    "zelda"
   ],
   "small": {
     "scale": 0.2199999999999993,
     "offset_x": -67,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -95,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -39,
     "offset_y": -63,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

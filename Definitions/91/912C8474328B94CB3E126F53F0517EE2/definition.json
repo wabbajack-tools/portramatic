@@ -9,27 +9,47 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "anime",
+    "girl",
+    "dragon",
+    "wings",
+    "slayer",
+    "dawn",
+    "sundown",
+    "pink",
+    "https://www.artstation",
+    "elven",
+    "boy",
+    "bogdan",
+    "tauciuc",
+    "yunlu",
+    "ma",
+    "yuxiang",
+    "fang"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -343,
     "offset_y": -372,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -65,
     "offset_y": -178,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9999999999999998,
     "offset_x": -104,
     "offset_y": -176,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

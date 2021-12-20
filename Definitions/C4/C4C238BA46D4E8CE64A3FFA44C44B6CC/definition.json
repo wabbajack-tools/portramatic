@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7520cb0b-d701-494f-9795-8379cfc2c986/dd4t9os-7f727388-848f-4657-b41a-4375bcc44aa9.jpg/v1/fill/w_1024,h_1539,q_75,strp/morgan_by_dleoblack_dd4t9os-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzOSIsInBhdGgiOiJcL2ZcLzc1MjBjYjBiLWQ3MDEtNDk0Zi05Nzk1LTgzNzljZmMyYzk4NlwvZGQ0dDlvcy03ZjcyNzM4OC04NDhmLTQ2NTctYjQxYS00Mzc1YmNjNDRhYTkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._D0ZRxRHUl8nPZXPrnkYAC6RvA96m2DLhPUNeO2bgm4",
   "md5": "C4C238BA46D4E8CE64A3FFA44C44B6CC",
   "tags": [
-    ""
+    "",
+    "witch",
+    "character",
+    "sorceress",
+    "female",
+    "medieval",
+    "princess",
+    "lady",
+    "aleite",
+    "david",
+    "sondered",
+    "whip",
+    "byungjin",
+    "ahn",
+    "warrior"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -402,
     "offset_y": -207,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -141,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -4,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

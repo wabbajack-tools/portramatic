@@ -2,27 +2,55 @@
   "source": "https://i.redd.it/6p55i6rpcyp71.jpg",
   "md5": "5BD30FAD99016FABD55040BDA6F389FF",
   "tags": [
-    ""
+    "",
+    "overwatch",
+    "1080",
+    "pixels",
+    "ashe",
+    "x",
+    "tracer",
+    "graffiti",
+    "1920x1080",
+    "wonder",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "grace",
+    "iron",
+    "feather",
+    "queen",
+    "xi",
+    "zhang",
+    "\uAC80\uC0AC",
+    "swordsman",
+    "z-o_u",
+    "t.j.",
+    "kwon"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -468.66666666666663,
     "offset_y": -156.0000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -357.33333333333326,
     "offset_y": -125.33333333333354,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -19.99999999999966,
     "offset_y": -2.6666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

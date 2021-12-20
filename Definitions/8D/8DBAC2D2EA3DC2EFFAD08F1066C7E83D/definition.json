@@ -2,27 +2,50 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84655749-6d97-4275-8069-498380c8dd0d/dbvr0b0-243f6513-649e-407c-9582-4d51df8d0522.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODQ2NTU3NDktNmQ5Ny00Mjc1LTgwNjktNDk4MzgwYzhkZDBkXC9kYnZyMGIwLTI0M2Y2NTEzLTY0OWUtNDA3Yy05NTgyLTRkNTFkZjhkMDUyMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9oB2CfpqaUaQhvRaZ4B-r-RKH03Y6wmSnRilP72M95E",
   "md5": "8DBAC2D2EA3DC2EFFAD08F1066C7E83D",
   "tags": [
-    ""
+    "",
+    "storm",
+    "hero",
+    "queen",
+    "alexstrasza",
+    "heroes",
+    "female",
+    "characters",
+    "league",
+    "legends",
+    "bewitching",
+    "janna",
+    "fanart",
+    "camilla",
+    "ferrari",
+    "assassin",
+    "steve",
+    "zheng",
+    "loona~",
+    "rocio",
+    "alejandra"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -229,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -199,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0299999999999996,
     "offset_x": -18,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

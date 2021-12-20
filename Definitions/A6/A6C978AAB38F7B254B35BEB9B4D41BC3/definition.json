@@ -5,27 +5,58 @@
     "human",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "sasuke",
+    "uchiha",
+    "from",
+    "naruto",
+    "shippuden",
+    "fan",
+    "female",
+    "assassin",
+    "hansel",
+    "gretel",
+    "star",
+    "wars",
+    "revenge",
+    "sith",
+    "\u4E2D\u4E16\u7EAA\u9A91\u58EB",
+    "yunhao",
+    "zheng",
+    "high",
+    "elf",
+    "sword-bearer",
+    "leo",
+    "characters",
+    "character",
+    "portraits",
+    "sword",
+    "lonely",
+    "zhihui",
+    "su"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -555,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7304999999999997,
     "offset_x": -127,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1902500000000003,
     "offset_x": -144,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

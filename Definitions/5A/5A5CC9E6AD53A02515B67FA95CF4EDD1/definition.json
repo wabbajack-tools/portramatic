@@ -9,27 +9,55 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "male",
+    "bondage",
+    "bdsm",
+    "guardians",
+    "ga",
+    "hoole",
+    "league",
+    "legends",
+    "spartan",
+    "lord",
+    "rings",
+    "greek",
+    "gods",
+    "loc",
+    "mansik",
+    "yang",
+    "girl",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "https://www.artstation.com",
+    "vanara",
+    "race",
+    "omu",
+    "upied"
   ],
   "small": {
     "scale": 1.4500000000000004,
     "offset_x": -429,
     "offset_y": -189,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -91,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6,
     "offset_x": -38,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

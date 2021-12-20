@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/jlpnstip54u41.jpg?auto=webp&s=03ddb7638c088730536cdf56f7ae1cf24f5df2b4",
+  "source": "https://preview.redd.it/jlpnstip54u41.jpg?auto=webp\u0026s=03ddb7638c088730536cdf56f7ae1cf24f5df2b4",
   "md5": "71D759B106D882664041786ACD5795EB",
   "tags": [
     "magical",
@@ -9,21 +9,24 @@
     "scale": 1.0199999999999998,
     "offset_x": -483,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -281,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999939,
     "offset_x": -20,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

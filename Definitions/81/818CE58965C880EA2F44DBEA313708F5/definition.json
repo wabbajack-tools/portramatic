@@ -38,25 +38,37 @@
     "archer",
     "costume",
     "female",
-    "ranger"
+    "ranger",
+    "siren",
+    "background",
+    "dota",
+    "naga",
+    "mermaid",
+    "wallpaper",
+    "caves"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -120.5,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -36.5,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": 19,
     "offset_y": 47,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

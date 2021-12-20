@@ -2,27 +2,46 @@
   "source": "https://www.enworld.org/attachments/monk-2-jpg.70455/",
   "md5": "BCEFE0D392501CE8E5BAF5CB8BF80AD2",
   "tags": [
-    ""
+    "",
+    "female",
+    "monk",
+    "concept",
+    "warrior",
+    "diablo",
+    "wood",
+    "elf",
+    "pirate",
+    "character",
+    "costumes",
+    "robe",
+    "high",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -234,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -35,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -28,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,47 @@
   "source": "https://artfiles.alphacoders.com/626/62660.gif",
   "md5": "90561B23E9F1890A5EC22D9E31A8E48C",
   "tags": [
-    ""
+    "",
+    "eden",
+    "garden",
+    "bible",
+    "animals",
+    "earth",
+    "goddess",
+    "gaia",
+    "crimson",
+    "dancer",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "game",
+    "thrones",
+    "daenerys",
+    "oskar",
+    "mellblom"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -169,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -89,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -30,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

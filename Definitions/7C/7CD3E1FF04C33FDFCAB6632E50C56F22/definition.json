@@ -2,27 +2,58 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/032/715/535/large/yu-hansol-2001126-2.jpg?1614414955",
   "md5": "7CD3E1FF04C33FDFCAB6632E50C56F22",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "shoes",
+    "boots",
+    "aion",
+    "character",
+    "zien",
+    ".",
+    "warrior",
+    "fighter",
+    "\u6768\u6CFD\u950B-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "ycf",
+    "online",
+    "masterclass",
+    "https://www.artstation.com",
+    "jill",
+    "valentine",
+    "resident",
+    "evil",
+    "remake",
+    "fan",
+    "steven",
+    "galvan"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -520,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -220,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -2,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

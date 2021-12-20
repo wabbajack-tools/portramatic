@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/750x/ba/fb/b0/bafbb04718f0898188d009fa01bafb9f.jpg",
   "md5": "C1C23F9A1AF7E6C5766633A1DAB90BBC",
   "tags": [
-    ""
+    "",
+    "dd",
+    "goblin",
+    "boss",
+    "samurai",
+    "armor",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -506,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -252,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -222,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

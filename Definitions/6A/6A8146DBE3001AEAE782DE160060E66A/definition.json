@@ -24,27 +24,59 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "gorgeous",
+    "women",
+    "romantic",
+    "woman",
+    "beautiful",
+    "female",
+    "league",
+    "legends",
+    "wood",
+    "night",
+    "link",
+    "legend",
+    "zelda",
+    "dungeons",
+    "dragons",
+    "\u4E1B\u6797\u9A71\u9B54",
+    "qu",
+    "zhao",
+    "robyn",
+    "hood",
+    "i",
+    "love",
+    "ny",
+    "11a",
+    "josh",
+    "burns",
+    "archer",
+    "zhongx",
+    "wu"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -270,
     "offset_y": -186,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -203,
     "offset_y": -169,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -1,
     "offset_y": -179,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

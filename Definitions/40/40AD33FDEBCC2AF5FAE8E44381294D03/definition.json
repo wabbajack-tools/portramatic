@@ -6,27 +6,48 @@
     "female",
     "dancer",
     "mage",
-    "warrior"
+    "warrior",
+    "disney",
+    "maleficent",
+    "big",
+    "wings",
+    "costume",
+    "eso",
+    "spider",
+    "daedra",
+    "fanart",
+    "veena",
+    "chokthawai",
+    "juliana",
+    "wilhelm",
+    "character",
+    "formal",
+    "armour",
+    "madeleine",
+    "\u00E5"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -549.7999999999997,
     "offset_y": -349.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -263.1999999999998,
     "offset_y": -135.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -32.324074074074815,
     "offset_y": -75.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

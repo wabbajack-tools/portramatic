@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6a322e3-a8de-47ce-b671-78b9b999571e/dbpkwkt-24ff2dc5-1e5f-4d75-84dd-2f27f8e56d89.jpg/v1/fill/w_1024,h_1836,q_75,strp/the_roar___ream_by_fenghuazhongg_dbpkwkt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzNiIsInBhdGgiOiJcL2ZcL2M2YTMyMmUzLWE4ZGUtNDdjZS1iNjcxLTc4YjliOTk5NTcxZVwvZGJwa3drdC0yNGZmMmRjNS0xZTVmLTRkNzUtODRkZC0yZjI3ZjhlNTZkODkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YysRKTQ_ua5jUoLtyjNjDXSilYSsjZFkDaJrioiV1sc",
   "md5": "2E0A8CFA37F679DA7A563781DBA2839B",
   "tags": [
-    ""
+    "",
+    "undead",
+    "warrior",
+    "giant",
+    "armor",
+    "concept",
+    "orc",
+    "execution",
+    "wings",
+    "kohei",
+    "hayama",
+    "creature",
+    "venom",
+    "john",
+    "giang"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -389,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -145,
     "offset_y": -134,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -4,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

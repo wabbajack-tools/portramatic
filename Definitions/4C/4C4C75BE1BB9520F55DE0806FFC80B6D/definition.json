@@ -8,27 +8,47 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "queen",
+    "night",
+    "angel",
+    "d\u0026d",
+    "sea",
+    "fury",
+    "andrew",
+    "mar",
+    "creature",
+    "witch",
+    "208",
+    "paul",
+    "shut"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -550,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -321,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -512,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

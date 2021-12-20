@@ -2,27 +2,40 @@
   "source": "https://cdn.inprnt.com/thumbs/dc/a3/dca38a0998d92a6630d6dc7750717228.jpg?response-cache-control=max-age=2628000",
   "md5": "36413F2D24DA49E35D6C1544067C75BF",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "female",
+    "vampire",
+    "drawings",
+    "victorian",
+    "ancient",
+    "league",
+    "legends",
+    "superman",
+    "danial",
+    "shahzad"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -306,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -232,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -458,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

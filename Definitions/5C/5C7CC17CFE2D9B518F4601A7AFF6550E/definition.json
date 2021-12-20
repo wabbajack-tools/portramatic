@@ -2,27 +2,32 @@
   "source": "https://i.imgur.com/4HK0SVs.jpeg",
   "md5": "5C7CC17CFE2D9B518F4601A7AFF6550E",
   "tags": [
-    ""
+    "",
+    "tim",
+    "howard"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -269,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -158,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -134,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

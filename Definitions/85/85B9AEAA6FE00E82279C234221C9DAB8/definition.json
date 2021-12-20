@@ -4,27 +4,51 @@
   "tags": [
     "tiefling",
     "female",
-    "warrior"
+    "warrior",
+    "white",
+    "hair",
+    "male",
+    "skin",
+    "colors",
+    "alien",
+    "greek",
+    "myth",
+    "sketches.",
+    "johan",
+    "grenier",
+    "alucard",
+    "f",
+    "version",
+    "poticceli",
+    "corrupted",
+    "woodchopper",
+    "concept",
+    "sculpt",
+    "glen",
+    "vo"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -241,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -168,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -178,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

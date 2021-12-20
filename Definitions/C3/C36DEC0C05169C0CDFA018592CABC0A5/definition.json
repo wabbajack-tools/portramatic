@@ -2,27 +2,50 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7540dc65-10e4-4193-8b78-74118bd6b7a9/de5jzz4-9d79bb7e-6112-4332-b208-18b9a4ec2c00.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1NDBkYzY1LTEwZTQtNDE5My04Yjc4LTc0MTE4YmQ2YjdhOVwvZGU1anp6NC05ZDc5YmI3ZS02MTEyLTQzMzItYjIwOC0xOGI5YTRlYzJjMDAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Lq9PlF-bNIX4JvvfgvE4hR5lQA4FsGU5FbCM8r3swIw",
   "md5": "C36DEC0C05169C0CDFA018592CABC0A5",
   "tags": [
-    ""
+    "",
+    "armor",
+    "sets",
+    "zombies",
+    "smite",
+    "work",
+    "2017",
+    "joseph",
+    "pegg",
+    "artwork",
+    "fun",
+    "warrior",
+    "character",
+    "hand",
+    "painted",
+    "angelina",
+    "diez",
+    "ghoul",
+    "thin",
+    "kostas",
+    "macfarlane"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -1122,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -821,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -604,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

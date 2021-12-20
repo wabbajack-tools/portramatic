@@ -2,27 +2,46 @@
   "source": "https://static.wikia.nocookie.net/warhammerfb/images/7/74/Mannfred_von_Carstein.PNG/revision/latest?cb=20150724201838",
   "md5": "7C03A9BD1620F15A7CC9EF4A01FBC305",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "counts",
+    "army",
+    "blood",
+    "knights",
+    "concept",
+    "dragon",
+    "armor",
+    "skyrim",
+    "towarzysz",
+    "husarski",
+    "lorenzo",
+    "nuti",
+    "polish",
+    "dark",
+    "\u919C"
   ],
   "small": {
     "scale": 2.000000000000001,
     "offset_x": -511,
     "offset_y": -199,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -193,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -34,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,34 @@
     "human",
     "male",
     "samurai",
-    "warrior"
+    "warrior",
+    "dwarf",
+    "irina",
+    "guslitskova",
+    "character"
   ],
   "small": {
     "scale": 1.2200000000000004,
     "offset_x": -542,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8512499999999996,
     "offset_x": -296,
     "offset_y": -163,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1602500000000002,
     "offset_x": -288,
     "offset_y": -214,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

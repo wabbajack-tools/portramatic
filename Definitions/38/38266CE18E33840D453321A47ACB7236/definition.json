@@ -5,27 +5,48 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "witch",
+    "yang",
+    "j",
+    "2020",
+    "cyborg",
+    "girl",
+    "character",
+    "portraits",
+    "concept",
+    "yel",
+    "li",
+    "holyknight",
+    "hadong",
+    "song"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -614,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4915833333333326,
     "offset_x": -271,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5117499999999993,
     "offset_x": -192,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

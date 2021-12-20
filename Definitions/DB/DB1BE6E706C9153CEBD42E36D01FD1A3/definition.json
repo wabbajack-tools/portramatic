@@ -11,25 +11,39 @@
     "clothing",
     "apparel",
     "legend of zelda",
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "female",
+    "witch",
+    "bingxue",
+    "li",
+    "fengyang",
+    "fairy",
+    "characters"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -349,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -243,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -56,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

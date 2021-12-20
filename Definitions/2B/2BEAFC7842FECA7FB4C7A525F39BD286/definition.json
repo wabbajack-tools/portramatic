@@ -4,27 +4,50 @@
   "tags": [
     "Arthas Menethil",
     "Paladin",
-    "WoW"
+    "WoW",
+    "prince",
+    "arthas",
+    "has",
+    "lich",
+    "king",
+    "wow",
+    "elder",
+    "scrolls",
+    "online",
+    "game",
+    "thrones",
+    "character",
+    "illustrations",
+    "04",
+    "s\u00F8ren",
+    "falske",
+    "shadow",
+    "knight",
+    "wayne",
+    "chu"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -356,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -157,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -236,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

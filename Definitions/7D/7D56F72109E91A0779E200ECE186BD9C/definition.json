@@ -2,25 +2,46 @@
   "source": "https://i.pinimg.com/564x/30/d7/7a/30d77add90d1bb0701a5dc8891c7eee7.jpg",
   "md5": "7D56F72109E91A0779E200ECE186BD9C",
   "tags": [
-    ""
+    "",
+    "jericho",
+    "from",
+    "seven",
+    "deadly",
+    "sins",
+    "ban",
+    "kiss",
+    "lady",
+    "anime",
+    "girl",
+    "characters",
+    "yu",
+    "gi",
+    "oh",
+    "zexal",
+    "yugio"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -57,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -79,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3099999999999943,
     "offset_x": -164,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

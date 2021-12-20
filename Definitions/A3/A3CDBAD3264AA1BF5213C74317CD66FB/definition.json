@@ -2,27 +2,66 @@
   "source": "https://i.pinimg.com/originals/f1/4e/a0/f14ea0ba7cb6e3eb94796bea22ad23fd.jpg",
   "md5": "A3CDBAD3264AA1BF5213C74317CD66FB",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "character",
+    "dragon",
+    "girl",
+    "renaissance",
+    "costumes",
+    "female",
+    "pirate",
+    "samurai",
+    "armor",
+    "knight",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "new",
+    "earth",
+    "savage",
+    "nick",
+    "acuna",
+    "https://www.artstation.com/artwork/oz2vw",
+    "concept",
+    "knight-3",
+    "youngmin",
+    "jo",
+    "design",
+    "characters",
+    "earthborne",
+    "captain",
+    "nicolas"
   ],
   "small": {
     "scale": 1.7500000000000016,
     "offset_x": -444,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -149,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -64,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

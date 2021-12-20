@@ -3,27 +3,48 @@
   "md5": "0679338B5B9D7A63CAF92B235743B59B",
   "tags": [
     "lucina",
-    "fire emblem"
+    "fire emblem",
+    "fire",
+    "emblem",
+    "inigo",
+    "anime",
+    "google",
+    "chrom",
+    "girl",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "stylet",
+    "chen",
+    "kh",
+    "frame",
+    "arms"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -15.600000000003547,
     "offset_y": -1.9999999999998863,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -25.60000000000025,
     "offset_y": -12.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -40.799999999999955,
     "offset_y": -0.799999999999983,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/59/75/d9/5975d97d0ca89fbe405592aea2c9db89.jpg",
   "md5": "0D0B751A96047BC1143898C57026EFB8",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "guardians",
+    "galaxy",
+    "zombie",
+    "apocalypse",
+    "predator",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "hector",
+    "sixmorevodka",
+    "studio",
+    "2021",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "crimson",
+    "aurora.",
+    "challenge",
+    "wild"
   ],
   "small": {
     "scale": 1.9300000000000008,
     "offset_x": -460,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -103,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -40,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

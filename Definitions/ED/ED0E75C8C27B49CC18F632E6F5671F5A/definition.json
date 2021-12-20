@@ -2,27 +2,49 @@
   "source": "https://pictures.hentai-foundry.com/f/Flowerxl/767439/Flowerxl-767439-Rias_Gremory.jpg",
   "md5": "ED0E75C8C27B49CC18F632E6F5671F5A",
   "tags": [
-    ""
+    "",
+    "luna",
+    "character",
+    "kawaii",
+    "anime",
+    "people",
+    "mama",
+    "jeanne",
+    "alter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "taihou",
+    "dreamkite",
+    "wang",
+    "kda\u4F0A\u8299\u7433",
+    "check"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -248.66666666666657,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -7.3333333333332575,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -28,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

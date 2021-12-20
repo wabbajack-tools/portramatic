@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/736x/e7/d5/e1/e7d5e104e0e7e665789e0a2540aa0854.jpg",
   "md5": "7D59AC70175E6EADA5396D79C01D48E1",
   "tags": [
-    ""
+    "",
+    "mage",
+    "sketch",
+    "black",
+    "drawing",
+    "draw",
+    "league",
+    "legends",
+    "amber",
+    "ye",
+    "2020",
+    "artwork",
+    "character",
+    "\u4E09\u5251\u8C6A-\u5251\u9B54",
+    "tang",
+    "22",
+    "creature",
+    "design",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -177,
     "offset_y": -132,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -82,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.61,
     "offset_x": -40,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

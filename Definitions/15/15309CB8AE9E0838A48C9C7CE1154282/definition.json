@@ -5,27 +5,49 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "witcher",
+    "anime",
+    "chibi",
+    "cirilla",
+    "fiona",
+    "wonder",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "grizzlies",
+    "yanque",
+    "shi",
+    "oriental",
+    "archer",
+    "jun",
+    "yun"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -237.79999999999973,
     "offset_y": -29.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -161.19999999999982,
     "offset_y": -10.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -38.324074074074815,
     "offset_y": -15.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921357883852066837/barbaro_puzzone_con_lupo.jpg",
   "md5": "C2579A38591EF4BD0ED1CB8D2F1766DA",
   "tags": [
-    "barbarian"
+    "barbarian",
+    "beastmaster",
+    "creatures",
+    "ranger",
+    "companion",
+    "predator",
+    "dark",
+    "knight",
+    "coin-flipping",
+    "safecracker",
+    "billy",
+    "christian",
+    "hunting",
+    "olga",
+    "orlova",
+    "headless",
+    "horseman",
+    "denys",
+    "tsiperko"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -458.5,
     "offset_y": -567,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -142.5,
     "offset_y": -283,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -43,
     "offset_y": -207,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

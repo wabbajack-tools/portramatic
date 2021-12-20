@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/0d/24/72/0d2472c3909f9c019f16e6395220de7a.jpg",
   "md5": "263A50CE290B3B235E293240AE9A1866",
   "tags": [
-    ""
+    "",
+    "witch",
+    "character",
+    "design",
+    "forest",
+    "anime",
+    "demon",
+    "hunter",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "hyun",
+    "youmin",
+    "concept",
+    "characters",
+    "warrior",
+    "skinny",
+    "orc",
+    "\u5F88\u7626\u5F88\u7626\u7684\u517D\u4EBA",
+    "\u9B3C",
+    "\u733F",
+    "artwork",
+    "referenced",
+    "daeho",
+    "cha",
+    "drawing",
+    "https://www.artstation.com/artwork/ozen4",
+    "girl",
+    "angels"
   ],
   "small": {
     "scale": 1.4800000000000004,
     "offset_x": -243,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -97,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -30,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

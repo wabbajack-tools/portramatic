@@ -26,25 +26,63 @@
     "fashion",
     "people",
     "angel",
-    "aasimar"
+    "aasimar",
+    "warrior",
+    "character",
+    "black",
+    "panther",
+    "african",
+    "american",
+    "armors",
+    "armor",
+    "sets",
+    "elder",
+    "scrolls",
+    "online",
+    "under",
+    "armour",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "bottom_wear",
+    "pants",
+    "bromin",
+    "design",
+    "india-lee",
+    "crews",
+    "pirate",
+    "alex",
+    "m",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "concept",
+    "paint"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -488.40000000000003,
     "offset_y": -260.4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -345.7999999999999,
     "offset_y": -215,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -12.194444444444116,
     "offset_y": -87.82407407407425,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

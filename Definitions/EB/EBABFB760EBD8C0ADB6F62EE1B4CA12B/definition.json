@@ -4,27 +4,50 @@
   "tags": [
     "outsider",
     "female",
-    "mage"
+    "mage",
+    "red",
+    "riding",
+    "hood",
+    "hulk",
+    "witcher",
+    "archer",
+    "zhongx",
+    "wu",
+    "smite",
+    "soothsayer",
+    "morrigan",
+    "anna",
+    "christenson",
+    "concept",
+    "characters",
+    "character",
+    "kingmaker",
+    "crown",
+    "agri",
+    "karuniawan"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -343,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.45999999999999935,
     "offset_x": -80,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7493333333333333,
     "offset_x": -64,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

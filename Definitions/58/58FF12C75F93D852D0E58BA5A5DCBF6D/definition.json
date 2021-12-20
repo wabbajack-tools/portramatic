@@ -1,5 +1,5 @@
 {
-  "source": "https://thumbs.hentai-foundry.com/thumb.php?pid=751494&size=1550",
+  "source": "https://thumbs.hentai-foundry.com/thumb.php?pid=751494\u0026size=1550",
   "md5": "58FF12C75F93D852D0E58BA5A5DCBF6D",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 1.1400000000000001,
     "offset_x": -620,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -507,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -600,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

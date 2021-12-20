@@ -2,27 +2,53 @@
   "source": "https://images.hdqwalls.com/download/league-of-legends-jinx-art-if-1080x1920.jpg",
   "md5": "FEA8664E6ED70AA706BCEA2CD26E30C3",
   "tags": [
-    ""
+    "",
+    "brand",
+    "league",
+    "shen",
+    "legends",
+    "game",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "morgana",
+    "marvin",
+    "pham",
+    "gangroad",
+    "2014",
+    "seunghee",
+    "lee",
+    "artwork",
+    "cartoon",
+    "k/da",
+    "akali",
+    "izhar",
+    "draws"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -142,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -84,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -18,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

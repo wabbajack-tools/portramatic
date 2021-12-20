@@ -2,27 +2,60 @@
   "source": "https://www.giantbomb.com/a/uploads/scale_medium/0/1992/1254156-lanys_tvyl.jpg",
   "md5": "11D3BC1348DBF5C4511CED40CCF2D999",
   "tags": [
-    ""
+    "",
+    "orange",
+    "elf",
+    "shelf",
+    "fall",
+    "soda",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "knight",
+    "concept",
+    "oh",
+    "kyung",
+    "rok",
+    "https://www.artstation.com/artwork/kowmx",
+    "great",
+    "wall_deer/tiger",
+    "army",
+    "xiaoguang",
+    "sun",
+    "with",
+    "rpg",
+    "artstation.com(@artstationhq)\u3055\u3093",
+    "twitter",
+    "character",
+    "inspiration",
+    "cool",
+    "monsters"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -369,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -260,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -2,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

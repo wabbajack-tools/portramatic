@@ -2,25 +2,58 @@
   "source": "https://db4sgowjqfwig.cloudfront.net/campaigns/115361/assets/513573/calistria-avatar.jpg?1444015810",
   "md5": "B45F31748FC8971F2C450A2B5CBF9599",
   "tags": [
-    ""
+    "",
+    "red",
+    "haired",
+    "elf",
+    "cleric",
+    "female",
+    "character",
+    "concept",
+    "tiefling",
+    "knight",
+    "armor",
+    "samurai",
+    "leather",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "wonmi",
+    "choi",
+    "illustrations",
+    "for",
+    "heavy",
+    "cavalry",
+    "shuxian",
+    "zhang"
   ],
   "small": {
     "scale": 1,
     "offset_x": -124,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -50,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

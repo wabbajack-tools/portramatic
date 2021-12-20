@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/eb/42/0e/eb420ed63b5ead972b01dc05883ecf2c.jpg",
   "md5": "F59210BF8227CCA86DCB68A7C01FCDB6",
   "tags": [
-    ""
+    "",
+    "dragonborn",
+    "armor",
+    "elder",
+    "scrolls",
+    "archer",
+    "armors",
+    "knight",
+    "female",
+    "assassin",
+    "dragon",
+    "age",
+    "origins",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "https://www.artstation.com/artwork/zbbbx",
+    "bounty",
+    "hunter",
+    "outfit",
+    "bbang",
+    "zipna",
+    "dwarf",
+    "james",
+    "child",
+    "postaci",
+    "obrazy"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -138.4,
     "offset_y": -27.199999999999932,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -64.80000000000007,
     "offset_y": -44.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1599999999999975,
     "offset_x": -20.82407407407368,
     "offset_y": -137.75925925925924,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

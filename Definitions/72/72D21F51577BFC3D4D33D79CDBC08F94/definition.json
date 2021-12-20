@@ -5,27 +5,41 @@
     "outsider",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "character",
+    "concept",
+    "clothing",
+    "dd",
+    "characters",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -681,
     "offset_y": -442,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -364,
     "offset_y": -235,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -234,
     "offset_y": -144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

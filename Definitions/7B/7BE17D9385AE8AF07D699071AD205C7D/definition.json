@@ -2,25 +2,59 @@
   "source": "https://i.pinimg.com/originals/fc/43/96/fc439626d5656335df861e86ed7264e0.jpg",
   "md5": "7BE17D9385AE8AF07D699071AD205C7D",
   "tags": [
-    ""
+    "",
+    "necromancer",
+    "drawing",
+    "girl",
+    "human",
+    "male",
+    "druid",
+    "night",
+    "demons",
+    "castlevania",
+    "lords",
+    "shadow",
+    "lord",
+    "rings",
+    "demon",
+    "hunter",
+    "joker",
+    "harley",
+    "quinn",
+    "ren",
+    "tu",
+    "gund_adv",
+    "mansik",
+    "yang",
+    "dark",
+    "cyborg",
+    "alejdark",
+    "red",
+    "potion",
+    "studios"
   ],
   "small": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -184,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -12,
     "offset_y": 8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

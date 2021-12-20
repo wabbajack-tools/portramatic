@@ -19,25 +19,64 @@
     "succubus",
     "tiefling",
     "mage",
-    "caster"
+    "caster",
+    "image",
+    "male",
+    "fighter",
+    "white",
+    "samurai",
+    "armor",
+    "knight",
+    "armors",
+    "assassin",
+    "medieval",
+    "knights",
+    "plate",
+    "orc",
+    "warrior",
+    "ottoman",
+    "janissary",
+    "gianluca",
+    "rolli",
+    "janissaries",
+    "concept",
+    "characters",
+    "dark",
+    "dead",
+    "alexander",
+    "shatohin",
+    "character",
+    "design",
+    "baradise",
+    "island",
+    "source",
+    "https://www.artstation.com/artwork/z04xz",
+    "2020",
+    "yasuo",
+    "league"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -417.99999999999983,
     "offset_y": -85.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -187.00000000000006,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -193.33333333333326,
     "offset_y": -14.333333333333314,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

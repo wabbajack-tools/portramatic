@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/736x/3c/50/37/3c5037a6c3e8e7aa5c4fcd6cf30a5a91.jpg",
   "md5": "5D1A271CEAEBF63A2F4E9EBA17AA9DB9",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "characters",
+    "hunter",
+    "concept",
+    "knight",
+    "armor",
+    "armors",
+    "plate",
+    "heavy",
+    "samurai",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "female",
+    "general",
+    "kang",
+    "liu",
+    "raid",
+    "shadow",
+    "legends",
+    "plarium",
+    "ukraine",
+    "eternal",
+    "trial",
+    "sviatoslav",
+    "bobruk"
   ],
   "small": {
     "scale": 1,
     "offset_x": -252,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -198,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

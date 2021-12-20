@@ -2,27 +2,50 @@
   "source": "https://images.hdqwalls.com/download/yone-splash-art-nn-2048x2048.jpg",
   "md5": "C43C1F4A7221B3C377E5EA42C713A453",
   "tags": [
-    ""
+    "",
+    "ezreal",
+    "splash",
+    "vi",
+    "shen",
+    "league",
+    "legends",
+    "black",
+    "knight",
+    "warrior",
+    "u",
+    "see",
+    "yone",
+    "esben",
+    "lash",
+    "rasmussen",
+    "lol",
+    "apex",
+    "eye",
+    "storm",
+    "fragment"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1181,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1167,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -894,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

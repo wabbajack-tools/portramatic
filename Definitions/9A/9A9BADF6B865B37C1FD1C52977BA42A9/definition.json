@@ -20,27 +20,53 @@
     "lan",
     "melkor",
     "steven",
-    "g"
+    "g",
+    "alien",
+    "vs",
+    "predator",
+    "black",
+    "dragon",
+    "armor",
+    "predators",
+    "aoife~",
+    "~",
+    "kev",
+    "chan",
+    "character",
+    "design",
+    "study",
+    "jin-hong",
+    "park",
+    "valkyrie",
+    "jianyi",
+    "han",
+    "3d",
+    "\uCE90\uB9AD\uD130",
+    "\uC57C\uB9CC",
+    "\uADF8\uB9BC"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -415,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -444,
     "offset_y": -164,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -140,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

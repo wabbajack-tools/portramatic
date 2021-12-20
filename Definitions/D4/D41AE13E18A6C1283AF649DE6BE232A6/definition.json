@@ -2,27 +2,58 @@
   "source": "https://i.imgur.com/hOE7q6F.jpeg",
   "md5": "D41AE13E18A6C1283AF649DE6BE232A6",
   "tags": [
-    ""
+    "",
+    "huntress",
+    "outfit",
+    "night",
+    "elf",
+    "female",
+    "hunter",
+    "dungeons",
+    "dragons",
+    "wood",
+    "lord",
+    "rings",
+    "orc",
+    "warrior",
+    "dark",
+    "orcs",
+    "nissa",
+    "revane",
+    "_",
+    "tutu",
+    "stones",
+    "light",
+    "book",
+    "cover",
+    "\u00F6mer",
+    "bonecarver",
+    "www.redpencilart.com",
+    "red",
+    "pencil"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -432,
     "offset_y": -410,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -291,
     "offset_y": -231,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -96,
     "offset_y": -180,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

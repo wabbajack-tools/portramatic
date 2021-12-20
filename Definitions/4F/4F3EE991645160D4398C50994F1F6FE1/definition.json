@@ -2,27 +2,46 @@
   "source": "https://blogger.googleusercontent.com/img/a/AVvXsEhP5-Z6E_iNDLePyKIhXeBEPhlDfJA8APZMY-4ih2p9vw2I5wU9YyV4jTyhu0W1RrXGvhihm5znFuhY7f9fnRo4aXDMYQSJdGLwRPUF9acXPzDN-qOppC0eVfZPqC2QC6TdZvpovzwSQtJYboyZdr1h0SLQVoBGUdQ9Q2FodXV_IUp4_-NkiUfNqntR=s2048",
   "md5": "4F3EE991645160D4398C50994F1F6FE1",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "morgana",
+    "yuanbin",
+    "hu",
+    "fighter",
+    "monster",
+    "characters",
+    "\u5DE5\u4F5C\u56FE02",
+    "d",
+    "dinno",
+    "2020",
+    "concept",
+    "character",
+    "design",
+    "male"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -435,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -528,
     "offset_y": -110,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -582,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

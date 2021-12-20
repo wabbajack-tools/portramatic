@@ -7,27 +7,65 @@
     "Half-Orc",
     "Orc",
     "Shaman",
-    "Skald"
+    "Skald",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "samurai",
+    "armors",
+    "death",
+    "power",
+    "assassin",
+    "star",
+    "wars",
+    "force",
+    "unleashed",
+    "pin",
+    "cesar",
+    "vega",
+    "jimenez",
+    "2021",
+    "concept",
+    "character",
+    "design",
+    "sci",
+    "fi",
+    "game",
+    "model",
+    "evgeny",
+    "epanchintsev",
+    "characters",
+    "practice",
+    "ningbo",
+    "jiang",
+    "https://www.artstation.com/artwork/nqbv4r"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -347,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -126,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -24,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

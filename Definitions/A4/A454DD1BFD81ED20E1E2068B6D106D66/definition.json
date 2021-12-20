@@ -4,27 +4,37 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "laissa",
+    "pablo",
+    "garc\u00EDa",
+    "soto",
+    "at\u2026",
+    "artwork",
+    "garcia"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -120.79999999999973,
     "offset_y": -139.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -124.19999999999982,
     "offset_y": -138.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -58.324074074074815,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

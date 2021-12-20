@@ -14,27 +14,45 @@
     "jazmin",
     "castillo",
     "artwork",
-    "fan"
+    "fan",
+    "albedo",
+    "girl",
+    "overlord",
+    "japanese",
+    "brute",
+    "concept",
+    "claudiu",
+    "tanasie",
+    "yoshimitsu",
+    "arnab",
+    "bishaya",
+    "steel",
+    "armor",
+    "mars",
+    "futuristic"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -316.0000000000001,
     "offset_y": -210.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -102.40000000000003,
     "offset_y": -68.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -28.83333333333303,
     "offset_y": -33.6388888888888,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

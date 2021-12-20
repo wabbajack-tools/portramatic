@@ -2,25 +2,44 @@
   "source": "http://img2.joyreactor.cc/pics/post/full/Wrath-of-the-Righteous-%D0%98%D0%B3%D1%80%D1%8B-%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%B0%D1%80%D1%82-Xabier-Pujol-6907965.jpeg",
   "md5": "29F1299FF9FB228F33B1F5337034F83C",
   "tags": [
-    ""
+    "",
+    "zombies",
+    "high-tier",
+    "succuby",
+    "ari",
+    "hidayat",
+    "aov",
+    "\u53F6\u5A1C",
+    ".",
+    "yi",
+    "warlock",
+    "wow",
+    "fan",
+    "lady",
+    "elizriel"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -386,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -190,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -2,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

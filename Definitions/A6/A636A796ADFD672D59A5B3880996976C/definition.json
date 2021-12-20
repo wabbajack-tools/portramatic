@@ -11,27 +11,42 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "dark",
+    "mage",
+    "female",
+    "armor",
+    "drawings",
+    "d.va",
+    "samus",
+    "aran",
+    "suit",
+    "cosplay",
+    ".",
+    "uran"
   ],
   "small": {
     "scale": 1.9000000000000008,
     "offset_x": -434.7999999999997,
     "offset_y": -192.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -181.19999999999976,
     "offset_y": -98.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8100000000000007,
     "offset_x": -158.32407407407482,
     "offset_y": -33.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,34 @@
     "female",
     "mage",
     "archer",
-    "princess"
+    "princess",
+    "legend",
+    "cryptids",
+    "book",
+    "zelda"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -864,
     "offset_y": -327,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -484,
     "offset_y": -175,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4496666666666662,
     "offset_x": -384,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

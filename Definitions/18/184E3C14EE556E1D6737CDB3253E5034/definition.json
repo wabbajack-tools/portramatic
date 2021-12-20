@@ -2,29 +2,65 @@
   "source": "https://dnd-wiki.org/w/images/9/96/Assassination.jpg",
   "md5": "184E3C14EE556E1D6737CDB3253E5034",
   "tags": [
-    "d&amp;d",
+    "d\u0026amp;d",
     "knife",
-    "juggler"
+    "juggler",
+    "dark",
+    "warrior",
+    "concept",
+    "assassin",
+    "character",
+    "ninja",
+    "knight",
+    "armor",
+    "female",
+    "costume",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\u5F6D\u4E00\u5CF0",
+    "\u540C\u5B66\u4F5C\u54C1",
+    "aboutcg",
+    "education",
+    "https://www.artstation.com/artwork/v1yzzy",
+    "ascent",
+    "echtzeit-charakter",
+    "domenico",
+    "d\u0027alisa",
+    "#artstation",
+    "#ascent",
+    "#",
+    "game",
+    "model",
+    "evgeny",
+    "epanchintsev",
+    "medieval",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -353,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -202,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -46,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

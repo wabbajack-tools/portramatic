@@ -10,25 +10,58 @@
     "samurai",
     "ninja",
     "people",
-    ""
+    "",
+    "female",
+    "pirate",
+    "leather",
+    "armor",
+    "assassin",
+    "knight",
+    "suit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "https://www.artstation.com/artwork/xzakgr",
+    "3d",
+    "character",
+    "dark",
+    "\u53D8\u8272\u9F99",
+    "\u62C9\u4E09\u8F6E\u8F66",
+    "\u96EA\u6A47\u72D7",
+    "https://www.artstation.com/artwork/3dlva",
+    "cyberpunk",
+    "cleric",
+    "jin",
+    "young",
+    "jung",
+    "https://www.artstation.com/artwork/4b6dg4"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -324,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -296,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -104,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

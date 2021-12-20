@@ -15,27 +15,44 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "miya",
+    "moonlight",
+    "archer",
+    "lasso",
+    "onslaught",
+    "purple",
+    "s",
+    "shan",
+    "2020",
+    "artwork"
   ],
   "small": {
     "scale": 0.34999999999999953,
     "offset_x": -363,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -200,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999975,
     "offset_x": -266,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

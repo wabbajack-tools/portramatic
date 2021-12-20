@@ -5,27 +5,47 @@
     "human",
     "male",
     "warrior",
-    "assassin"
+    "assassin",
+    "death",
+    "knight",
+    "necromancer",
+    "armor",
+    "lich",
+    "king",
+    "prateice",
+    "https://www.artstation.com/p/v3voz",
+    "yongxiang",
+    "mu",
+    "demon",
+    "sage",
+    "kent",
+    "davis",
+    "doctor",
+    "clague",
+    "chinyang"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -528,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -374,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -376,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

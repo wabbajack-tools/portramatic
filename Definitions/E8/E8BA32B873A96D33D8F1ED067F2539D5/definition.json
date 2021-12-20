@@ -11,27 +11,53 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "male",
+    "elf",
+    "pictures",
+    "character",
+    "thief",
+    "dark",
+    "knight",
+    "brotherhood",
+    "female",
+    "assassin",
+    "skyrim",
+    "auron",
+    "necromancer",
+    "reliah",
+    "a.",
+    "b",
+    "night",
+    "rupid79",
+    "jung-myung",
+    "guardian",
+    "catur",
+    "kurniawan",
+    "https://www"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -149.79999999999973,
     "offset_y": -23.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -70.19999999999976,
     "offset_y": -9.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -6.324074074074815,
     "offset_y": -29.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,49 @@
     "sun",
     "khamunaki",
     "red",
-    "sonja"
+    "sonja",
+    "elementalist",
+    "lux",
+    "forms",
+    "splash",
+    "arts",
+    "original",
+    "elements",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "angel",
+    "overlord",
+    "halloween",
+    "mona",
+    "genshin",
+    "impact",
+    "nsfw",
+    "full"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -649,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -476,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -694,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

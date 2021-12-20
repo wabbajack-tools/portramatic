@@ -11,27 +11,57 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "legend",
+    "cryptids",
+    "cards",
+    "female",
+    "tiefling",
+    "chaos",
+    "warrior",
+    "skyrim",
+    "predator",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "pirate",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork",
+    "poseidon",
+    "han",
+    "bing",
+    "https://www.artstation",
+    "coin-flipping",
+    "safecracker",
+    "billy",
+    "christian"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -359.7999999999997,
     "offset_y": -138.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -165.19999999999976,
     "offset_y": -79.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -118.32407407407482,
     "offset_y": -9.601851851852643,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

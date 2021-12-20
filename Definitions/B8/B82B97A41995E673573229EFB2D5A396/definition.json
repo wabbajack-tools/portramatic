@@ -2,27 +2,58 @@
   "source": "https://cdn.discordapp.com/attachments/870086496835743768/916887136278548480/kaede.jpg",
   "md5": "B82B97A41995E673573229EFB2D5A396",
   "tags": [
-    ""
+    "",
+    "sorceress",
+    "lightning",
+    "sorcerer",
+    "wild",
+    "magic",
+    "actionfigures",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "jeans",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "titus",
+    "scarnetti",
+    "mikhail",
+    "palamarchuk",
+    "plunderer",
+    "wonmi",
+    "choi",
+    "https://www",
+    "5h1r0tech",
+    "rie",
+    "benjamin",
+    "widdowson"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -432.80000000000007,
     "offset_y": -63.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -294.4,
     "offset_y": -46.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -166.5925925925926,
     "offset_y": -36.84259259259261,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

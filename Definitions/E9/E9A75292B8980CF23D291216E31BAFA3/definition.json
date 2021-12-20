@@ -3,27 +3,49 @@
   "md5": "E9A75292B8980CF23D291216E31BAFA3",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "medieval",
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "master",
+    "sword-fighter",
+    "kim",
+    "van",
+    "deun"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -345,
     "offset_y": -93,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -201,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -56,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

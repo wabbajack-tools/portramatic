@@ -12,27 +12,63 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "heels"
+    "heels",
+    "animated",
+    "female",
+    "doctor",
+    "male",
+    "cartoon",
+    "patient",
+    "knight",
+    "armor",
+    "heavy",
+    "orc",
+    "warrior",
+    "assassin",
+    "kanza",
+    "michael",
+    "tran",
+    "fwh",
+    "crossbowman",
+    "magdalena",
+    "radziej",
+    "at\u2026",
+    "character",
+    "design",
+    "ghost",
+    "hunter",
+    "akali",
+    "model",
+    "mist",
+    "xg",
+    "2021",
+    "champions",
+    "league",
+    "legends",
+    "lol"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -324,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -192,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -70,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

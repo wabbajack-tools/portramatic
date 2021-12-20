@@ -7,27 +7,52 @@
     "blonde",
     "female",
     "knife",
-    "rogue"
+    "rogue",
+    "anime",
+    "guys",
+    "league",
+    "legends",
+    "angel",
+    "study",
+    "srasa",
+    "4",
+    "new",
+    "characters",
+    "for",
+    "starfidner",
+    "alexander",
+    "nanitchkov",
+    "digital",
+    "painting",
+    "oc",
+    "original",
+    "character",
+    "elliot",
+    "chong",
+    "ensketchy"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -256,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -139,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -134,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

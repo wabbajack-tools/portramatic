@@ -6,27 +6,51 @@
     "female",
     "priest",
     "mage",
-    "queen"
+    "queen",
+    "pirates",
+    "caribbean",
+    "dark",
+    "elf",
+    "lone",
+    "ranger",
+    "high",
+    "game",
+    "thrones",
+    "\u7EC3\u4E60~",
+    "\u67AB\u747E",
+    "cc",
+    "https://www.artstation.com",
+    "royal",
+    "rattenlockmittel",
+    "alexey",
+    "kruglov",
+    "dragon",
+    "dragoner",
+    "xavier",
+    "leroux"
   ],
   "small": {
     "scale": 0.55,
     "offset_x": -642,
     "offset_y": -745,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39124999999999943,
     "offset_x": -360,
     "offset_y": -463,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5005833333333329,
     "offset_x": -238,
     "offset_y": -482,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

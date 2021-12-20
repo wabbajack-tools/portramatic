@@ -5,27 +5,46 @@
     "human",
     "female",
     "rogue",
-    "archer"
+    "archer",
+    "widowmaker",
+    "swimsuit",
+    "cosplay",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots",
+    "socks",
+    "accessories",
+    "glasses",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -354,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -144,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -37,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

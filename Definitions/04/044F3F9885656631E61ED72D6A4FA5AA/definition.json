@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/736x/8a/61/f4/8a61f47217f499b8c93f6de0407ad465.jpg",
   "md5": "044F3F9885656631E61ED72D6A4FA5AA",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warrior",
+    "drawing",
+    "female",
+    "elves",
+    "drawings",
+    "girl",
+    "dungeons",
+    "dragons",
+    "sniper",
+    "ghost",
+    "dark",
+    "night",
+    "153",
+    "paul",
+    "shut",
+    "https://www.artstation.com/artwork/pm45dr",
+    "#artwork",
+    "#artstation",
+    "#",
+    "\u7EC3\u4E60",
+    "cheng",
+    "tian",
+    "wolf",
+    "ranger",
+    "levi",
+    "gilbert",
+    "characters",
+    "geek"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -197,
     "offset_y": -186,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -124,
     "offset_y": -146,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3199999999999998,
     "offset_x": -8,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,56 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "isometric",
+    "game",
+    "mmorpg",
+    "pixel",
+    "rpg",
+    "anime",
+    "girl",
+    "characters",
+    "yugio",
+    "magician",
+    "ba",
+    "rim",
+    "witch",
+    "character",
+    "design",
+    "archer",
+    "concept",
+    "cheolseung",
+    "ok",
+    "https://www.artstation.com/artwork/a9y66x",
+    "speed",
+    "painting",
+    "succubus",
+    "muel",
+    "kim",
+    "female"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -627,
     "offset_y": -218,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -257,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999993,
     "offset_x": -22,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

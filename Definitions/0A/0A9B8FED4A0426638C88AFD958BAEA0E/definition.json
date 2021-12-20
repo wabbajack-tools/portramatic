@@ -25,27 +25,48 @@
     "tan",
     "mobius",
     "final",
-    "men"
+    "men",
+    "rpg",
+    "character",
+    "design",
+    "concept",
+    "female",
+    "batman",
+    "vs",
+    "superman",
+    "souls",
+    "girl",
+    "sibyl",
+    "vane",
+    "mortui",
+    "vivos",
+    "docent",
+    "zsofia",
+    "dankova",
+    "vampire"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -343.7142857142871,
     "offset_y": -179.71428571428558,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -179.1428571428575,
     "offset_y": -128.85714285714272,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999976,
     "offset_x": -19.42857142857156,
     "offset_y": -3.571428571428555,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

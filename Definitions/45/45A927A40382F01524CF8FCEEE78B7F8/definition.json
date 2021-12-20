@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/99/b2/93/99b293770ad4868b033a68a3ea9306ae.jpg",
   "md5": "45A927A40382F01524CF8FCEEE78B7F8",
   "tags": [
-    ""
+    "",
+    "night",
+    "elf",
+    "female",
+    "assassin",
+    "dark",
+    "anime",
+    "girl",
+    "knight",
+    "i",
+    "harold",
+    "rodriguez",
+    "corvo",
+    "tatiana",
+    "vetrova",
+    "alvarie",
+    "character",
+    "owlma"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -458,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -114,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -64,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

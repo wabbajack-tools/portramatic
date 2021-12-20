@@ -2,27 +2,52 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c75620e2-1a4d-436d-8d02-cf917a2d47c8/degg8vr-85a37668-47f6-4922-b059-c5318a89a31a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3NTYyMGUyLTFhNGQtNDM2ZC04ZDAyLWNmOTE3YTJkNDdjOFwvZGVnZzh2ci04NWEzNzY2OC00N2Y2LTQ5MjItYjA1OS1jNTMxOGE4OWEzMWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CfzOJXPta8Vw7bEtsNNbyUoYi77zqNpZyos2SRdrltk",
   "md5": "740D60A93AB75E9D51CF61E19649D9ED",
   "tags": [
-    ""
+    "",
+    "sketches",
+    "sanjin",
+    "halimic",
+    "inspiration",
+    "battle",
+    "bayedu",
+    "a",
+    "simon",
+    "dominic",
+    "brewer",
+    "human",
+    "dark",
+    "artwork",
+    "monster",
+    "alexander",
+    "trufanov",
+    "character",
+    "design",
+    "cartoon",
+    "witch",
+    "egyptian",
+    "goddess"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -522,
     "offset_y": -571,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -215,
     "offset_y": -339,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -12,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

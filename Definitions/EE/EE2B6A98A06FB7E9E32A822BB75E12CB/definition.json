@@ -10,25 +10,43 @@
     "armor",
     "druid",
     "mage",
-    "necromancer"
+    "necromancer",
+    "swamp",
+    "thing",
+    "covers",
+    "characters",
+    "work",
+    "mao",
+    "dong",
+    "barghest",
+    "gwent",
+    "card",
+    "anna",
+    "podedworna",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -254,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -611,
     "offset_y": -1342,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -370,
     "offset_y": -1051,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

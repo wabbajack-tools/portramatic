@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/b7/27/e3/b727e3a63760339bfa234da78d32792a.jpg",
   "md5": "226624ECA16A982BBE480F1A1A4056F2",
   "tags": [
-    ""
+    "",
+    "kingdoms",
+    "amalur",
+    "reckoning",
+    "demon",
+    "hunter",
+    "knight",
+    "armor",
+    "dungeons",
+    "dragons",
+    "\u8EFB\u6BD4\u80FD",
+    "chang",
+    "youl",
+    "park",
+    "broken",
+    "man",
+    "erta\u00E7",
+    "alt\u0131n\u00F6z",
+    "homework",
+    "j",
+    "ven",
+    "https://www.artstation.com/artwork/dzb3x",
+    "dwarf"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -310,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -106,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -67,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

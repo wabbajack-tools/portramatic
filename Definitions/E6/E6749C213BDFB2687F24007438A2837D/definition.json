@@ -1,28 +1,55 @@
 {
-  "source": "https://ss3.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=908289301,274819600&fm=26&gp=0.jpg",
+  "source": "https://ss3.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=908289301,274819600\u0026fm=26\u0026gp=0.jpg",
   "md5": "E6749C213BDFB2687F24007438A2837D",
   "tags": [
-    ""
+    "",
+    "liu",
+    "bei",
+    "quotes",
+    "emperor",
+    "three",
+    "kingdoms",
+    "dynasty",
+    "warriors",
+    "chinese",
+    "romance",
+    "guan",
+    "yu",
+    "rupid79",
+    "lee",
+    "jung-myung",
+    "overwatch",
+    "hanzo",
+    "poppy",
+    "minty",
+    "\u7EC7\u7530\u4FE1\u957F",
+    "oda",
+    "nobunaga",
+    "kuang",
+    "chonghao"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -163,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -43,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -34,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

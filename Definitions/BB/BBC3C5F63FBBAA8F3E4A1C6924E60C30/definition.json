@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/564x/ff/23/2d/ff232dca91534bf2901cbf0a9acd9e47.jpg",
   "md5": "BBC3C5F63FBBAA8F3E4A1C6924E60C30",
   "tags": [
-    ""
+    "",
+    "human",
+    "thief",
+    "female",
+    "anime",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "hat",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.9100000000000008,
     "offset_x": -141.33333333333343,
     "offset_y": -126.66666666666674,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -26.666666666666742,
     "offset_y": -38.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -15.999999999999773,
     "offset_y": -24.000000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

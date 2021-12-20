@@ -7,27 +7,48 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "lonely",
+    "knight",
+    "bae",
+    "yamile",
+    "pintrest/babylaaa",
+    "with",
+    "beauty",
+    "photoshoot"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -154.5,
     "offset_y": -54.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -5.5,
     "offset_y": -20.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -5,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

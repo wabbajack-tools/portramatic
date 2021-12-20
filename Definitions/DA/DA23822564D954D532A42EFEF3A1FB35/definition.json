@@ -2,27 +2,64 @@
   "source": "https://static.wikia.nocookie.net/fenar/images/b/bf/Mistress_of_pain.jpg/revision/latest/scale-to-width-down/640?cb=20200827012731",
   "md5": "DA23822564D954D532A42EFEF3A1FB35",
   "tags": [
-    ""
+    "",
+    "elf",
+    "female",
+    "knight",
+    "elves",
+    "white",
+    "hair",
+    "anime",
+    "dragon",
+    "girl",
+    "drawing",
+    "dark",
+    "assassin",
+    "league",
+    "legends",
+    "blood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini",
+    "grim",
+    "reaper",
+    "hades",
+    "concept",
+    "andy",
+    "timm",
+    "vampire",
+    "hadong",
+    "song",
+    "mage",
+    "02",
+    "style",
+    "archetype",
+    "chris"
   ],
   "small": {
     "scale": 2.9499999999999806,
     "offset_x": -850,
     "offset_y": -291,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -254,
     "offset_y": -136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0200000000000005,
     "offset_x": -296,
     "offset_y": -186,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

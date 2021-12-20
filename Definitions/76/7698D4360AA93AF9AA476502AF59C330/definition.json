@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/13/d1/1c/13d11cf16464b93971834cbd0a8f3b81.jpg",
   "md5": "7698D4360AA93AF9AA476502AF59C330",
   "tags": [
-    "night elf druid"
+    "night elf druid",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "dungeons",
+    "dragons",
+    "forest",
+    "tomek",
+    "panek",
+    "stanton",
+    "feng",
+    "game",
+    "workshop",
+    "artwork",
+    "games"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -459,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -238,
     "offset_y": -95,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -220,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

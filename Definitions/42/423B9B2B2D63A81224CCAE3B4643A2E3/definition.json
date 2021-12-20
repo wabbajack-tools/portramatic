@@ -4,27 +4,41 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "pretty",
+    "witch",
+    "halloween",
+    "witches",
+    "wicked",
+    "anime",
+    "angel",
+    "inuyasha",
+    "kagome",
+    "characters",
+    "guys"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -1004.7999999999997,
     "offset_y": -413.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9896666666666667,
     "offset_x": -561.1999999999998,
     "offset_y": -179.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.149166666666667,
     "offset_x": -500.3240740740748,
     "offset_y": -65.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

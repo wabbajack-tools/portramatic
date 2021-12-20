@@ -5,27 +5,56 @@
     "male",
     "dwarf",
     "rogue",
-    "mage"
+    "mage",
+    "inspirational",
+    "paintings",
+    "creative",
+    "inspiration",
+    "for",
+    "painting",
+    "azure",
+    "enchanter",
+    "jiwon",
+    "kim",
+    "skyrim",
+    "arcane",
+    "trickster",
+    "character",
+    "design",
+    "parapluie",
+    "revel",
+    "ds",
+    "fanart",
+    "raul",
+    "rivera",
+    "arroyo",
+    "black",
+    "wind",
+    "azrael",
+    "hoho"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -238,
     "offset_y": -309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -65,
     "offset_y": -223,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -98,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

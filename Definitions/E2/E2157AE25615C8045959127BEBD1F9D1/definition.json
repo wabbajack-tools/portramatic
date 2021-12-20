@@ -2,27 +2,57 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/043/219/280/large/tommy-arnold-arnold-harrow-72.jpg?1636639717",
   "md5": "E2157AE25615C8045959127BEBD1F9D1",
   "tags": [
-    ""
+    "",
+    "harrow",
+    "ninth",
+    "ianthe",
+    "chapter",
+    "skulls",
+    "nintb",
+    "dark",
+    "world",
+    "batman",
+    "azrael",
+    "limkuk",
+    ".",
+    "en",
+    "2020",
+    "c\u00F3mic",
+    "trajes",
+    "de",
+    "oathbringer",
+    "ellirh",
+    "shaan",
+    "2021",
+    "character",
+    "inspiration",
+    "dungeons",
+    "howler",
+    "shen",
+    "fei"
   ],
   "small": {
     "scale": 1,
     "offset_x": -277.6000000000002,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -208.8,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

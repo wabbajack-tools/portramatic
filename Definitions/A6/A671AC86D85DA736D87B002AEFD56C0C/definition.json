@@ -9,27 +9,57 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "sexy",
+    "3d",
+    "erotic",
+    "wallpaper",
+    "hot",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "alita",
+    "lung",
+    "hsiang",
+    "tai",
+    "https://www.artstation.com/artwork/qzrxye",
+    "battle",
+    "path",
+    "to",
+    "avengement",
+    "chalky",
+    "nan",
+    "https://www.artstation.com/artwork",
+    "robinson",
+    "crusoe",
+    "uncharted",
+    "pioneer",
+    "lonwa",
+    "a"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -220,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -42,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999995,
     "offset_x": 0,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

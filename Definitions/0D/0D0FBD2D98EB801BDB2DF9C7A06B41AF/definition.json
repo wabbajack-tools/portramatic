@@ -8,27 +8,46 @@
     "priest",
     "warrior",
     "rogue",
-    "dancer"
+    "dancer",
+    "cherry",
+    "blossom",
+    "decor",
+    "blossoms",
+    "japanese",
+    "graphic",
+    "alice",
+    "wonderland",
+    "\u82B1\u8776\u4ED9\u5B50",
+    "tong",
+    "shuai",
+    "earth",
+    "mother",
+    "oliver",
+    "harbour",
+    "https://www"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -1027,
     "offset_y": -188,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -598,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -456,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

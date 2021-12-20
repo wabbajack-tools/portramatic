@@ -25,27 +25,34 @@
     "pbr",
     "character",
     "zachary",
-    "may"
+    "may",
+    "void",
+    "mage",
+    "chunyu",
+    "wang"
   ],
   "small": {
     "scale": 0.49999999999999933,
     "offset_x": -463.99999999999983,
     "offset_y": -5.666666666666629,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -392.6666666666668,
     "offset_y": -19.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999999,
     "offset_x": -294.6666666666663,
     "offset_y": -7.333333333333428,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

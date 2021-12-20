@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/92/98/33/92983303939884e9eae83ea3a710c687.jpg",
   "md5": "1C08F4C410A101F4C81769E786887E6C",
   "tags": [
-    ""
+    "",
+    "elder",
+    "scrolls",
+    "character",
+    "legends",
+    "games",
+    "world",
+    "warrior\u2019s",
+    "photo",
+    "\u201Cwarrior",
+    "priest.",
+    "\u2694\uFE0F\uD83D\uDEE1",
+    "artist",
+    "du",
+    "hugh",
+    "source",
+    "divine",
+    "imperator",
+    "aiur",
+    "timi",
+    "honkanen",
+    "digital"
   ],
   "small": {
     "scale": 2.179999999999997,
     "offset_x": -421,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -60,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.089999999999999,
     "offset_x": -260,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

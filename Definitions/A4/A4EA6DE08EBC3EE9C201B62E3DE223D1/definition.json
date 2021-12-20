@@ -5,27 +5,44 @@
     "human",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "cryptid",
+    "legends",
+    "dragons",
+    "creatures",
+    "legend",
+    "cryptids",
+    "league",
+    "angels",
+    "pirates",
+    "caribbean",
+    "card",
+    "yuanming",
+    "ma",
+    "men"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -343,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -230,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -126,
     "offset_y": 4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

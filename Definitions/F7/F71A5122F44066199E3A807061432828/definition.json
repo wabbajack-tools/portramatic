@@ -1,29 +1,57 @@
 {
-  "source": "https://3.bp.blogspot.com/-O3PJdHffb8M/UX7CcOmDagI/AAAAAAAACFA/UWnguX7vF80/s1600/High+Elf.jpg",
+  "source": "https://3.bp.blogspot.com/-O3PJdHffb8M/UX7CcOmDagI/AAAAAAAACFA/UWnguX7vF80/s1600/High\u002BElf.jpg",
   "md5": "F71A5122F44066199E3A807061432828",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "elf",
+    "wizard",
+    "high",
+    "mage",
+    "names",
+    "salt",
+    "wounds",
+    "tabletop",
+    "setting",
+    "jeff",
+    "chen",
+    "character",
+    "portraits",
+    "son",
+    "sun",
+    "yi",
+    "zhang",
+    "artstation.",
+    "armor",
+    "design",
+    "concept",
+    "29.",
+    "druid",
+    "jin",
+    "jurin"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -219.00000000000006,
     "offset_y": -152.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -76.66666666666663,
     "offset_y": -4.6666666666665435,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -34.66666666666629,
     "offset_y": -4.999999999999773,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

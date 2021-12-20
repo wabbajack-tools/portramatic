@@ -2,27 +2,63 @@
   "source": "https://static.wikia.nocookie.net/acwfanon/images/6/61/Milomir.jpg",
   "md5": "AE026B7C894E497877218E009335FC05",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "rpg",
+    "character",
+    "concept",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "assassin",
+    "armors",
+    "dark",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "warrior",
+    "serim",
+    "hwang",
+    "https://www",
+    "thief",
+    "pickpocket.",
+    "\u0432\u043E\u0440",
+    "\u043A\u0430\u0440\u043C\u0430\u043D\u043D\u0438\u043A.",
+    "edikt",
+    "sungryun",
+    "park"
   ],
   "small": {
     "scale": 1,
     "offset_x": -411.33333333333326,
     "offset_y": -70.00000000000011,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -339.3333333333336,
     "offset_y": -53.33333333333343,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -196.00000000000023,
     "offset_y": -37.33333333333303,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,44 @@
   "tags": [
     "dd",
     "goblin",
-    "fan"
+    "fan",
+    "drow",
+    "elf",
+    "rogue",
+    "female",
+    "2020-07-11",
+    "alita",
+    "battle",
+    "angel",
+    "drawnielart",
+    "mad",
+    "max",
+    "x",
+    "furiosa",
+    "snegovski"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -267,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -167,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -120,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

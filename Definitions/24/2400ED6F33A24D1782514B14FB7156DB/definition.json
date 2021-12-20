@@ -4,27 +4,54 @@
   "tags": [
     "goblin",
     "boss",
-    "male"
+    "male",
+    "warhammer",
+    "40k",
+    "chaos",
+    "warrior",
+    "war",
+    "machine",
+    "puppet",
+    "master",
+    "zj",
+    "p",
+    "2020",
+    "puppets",
+    "creative",
+    "artists",
+    "greek",
+    "statue",
+    "shades",
+    "shattered",
+    "rpg",
+    "alexandre",
+    "chaudret",
+    "character",
+    "design",
+    "female"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -507,
     "offset_y": -343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -521,
     "offset_y": -323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -440,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

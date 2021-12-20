@@ -2,25 +2,62 @@
   "source": "https://i.pinimg.com/originals/ac/58/8a/ac588ac79b5961e02f07f0fdcaaeaea9.jpg",
   "md5": "EBAED9748D2F5601A20F549AB6C6FD8B",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "bard",
+    "human",
+    "concept",
+    "assassin",
+    "iron",
+    "man",
+    "suit",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "just",
+    "a",
+    "character",
+    "eleven",
+    "victoria",
+    "sokolova",
+    "#characterdesignrpg",
+    "dungeons",
+    "sp_ch_005",
+    "roman",
+    "mindek",
+    "characters",
+    "landscapes",
+    "creature",
+    "warrior",
+    "fjf",
+    "toledo",
+    "https://www.artstation.com/artwork/warrior"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -516,
     "offset_y": -308,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -297,
     "offset_y": -227,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -2,
     "offset_y": -196,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -15,25 +15,53 @@
     "painting",
     "art",
     "mage",
-    "female"
+    "female",
+    "anime",
+    "ghost",
+    "drawing",
+    "concept",
+    "girl",
+    "sketch",
+    "characters",
+    "monsters",
+    "tony",
+    "sart",
+    "monster",
+    "artwork",
+    "black",
+    "widow",
+    "billy",
+    "christian",
+    "#assassin",
+    "yudai",
+    "abe",
+    "#girl",
+    "#fantasy",
+    "#art",
+    "#"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -116,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -31,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -11,
     "offset_y": -25,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

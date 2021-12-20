@@ -2,27 +2,43 @@
   "source": "https://i.imgur.com/zJRaBvx.jpeg",
   "md5": "5A4E5E882D372224A8A52F3CD53A149C",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "conan",
+    "barbarian",
+    "artwork",
+    "battle",
+    "tannenberg",
+    "dungeons",
+    "dragons",
+    "pharsalus",
+    "alamo",
+    "bull",
+    "run"
   ],
   "small": {
     "scale": 1,
     "offset_x": -359,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -258,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -92,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

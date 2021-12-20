@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/43/17/b8/4317b8e7beb007993e58fd44b60a2a46.jpg",
   "md5": "3CACD446A4A0DF8AF279784B7CE57977",
   "tags": [
-    ""
+    "",
+    "ghibli",
+    "princess",
+    "mononoke",
+    "princesse",
+    "hime",
+    "dragon",
+    "saggan",
+    "regular",
+    "billy",
+    "loc",
+    "mansik",
+    "yang",
+    "girl",
+    "character",
+    "design002",
+    "ming",
+    "tong"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -152,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -53,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -4,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://gwent.pro/img/1144-big.jpg",
   "md5": "8C5C7E2CBA777ACBCB32CA94250B8E60",
   "tags": [
-    ""
+    "",
+    "human",
+    "death",
+    "knight",
+    "paladin",
+    "meta",
+    "as",
+    "a",
+    "lord",
+    "rings",
+    "war",
+    "north",
+    "heavy",
+    "armor",
+    "witcher",
+    "skyrim",
+    "ser",
+    "matthew",
+    "reborn",
+    "barret",
+    "frymire",
+    "armillus",
+    "dynat",
+    "harrowmaster",
+    "alpha",
+    "legion",
+    "aleksey",
+    "bashlay",
+    "aragorn",
+    "cao",
+    "ke"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -131,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -50,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999982,
     "offset_x": -10,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

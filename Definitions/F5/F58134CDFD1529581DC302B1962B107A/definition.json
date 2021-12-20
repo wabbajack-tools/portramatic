@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/cc/e8/72/cce8724a65937cada0a8c9198acfd1e7.jpg",
   "md5": "F58134CDFD1529581DC302B1962B107A",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "pirate",
+    "ship",
+    "famous",
+    "lady",
+    "gears",
+    "war",
+    "assassin",
+    "predator",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "solomon",
+    "kane",
+    "red",
+    "shadows",
+    "guillem",
+    "h.",
+    "pongiluppi",
+    "character",
+    "design",
+    "draven",
+    "nik",
+    "hagialas",
+    "https://www.artstation.com/artwork/xxm6r",
+    "fighter",
+    "shark",
+    "juan",
+    "hern\u00E1ndez"
   ],
   "small": {
     "scale": 1.7000000000000006,
     "offset_x": -207,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4100000000000004,
     "offset_x": -75,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1999999999999966,
     "offset_x": -4,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

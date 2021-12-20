@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/63/f6/9a/63f69a75216603622a8e270524f0ea29.jpg",
   "md5": "AA27C2C26087C96BC30A19085684B81B",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "character",
+    "anime",
+    "black",
+    "knight",
+    "armor",
+    "dragon",
+    "concept",
+    "armors",
+    "plate",
+    "medieval",
+    "knights",
+    "2016",
+    "09",
+    "22",
+    "dapeng",
+    "chen",
+    "https://www",
+    "dudes",
+    "bogdan",
+    "rezunenko",
+    "toxic",
+    "ranger",
+    "filip",
+    "cebotari"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -304.80000000000035,
     "offset_y": -54.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -273.6000000000002,
     "offset_y": -53.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -80.09259259259261,
     "offset_y": -57.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

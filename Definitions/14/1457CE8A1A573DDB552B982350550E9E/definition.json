@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/736x/71/d4/fc/71d4fc48a01cd49ae70545192d6ed9a3.jpg",
   "md5": "1457CE8A1A573DDB552B982350550E9E",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "tiefling",
+    "wizard",
+    "portraits",
+    "female",
+    "cleric",
+    "character",
+    "lord",
+    "rings",
+    "war",
+    "north",
+    "minotaur",
+    "skyrim",
+    "hobbit",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 1,
     "offset_x": -338,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -257,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/012/006/385/large/vance-kovacs-freyab-11.jpg?1532536577",
   "md5": "70B79008FBBA706A0EE8E2C7DCF0F957",
   "tags": [
-    "druid"
+    "druid",
+    "dark",
+    "elf",
+    "concept",
+    "kratos",
+    "god",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "nightmares",
+    "flavio",
+    "agrippa",
+    "bonbourg",
+    "sketch",
+    "dump",
+    "2020",
+    "forrest",
+    "imel",
+    "2021",
+    "tengu",
+    "biggie"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -966,
     "offset_y": -309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999998,
     "offset_x": -418,
     "offset_y": -143,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -70,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -18,27 +18,47 @@
     "color",
     "study",
     "andrea",
-    "mazziotti"
+    "mazziotti",
+    "armors",
+    "night",
+    "necromancer",
+    "armor",
+    "witch",
+    "cristina",
+    "lavi\u00F1a",
+    "doctor",
+    "clague",
+    "chin",
+    "yang",
+    "lim",
+    "https://www",
+    "\u7CBE\u7075\u6E38\u4FA0",
+    "zhongxi",
+    "ho",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -246,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -147,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -60,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

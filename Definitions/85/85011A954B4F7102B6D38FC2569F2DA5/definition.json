@@ -5,27 +5,44 @@
     "human",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "moon",
+    "goddesses",
+    "goddess",
+    "names",
+    "painting",
+    "blueeyed",
+    "anndr",
+    "pazyniuk",
+    "cirilla",
+    "oviya",
+    "vendan",
+    "2021",
+    "witcher",
+    "girl"
   ],
   "small": {
     "scale": 0.6499999999999996,
     "offset_x": -536.5,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999995,
     "offset_x": -492.5,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.16,
     "offset_x": -717,
     "offset_y": -51,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

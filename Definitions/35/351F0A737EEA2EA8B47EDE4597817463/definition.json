@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/35/f7/5a/35f75a08d0e858bea497a97df7fcda82.jpg",
   "md5": "351F0A737EEA2EA8B47EDE4597817463",
   "tags": [
-    ""
+    "",
+    "demon",
+    "monster",
+    "character",
+    "concept",
+    "robot",
+    "title",
+    "dark",
+    "elf",
+    "hunter",
+    "demons",
+    "night",
+    "gears",
+    "war",
+    "lord",
+    "rings",
+    "starcraft",
+    "ii",
+    "legacy",
+    "void",
+    "west",
+    "studio",
+    "swordsman",
+    "marcel",
+    "torres",
+    "ingl\u00E9s",
+    "dragon",
+    "princess",
+    "saggan",
+    "advanced",
+    "billy",
+    "christian"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -78,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -68,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -142,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

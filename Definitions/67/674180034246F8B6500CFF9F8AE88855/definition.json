@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/67/41/80/674180034246f8b6500cff9f8ae88855.png",
   "md5": "674180034246F8B6500CFF9F8AE88855",
   "tags": [
-    ""
+    "",
+    "female",
+    "fairy",
+    "3.5",
+    "succubus",
+    "samurai",
+    "warriors",
+    "dark",
+    "elf",
+    "demons",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "nameless",
+    "hunter",
+    "wild",
+    "vampires",
+    "pot1",
+    "park",
+    "jh",
+    "warrior",
+    "knight",
+    "hak",
+    "sun",
+    "kim",
+    "2020"
   ],
   "small": {
     "scale": 1.8399999999999983,
     "offset_x": -1263,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5400000000000005,
     "offset_x": -998,
     "offset_y": -153,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -754,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

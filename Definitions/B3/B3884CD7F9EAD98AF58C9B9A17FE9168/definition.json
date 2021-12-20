@@ -2,25 +2,55 @@
   "source": "https://i.pinimg.com/564x/3d/6a/a5/3d6aa59beb89005516eb90b281e45cb0.jpg",
   "md5": "B3884CD7F9EAD98AF58C9B9A17FE9168",
   "tags": [
-    ""
+    "",
+    "forest",
+    "gnome",
+    "female",
+    "evil",
+    "spartan",
+    "warrior",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "lightbox",
+    "expo",
+    "box",
+    "mystery",
+    "character",
+    "04117",
+    "manilyn",
+    "toledana",
+    "https://www",
+    "spear",
+    "man",
+    "lee",
+    "sung",
+    "no"
   ],
   "small": {
     "scale": 1.7900000000000007,
     "offset_x": -433,
     "offset_y": -294,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -178,
     "offset_y": -192,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -7,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

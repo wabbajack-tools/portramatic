@@ -11,25 +11,62 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "roman",
+    "army",
+    "concept",
+    "armor",
+    "legionary",
+    "soldier",
+    "legion",
+    "knight",
+    "heavy",
+    "armors",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "alexios/kassandra",
+    "outfit",
+    "spartan",
+    "war",
+    "hero",
+    "sabin",
+    "lalancette",
+    "heroes",
+    "vitalii",
+    "shevchenko",
+    "characters",
+    "10.10",
+    "liu",
+    "pengcheng",
+    "https://www.artstation.com/artwork/3ovygd",
+    "marvel"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -464,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -160,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -16,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

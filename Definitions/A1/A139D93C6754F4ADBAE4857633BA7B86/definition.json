@@ -5,27 +5,58 @@
     "finrod",
     "harp",
     "elf",
-    "bard"
+    "bard",
+    "tolkien\u0027s",
+    "elves",
+    "tolkien",
+    "silmarillion",
+    "trees",
+    "harry",
+    "potter",
+    "deathly",
+    "hallows",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "legend",
+    "cryptids-\u30A8\u30EA\u30A8\u30C3\u30BF",
+    "kisuny",
+    "park",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "vivien",
+    "nature\u0027s",
+    "avenger",
+    "chris",
+    "rallis"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -238,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -150,
     "offset_y": -148,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -80,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

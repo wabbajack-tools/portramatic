@@ -2,27 +2,47 @@
   "source": "https://www.worldanvil.com/media/cache/cover/uploads/images/1207fa56e0da13b031b0556999fd824c.jpg",
   "md5": "9E72A9410D75F95AABD1644DDEC2DA51",
   "tags": [
-    ""
+    "",
+    "male",
+    "high",
+    "elves",
+    "elf",
+    "character",
+    "warrior",
+    "take",
+    "a",
+    "break",
+    "duong",
+    "ct",
+    "https://www",
+    "winter",
+    "woads",
+    "2cgaming",
+    "jason",
+    "strutz"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -407,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -63,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -156,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,44 @@
   "source": "https://i.pinimg.com/originals/52/ce/f9/52cef975a013772018f521162dea309a.jpg",
   "md5": "EE9AF7981D37D68DB9D45E50B7F3C4FA",
   "tags": [
-    ""
+    "",
+    "might",
+    "magic",
+    "7",
+    "characters",
+    "clash",
+    "heroes",
+    "5",
+    "dragon",
+    "armor",
+    "heavy",
+    "knight",
+    "death",
+    "vampire",
+    "manga"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -274,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -255,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -84,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

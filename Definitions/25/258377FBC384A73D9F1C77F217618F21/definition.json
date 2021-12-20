@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/26/e8/9f/26e89f215dfc95e8958717ac507de0c1.jpg",
   "md5": "258377FBC384A73D9F1C77F217618F21",
   "tags": [
-    ""
+    "",
+    "witch",
+    "fashion",
+    "season",
+    "cast",
+    "movies",
+    "list",
+    "female",
+    "assassin",
+    "mileena",
+    "mortal",
+    "kombat",
+    "vampire",
+    "chungla",
+    "mage",
+    "dark",
+    "vincent",
+    "gradt",
+    "annah",
+    "tarik",
+    "boussekine"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -111,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -45,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -50,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

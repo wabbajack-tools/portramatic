@@ -34,27 +34,37 @@
     "soft",
     "man",
     "jihwan",
-    "ha"
+    "ha",
+    "dark",
+    "world",
+    "souls",
+    "https://www",
+    "lenore",
+    "nath.",
+    "batemann"
   ],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -223,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -11,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

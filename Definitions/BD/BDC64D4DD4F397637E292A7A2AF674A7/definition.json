@@ -2,27 +2,52 @@
   "source": "https://img2.rule34.us/images/bd/c6/bdc64d4dd4f397637e292a7a2af674a7.jpeg",
   "md5": "BDC64D4DD4F397637E292A7A2AF674A7",
   "tags": [
-    ""
+    "",
+    "flame",
+    "spirit",
+    "duy",
+    "van",
+    "ember",
+    "set",
+    "for",
+    "dota2",
+    "made",
+    "new",
+    "bloom",
+    "event",
+    "andrey",
+    "chuloshnikov",
+    "hellboy/tank",
+    "girl",
+    "fusion",
+    "comicon",
+    "2015",
+    "jaco",
+    "herbst",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.9500000000000001,
     "offset_x": -388,
     "offset_y": -446,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999999,
     "offset_x": -204,
     "offset_y": -347,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8500000000000001,
     "offset_x": -83,
     "offset_y": -345,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,26 +1,40 @@
 {
-  "source": "https://pbs.twimg.com/media/EqVSrv8U0AAkdfg?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EqVSrv8U0AAkdfg?format=jpg\u0026name=large",
   "md5": "2A36C64BC654B317C755720030E993D0",
   "tags": [
-    ""
+    "",
+    "chinoiserie",
+    "lee",
+    "jp",
+    "blood",
+    "adoria",
+    "book",
+    "cover",
+    "oliver",
+    "wetter"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -781,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -589,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -776,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

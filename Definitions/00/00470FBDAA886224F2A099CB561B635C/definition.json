@@ -4,27 +4,48 @@
   "tags": [
     "outsider",
     "female",
-    "warrior"
+    "warrior",
+    "game",
+    "thrones",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "epic",
+    "dark",
+    "elena",
+    "shishkina",
+    "https://www.artstation.com/artwork/pok8b1",
+    "2021",
+    "santer\u00EDa",
+    "marisa",
+    "lopez",
+    "sarima"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -1011,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -316,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6996666666666664,
     "offset_x": -50,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

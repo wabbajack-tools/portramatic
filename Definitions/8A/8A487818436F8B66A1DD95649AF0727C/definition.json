@@ -6,27 +6,50 @@
     "male",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "gabrielle",
+    "artwork",
+    "drawings",
+    "game",
+    "thrones",
+    "witcher",
+    "skyrim",
+    "gears",
+    "war",
+    "legend",
+    "cryptids",
+    "lius",
+    "lasahido",
+    "barbarian",
+    "juhyeon",
+    "kim",
+    "https://www.artstation.com/artwork/zkb8m",
+    "knight",
+    "yj",
+    "jo"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -446.7999999999997,
     "offset_y": -125.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -220.19999999999982,
     "offset_y": -13.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -156.32407407407482,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -17,25 +17,43 @@
     "armor",
     "bronze",
     "male",
-    "bard"
+    "bard",
+    "viking",
+    "warrior",
+    "tattoos",
+    "men",
+    "drawings",
+    "witcher",
+    "robin",
+    "hood",
+    "\u0022book",
+    "cover\u0022",
+    "davood",
+    "diba",
+    "2021"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -288,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -246,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -62,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

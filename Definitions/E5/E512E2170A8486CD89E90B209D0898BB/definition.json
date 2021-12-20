@@ -8,27 +8,45 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "white",
+    "knight",
+    "magic",
+    "cards",
+    "dungeons",
+    "dragons",
+    "\u9B54\u5B50\u5251\u58EB",
+    "\u6653\u70FD",
+    "\u674E",
+    "cenarius",
+    "vs",
+    "grommash",
+    "hellscream",
+    "iana",
+    "venge"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -427,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -298,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -332,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

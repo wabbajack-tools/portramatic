@@ -2,27 +2,36 @@
   "source": "https://i.imgur.com/pDUuTxU.jpeg",
   "md5": "70A832DB05258F0A72CEF6162BA53668",
   "tags": [
-    ""
+    "",
+    "swords",
+    "into",
+    "ploughshares",
+    "beat",
+    "plowshares",
+    "to"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -419,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -332,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -314,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

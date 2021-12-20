@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/0d/22/f0/0d22f089e8ef10e986e102858379e80b.jpg",
   "md5": "1806D1ECF44AACB66B1DE17C35D30FFB",
   "tags": [
-    ""
+    "",
+    "war",
+    "cleric",
+    "paladin",
+    "artwork",
+    "neverwinter",
+    "league",
+    "legends",
+    "medieval",
+    "knights",
+    "night",
+    "elf",
+    "death",
+    "knight",
+    "revenge",
+    "jian",
+    "shi"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -214,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -85,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,64 @@
   "md5": "00302AB7C9AC303687EE6D7D97AFBE35",
   "tags": [
     "Skelet",
-    "Fain"
+    "Fain",
+    "divinity",
+    "original",
+    "sin",
+    "builds",
+    "characters",
+    "undead",
+    "mortal",
+    "kombat",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "clone",
+    "sub-zero",
+    "lion",
+    "witch",
+    "wardrobe",
+    "captain",
+    "blake",
+    "th\u00E0nh",
+    "min",
+    "https://www.artstation.com/artwork/qxwpa",
+    "troll",
+    "concept",
+    "scott",
+    "gadille",
+    "sir",
+    "kay",
+    "ceinfarfog",
+    "distort",
+    "royalty",
+    "lonwa",
+    "a",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -434,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -233,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -262,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

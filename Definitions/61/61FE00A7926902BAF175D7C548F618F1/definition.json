@@ -5,27 +5,47 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "lightning",
+    "returns",
+    "costumes",
+    "concept",
+    "outfits",
+    "outdoor",
+    "sunshangxiang",
+    "cindy",
+    "feng",
+    "2020",
+    "anime",
+    "artwork",
+    "king",
+    "#arknights#",
+    "#\u7EA2",
+    "train",
+    "_hb"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -296,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -303,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8700000000000008,
     "offset_x": -518,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

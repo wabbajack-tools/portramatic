@@ -5,27 +5,59 @@
     "misc",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "dragon",
+    "armor",
+    "concept",
+    "medieval",
+    "knights",
+    "paladin",
+    "knight",
+    "league",
+    "legends",
+    "dark",
+    "souls",
+    "lord",
+    "rings",
+    "\u0022i",
+    "will",
+    "not",
+    "be",
+    "your",
+    "pet",
+    "\u0022",
+    "tania",
+    "sanchez-fortun",
+    "nan",
+    "fe",
+    "bat-creature",
+    "gilberto",
+    "magno",
+    "greek",
+    "goddess"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -604.7999999999997,
     "offset_y": -236.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -387.19999999999976,
     "offset_y": -123.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -146.32407407407482,
     "offset_y": -11.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

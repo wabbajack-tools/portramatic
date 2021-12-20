@@ -11,27 +11,54 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "dark",
+    "knight",
+    "sword",
+    "black",
+    "fan",
+    "souls",
+    "death",
+    "chaos",
+    "warrior",
+    "elf",
+    "armor",
+    "false",
+    "king",
+    "jang",
+    "ju",
+    "hyeon",
+    "character",
+    "design",
+    "fire",
+    "vitalii",
+    "shevchenko",
+    "betrayer",
+    "tooth",
+    "wu"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -281.7999999999997,
     "offset_y": -136.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -134.19999999999976,
     "offset_y": -80.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2.324074074074815,
     "offset_y": -83.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

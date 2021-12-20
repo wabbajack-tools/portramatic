@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/736x/82/98/84/829884c35c2f6d4ebc359fcafd0c71b8.jpg",
   "md5": "8335C3E69A13D797A1D15846BBBEB266",
   "tags": [
-    ""
+    "",
+    "chaos",
+    "warrior",
+    "heavy",
+    "armor",
+    "egyptian",
+    "gods",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "tiefling",
+    "rogue",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "dungeons",
+    "dragons",
+    "ranger",
+    "character",
+    "design",
+    "half-elf",
+    "bards",
+    "half",
+    "elf",
+    "bard"
   ],
   "small": {
     "scale": 1,
     "offset_x": -427,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -361,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -160,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

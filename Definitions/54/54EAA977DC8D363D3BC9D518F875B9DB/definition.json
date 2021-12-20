@@ -2,27 +2,52 @@
   "source": "https://www.ufrgs.br/tesauros/_acervo/image/2019/06/img-0018061-d29ff804df.jpg",
   "md5": "54EAA977DC8D363D3BC9D518F875B9DB",
   "tags": [
-    ""
+    "",
+    "gwent",
+    "card",
+    "game",
+    "geralt",
+    "ciri",
+    "brotherhood",
+    "steel",
+    "female",
+    "assassin",
+    "harvest",
+    "livia",
+    "prima",
+    "elves",
+    "concept",
+    "elf",
+    "nika",
+    "kuznetsova",
+    "https://www",
+    "lumberjack",
+    "tomas",
+    "duchek",
+    "warhammer"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -352,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -189,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -32,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

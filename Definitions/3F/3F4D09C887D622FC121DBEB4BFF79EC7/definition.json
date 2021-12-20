@@ -5,27 +5,34 @@
     "human",
     "female",
     "bard",
-    "dancer"
+    "dancer",
+    "nathan",
+    "bowen",
+    "michael",
+    "robert"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -321.5,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999994,
     "offset_x": -80.5,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9599999999999997,
     "offset_x": -157,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

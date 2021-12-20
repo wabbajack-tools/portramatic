@@ -6,27 +6,58 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "medieval",
+    "princess",
+    "veronica",
+    "jones",
+    "maxime",
+    "delcambre",
+    "2020",
+    "anime",
+    "outfits",
+    "jordan",
+    "peoples",
+    "wonder",
+    "woman",
+    "jordans",
+    "superhero",
+    "\u5DE5\u4F5C\u56FE",
+    "kongjian",
+    "bo",
+    "2021",
+    "male",
+    "avatar",
+    "drawing"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -541,
     "offset_y": -174,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.42999999999999927,
     "offset_x": -279,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5493333333333331,
     "offset_x": -176,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

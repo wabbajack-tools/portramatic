@@ -4,27 +4,66 @@
   "tags": [
     "anime",
     "leather",
-    "armor"
+    "armor",
+    "yamashita",
+    "shunya",
+    "tekken",
+    "manga",
+    "girl",
+    "lord",
+    "rings",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "20181102",
+    "pan",
+    "https://www.artstation.com/artwork/xzjvle",
+    "with",
+    "forest",
+    "archer",
+    "hak",
+    "sun",
+    "kim",
+    "female",
+    "characters",
+    "women",
+    "aenor",
+    "knight",
+    "heigelmir",
+    "laur\u00E9line",
+    "chambon",
+    "character",
+    "base",
+    "pbr"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -598,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -301,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -146,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

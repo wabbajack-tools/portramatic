@@ -4,27 +4,57 @@
   "tags": [
     "dwarf",
     "male",
-    "warrior"
+    "warrior",
+    "monk",
+    "dd",
+    "cleric",
+    "orcs",
+    "orc",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "film",
+    "media",
+    "\u0026",
+    "entertainment",
+    "artists",
+    "alien",
+    "hunter",
+    "andrew",
+    "mezentsew",
+    "war",
+    "heroes",
+    "taurus",
+    "alexander",
+    "shatohin",
+    "evil",
+    "creatures"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -440,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999997,
     "offset_x": -397,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5696666666666663,
     "offset_x": -220,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

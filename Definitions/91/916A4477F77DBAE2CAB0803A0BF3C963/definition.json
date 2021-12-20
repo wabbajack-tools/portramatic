@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/eb/05/30/eb0530757a41e01ea31d7845187baf75.jpg",
   "md5": "916A4477F77DBAE2CAB0803A0BF3C963",
   "tags": [
-    ""
+    "",
+    "assassin\u0027s",
+    "creed",
+    "rogue",
+    "concept",
+    "unity",
+    "characters",
+    "samurai",
+    "armor",
+    "knight",
+    "armors",
+    "plate",
+    "leather",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "metro",
+    "exodus",
+    "children",
+    "forest",
+    "game",
+    "swordman",
+    "eunyoung",
+    "jeon",
+    "https://www",
+    "rexxar",
+    "chang"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -318,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -92,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -5,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

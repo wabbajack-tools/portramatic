@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/0b/3d/eb/0b3deb957996a81f68aeaca2d87d06fc.jpg",
   "md5": "657039DED812A035D7509ED60053DCF0",
   "tags": [
-    ""
+    "",
+    "women",
+    "fairies",
+    "magic",
+    "girl",
+    "white",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -29,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -11,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -14,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

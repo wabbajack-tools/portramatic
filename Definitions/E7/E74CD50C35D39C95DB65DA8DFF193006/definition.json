@@ -8,27 +8,57 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "leprechaun",
+    "gnome",
+    "funny",
+    "gnomes",
+    "with",
+    "gun",
+    "ocarina",
+    "time",
+    "legend",
+    "zelda",
+    "twilight",
+    "princess",
+    "dungeons",
+    "dragons",
+    "marvel",
+    "comics",
+    "skyward",
+    "sword",
+    "death",
+    "knight",
+    "ursula",
+    "dorada",
+    "yerbol",
+    "bulentayev",
+    "practice",
+    "mao",
+    "dong"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -353.0000000000002,
     "offset_y": -242.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -144.00000000000006,
     "offset_y": -100.66666666666649,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -212.66666666666674,
     "offset_y": -16.666666666666003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

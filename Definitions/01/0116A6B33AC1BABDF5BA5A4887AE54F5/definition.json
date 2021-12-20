@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/736x/36/db/fc/36dbfc7c474829764f3dbf734fe710a2.jpg",
   "md5": "0116A6B33AC1BABDF5BA5A4887AE54F5",
   "tags": [
-    ""
+    "",
+    "grim",
+    "reaper",
+    "character",
+    "armor",
+    "gothic",
+    "planescape",
+    "torment",
+    "fanart",
+    "alexey",
+    "stepanov",
+    "https://www.artstation.com/artwork",
+    "knight",
+    "chaos",
+    "whisp",
+    "lorn",
+    "shroud",
+    "matt",
+    "forsyth",
+    "https://www.artstation.com/artwork/qvd2e"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -29,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -28,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": 0,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

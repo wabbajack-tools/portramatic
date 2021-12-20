@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/7tzTMOZ.png",
   "md5": "FE484190948E9C1C4C01636B43E92511",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "plate",
+    "death",
+    "leather",
+    "samurai",
+    "medieval",
+    "knights",
+    "concept",
+    "fei",
+    "che",
+    "https://www.artstation.com/artwork/vg8y3",
+    "character",
+    "dragonage",
+    "fan",
+    "mi",
+    "ker",
+    "aesthetic",
+    "reference",
+    "viking",
+    "batman",
+    "preparing",
+    "for",
+    "battle",
+    "caleb",
+    "nefzen"
   ],
   "small": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -72,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 74,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

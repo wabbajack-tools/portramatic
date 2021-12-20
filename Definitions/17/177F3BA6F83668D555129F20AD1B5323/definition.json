@@ -1,28 +1,36 @@
 {
-  "source": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4312-CUSA02383_00-DYNAMIC0317THEME/image?w=320&h=320&bg_color=000000&opacity=100&_version=00_09_000",
+  "source": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4312-CUSA02383_00-DYNAMIC0317THEME/image?w=320\u0026h=320\u0026bg_color=000000\u0026opacity=100\u0026_version=00_09_000",
   "md5": "177F3BA6F83668D555129F20AD1B5323",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 1,
     "offset_x": -87,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 5,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 174,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

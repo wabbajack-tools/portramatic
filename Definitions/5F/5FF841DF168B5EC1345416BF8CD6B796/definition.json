@@ -2,27 +2,50 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/025/101/medium/banjiu-e-vik-succubus.jpg?1468896709",
   "md5": "5FF841DF168B5EC1345416BF8CD6B796",
   "tags": [
-    ""
+    "",
+    "human",
+    "succubi",
+    "demon",
+    "anime",
+    "girl",
+    "black",
+    "hair",
+    "vampire",
+    "with",
+    "ready",
+    "to",
+    "die",
+    "shal.",
+    "e",
+    "bowsette",
+    "hoshino",
+    "chen",
+    "hyungjin",
+    "yang",
+    "https://www"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -232,
     "offset_y": -181,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -120,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -14,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

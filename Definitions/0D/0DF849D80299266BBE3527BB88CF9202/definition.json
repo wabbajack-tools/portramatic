@@ -2,27 +2,36 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fd85f8-26e8-4c1b-ad91-4015c600383e/dcc52k8-e14471ca-8f1d-410a-85e4-c885cd9f14bc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0ZmQ4NWY4LTI2ZTgtNGMxYi1hZDkxLTQwMTVjNjAwMzgzZVwvZGNjNTJrOC1lMTQ0NzFjYS04ZjFkLTQxMGEtODVlNC1jODg1Y2Q5ZjE0YmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J5L7zljqNdyW99JdXpfvYVCZCjbesMzHkdmMk7fK3fc",
   "md5": "0DF849D80299266BBE3527BB88CF9202",
   "tags": [
-    ""
+    "",
+    "fictional",
+    "species",
+    "concept",
+    "drawing",
+    "dark",
+    "elf"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -133.14285714285703,
     "offset_y": -95.42857142857139,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -10.857142857143003,
     "offset_y": -21.142857142857224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -57.142857142857565,
     "offset_y": -60.57142857142844,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

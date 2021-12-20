@@ -17,25 +17,55 @@
     "armor",
     "bronze",
     "male",
-    "bard"
+    "bard",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "plate",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sichen",
+    "wang",
+    "studies",
+    "doodles",
+    "or",
+    "wip",
+    "2019",
+    "sora",
+    "2016.08.26",
+    "liu",
+    "pengcheng",
+    "https://www"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -235,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -164,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -12,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

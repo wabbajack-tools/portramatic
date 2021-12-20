@@ -2,27 +2,41 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eeae53d5-f666-4d9d-bf70-9696b5e10d30/dakaiwf-b15c4d17-f4c7-424b-8d44-538deaf5281f.jpg/v1/fill/w_1600,h_1132,q_75,strp/order_of_the_bloody_rose_by_yangzheyy_dakaiwf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcL2VlYWU1M2Q1LWY2NjYtNGQ5ZC1iZjcwLTk2OTZiNWUxMGQzMFwvZGFrYWl3Zi1iMTVjNGQxNy1mNGM3LTQyNGItOGQ0NC01MzhkZWFmNTI4MWYuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3SE3rRQCsCOgwJGYFhC_fdnDmT5IHf5MMDUIl6JDixY",
   "md5": "BF756928461A2AFC045E0997826A1FC0",
   "tags": [
-    ""
+    "",
+    "40k",
+    "battle",
+    "sister",
+    "repentia",
+    "warhammer",
+    "fan",
+    "iron",
+    "warriors",
+    "chaos",
+    "space",
+    "marines"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -580.5714285714312,
     "offset_y": -4.571428571428385,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -325.14285714285705,
     "offset_y": -2.2857142857142208,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -528.0000000000002,
     "offset_y": -15.999999999999545,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

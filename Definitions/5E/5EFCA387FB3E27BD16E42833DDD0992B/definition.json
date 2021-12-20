@@ -7,27 +7,46 @@
     "dancer",
     "samurai",
     "mage",
-    "warrior"
+    "warrior",
+    "clark",
+    "kent",
+    "superman",
+    "bellows",
+    "witch",
+    "2dan",
+    "liu",
+    "dragon",
+    "shrine",
+    "pansup",
+    "kim",
+    "deathknight",
+    "vampire",
+    "monztre",
+    "2021",
+    "mtg"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -715.7999999999997,
     "offset_y": -371.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -293.1999999999998,
     "offset_y": -94.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -44.324074074074815,
     "offset_y": -17.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

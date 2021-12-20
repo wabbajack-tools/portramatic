@@ -5,27 +5,42 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "anime",
+    "girl",
+    "so",
+    "riya",
+    "karna",
+    "zumi",
+    "draws",
+    "character",
+    "fate",
+    "stay",
+    "night",
+    "drawings"
   ],
   "small": {
     "scale": 0.7299999999999999,
     "offset_x": -698,
     "offset_y": -198,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999997,
     "offset_x": -438,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999967,
     "offset_x": -178,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

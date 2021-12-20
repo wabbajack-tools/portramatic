@@ -2,27 +2,61 @@
   "source": "https://i.imgur.com/mloTzgB.jpeg",
   "md5": "26F36B4473E01C56228EBD4076534398",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "elder",
+    "scrolls",
+    "online",
+    "pirates",
+    "caribbean",
+    "stranger",
+    "tides",
+    "dungeons",
+    "dragons",
+    "sins",
+    "shadows",
+    "dimitar",
+    "ivanov",
+    "defectors",
+    "alyssa",
+    "mccarthy",
+    "creatures",
+    "mythical",
+    "magical",
+    "\u300A\u5C71\u6D77\u7ECF\u300B\u51B0\u5937",
+    "zhao",
+    "huanhua",
+    "sci",
+    "fi",
+    "beasts"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -243,
     "offset_y": -355,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -101,
     "offset_y": -230,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -44,
     "offset_y": -128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/736x/1c/51/dc/1c51dcbd20f7bbc0e384549c53951613.jpg",
   "md5": "F3CB6AC8A3C14D37EFECEF36BF3D8042",
   "tags": [
-    ""
+    "",
+    "king",
+    "richard",
+    "i",
+    "lionheart",
+    "shield",
+    "game",
+    "thrones",
+    "medieval",
+    "knights",
+    "ancient",
+    "greek",
+    "stefan",
+    "kopinski",
+    "ages",
+    "bannerlord",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "warhammer",
+    "illustration",
+    "war",
+    "horse",
+    "post-apocalyptic",
+    "landsknecht",
+    "oleg",
+    "fedorov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -309,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -205,
     "offset_y": -101,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 18,
     "offset_y": 128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

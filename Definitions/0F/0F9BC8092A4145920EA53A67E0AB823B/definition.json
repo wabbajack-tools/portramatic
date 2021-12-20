@@ -2,27 +2,52 @@
   "source": "https://i.imgur.com/xoE1C91.jpeg",
   "md5": "0F9BC8092A4145920EA53A67E0AB823B",
   "tags": [
-    ""
+    "",
+    "half-elves",
+    "half",
+    "elf",
+    "paladin",
+    "plate",
+    "armor",
+    "wood",
+    "knight",
+    "armors",
+    "male",
+    "warrior",
+    "jiajun",
+    "liu",
+    "characters",
+    "ii",
+    "javier",
+    "charro",
+    "character",
+    "rpg",
+    "design",
+    "troy",
+    "pangci"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -444,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -273,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -38,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

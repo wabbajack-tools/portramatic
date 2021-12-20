@@ -25,27 +25,55 @@
     "tan",
     "mobius",
     "final",
-    "men"
+    "men",
+    "sketch",
+    "character",
+    "design",
+    "shapes",
+    "game",
+    "animation",
+    "female",
+    "assassin",
+    "warrior",
+    "pose",
+    "hobbit",
+    "faeries",
+    "taras",
+    "susak",
+    "2020",
+    "atmosphere",
+    "test",
+    "tak",
+    "cheng",
+    "https://www",
+    "ivan",
+    "dedov\u0027s",
+    "submission",
+    "wild",
+    "west"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -653.4285714285713,
     "offset_y": -112.28571428571425,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -434.00000000000006,
     "offset_y": -59.71428571428572,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -124.57142857142867,
     "offset_y": -45.85714285714289,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

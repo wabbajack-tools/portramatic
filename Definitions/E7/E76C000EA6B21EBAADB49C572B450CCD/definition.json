@@ -4,27 +4,49 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "warrior",
+    "monk",
+    "dark",
+    "shaolin",
+    "miniatures",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "fighter/archer",
+    "thickle.",
+    "david",
+    "woo",
+    "llama",
+    "mark",
+    "tarrisse",
+    "spellsword",
+    "siman",
+    "vlaisavljevi\u0107"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -317.5,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -77,
     "offset_y": -31.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -61,
     "offset_y": -23,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

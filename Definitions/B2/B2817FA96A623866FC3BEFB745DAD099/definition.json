@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/f5/0a/e6/f50ae6d01a16801681fa29978df295ab.jpg",
   "md5": "B2817FA96A623866FC3BEFB745DAD099",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "heavy",
+    "samurai",
+    "medieval",
+    "knights",
+    "armors",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "heels",
+    "daeeung",
+    "lee",
+    "character",
+    "namgwon",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "warrior"
   ],
   "small": {
     "scale": 2.259999999999992,
     "offset_x": -559.1999999999991,
     "offset_y": -105.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -234.39999999999958,
     "offset_y": -45.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": -3.2037037037036953,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

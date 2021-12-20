@@ -2,27 +2,46 @@
   "source": "https://i.redd.it/mgnbc3janf271.jpg",
   "md5": "9BB83897D7B6D93FDA906ECF5D18EF27",
   "tags": [
-    ""
+    "",
+    "play",
+    "arts",
+    "kai",
+    "lizzard",
+    "griffin",
+    "tyler",
+    "smith",
+    "artstation.",
+    "weird",
+    "thoughts",
+    "sasha",
+    "vinogradova",
+    "warden",
+    "personal",
+    "matthew",
+    "mckeown"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -293,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -135,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -154,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

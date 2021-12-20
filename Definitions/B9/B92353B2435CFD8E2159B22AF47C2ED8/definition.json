@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/originals/f6/9f/db/f69fdb0eee98dedc14dd1861ddde3a31.jpg",
   "md5": "B92353B2435CFD8E2159B22AF47C2ED8",
   "tags": [
-    ""
+    "",
+    "shaolin",
+    "monk",
+    "warrior",
+    "rider",
+    "nukey",
+    "hsieh",
+    "character"
   ],
   "small": {
     "scale": 0.3719999999999995,
     "offset_x": -96,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5251666666666672,
     "offset_x": -35,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8755000000000002,
     "offset_x": -48,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

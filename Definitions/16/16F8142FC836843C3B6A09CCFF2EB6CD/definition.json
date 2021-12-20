@@ -6,27 +6,46 @@
     "female",
     "priest",
     "mage",
-    "warrior"
+    "warrior",
+    "nadia",
+    "laurent",
+    "caio",
+    "chagas",
+    "https://www.artstation.com/artwork/yaxx3y",
+    "d.d",
+    "daniel",
+    "kim",
+    "game",
+    "character",
+    "design",
+    "personal",
+    "work",
+    "bangku",
+    "an",
+    "women"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -542,
     "offset_y": -235,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -329,
     "offset_y": -160,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6096666666666664,
     "offset_x": -234,
     "offset_y": -148,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

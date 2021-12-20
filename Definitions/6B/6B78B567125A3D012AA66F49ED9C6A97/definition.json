@@ -2,27 +2,41 @@
   "source": "https://staticdelivery.nexusmods.com/images/1704/58072451-1568816705.jpg",
   "md5": "6B78B567125A3D012AA66F49ED9C6A97",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elves",
+    "female",
+    "elf",
+    "assassin",
+    "character",
+    "concept",
+    "kim",
+    "ssang",
+    "natalia",
+    "stolarz"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -384,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -423,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -628,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

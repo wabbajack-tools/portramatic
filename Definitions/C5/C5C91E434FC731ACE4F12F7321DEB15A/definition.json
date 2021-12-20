@@ -8,27 +8,50 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "full",
+    "angel",
+    "dark",
+    "elf",
+    "hobbit",
+    "messenger",
+    "magdalena",
+    "pagowska",
+    "character",
+    "predator",
+    "alex.",
+    "faichan",
+    "https://www",
+    "comic",
+    "cover",
+    "style",
+    "test",
+    "dave",
+    "e.",
+    "phillips"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -253,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -290,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -464,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

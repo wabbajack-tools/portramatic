@@ -2,25 +2,39 @@
   "source": "https://i.pinimg.com/736x/c7/df/ca/c7dfcab9e1e3714b858efc12303d586c--dr-strange-comic-dr-strange-art.jpg",
   "md5": "46D45E97A9997B2A18DB7FF4BE01453B",
   "tags": [
-    ""
+    "",
+    "doctor",
+    "strange",
+    "anime",
+    "dr.",
+    "artwork",
+    "concept",
+    "herold",
+    "alexander",
+    "shatohin"
   ],
   "small": {
     "scale": 1,
     "offset_x": -338,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -223,
     "offset_y": -109,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

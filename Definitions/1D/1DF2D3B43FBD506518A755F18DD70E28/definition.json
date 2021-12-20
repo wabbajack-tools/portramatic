@@ -2,27 +2,38 @@
   "source": "https://i.imgur.com/3Ewcmb1.jpeg",
   "md5": "1DF2D3B43FBD506518A755F18DD70E28",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "ii",
+    "sten",
+    "armor",
+    "avatar",
+    "last",
+    "airbender"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -342,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -285,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -278,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://cdn.discordapp.com/attachments/908409389810073671/909531077637472326/unknown.jpeg",
   "md5": "8D434DEA3204EBF363028420BA16B80F",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "pete",
+    "phe",
+    "mudwiggle",
+    "mari",
+    "suomela",
+    "warcraft",
+    "characters",
+    "world",
+    "zzz",
+    "sketch",
+    "copy",
+    "lol",
+    "ez\u0027s",
+    "pose",
+    "z",
+    "zbyer",
+    "2020",
+    "great",
+    "artists",
+    "poses"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -378,
     "offset_y": -150,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -287,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -428,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

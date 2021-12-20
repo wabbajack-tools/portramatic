@@ -8,27 +8,49 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "dryad",
+    "arbor",
+    "quirion",
+    "oil",
+    "paintings",
+    "natural",
+    "subjects",
+    "fang",
+    "xinyu",
+    "qingxue",
+    "ye",
+    "character",
+    "elf",
+    "artwork",
+    "fairys",
+    "peasant",
+    "girl",
+    "yuliya",
+    "litvinova"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -483,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -372,
     "offset_y": -130,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -500,
     "offset_y": -168,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

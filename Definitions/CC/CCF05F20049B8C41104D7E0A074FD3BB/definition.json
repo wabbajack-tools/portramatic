@@ -2,27 +2,48 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/917/606/large/mr-holmes-marierosegrey.jpg?1487186486",
   "md5": "CCF05F20049B8C41104D7E0A074FD3BB",
   "tags": [
-    ""
+    "",
+    "sf",
+    "concept",
+    "tospeed",
+    "sci",
+    "fi",
+    "character",
+    "design",
+    "demo",
+    "yishu",
+    "ci",
+    "https://www.artstation.com/artwork/rr04ga",
+    "angel",
+    "warrior",
+    "amazing",
+    "priestess",
+    "brian",
+    "\u0022ooquant\u0022",
+    "rivera"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -325,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -90,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -6,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

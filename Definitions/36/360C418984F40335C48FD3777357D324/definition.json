@@ -2,27 +2,47 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921410881429049394/damerino_gaio_perso_nel_bosco.jpg",
   "md5": "360C418984F40335C48FD3777357D324",
   "tags": [
-    ""
+    "",
+    "swing",
+    "lord",
+    "rings",
+    "tarzan",
+    "jane",
+    "happy",
+    "dwarf",
+    "sloth",
+    "being",
+    "digital",
+    "artist",
+    "characters",
+    "hellboy",
+    "michele",
+    "marchionne",
+    "fan",
+    "johnny"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -497,
     "offset_y": -549,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -217,
     "offset_y": -315,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -146,
     "offset_y": -290,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

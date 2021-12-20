@@ -8,27 +8,52 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "progenitus",
+    "arena",
+    "ranks",
+    "thud",
+    "league",
+    "legends",
+    "dragon",
+    "rocks",
+    "thorn",
+    "spine",
+    "https://www.artstation.com/artwork/doorp1",
+    "cute",
+    "project",
+    "lineage",
+    "m",
+    "lee",
+    "winter",
+    "wonder",
+    "soraka",
+    "yekaterina",
+    "bourykina",
+    "poppy"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -393,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -288,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -490,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

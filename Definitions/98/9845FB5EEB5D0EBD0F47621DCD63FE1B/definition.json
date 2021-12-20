@@ -7,27 +7,47 @@
     "Half-Orc",
     "Orc",
     "Shaman",
-    "Skald"
+    "Skald",
+    "half-orc",
+    "artwork",
+    "male",
+    "half",
+    "orc",
+    "druid",
+    "witcher",
+    "skyrim",
+    "13th",
+    "warrior",
+    "game",
+    "thrones",
+    "b\u0026w",
+    "knight",
+    "sergio",
+    "abalo",
+    "https://www"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -159,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -43,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -90,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

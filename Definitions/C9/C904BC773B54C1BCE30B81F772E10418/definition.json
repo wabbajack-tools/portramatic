@@ -11,27 +11,47 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "dota",
+    "desktop",
+    "mirana",
+    "lina",
+    "inverse",
+    "league",
+    "legends",
+    "beautiful",
+    "anime",
+    "chinese",
+    "girl",
+    "cyra",
+    "juan",
+    "pablo",
+    "fatal-blow",
+    "zb",
+    "z"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -253.79999999999973,
     "offset_y": -42.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -159.19999999999976,
     "offset_y": -49.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -50.324074074074815,
     "offset_y": -3.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

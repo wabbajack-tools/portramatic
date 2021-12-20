@@ -2,27 +2,35 @@
   "source": "https://getwallpapers.com/wallpaper/full/0/8/a/966444-free-gandalf-wallpaper-1920x1080-cell-phone.jpg",
   "md5": "C2C294892460EF60288575CBE6689E11",
   "tags": [
-    ""
+    "",
+    "hobbit",
+    "journey",
+    "map",
+    "shire",
+    "house"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -1433,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1327,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -1228,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

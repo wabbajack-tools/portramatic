@@ -6,27 +6,44 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "russian",
+    "futurism",
+    "style",
+    "modern",
+    "transcended",
+    "kayle",
+    "atey",
+    "ghailan",
+    "league",
+    "ennead",
+    "gogi",
+    "kim",
+    "princess",
+    "egyptian"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -21,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -48,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -59,
     "offset_y": -19,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

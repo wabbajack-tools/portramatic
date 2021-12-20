@@ -5,27 +5,57 @@
     "goblin",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "king",
+    "wow",
+    "league",
+    "legends",
+    "fable",
+    "lost",
+    "chapters",
+    "elder",
+    "scrolls",
+    "online",
+    "warden",
+    ".",
+    "svelien",
+    "warcraft",
+    "world",
+    "characters",
+    "epic",
+    "overwatch",
+    "j\u00F6tunn",
+    "doomfist",
+    "tim",
+    "moreels",
+    "winter",
+    "wonderland",
+    "\u51B0\u971C\u5DE8\u4EBA",
+    "zhuopeng",
+    "zhu"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -303.7999999999997,
     "offset_y": -48.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -332.1999999999998,
     "offset_y": -41.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -264.3240740740748,
     "offset_y": -43.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,25 +11,47 @@
     "elf",
     "world of warcraft",
     "tiefling",
-    "demon"
+    "demon",
+    "heroes",
+    "might",
+    "magic",
+    "party",
+    "ioana",
+    "muresan",
+    "characters",
+    "character",
+    "design",
+    "magus",
+    "class",
+    "deck",
+    "vika",
+    "yarova",
+    "female",
+    "dwarf",
+    "portraits"
   ],
   "small": {
     "scale": 0.5226666666666662,
     "offset_x": -499,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.372416666666666,
     "offset_x": -277,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4295833333333329,
     "offset_x": -160,
     "offset_y": -101,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

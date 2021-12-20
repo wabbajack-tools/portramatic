@@ -3,25 +3,36 @@
   "md5": "F7AF6AD6D985DB639D8D413DAB54F6A1",
   "tags": [
     "half-elf",
-    "male"
+    "male",
+    "charlie",
+    "bowater",
+    "acotar",
+    "feyre",
+    "rhysand",
+    "fan"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -73,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -110,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -120,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

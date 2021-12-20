@@ -23,27 +23,39 @@
     "kitiara",
     "li",
     "yan",
-    "warrior"
+    "warrior",
+    "wood",
+    "design",
+    "practice",
+    "jk",
+    "woo",
+    "woman",
+    "armor",
+    "ting",
+    "xu"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -1020,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999967,
     "offset_x": -426,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -204,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/originals/8a/8e/ea/8a8eea4e3c529e961ec30116c3ba62e0.jpg",
   "md5": "2B484EF87BF920EC5AADB8485155A6AC",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "4",
+    "solas",
+    "with",
+    "hair",
+    "characters",
+    "corvus",
+    "glaive",
+    "mcu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -517,
     "offset_y": -344,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -398,
     "offset_y": -275,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

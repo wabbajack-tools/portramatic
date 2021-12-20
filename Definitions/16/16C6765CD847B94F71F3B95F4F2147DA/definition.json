@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/736x/07/bb/7e/07bb7ea521d48e023e705b2b781d1a30--warcraft-art-arthas.jpg",
   "md5": "16C6765CD847B94F71F3B95F4F2147DA",
   "tags": [
-    ""
+    "",
+    "wow",
+    "dark",
+    "elf",
+    "night",
+    "fan",
+    "hunter",
+    "knight",
+    "death",
+    "armor",
+    "souls",
+    "reaper",
+    "watchart",
+    "army",
+    "fallen",
+    "allan",
+    "tapia",
+    "mesias",
+    "luthumos",
+    "lord",
+    "dead",
+    "alvaro",
+    "ribeiro",
+    "zbrush",
+    "photoshop"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -143,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -89,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -84,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

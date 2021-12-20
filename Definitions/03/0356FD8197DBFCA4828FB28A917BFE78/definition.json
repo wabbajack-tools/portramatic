@@ -2,25 +2,62 @@
   "source": "https://i.pinimg.com/originals/03/56/fd/0356fd8197dbfca4828fb28a917bfe78.png",
   "md5": "0356FD8197DBFCA4828FB28A917BFE78",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "drawing",
+    "concept",
+    "dark",
+    "elf",
+    "game",
+    "thrones",
+    "assassin",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "\u4E2D\u4E16\u7EAA\u9A91\u58EB",
+    "yunhao",
+    "zheng",
+    "ilustra\u00E7\u00F5es",
+    "rpg",
+    "sun",
+    "wukong",
+    "huifeng",
+    "huang",
+    "characters",
+    "monkey",
+    "king",
+    "oriental",
+    "spearman",
+    "junggeun",
+    "yoon",
+    "character"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -447,
     "offset_y": -156,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -295,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,60 @@
   "source": "https://s3.amazonaws.com/files.enjin.com/434822/modules/forum/attachments/2f2c28ceb0b7992e6b34ae5f046cae6f--fantasy-art-male-knight-fantasy_1518789087.jpg",
   "md5": "DD70E2D749D21EF40CB9708F09CF5E1E",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "anakin",
+    "padme",
+    "war",
+    "commander",
+    "queen",
+    "atlantis",
+    "hobbit",
+    "bard",
+    "henrique",
+    "dld",
+    "character",
+    "portraits",
+    "half",
+    "wood",
+    "archer",
+    "alfonso",
+    "maesa",
+    "https://www.artstation.com/artwork",
+    "eye",
+    "karduhm",
+    "twins",
+    "andrew",
+    "domachowski",
+    "2020",
+    "characters"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -415,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -438,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -105,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

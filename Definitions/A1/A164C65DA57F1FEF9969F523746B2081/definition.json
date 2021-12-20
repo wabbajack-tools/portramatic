@@ -11,27 +11,58 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "rpg",
+    "character",
+    "dungeons",
+    "dragons",
+    "female",
+    "assassin",
+    "medieval",
+    "knights",
+    "samurai",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "athletic_shoes_or_sneakers",
+    "\u519B\u88C5",
+    "hongyu",
+    "wang",
+    "characters",
+    "zhiwen",
+    "young",
+    "post",
+    "apocalyptic",
+    "costume",
+    "berserker",
+    "simeon",
+    "spirov",
+    "https://www"
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -334.7999999999997,
     "offset_y": -69.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -134.19999999999976,
     "offset_y": -70.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -72.32407407407482,
     "offset_y": -69.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

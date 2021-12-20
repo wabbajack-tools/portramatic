@@ -5,27 +5,41 @@
     "human",
     "druid",
     "dark",
-    ""
+    "",
+    "lord",
+    "rings",
+    "orc",
+    "warrior",
+    "wrath",
+    "titans",
+    "orcs",
+    "works126",
+    "song",
+    "nan",
+    "li"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -257,
     "offset_y": -264,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -217,
     "offset_y": -189,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -78,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

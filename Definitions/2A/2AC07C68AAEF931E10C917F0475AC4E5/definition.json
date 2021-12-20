@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/564x/fe/ca/ad/fecaad3fe1deabd6312396400bcdf32a.jpg",
   "md5": "2AC07C68AAEF931E10C917F0475AC4E5",
   "tags": [
-    ""
+    "",
+    "half",
+    "tiefling",
+    "miniature",
+    "dragonborn",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "game",
+    "characters",
+    "rafis",
+    "khuzin",
+    "half-orc",
+    "barbarian",
+    "dionisis",
+    "milonas",
+    "adrian",
+    "smith",
+    "character"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -286,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -172,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6700000000000006,
     "offset_x": -113,
     "offset_y": -121,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

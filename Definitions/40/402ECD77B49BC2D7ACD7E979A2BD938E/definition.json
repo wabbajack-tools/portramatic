@@ -2,27 +2,35 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/032/579/600/large/jenny-harder-nattish-design-portrait.jpg?1606852764",
   "md5": "402ECD77B49BC2D7ACD7E979A2BD938E",
   "tags": [
-    "demon"
+    "demon",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "string_instrument",
+    "guitar"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -205.90000000000003,
     "offset_y": -13.600000000000023,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -148.69999999999953,
     "offset_y": -10.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -202.31481481481455,
     "offset_y": -19.601851851850256,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

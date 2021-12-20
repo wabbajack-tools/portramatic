@@ -2,27 +2,59 @@
   "source": "https://i.imgur.com/j48lfFR.jpeg",
   "md5": "084C938C604B95154984ABD8B0D76753",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "concept",
+    "elf",
+    "portraits",
+    "lord",
+    "rings",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\u5F88\u7626\u5F88\u7626\u7684\u517D\u4EBA",
+    "gui",
+    "yuan",
+    "hunter",
+    "igor",
+    "krstic",
+    "warhammer",
+    "abberation",
+    "alec",
+    "acevedo",
+    "https://www"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -32,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -6,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -16,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,37 @@
     "human",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "lord",
+    "rings",
+    "hobbit",
+    "undertaker"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -100.79999999999973,
     "offset_y": -220.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -25.199999999999818,
     "offset_y": -32.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -4.324074074074815,
     "offset_y": -59.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

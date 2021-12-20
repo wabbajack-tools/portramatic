@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/ef/6e/71/ef6e7191475a04178ac6855a88f4b61e.jpg",
   "md5": "112B7C459488F5FEFEFDF9609C55DAA3",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "fan",
+    "male",
+    "paladin",
+    "warlock",
+    "dungeons",
+    "dragons",
+    "four",
+    "horsemen",
+    "black",
+    "knight",
+    "olivier",
+    "bernard",
+    "iron",
+    "warriors",
+    "stefan",
+    "kopinski"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -309,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -177,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.139999999999998,
     "offset_x": -210,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

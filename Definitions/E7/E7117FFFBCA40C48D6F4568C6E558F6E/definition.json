@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/27/81/7a/27817a67421f46b1d31d5955a0273064.jpg",
   "md5": "E7117FFFBCA40C48D6F4568C6E558F6E",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "concept",
+    "anime",
+    "characters",
+    "avengers",
+    "armors",
+    "heavy",
+    "armor",
+    "knight",
+    "skyrim",
+    "daedric",
+    "knights",
+    "dragon",
+    "witcher",
+    "daggerfall",
+    "red",
+    "banner",
+    "aldo",
+    "vicente"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -321,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -164,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9899999999999984,
     "offset_x": -98,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,57 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2F4f%2F0f%2Fd64f0fe4292a4d6b1e11849a5966371a.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd6%2F4f%2F0f%2Fd64f0fe4292a4d6b1e11849a5966371a.jpg\u0026f=1\u0026nofb=1",
   "md5": "F92D739E9E085C4353F0D8924EED86FB",
   "tags": [
-    ""
+    "",
+    "trickster",
+    "characters",
+    "anime",
+    "thief",
+    "boy",
+    "league",
+    "legends",
+    "girl",
+    "world",
+    "warcraft",
+    "rogue",
+    "angel",
+    "apex",
+    "nemesis",
+    "frag",
+    "ment",
+    "crypto",
+    "revenant",
+    "blood",
+    "magic",
+    "fredrick",
+    "runtu",
+    "alucard",
+    "viscount",
+    "lasso",
+    "mobile"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -712,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -91,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -74,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

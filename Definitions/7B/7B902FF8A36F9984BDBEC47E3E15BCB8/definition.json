@@ -6,27 +6,51 @@
     "icequeen",
     "ice",
     "queen",
-    "concept"
+    "concept",
+    "crystal",
+    "maidens",
+    "all",
+    "maiden",
+    "arcana",
+    "dota",
+    "fan",
+    "league",
+    "legends",
+    "jace",
+    "beleren",
+    "nick",
+    "gaul",
+    "2020",
+    "wintermark",
+    "wojtek",
+    "depczy\u0144ski",
+    "elsa",
+    "frozen",
+    "jojo",
+    "wong"
   ],
   "small": {
     "scale": 1.26,
     "offset_x": -204,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -44,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -54,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,62 @@
     "sonya",
     "#1",
     "kyu",
-    "yong"
+    "yong",
+    "tribal",
+    "warrior",
+    "tattoos",
+    "drawings",
+    "celtic",
+    "women",
+    "dragon",
+    "age",
+    "origins",
+    "wood",
+    "elf",
+    "dawn",
+    "war",
+    "high",
+    "female",
+    "assassin",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "sandals",
+    "halberdier",
+    "jackie",
+    "felix",
+    "ayla",
+    "artur",
+    "m\u00F3sca",
+    "leszek",
+    "wo\u017Aniak"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -462,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -173,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -104,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

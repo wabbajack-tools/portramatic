@@ -5,27 +5,43 @@
     "halfling",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "dragon",
+    "age",
+    "elf",
+    "dalish",
+    "elves",
+    "city",
+    "sarah",
+    "louise",
+    "kerrigan",
+    "\u55B5\u8A00",
+    "\u5B89\u6696",
+    "\uC2B5\uC791",
+    "wan"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -182,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -4,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

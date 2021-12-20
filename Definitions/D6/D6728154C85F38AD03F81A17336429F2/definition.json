@@ -6,25 +6,47 @@
     "art",
     "angel",
     "archangel",
-    ""
+    "",
+    "league",
+    "legends",
+    "has",
+    "lich",
+    "king",
+    "4",
+    "chen",
+    "long",
+    "demon",
+    "sage",
+    "kent",
+    "davis",
+    "hire",
+    "frozen",
+    "ninja",
+    "guilherme",
+    "nakashima"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -176.80000000000032,
     "offset_y": -29.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -83.80000000000007,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -125.33333333333303,
     "offset_y": -25.629629629629903,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

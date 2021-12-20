@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/originals/f4/48/d2/f448d2abf324c149d9b8e5281d3c5021.jpg",
   "md5": "54C4CF83AAA4101657F2219210678FE5",
   "tags": [
-    ""
+    "",
+    "lady",
+    "skull",
+    "drawings",
+    "tattoos",
+    "svg",
+    "seny",
+    "portraiture",
+    "kenny",
+    "cho",
+    "omu",
+    "upied",
+    "https://www.artstation.com/artwork/o30ro",
+    "warcraft",
+    "pixel",
+    "style",
+    "try\uFF1A2020/01/14",
+    "rex",
+    "cat"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

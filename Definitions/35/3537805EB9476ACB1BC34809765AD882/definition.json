@@ -2,27 +2,38 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f8/Calix-Destinys-Hand.jpg/revision/latest?cb=20200806024638",
   "md5": "3537805EB9476ACB1BC34809765AD882",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "calix",
+    "destiny\u0027s",
+    "hand",
+    "hands",
+    "change",
+    "destiny",
+    "wallpaper"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -547.9999999999995,
     "offset_y": -176.79999999999987,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -448.0000000000001,
     "offset_y": -164,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -190.6203703703702,
     "offset_y": -132.9537037037037,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

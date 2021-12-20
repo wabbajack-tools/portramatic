@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/02/dc/82/02dc82825d1d831d008fbfd071452c1b.jpg",
   "md5": "2673FE643C5A89CE293DEC4D2D039D73",
   "tags": [
-    ""
+    "",
+    "character",
+    "male",
+    "warrior",
+    "tribal",
+    "drawings",
+    "african",
+    "concept",
+    "viking",
+    "hunter",
+    "tyler",
+    "ryan",
+    "hunters",
+    "characters",
+    "fan",
+    "ner\u0027zhul",
+    "tony",
+    "sart",
+    "warcraft",
+    "world",
+    "venom",
+    "miguel",
+    "hernandez",
+    "urbina",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -239,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -128,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -38,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

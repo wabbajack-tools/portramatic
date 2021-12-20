@@ -5,27 +5,56 @@
     "human",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "victorian",
+    "dolls",
+    "princess",
+    "leia",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "009",
+    "eunsil",
+    "song",
+    "concept",
+    "characters",
+    "legend",
+    "king",
+    "arthur",
+    "challenge",
+    "zhengyi",
+    "\u5434\u835F\u680B\u4F5C\u4E1A\u5B8C\u6210\u56FE",
+    "\u7FFC\u6B21\u65B9",
+    "cg",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -572,
     "offset_y": -316,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -202,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -174,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.WdV7EEtbZ5iRyWjqXdIFIQHaFP%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.WdV7EEtbZ5iRyWjqXdIFIQHaFP%26pid%3DApi\u0026f=1",
   "md5": "C51E83634E76A74856DB428F9319CB31",
   "tags": [
     "human",
@@ -16,27 +16,52 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "male",
+    "elf",
+    "hair",
+    "white",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "elementalist",
+    "lux",
+    "promo",
+    "suke",
+    "\u2237",
+    "league",
+    "hey",
+    "gin",
+    "mumu",
+    "final",
+    "aerith"
   ],
   "small": {
     "scale": 0.8700000000000001,
     "offset_x": -13.111111111110475,
     "offset_y": -30.222222222222257,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -24.444444444444628,
-    "offset_y": -1.4210854715202004e-13,
-    "size": "medium"
+    "offset_y": -1.4210854715202004E-13,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 3.069999999999978,
     "offset_x": -64.07883461868096,
     "offset_y": 0.00171379605922084,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

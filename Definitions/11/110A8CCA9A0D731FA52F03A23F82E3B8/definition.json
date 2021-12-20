@@ -5,27 +5,51 @@
     "lord",
     "rings",
     "aragorn",
-    "tavern"
+    "tavern",
+    "anime",
+    "men",
+    "surreal",
+    "girl",
+    "black",
+    "grey",
+    "illuminatic.",
+    "aney",
+    "sieko",
+    "https://www.artstation.com/artwork/w2dg0g",
+    "artwork",
+    "newbie",
+    "explorer",
+    "elf",
+    "chan",
+    "\u753B\u72C2\u5C11\u5973",
+    "manji",
+    "https://www.artstation.com/artwork/ao3qy",
+    "cat",
+    "bathara",
+    "putra"
   ],
   "small": {
     "scale": 0.18999999999999928,
     "offset_x": -128.6000000000007,
     "offset_y": -65.20000000000095,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -0.7999999999999545,
     "offset_y": -35.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -6.407407407407845,
     "offset_y": -50.833333333333485,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

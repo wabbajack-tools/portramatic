@@ -4,27 +4,64 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "assassin\u0027s",
+    "creed",
+    "modern",
+    "armor",
+    "assassin",
+    "concept",
+    "ac",
+    "valhalla",
+    "wallpaper",
+    "knight",
+    "runescape",
+    "necromancer",
+    "power",
+    "dragon",
+    "daedric",
+    "path",
+    "exile",
+    "basilisk",
+    "yong",
+    "yi",
+    "lee",
+    "2020",
+    "artwork",
+    "samurai",
+    "vinayak",
+    "s",
+    "station",
+    "aion",
+    "5.5_ancient",
+    "farusha\u0027s",
+    "juyoung",
+    "ha",
+    "untitle",
+    "character"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -1433,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -1303,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -1974,
     "offset_y": -182,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://cg3.cgsociety.org/uploads/images/large/choimyunghyun-knight01-1-7b69570b-kani.jpg",
   "md5": "26EC6E348B3AEFA72187D35CC66C49C1",
   "tags": [
-    "HELL KNIGHT"
+    "HELL KNIGHT",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "artwork",
+    "conan",
+    "barbarian",
+    "robin",
+    "hood",
+    "prince",
+    "thieves",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "jeoung",
+    "jh",
+    "women",
+    "berserker",
+    "jun",
+    "seon",
+    "baek",
+    "https://www.artstation.com/artwork/ax3aq",
+    "test_shot",
+    "sanghoon",
+    "cho"
   ],
   "small": {
     "scale": 1,
     "offset_x": 20,
     "offset_y": 3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 1,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 4,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

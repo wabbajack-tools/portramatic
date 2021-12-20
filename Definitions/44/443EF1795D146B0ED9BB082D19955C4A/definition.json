@@ -2,27 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a8b89eb-212e-48ac-b1d8-0554cbe12ff1/dc4fuyl-9e7afe79-5c64-40fc-a250-e668e4291e67.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhOGI4OWViLTIxMmUtNDhhYy1iMWQ4LTA1NTRjYmUxMmZmMVwvZGM0ZnV5bC05ZTdhZmU3OS01YzY0LTQwZmMtYTI1MC1lNjY4ZTQyOTFlNjcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HY_Dow7zEDcQEnN39i-JycNA5tmoECSIZqZ_lAD-CW0",
   "md5": "443EF1795D146B0ED9BB082D19955C4A",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "girl",
+    "movie",
+    "sword",
+    "woman",
+    "female",
+    "with",
+    "kali",
+    "fanart",
+    "smite.",
+    "found",
+    "#artstation",
+    "smite"
   ],
   "small": {
     "scale": 0.18999999999999928,
     "offset_x": -144,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999932,
     "offset_x": -115,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -222,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

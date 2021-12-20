@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/98/86/ef/9886efae0e9137366a19d52ab2c244c4.jpg",
   "md5": "62B1C4CFB98C3ED67D08AD0185050008",
   "tags": [
-    "Tiefling 1"
+    "Tiefling 1",
+    "disney",
+    "maleficent",
+    "big",
+    "wings",
+    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "overflow",
+    "eve",
+    "blum",
+    "oracle.",
+    "ma\u00E9na",
+    "paillet"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -177,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -125,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -56,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

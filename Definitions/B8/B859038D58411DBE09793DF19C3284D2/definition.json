@@ -2,25 +2,45 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/020/570/580/large/leandro-xavier-warrior-concept-high.jpg?1568292889",
   "md5": "B859038D58411DBE09793DF19C3284D2",
   "tags": [
-    ""
+    "",
+    "albert",
+    "einstein",
+    "relief",
+    "\u043C\u0430\u043A\u0441\u0438\u043C",
+    "\u0441\u0430\u0440\u0434\u0443\u0448\u043A\u0438\u043D",
+    "3d",
+    "steel",
+    "inquisitor",
+    "shiraz",
+    "domingo",
+    "cirila",
+    "sculpting",
+    "timelapse",
+    "ismael",
+    "fuentes"
   ],
   "small": {
     "scale": 0.22999999999999937,
     "offset_x": -17,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

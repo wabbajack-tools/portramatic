@@ -4,27 +4,47 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "undying",
+    "dota",
+    "warlock",
+    "war",
+    "cleric",
+    "lucky",
+    "find",
+    "danila",
+    "kalinin",
+    "crusader",
+    "concept",
+    "don",
+    "jermaine",
+    "dragon",
+    "prophet-suit-sorcerer",
+    "jefea",
+    "zero"
   ],
   "small": {
     "scale": 0.5800000000000003,
     "offset_x": -412,
     "offset_y": -281,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.58,
     "offset_x": -277,
     "offset_y": -155,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -52,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

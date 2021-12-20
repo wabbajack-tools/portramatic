@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/736x/8a/c8/fa/8ac8fa2ac3fc6dbc91f39f2e545951bf--character-ideas-character-design.jpg",
   "md5": "5FB259EE04CB6A43174B8F09AFD347BC",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "race",
+    "dungeons",
+    "dragons",
+    "warriors",
+    "condemned",
+    "brute",
+    "pascal",
+    "quidault",
+    "zoroth",
+    "remastered",
+    "jacob",
+    "ortman",
+    "concept",
+    "random",
+    "character",
+    "concepts",
+    "phroilan",
+    "gardner"
   ],
   "small": {
     "scale": 1.7000000000000006,
     "offset_x": -549,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5400000000000005,
     "offset_x": -423,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.790000000000002,
     "offset_x": -296,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

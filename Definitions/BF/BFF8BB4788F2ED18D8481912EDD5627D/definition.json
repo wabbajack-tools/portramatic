@@ -9,27 +9,64 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "legend",
+    "cryptids",
+    "card",
+    "female",
+    "elf",
+    "amarie",
+    "pirate",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "diana",
+    "wonder",
+    "woman",
+    "worst",
+    "nightmare",
+    "dc",
+    "fanart",
+    "series",
+    "royy",
+    "_ledger",
+    "dungeon",
+    "fighter",
+    "fan",
+    "garam",
+    "song",
+    "lose",
+    "azora",
+    "studio"
   ],
   "small": {
     "scale": 1.9500000000000008,
     "offset_x": -327,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2400000000000002,
     "offset_x": -96,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0399999999999996,
     "offset_x": -118,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

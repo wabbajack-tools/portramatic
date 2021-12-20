@@ -5,27 +5,39 @@
     "female",
     "human",
     "warrior",
-    "priest"
+    "priest",
+    "fate",
+    "stay",
+    "joan",
+    "arc",
+    "night",
+    "apocrypha",
+    "ruler",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -175,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -109,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -76,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

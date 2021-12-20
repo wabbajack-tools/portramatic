@@ -2,27 +2,54 @@
   "source": "https://static.wikia.nocookie.net/gotrp/images/6/65/Hal.jpg/revision/latest?cb=20201208163458",
   "md5": "57095F150951749AE460BB7188605802",
   "tags": [
-    ""
+    "",
+    "kingdom",
+    "come",
+    "deliverance",
+    "sword",
+    "gameplay",
+    "hairstyles",
+    "samurai",
+    "warriors",
+    "hobbit",
+    "dwarf",
+    "liu",
+    "pengcheng",
+    "inspiration",
+    "old",
+    "work",
+    "for",
+    "fantasica",
+    "card",
+    "game",
+    "dwarven",
+    "warrior",
+    "mad",
+    "1984",
+    "https://www"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -107.33333333333334,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -18.666666666666742,
     "offset_y": -1.3333333333331439,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

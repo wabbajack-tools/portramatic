@@ -6,27 +6,35 @@
     "male",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "hololive",
+    "anime",
+    "pekora",
+    "fan",
+    "manga"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -357.7999999999997,
     "offset_y": -72.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -179.19999999999982,
     "offset_y": -1.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -22.324074074074815,
     "offset_y": -1.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

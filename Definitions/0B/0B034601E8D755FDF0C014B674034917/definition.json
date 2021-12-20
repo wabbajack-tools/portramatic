@@ -2,25 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5a5e9f48-7017-4b29-b223-a994045f96dc/ddrdoi5-daf2d6ad-6c25-497a-ac49-ca24a531ae06.jpg/v1/fill/w_600,h_862,q_75,strp/gale_by_gerryarthur_ddrdoi5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYyIiwicGF0aCI6IlwvZlwvNWE1ZTlmNDgtNzAxNy00YjI5LWIyMjMtYTk5NDA0NWY5NmRjXC9kZHJkb2k1LWRhZjJkNmFkLTZjMjUtNDk3YS1hYzQ5LWNhMjRhNTMxYWUwNi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LOanESsyIW4FLEC5bXiXzQPwKrwqYgSaZ0g9VD09xWQ",
   "md5": "0B034601E8D755FDF0C014B674034917",
   "tags": [
-    ""
+    "",
+    "baldur\u0027s",
+    "gate",
+    "elf",
+    "portraits",
+    "thief",
+    "facial",
+    "hair"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -20,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -11,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -26,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

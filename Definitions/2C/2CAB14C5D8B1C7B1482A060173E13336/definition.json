@@ -2,27 +2,55 @@
   "source": "https://static.wikia.nocookie.net/elderdragonsaga/images/6/6d/Gerald.jpg/revision/latest/scale-to-width-down/826?cb=20180606011636",
   "md5": "2CAB14C5D8B1C7B1482A060173E13336",
   "tags": [
-    ""
+    "",
+    "witch",
+    "hunter",
+    "artwork",
+    "steampunk",
+    "anime",
+    "orc",
+    "warrior",
+    "dark",
+    "knight",
+    "conan",
+    "barbarian",
+    "skyrim",
+    "https://www.artstation.com/artwork/18wmeq",
+    "skull",
+    "\u0022the",
+    "abyss",
+    "watchers\u0022",
+    "zoewings",
+    "zhang",
+    "\u5173\u7FBD",
+    "\u8BA8\u8463\u65F6\u671F",
+    "guan",
+    "yu",
+    "xiao",
+    "sun"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -727,
     "offset_y": -157,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -316,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -340,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

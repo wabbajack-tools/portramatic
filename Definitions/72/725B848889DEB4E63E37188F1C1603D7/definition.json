@@ -33,27 +33,34 @@
     "asik",
     "2021",
     "female",
-    "warrior"
+    "warrior",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -253.99999999999704,
     "offset_y": 0.6666666666517926,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -138.66666666666652,
     "offset_y": -2.3333333333412156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": 5.666666666666515,
     "offset_y": 7.333333333333144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

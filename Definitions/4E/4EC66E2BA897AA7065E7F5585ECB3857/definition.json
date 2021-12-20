@@ -4,27 +4,50 @@
   "tags": [
     "Barbarian",
     "Human",
-    "Male"
+    "Male",
+    "frank",
+    "frazetta",
+    "artwork",
+    "museum",
+    "conan",
+    "barbarian",
+    "vikings",
+    "mines",
+    "behemoth",
+    "stanislav",
+    "dikolenko",
+    "2021",
+    "character",
+    "fictional",
+    "erebos",
+    "radv",
+    "diego",
+    "peres",
+    "insta",
+    "@diegoaperes"
   ],
   "small": {
     "scale": 1,
     "offset_x": -303,
     "offset_y": -187,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -223,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -36,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

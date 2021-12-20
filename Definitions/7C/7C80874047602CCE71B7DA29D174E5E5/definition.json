@@ -4,27 +4,55 @@
   "tags": [
     "tiefling",
     "female",
-    "warrior"
+    "warrior",
+    "los",
+    "angeles",
+    "street",
+    "painting",
+    "gallery",
+    "night",
+    "elf",
+    "demon",
+    "hunter",
+    "dungeons",
+    "dragons",
+    "clash",
+    "titans",
+    "girl",
+    "sangkyu",
+    "bang",
+    "forneus",
+    "duong",
+    "ct",
+    "character",
+    "concept",
+    "characters",
+    "dante_reg",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -361.5,
     "offset_y": -311,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999994,
     "offset_x": -209.5,
     "offset_y": -158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999994,
     "offset_x": -27,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

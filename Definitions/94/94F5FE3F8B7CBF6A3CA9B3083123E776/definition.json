@@ -11,25 +11,59 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "ancient",
+    "greece",
+    "spartan",
+    "warriors",
+    "armor",
+    "roman",
+    "warrior",
+    "greek",
+    "woman",
+    "armors",
+    "female",
+    "assassin",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "maiden",
+    "dima",
+    "rozhdestvensky",
+    "ginny",
+    "weasley",
+    "alea",
+    "amandine",
+    "lefevre",
+    "man",
+    "a",
+    "jina",
+    "lee"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -473,
     "offset_y": -182,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -178,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -50,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

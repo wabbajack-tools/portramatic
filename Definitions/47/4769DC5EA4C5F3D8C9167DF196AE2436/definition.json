@@ -4,27 +4,39 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "alexander",
+    "station",
+    "apartments",
+    "gilroy",
+    "apartment",
+    "95020",
+    "lord",
+    "rings",
+    "witcher"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -149,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -95,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999998,
     "offset_x": -142,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

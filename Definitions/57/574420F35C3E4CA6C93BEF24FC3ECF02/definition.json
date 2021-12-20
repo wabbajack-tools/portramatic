@@ -12,29 +12,41 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "eve",
+    "artist",
+    "female",
+    "ventrue",
+    "vampire",
+    "lord",
+    "rings",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -220,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -86,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -50,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

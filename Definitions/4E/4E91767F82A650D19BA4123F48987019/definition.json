@@ -4,27 +4,62 @@
   "tags": [
     "knight",
     "with",
-    "beard"
+    "beard",
+    "viking",
+    "warrior",
+    "hair",
+    "men",
+    "long",
+    "male",
+    "lord",
+    "rings",
+    "two",
+    "towers",
+    "gandalf",
+    "another",
+    "character",
+    "yana",
+    "vaseva",
+    "ideias",
+    "para",
+    "personagens",
+    "old",
+    "work",
+    "for",
+    "fantasica",
+    "card",
+    "game",
+    "yutthaphong",
+    "kaewsuk",
+    "design",
+    "fermat",
+    "desiring",
+    "humanity",
+    "justice",
+    "wong"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -474,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4000000000000004,
     "offset_x": -408,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7699999999999991,
     "offset_x": -420,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

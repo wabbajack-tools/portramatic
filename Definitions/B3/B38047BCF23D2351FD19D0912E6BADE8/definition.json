@@ -4,27 +4,56 @@
   "tags": [
     "elf",
     "female",
-    "rogue"
+    "rogue",
+    "geralt",
+    "gwent",
+    "card",
+    "ciri",
+    "roach",
+    "lost",
+    "world",
+    "jurassic",
+    "park",
+    "witcher",
+    "bionicle",
+    "tribute",
+    "toa",
+    "onua",
+    "paola",
+    "giari",
+    "https://www.artstation.com/artwork/qpzmn",
+    "concept",
+    "40k",
+    "space",
+    "wolves",
+    "blood",
+    "claw",
+    "l",
+    "j",
+    "koh"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -433.7999999999997,
     "offset_y": -165.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -357.19999999999976,
     "offset_y": -144.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -118.32407407407482,
     "offset_y": -47.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/originals/36/ef/bb/36efbb73da6a5980f950cdd014c72888.jpg",
   "md5": "DB7C6031AF485198BF6DFB56821F9E62",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "concept",
+    "male",
+    "character",
+    "portraits",
+    "rise",
+    "guardians",
+    "scarlet",
+    "witch",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "hunter",
+    "z",
+    "fei",
+    "geng",
+    "ancient",
+    "goddess",
+    "leote",
+    "dur\u00E1n",
+    "https://www.artstation.com/artwork/6alm5n",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "triss",
+    "merigold",
+    "witcher"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -98,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -111,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -70,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

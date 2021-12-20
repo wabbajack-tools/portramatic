@@ -3,27 +3,54 @@
   "md5": "5A81D7DBDC1EC1C2EA3722E3066E8216",
   "tags": [
     "undead",
-    "female. dancer"
+    "female. dancer",
+    "female",
+    "vampire",
+    "drawings",
+    "victorian",
+    "ancient",
+    "anime",
+    "guys",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "ariadne",
+    "cecilia",
+    "g.f.",
+    "high",
+    "elf",
+    "elisabeth",
+    "aarebrot",
+    "madsen",
+    "dolores",
+    "disassambled",
+    "oliver",
+    "wetter"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -355,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -164,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -148,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

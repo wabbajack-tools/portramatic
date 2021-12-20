@@ -2,27 +2,58 @@
   "source": "https://gamepedia.cursecdn.com/hearthstone_gamepedia/thumb/5/5a/Emperor_Thaurissan_full.jpg/450px-Emperor_Thaurissan_full.jpg?version=c379133f8956eac1d848667772ddb452",
   "md5": "36D14E499F661B71ED36A44D78FD37A2",
   "tags": [
-    ""
+    "",
+    "wow",
+    "dark",
+    "iron",
+    "dwarf",
+    "paladin",
+    "marvel",
+    "heroes",
+    "comics",
+    "transformers",
+    "moon",
+    "zombies",
+    "avengers",
+    "guardians",
+    "galaxy",
+    "ghost",
+    "rider",
+    "spirit",
+    "vengeance",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "game",
+    "thrones",
+    "#shavrin",
+    "ivan",
+    "shavrin",
+    "fanart"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -248,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -101,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7500000000000007,
     "offset_x": -6,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

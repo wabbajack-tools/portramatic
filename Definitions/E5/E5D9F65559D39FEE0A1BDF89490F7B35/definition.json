@@ -5,27 +5,47 @@
     "female",
     "aldori swordsman",
     "human",
-    "mtg"
+    "mtg",
+    "thalia",
+    "magic",
+    "gathering",
+    "raiden",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "zorro",
+    "action",
+    "figure",
+    "card",
+    "ty",
+    "romsa"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -638,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -426,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -698,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

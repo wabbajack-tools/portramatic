@@ -5,27 +5,56 @@
     "axe",
     "half",
     "orc",
-    "barbarian"
+    "barbarian",
+    "half-orcs",
+    "cute",
+    "male",
+    "half-elves",
+    "female",
+    "character",
+    "night",
+    "elf",
+    "black",
+    "knight",
+    "concepts",
+    "for",
+    "great",
+    "grimoire",
+    "konstantin",
+    "porubov",
+    "https://www.artstation.com",
+    "\u0027n",
+    "battle",
+    "jason",
+    "rumpff",
+    "druid",
+    "spores",
+    "anna",
+    "ben",
+    "david"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -47.86666666666612,
     "offset_y": -4.533333333333303,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9399999999999995,
     "offset_x": -37.86666666666656,
     "offset_y": -6.4666666666668675,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.310000000000002,
     "offset_x": -8.694444444444343,
     "offset_y": -9.314814814814099,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

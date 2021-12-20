@@ -6,27 +6,45 @@
     "icequeen",
     "ice",
     "queen",
-    "concept"
+    "concept",
+    "male",
+    "fairy",
+    "wings",
+    "boy",
+    "steampunk",
+    "angel",
+    "prince",
+    "persia",
+    "warrior",
+    "within",
+    "night",
+    "elf",
+    "doodle",
+    "meghan",
+    "hetrick"
   ],
   "small": {
     "scale": 0.3656666666666666,
     "offset_x": -182,
     "offset_y": -385,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2674999999999999,
     "offset_x": -61,
     "offset_y": -277,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3388333333333336,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

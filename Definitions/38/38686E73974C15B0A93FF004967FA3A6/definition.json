@@ -29,27 +29,47 @@
     "tom",
     "bruck",
     "https://www.artstation.com/artwork/loja5",
-    "creature"
+    "creature",
+    "plague",
+    "doctor",
+    "artwork",
+    "halloween",
+    "costume",
+    "suit",
+    "demon",
+    "hunter",
+    "zelda",
+    "gonzo",
+    "journey",
+    "thoth",
+    "alexander",
+    "puchkov",
+    "gatekeeper",
+    "emmanuel",
+    "julian"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -200,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -111,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -26,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

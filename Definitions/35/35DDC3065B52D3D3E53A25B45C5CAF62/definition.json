@@ -6,27 +6,44 @@
     "female",
     "princess",
     "warrior",
-    "dancer"
+    "dancer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "bra",
+    "dart",
+    "sniper",
+    "j_rony",
+    "2021",
+    "anime",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.2100000000000004,
     "offset_x": -813,
     "offset_y": -175,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7812499999999996,
     "offset_x": -416,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03025,
     "offset_x": -450,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

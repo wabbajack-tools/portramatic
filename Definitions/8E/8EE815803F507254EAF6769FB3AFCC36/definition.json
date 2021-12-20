@@ -6,27 +6,64 @@
     "female",
     "mage",
     "priest",
-    "princess"
+    "princess",
+    "nina",
+    "hagen",
+    "daughter",
+    "beautiful",
+    "scandal",
+    "assassin",
+    "dark",
+    "orc",
+    "warrior",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "wizard",
+    "ji",
+    "ho",
+    "song",
+    "girl",
+    "character",
+    "design",
+    "artwork",
+    "shooter",
+    "hopeless",
+    "belov",
+    "pavel",
+    "ancient",
+    "warriors",
+    "armor",
+    "wilde",
+    "hund",
+    "bom",
+    "yeon"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -769,
     "offset_y": -596,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -478,
     "offset_y": -408,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -260,
     "offset_y": -246,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

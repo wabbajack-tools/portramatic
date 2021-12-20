@@ -24,27 +24,52 @@
     "eagle",
     "knight",
     "daniel",
-    "kim"
+    "kim",
+    "wow",
+    "iron",
+    "world",
+    "warcraft",
+    "rogue",
+    "spider-man",
+    "league",
+    "legends",
+    "vampire",
+    "ruslan",
+    "svobodin",
+    "winter",
+    "nord",
+    "warrior",
+    "samuel",
+    "smith",
+    "samo94",
+    "jjahawa",
+    "ue4",
+    "project",
+    "haitham",
+    "zaki"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -223.99999999999477,
     "offset_y": -49.33333333334832,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -36.99999999999994,
     "offset_y": -21.6666666666749,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": 0.33333333333246173,
     "offset_y": -3.333333333334508,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/a4/44/4e/a4444e362382783b8074774e5a62dd13.jpg",
   "md5": "DA043B716B48D838D3ECE0A05D141454",
   "tags": [
-    "222"
+    "222",
+    "medieval",
+    "knight",
+    "figures",
+    "french",
+    "knights",
+    "templar",
+    "illustration",
+    "armors",
+    "power",
+    "armor",
+    "warhammer",
+    "40k",
+    "plate",
+    "wandering",
+    "https://www.artstation.com/p/3x0xj",
+    "lineage",
+    "copy",
+    "cuber",
+    "lee",
+    "mole",
+    "wang",
+    "vintage",
+    "moon",
+    "rpg",
+    "character",
+    "artwork"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -161,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -3,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -1,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

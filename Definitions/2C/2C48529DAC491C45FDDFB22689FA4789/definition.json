@@ -2,27 +2,57 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921415363206475856/guerriera_coraggiosa_con_mazza.jpg",
   "md5": "2C48529DAC491C45FDDFB22689FA4789",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "warrior",
+    "woman",
+    "costume",
+    "nordic",
+    "irish",
+    "female",
+    "pirate",
+    "skyrim",
+    "knights",
+    "steampunk",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "assassin\u0027s",
+    "creed",
+    "qi",
+    "wang",
+    "https://www",
+    "jovi",
+    "scarlet",
+    "cecilia",
+    "g.f.",
+    "chiken",
+    "svetlana",
+    "kostina"
   ],
   "small": {
     "scale": 1.5300000000000005,
     "offset_x": -368,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -173,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -4,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

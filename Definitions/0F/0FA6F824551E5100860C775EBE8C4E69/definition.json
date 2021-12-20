@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/63/57/fa/6357fa6703775b165e739a1c6a1d0899.jpg",
   "md5": "0FA6F824551E5100860C775EBE8C4E69",
   "tags": [
-    "female"
+    "female",
+    "women",
+    "portraits",
+    "oil",
+    "paintings",
+    "most",
+    "beautiful",
+    "lady",
+    "painting",
+    "pirates",
+    "caribbean",
+    "stranger",
+    "tides",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -13,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -6,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -39,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,42 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "ruan",
+    "jia",
+    "artist",
+    "2d",
+    "concept",
+    "sketches",
+    "geisha",
+    "dolls",
+    "indian",
+    "dance",
+    "traditional",
+    "clothing"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -381,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.40999999999999925,
     "offset_x": -171,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48933333333333295,
     "offset_x": -20,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

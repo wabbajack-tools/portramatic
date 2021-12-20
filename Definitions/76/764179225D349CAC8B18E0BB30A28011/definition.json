@@ -2,7 +2,7 @@
   "source": "https://cdn.donmai.us/original/76/41/__original_drawn_by_haoyuan__764179225d349cac8b18e0bb30a28011.jpg",
   "md5": "764179225D349CAC8B18E0BB30A28011",
   "tags": [
-    "howl's",
+    "howl\u0027s",
     "moving",
     "castle",
     "anime",
@@ -16,7 +16,7 @@
     "jason",
     "nguyen",
     "digital",
-    "&",
+    "\u0026",
     "concepts",
     "pinterest",
     "armor",
@@ -27,27 +27,54 @@
     "hu",
     "https://www.artstation.com/artwork/a2vrk",
     "#art",
-    "#"
+    "#",
+    "fairy",
+    "tale",
+    "animals",
+    "witches",
+    "game",
+    "drawings",
+    "pora",
+    "palmata(deep",
+    "sea",
+    "creature",
+    "patrick",
+    "yeung",
+    "https://www.artstation.com",
+    "junda",
+    "fan",
+    "women",
+    "character",
+    "design",
+    "hela",
+    "denis",
+    "ulianov",
+    "arte",
+    "vikingo",
+    "personajes"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -489,
     "offset_y": -198,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -341,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -46,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://www.heroesfire.com/images/hero/portrait/auriel.png",
   "md5": "5F1AB4ECE1F3B27E245460ED4CB32B9B",
   "tags": [
-    ""
+    "",
+    "alexstrasza",
+    "heroes",
+    "storm",
+    "sylvanas",
+    "hots",
+    "build",
+    "queen",
+    "guardians",
+    "galaxy",
+    "samurai",
+    "yao",
+    "wang",
+    "shirotech",
+    "rayne",
+    "benjamin",
+    "mageknight",
+    "tierra",
+    "shawn",
+    "nunn"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -158,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3900000000000003,
     "offset_x": -73,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.229999999999996,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

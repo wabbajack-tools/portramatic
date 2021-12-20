@@ -2,27 +2,36 @@
   "source": "https://i.imgur.com/WQcgHSE.jpeg",
   "md5": "DB7796C398486BEE82FC69D1FC1BE0EB",
   "tags": [
-    ""
+    "",
+    "vintage",
+    "illustration",
+    "deco",
+    "cards",
+    "drawing",
+    "moon"
   ],
   "small": {
     "scale": 2.1999999999999966,
     "offset_x": -447,
     "offset_y": -210,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8300000000000007,
     "offset_x": -276,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -42,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

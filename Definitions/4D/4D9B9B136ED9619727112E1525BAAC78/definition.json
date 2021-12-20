@@ -5,27 +5,35 @@
     "halfling",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "resident",
+    "evil",
+    "7",
+    "walkthrough",
+    "evelyn"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -213,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -53,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -64,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/51/be/2a/51be2a0070ebfd8f2a883f5aaf59d243.jpg",
   "md5": "4430112FB54A932F7391D1AEFD0DD7AD",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "knight",
+    "concept",
+    "knights",
+    "armor",
+    "drawings",
+    "artwork",
+    "samurai",
+    "heavy",
+    "skyrim",
+    "osman",
+    "empire",
+    "sunwoo",
+    "lee",
+    "rival",
+    "red",
+    "b",
+    "ge",
+    "historical",
+    "achilles",
+    "nathaniel",
+    "lamartina",
+    "2020"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -308,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -170,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9899999999999984,
     "offset_x": -134,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

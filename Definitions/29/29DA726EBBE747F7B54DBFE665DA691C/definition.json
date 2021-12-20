@@ -1,28 +1,58 @@
 {
-  "source": "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/27995_177764059032120_1062009497_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=973b4a&_nc_ohc=cdWc6ufPRFAAX9t7u1D&_nc_ht=scontent-msp1-1.xx&oh=cc327fac361da948f6d0c7d0d6b1e59e&oe=61D48504",
+  "source": "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/27995_177764059032120_1062009497_n.jpg?_nc_cat=111\u0026ccb=1-5\u0026_nc_sid=973b4a\u0026_nc_ohc=cdWc6ufPRFAAX9t7u1D\u0026_nc_ht=scontent-msp1-1.xx\u0026oh=cc327fac361da948f6d0c7d0d6b1e59e\u0026oe=61D48504",
   "md5": "29DA726EBBE747F7B54DBFE665DA691C",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "hair",
+    "character",
+    "high",
+    "warrior",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "characters",
+    "legend",
+    "cryptids",
+    "work",
+    "hoy",
+    "ohla",
+    "\u0432\u043E\u0438\u0442\u0435\u043B\u044C\u043D\u0438\u0446\u044B",
+    "\u0444\u044D\u043D\u0442\u0435\u0437\u0438",
+    "\u0440\u0438\u0441\u0443\u043D\u043A\u0438",
+    "\u043B\u0435\u0433\u0435\u043D\u0434\u044B",
+    "knight",
+    "order",
+    "dix",
+    "shou",
+    "design002",
+    "ming",
+    "tong"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -88,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -169,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -122,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

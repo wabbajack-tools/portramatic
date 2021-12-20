@@ -2,27 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/covers/images/028/561/581/medium/maerel-hibadita-sophial-angel-of-love-finish-sampul.jpg?1594824190",
   "md5": "080B92563906DFCB6EB650263A5E4672",
   "tags": [
-    ""
+    "",
+    "hobbit",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "paladin",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "centaur",
+    "luciano",
+    "fleitas",
+    "2020",
+    "races",
+    "characters",
+    "game",
+    "thrones",
+    "daenerys",
+    "cover",
+    "mike",
+    "ratera"
   ],
   "small": {
     "scale": 1,
     "offset_x": -341,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -123,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

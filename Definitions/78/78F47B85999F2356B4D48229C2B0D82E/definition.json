@@ -9,27 +9,59 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "seung-hwan",
+    "oh",
+    "lee",
+    "seung",
+    "shin",
+    "anime",
+    "characters",
+    "female",
+    "pirate",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots",
+    "twins",
+    "shooter",
+    "junq",
+    "jeon",
+    "https://www",
+    "hero",
+    "prophecy",
+    "purple",
+    "moon",
+    "archer",
+    "karina",
+    "khudiakova"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -570,
     "offset_y": -140,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -202,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999991,
     "offset_x": -22,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,27 +10,53 @@
     "edition",
     "polar",
     "legends",
-    "women"
+    "women",
+    "viper",
+    "snake",
+    "wallpaper",
+    "golden",
+    "league",
+    "gabriel",
+    "flawless",
+    "potency",
+    "st.",
+    "cygnus",
+    "https://www.artstation.com/artwork/xm63n",
+    "paladin",
+    "\u0026",
+    "sorcerer",
+    "ivan",
+    "tao",
+    "character",
+    "\u523A\u5BA2",
+    "\u9ED1",
+    "\u5494",
+    "concept",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1.8200000000000007,
     "offset_x": -473,
     "offset_y": -384,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -221,
     "offset_y": -176,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -43,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

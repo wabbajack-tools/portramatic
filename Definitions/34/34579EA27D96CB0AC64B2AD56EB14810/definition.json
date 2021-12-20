@@ -2,27 +2,37 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/043/456/442/large/ibrahem-swaid-pokemon-vamp-08s.jpg?1637312872",
   "md5": "34579EA27D96CB0AC64B2AD56EB14810",
   "tags": [
-    ""
+    "",
+    "yugio",
+    "cammy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -475,
     "offset_y": -341,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -337,
     "offset_y": -301,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -122,
     "offset_y": -262,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

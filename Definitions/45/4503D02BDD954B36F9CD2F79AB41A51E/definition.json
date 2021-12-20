@@ -2,27 +2,33 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e63ded6-5e03-456b-879c-ec1bf4b8ab25/dehkfki-8ec0640a-0e9e-458d-8e07-02f4614877ac.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNjNkZWQ2LTVlMDMtNDU2Yi04NzljLWVjMWJmNGI4YWIyNVwvZGVoa2ZraS04ZWMwNjQwYS0wZTllLTQ1OGQtOGUwNy0wMmY0NjE0ODc3YWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rNlyoGE8n07qr-WjNWlB6CKaggr2meTtvhJ9ExOtHT0",
   "md5": "4503D02BDD954B36F9CD2F79AB41A51E",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "yugio"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -86,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -119,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -60,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

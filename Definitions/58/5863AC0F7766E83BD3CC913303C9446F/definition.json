@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/736x/f4/e9/ed/f4e9ed985f1b02d3d9eb412a5b0bf346--lucas-lima-fantasy-art-women.jpg",
   "md5": "5863AC0F7766E83BD3CC913303C9446F",
   "tags": [
-    ""
+    "",
+    "devil",
+    "concept",
+    "female",
+    "demon",
+    "character",
+    "angel",
+    "parad",
+    "leading",
+    "lyralilla_adv",
+    "svetlana",
+    "tigai",
+    "003",
+    "fariba",
+    "khamseh",
+    "\u5200\u706F\u5C0F\u59D0\u59D0",
+    "\u8D85\u5143\u6C14\u9992\u5934",
+    "steven",
+    "k.n."
   ],
   "small": {
     "scale": 1,
     "offset_x": -176.79999999999998,
     "offset_y": -117.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -145.60000000000002,
     "offset_y": -116.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -16.018518518518476,
     "offset_y": -6.407407407407391,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

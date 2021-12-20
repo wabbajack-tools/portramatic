@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/564x/8b/6d/59/8b6d59f0e19cd30bd7bcb35a30ee5112.jpg",
   "md5": "22FB5C6E640E75E2B4BCCFB9FACB351D",
   "tags": [
-    ""
+    "",
+    "ninja",
+    "warrior",
+    "sword",
+    "concept",
+    "sci-fi",
+    "knight",
+    "armor",
+    "armors",
+    "samurai",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "b-1882",
+    "dimitri",
+    "neron",
+    "2019",
+    "futuristic",
+    "armour",
+    "sci",
+    "fi",
+    "design",
+    "boris",
+    "nikolic",
+    "https://www.artstation.com/artwork/wewel",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "characters"
   ],
   "small": {
     "scale": 2.3799999999999892,
     "offset_x": -223.99999999999915,
     "offset_y": -56.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.1499999999999977,
     "offset_x": -133.59999999999962,
     "offset_y": -44.799999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.5299999999999896,
     "offset_x": 14.416666666666515,
     "offset_y": -64.07407407407402,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

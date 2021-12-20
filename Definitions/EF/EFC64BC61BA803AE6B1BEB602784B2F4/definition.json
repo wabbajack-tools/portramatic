@@ -2,25 +2,62 @@
   "source": "https://i.pinimg.com/564x/8b/3e/e2/8b3ee2fbd3ee2ba56bf82c10daba4e4f.jpg",
   "md5": "EFC64BC61BA803AE6B1BEB602784B2F4",
   "tags": [
-    ""
+    "",
+    "female",
+    "holy",
+    "knight",
+    "armor",
+    "assassin",
+    "medieval",
+    "knights",
+    "black",
+    "assassin\u0027s",
+    "vampire",
+    "manga",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "rahul",
+    "venkatesh\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "character",
+    "design",
+    "2021",
+    "work",
+    "5.11",
+    "yuan",
+    "xin",
+    "https://www.artstation.com/artwork/lwqaa",
+    "dungeons",
+    "vraldravog",
+    "cale",
+    "fortin"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -172.5,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -108.5,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -17,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

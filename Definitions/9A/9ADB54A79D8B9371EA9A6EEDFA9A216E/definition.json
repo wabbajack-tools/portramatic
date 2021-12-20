@@ -2,27 +2,59 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/958/434/large/kilart-choe-heonhwa-test0920-3.jpg?1521771284",
   "md5": "9ADB54A79D8B9371EA9A6EEDFA9A216E",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "rpg",
+    "character",
+    "concept",
+    "zelda",
+    "twilight",
+    "princess",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "teria",
+    "basic",
+    "version",
+    "j.c",
+    "yuan",
+    "queen",
+    "blood",
+    "stone",
+    "chris",
+    "bjors",
+    "dragon",
+    "mother",
+    "hongqi",
+    "zhang",
+    "https://www"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -579,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -99,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -44,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

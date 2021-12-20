@@ -20,30 +20,56 @@
     "laylton",
     "sousa",
     "lana",
-    "\"cave",
-    "entrance\"",
+    "\u0022cave",
+    "entrance\u0022",
     "aleksei",
-    "vinogradov"
+    "vinogradov",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "walking",
+    "dead",
+    "game",
+    "thrones",
+    "2017",
+    "sketches",
+    "02",
+    "alberto",
+    "corzo",
+    "pirates",
+    "caribbean",
+    "5",
+    "concept",
+    "jeff",
+    "portrait_dragon",
+    "monster",
+    "anirban",
+    "saha"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -116.71428571428552,
     "offset_y": -151.57142857142844,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -1.9999999999999432,
     "offset_y": -27.857142857142776,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -28.142857142857565,
     "offset_y": -58.428571428571445,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

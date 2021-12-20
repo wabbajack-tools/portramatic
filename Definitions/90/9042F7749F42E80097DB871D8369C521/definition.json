@@ -13,27 +13,47 @@
     "lee",
     "https://www",
     "swordman",
-    "wildy"
+    "wildy",
+    "male",
+    "warrior",
+    "concept",
+    "rogue",
+    "character",
+    "cyberpunk",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "western",
+    "characters",
+    "javier",
+    "charro"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -475.1999999999996,
     "offset_y": -27.19999999999942,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6097499999999996,
     "offset_x": -501.60000000000036,
     "offset_y": -63.20000000000016,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0044166666666667,
     "offset_x": -717.5999999999997,
     "offset_y": -43.9999999999998,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

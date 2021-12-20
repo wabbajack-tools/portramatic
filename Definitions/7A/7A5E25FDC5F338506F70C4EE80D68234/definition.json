@@ -4,27 +4,50 @@
   "tags": [
     "female",
     "tiefling",
-    "fighter"
+    "fighter",
+    "drow",
+    "elf",
+    "concept",
+    "bard",
+    "rogue",
+    "sheep",
+    "orcs",
+    "\u6EC4",
+    "\u6D3A",
+    "creatures",
+    "for",
+    "alliance",
+    "jeremy",
+    "chong",
+    "world",
+    "dragon",
+    "warrior",
+    "monsters",
+    "breeding",
+    "tree"
   ],
   "small": {
     "scale": 1.7600000000000007,
     "offset_x": -509,
     "offset_y": -229,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -202,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -36,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

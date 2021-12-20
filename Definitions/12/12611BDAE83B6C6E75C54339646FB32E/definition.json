@@ -4,27 +4,42 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "elsa",
+    "from",
+    "frozen",
+    "snow",
+    "queen",
+    "disney",
+    "elsa\u0027s",
+    "\u738B\u8005\u8363\u8000",
+    "\u7504\u59ECzhen",
+    "ji",
+    "en",
+    "jia"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -170,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -88,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -3,
     "offset_y": 1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

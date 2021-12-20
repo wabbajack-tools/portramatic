@@ -2,27 +2,69 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/003/804/906/large/igor-sid-93-3.jpg?1477577110",
   "md5": "1CE492D8C39C745565D39D6DE9035987",
   "tags": [
-    ""
+    "",
+    "star",
+    "wars",
+    "mercenary",
+    "medieval",
+    "mercenaries",
+    "armor",
+    "concept",
+    "female",
+    "assassin",
+    "samurai",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "tatiana",
+    "vetrova\u0027s",
+    "submission",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "character",
+    "\uD83D\uDC49\u00A9",
+    "robert",
+    "mallinson",
+    "\uD83D\uDC48check",
+    "him",
+    "out",
+    "robertmallinson.artstation.com",
+    "\uD83D\uDC4F",
+    "follow",
+    "@dun\u2026",
+    "old",
+    "knight",
+    "wild",
+    "west",
+    "design"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -423,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -173,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -52,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://img.zcool.cn/community/015ccc5c7550a9a801213f26b49218.jpg@1280w_1l_2o_100sh.jpg",
   "md5": "C1F02F9362838AA79E30C74E3295A8C3",
   "tags": [
-    "Aeon"
+    "Aeon",
+    "ninja",
+    "sword",
+    "concept",
+    "shinobi",
+    "assassin",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "dungeons",
+    "dragons",
+    "death",
+    "swordman",
+    "ting",
+    "xu",
+    "character",
+    "design",
+    "gaming",
+    "pinwire",
+    "tinlef",
+    "elharil",
+    "monica",
+    "doss",
+    "warrior",
+    "vadim",
+    "galuza",
+    "https://www"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -277,
     "offset_y": -264,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -50,
     "offset_y": -156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -6,
     "offset_y": -246,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

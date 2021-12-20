@@ -2,27 +2,53 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/000/110/266/large/do-show-3.jpg?1443932138",
   "md5": "E9CC4A79BF9187D956239DFB654B06D9",
   "tags": [
-    ""
+    "",
+    "demon",
+    "warrior",
+    "drawings",
+    "hunter",
+    "concept",
+    "character",
+    "knight",
+    "armor",
+    "heavy",
+    "dragon",
+    "orc",
+    "samurai",
+    "knights",
+    "scourge",
+    "project",
+    "daniele",
+    "santandrea",
+    "tribal",
+    "viking",
+    "tribe",
+    "for",
+    "honor",
+    "warden"
   ],
   "small": {
     "scale": 1,
     "offset_x": -685,
     "offset_y": -270,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -613,
     "offset_y": -320,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -494,
     "offset_y": -226,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

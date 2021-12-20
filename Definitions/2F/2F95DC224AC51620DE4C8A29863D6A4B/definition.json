@@ -5,27 +5,46 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "fate",
+    "grand",
+    "order",
+    "fan",
+    "girl",
+    "cute",
+    "league",
+    "legends",
+    "\u591C\u83BA",
+    "\u5927",
+    "\u5899\u5B50",
+    "reaper",
+    "sergey",
+    "olson",
+    "bewitching",
+    "morgana"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -665.5,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -465.5,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3299166666666669,
     "offset_x": -619,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

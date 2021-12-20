@@ -4,27 +4,45 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "frozen",
+    "elsa",
+    "snow",
+    "queen",
+    "smiling",
+    "disney",
+    "dress",
+    "let",
+    "it",
+    "go",
+    "blue",
+    "hair",
+    "elsa.",
+    "taiss",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -61,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -51,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -3,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

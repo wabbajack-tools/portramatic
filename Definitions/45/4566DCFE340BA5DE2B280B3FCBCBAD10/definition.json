@@ -17,25 +17,54 @@
     "weapon",
     "weaponry",
     "gown",
-    ""
+    "",
+    "grave",
+    "cleric",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "formal_dress",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "morgana",
+    "marvin",
+    "pham",
+    "2018.5.27",
+    "zechao",
+    "lu",
+    "https://www",
+    "may",
+    "li",
+    "ina",
+    "wong"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -229,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -111,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -18,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

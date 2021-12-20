@@ -5,27 +5,40 @@
     "elf",
     "female",
     "princess",
-    "warrior"
+    "warrior",
+    "anime",
+    "girl",
+    "mortuusestautemscitote",
+    "adam",
+    "lutodelle",
+    "zero",
+    "cao",
+    "ke",
+    "2019_nessi",
+    "nessi"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -442,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -799,
     "offset_y": -172,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -496,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

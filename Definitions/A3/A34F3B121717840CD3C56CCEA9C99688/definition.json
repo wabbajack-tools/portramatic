@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/a0/1f/33/a01f33dd2f87c282938ca866a7d4502b.jpg",
   "md5": "A34F3B121717840CD3C56CCEA9C99688",
   "tags": [
-    ""
+    "",
+    "kratos",
+    "god",
+    "armor",
+    "skyrim",
+    "soldier",
+    "league",
+    "legends",
+    "death",
+    "knight",
+    "blood",
+    "dark",
+    "infinite",
+    "coldness",
+    "claudya",
+    "schmidt"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -306,
     "offset_y": -245,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -133,
     "offset_y": -149,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -28,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

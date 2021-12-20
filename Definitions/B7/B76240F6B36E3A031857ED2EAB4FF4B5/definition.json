@@ -1,28 +1,56 @@
 {
-  "source": "https://pbs.twimg.com/media/EXKSNY8XgAASBvn?format=jpg&name=900x900",
+  "source": "https://pbs.twimg.com/media/EXKSNY8XgAASBvn?format=jpg\u0026name=900x900",
   "md5": "B76240F6B36E3A031857ED2EAB4FF4B5",
   "tags": [
-    ""
+    "",
+    "frankenstein",
+    "monster",
+    "woman",
+    "sex",
+    "hot",
+    "rod",
+    "cartoons",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "exercise",
+    "01",
+    "wang",
+    "hao",
+    "character",
+    "beastmaster",
+    "josh",
+    "corpuz",
+    "artstation.",
+    "dungeons"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -243,
     "offset_y": -180,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -191,
     "offset_y": -192,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -186,
     "offset_y": -262,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

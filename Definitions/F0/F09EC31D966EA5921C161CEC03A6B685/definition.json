@@ -29,27 +29,46 @@
     "tom",
     "bruck",
     "https://www.artstation.com/artwork/loja5",
-    "creature"
+    "creature",
+    "armor",
+    "concept",
+    "evil",
+    "anime",
+    "castlevania",
+    "symphony",
+    "royal",
+    "griffin",
+    "david",
+    "simons",
+    "character",
+    "design",
+    "warrior\u0027s",
+    "darkening#2",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -133,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -78,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -70,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

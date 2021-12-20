@@ -8,25 +8,49 @@
     "face",
     "samurai",
     "dwarf",
-    "badass"
+    "badass",
+    "dragon",
+    "age",
+    "female",
+    "dwarves",
+    "armor",
+    "concept",
+    "lord",
+    "rings",
+    "paladin",
+    "hobbit",
+    "obry",
+    "superman",
+    "instant",
+    "ip",
+    "scoia\u0027tael",
+    "servia",
+    "d.",
+    "scoia",
+    "tael"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -186,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -94,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9600000000000009,
     "offset_x": -80,
     "offset_y": -99,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

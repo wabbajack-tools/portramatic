@@ -8,27 +8,43 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "grenzo",
+    "thrasios",
+    "athreos",
+    "league",
+    "legends",
+    "\u54C8\u8FEA\u65AF",
+    "\u8461\u8404",
+    "\u83CC",
+    "porter",
+    "\u7B2C\u4E94\u671F\u7CBE\u54C1\u73ED",
+    "\u5B66\u5458\u89D2\u8272\u4F5C\u54C1",
+    "star",
+    "cg"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -405,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -367,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -370,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/036/110/607/large/bright-jiangj-6-1.jpg?1616749528",
   "md5": "ABDFD4C40549FC9A603BBE3BE5FDB8CF",
   "tags": [
-    ""
+    "",
+    "heroes",
+    "storm",
+    "league",
+    "legends",
+    "witcher",
+    "hobbit",
+    "forest",
+    "guardian",
+    "gunship",
+    "revolution",
+    "gloomstalker",
+    "waterdeep",
+    "stephanie",
+    "brown",
+    "primitive-butterfly",
+    "lee",
+    "b",
+    "primitive"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -590,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -176,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -132,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

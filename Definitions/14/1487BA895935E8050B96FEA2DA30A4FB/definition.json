@@ -2,25 +2,40 @@
   "source": "https://i.pinimg.com/564x/de/38/9c/de389c45b891bcbcd7cbb37b02566ab5.jpg",
   "md5": "1487BA895935E8050B96FEA2DA30A4FB",
   "tags": [
-    ""
+    "",
+    "au",
+    "ra",
+    "ff14",
+    "male",
+    "ffxiv",
+    "cute",
+    "anime",
+    "characters",
+    "guys",
+    "girl"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -75,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -92,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -32,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

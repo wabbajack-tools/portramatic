@@ -5,27 +5,43 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "ryuk",
+    "fan",
+    "statue",
+    "p\u00E9ricles",
+    "bueno",
+    "wizard",
+    "chinese",
+    "zodiac",
+    "zhifeng",
+    "deng",
+    "\u82B1\u9621\u964C",
+    "xudong",
+    "zhang"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -1094,
     "offset_y": -271,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -420,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6796666666666664,
     "offset_x": -616,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

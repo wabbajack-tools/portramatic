@@ -22,29 +22,55 @@
     "development",
     "warhammer",
     "champion",
-    "founder's",
+    "founder\u0027s",
     "pack",
-    "print"
+    "print",
+    "she",
+    "movie",
+    "nude",
+    "sigourney",
+    "weaver",
+    "alien",
+    "stomach",
+    "3d",
+    "gisela",
+    "anime",
+    "girl",
+    "characters",
+    "snow",
+    "queen",
+    "\u4F59",
+    "\u9752\u7A4E",
+    "moon",
+    "writer",
+    "entei",
+    "ryu",
+    "character",
+    "dark",
+    "artwork"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -301,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -84,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -113,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

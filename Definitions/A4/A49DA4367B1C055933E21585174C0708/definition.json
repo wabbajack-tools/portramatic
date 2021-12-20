@@ -15,27 +15,50 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "kyu-yong",
+    "eom",
+    "print",
+    "artist",
+    "anime",
+    "girl",
+    "\u795E\u4ED9",
+    "good",
+    "hope",
+    "beyond",
+    "sky",
+    "eduardo",
+    "garay",
+    "a",
+    "call",
+    "to",
+    "all",
+    "warriors",
+    "miki",
+    "montll\u00F3"
   ],
   "small": {
     "scale": 0.17999999999999938,
     "offset_x": -170,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.1599999999999993,
     "offset_x": -86,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.2899999999999974,
     "offset_x": -120,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,58 @@
     "male",
     "warrior",
     "priest",
-    "mage"
+    "mage",
+    "magnificent",
+    "costume",
+    "seven",
+    "movie",
+    "knight",
+    "armor",
+    "alien",
+    "female",
+    "pirate",
+    "death",
+    "body",
+    "dragon",
+    "age",
+    "origins",
+    "forest",
+    "elf",
+    "mar",
+    "hwang",
+    "jo",
+    "thomas",
+    "shirley",
+    "gray",
+    "walkers",
+    "zombie",
+    "angel",
+    "lloyd",
+    "vicent",
+    "dagmil"
   ],
   "small": {
     "scale": 1.0900000000000005,
     "offset_x": -667,
     "offset_y": -363,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6412499999999997,
     "offset_x": -245,
     "offset_y": -167,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.560583333333333,
     "offset_x": -176,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

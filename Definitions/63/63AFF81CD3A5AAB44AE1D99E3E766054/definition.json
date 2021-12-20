@@ -1,26 +1,32 @@
 {
-  "source": "https://pbs.twimg.com/media/EaXXXOEU4AApMil?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EaXXXOEU4AApMil?format=jpg\u0026name=large",
   "md5": "63AFF81CD3A5AAB44AE1D99E3E766054",
   "tags": [
-    ""
+    "",
+    "witcher"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -146,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -65,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -2,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

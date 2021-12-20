@@ -6,27 +6,44 @@
     "female",
     "mage",
     "rogue",
-    "queen"
+    "queen",
+    "kos",
+    "mos",
+    "personal",
+    "concept",
+    "magician",
+    "heewon",
+    "kang",
+    "butterfly",
+    "yunpong",
+    "yoonhwa,choi",
+    "character",
+    "witch",
+    "san",
+    "ho"
   ],
   "small": {
     "scale": 1.3100000000000005,
     "offset_x": -1222,
     "offset_y": -566,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -688,
     "offset_y": -313,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -194,
     "offset_y": -176,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

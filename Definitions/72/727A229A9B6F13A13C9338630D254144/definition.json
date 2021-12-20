@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/564x/35/ec/86/35ec8691f8ca617343303ba4dfbbfeaf.jpg",
   "md5": "727A229A9B6F13A13C9338630D254144",
   "tags": [
-    "#Barbarian"
+    "#Barbarian",
+    "male",
+    "digital",
+    "head",
+    "castlevania",
+    "lords",
+    "shadow",
+    "last",
+    "us"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -52.80000000000001,
     "offset_y": -51.19999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.439999999999992,
     "offset_x": -6.407407407407391,
     "offset_y": -19.222222222222285,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,34 @@
   "md5": "AB15B9BAEA2A01AD20773CD319F72D4C",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "snowflake",
+    "fairy",
+    "makeup",
+    "abstract"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -311,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -161,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9100000000000008,
     "offset_x": -420,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

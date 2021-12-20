@@ -41,27 +41,36 @@
     "paladin",
     "lubomir",
     "hij",
-    "https://www.artstation.com/artwork/bpbkd"
+    "https://www.artstation.com/artwork/bpbkd",
+    "morgan",
+    "le",
+    "fay",
+    "dc",
+    "goddess",
+    "morgana"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -48,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -1,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -38,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

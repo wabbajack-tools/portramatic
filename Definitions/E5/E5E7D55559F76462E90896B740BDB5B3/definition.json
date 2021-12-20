@@ -4,27 +4,51 @@
   "tags": [
     "human",
     "priest",
-    "artstation"
+    "artstation",
+    "warcraft",
+    "pictures",
+    "villains",
+    "wow",
+    "horde",
+    "characters",
+    "female",
+    "assassin",
+    "ow-redesign",
+    "mccree",
+    "eduardo",
+    "garcia",
+    "warrior",
+    "woman",
+    "sinjin",
+    "treharne",
+    "assassin\u0027s",
+    "creed",
+    "odyssey",
+    "immortal",
+    "outfit"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -380.66666666666697,
     "offset_y": -138.66666666666652,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -161.99999999999994,
     "offset_y": -101.33333333333343,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999988,
     "offset_x": -64.6666666666672,
     "offset_y": -123.33333333333377,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

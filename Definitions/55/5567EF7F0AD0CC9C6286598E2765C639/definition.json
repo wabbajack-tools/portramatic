@@ -4,27 +4,48 @@
   "tags": [
     "female",
     "undead",
-    "archer"
+    "archer",
+    "wow",
+    "sylvanas",
+    "lady",
+    "warcraft",
+    "world",
+    "windrunner",
+    "herbie",
+    "wang",
+    "character",
+    "wei",
+    "feng",
+    "2020",
+    "monster",
+    "artwork",
+    "grumpy",
+    "general",
+    "paolo",
+    "puggioni"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -383,
     "offset_y": -291,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -223,
     "offset_y": -185,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -28,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,42 @@
   "md5": "8A321FE36E452A7A53FEC071F52A14F9",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "legend",
+    "cryptids",
+    "elves",
+    "woman",
+    "angels",
+    "yongjae",
+    "choi",
+    "2020",
+    "magic",
+    "gathering",
+    "wizards",
+    "coast"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -316,
     "offset_y": -217,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -203,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -90,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

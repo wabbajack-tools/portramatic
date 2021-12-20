@@ -7,27 +7,40 @@
     "blood",
     "grant-griffin",
     "supernatural",
-    "creature"
+    "creature",
+    "grant",
+    "griffin",
+    "endless",
+    "wars",
+    "recon",
+    "marat",
+    "zakirov",
+    "rafael",
+    "de",
+    "guzman"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -3443,
     "offset_y": -600,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.45999999999999963,
     "offset_x": -1049,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999999,
     "offset_x": -1457,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -14,27 +14,53 @@
     "ga",
     "hoole",
     "twilight",
-    "princess"
+    "princess",
+    "yugio",
+    "yu-gi-oh",
+    "5d\u0027s",
+    "black",
+    "dragon",
+    "ancient",
+    "greek",
+    "gx",
+    "\u5434\u540C\u5B66-3d\u4E8C\u6B21\u5143\u65E5\u6F2B\u73ED-student",
+    "work",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "2021",
+    "character",
+    "design",
+    "azura",
+    "djinn",
+    "mathieu",
+    "louis",
+    "jr",
+    "moon",
+    "chu",
+    "r"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -519.2,
     "offset_y": -63.400000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -334.40000000000003,
     "offset_y": -32.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -510.9074074074081,
     "offset_y": -48.935185185185105,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

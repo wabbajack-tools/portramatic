@@ -5,27 +5,52 @@
     "tiefling",
     "female",
     "queen",
-    "mage"
+    "mage",
+    "pirates",
+    "caribbean",
+    "pirate",
+    "lord",
+    "rings",
+    "dragon",
+    "armor",
+    "rosefinch",
+    "zhang",
+    "yimin",
+    "personnage",
+    "patron",
+    "witch",
+    "hyun",
+    "youmin",
+    "concept",
+    "characters",
+    "warrior",
+    "skeleton",
+    "koiranuk",
+    "belov",
+    "pavel"
   ],
   "small": {
     "scale": 0.6299999999999999,
     "offset_x": -658,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4112499999999992,
     "offset_x": -261,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5402499999999997,
     "offset_x": -220,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

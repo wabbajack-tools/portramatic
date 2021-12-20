@@ -5,27 +5,51 @@
     "gnome",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "meme",
+    "emotes",
+    "league",
+    "teemo",
+    "emote",
+    "anime",
+    "characters",
+    "legends",
+    "jan",
+    "unolt",
+    "summer",
+    "cat",
+    "gabriel",
+    "cala",
+    "carrasquillo",
+    "\u0022",
+    "ssg",
+    "taliyah",
+    "nayla",
+    "novotny",
+    "lol"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -129,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -76,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -14,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,42 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921410881143857192/damerino_con_classe.jpg",
   "md5": "7CEE9B40DB8CC7250817F6A62B8B7304",
   "tags": [
-    ""
+    "",
+    "male",
+    "character",
+    "human",
+    "portraits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -238,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -101,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -10,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

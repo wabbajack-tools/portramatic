@@ -5,27 +5,42 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "ff-tifa",
+    "yifan",
+    "lin",
+    "claws",
+    "x-23",
+    "mars"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -313,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -230,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -138,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

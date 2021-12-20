@@ -5,27 +5,48 @@
     "dwarf",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "shark",
+    "fish",
+    "people",
+    "grandma",
+    "illustration",
+    "mithrandir",
+    "even",
+    "amundsen",
+    "https://www",
+    "\u6B66\u58EB2",
+    "\u5468",
+    "\u4EAE",
+    "https://www.artstation.com",
+    "hallowed",
+    "zodiac",
+    "virgo",
+    "tainted",
+    "light"
   ],
   "small": {
     "scale": 0.2799999999999996,
     "offset_x": -232,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -144,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3299999999999994,
     "offset_x": -66,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

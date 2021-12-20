@@ -6,27 +6,51 @@
     "female",
     "mage",
     "warrior",
-    "priest"
+    "priest",
+    "bloody",
+    "demon",
+    "anime",
+    "blood",
+    "eye",
+    "dark",
+    "elf",
+    "angel",
+    "wwe",
+    "immortals",
+    "paige",
+    "02",
+    "zhao",
+    "yan",
+    "cb",
+    "phong",
+    "anh",
+    "nyavka",
+    "maryna",
+    "shcherbakova",
+    "ukrainian"
   ],
   "small": {
     "scale": 0.42999999999999955,
     "offset_x": -508,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3599999999999995,
     "offset_x": -330,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999956,
     "offset_x": -148,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

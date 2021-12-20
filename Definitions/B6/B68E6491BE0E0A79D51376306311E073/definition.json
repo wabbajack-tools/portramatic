@@ -2,27 +2,42 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fd85f8-26e8-4c1b-ad91-4015c600383e/dasxhd0-f3cac5ed-a7e0-446b-aa2e-aed847abcc16.jpg/v1/fill/w_1024,h_1536,q_75,strp/commission_by_lorandesore-dasxhd0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wNGZkODVmOC0yNmU4LTRjMWItYWQ5MS00MDE1YzYwMDM4M2UvZGFzeGhkMC1mM2NhYzVlZC1hN2UwLTQ0NmItYWEyZS1hZWQ4NDdhYmNjMTYuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTE1MzYifV1dfQ.CPUTBuBelNlDoccAZ8E-eAoyo6EwmQz0FuZ2YwmxFkk",
   "md5": "B68E6491BE0E0A79D51376306311E073",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "male",
+    "elf",
+    "wood",
+    "ranger",
+    "witcher",
+    "dark",
+    "brown",
+    "eyes",
+    "dragon",
+    "age",
+    "origins"
   ],
   "small": {
     "scale": 0.1999999999999993,
     "offset_x": -15,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -6,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -6,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

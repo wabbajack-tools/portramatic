@@ -5,27 +5,52 @@
     "human",
     "female",
     "princess",
-    "mage"
+    "mage",
+    "body",
+    "nude",
+    "xxx",
+    "naked",
+    "woman",
+    "assassin",
+    "dumbledore",
+    ".",
+    "yi",
+    "https://www.artstation.com/artwork/qajagz",
+    "character",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "warrior",
+    "knight",
+    "summoning",
+    "joseph",
+    "c-knight"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -223,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -122,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -106,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,40 @@
   "source": "https://i.imgur.com/VmeUaDI.jpg",
   "md5": "7819E5D80CB1B09AAABC4E855CF8280E",
   "tags": [
-    ""
+    "",
+    "balazar",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "\u6218\u56FD\u5E03\u6B66",
+    "yiqian",
+    "zhang",
+    "draven",
+    "nik",
+    "hagialas"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -464,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -362,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999993,
     "offset_x": -298,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

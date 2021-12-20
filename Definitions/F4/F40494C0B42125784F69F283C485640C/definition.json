@@ -30,27 +30,57 @@
     "2019",
     "elves",
     "grigor",
-    "georgiev"
+    "georgiev",
+    "lego",
+    "vs",
+    "crown",
+    "spider-man",
+    "movie",
+    "quick",
+    "sketch",
+    "haoyu",
+    "wang",
+    "character",
+    "concept",
+    "characters",
+    "referenced",
+    "daeho",
+    "cha",
+    "drawing",
+    "https://www.artstation.com/artwork/ozen4",
+    "girl",
+    "helis",
+    "dan",
+    "calvert",
+    "horizon",
+    "zero",
+    "dawn",
+    "aloy",
+    "aztec",
+    "warrior"
   ],
   "small": {
     "scale": 1.2599999999999998,
     "offset_x": -656,
     "offset_y": -363,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -193,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -8,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,56 @@
     "woman",
     "mask",
     "fencer",
-    "rougue"
+    "rougue",
+    "pirate",
+    "costumes",
+    "pirates",
+    "caribbean",
+    "halloween",
+    "female",
+    "character",
+    "assassin",
+    "tate",
+    "s\u0027s",
+    "submission",
+    "legend",
+    "king",
+    "arthur",
+    "design",
+    "mongolian",
+    "warriors",
+    "exploration",
+    "sketch",
+    "sophie",
+    "li",
+    "illustration",
+    "old",
+    "knight",
+    "seunghee",
+    "lee"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -486,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -119,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -2,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

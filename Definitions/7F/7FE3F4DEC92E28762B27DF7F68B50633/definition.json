@@ -5,27 +5,59 @@
     "human",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "characters",
+    "with",
+    "short",
+    "red",
+    "hair",
+    "haired",
+    "character",
+    "inspiration",
+    "pirate",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "heels",
+    "\u4E2D\u89C4\u4E2D\u77E9",
+    "apple",
+    "xiebin",
+    "https://www.artstation.com/artwork/vp2wo",
+    "knight",
+    "https://www.artstation.com/artwork/yabavd",
+    "design",
+    "amazing",
+    "priestess",
+    "brian",
+    "\u0022ooquant\u0022",
+    "rivera"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -749,
     "offset_y": -161,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7104999999999997,
     "offset_x": -266,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.89025,
     "offset_x": -202,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

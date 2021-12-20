@@ -2,27 +2,54 @@
   "source": "https://img.game-news24.com/2021/11/The-Arcane-skins-for-Jinx-revealed-Caitlyn-in-Legends-of-The-Ring-in-League-of-Legends.jpeg",
   "md5": "00CEADCCBD3A18F7BFEAECD28B7BED04",
   "tags": [
-    ""
+    "",
+    "mileena",
+    "jade",
+    "mortal",
+    "kombat",
+    "heart",
+    "swarm",
+    "queen",
+    "blades",
+    "red",
+    "eyes",
+    "video",
+    "game",
+    "characters",
+    "dark",
+    "hair",
+    "artorias",
+    "dongjun",
+    "seo",
+    "faction",
+    "enemy",
+    "exploration",
+    "muyoung",
+    "kim",
+    "concept"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -688,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -956,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -500,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

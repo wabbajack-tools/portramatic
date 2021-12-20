@@ -2,27 +2,55 @@
   "source": "https://ageofsigmar.lexicanum.com/mediawiki/images/4/4e/Gotrek_Gurnisson_01.jpg",
   "md5": "10AF4B6E084106FB8C70A2C201C8DBAA",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "night",
+    "demons",
+    "jump",
+    "fire",
+    "dragon",
+    "armor",
+    "warhammer",
+    "iron",
+    "fists",
+    "sam",
+    "risoval",
+    "imperial",
+    "fist",
+    "space",
+    "marine",
+    "blazewalker",
+    "vu",
+    "bui",
+    "chatterskull",
+    "ruthless",
+    "anthony",
+    "avon",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -731,
     "offset_y": -246,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -616,
     "offset_y": -187,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -292,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

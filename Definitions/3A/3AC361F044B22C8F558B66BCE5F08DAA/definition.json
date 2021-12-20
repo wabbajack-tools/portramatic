@@ -2,27 +2,58 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/018/976/110/large/nixell-cho-steamgate-naestan-by-nixell.jpg?1561477613",
   "md5": "3AC361F044B22C8F558B66BCE5F08DAA",
   "tags": [
-    ""
+    "",
+    "characters",
+    "from",
+    "games",
+    "popular",
+    "girl",
+    "game",
+    "top",
+    "5",
+    "video",
+    "high",
+    "elf",
+    "wood",
+    "dark",
+    "master",
+    "yobei",
+    "trent",
+    "kaniuga",
+    "cavewoman",
+    "mar\u00EDlia",
+    "barbosa",
+    "barbarian",
+    "woman",
+    "\u0022steam",
+    "gate\u0022",
+    "trpg",
+    "character",
+    "nixell",
+    "cho"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -824,
     "offset_y": -571,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -295,
     "offset_y": -284,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -204,
     "offset_y": -328,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

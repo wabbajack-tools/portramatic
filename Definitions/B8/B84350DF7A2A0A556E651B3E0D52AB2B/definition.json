@@ -6,27 +6,55 @@
     "female",
     "mage",
     "priest",
-    "dancer"
+    "dancer",
+    "spider-man",
+    "web",
+    "shadows",
+    "night",
+    "elf",
+    "blood",
+    "actionfigures",
+    "dark",
+    "league",
+    "legends",
+    "practice",
+    "20160724",
+    "guang-shang",
+    "fu",
+    "guangshang",
+    "personal",
+    "concept",
+    "assassin",
+    "r",
+    "k",
+    "2020",
+    "knight",
+    "hyunjoong",
+    ".",
+    "https://www"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -680,
     "offset_y": -275,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -338,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -232,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

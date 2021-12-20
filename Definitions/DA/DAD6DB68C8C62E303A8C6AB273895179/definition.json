@@ -6,27 +6,63 @@
     "legion",
     "thunder",
     "paul",
-    "mafayon"
+    "mafayon",
+    "barbarian",
+    "character",
+    "half-orc",
+    "fan",
+    "orc",
+    "warrior",
+    "elder",
+    "scrolls",
+    "online",
+    "medieval",
+    "knights",
+    "spartan",
+    "dungeons",
+    "dragons",
+    "warhammer",
+    "40k",
+    "death",
+    "knight",
+    "2d",
+    "conceptart",
+    "moky",
+    "lin",
+    "orcus",
+    "jun",
+    "lee",
+    "https://www.artstation.com/artwork/mwjx1",
+    "warcraft",
+    "bonecarver",
+    "www.redpencilart.com",
+    "red",
+    "pencil",
+    "men",
+    "dark"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -731,
     "offset_y": -299,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -598,
     "offset_y": -231,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -39,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/e5/0f/f8/e50ff8d0c6bde668d1044c8acece9845.jpg",
   "md5": "2080F863614568D7A38E6C8AD84DC963",
   "tags": [
-    ""
+    "",
+    "female",
+    "knight",
+    "digital",
+    "warrior",
+    "dark",
+    "concept",
+    "four",
+    "horsemen",
+    "death",
+    "paranormality",
+    "markus",
+    "vogt",
+    "monstrosity",
+    "fenghua",
+    "zhong",
+    "ashley",
+    "wood",
+    "study",
+    "wwr",
+    "delux",
+    "cover",
+    "hal",
+    "wayland"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -486,
     "offset_y": -272,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -145,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

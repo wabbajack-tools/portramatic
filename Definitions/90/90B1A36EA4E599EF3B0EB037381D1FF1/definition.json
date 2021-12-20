@@ -13,25 +13,47 @@
     "weaponry",
     "samurai",
     "art",
-    ""
+    "",
+    "13th",
+    "warrior",
+    "chaos",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "notifications",
+    "trudvang",
+    "chronicles",
+    "collection",
+    "half-orc",
+    "yang",
+    "zhao",
+    "orc"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -153,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -202,
     "offset_y": -173,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -17,
     "offset_y": -53,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

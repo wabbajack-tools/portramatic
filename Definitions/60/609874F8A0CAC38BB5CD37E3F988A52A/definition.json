@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/736x/27/5d/a2/275da2726c92f0fc89dcb168a9050b67.jpg",
   "md5": "609874F8A0CAC38BB5CD37E3F988A52A",
   "tags": [
-    ""
+    "",
+    "digital",
+    "male",
+    "dd",
+    "portraits",
+    "human",
+    "hobbit"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -46,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -67,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -50,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

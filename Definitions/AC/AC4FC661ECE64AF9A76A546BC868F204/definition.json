@@ -7,27 +7,48 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "emperor",
+    "wu",
+    "han",
+    "di",
+    "marvel",
+    "comics",
+    "dungeons",
+    "dragons",
+    "nadyla",
+    "golem",
+    "priestess",
+    "arif",
+    "wijaya",
+    "savage",
+    "kat",
+    "kozhina",
+    "raphael",
+    "lucchini"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -389.6000000000003,
     "offset_y": -395.1999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -144.2,
     "offset_y": -143.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -103.49074074074065,
     "offset_y": -17.98148148148141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

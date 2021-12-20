@@ -2,27 +2,52 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/002/125/716/large/hao-yan-2345-20160310170608.jpg?1457601254",
   "md5": "3775E2C5F94D368221E2B2D4A7AD15E2",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "female",
+    "monk",
+    "warrior",
+    "dwarf",
+    "magis",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "forest",
+    "ni",
+    "li",
+    "elizabeth",
+    "swann",
+    "chen",
+    "yao",
+    "legend",
+    "cryptids1",
+    "liang",
+    "xing"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -252,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -165,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": 0,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

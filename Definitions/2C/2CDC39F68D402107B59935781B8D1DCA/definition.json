@@ -2,25 +2,49 @@
   "source": "https://i.pinimg.com/564x/41/c8/77/41c877d8e2e1c63d2e555f64ba01f6fe.jpg",
   "md5": "2CDC39F68D402107B59935781B8D1DCA",
   "tags": [
-    ""
+    "",
+    "pirate",
+    "ship",
+    "captain",
+    "costumes",
+    "halloween",
+    "renaissance",
+    "cowboy",
+    "outfit",
+    "for",
+    "adults",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -381,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -224,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -20,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

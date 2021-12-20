@@ -4,27 +4,38 @@
   "tags": [
     "outsider",
     "male",
-    "mage"
+    "mage",
+    "ocs",
+    "eclipse",
+    "anime",
+    "girl",
+    "teo",
+    "7k",
+    "st.",
+    "cygnus"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -320.7999999999997,
     "offset_y": -90.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -196.19999999999982,
     "offset_y": -11.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -188.32407407407482,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

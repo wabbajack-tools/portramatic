@@ -4,27 +4,52 @@
   "tags": [
     "outsider",
     "female. warrior",
-    "princess"
+    "princess",
+    "dark",
+    "god",
+    "egyptian",
+    "gods",
+    "blood",
+    "dungeons",
+    "dragons",
+    "demons",
+    "evokers",
+    "lucifer",
+    "demon",
+    "pride",
+    "joshua",
+    "raphael",
+    "hord",
+    "scott",
+    "vigil",
+    "demon\u0027s",
+    "bane",
+    "merlin",
+    "billy",
+    "christian"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -447,
     "offset_y": -164,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -249,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -112,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

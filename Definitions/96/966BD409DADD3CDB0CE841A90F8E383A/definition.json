@@ -11,29 +11,51 @@
     "female",
     "drawing",
     "dennis",
-    "fröhlich",
+    "fr\uFFFDhlich",
     "character",
-    "inspiration"
+    "inspiration",
+    "assassin",
+    "hansel",
+    "gretel",
+    "knight",
+    "armor",
+    "\u4E2D\u4E16\u7EAA\u9A91\u58EB",
+    "yunhao",
+    "zheng",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2016",
+    "amiral",
+    "plague",
+    "doctor",
+    "alexey",
+    "kruglov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -69,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -99,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": 4,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

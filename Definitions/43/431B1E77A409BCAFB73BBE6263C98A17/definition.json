@@ -8,27 +8,44 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "skyrim",
+    "syn",
+    "studio",
+    "gathering",
+    "masters",
+    "2018",
+    "magazine",
+    "hunt",
+    "misthounds",
+    "bo",
+    "zonneveld",
+    "rider",
+    "daniil",
+    "kozlovsky"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -549,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -481,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -562,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

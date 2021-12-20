@@ -2,27 +2,68 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/014/884/767/large/zoma-phamoz-goblinslayer11s.jpg?1546086964",
   "md5": "1E0E997F1F1F3D41DF9A3C216C1C6738",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "slayer",
+    "novel",
+    "full",
+    "body",
+    "dragon",
+    "age",
+    "origins",
+    "mortal",
+    "kombat",
+    "knight",
+    "armor",
+    "league",
+    "legends",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "dark",
+    "souls",
+    "death",
+    "loc",
+    "mansik",
+    "yang",
+    "warrior",
+    "illustration",
+    "this",
+    "can",
+    "go",
+    "one",
+    "two",
+    "ways....",
+    "justin",
+    "fields",
+    "garrett",
+    "thief",
+    "alba",
+    "palacio"
   ],
   "small": {
     "scale": 1,
     "offset_x": -196,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -80,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

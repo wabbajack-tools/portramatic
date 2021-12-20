@@ -5,27 +5,57 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "mtg",
+    "sets",
+    "order",
+    "magic",
+    "set",
+    "symbols",
+    "list",
+    "gathering",
+    "innistrad",
+    "warriors",
+    "league",
+    "legends",
+    "conan",
+    "barbarian",
+    "centaur",
+    "luciano",
+    "fleitas",
+    "2020",
+    "races",
+    "characters",
+    "eastern",
+    "elf",
+    "evgeniya",
+    "zelenskaya",
+    "hyuckjune",
+    "jeon",
+    "https://www.artstation.com/artwork/rgz52"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -306,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -156,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -194,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

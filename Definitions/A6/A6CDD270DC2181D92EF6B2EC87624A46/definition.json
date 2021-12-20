@@ -2,27 +2,42 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21466745-3d24-4a79-af10-fed48155868c/deftyol-4474fa72-13fe-4fdc-9923-1a93397536b3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxNDY2NzQ1LTNkMjQtNGE3OS1hZjEwLWZlZDQ4MTU1ODY4Y1wvZGVmdHlvbC00NDc0ZmE3Mi0xM2ZlLTRmZGMtOTkyMy0xYTkzMzk3NTM2YjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OGUgr5XNxtt_ZF7BINRayTLMcl3R23SR007-Jr8MJ-0",
   "md5": "A6CDD270DC2181D92EF6B2EC87624A46",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "mercy",
+    "agung",
+    "wulandana",
+    "nightshade",
+    "hibana",
+    "robbie",
+    "reilly"
   ],
   "small": {
     "scale": 1,
     "offset_x": -351,
     "offset_y": -93,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -314,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -216,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

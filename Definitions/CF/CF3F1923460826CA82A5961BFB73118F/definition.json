@@ -8,25 +8,51 @@
     "painting",
     "person",
     "human",
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "female",
+    "witch",
+    "night",
+    "demons",
+    "reaper",
+    "game",
+    "thrones",
+    "devil",
+    "\u9ED1\u7FFC\u5929\u4F7F",
+    "rexxar",
+    "chang",
+    "cryptids-blanchet,aviron",
+    "leader",
+    "kisuny",
+    "park",
+    "illustration",
+    "frankenstein",
+    "azora",
+    "visuals"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -345,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -389,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -79,
     "offset_y": -47,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

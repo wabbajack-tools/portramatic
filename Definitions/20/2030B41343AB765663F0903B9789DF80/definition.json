@@ -4,27 +4,60 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "male",
+    "elf",
+    "pictures",
+    "character",
+    "thief",
+    "knight",
+    "armor",
+    "suit",
+    "predator",
+    "assassin",
+    "dead",
+    "concept",
+    "leonid",
+    "enin",
+    "jean-baptiste",
+    "raimbault",
+    "2019",
+    "knull",
+    "god",
+    "symbiotes",
+    "characters",
+    "joel",
+    "codina",
+    "comic",
+    "book",
+    "marvel",
+    "kashchey",
+    "deathless",
+    "sherbakov",
+    "stanislav"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -370,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -159,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -180,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

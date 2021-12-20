@@ -6,27 +6,34 @@
     "female",
     "hunter",
     "mage",
-    "priest"
+    "priest",
+    "arthur",
+    "invisibles",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -910,
     "offset_y": -958,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -508,
     "offset_y": -571,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -226,
     "offset_y": -342,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

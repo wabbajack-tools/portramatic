@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/originals/08/cf/67/08cf6791ea0cfde59c81c9f553cde0ec.jpg",
   "md5": "819437D722FA112A521926FF12EBC871",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "restauration",
+    "romain",
+    "leguay",
+    "https://www.artstation.com/artwork/9x8qr",
+    "mage",
+    "fighter",
+    "concept",
+    "hephaestus",
+    "entertainment"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -400,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -198,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

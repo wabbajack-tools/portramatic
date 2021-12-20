@@ -2,27 +2,46 @@
   "source": "https://i.imgur.com/br4UWL4.jpeg",
   "md5": "4DD10C69D409DBA548B38E1A608F2D5C",
   "tags": [
-    ""
+    "",
+    "tuareg",
+    "libya",
+    "men",
+    "german",
+    "soldiers",
+    "genghis",
+    "khan",
+    "thanh",
+    "tu\u1EA5n",
+    "https://www.artstation.com/artwork/ev1z60",
+    "duels",
+    "planeswalkers",
+    "avatars",
+    "john",
+    "brassell",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -260,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -158,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -96,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

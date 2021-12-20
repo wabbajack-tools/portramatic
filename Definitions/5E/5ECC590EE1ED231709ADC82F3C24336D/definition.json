@@ -2,25 +2,36 @@
   "source": "https://pbs.twimg.com/media/DrqyiyhWwAAhD-3.jpg",
   "md5": "5ECC590EE1ED231709ADC82F3C24336D",
   "tags": [
-    "Forgotten People"
+    "Forgotten People",
+    "dragon",
+    "age",
+    "4",
+    "solas",
+    "inquisition",
+    "trespasser"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -115.99999999999986,
     "offset_y": -49.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -120.00000000000011,
     "offset_y": -61.3333333333336,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -14.66666666666697,
     "offset_y": -1.3333333333333144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,64 @@
   "source": "https://i.pinimg.com/564x/4e/ed/7c/4eed7cbf678781b17e1eb0273161577a.jpg",
   "md5": "84509A29738B0784C34DD38883BFF5FB",
   "tags": [
-    ""
+    "",
+    "dark",
+    "assassin",
+    "dagger",
+    "mask",
+    "male",
+    "black",
+    "knight",
+    "chaos",
+    "warrior",
+    "lord",
+    "rings",
+    "alien",
+    "death",
+    "reaper",
+    "dungeons",
+    "dragons",
+    "guardian",
+    "demon",
+    "eryk",
+    "szczygie\u0142",
+    "character",
+    "battle",
+    "sorcerer",
+    "\u3147\u3147",
+    "joo",
+    "\uD310\uD0C0\uC9C0",
+    "\uC77C\uB7EC\uC2A4\uD2B8\uB808\uC774\uC158",
+    "\uCE90\uB9AD\uD130",
+    "\uC544\uD2B8",
+    "tortured",
+    "r",
+    "x",
+    "artwork",
+    "horror"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -127,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -50,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

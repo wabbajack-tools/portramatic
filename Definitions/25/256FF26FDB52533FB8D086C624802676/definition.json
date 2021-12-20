@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/03/91/28/03912869710b7669aba5d68e27a31712.jpg",
   "md5": "256FF26FDB52533FB8D086C624802676",
   "tags": [
-    ""
+    "",
+    "gold",
+    "dragonborn",
+    "sorcerer",
+    "fighter",
+    "cleric",
+    "dynasty",
+    "warriors",
+    "orc",
+    "warrior",
+    "knight",
+    "armor",
+    "ullr",
+    "secret",
+    "order",
+    "concept",
+    "andy",
+    "timm",
+    "com",
+    "imagens",
+    "fantasias",
+    "rpg",
+    "onna-bugeisha",
+    "amaterasu",
+    "okami",
+    "zach",
+    "fischer",
+    "nomads",
+    "erik",
+    "nilsson",
+    "https://www.artstation.com/artwork/ngnjk",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -360,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -45,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -162,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,27 +11,47 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "sofa",
+    "cama",
+    "ikea",
+    "hacer",
+    "la",
+    "una",
+    "league",
+    "legends",
+    "puppet",
+    "wj",
+    "warrior",
+    "artwork",
+    "lionheart",
+    "arena",
+    "fate",
+    "will",
+    "murai"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -324.7999999999997,
     "offset_y": -140.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -122.19999999999976,
     "offset_y": -62.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -46.324074074074815,
     "offset_y": -19.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

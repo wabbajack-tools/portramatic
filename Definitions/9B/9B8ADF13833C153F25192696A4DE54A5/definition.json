@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/71/69/2a/71692a2dae7fa456e5929871b1672301.jpg",
   "md5": "9B8ADF13833C153F25192696A4DE54A5",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
+    "avatuk",
+    "orc",
+    "jan",
+    "ditlev",
+    "https://www",
+    "knight",
+    "canor",
+    "boado",
+    "minotaur",
+    "hak",
+    "sun",
+    "kim"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -412,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -103,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

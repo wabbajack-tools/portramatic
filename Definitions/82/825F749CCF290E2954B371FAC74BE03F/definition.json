@@ -9,27 +9,48 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "medieval",
+    "ladies",
+    "3d",
+    "model",
+    "characters",
+    "cartoon",
+    "woman",
+    "valkyrja",
+    "\u5357",
+    "\u91CE",
+    "huntress",
+    "manuel",
+    "casta\u00F1\u00F3n",
+    "dota",
+    "fanart",
+    "axe",
+    "derrick",
+    "song"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -221,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -7,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2999999999999998,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

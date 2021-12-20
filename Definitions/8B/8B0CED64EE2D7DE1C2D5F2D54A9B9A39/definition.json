@@ -2,27 +2,54 @@
   "source": "https://qph.fs.quoracdn.net/main-qimg-8b0ced64ee2d7de1c2d5f2d54a9b9a39",
   "md5": "8B0CED64EE2D7DE1C2D5F2D54A9B9A39",
   "tags": [
-    ""
+    "",
+    "genasi",
+    "air",
+    "barbarian",
+    "dd",
+    "female",
+    "fire",
+    "anime",
+    "characters",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "character",
+    "portfolio(2020",
+    "park",
+    "jun",
+    "seok",
+    "design",
+    "some",
+    "angelo",
+    "ciervo",
+    "widowmaker",
+    "1111.psd"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -265,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -206,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -2,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

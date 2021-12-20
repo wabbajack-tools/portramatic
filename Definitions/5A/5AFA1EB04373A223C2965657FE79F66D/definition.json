@@ -6,27 +6,56 @@
     "female",
     "priest",
     "mage",
-    "queen"
+    "queen",
+    "legend",
+    "cryptids",
+    "characters",
+    "cards",
+    "witches",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "pemburu",
+    "celeng",
+    "ranto",
+    "kumbalaseta",
+    "kato",
+    "seiji",
+    "gang",
+    "road",
+    "yukietajima",
+    "\u7530\u5CF6\u5E78\u679D",
+    "warrior",
+    "enyung",
+    "zhong"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -637.7999999999997,
     "offset_y": -163.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -406.19999999999976,
     "offset_y": -116.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -58.324074074074815,
     "offset_y": -21.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

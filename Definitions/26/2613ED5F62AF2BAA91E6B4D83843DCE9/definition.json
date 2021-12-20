@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/zJPLcu6.png",
   "md5": "2613ED5F62AF2BAA91E6B4D83843DCE9",
   "tags": [
-    ""
+    "",
+    "magic",
+    "gathering",
+    "concept",
+    "epic",
+    "monster",
+    "planeswalkers",
+    "kratos",
+    "orc",
+    "warrior",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "dark",
+    "elf",
+    "druidess",
+    "olie",
+    "boldador",
+    "hk",
+    "jakub",
+    "wieczniak",
+    "z.w.",
+    "gu",
+    "samurai",
+    "girl",
+    "illustration"
   ],
   "small": {
     "scale": 1,
     "offset_x": -247,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -165,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

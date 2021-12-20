@@ -11,25 +11,63 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "ancient",
+    "spartan",
+    "greek",
+    "spartans",
+    "warriors",
+    "armors",
+    "knight",
+    "armor",
+    "soldier",
+    "roman",
+    "soldiers",
+    "medieval",
+    "knights",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "characters",
+    "thea",
+    "shattering",
+    "kiki",
+    "\u0027one",
+    "shall",
+    "stand\u0027",
+    "book",
+    "cover",
+    "robbie",
+    "mcsweeney",
+    "sparta",
+    "hoplite",
+    "vladimir",
+    "silkin"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -411,
     "offset_y": -213,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -70,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -18,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

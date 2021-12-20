@@ -2,27 +2,51 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/000/437/560/medium/han-sa-kwang-2.jpg?1443932392",
   "md5": "A47597FA4058167FA35FF6C58940E72C",
   "tags": [
-    ""
+    "",
+    "gnome",
+    "concept",
+    "conan",
+    "rpg",
+    "character",
+    "totem",
+    "pole",
+    "cuardian",
+    "bageumi",
+    ".",
+    "warrior",
+    "woman",
+    "women",
+    "female",
+    "characters",
+    "yel",
+    "li",
+    "one",
+    "sword",
+    "eron",
+    "kim"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -81,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -51,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -74,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

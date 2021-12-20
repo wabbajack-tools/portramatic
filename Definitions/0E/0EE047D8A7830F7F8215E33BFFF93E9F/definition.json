@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/34/12/de/3412de08bf5aaeeb88396b395cf1a6df.jpg",
   "md5": "0EE047D8A7830F7F8215E33BFFF93E9F",
   "tags": [
-    ""
+    "",
+    "elf",
+    "paladin",
+    "character",
+    "dark",
+    "elves",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "wolf",
+    "jp",
+    "targete",
+    "men",
+    "warrior",
+    "sword",
+    "sorcery",
+    "warrior_",
+    "mtg",
+    "randy",
+    "vargas",
+    "vargasni",
+    "2021",
+    "2017",
+    "guardian",
+    "\u2660",
+    "max",
+    "berthelot",
+    "https://www.artstation.com/artwork/kxw5z"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -207,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -88,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -10,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

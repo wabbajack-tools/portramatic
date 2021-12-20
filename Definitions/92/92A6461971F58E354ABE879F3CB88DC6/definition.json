@@ -5,27 +5,46 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "tekken",
+    "6",
+    "anna",
+    "ending",
+    "anime",
+    "girl",
+    "\u65B0\u5E74\u5FEB\u4E50",
+    "tong",
+    "zhuo",
+    "concept",
+    "characters",
+    "makoto",
+    "niijima",
+    "isaac",
+    "liew",
+    "cheesewoo"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -146.5,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -31.5,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.399916666666667,
     "offset_x": -7,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

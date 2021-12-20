@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/0e/88/23/0e88235da96174573a072db73ba25ca8.jpg",
   "md5": "9394BDFEAD98170C3A78388C2495F20F",
   "tags": [
-    ""
+    "",
+    "harley",
+    "quinn",
+    "original",
+    "drawings",
+    "pencil",
+    "marvel",
+    "comics",
+    "amazing",
+    "spider-man",
+    "guardians",
+    "galaxy",
+    "comic",
+    "book"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -147.2,
     "offset_y": -48.80000000000004,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -109.60000000000008,
     "offset_y": -42.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -1.601851851851734,
     "offset_y": -3.2037037037036953,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

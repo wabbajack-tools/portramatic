@@ -12,29 +12,53 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "lady",
+    "guinevere",
+    "costume",
+    "dark",
+    "queen",
+    "drawing",
+    "pendragon",
+    "krynea",
+    "arcanist",
+    "david",
+    "benzal",
+    "https://www.artstation.com/artwork/pbn0y",
+    "istvan",
+    "straban",
+    "character",
+    "inspiration",
+    "mori",
+    "\uC9C4\uC6B0",
+    "\uBC15",
+    "creatures",
+    "artwork"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -426,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -229,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -178,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

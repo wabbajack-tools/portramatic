@@ -2,27 +2,50 @@
   "source": "https://cdn.inprnt.com/thumbs/40/5d/405ddf4a6603614aec0e393674350614.jpg?response-cache-control=max-age=2628000",
   "md5": "5A59B4AE492174FCB8644DCD76A83590",
   "tags": [
-    ""
+    "",
+    "geralt",
+    "fan",
+    "rivia",
+    "witcher",
+    "girl",
+    "aythae",
+    "mari",
+    "suomela",
+    "2021",
+    "warcraft",
+    "dragon",
+    "age",
+    "fanart",
+    "inquisitor",
+    "lavellan",
+    "assassin",
+    "kim",
+    "seung-jin",
+    "character",
+    "portraits"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -173,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -48,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

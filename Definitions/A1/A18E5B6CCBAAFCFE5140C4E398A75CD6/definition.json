@@ -5,27 +5,45 @@
     "female",
     "elf",
     "dancer",
-    "bard"
+    "bard",
+    "legend",
+    "cryptids",
+    "characters",
+    "cards",
+    "league",
+    "legends",
+    "bewitching",
+    "morgana",
+    "family",
+    "xiangyu",
+    "xu",
+    "flying",
+    "terror",
+    "christian",
+    "schob"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -271,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -78,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -122,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

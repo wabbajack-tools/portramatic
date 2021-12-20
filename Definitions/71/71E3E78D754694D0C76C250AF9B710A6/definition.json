@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/originals/ab/60/05/ab60056054a6c066118410dbf2e7aa56.png",
   "md5": "71E3E78D754694D0C76C250AF9B710A6",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "knight",
+    "armor",
+    "black",
+    "heavy",
+    "sets",
+    "aftermath",
+    "hue",
+    "teo",
+    "\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F",
+    "\u0436\u0438\u0432\u043E\u043F\u0438\u0441\u044C"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -156,
     "offset_y": -231,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -89,
     "offset_y": -264,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": 0,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

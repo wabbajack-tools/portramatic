@@ -2,25 +2,35 @@
   "source": "https://i.pinimg.com/originals/6a/b3/90/6ab3900b6fdec1547ac9fedae85eb676.jpg",
   "md5": "008233C04882CA476C528FB7CD72F2CA",
   "tags": [
-    "hal-elf"
+    "hal-elf",
+    "vampire",
+    "male",
+    "elf",
+    "wood",
+    "ranger"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -95,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -116,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -162,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

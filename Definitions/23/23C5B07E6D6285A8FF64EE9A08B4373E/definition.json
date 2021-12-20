@@ -5,27 +5,47 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "alien",
+    "concept",
+    "space",
+    "dark",
+    "remedy",
+    "svetlin",
+    "velinov",
+    "mtg",
+    "monster",
+    "inspiration",
+    "thick",
+    "cover",
+    "hugh",
+    "pindur",
+    "illustration",
+    "character",
+    "artwork"
   ],
   "small": {
     "scale": 0.73,
     "offset_x": -430,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -257,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -408,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

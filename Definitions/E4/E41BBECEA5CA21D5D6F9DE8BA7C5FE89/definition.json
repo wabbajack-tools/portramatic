@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/2f/13/d1/2f13d10838f8c437759d091ed218a71b.jpg",
   "md5": "E41BBECEA5CA21D5D6F9DE8BA7C5FE89",
   "tags": [
-    ""
+    "",
+    "wicked",
+    "witch",
+    "female",
+    "wizard",
+    "drawing",
+    "character",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "\u5DEB\u5E08",
+    "water",
+    "old",
+    "aesther",
+    "diviner",
+    "alexandr",
+    "elichev",
+    "design",
+    "\u7F8E\u5BA3\u56FE\u7247",
+    "chao",
+    "dong",
+    "https://www.artstation.com/artwork/vrnxd",
+    "artwork",
+    "zbrush"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -75,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -47,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9700000000000009,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

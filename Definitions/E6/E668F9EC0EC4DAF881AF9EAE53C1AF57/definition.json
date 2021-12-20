@@ -2,27 +2,44 @@
   "source": "https://i.pinimg.com/originals/da/39/64/da3964ee1f995a19236b04846020fd1d.jpg",
   "md5": "E668F9EC0EC4DAF881AF9EAE53C1AF57",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "concept",
+    "cyberpunk",
+    "black",
+    "armors",
+    "knight",
+    "warhammer",
+    "40k",
+    "star",
+    "wars",
+    "lizardman",
+    "nessi",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1,
     "offset_x": -363,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -88,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

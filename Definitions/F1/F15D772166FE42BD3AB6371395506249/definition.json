@@ -2,27 +2,54 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2020/09/Zagras-Thief-of-Heartbeats-Zendikar-Rising-MtG-Art-1024x811.jpg",
   "md5": "F15D772166FE42BD3AB6371395506249",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "zendikar",
+    "land",
+    "vampire",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "assassin",
+    "jaynorn",
+    "lin",
+    "character",
+    "warrior",
+    "girl",
+    "mechanical",
+    "hephaestus",
+    "david",
+    "demaret",
+    "https://www.artstation.com",
+    "kentauros",
+    "kim",
+    "hyunjun"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -891,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -398,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -422,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

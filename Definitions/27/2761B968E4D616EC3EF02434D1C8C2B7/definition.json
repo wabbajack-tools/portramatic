@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/cb/a2/cd/cba2cd148725116509d8f58bbdfc2880.jpg",
   "md5": "2761B968E4D616EC3EF02434D1C8C2B7",
   "tags": [
-    ""
+    "",
+    "character",
+    "poses",
+    "concept",
+    "african",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "lifeless",
+    "eyes",
+    "anthony",
+    "star",
+    "design",
+    "digital",
+    "bdo",
+    "fan-art",
+    "ivan",
+    "ginfrol",
+    "fardarismavi",
+    "todor",
+    "hristov",
+    "https://www.artstation.com/artwork/4bx4m8",
+    "#art",
+    "#"
   ],
   "small": {
     "scale": 1,
     "offset_x": -166,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -103,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 66,
     "offset_y": 102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

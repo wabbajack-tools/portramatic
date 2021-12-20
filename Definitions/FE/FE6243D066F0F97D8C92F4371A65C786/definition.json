@@ -7,27 +7,62 @@
     "knight",
     "fighter",
     "barbarian",
-    "viking"
+    "viking",
+    "armored",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "heavy",
+    "samurai",
+    "medieval",
+    "knights",
+    "plate",
+    "orc",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "skull",
+    "guilherme",
+    "carvalho",
+    "undead",
+    "dungeons",
+    "dragons",
+    "characters",
+    "rexxar",
+    "chang",
+    "witcher",
+    "geralt",
+    "wonki",
+    "cho",
+    "dark",
+    "wizard",
+    "character"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -361,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -181,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

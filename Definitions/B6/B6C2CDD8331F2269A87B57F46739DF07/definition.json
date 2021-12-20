@@ -2,27 +2,50 @@
   "source": "https://i.imgur.com/89jef8L.jpeg",
   "md5": "B6C2CDD8331F2269A87B57F46739DF07",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "rogue",
+    "roman",
+    "dragon",
+    "dawn",
+    "war",
+    "fall",
+    "damned",
+    "death",
+    "korps",
+    "krieg",
+    "masters",
+    "universe",
+    "beastman",
+    "greg",
+    "semkow",
+    "orc*pig",
+    "moonsup",
+    "kim"
   ],
   "small": {
     "scale": 1,
     "offset_x": -454,
     "offset_y": -207,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -394,
     "offset_y": -199,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -198,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

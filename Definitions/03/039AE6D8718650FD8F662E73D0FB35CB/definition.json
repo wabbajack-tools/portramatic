@@ -4,27 +4,57 @@
   "tags": [
     "league",
     "legends",
-    "evelynn"
+    "evelynn",
+    "elise",
+    "skins",
+    "build",
+    "victorious",
+    "dark",
+    "knight",
+    "spider-man",
+    "wallpaper",
+    "transformers",
+    "robots",
+    "disguise",
+    "legend",
+    "zelda",
+    "ocarina",
+    "time",
+    "exercise",
+    "cheng",
+    "long",
+    "bao",
+    "https://www.artstation.com/artwork/ladvv",
+    "world",
+    "azrael\uFF0Ds2",
+    "drock",
+    "nicotine",
+    "horse",
+    "aurore",
+    "folny"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -893.2000000000003,
     "offset_y": -434.20000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -622,
     "offset_y": -321.9999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9100000000000008,
     "offset_x": -1056.3888888888878,
     "offset_y": -501.6203703703703,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

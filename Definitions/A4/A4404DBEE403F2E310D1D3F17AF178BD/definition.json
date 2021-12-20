@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/66/61/68/666168b8df30a09a32b18cbb29244bac.jpg",
   "md5": "A4404DBEE403F2E310D1D3F17AF178BD",
   "tags": [
-    ""
+    "",
+    "new",
+    "practice",
+    "shao",
+    "zhijiao",
+    "original",
+    "painting",
+    "design",
+    "artwork",
+    "mermaid",
+    "cartoon",
+    "priest",
+    "c",
+    "juk",
+    "drawings",
+    "pinterest",
+    "characters",
+    "character",
+    "kpop",
+    "noctis",
+    "sakimi",
+    "chan"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -16,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -27,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -4,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

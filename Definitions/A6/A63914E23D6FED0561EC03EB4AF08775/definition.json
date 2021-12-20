@@ -6,27 +6,53 @@
     "female",
     "dancer",
     "mage",
-    "rogue"
+    "rogue",
+    "dark",
+    "elves",
+    "high",
+    "rough",
+    "tae",
+    "chul",
+    "kang",
+    "character",
+    "design",
+    "concept",
+    "characters",
+    "armor",
+    "girl",
+    "direg",
+    "jeong",
+    "bu-seung",
+    "2021",
+    "knight",
+    "portraits",
+    "animal",
+    "trainer",
+    "danny",
+    "pavlov"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -728,
     "offset_y": -316,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5215833333333326,
     "offset_x": -326,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5619999999999992,
     "offset_x": -170,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

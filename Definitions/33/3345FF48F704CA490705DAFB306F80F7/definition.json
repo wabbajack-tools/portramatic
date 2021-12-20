@@ -2,25 +2,34 @@
   "source": "https://i.pinimg.com/originals/4b/d9/5e/4bd95e1c7dd7e84c6d5d9ddcf19d1bd3.jpg",
   "md5": "3345FF48F704CA490705DAFB306F80F7",
   "tags": [
-    ""
+    "",
+    "maria",
+    "fernanda",
+    "suarez",
+    "drawing"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -213,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -71,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -130,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

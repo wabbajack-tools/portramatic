@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/47/06/4b/47064b5bea7cbc7fb4b866955a04b673.jpg",
   "md5": "6F3248896BE11E01837DB2F0760646F2",
   "tags": [
-    ""
+    "",
+    "human",
+    "female",
+    "warrior",
+    "elven",
+    "character",
+    "dark",
+    "elf",
+    "dragon",
+    "age",
+    "origins",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "euron",
+    "greyjoy",
+    "bella",
+    "bergolts",
+    "aurelion",
+    "aspect",
+    "an",
+    "anomalous",
+    "star",
+    "bloodborne",
+    "fanart",
+    "oreki",
+    "genya"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -129,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -11,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -14,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

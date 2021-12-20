@@ -2,27 +2,38 @@
   "source": "https://i.imgur.com/TuBsCJ9.jpeg",
   "md5": "E824AF8D6947621BA1474BCF679B28FD",
   "tags": [
-    ""
+    "",
+    "feanor",
+    "tolkien",
+    "lotr",
+    "monster",
+    "hunter",
+    "fanart",
+    "dual",
+    "naito"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -285,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -163,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -102,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

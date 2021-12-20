@@ -3,27 +3,51 @@
   "md5": "EF21707DC898D3D740BF2BA365CAA236",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "bach",
+    "paintings",
+    "gothic",
+    "digital",
+    "selena",
+    "rosa",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "archeage",
+    "characters",
+    "#26",
+    "artyom",
+    "smirnov",
+    "white",
+    "sorceress",
+    "randy",
+    "vargas",
+    "vargasni"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -404,
     "offset_y": -226,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -150,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -98,
     "offset_y": -152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

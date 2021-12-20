@@ -6,27 +6,53 @@
     "male",
     "warrior",
     "rogue",
-    "hunter"
+    "hunter",
+    "witch",
+    "artwork",
+    "concept",
+    "hansel",
+    "gretel",
+    "lord",
+    "rings",
+    "knight",
+    "armor",
+    "ranger",
+    "epic",
+    "raid",
+    "armour",
+    "per",
+    "haagensen",
+    "evening",
+    "studies",
+    "joakim",
+    "ericsson",
+    "brienne",
+    "tarth",
+    "giorgio",
+    "baroni"
   ],
   "small": {
     "scale": 1.2500000000000004,
     "offset_x": -606,
     "offset_y": -193,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -325,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -360,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

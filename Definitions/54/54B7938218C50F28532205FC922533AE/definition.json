@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/e1/03/a1/e103a1b6e5ed9809315baea098d879ca.jpg",
   "md5": "54B7938218C50F28532205FC922533AE",
   "tags": [
-    ""
+    "",
+    "skeleton",
+    "samurai",
+    "warrior",
+    "soldier",
+    "drawing",
+    "chaos",
+    "hansel",
+    "gretel",
+    "paladin",
+    "knight",
+    "armor",
+    "viking",
+    "alexander",
+    "kharibyn",
+    "https://www.artstation.com/artwork/g0o4n",
+    "notifications",
+    "character",
+    "design",
+    "concept",
+    "characters",
+    "\u5510\u50E7",
+    "eart",
+    "cg",
+    "\u0441\u0430\u043C\u0443\u0440\u0430\u0439",
+    "\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F",
+    "\u0436\u0438\u0432\u043E\u043F\u0438\u0441\u044C",
+    "\u0444\u044D\u043D\u0442\u0435\u0437\u0438"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -392.88888888888846,
     "offset_y": -209.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -122.22222222222223,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -25.794344473007413,
     "offset_y": -0.889460154241533,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

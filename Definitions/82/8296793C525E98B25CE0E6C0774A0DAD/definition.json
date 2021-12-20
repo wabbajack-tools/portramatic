@@ -6,27 +6,56 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "samurai",
+    "armor",
+    "dragon",
+    "medieval",
+    "knights",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "character",
+    "dongwoo",
+    "kim",
+    "characters",
+    "women",
+    "hatshepsut",
+    "inna",
+    "burmachenko",
+    "https://www.artstation.com/artwork/ajjrm",
+    "\uB0A8\uC790",
+    "\uAC70\uB108",
+    "jiyoo",
+    "design",
+    "male",
+    "portraits",
+    "game"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -698,
     "offset_y": -301,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6315833333333327,
     "offset_x": -495,
     "offset_y": -180,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5619999999999992,
     "offset_x": -270,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

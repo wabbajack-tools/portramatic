@@ -11,27 +11,48 @@
     "horns",
     "903743",
     "wings",
-    "fan"
+    "fan",
+    "kratos",
+    "lord",
+    "rings",
+    "hua",
+    "lu",
+    "cthulhu",
+    "cool",
+    "artwork",
+    "abject",
+    "violinist",
+    "beytrand",
+    "\u856D",
+    "\u4F2F\u540C",
+    "guardian",
+    "golem",
+    "2015",
+    "quentin",
+    "dognon"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -269,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -86,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -132,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

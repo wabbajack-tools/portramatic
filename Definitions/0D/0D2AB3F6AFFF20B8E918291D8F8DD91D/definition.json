@@ -8,27 +8,48 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "crazy",
+    "drawings",
+    "evil",
+    "staff",
+    "concept",
+    "david",
+    "goliath",
+    "dwarf",
+    "neoartcore",
+    "thongmai",
+    "bartolomeo",
+    "peddler",
+    "guilherme",
+    "motta",
+    "beast",
+    "lionel",
+    "dorviler",
+    "https://www"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -358.0000000000002,
     "offset_y": -379.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -124.00000000000006,
     "offset_y": -180.6666666666665,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -0.6666666666667425,
     "offset_y": -18.666666666666003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

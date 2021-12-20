@@ -5,27 +5,34 @@
     "gnome",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "heart",
+    "swarm",
+    "witcher",
+    "skyrim"
   ],
   "small": {
     "scale": 0.9699166666666666,
     "offset_x": -513.7999999999997,
     "offset_y": -1.6000000000001364,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -395.1999999999998,
     "offset_y": -2.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8000000000000007,
     "offset_x": -774.3240740740748,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

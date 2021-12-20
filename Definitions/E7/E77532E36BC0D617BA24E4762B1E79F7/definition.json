@@ -11,29 +11,36 @@
     "female",
     "drawing",
     "dennis",
-    "fröhlich",
+    "fr\uFFFDhlich",
     "character",
-    "inspiration"
+    "inspiration",
+    "fr\u00F6hlich",
+    "calrissian.",
+    "ashlee",
+    "casey"
   ],
   "small": {
     "scale": 1,
     "offset_x": -222,
     "offset_y": -244,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -88,
     "offset_y": -168,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": 0,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

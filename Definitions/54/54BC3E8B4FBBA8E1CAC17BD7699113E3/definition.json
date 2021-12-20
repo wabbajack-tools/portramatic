@@ -4,27 +4,37 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -740,
     "offset_y": -342,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.501416666666666,
     "offset_x": -306,
     "offset_y": -133,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6319999999999992,
     "offset_x": -246,
     "offset_y": -148,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

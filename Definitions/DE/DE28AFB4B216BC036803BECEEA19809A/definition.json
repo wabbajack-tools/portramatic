@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/f2/09/87/f209876ac52af8dc6cf505037d925979.jpg",
   "md5": "DE28AFB4B216BC036803BECEEA19809A",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "warriors",
+    "assassin",
+    "knight",
+    "dynasty",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "monk",
+    "catur",
+    "kurniawan",
+    "https://www.artstation.com/artwork/0xndnk",
+    "dracula",
+    "ali",
+    "nasir",
+    "dark",
+    "magicion",
+    "astro",
+    "burn",
+    "_w",
+    "rpg",
+    "character",
+    "artwork"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -352,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -86,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -20,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

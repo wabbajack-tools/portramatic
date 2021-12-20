@@ -9,27 +9,52 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "kratos",
+    "wisnu",
+    "tan",
+    "indonesia",
+    "warrior",
+    "personal",
+    "work",
+    "jeon",
+    "tae",
+    "kang",
+    "chun",
+    "lo",
+    "2020",
+    "warhammer",
+    "40k",
+    "artwork"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -229.6666666666667,
     "offset_y": -63.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -212.66666666666669,
     "offset_y": -78.66666666666669,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -40,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

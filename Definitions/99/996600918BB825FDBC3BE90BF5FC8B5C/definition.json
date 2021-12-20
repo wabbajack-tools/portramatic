@@ -2,27 +2,41 @@
   "source": "https://www.dualshockers.com/static/uploads/2021/02/2yfuvhrr0ne61.jpg",
   "md5": "996600918BB825FDBC3BE90BF5FC8B5C",
   "tags": [
-    ""
+    "",
+    "geralt",
+    "gwent",
+    "card",
+    "witcher",
+    "artwork",
+    "return",
+    "arya",
+    "stark",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -437,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -200,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

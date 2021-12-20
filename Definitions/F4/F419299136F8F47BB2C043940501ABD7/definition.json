@@ -5,27 +5,57 @@
     "human",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "roof",
+    "over",
+    "deck",
+    "designs",
+    "garage",
+    "outdoor",
+    "ideas",
+    "elf",
+    "hobbit",
+    "lord",
+    "rings",
+    "elves",
+    "all",
+    "\u00A9",
+    "2018",
+    "conceptopolis",
+    "llc.",
+    "rights",
+    "reserved.",
+    "conceptopol",
+    "untitled",
+    "hyein",
+    "go",
+    "elandrin",
+    "adalene",
+    "linda",
+    "lith\u00E9n"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -363.5,
     "offset_y": -335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -149.5,
     "offset_y": -183,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -25,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

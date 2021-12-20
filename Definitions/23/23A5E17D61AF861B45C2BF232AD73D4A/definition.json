@@ -3,27 +3,62 @@
   "md5": "23A5E17D61AF861B45C2BF232AD73D4A",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "female",
+    "assassin",
+    "pirates",
+    "caribbean",
+    "pin",
+    "up",
+    "pirate",
+    "ep",
+    "01",
+    "tr\u01B0\u01A1ng",
+    "mai",
+    "tr\u00FAc",
+    "character",
+    "girl",
+    "ves",
+    "gwent",
+    "fanart",
+    "oksana",
+    "kerro",
+    "witcher",
+    "skins",
+    "characters",
+    "unforgiving",
+    "rasdrax",
+    "reg",
+    "\u0026",
+    "adv",
+    "billy",
+    "christian",
+    "angel",
+    "artwork",
+    "male"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -544,
     "offset_y": -170,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -178,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -90,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,51 @@
   "tags": [
     "human",
     "female",
-    "archer"
+    "archer",
+    "sci-fi",
+    "character",
+    "concept",
+    "design",
+    "space",
+    "girl",
+    "game",
+    "ready",
+    "assets",
+    "three",
+    "kingdoms",
+    "l\u00FC",
+    "ji",
+    "noname",
+    "a",
+    "recent",
+    "model",
+    "for",
+    "trion",
+    "worlds",
+    "darren"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -567,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999996,
     "offset_x": -261,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6196666666666664,
     "offset_x": -244,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

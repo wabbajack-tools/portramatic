@@ -5,27 +5,49 @@
     "outsider",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "anime",
+    "characters",
+    "meizhi",
+    "xiaoxue",
+    "li",
+    "artist",
+    "wang",
+    "zheng",
+    "2d",
+    "game",
+    "character",
+    "design",
+    "https://www.artstation.com/artist",
+    "magicians",
+    "jisoo",
+    "choi",
+    "2021",
+    "warrior",
+    "girl"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -810,
     "offset_y": -233,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -410,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -238,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

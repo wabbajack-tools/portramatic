@@ -2,27 +2,56 @@
   "source": "https://i.redd.it/aos53jp1e7e21.jpg",
   "md5": "2CD3A095EE90DD9D8D63984D9D514278",
   "tags": [
-    ""
+    "",
+    "male",
+    "pirate",
+    "swashbuckler",
+    "rogue",
+    "game",
+    "thrones",
+    "robin",
+    "hood",
+    "prince",
+    "thieves",
+    "heavy",
+    "armor",
+    "knight",
+    "orcs",
+    "king",
+    "hokuto",
+    "alessandro",
+    "baldasseroni",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "kingmaker",
+    "ashman",
+    "akim"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1,
     "offset_y": 1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -12,
     "offset_y": 8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

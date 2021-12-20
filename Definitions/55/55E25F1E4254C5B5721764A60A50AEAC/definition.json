@@ -5,27 +5,51 @@
     "sexy",
     "scythe",
     "girls",
-    "anime"
+    "anime",
+    "blood",
+    "elf",
+    "fan",
+    "character",
+    "concept",
+    "female",
+    "rogue",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "assassin",
+    "rupid79",
+    "lee",
+    "jung-myung"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -582.3999999999992,
     "offset_y": -93.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -162.39999999999986,
     "offset_y": -38.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -11.212962962963502,
     "offset_y": -3.2037037037040363,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

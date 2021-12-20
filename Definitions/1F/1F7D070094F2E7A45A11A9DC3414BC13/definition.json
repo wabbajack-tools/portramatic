@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/Wqyz5mY.jpeg",
   "md5": "1F7D070094F2E7A45A11A9DC3414BC13",
   "tags": [
-    ""
+    "",
+    "king",
+    "conan",
+    "movie",
+    "barbarian",
+    "drawing",
+    "painting",
+    "hate",
+    "prince",
+    "rashnar",
+    "thierry",
+    "masson",
+    "invitation",
+    "no.",
+    "loles",
+    "romero",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "goblin",
+    "monster"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -506,
     "offset_y": -522,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -187,
     "offset_y": -322,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -54,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

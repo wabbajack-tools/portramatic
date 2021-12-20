@@ -2,27 +2,58 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/370/818/large/julian-wicik-knight-074-red-1000.jpg?1529256978",
   "md5": "6241725BC71E041327D128503A73B203",
   "tags": [
-    ""
+    "",
+    "100",
+    "years",
+    "war",
+    "armor",
+    "weapons",
+    "knight",
+    "armors",
+    "heavy",
+    "plate",
+    "dragon",
+    "hundred",
+    "years\u0027",
+    "julian",
+    "wicik",
+    "medieval",
+    "characters",
+    "clothing",
+    "design",
+    "for",
+    "game",
+    "5518",
+    "studios",
+    "personal",
+    "work",
+    "jr",
+    "shin",
+    "roman",
+    "female"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -360,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -56,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1799999999999986,
     "offset_x": -24,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

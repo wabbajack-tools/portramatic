@@ -2,27 +2,46 @@
   "source": "https://www.mtgnexus.com/img/gallery/2389-agent-of-the-fates-mobile.jpg",
   "md5": "DCD796EDF1114314373071900D8E017D",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "origins",
+    "dreyla",
+    "ruthless",
+    "opressor",
+    "alexander",
+    "nanitchkov",
+    "wild",
+    "magic",
+    "lionel",
+    "dorviler",
+    "raphael",
+    "yong",
+    "jae",
+    "park"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -52,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -35,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -26,
     "offset_y": 40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

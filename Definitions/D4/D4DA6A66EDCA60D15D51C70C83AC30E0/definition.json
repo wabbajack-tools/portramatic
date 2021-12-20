@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fshemalesuperstar.com%2Fstar%2Fthumbs%2Fgalleries%2F0%2F935%2F4_280.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fshemalesuperstar.com%2Fstar%2Fthumbs%2Fgalleries%2F0%2F935%2F4_280.jpg\u0026f=1\u0026nofb=1",
   "md5": "D4DA6A66EDCA60D15D51C70C83AC30E0",
   "tags": [
     "trans",
@@ -10,21 +10,24 @@
     "scale": 0.3099999999999994,
     "offset_x": -291,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -75,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -2,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

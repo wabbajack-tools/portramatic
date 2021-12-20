@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/b6/c5/af/b6c5af2d3c0785f0ee0b693bbe4cfd5c.png",
   "md5": "57E0848D0DAB7F847687D3C9F0151B26",
   "tags": [
-    ""
+    "",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "lord",
+    "rings",
+    "hobbit",
+    "gandalf",
+    "five",
+    "manuel",
+    "gomez.",
+    "for",
+    "\u0022five",
+    "orcquest",
+    "garde",
+    "\u0026",
+    "soldat",
+    "daniel",
+    "zrom",
+    "with"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -537,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -277,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -170,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

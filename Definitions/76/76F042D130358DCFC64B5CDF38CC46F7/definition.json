@@ -4,27 +4,43 @@
   "tags": [
     "dwarf",
     "female",
-    "warrior"
+    "warrior",
+    "predator",
+    "alex.",
+    "faichan",
+    "https://www.artstation.com/artwork/6zqao",
+    "ranger",
+    "zy",
+    "hwang",
+    "pin",
+    "joshpurple",
+    "artstation.com/josh",
+    "rpg",
+    "top",
+    "character"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -299.7999999999997,
     "offset_y": -234.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -203.19999999999976,
     "offset_y": -137.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -24.324074074074815,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

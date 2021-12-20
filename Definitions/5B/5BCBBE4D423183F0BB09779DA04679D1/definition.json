@@ -2,27 +2,40 @@
   "source": "https://i.imgur.com/KTn49MY.jpeg",
   "md5": "5BCBBE4D423183F0BB09779DA04679D1",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "conan",
+    "barbarian",
+    "artwork",
+    "archangels",
+    "vikings",
+    "she-ra",
+    "grace",
+    "liu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -393,
     "offset_y": -221,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -329,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -86,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -19,27 +19,59 @@
     "anna",
     "kharitonova",
     "design",
-    "juliana"
+    "juliana",
+    "snow",
+    "elves",
+    "drawing",
+    "male",
+    "assassin",
+    "leather",
+    "armor",
+    "samurai",
+    "pirate",
+    "coats",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "skirt",
+    "\u7EC3\u4E601",
+    "hongchao",
+    "guo",
+    "squire",
+    "guy",
+    "lloyd",
+    "hoshide",
+    "inspiration",
+    "barbarian",
+    "jiwon",
+    "kim",
+    "portraits",
+    "warrior",
+    "woman"
   ],
   "small": {
     "scale": 1.6999999999999977,
     "offset_x": -408,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3200000000000003,
     "offset_x": -204,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3799999999999992,
     "offset_x": -36,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

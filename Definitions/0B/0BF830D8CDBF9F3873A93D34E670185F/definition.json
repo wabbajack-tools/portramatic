@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/originals/cf/be/de/cfbedebe4088b1aef1f0cd5bbb535d23.jpg",
   "md5": "0BF830D8CDBF9F3873A93D34E670185F",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "anime",
+    "boy",
+    "knight",
+    "drawing",
+    "guardian",
+    "angels",
+    "jaynorn",
+    "lin",
+    "artwork",
+    "lins",
+    "wy",
+    "c",
+    "with",
+    "character"
   ],
   "small": {
     "scale": 1,
     "offset_x": -304,
     "offset_y": -191,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -249,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -56,
     "offset_y": 4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

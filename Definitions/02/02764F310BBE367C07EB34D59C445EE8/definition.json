@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/03/71/fe/0371fe0be7aac5d7eabb127b2787738d.jpg",
   "md5": "02764F310BBE367C07EB34D59C445EE8",
   "tags": [
-    ""
+    "",
+    "ghoul",
+    "drawing",
+    "demon",
+    "creature",
+    "guild",
+    "wars",
+    "dark",
+    "angel",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "conquers",
+    "another",
+    "world.",
+    "mansik",
+    "yang",
+    "deck-heroes\u9879\u76EE\u56FE\u516D\u5F20",
+    "shan",
+    "https://www.artstation.com/artwork/lbbxr",
+    "evil",
+    "goblin",
+    "warrior",
+    "arcane",
+    "gladiator",
+    "tcg",
+    "manthos",
+    "lappas",
+    "2020",
+    "artwork"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -358,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -12,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -70,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,46 @@
   "source": "https://i.imgur.com/r667YK4.jpeg",
   "md5": "AB6949FF03161B7BA3163427EF470D42",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "player\u0027s",
+    "handbook",
+    "character",
+    "5th",
+    "edition",
+    "chaos",
+    "warrior",
+    "asura",
+    "scrapper",
+    "tealful",
+    "eyes",
+    "aries",
+    "monkey",
+    "jon"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -368,
     "offset_y": -404,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -103,
     "offset_y": -241,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -44,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

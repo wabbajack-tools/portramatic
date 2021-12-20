@@ -6,27 +6,58 @@
     "male",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "death",
+    "grim",
+    "reaper",
+    "gothic",
+    "lady",
+    "knight",
+    "league",
+    "legends",
+    "strange",
+    "rites",
+    "evil",
+    "ramses",
+    "melendez",
+    "creature",
+    "demons",
+    "demon",
+    "drawings",
+    "trust",
+    "me",
+    "vladimir",
+    "manyukhin",
+    "zems",
+    "galad",
+    "deiv",
+    "calviz",
+    "david",
+    "villegas",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -558,
     "offset_y": -402,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -420,
     "offset_y": -358,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -14,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

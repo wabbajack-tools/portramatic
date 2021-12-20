@@ -2,27 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/899/409/large/daria-rashev-jester-art.jpg?1561147171",
   "md5": "7B580AE1689C73E2A07C676A55F17D41",
   "tags": [
-    "swordmage"
+    "swordmage",
+    "cool",
+    "jester",
+    "character",
+    "medieval",
+    "orc",
+    "warrior",
+    "dragon",
+    "age",
+    "origins",
+    "armor",
+    "swordsman",
+    "jie",
+    "li",
+    "https://www.artstation",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc",
+    "shadow",
+    "ameonna",
+    "magdalena",
+    "radziej"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -490.85714285714073,
     "offset_y": -287.4285714285711,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -212.42857142857144,
     "offset_y": -120.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -42,
     "offset_y": -46.285714285714334,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

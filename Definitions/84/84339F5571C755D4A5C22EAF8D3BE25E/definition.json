@@ -2,27 +2,50 @@
   "source": "https://sharknroll.hu/img/68017/5733/5733.jpg?time=1616673073",
   "md5": "84339F5571C755D4A5C22EAF8D3BE25E",
   "tags": [
-    ""
+    "",
+    "dead",
+    "moon",
+    "fallen",
+    "angel",
+    "gallery",
+    "graphic",
+    "royo",
+    "reaper",
+    "learn",
+    "try",
+    "c",
+    "y",
+    "artwork",
+    "creatures",
+    "lion",
+    "sculpture",
+    "unfinished",
+    "stuff",
+    "l\u00E9o",
+    "lasfargue"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -261,
     "offset_y": -150,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -163,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -134,
     "offset_y": -208,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

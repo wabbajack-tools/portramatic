@@ -6,27 +6,53 @@
     "female",
     "mage",
     "warrior",
-    "queen"
+    "queen",
+    "blizzard_zealot",
+    "jiangfeng",
+    "feng",
+    "starcraft",
+    "dark",
+    "chun",
+    "li",
+    "jeremy",
+    "chong",
+    "2020",
+    "wonder",
+    "woman",
+    "smile",
+    "face",
+    "tal",
+    "rasha",
+    "set",
+    "illustration",
+    "diablo",
+    "fanart",
+    "work.",
+    "javier",
+    "bravomalo"
   ],
   "small": {
     "scale": 0.46999999999999975,
     "offset_x": -757,
     "offset_y": -205,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -387,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -630,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

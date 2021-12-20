@@ -19,27 +19,48 @@
     "cornelius",
     "jr",
     "yennefer",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "hexblade",
+    "mage",
+    "acis",
+    "skull",
+    "revolver",
+    "christian",
+    "garrido",
+    "sir",
+    "lancelot",
+    "sofya",
+    "medvedeva",
+    "my",
+    "arts",
+    "artwork",
+    "game",
+    "20170324_work",
+    "sangsoon",
+    "lim"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -255,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -114,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -407,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,51 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "character",
+    "fighter",
+    "gladiator",
+    "league",
+    "legends",
+    "war",
+    "machine",
+    "predator",
+    "\u5C71\u5CB3\u306E\u5B88\u4EBA",
+    "xi",
+    "zhang",
+    "kunoichi",
+    "phichaya(scykiazor",
+    "boonton",
+    "cloaked",
+    "sage",
+    "heloise",
+    "advanced",
+    "j.otto",
+    "szatmari",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -153,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -30,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -16,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

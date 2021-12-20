@@ -5,27 +5,39 @@
     "human",
     "male",
     "assassin",
-    "rogue"
+    "rogue",
+    "witcher",
+    "card",
+    "gwent",
+    "ciri",
+    "geralt",
+    "pirates",
+    "caribbean",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -751.7999999999997,
     "offset_y": -247.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -478.19999999999976,
     "offset_y": -86.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -444.3240740740748,
     "offset_y": -71.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

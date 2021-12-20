@@ -15,27 +15,47 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "valkyrie",
+    "tattoo",
+    "drawings",
+    "sexy",
+    "league",
+    "legends",
+    "marta",
+    "nael",
+    "ta",
+    "vs",
+    "qop",
+    "azaggon",
+    "practice",
+    "mr.",
+    "xie",
+    "https://www.artstation.com/artwork/6x8nw",
+    "character"
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -711,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -540,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0300000000000002,
     "offset_x": -710,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

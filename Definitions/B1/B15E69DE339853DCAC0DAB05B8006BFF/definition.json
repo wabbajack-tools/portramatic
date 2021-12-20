@@ -16,27 +16,62 @@
     "reaper",
     "hades",
     "andy",
-    "timm"
+    "timm",
+    "blank",
+    "sketches",
+    "game",
+    "black",
+    "assassin\u0027s",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "knight",
+    "medieval",
+    "knights",
+    "dragon",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "\u4E24\u4EEA",
+    "\u9ED1",
+    "jsyyy",
+    "2021",
+    "anime",
+    "cloaked",
+    "paul",
+    "rozhkov",
+    "https://www",
+    "sangsu",
+    "jeong"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -435,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -344,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999995,
     "offset_x": -72,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,44 @@
     "female",
     "human",
     "princess",
-    "sorcerer"
+    "sorcerer",
+    "black",
+    "flower",
+    "kyuyong",
+    "eom",
+    "oc",
+    "promethia",
+    "bust",
+    "lera",
+    "pi",
+    "beleg",
+    "strongbow",
+    "natali",
+    "kalashnikova",
+    "https://www.artstation.com/artwork/vb5o3"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -149,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -101,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -52,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

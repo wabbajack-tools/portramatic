@@ -5,27 +5,47 @@
     "human",
     "male",
     "warrior",
-    "prince"
+    "prince",
+    "silver",
+    "knight",
+    "armor",
+    "magic",
+    "dragon",
+    "concept",
+    "orc",
+    "shane-molina-bobafett-sarlacc-lowres-artstation.jpg",
+    "1650\u00D7",
+    "dead",
+    "hippopotamus.",
+    "\u043C\u0435\u0440\u0442\u0432\u044B\u0439",
+    "\u0431\u0435\u0433\u0435\u043C\u043E\u0442",
+    "bones",
+    "soldier",
+    "lius",
+    "lasahido"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -465,
     "offset_y": -300,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -192,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -40,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

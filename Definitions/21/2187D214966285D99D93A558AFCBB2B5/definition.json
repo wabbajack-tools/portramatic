@@ -2,27 +2,64 @@
   "source": "https://neverwintervault.org/sites/neverwintervault.org/files/project/22790/images/1128639869fullres.jpg",
   "md5": "2187D214966285D99D93A558AFCBB2B5",
   "tags": [
-    ""
+    "",
+    "elf",
+    "wizard",
+    "pictures",
+    "female",
+    "moon",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "priestess",
+    "rui",
+    "li",
+    "character",
+    "portraits",
+    "characters",
+    "women",
+    "sorceress",
+    "mihail",
+    "il",
+    "https://www.artstation.com/artwork/jqw2d",
+    "cosplay",
+    "woman",
+    "loki",
+    "for",
+    "thor",
+    "ragnarok",
+    "aleksi",
+    "briclot"
   ],
   "small": {
     "scale": 1,
     "offset_x": -172,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -105,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 44,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

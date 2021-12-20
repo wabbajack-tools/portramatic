@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/47/f2/f7/47f2f720af26a2ca2d56e65126abf907.jpg",
   "md5": "692047AFDE64CBAFD6CFB36A5A7CF0B0",
   "tags": [
-    ""
+    "",
+    "african",
+    "earth",
+    "goddess",
+    "igbo",
+    "forest",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "luo",
+    "wy",
+    "c",
+    "character",
+    "design",
+    "priestess",
+    "yekaterina",
+    "chibisova",
+    "warcraft",
+    "demon",
+    "hunter",
+    "svetlana",
+    "berezina"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -127,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -18,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -42,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

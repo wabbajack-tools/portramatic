@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/d4/91/7a/d4917a1da6272bc8eb711aad36a313e0.jpg",
   "md5": "597C60C7B276E69D8006BB9BB820C754",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "knight",
+    "portraits",
+    "paladin",
+    "character",
+    "human",
+    "dragon",
+    "age",
+    "origins",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "death",
+    "ser",
+    "matthew",
+    "reborn",
+    "barret",
+    "frymire",
+    "ghoul",
+    "owl",
+    "studio",
+    "characters",
+    "mood",
+    "drawing.",
+    "erak",
+    "note",
+    "2020"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -134,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -23,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -14,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,50 @@
   "tags": [
     "human",
     "female",
-    "rogue"
+    "rogue",
+    "pirate",
+    "photos",
+    "steampunk",
+    "male",
+    "queen",
+    "characters",
+    "for",
+    "ultimate",
+    "pirates",
+    "grafit",
+    "studio",
+    "woman",
+    "pictures",
+    "brewmaster",
+    "monk",
+    "world",
+    "warcraft",
+    "\u0161\u00E1rka",
+    "\u0161.",
+    "claina"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -521,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -178,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.89,
     "offset_x": -128,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

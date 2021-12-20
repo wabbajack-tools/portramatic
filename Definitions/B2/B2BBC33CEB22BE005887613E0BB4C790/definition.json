@@ -2,25 +2,37 @@
   "source": "https://i.pinimg.com/564x/5d/db/1a/5ddb1a44c663cee8f54f077c55d1ba8b.jpg",
   "md5": "B2BBC33CEB22BE005887613E0BB4C790",
   "tags": [
-    ""
+    "",
+    "black",
+    "mage",
+    "fire",
+    "robe",
+    "concept",
+    "wizard",
+    "costume"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -67,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -5,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": 114,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

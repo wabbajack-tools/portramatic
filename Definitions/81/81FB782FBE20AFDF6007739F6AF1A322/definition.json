@@ -7,27 +7,63 @@
     "paladin",
     "skald",
     "warpriest",
-    "cleric"
+    "cleric",
+    "angel",
+    "warrior",
+    "concept",
+    "armor",
+    "god\u0027s",
+    "angels",
+    "lich",
+    "king",
+    "lord",
+    "rings",
+    "warriors",
+    "demons",
+    "dark",
+    "knight",
+    "crow",
+    "god",
+    "illustration",
+    "drawing",
+    "tutorial",
+    "unforgiving",
+    "rasdrax",
+    "reg",
+    "\u0026",
+    "adv",
+    "billy",
+    "christian",
+    "https://www.artstation.com",
+    "sorin",
+    "vampire",
+    "chris",
+    "rallis",
+    "2020",
+    "skyrim"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -380,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -108,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -90,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

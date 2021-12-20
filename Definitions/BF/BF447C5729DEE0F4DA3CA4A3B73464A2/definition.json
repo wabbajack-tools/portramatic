@@ -2,27 +2,38 @@
   "source": "https://www.econlib.org/wp-content/uploads/2018/02/256px-Henry_George_circa_1880-1890_retouched-3.jpg",
   "md5": "BF447C5729DEE0F4DA3CA4A3B73464A2",
   "tags": [
-    ""
+    "",
+    "glasgow",
+    "boys",
+    "george",
+    "henry",
+    "artist",
+    "hall",
+    "fox",
+    "talbot"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -5,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -1,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.929999999999981,
     "offset_x": -12,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

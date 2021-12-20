@@ -7,25 +7,41 @@
     "person",
     "human",
     "knight",
-    "armored"
+    "armored",
+    "fate",
+    "lancelot",
+    "saber",
+    "zero",
+    "stay",
+    "night",
+    "heracles",
+    "blue",
+    "eyes",
+    "white",
+    "dragon"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -411,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -148,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -12,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

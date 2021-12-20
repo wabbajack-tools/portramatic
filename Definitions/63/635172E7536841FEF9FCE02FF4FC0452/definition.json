@@ -20,27 +20,38 @@
     "tiefling",
     "anthony",
     "dipaolo",
-    "https://www.artstation.com/artwork/g1zkm"
+    "https://www.artstation.com/artwork/g1zkm",
+    "sorcerer",
+    "fighter",
+    "horns",
+    "curly",
+    "hair",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -51.99999999999997,
     "offset_y": -32.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -36.600000000000136,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -39.11111111111063,
     "offset_y": -22.407407407407504,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

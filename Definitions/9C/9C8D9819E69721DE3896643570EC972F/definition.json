@@ -2,25 +2,38 @@
   "source": "https://i.pinimg.com/originals/ca/db/d1/cadbd1c8a547f7ed29dcfe703a08a9a4.jpg",
   "md5": "9C8D9819E69721DE3896643570EC972F",
   "tags": [
-    "Hidden Plans"
+    "Hidden Plans",
+    "dragon",
+    "age",
+    "ii",
+    "funny",
+    "hawke",
+    "christeen",
+    "chris",
+    "taylor"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -219.99999999999994,
     "offset_y": -72.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -68.66666666666663,
     "offset_y": -44.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -4.000000000000227,
     "offset_y": -1.3333333333333144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

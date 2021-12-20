@@ -5,27 +5,51 @@
     "human",
     "male",
     "rogue",
-    "warrior"
+    "warrior",
+    "steampunk",
+    "pirate",
+    "famous",
+    "drawings",
+    "assassin",
+    "world",
+    "warcraft",
+    "zombie",
+    "apocalypse",
+    "death",
+    "knight",
+    "crow",
+    "god",
+    "illustration",
+    "captious",
+    "vampire",
+    "yutthaphong",
+    "kaewsuk",
+    "undead",
+    "laura",
+    "sava"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -555,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -391,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -190,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

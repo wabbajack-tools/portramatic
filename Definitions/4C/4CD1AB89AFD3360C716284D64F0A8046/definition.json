@@ -25,27 +25,47 @@
     "scout",
     "justine",
     "cruz",
-    "https://www"
+    "https://www",
+    "adventure",
+    "card",
+    "game",
+    "worldwound",
+    "path",
+    "legend",
+    "zelda",
+    "lord",
+    "rings",
+    "wrath",
+    "righteous.",
+    "lann",
+    "elena",
+    "kononenko",
+    "phi",
+    "kira",
+    "graham"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -517.6666666666664,
     "offset_y": -84.00000000000011,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -254.99999999999983,
     "offset_y": -28.33333333333354,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -21.333333333333258,
     "offset_y": -48.33333333333326,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

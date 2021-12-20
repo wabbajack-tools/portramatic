@@ -15,27 +15,50 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "xxx",
+    "erotic",
+    "naked",
+    "sexy",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "nai_",
+    "ga",
+    "child",
+    "heather",
+    "lubomir",
+    "hij",
+    "reference",
+    "pose",
+    "artwork",
+    "character"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -274,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -209,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -360,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

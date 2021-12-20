@@ -7,27 +7,48 @@
     "sonya",
     "#1",
     "kyu",
-    "yong"
+    "yong",
+    "dark",
+    "elf",
+    "knight",
+    "elven",
+    "female",
+    "assassin",
+    "heavy",
+    "armor",
+    "plate",
+    "spearman",
+    "andrew",
+    "mironov",
+    "https://www",
+    "yanick",
+    "dionisio",
+    "dead",
+    "ni",
+    "yipeng"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -182,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -29,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -6,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

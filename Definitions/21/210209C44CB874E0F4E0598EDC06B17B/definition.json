@@ -2,27 +2,41 @@
   "source": "https://i.imgur.com/jJcvXgN.jpeg",
   "md5": "210209C44CB874E0F4E0598EDC06B17B",
   "tags": [
-    ""
+    "",
+    "teleflora",
+    "enchanted",
+    "evening",
+    "prom",
+    "theme",
+    "bouquet",
+    "lord",
+    "rings",
+    "oil",
+    "paintings",
+    "landscape"
   ],
   "small": {
     "scale": 2.3899999999999926,
     "offset_x": -657,
     "offset_y": -259,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7900000000000007,
     "offset_x": -426,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2899999999999947,
     "offset_x": -428,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

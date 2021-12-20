@@ -1,31 +1,43 @@
 {
-  "source": "https://loginportal.funnyjunk.com/comments/Im+gonna+need+some+explanation+on+this+one+_e73bd441df398ec1df7fe6f15f8f8a4d.jpg",
+  "source": "https://loginportal.funnyjunk.com/comments/Im\u002Bgonna\u002Bneed\u002Bsome\u002Bexplanation\u002Bon\u002Bthis\u002Bone\u002B_e73bd441df398ec1df7fe6f15f8f8a4d.jpg",
   "md5": "E73BD441DF398EC1DF7FE6F15F8F8A4D",
   "tags": [
     "anime",
     "female",
     "demon",
-    "armor"
+    "armor",
+    "halfling",
+    "rogue",
+    "girl",
+    "character",
+    "sam",
+    "leung",
+    "hellboar",
+    "elias",
+    "aboulkacem"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -220.20000000000005,
     "offset_y": -133.79999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -181.40000000000003,
     "offset_y": -114.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -55.305555555555884,
     "offset_y": -15.231481481481296,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

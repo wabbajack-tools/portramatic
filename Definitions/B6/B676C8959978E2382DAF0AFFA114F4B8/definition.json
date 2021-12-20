@@ -4,27 +4,49 @@
   "tags": [
     "viking",
     "character",
-    "design"
+    "design",
+    "acolyte",
+    "thrall",
+    "demon",
+    "hunter",
+    "vampire",
+    "masquerade",
+    "lord",
+    "rings",
+    "daniel",
+    "kamarudin",
+    "ferryman",
+    "detail",
+    "alexandre",
+    "mokhov",
+    "mage",
+    "pauline",
+    "a.",
+    "k.",
+    "vikings"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -169.39999999999986,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -43.000000000000114,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -46.45370370370324,
     "offset_y": -48.055555555555316,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

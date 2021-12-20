@@ -5,27 +5,48 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    "knights",
+    "templar",
+    "battle",
+    "painting",
+    "medieval",
+    "natalia",
+    "vodianova",
+    "aurora",
+    "jedi",
+    "eric",
+    "leon",
+    "moira",
+    "ilya",
+    "kuvshinov",
+    "space",
+    "dragon",
+    "sergio",
+    "saleiro"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -344,
     "offset_y": -323,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -151,
     "offset_y": -186,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -98,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

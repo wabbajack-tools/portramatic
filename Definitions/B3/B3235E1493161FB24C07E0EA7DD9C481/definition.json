@@ -6,27 +6,43 @@
     "female",
     "mage",
     "samurai",
-    "warrior"
+    "warrior",
+    "ninja",
+    "tattoo",
+    "beautiful",
+    "dark",
+    "knight",
+    "elf",
+    "league",
+    "legends",
+    "game",
+    "thrones",
+    "necromancer",
+    "oleg",
+    "kapustin"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -789,
     "offset_y": -253,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5315833333333326,
     "offset_x": -308,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6817499999999994,
     "offset_x": -192,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

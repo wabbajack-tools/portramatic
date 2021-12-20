@@ -4,27 +4,55 @@
   "tags": [
     "human",
     "wizard",
-    "sorcerer"
+    "sorcerer",
+    "anime",
+    "girl",
+    "characters",
+    "guys",
+    "inuyasha",
+    "king",
+    "fighters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "15",
+    "xie",
+    "hua",
+    "https://www.artstation.com",
+    "lohse",
+    "dos2",
+    "anastasija",
+    "gaus",
+    "saar",
+    "lineage",
+    "eternal",
+    "changyup",
+    "lee"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -227,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -187,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -18,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

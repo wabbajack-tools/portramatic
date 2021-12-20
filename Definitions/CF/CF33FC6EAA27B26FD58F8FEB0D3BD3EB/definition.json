@@ -6,27 +6,60 @@
     "female",
     "archer",
     "rogue",
-    "hunter"
+    "hunter",
+    "dungeons",
+    "\u0026",
+    "dragons",
+    "movie",
+    "poster",
+    "cast",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "character",
+    "designs",
+    "faith",
+    "flintlocks",
+    "matt",
+    "forsyth",
+    "design",
+    "paizo",
+    "raph",
+    "herrera",
+    "lomotan",
+    "board",
+    "sapphire",
+    "valkyrie",
+    "nick",
+    "gaul",
+    "\u30D5\u30A1\u30F3\u30BF\u30B8\u30FC\u30AD\u30E3\u30E94",
+    "pinterest",
+    "artworks",
+    "awesome"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -498,
     "offset_y": -309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -260,
     "offset_y": -213,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9500000000000001,
     "offset_x": -218,
     "offset_y": -178,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,57 @@
     "outsider",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "viking",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "armor",
+    "medieval",
+    "knights",
+    "helmets",
+    "dark",
+    "elf",
+    "dasha",
+    "kudrina",
+    "https://www.artstation.com/artwork/3b94b",
+    "011-knight",
+    "eunsil",
+    "song",
+    "https://www.artstation.com/artwork/nqkmx9",
+    "2020",
+    "black",
+    "adam",
+    "suit",
+    "jarold",
+    "sng",
+    "2021",
+    "superhero",
+    "design"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -551,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -368,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -124,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

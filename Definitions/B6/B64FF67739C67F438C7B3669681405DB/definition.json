@@ -2,27 +2,55 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/039/524/244/large/alexander-mokhov-herald-of-erudition-1125x1500-cr.jpg?1626168007",
   "md5": "B64FF67739C67F438C7B3669681405DB",
   "tags": [
-    ""
+    "",
+    "oleg",
+    "tabakov",
+    "dwarf",
+    "blacksmith",
+    "female",
+    "tabaxi",
+    "druid",
+    "st.",
+    "michael",
+    "archangels",
+    "oil",
+    "paintings",
+    "archangel",
+    "uriel",
+    "card",
+    "illustration",
+    "with",
+    "randy",
+    "vargas",
+    "tvm",
+    "team",
+    "sacerdotessa",
+    "priestess",
+    "andrea",
+    "piparo"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -587,
     "offset_y": -249,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -225,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -77,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

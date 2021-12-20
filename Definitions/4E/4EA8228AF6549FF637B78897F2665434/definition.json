@@ -3,27 +3,50 @@
   "md5": "4EA8228AF6549FF637B78897F2665434",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "dark",
+    "elf",
+    "high",
+    "dungeons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "reinhardt_adv",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -268,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -93,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -134,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

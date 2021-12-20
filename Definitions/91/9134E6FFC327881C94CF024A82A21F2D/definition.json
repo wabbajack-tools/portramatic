@@ -5,27 +5,50 @@
     "elf",
     "female",
     "hunter",
-    "archer"
+    "archer",
+    "orcs",
+    "dark",
+    "game",
+    "thrones",
+    "lost",
+    "princess",
+    "character",
+    "design",
+    "nick",
+    "kubash",
+    "fallen",
+    "monkey",
+    "arif",
+    "wijaya",
+    "https://www",
+    "shooter",
+    "hopeless",
+    "koiranuk",
+    "belov",
+    "pavel"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -744,
     "offset_y": -285,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999999,
     "offset_x": -521,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6996666666666664,
     "offset_x": -218,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

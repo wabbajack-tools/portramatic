@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/550x/0f/a6/ee/0fa6ee6e986b95aab56595c1944fbd1f.jpg",
   "md5": "D76972953D95C9465916CBC60D656CEF",
   "tags": [
-    ""
+    "",
+    "anime",
+    "shadow",
+    "demon",
+    "female",
+    "girl",
+    "names",
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -126,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -31,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -15,27 +15,52 @@
     "",
     "fighter",
     "female",
-    "male"
+    "male",
+    "warhammer",
+    "celestine",
+    "40k",
+    "saint",
+    "st.",
+    "league",
+    "legends",
+    "island",
+    "navigator",
+    "dao",
+    "trong",
+    "le",
+    "2020",
+    "mercenario",
+    "fidel",
+    "alejandro",
+    "castro",
+    "cavalcanti",
+    "deathnote\u0027s",
+    "ryuk",
+    "inspired",
+    "reginald"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -685,
     "offset_y": -54.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -524,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -494,
     "offset_y": -27,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

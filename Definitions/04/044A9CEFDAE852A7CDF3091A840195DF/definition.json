@@ -6,27 +6,35 @@
     "female",
     "hunter",
     "rogue",
-    "warrior"
+    "warrior",
+    "fairy",
+    "princess",
+    "pink",
+    "clip",
+    "wall"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -437,
     "offset_y": -421,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8914166666666663,
     "offset_x": -78,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4319166666666665,
     "offset_x": -136,
     "offset_y": -298,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

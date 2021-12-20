@@ -32,27 +32,37 @@
     "anakin",
     "skywalker",
     "jake",
-    "murray"
+    "murray",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.41999999999999793,
     "offset_x": -33.00000000000364,
     "offset_y": -24.333333333333428,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -49.6666666666664,
     "offset_y": -30.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -78.66666666666742,
     "offset_y": 5.999999999999318,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

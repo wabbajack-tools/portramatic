@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/ce/bb/05/cebb05952c716b15dbd522d3b1a81fd8.jpg",
   "md5": "6BD17E19358C8FFE3FE7F674A46D21FA",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "illustration",
+    "female",
+    "dark",
+    "shadows",
+    "knight",
+    "black",
+    "assassin\u0027s",
+    "\u002244\u0022",
+    "igor",
+    "rozovny",
+    "concept",
+    "characters",
+    "06.10",
+    "ivan",
+    "stan",
+    "dwarf",
+    "warhammer",
+    "40k",
+    "sketches",
+    "dedov",
+    "2021"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -215,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -69,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -16,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

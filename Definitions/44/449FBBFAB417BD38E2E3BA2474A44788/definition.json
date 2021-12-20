@@ -3,27 +3,51 @@
   "md5": "449FBBFAB417BD38E2E3BA2474A44788",
   "tags": [
     "knight",
-    "fighter"
+    "fighter",
+    "armored",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "armors",
+    "heavy",
+    "plate",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "dmitry",
+    "chertkov",
+    "warrior",
+    "boyongbo",
+    "cg",
+    "skull",
+    "guilherme",
+    "carvalho",
+    "undead"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -537,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -306,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -4,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

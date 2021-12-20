@@ -1,28 +1,52 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/013/889/438/large/nuei-art-ars-cold-net.jpg?1541530446&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/013/889/438/large/nuei-art-ars-cold-net.jpg?1541530446\u0026dl=1",
   "md5": "E8C060670093249E8C9C8B594F0F9CF1",
   "tags": [
-    ""
+    "",
+    "noctis",
+    "face",
+    "noronha",
+    "brazil",
+    "anime",
+    "torii",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "morrigan",
+    "poll",
+    "winner",
+    "firez",
+    "widowmaker",
+    "michelle",
+    "busch",
+    "morrigan_da",
+    "anna",
+    "maystrenko"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -44,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -51,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -42,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

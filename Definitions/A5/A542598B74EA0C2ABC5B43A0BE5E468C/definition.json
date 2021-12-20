@@ -4,27 +4,45 @@
   "tags": [
     "elf",
     "female",
-    "warrior"
+    "warrior",
+    "blood",
+    "drawing",
+    "priest",
+    "rogue",
+    "assassin",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "saint",
+    "joan",
+    "arc",
+    "\u5DDD\u5FB9",
+    "\u5C71",
+    "angelise",
+    "clayscence"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -366.5,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999996,
     "offset_x": -190.5,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999996,
     "offset_x": -81,
     "offset_y": -93,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

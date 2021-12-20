@@ -4,27 +4,45 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "warrior",
+    "legend",
+    "zelda",
+    "ocarina",
+    "time",
+    "michael",
+    "black",
+    "artist",
+    "artstation).",
+    ".",
+    "#traditional3d"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -471,
     "offset_y": -285,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -247,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -66,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

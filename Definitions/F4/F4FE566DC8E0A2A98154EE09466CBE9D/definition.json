@@ -5,27 +5,50 @@
     "human",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "girl",
+    "with",
+    "white",
+    "hair",
+    "woman",
+    "drawing",
+    "arbiter",
+    "alien",
+    "vs",
+    "predator",
+    "dungeons",
+    "dragons",
+    "witcher",
+    "skull",
+    "blake",
+    "evokers",
+    "shax",
+    "kevin",
+    "sidharta",
+    "https://www.artstation.com/artwork/58al1j"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -856,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -659,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -836,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

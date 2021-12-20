@@ -7,27 +7,44 @@
     "warrior",
     "king",
     "mage",
-    "priest"
+    "priest",
+    "mermaids",
+    "illustrator",
+    "comics",
+    "artist",
+    "randy",
+    "vargas",
+    "gokong",
+    "splashscreen",
+    "bruce",
+    "glidewell",
+    "lambent",
+    "dreamer",
+    "christina",
+    "yen"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -586,
     "offset_y": -546,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -241,
     "offset_y": -217,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -178,
     "offset_y": -168,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,66 @@
   "source": "https://s-media-cache-ak0.pinimg.com/564x/08/91/77/0891779231d7e2bf3cb0a1b2c55a5c0c.jpg",
   "md5": "A6400C9B39956C3A04726C670708B97D",
   "tags": [
-    ""
+    "",
+    "female",
+    "warriors",
+    "armor",
+    "woman",
+    "warrior",
+    "medieval",
+    "assassin",
+    "samurai",
+    "knight",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "magic",
+    "gathering",
+    "chandra",
+    "nalaar",
+    "brad",
+    "rigney",
+    "http://www.artstation.com",
+    "assassin\u0027s",
+    "creed",
+    "an",
+    "ran",
+    "xie",
+    "barbarian",
+    "bailey",
+    "butel",
+    "character",
+    "story",
+    "ideas"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -202,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -43,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

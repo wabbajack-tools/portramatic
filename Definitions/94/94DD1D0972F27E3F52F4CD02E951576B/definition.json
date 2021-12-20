@@ -25,27 +25,44 @@
     "ji",
     "young",
     "joo",
-    "https://www"
+    "https://www",
+    "halo",
+    "combat",
+    "evolved",
+    "yoonhwa,choi",
+    "character",
+    "design",
+    "bae",
+    "yamile",
+    "raid",
+    "shadow",
+    "legends",
+    "plarium",
+    "ukraine",
+    "2021"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -795,
     "offset_y": -329,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -392,
     "offset_y": -155,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -78,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

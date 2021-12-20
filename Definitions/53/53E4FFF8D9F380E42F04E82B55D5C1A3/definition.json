@@ -6,27 +6,64 @@
     "male",
     "mage",
     "samurai",
-    "warrior"
+    "warrior",
+    "dark",
+    "knight",
+    "concept",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "ancient",
+    "elf",
+    "female",
+    "assassin",
+    "death",
+    "black",
+    "souls",
+    "carter",
+    "adair",
+    "artwork",
+    "ninja",
+    "heavy",
+    "metal",
+    "wolf",
+    "brigade",
+    "natalie",
+    "marten",
+    "dieselpunk",
+    "anime",
+    "bluehair",
+    "ork",
+    "mansik",
+    "yang",
+    "warcraft",
+    "orc",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -661,
     "offset_y": -347,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5615833333333327,
     "offset_x": -229,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5217499999999993,
     "offset_x": -66,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

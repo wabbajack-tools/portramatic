@@ -5,27 +5,37 @@
     "human",
     "female",
     "warrior",
-    "samurai"
+    "samurai",
+    "chinese",
+    "painting",
+    "ancient",
+    "warriors",
+    "drawings",
+    "legend",
+    "zelda"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -582,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999999,
     "offset_x": -251,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1496666666666668,
     "offset_x": -348,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

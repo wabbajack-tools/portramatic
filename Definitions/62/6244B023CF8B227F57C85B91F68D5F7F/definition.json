@@ -4,27 +4,49 @@
   "tags": [
     "gnome",
     "female",
-    "mage"
+    "mage",
+    "sombra",
+    "overwatch",
+    "pc",
+    "background",
+    "cool",
+    "wallpaper",
+    "ashe",
+    "x",
+    "pin",
+    "up",
+    "morgana",
+    "waterworker",
+    "da",
+    "illidan",
+    "fan",
+    "ten",
+    "park",
+    "ren\u00E9e",
+    "chio"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -339.5,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -256.5,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0999166666666667,
     "offset_x": -399,
     "offset_y": -37,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

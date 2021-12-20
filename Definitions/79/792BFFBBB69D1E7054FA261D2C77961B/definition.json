@@ -2,27 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/006/901/593/medium/petr-sokolov-artpity-knight-lp-beauty.jpg?1502132176",
   "md5": "792BFFBBB69D1E7054FA261D2C77961B",
   "tags": [
-    ""
+    "",
+    "cool",
+    "knight",
+    "medieval",
+    "armor",
+    "drawing",
+    "ideas",
+    "armors",
+    "death",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "warrior",
+    "denis",
+    "didenko",
+    "sichen",
+    "wang",
+    "https://www",
+    "texturing",
+    "substance",
+    "painter"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -722,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -499,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -258,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

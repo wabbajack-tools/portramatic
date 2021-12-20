@@ -10,25 +10,42 @@
     "animal",
     "invertebrate",
     "insect",
-    "bee"
+    "bee",
+    "valkyrie",
+    "artwork",
+    "cards",
+    "warrior",
+    "league",
+    "legends",
+    "noble",
+    "guardian",
+    "logan",
+    "preshaw",
+    "destiny",
+    "comic"
   ],
   "small": {
     "scale": 1,
     "offset_x": -934.3999999999949,
     "offset_y": -336.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -866.399999999998,
     "offset_y": -317.59999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -690.3981481481478,
     "offset_y": -62.47222222222217,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

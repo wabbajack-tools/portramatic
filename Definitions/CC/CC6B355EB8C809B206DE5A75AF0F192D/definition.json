@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/39/cf/fc/39cffcaed90ccef0ff79049675334e46.jpg",
   "md5": "CC6B355EB8C809B206DE5A75AF0F192D",
   "tags": [
-    ""
+    "",
+    "bobby",
+    "cartoon",
+    "character",
+    "meme",
+    "world",
+    "warcraft",
+    "rogue",
+    "high",
+    "elf",
+    "night",
+    "blood",
+    "dark",
+    "fireflies",
+    "caterina",
+    "kalymniou",
+    "spirited",
+    "lycanthrope",
+    "mercenary",
+    "lara(adv",
+    "yui",
+    "horiuchi",
+    "kier",
+    "valkyrie",
+    "dead",
+    "court",
+    "fan",
+    "marlies",
+    "barends"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -184,
     "offset_y": -140,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -45,
     "offset_y": -95,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.539999999999998,
     "offset_x": -88,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

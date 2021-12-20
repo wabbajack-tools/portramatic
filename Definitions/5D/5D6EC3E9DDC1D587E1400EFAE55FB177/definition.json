@@ -4,27 +4,36 @@
   "tags": [
     "human",
     "female",
-    "archer"
+    "archer",
+    "forest",
+    "elf",
+    "girl",
+    "\u9B45\u9B54\u516C\u4E3B",
+    "zhu",
+    "ning"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -1218.7999999999997,
     "offset_y": -63.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7201666666666666,
     "offset_x": -738.1999999999998,
     "offset_y": -2.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0414166666666664,
     "offset_x": -988.3240740740748,
     "offset_y": 0.3981481481472997,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

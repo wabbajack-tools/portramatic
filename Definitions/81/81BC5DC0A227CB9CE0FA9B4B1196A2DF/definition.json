@@ -4,27 +4,43 @@
   "tags": [
     "misc",
     "male",
-    "warrior"
+    "warrior",
+    "evil",
+    "bb8",
+    "baby",
+    "groot",
+    "character",
+    "concept",
+    "legion",
+    "everblight",
+    "dungeons",
+    "dragons",
+    "berserker",
+    "camille",
+    "alquier"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -127.79999999999973,
     "offset_y": -77.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -63.19999999999982,
     "offset_y": -11.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -118.32407407407482,
     "offset_y": -1.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

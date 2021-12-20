@@ -3,27 +3,58 @@
   "md5": "5D689C78B1DF19239DA50BCEA9B07215",
   "tags": [
     "selene",
-    "underworld"
+    "underworld",
+    "chaos",
+    "warrior",
+    "warhammer",
+    "warriors",
+    "40k",
+    "army",
+    "game",
+    "thrones",
+    "skyrim",
+    "hobbit",
+    "dragon",
+    "age",
+    "origins",
+    "lord",
+    "rings",
+    "drizzt",
+    "dourden",
+    "books",
+    "timeline",
+    "do",
+    "eithne",
+    "lorenzo",
+    "mastroianni",
+    "https://www",
+    "character",
+    "paintings",
+    "sam",
+    "peterson"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -233,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -93,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -48,
     "offset_y": -89,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

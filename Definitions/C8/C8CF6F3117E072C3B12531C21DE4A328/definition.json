@@ -1,28 +1,54 @@
 {
-  "source": "https://preview.redd.it/k4wqy74y21s61.jpg?width=640&crop=smart&auto=webp&s=d334167c30c92e4db5c87961514772b5185a0319",
+  "source": "https://preview.redd.it/k4wqy74y21s61.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=d334167c30c92e4db5c87961514772b5185a0319",
   "md5": "C8CF6F3117E072C3B12531C21DE4A328",
   "tags": [
-    ""
+    "",
+    "red",
+    "sonja",
+    "age",
+    "chaos",
+    "book",
+    "cover",
+    "lucio",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "silent",
+    "night",
+    "sona",
+    "anastasia",
+    "tymko",
+    "shush...",
+    "yang",
+    "li",
+    "nv",
+    "\u5F20",
+    "\u4ED4\u4E1C"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -235,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -107,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

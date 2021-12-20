@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/ea/42/4a/ea424a086c929881712aad7459be4a86.jpg",
   "md5": "3B874CB0D54B7707B28595EDB9D4C8D6",
   "tags": [
-    ""
+    "",
+    "mouse",
+    "guard",
+    "rpg",
+    "characters",
+    "drawings",
+    "western",
+    "illustration",
+    "jorge",
+    "momparler",
+    "demon",
+    "slayer",
+    "antonio",
+    "j.",
+    "manzanedo",
+    "morning",
+    "maintenace",
+    "hethe",
+    "srodawa"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -118,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -38,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -112,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

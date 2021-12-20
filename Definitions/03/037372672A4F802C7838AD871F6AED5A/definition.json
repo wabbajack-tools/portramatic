@@ -5,27 +5,51 @@
     "human",
     "female",
     "mage",
-    "princess"
+    "princess",
+    "wu",
+    "jiayi",
+    "shao",
+    "tang",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\u6F9C",
+    "\u6BD2",
+    "\u7624",
+    "jolyne",
+    "kujo",
+    "usagi",
+    "christy",
+    "lam",
+    "soraka",
+    "fan",
+    "mengran",
+    "gu"
   ],
   "small": {
     "scale": 0.2499999999999999,
     "offset_x": -186,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.32124999999999937,
     "offset_x": -206,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46058333333333296,
     "offset_x": -132,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

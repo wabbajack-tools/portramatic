@@ -6,27 +6,43 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "a",
+    "place",
+    "we",
+    "call",
+    "home",
+    "valentina",
+    "remenar",
+    "entry",
+    "for",
+    "arena",
+    "valor",
+    "localized",
+    "skin"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -789,
     "offset_y": -273,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -402,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -386,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

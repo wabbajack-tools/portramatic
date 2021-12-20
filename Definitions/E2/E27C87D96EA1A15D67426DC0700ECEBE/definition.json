@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/X6NibkH.jpeg",
   "md5": "E27C87D96EA1A15D67426DC0700ECEBE",
   "tags": [
-    ""
+    "",
+    "male",
+    "dwarf",
+    "female",
+    "guardians",
+    "galaxy",
+    "old",
+    "elf",
+    "dude",
+    "alex",
+    "m",
+    "beard",
+    "character",
+    "design",
+    "portraits",
+    "my",
+    "remains",
+    "realtime",
+    "andr\u00E9",
+    "castro",
+    "warhammer",
+    "roleplay",
+    "baba",
+    "roga",
+    "sasha",
+    "krieger",
+    "ristic",
+    "https://www.artstation.com/artwork/x818l"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -69,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -111,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": 0,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

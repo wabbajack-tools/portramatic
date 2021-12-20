@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/05/39/d1/0539d1324b058deb937f95bb8adb698e.png",
   "md5": "14C54EE7CC35225C67DD11895785931B",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "pirates",
+    "raynner",
+    "gil",
+    "dungeons",
+    "dragons",
+    "artwork",
+    "golden",
+    "dress",
+    "design",
+    "2018",
+    "hosney",
+    "qanadelo",
+    "https://www.artstation.com",
+    "tegn",
+    "raubarb",
+    "even",
+    "amundsen",
+    "rpg",
+    "characters"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -495,
     "offset_y": -173,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2100000000000002,
     "offset_x": -288,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0400000000000003,
     "offset_x": -12,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

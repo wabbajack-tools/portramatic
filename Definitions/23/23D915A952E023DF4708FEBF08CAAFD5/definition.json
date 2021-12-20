@@ -2,25 +2,53 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b39a9f7-2097-4670-9c02-42abb6327b9d/dc13y8c-a4010207-0e43-4f10-98d3-d23bb2ed19ed.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiMzlhOWY3LTIwOTctNDY3MC05YzAyLTQyYWJiNjMyN2I5ZFwvZGMxM3k4Yy1hNDAxMDIwNy0wZTQzLTRmMTAtOThkMy1kMjNiYjJlZDE5ZWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n-swZPRI2MiuxGt-yVu2QygqhoGjRZ9AVxUKZToklL4",
   "md5": "23D915A952E023DF4708FEBF08CAAFD5",
   "tags": [
-    ""
+    "",
+    "monk",
+    "concept",
+    "fighter",
+    "rogue",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "bob",
+    "kehl",
+    "characters",
+    "purple",
+    "feather",
+    "zhang",
+    "yifan",
+    "alien",
+    "druid",
+    "viet",
+    "anh",
+    "vu",
+    "zelda"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -306,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -128,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -8,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

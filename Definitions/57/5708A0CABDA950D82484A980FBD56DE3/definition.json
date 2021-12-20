@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/736x/4a/3d/04/4a3d047cc7d9255cbf04dfe009040220--the-witcher-ciri.jpg",
   "md5": "5708A0CABDA950D82484A980FBD56DE3",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "ciri",
+    "armor",
+    "black",
+    "nexus",
+    "game",
+    "thrones",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shoes",
+    "boots",
+    "blood",
+    "elf",
+    "paladin",
+    "oxana",
+    "reshetina",
+    "douxhlry\u0027s",
+    "gate",
+    "sara",
+    "biddle"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -33,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -587,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1099999999999985,
     "offset_x": -862,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

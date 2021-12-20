@@ -4,27 +4,47 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "pin",
+    "up",
+    "girl",
+    "coloring",
+    "doodle",
+    "drawing",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "ghostress",
+    "sasha",
+    "pinup",
+    "lucie",
+    "kessler"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -526,
     "offset_y": -172,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -307,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -98,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -22,25 +22,45 @@
     "sword",
     "rogue",
     "gnome",
-    "dwarf"
+    "dwarf",
+    "deep",
+    "wow",
+    "legend",
+    "zelda",
+    "link",
+    "character",
+    "design",
+    "challenge",
+    "old",
+    "future",
+    "hatori",
+    "hanzo",
+    "hugo",
+    "richard",
+    "https://www"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -291,
     "offset_y": -58.19999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5603333333333326,
     "offset_x": -125.20000000000005,
     "offset_y": -8.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.036333333333333,
     "offset_x": -155.13888888888914,
     "offset_y": 1.2314814814815236,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

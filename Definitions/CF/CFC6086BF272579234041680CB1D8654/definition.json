@@ -2,27 +2,54 @@
   "source": "https://sv.bagoum.com/getRawImage/0/0/101621100",
   "md5": "CFC6086BF272579234041680CB1D8654",
   "tags": [
-    ""
+    "",
+    "skeleton",
+    "bard",
+    "vampire",
+    "cult",
+    "male",
+    "elf",
+    "league",
+    "legends",
+    "demons",
+    "urael-adv",
+    "eudia",
+    "chae",
+    "character",
+    "design",
+    "dark",
+    "artwork",
+    "ragnabreak",
+    "donfoo",
+    ".",
+    "concept",
+    "yvette",
+    "advance",
+    "xi",
+    "zhang"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -419.9999999999967,
     "offset_y": -191.3333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -293.3333333333335,
     "offset_y": -120.6666666666664,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": -285.33333333333394,
     "offset_y": -141.33333333333263,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

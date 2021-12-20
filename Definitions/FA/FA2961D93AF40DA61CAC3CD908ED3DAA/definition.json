@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/w6rnATa.jpeg",
   "md5": "FA2961D93AF40DA61CAC3CD908ED3DAA",
   "tags": [
-    ""
+    "",
+    "norse",
+    "viking",
+    "warrior",
+    "male",
+    "fur",
+    "armor",
+    "female",
+    "game",
+    "thrones",
+    "barbarian",
+    "patrick",
+    ".",
+    "concept",
+    "wight",
+    "igor",
+    "krstic",
+    "artwork",
+    "monster",
+    "characters",
+    "jon",
+    "snow",
+    "oleg",
+    "matsokin",
+    "pictures",
+    "king"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -383,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -253,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -16,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,48 @@
   "source": "https://i.imgur.com/5zC9rec.jpeg",
   "md5": "361648A84FD7C43AFC250D66CF09045F",
   "tags": [
-    ""
+    "",
+    "world",
+    "warcraft",
+    "rogue",
+    "league",
+    "legends",
+    "maraad",
+    "eric",
+    "braddock",
+    "game",
+    "frost",
+    "lich",
+    "jaina",
+    "gabriela",
+    "nascimento",
+    "wallpaper",
+    "warlock",
+    "plutus",
+    "su"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -672,
     "offset_y": -295,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -181,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -68,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

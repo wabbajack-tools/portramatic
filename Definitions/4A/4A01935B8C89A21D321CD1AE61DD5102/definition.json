@@ -1,28 +1,55 @@
 {
-  "source": "https://preview.redd.it/vxx8vhtabb681.jpg?width=470&auto=webp&s=790233002285890d1dde1a634c7339b6d2d35e6a",
+  "source": "https://preview.redd.it/vxx8vhtabb681.jpg?width=470\u0026auto=webp\u0026s=790233002285890d1dde1a634c7339b6d2d35e6a",
   "md5": "4A01935B8C89A21D321CD1AE61DD5102",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "accessories",
+    "gloves",
+    "annabel",
+    "fan",
+    "saurabh",
+    "bhandari",
+    "character",
+    "rogue",
+    "qingkai",
+    "yang",
+    "https://www",
+    "dungeons",
+    "dragons",
+    "party",
+    "bailey"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -203,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -97,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -8,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

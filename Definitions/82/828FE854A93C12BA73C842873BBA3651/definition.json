@@ -6,27 +6,52 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "arabian",
+    "nights",
+    "arabic",
+    "women",
+    "drawing",
+    "en",
+    "garde",
+    "adalia",
+    "ana\u00EFs",
+    "simonnet",
+    "\u5916\u5305",
+    "insist",
+    "__",
+    "character",
+    "characters",
+    "design",
+    "aloy",
+    "overwatch",
+    "fan",
+    "ladislas",
+    "gueros",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -565,
     "offset_y": -269,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999933,
     "offset_x": -293,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5893333333333332,
     "offset_x": -184,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

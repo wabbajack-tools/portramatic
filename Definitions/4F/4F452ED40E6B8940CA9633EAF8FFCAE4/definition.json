@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/736x/fb/40/9c/fb409c5016023d9ecc919133586f2e48.jpg",
   "md5": "4F452ED40E6B8940CA9633EAF8FFCAE4",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "character",
+    "portraits",
+    "planescape",
+    "female",
+    "assassin",
+    "pirate",
+    "samurai",
+    "armor",
+    "dragon",
+    "age",
+    "origins",
+    "dark",
+    "elf",
+    "half",
+    "robert",
+    "mallinson",
+    "https://www.artstation.com/artwork",
+    "okay",
+    "i\u0027ll",
+    "go.",
+    "xuan",
+    "liu",
+    "project",
+    "twice",
+    "rpg",
+    "sniper",
+    "tzuyu",
+    "alfonso",
+    "maesa",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -302,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -261,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -160,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

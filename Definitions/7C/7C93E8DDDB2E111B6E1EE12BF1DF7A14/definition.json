@@ -9,27 +9,65 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "david",
+    "choe",
+    "murals",
+    "drawings",
+    "prints",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "shoes",
+    "heels",
+    "nina",
+    "williams",
+    "tekken",
+    "didi",
+    "esmeralda",
+    "priest",
+    "ere",
+    "fischl",
+    "genshin",
+    "impact",
+    "satue",
+    "cute",
+    "girl",
+    "game",
+    "character",
+    "anime",
+    "3d",
+    "print",
+    "model",
+    "artworks"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -396,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -99,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.51,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,43 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "elf",
+    "nika",
+    "kuznetsova",
+    "bladecraft",
+    "orianna",
+    "lol",
+    "tribute",
+    "2014",
+    "kyra",
+    "dawnwind",
+    "diana",
+    "aesthaal",
+    "world"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -236,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -32,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.54,
     "offset_x": -48,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

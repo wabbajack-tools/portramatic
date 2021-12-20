@@ -4,27 +4,58 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "percy",
+    "jackson",
+    "poems",
+    "fan",
+    "fandom",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "ben",
+    "raph",
+    "herrera",
+    "lomotan",
+    "https://www.artstation.com/artwork/z5k5bx",
+    "star",
+    "wars",
+    "berserker",
+    "brian",
+    "valeza",
+    "genevieve",
+    "oc",
+    "nopeys",
+    "norman",
+    "de",
+    "mesa"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -234,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -95,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -100,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

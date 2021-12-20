@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/d6/1d/36/d61d36250d25163a0436963f1f9850a9.jpg",
   "md5": "8AF48F0F9CB7D83CF47A8F73C80BDE06",
   "tags": [
-    ""
+    "",
+    "crusader",
+    "knights",
+    "dark",
+    "templar",
+    "knight",
+    "concept",
+    "armor",
+    "plate",
+    "samurai",
+    "heavy",
+    "sets",
+    "blood",
+    "red",
+    "subhadip",
+    "bhatta",
+    "nim",
+    "py",
+    "raid",
+    "shadow",
+    "legends",
+    "plarium",
+    "ukraine",
+    "character"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -289,
     "offset_y": -164,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": 0,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": 0,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

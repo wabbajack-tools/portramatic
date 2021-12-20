@@ -1,30 +1,43 @@
 {
-  "source": "https://pbs.twimg.com/media/D2aSUSlWoAYhqy5?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/D2aSUSlWoAYhqy5?format=jpg\u0026name=medium",
   "md5": "C260736F63CCF215E55215E8D737F809",
   "tags": [
     "warlock",
     "scythe",
-    "orc"
+    "orc",
+    "dark",
+    "forest",
+    "concept",
+    "painting",
+    "guild",
+    "wars",
+    "flower",
+    "demon",
+    "denis",
+    "zhbankov"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -297,
     "offset_y": -309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -134,
     "offset_y": -181,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -90,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

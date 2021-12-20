@@ -2,27 +2,57 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/026/409/151/large/petar-penev-dnavenom-bwg-stoneward-final.jpg?1588702546",
   "md5": "C1B42DC26A128A29A68182813F332CBB",
   "tags": [
-    ""
+    "",
+    "cosmere",
+    "books",
+    "shards",
+    "fan",
+    "world",
+    "warcraft",
+    "rogue",
+    "soul",
+    "cinder",
+    "jean",
+    "pascal",
+    "leclerc",
+    "kegle",
+    "https://www.artstation.com/artwork",
+    "assault",
+    "intercessor",
+    "benjamin",
+    "njama",
+    "2021",
+    "warhammer",
+    "40k",
+    "artwork",
+    "baby",
+    "bestiary",
+    "balor",
+    "vicki",
+    "pangestu"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -122,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -75,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -154,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

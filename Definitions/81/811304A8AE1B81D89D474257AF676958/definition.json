@@ -6,25 +6,58 @@
     "human",
     "costume",
     "quake",
-    ""
+    "",
+    "guts",
+    "from",
+    "berserk",
+    "anime",
+    "armor",
+    "arm",
+    "vampire",
+    "knight",
+    "manga",
+    "dark",
+    "elf",
+    "temerian",
+    "scout",
+    "maureen",
+    "\u0027ibealia\u0027",
+    "caudron",
+    "https://www.artstation.com/artwork",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend",
+    "cryptids",
+    "applibot",
+    "inc",
+    "marat",
+    "ars"
   ],
   "small": {
     "scale": 1,
     "offset_x": -492,
     "offset_y": -235,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -412,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -130,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

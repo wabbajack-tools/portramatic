@@ -3,27 +3,62 @@
   "md5": "C0150DE78D2380F640535F5D780EEC5F",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "elf",
+    "wizard",
+    "male",
+    "character",
+    "sorcerer",
+    "lord",
+    "rings",
+    "medieval",
+    "knights",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "sandals",
+    "pete",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "2020",
+    "design",
+    "wild",
+    "west",
+    "challenge",
+    "2018",
+    "2021",
+    "arman",
+    "akopian",
+    "https://www.artstation.com/artwork/rrnrbj",
+    "digital"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -277.00000000000006,
     "offset_y": -114.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -115.66666666666663,
     "offset_y": -0.6666666666665435,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -172.6666666666663,
     "offset_y": -0.9999999999997726,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

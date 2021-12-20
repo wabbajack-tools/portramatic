@@ -3,27 +3,42 @@
   "md5": "95F98B33AEFE962E28B9904F92330771",
   "tags": [
     "human",
-    "female"
+    "female",
+    "league",
+    "legends",
+    "\u6B87",
+    "e",
+    "er",
+    "yuffie",
+    "javier",
+    "bolado",
+    "fanart",
+    "hisoka",
+    "ma",
+    "boon"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -183,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -50,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -42,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

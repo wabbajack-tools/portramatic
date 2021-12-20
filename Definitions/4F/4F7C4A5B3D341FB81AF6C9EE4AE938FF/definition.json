@@ -2,27 +2,55 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/018/291/566/large/eunice-ye-953.jpg?15588475305",
   "md5": "4F7C4A5B3D341FB81AF6C9EE4AE938FF",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "demon",
+    "hunter",
+    "concept",
+    "warrior",
+    "assassin",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "safiriht",
+    "tiefling",
+    "druid",
+    "april",
+    "marble",
+    "https://www.artstation.com/artwork",
+    "183",
+    "paul",
+    "shut",
+    "2020",
+    "with",
+    "characters",
+    "pin"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -676,
     "offset_y": -393,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -275,
     "offset_y": -232,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -104,
     "offset_y": -222,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

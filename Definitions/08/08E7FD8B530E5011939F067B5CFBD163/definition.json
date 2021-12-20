@@ -4,27 +4,39 @@
   "tags": [
     "female",
     "elf",
-    "samurai"
+    "samurai",
+    "cinderella",
+    "disney",
+    "princess",
+    "belle",
+    "ariel",
+    "wood",
+    "witch",
+    "caro",
+    "tuts"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -175,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -126,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -88,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

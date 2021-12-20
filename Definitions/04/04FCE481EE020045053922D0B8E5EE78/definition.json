@@ -2,27 +2,42 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/683/599/large/sam-kh-yamamoto-final.jpg?1450794767",
   "md5": "04FCE481EE020045053922D0B8E5EE78",
   "tags": [
-    "z4"
+    "z4",
+    "head",
+    "captain",
+    "yamamoto",
+    "bleach",
+    "zanpakuto",
+    "classical",
+    "dragon",
+    "molten",
+    "breath",
+    "buishiroad",
+    "wargreymon",
+    "w.rex"
   ],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -154.40000000000003,
     "offset_y": -5.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -218.39999999999992,
     "offset_y": -14.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -293.1388888888887,
     "offset_y": 92.90740740740739,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

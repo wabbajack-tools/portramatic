@@ -5,27 +5,53 @@
     "whisp",
     "gnome",
     "wizard",
-    "mattforsyth"
+    "mattforsyth",
+    "ninja",
+    "sword",
+    "concept",
+    "shinobi",
+    "assassin",
+    "death",
+    "knight",
+    "armor",
+    "samurai",
+    "plate",
+    "dark",
+    "ling",
+    "bai",
+    "zhihui",
+    "su",
+    "robot",
+    "hasan",
+    "tabrizi",
+    "darky",
+    "characters",
+    "armiche",
+    "lora",
+    "character"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -231.33333333332828,
     "offset_y": -205.66666666666424,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -74.99999999999989,
     "offset_y": -183.0000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -1.9999999999997726,
     "offset_y": -269.9999999999998,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

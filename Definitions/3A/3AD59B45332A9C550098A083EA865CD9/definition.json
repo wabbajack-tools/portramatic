@@ -17,27 +17,36 @@
     "riikka",
     "sofia",
     "riekkinen",
-    "2021"
+    "2021",
+    "beautiful",
+    "white",
+    "blouses",
+    "lace",
+    "buttons",
+    "open"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -92,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -2,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -32,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

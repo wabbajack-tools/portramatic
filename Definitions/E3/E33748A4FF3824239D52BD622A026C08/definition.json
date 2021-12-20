@@ -9,27 +9,48 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "work",
+    "dresses",
+    "woman",
+    "poem",
+    "happy",
+    "female",
+    "assassin",
+    "lady",
+    "gun",
+    "d-maat-q",
+    "savage",
+    "collection",
+    "yu",
+    "anyao",
+    "barbarian",
+    "3d\u6253\u5370-\u7CBE\u7075",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -417,
     "offset_y": -285,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -106,
     "offset_y": -143,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999993,
     "offset_x": -20,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

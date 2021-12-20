@@ -4,27 +4,35 @@
   "tags": [
     "female",
     "human",
-    "mage"
+    "mage",
+    "dark",
+    "gothic",
+    "witch",
+    "anime",
+    "artwork"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -275,
     "offset_y": -93,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -237,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -94,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

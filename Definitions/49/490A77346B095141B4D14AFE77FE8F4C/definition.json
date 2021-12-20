@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/47/3a/ae/473aaea4a2653e736a55d4d8cb376bdf.jpg",
   "md5": "490A77346B095141B4D14AFE77FE8F4C",
   "tags": [
-    ""
+    "",
+    "fire",
+    "emblem",
+    "divine",
+    "dragon",
+    "heroes",
+    "tiki",
+    "anime",
+    "girl",
+    "characters",
+    "yugio",
+    "yu-gi-oh",
+    "5d\u0027s",
+    "fairy",
+    "tail",
+    "drawings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "accessories",
+    "jewelry",
+    "bracelet"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -235,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -91,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -6,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

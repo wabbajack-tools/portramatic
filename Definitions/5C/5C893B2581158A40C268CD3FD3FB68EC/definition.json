@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/40/8f/22/408f22c28e08aa89820b53e4f06ae40e.jpg",
   "md5": "5C893B2581158A40C268CD3FD3FB68EC",
   "tags": [
-    ""
+    "",
+    "hunter",
+    "ceiling",
+    "fan",
+    "blades",
+    "only",
+    "fans",
+    "with",
+    "lights",
+    "brushed",
+    "nickel",
+    "he-man",
+    "she",
+    "ra",
+    "anime",
+    "girl",
+    "dragon",
+    "armor",
+    "dc",
+    "comics",
+    "character",
+    "alejandro",
+    "tio",
+    "gary",
+    "terra",
+    "battle",
+    "max",
+    "berthelot",
+    "lohse",
+    "dos2",
+    "anastasija",
+    "gaus",
+    "saar"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -100,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -92,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -88,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

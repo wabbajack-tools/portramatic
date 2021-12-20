@@ -11,27 +11,45 @@
     "contract",
     "worrior",
     "bikini",
-    "armor"
+    "armor",
+    "beauty",
+    "beast",
+    "lord",
+    "rings",
+    "imladris",
+    "caregiver",
+    "aleksander",
+    "karcz",
+    "dance",
+    "andy",
+    "liong",
+    "hera",
+    "dongming",
+    "yang",
+    "https://www.artstation.com/artwork/p5rz1"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -470,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -242,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -24,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

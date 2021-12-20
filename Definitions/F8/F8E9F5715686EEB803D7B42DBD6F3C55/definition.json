@@ -5,27 +5,44 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "lee",
+    "seung",
+    "gi",
+    "movies",
+    "ki",
+    "min",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -269.7999999999997,
     "offset_y": -110.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -97.19999999999976,
     "offset_y": 1.3999999999995794,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -58.324074074074815,
     "offset_y": -13.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/736x/c1/c7/b8/c1c7b804e84c67de4cb0b3dccb0be3d3.jpg",
   "md5": "679556F6398BA7FCE11CDFAD57398E4D",
   "tags": [
-    ""
+    "",
+    "matt",
+    "dixon",
+    "pin",
+    "up",
+    "women",
+    "sad",
+    "robot",
+    "anime",
+    "girl",
+    "dungeons",
+    "dragons",
+    "johan",
+    "kahito",
+    "slydeft",
+    "2021",
+    "gotrek",
+    "gurnisson",
+    "martin",
+    "roca",
+    "necalli",
+    "vin\u00EDcius",
+    "de",
+    "moura"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -282,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -92,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7500000000000007,
     "offset_x": -46,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

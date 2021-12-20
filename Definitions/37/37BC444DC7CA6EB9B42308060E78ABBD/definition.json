@@ -2,27 +2,57 @@
   "source": "https://us.v-cdn.net/5021068/uploads/editor/4a/725249oiyd39.jpg",
   "md5": "37BC444DC7CA6EB9B42308060E78ABBD",
   "tags": [
-    ""
+    "",
+    "sorcerer",
+    "drawings",
+    "shadow",
+    "drow",
+    "concept",
+    "dark",
+    "elf",
+    "alien",
+    "warrior",
+    "black",
+    "dragon",
+    "ancient",
+    "vampire",
+    "king",
+    "grigory",
+    "lebidko",
+    "https://www.artstation.com/artwork",
+    "lich",
+    "yu",
+    "cheng",
+    "hong",
+    "http://www.artstation.com/artwork/lich-ff1e3589-81d3-4eb2",
+    "ascension",
+    "othon",
+    "nikolaidis",
+    "artwork",
+    "pinterest"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -84,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -2,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

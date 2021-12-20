@@ -1,28 +1,36 @@
 {
-  "source": "https://tcgplayer-marketing.s3.amazonaws.com/content/magic/2017/09/29/C-09-25-2017-MTG-Article-OpenGraph-Craig.jpg?anchor=center&mode=crop&width=1540&height=868&rnd=131455721710000000",
+  "source": "https://tcgplayer-marketing.s3.amazonaws.com/content/magic/2017/09/29/C-09-25-2017-MTG-Article-OpenGraph-Craig.jpg?anchor=center\u0026mode=crop\u0026width=1540\u0026height=868\u0026rnd=131455721710000000",
   "md5": "73AC0028487611C87EDFF71C1CFB06D7",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "ixalan",
+    "vampires",
+    "dinosaur",
+    "goblin"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -548,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -723,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6800000000000006,
     "offset_x": -532,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

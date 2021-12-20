@@ -7,27 +7,56 @@
     "priest",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "lee",
+    "jae-in",
+    "jae",
+    "young",
+    "yong",
+    "jun-hyung",
+    "witcher",
+    "ancient",
+    "greek",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "guardians",
+    "galaxy",
+    "omu",
+    "upied",
+    "vampireb",
+    "zinna",
+    "du",
+    "steampunk",
+    "witch",
+    "doctor",
+    "angelique",
+    "shelley",
+    "black"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -1060.7999999999997,
     "offset_y": -227.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9201666666666668,
     "offset_x": -438.1999999999998,
     "offset_y": -58.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2814166666666666,
     "offset_x": -512.3240740740748,
     "offset_y": -89.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

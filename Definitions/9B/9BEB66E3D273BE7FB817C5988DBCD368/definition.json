@@ -6,27 +6,59 @@
     "male",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "death",
+    "grim",
+    "reaper",
+    "angel",
+    "cloak",
+    "drawing",
+    "girl",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "castlevania",
+    "lords",
+    "shadow",
+    "warriors",
+    "dark",
+    "souls",
+    "lord",
+    "francesco",
+    "ruga",
+    "silent",
+    "mask",
+    "benjamin",
+    "goutte",
+    "uldron",
+    "sov",
+    "crow",
+    "destiny",
+    "fan"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -398,
     "offset_y": -290,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -152,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -6,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

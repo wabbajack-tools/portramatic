@@ -2,27 +2,49 @@
   "source": "https://i.imgur.com/htAG0jd.jpeg",
   "md5": "F47AEC564A63EC9B6B53FAA6204F65F7",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "street",
+    "fighter",
+    "cammy",
+    "practice",
+    "siwhan",
+    "ahn",
+    "poses",
+    "korean",
+    "artist",
+    "two",
+    "yuri",
+    "otsuka",
+    "nier",
+    "automata",
+    "2b",
+    "shane",
+    "park"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -171,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -106,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -100,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,25 +11,52 @@
     "clothing",
     "apparel",
     "legend of zelda",
-    ""
+    "",
+    "cryptid",
+    "ocean",
+    "cryptids",
+    "hunters",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "zelda",
+    "skyward",
+    "sword",
+    "legend",
+    "characters",
+    "\u4E2D\u5F0F\u89D2\u8272\u5BA3\u4F20\u63D2\u753B",
+    "moon",
+    "lii",
+    "artemis",
+    "vasilyna",
+    "holod",
+    "poseidon",
+    "\u8001\u982D",
+    "\u5C71"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -171,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -64,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -44,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

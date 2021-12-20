@@ -6,27 +6,52 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "angel",
+    "god",
+    "beautiful",
+    "angels",
+    "drawings",
+    "archangels",
+    "guardian",
+    "reaper",
+    "wolf",
+    "spirit",
+    "stephen",
+    "sitton",
+    "mythgard.",
+    "gamayun",
+    "alexander",
+    "mokhov",
+    "dark",
+    "breton",
+    "conjurer",
+    "elder",
+    "scrolls",
+    "legends"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -841.7999999999997,
     "offset_y": -483.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -429.19999999999976,
     "offset_y": -261.6000000000004,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -272.3240740740748,
     "offset_y": -167.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

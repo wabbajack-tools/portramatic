@@ -11,27 +11,45 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "witch",
+    "character",
+    "design",
+    "forest",
+    "anime",
+    "one",
+    "sword",
+    "eron",
+    "kim",
+    "https://www.artstation.com/artwork/l3zre",
+    "dungeons",
+    "winged",
+    "swordsmen",
+    "james",
+    "green"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -299.7999999999997,
     "offset_y": -109.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -132.19999999999976,
     "offset_y": -67.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -50.324074074074815,
     "offset_y": -1.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

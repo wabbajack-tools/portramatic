@@ -9,27 +9,55 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "anime",
+    "poses",
+    "tough",
+    "girl",
+    "drawing",
+    "guy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "lianora",
+    "jorge",
+    "rodrigues",
+    "female",
+    "elf",
+    "half",
+    "dual",
+    "wielding",
+    "blades",
+    "rogue",
+    "fighter",
+    "roadhog",
+    "sheng",
+    "mai"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -385,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -49,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2899999999999998,
     "offset_x": -26,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,54 @@
   "md5": "D1EC2B5A3A1DEE8E5867B1494C3E50EC",
   "tags": [
     "wolf",
-    "barbarian"
+    "barbarian",
+    "half-orc",
+    "ranger",
+    "monk",
+    "fire",
+    "emblem",
+    "path",
+    "radiance",
+    "knight",
+    "armor",
+    "samurai",
+    "warriors",
+    "ashes",
+    "victoria",
+    "glassfire",
+    "fernanda",
+    "suarez",
+    "sketches",
+    "character",
+    "design",
+    "samurai\uFF1F",
+    "rock",
+    "d",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -218.40000000000012,
     "offset_y": -71.20000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -149.60000000000002,
     "offset_y": -46.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 1.6018518518521887,
     "offset_y": -46.453703703703695,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

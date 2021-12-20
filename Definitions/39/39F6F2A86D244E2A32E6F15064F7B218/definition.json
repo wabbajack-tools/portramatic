@@ -2,27 +2,55 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/003/221/633/large/minjun-kim-1606-witch-minjun-kim.jpg?14712789070",
   "md5": "39F6F2A86D244E2A32E6F15064F7B218",
   "tags": [
-    ""
+    "",
+    "wicked",
+    "witch",
+    "tribal",
+    "warrior",
+    "mage",
+    "dark",
+    "elf",
+    "vampire",
+    "masquerade",
+    "female",
+    "assassin",
+    "lord",
+    "rings",
+    "demon",
+    "concepts",
+    "dinulescu",
+    "alexandru",
+    "creatures_002",
+    "pixie",
+    "union",
+    "rework",
+    "seung",
+    "gu",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -612,
     "offset_y": -471,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -186,
     "offset_y": -222,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -156,
     "offset_y": -288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

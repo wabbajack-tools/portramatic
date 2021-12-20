@@ -2,27 +2,51 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2016/03/Olivia-Mobilized-for-War-Shadows-over-Innistrad-Art.jpg",
   "md5": "70FFC759A5C717940C8C268AB9A6BC97",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "innistrad",
+    "shadow",
+    "over",
+    "cards",
+    "lord",
+    "rings",
+    "got",
+    "your",
+    "back",
+    "mignon",
+    "zakuga",
+    "helwinter",
+    "gate",
+    "marc",
+    "lee",
+    "https://www",
+    "warlord",
+    "mauro",
+    "belfiore",
+    "artwork"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -794,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -377,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -360,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

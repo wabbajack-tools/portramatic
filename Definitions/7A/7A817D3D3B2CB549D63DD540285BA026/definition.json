@@ -4,27 +4,50 @@
   "tags": [
     "human",
     "male",
-    "mage"
+    "mage",
+    "dynasty",
+    "warriors",
+    "orochi",
+    "\u5916\u5305",
+    "insist",
+    "__",
+    "character",
+    "portraits",
+    "guard",
+    "katerina",
+    "kirillova",
+    "female",
+    "dungeon",
+    "hunter",
+    "4",
+    "knight",
+    "mobile",
+    "games",
+    "b",
+    "ge"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -711.5,
     "offset_y": -208,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4899999999999993,
     "offset_x": -321.5,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999994,
     "offset_x": -169,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,48 @@
     "human",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "witcher",
+    "dorregaray",
+    "gwent",
+    "icon",
+    "artwork",
+    "alien",
+    "vs",
+    "predator",
+    "underworld",
+    "rise",
+    "lycans",
+    "league",
+    "legends",
+    "viktor",
+    "fan",
+    "laurits",
+    "rask",
+    "jinx"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -279.7999999999997,
     "offset_y": -251.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -135.19999999999976,
     "offset_y": -115.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -66.32407407407482,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

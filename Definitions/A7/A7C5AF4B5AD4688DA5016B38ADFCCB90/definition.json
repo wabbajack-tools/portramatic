@@ -9,27 +9,53 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "kingdom",
+    "under",
+    "fire",
+    "characters",
+    "crusaders",
+    "female",
+    "assassin",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "\u674E\u540C\u5B66-cg",
+    "student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "royal",
+    "guard",
+    "celder",
+    "medieval",
+    "\u5218\u540C\u5B66-cg-student",
+    "wip"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -585,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -218,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9899999999999995,
     "offset_x": -74,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

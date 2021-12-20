@@ -2,27 +2,53 @@
   "source": "https://64.media.tumblr.com/f50d08640c88cb6fd623f6288756c038/tumblr_p3ovzrpxvv1ucnjdqo1_r1_1280.jpg",
   "md5": "18C3E606B9AB0AC330DF541E6FB854DA",
   "tags": [
-    "sorceress"
+    "sorceress",
+    "half-elf",
+    "sorcerer",
+    "dd",
+    "female",
+    "ranger",
+    "dark",
+    "elf",
+    "assassin",
+    "night",
+    "league",
+    "legends",
+    "jaina",
+    "proudmoore",
+    "nataliya",
+    "barteneva",
+    "thornia",
+    "asgardian",
+    "husni",
+    "arsyah",
+    "death",
+    "sworn",
+    "katarina",
+    "eollyn"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -338,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -176,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -114,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

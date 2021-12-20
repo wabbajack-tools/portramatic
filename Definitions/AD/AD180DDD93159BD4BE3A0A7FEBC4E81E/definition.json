@@ -4,27 +4,38 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "steampunk",
+    "drawings",
+    "angel",
+    "beautiful",
+    "some",
+    "posters",
+    "wandong",
+    "xu"
   ],
   "small": {
     "scale": 0.27999999999999936,
     "offset_x": -36.5,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999992,
     "offset_x": -17.5,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499166666666663,
     "offset_x": -25,
     "offset_y": -23,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

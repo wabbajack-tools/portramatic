@@ -27,27 +27,47 @@
     "gyorgy",
     "berszan",
     "laura",
-    "beach"
+    "beach",
+    "cool",
+    "girl",
+    "with",
+    "white",
+    "hair",
+    "black",
+    "characters",
+    "nearel",
+    "rich",
+    "carey",
+    "\uD83E\uDD8E",
+    "fury",
+    "demi",
+    "matus",
+    "shards",
+    "lisa",
+    "lenz"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -30,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -35,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -16,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

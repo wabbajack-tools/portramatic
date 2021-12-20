@@ -5,27 +5,56 @@
     "human",
     "male",
     "warrior",
-    "prince"
+    "prince",
+    "female",
+    "paladin",
+    "concept",
+    "character",
+    "design",
+    "knight",
+    "armor",
+    "plate",
+    "medieval",
+    "knights",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "unnamed",
+    "imthonof",
+    "u",
+    "project",
+    "w",
+    "woo",
+    "kim",
+    "assassin",
+    "taekwon",
+    "a-rang"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -569,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999957,
     "offset_x": -320,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.45999999999999963,
     "offset_x": -244,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

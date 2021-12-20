@@ -4,27 +4,59 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "zelda",
+    "horse",
+    "botw",
+    "sidon",
+    "black",
+    "fire",
+    "dc",
+    "pirate",
+    "assassin",
+    "northern",
+    "woman",
+    "seung",
+    "chan",
+    "hong",
+    "girl",
+    "swordswoman",
+    "student",
+    "photobash",
+    "paint",
+    "over",
+    "demo",
+    "siewhong",
+    "lum",
+    "2021",
+    "beginer",
+    "sword",
+    "junq",
+    "jeon",
+    "with"
   ],
   "small": {
     "scale": 0.7999999999999997,
     "offset_x": -704.5,
     "offset_y": -335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999994,
     "offset_x": -401.5,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999994,
     "offset_x": -237,
     "offset_y": -117,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

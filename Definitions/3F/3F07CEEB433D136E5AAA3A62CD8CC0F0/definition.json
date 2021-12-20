@@ -4,27 +4,39 @@
   "tags": [
     "misc",
     "male",
-    "warrior"
+    "warrior",
+    "conan",
+    "barbarian",
+    "tattoo",
+    "drawing",
+    "scrap",
+    "goblin",
+    "ii",
+    "rishikesh",
+    "nandlaskar"
   ],
   "small": {
     "scale": 1.0000000000000007,
     "offset_x": -568,
     "offset_y": -750,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8400000000000001,
     "offset_x": -378,
     "offset_y": -579,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -330,
     "offset_y": -486,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

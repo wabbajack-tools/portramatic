@@ -9,27 +9,50 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "anime",
+    "angel",
+    "night",
+    "elf",
+    "girl",
+    "amber",
+    "ye",
+    "2020",
+    "artwork",
+    "character",
+    "legend",
+    "monsters",
+    "hee",
+    "wan",
+    "jung",
+    "korean",
+    "cartoon",
+    "mercy",
+    "winter",
+    "shoo"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -389,
     "offset_y": -139,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -138,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3199999999999998,
     "offset_x": -26,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

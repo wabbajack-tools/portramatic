@@ -19,27 +19,54 @@
     "anna",
     "kharitonova",
     "design",
-    "juliana"
+    "juliana",
+    "sci-fi",
+    "warrior",
+    "assassin",
+    "pirate",
+    "witcher",
+    "black",
+    "widow",
+    "g.i.joe",
+    "dark",
+    "rises",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "bottom_wear",
+    "pants",
+    "kim",
+    "ssang",
+    "https://www.artstation.com/artwork/0xgwxv",
+    "zehaari",
+    "sahil",
+    "bhardwaj",
+    "kudo",
+    "artist",
+    "2021"
   ],
   "small": {
     "scale": 1.3699999999999974,
     "offset_x": -876,
     "offset_y": -421,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -567,
     "offset_y": -269,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999986,
     "offset_x": -150,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

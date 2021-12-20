@@ -2,27 +2,49 @@
   "source": "https://i.redd.it/lz917op3zfo21.jpg",
   "md5": "AEB088D26EE220522010002836147792",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "female",
+    "character",
+    "sorceress",
+    "dragonborn",
+    "sorcerer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "blood",
+    "tatiana",
+    "danilenko"
   ],
   "small": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -203,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -26,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

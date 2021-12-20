@@ -2,27 +2,50 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921419606395060274/guerriero_ganzo_con_spada_luminosa.jpg",
   "md5": "9F93D152216E229E1FFCFCC3516DAAE8",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "dark",
+    "wood",
+    "faction",
+    "enemy",
+    "exploration",
+    "muyoung",
+    "kim",
+    "evil",
+    "futurista",
+    "shaman",
+    "juanco",
+    ".",
+    "talenthouse",
+    "thitipon",
+    "dicruen"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -379,
     "offset_y": -285,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -161,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -44,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,66 @@
   "source": "https://i.pinimg.com/originals/3e/9e/e5/3e9ee51bb690cd8b81dc12989345b435.jpg",
   "md5": "CC201D34FEAD00353C4710232866AAA8",
   "tags": [
-    ""
+    "",
+    "male",
+    "blood",
+    "elves",
+    "elf",
+    "fan",
+    "mage",
+    "dark",
+    "death",
+    "knight",
+    "demon",
+    "hunter",
+    "souls",
+    "dungeons",
+    "dragons",
+    "hansel",
+    "gretel",
+    "dragon",
+    "armor",
+    "masters",
+    "universe",
+    "\u3147\u3147",
+    "joo",
+    "characters",
+    "concept",
+    "rpg",
+    "character",
+    "batman",
+    "jin",
+    "roh",
+    "reza",
+    "ilyasa",
+    "robot",
+    "executer",
+    "pu",
+    "reum",
+    "lee"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -494,
     "offset_y": -338,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -231,
     "offset_y": -203,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -36,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

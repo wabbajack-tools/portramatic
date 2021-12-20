@@ -2,27 +2,64 @@
   "source": "https://s3.aws-k8s.generated.photos/ai-generated-photos/upscaler-uploads/427/2b34e3b8-a820-41ec-8939-bc550db6be77.jpg",
   "md5": "876414D4FB1ADDBFF4C374938D35E21D",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "assassin",
+    "wood",
+    "female",
+    "knight",
+    "armor",
+    "plate",
+    "samurai",
+    "medieval",
+    "knights",
+    "armors",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "under_wear",
+    "socks",
+    "personal",
+    "work",
+    "younghun",
+    "byun",
+    "character",
+    "design",
+    "sci",
+    "fi",
+    "bbang",
+    "q",
+    "https://www.artstation.com/artwork/8e5ekq",
+    "characters",
+    "mikhail",
+    "palamarchuk"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -353,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -308,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -146,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

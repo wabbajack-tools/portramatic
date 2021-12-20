@@ -5,27 +5,47 @@
     "human",
     "druid",
     "dark",
-    ""
+    "",
+    "female",
+    "male",
+    "half",
+    "elf",
+    "wood",
+    "costumes",
+    "detective",
+    "tristan",
+    "poulain",
+    "concept",
+    "ben",
+    "juniu",
+    "comic",
+    "book",
+    "artists",
+    "cool",
+    "designs"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -346,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -181,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -92,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

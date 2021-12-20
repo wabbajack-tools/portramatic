@@ -4,27 +4,52 @@
   "tags": [
     "human",
     "female",
-    "samurai"
+    "samurai",
+    "sol",
+    "smite",
+    "skins",
+    "chibi",
+    "susanoo",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "assassin",
+    "knight",
+    "errant",
+    "liujiang",
+    "jin",
+    "alice",
+    "halloween",
+    "forest",
+    "robet",
+    "xu",
+    "mercy",
+    "winter",
+    "shoo"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -383,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -184,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.85,
     "offset_x": -82,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

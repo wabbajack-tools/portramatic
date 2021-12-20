@@ -2,25 +2,47 @@
   "source": "https://i.pinimg.com/736x/18/cc/b7/18ccb71a3cab664c389a1fc469b9dca0.jpg",
   "md5": "416EBC5B2F4242B03A3C58B386FA7F27",
   "tags": [
-    "elf"
+    "elf",
+    "with",
+    "red",
+    "hair",
+    "girl",
+    "haired",
+    "female",
+    "elves",
+    "color",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "studies",
+    "i",
+    "jari",
+    "melg\u00E9n"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -16,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -4,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7900000000000007,
     "offset_x": -62,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

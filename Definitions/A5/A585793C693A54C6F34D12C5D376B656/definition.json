@@ -2,27 +2,32 @@
   "source": "https://i.pinimg.com/736x/8a/12/74/8a1274136d4375728b1af44f09c6b478.jpg",
   "md5": "A585793C693A54C6F34D12C5D376B656",
   "tags": [
-    ""
+    "",
+    "cosmetics",
+    "women"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -33,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -56,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -162,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

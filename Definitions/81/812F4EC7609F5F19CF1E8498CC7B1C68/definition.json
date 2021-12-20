@@ -2,25 +2,37 @@
   "source": "https://media.artsper.com/artwork/663936_1_m.jpg",
   "md5": "812F4EC7609F5F19CF1E8498CC7B1C68",
   "tags": [
-    "Face of Evil"
+    "Face of Evil",
+    "star",
+    "wars",
+    "clone",
+    "kratos",
+    "darth",
+    "vader",
+    "maul"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -10.6666666666667,
     "offset_y": -1.3333333333333428,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -18.666666666666572,
     "offset_y": -5.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -88,
     "offset_y": -1.3333333333332575,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,53 @@
   "source": "https://i.pinimg.com/564x/8c/2b/6e/8c2b6e2b1a87fb9a81fb5859da2623fe.jpg",
   "md5": "51BE24D49BEE6791E10C8E486991D95D",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "rogue",
+    "character",
+    "cyberpunk",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "black",
+    "survival-nadine",
+    "yoon",
+    "jung",
+    "choi(jellyb",
+    "swords",
+    "girl",
+    "\u3147\u3147",
+    "joo",
+    "design",
+    "sword"
   ],
   "small": {
     "scale": 1.8000000000000007,
     "offset_x": -406,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -162,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -2,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

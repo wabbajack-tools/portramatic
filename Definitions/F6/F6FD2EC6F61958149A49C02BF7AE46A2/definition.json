@@ -5,27 +5,41 @@
     "outsider",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "alien",
+    "bounty",
+    "hunter",
+    "miguel",
+    "iglesias",
+    "https://www.artstation.com/artwork/8ld2wq"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -539.7999999999997,
     "offset_y": -80.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -359.1999999999998,
     "offset_y": -13.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -444.3240740740748,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

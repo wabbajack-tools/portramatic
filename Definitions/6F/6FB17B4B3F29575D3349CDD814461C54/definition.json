@@ -5,27 +5,56 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "costumes",
+    "for",
+    "adults",
+    "halloween",
+    "women\u0027s",
+    "couples",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "archer",
+    "juyeon",
+    "park",
+    "design",
+    "portfolio1",
+    "jihae",
+    "https://www",
+    "sword",
+    "girl",
+    "hyun",
+    "gi",
+    "kim"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -688,
     "offset_y": -230,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6215833333333327,
     "offset_x": -427,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6319999999999992,
     "offset_x": -250,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

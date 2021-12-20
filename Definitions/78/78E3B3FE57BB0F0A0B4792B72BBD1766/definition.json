@@ -2,27 +2,52 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/003/161/050/medium/banjiu-e-vik-the-viking.jpg?1470447119",
   "md5": "78E3B3FE57BB0F0A0B4792B72BBD1766",
   "tags": [
-    ""
+    "",
+    "viking",
+    "woman",
+    "drawing",
+    "warrior",
+    "maiden",
+    "sword",
+    "vampire",
+    "masquerade",
+    "game",
+    "thrones",
+    "female",
+    "pirate",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "jing",
+    "deng",
+    "girl",
+    "archer",
+    "hejun",
+    "mao"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -353,
     "offset_y": -242,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -100,
     "offset_y": -143,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -30,
     "offset_y": -188,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

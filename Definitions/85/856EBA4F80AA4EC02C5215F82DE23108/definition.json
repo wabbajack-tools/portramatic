@@ -8,27 +8,45 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "booster",
+    "pack",
+    "magic",
+    "gathering",
+    "tokens",
+    "jungleman",
+    "base",
+    "nonpapat",
+    "https://www.artstation.com/artwork/znyrd",
+    "concept",
+    "digital",
+    "science",
+    "fiction",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -479,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -313,
     "offset_y": -84,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -404,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

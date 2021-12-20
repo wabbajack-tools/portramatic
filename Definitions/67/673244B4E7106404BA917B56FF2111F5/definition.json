@@ -5,27 +5,54 @@
     "human",
     "male",
     "assassin",
-    "rogue"
+    "rogue",
+    "witcher",
+    "gwent",
+    "artwork",
+    "geralt",
+    "card",
+    "skyrim",
+    "league",
+    "legends",
+    "game",
+    "thrones",
+    "dark",
+    "souls",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www",
+    "scp-1943",
+    "dan",
+    "temirov",
+    "scp",
+    "drow",
+    "ranger",
+    "done",
+    "play"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -457.7999999999997,
     "offset_y": -87.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -333.19999999999976,
     "offset_y": -5.600000000000421,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -590.3240740740748,
     "offset_y": -45.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

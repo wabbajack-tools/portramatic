@@ -2,27 +2,46 @@
   "source": "https://i.imgur.com/ZaxFxiX.jpeg",
   "md5": "AD282787904FE16DAD92B9E8AF75E7E4",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "berserker",
+    "death",
+    "dealer",
+    "conan",
+    "barbarian",
+    "study",
+    "daniel",
+    "teo",
+    "mabinogi2",
+    "illustration",
+    "han",
+    "ahreum"
   ],
   "small": {
     "scale": 1,
     "offset_x": -352,
     "offset_y": -374,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -362,
     "offset_y": -325,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -106,
     "offset_y": -204,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

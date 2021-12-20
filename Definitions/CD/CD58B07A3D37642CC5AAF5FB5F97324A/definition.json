@@ -5,27 +5,59 @@
     "Elf",
     "Assassin",
     "Rogue",
-    "Magus"
+    "Magus",
+    "arcane",
+    "archer",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "halfling",
+    "orc",
+    "warrior",
+    "orcs",
+    "ogedai",
+    "barbarian",
+    "stephen",
+    "nickel",
+    "https://www.artstation.com/artwork/rd4dx",
+    "harok",
+    "lee",
+    "https://www.artstation.com/artwork/gorpv",
+    "female",
+    "character",
+    "new",
+    "10",
+    "today",
+    "with",
+    "pictures",
+    "artwork",
+    "goom",
+    "#digitalart",
+    "#"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -398,
     "offset_y": -234,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -148,
     "offset_y": -146,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.35999999999999943,
     "offset_x": -48,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

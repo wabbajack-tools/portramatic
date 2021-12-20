@@ -1,28 +1,49 @@
 {
-  "source": "https://th.bing.com/th/id/R.0f2c1cf72729a9c761117a3bf7223528?rik=jMBuspoN%2bYz7Kg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-e365UnCTzXY%2fUa5GAwj9eoI%2fAAAAAAAAA3s%2fbQ6iojHii58%2fs1600%2fLetter%2bof%2bIntroduction.jpg&ehk=8hs2nXet9PTyhPfMSFAMmXe8tz6D05cuH0Zhnicz5mY%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.0f2c1cf72729a9c761117a3bf7223528?rik=jMBuspoN%2bYz7Kg\u0026riu=http%3a%2f%2f1.bp.blogspot.com%2f-e365UnCTzXY%2fUa5GAwj9eoI%2fAAAAAAAAA3s%2fbQ6iojHii58%2fs1600%2fLetter%2bof%2bIntroduction.jpg\u0026ehk=8hs2nXet9PTyhPfMSFAMmXe8tz6D05cuH0Zhnicz5mY%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "0F2C1CF72729A9C761117A3BF7223528",
   "tags": [
-    ""
+    "",
+    "fighter",
+    "samurai",
+    "katana",
+    "efreeti",
+    "shogun",
+    "warriors",
+    "dungeons",
+    "dragons",
+    "armor",
+    "armors",
+    "dwarven",
+    "archers",
+    "sergio",
+    "artigas",
+    "2021",
+    "dwarf",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1,
     "offset_x": -231,
     "offset_y": -239,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -81,
     "offset_y": -217,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

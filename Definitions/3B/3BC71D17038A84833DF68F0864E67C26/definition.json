@@ -2,27 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5beae76-450c-44b5-b0ce-b56fefa44daf/d98euek-dcab66ff-cf38-475e-8d23-ffecab83214e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1YmVhZTc2LTQ1MGMtNDRiNS1iMGNlLWI1NmZlZmE0NGRhZlwvZDk4ZXVlay1kY2FiNjZmZi1jZjM4LTQ3NWUtOGQyMy1mZmVjYWI4MzIxNGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4QnEUG0ep5hQM19TPa-C4qWqXBbKJOlLENyuigP8r0Q",
   "md5": "3BC71D17038A84833DF68F0864E67C26",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "40k",
+    "dark",
+    "templar",
+    "deathwatch",
+    "space",
+    "marine",
+    "black",
+    "artwork",
+    "power",
+    "armor",
+    "chaos",
+    "marines"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -508,
     "offset_y": -153.14285714285708,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -206.8571428571429,
     "offset_y": -37.142857142857224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -173.714285714286,
     "offset_y": -14.857142857142776,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,59 @@
   "md5": "4EC7D67CEF2869C5833C7D456D954A6D",
   "tags": [
     "human",
-    "female"
+    "female",
+    "blood",
+    "elf",
+    "fan",
+    "warrior",
+    "armor",
+    "death",
+    "knight",
+    "league",
+    "legends",
+    "demon",
+    "hunter",
+    "orcs",
+    "dark",
+    "\u86C7\u5996\u5723\u8BDE\u88C5snake",
+    "girl",
+    "christmas",
+    "dress",
+    "haixiang",
+    "mu",
+    "steampunk",
+    "jessica",
+    "jones",
+    "lanna",
+    "souvanny",
+    "bloodborne",
+    "lady",
+    "maria",
+    "oreki",
+    "genya"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -174,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -103,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -134,
     "offset_y": -198,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

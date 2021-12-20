@@ -3,27 +3,37 @@
   "md5": "A269AE1BC0691B7C13A2096C70231737",
   "tags": [
     "tiefling",
-    "barbarian"
+    "barbarian",
+    "aaron",
+    "sims",
+    "creatures",
+    "hulk",
+    "fire",
+    "alexander",
+    "mandradjiev"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -264,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -118,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -118,
     "offset_y": -53,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

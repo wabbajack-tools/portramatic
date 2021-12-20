@@ -8,27 +8,58 @@
     "paladin",
     "cleric",
     "armour",
-    "melee"
+    "melee",
+    "female",
+    "assassin",
+    "armors",
+    "dynasty",
+    "warriors",
+    "samurai",
+    "armor",
+    "spartan",
+    "warrior",
+    "knight",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "fwh",
+    "crossbowman",
+    "magdalena",
+    "radziej",
+    "drelan",
+    "mikhail",
+    "palamarchuk",
+    "concept",
+    "templar",
+    "adam",
+    "nordsvan",
+    "https://www"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -608,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -417,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -362,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

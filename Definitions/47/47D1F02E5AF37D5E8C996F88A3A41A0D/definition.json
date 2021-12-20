@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/e8/2f/34/e82f34c4de1fbcc03dcc27f644e0e91d.jpg",
   "md5": "47D1F02E5AF37D5E8C996F88A3A41A0D",
   "tags": [
-    "#Barbarian #knight"
+    "#Barbarian #knight",
+    "dungeons",
+    "dragons",
+    "chaos",
+    "warrior",
+    "dark",
+    "knight",
+    "elf",
+    "hansel",
+    "gretel",
+    "skyrim",
+    "orcs",
+    "armor",
+    "kingmaker",
+    "ashman",
+    "akim",
+    "conan",
+    "abra\u00E3o",
+    "segundo",
+    "barbarian"
   ],
   "small": {
     "scale": 1.7100000000000006,
     "offset_x": -416.7999999999999,
     "offset_y": -56.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2900000000000003,
     "offset_x": -240.80000000000018,
     "offset_y": -48.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.520000000000001,
     "offset_x": -62.472222222221944,
     "offset_y": -24.02777777777783,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

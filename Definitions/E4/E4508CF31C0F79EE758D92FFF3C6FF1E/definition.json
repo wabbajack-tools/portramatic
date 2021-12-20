@@ -5,27 +5,36 @@
     "human",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "anna",
+    "kay",
+    "crow",
+    "brian",
+    "\u0022ooquant\u0022",
+    "rivera"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -363,
     "offset_y": -182,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -81,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -7,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

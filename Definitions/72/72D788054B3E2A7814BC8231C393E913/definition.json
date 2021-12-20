@@ -2,25 +2,46 @@
   "source": "https://i.imgur.com/wCqsl2j.png",
   "md5": "72D788054B3E2A7814BC8231C393E913",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "d\u0026d",
+    "character",
+    "lil\u0027dani",
+    "tiefling",
+    "cleric",
+    "pelor",
+    "allison",
+    "howle",
+    "set",
+    "india-lee",
+    "crews",
+    "concepts",
+    "maverick",
+    "mave"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -275.2,
     "offset_y": -49.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -152.00000000000006,
     "offset_y": -39.2000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

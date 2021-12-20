@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/af/0d/88/af0d88156eb2a4d677f73899646e5802.jpg",
   "md5": "F217D10192B9B21AB7A53E6C9F69D20D",
   "tags": [
-    ""
+    "",
+    "identity",
+    "v",
+    "michiko",
+    "kakutani",
+    "princess",
+    "anime",
+    "girl",
+    "characters",
+    "dark",
+    "angel",
+    "phong",
+    "anh",
+    "with",
+    "pink",
+    "hair",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -136,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -85,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -26,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

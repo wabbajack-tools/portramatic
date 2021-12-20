@@ -26,27 +26,37 @@
     "jean",
     "pascal",
     "leclerc",
-    "kegle"
+    "kegle",
+    "vampire",
+    "concept",
+    "characters",
+    "unicorn.",
+    "gilberto",
+    "\u0022soren\u0022",
+    "zaragoza"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -126,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -9,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -1,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

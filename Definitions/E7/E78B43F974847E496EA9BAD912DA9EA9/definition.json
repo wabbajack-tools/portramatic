@@ -2,27 +2,51 @@
   "source": "https://i.imgur.com/25XAs0a.jpeg",
   "md5": "E78B43F974847E496EA9BAD912DA9EA9",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "armor",
+    "concept",
+    "medieval",
+    "knight",
+    "orc",
+    "elder",
+    "scrolls",
+    "online",
+    "skyrim",
+    "dark",
+    "elf",
+    "hobbit",
+    "\u743C",
+    "qiong",
+    "winter",
+    "davian",
+    "private",
+    "kratos",
+    "riccardo",
+    "federici"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -374,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -285,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -28,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

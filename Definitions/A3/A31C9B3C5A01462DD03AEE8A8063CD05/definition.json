@@ -3,27 +3,52 @@
   "md5": "A31C9B3C5A01462DD03AEE8A8063CD05",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "sorceress",
+    "costume",
+    "makeup",
+    "witch",
+    "wow",
+    "undead",
+    "perseus",
+    "death",
+    "knight",
+    "dungeons",
+    "dragons",
+    "babrian",
+    "king",
+    "mansik",
+    "yang",
+    "seir",
+    "duong",
+    "ct",
+    "barbarian",
+    "juhyeon",
+    "kim",
+    "https://www"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -453,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -268,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -240,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/007/315/049/large/sandra-duchiewicz-godlike-nature-1.jpg?1505272162",
   "md5": "11B1A17E0EC46FC6487A59025CFA521A",
   "tags": [
-    ""
+    "",
+    "female",
+    "druid",
+    "male",
+    "half",
+    "elf",
+    "wood",
+    "dark",
+    "knight",
+    "dungeons",
+    "dragons",
+    "burning",
+    "ann",
+    "jean",
+    "girl",
+    "digital",
+    "artists",
+    "character",
+    "gold",
+    "jaz",
+    "chiang",
+    "lothlorien",
+    "warrior",
+    "juan",
+    "calle",
+    "https://www.artstation.com/artwork/l2vae5"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -190.28571428571314,
     "offset_y": -130.85714285714272,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -42.85714285714306,
     "offset_y": -14.285714285714164,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -6.857142857143572,
     "offset_y": -74.28571428571433,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,27 +8,55 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "balthasar",
+    "gelt",
+    "smile",
+    "smiling",
+    "meme",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "dark",
+    "coat",
+    "arms",
+    "lord",
+    "rings",
+    "emp",
+    "vlad",
+    "costin",
+    "king",
+    "leome",
+    "emile",
+    "denis",
+    "punisher",
+    "roman",
+    "kupriianov",
+    "concept"
   ],
   "small": {
     "scale": 2.079999999999999,
     "offset_x": -342.0000000000002,
     "offset_y": -142.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -126.00000000000006,
     "offset_y": -56.66666666666649,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -4.6666666666667425,
     "offset_y": -22.666666666666003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

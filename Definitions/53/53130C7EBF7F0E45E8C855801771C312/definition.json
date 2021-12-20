@@ -2,27 +2,43 @@
   "source": "http://img2.reactor.cc/pics/post/jarretjarret-Arthas-Menethil-Warcraft-Blizzard-6561508.jpeg",
   "md5": "53130C7EBF7F0E45E8C855801771C312",
   "tags": [
-    ""
+    "",
+    "arknight.hellagur.griffin.",
+    "sabbat.laomo",
+    "https://www.artstation.com/artwork",
+    "fan",
+    "arts",
+    "cherlin",
+    "mao",
+    "assassin",
+    "jaynorn",
+    "lin",
+    "character",
+    "warrior",
+    "girl"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -185,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -236,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7600000000000007,
     "offset_x": -292,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

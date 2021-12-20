@@ -6,27 +6,61 @@
     "icequeen",
     "ice",
     "queen",
-    "concept"
+    "concept",
+    "anime",
+    "male",
+    "dark",
+    "elf",
+    "elves",
+    "boy",
+    "high",
+    "warrior",
+    "female",
+    "assassin",
+    "pirate",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "ring",
+    "arch",
+    "heretic",
+    "fan",
+    "chris",
+    "joshua",
+    "saldon",
+    "https://www.artstation.com/artwork",
+    "batman",
+    "azrael",
+    "limkuk"
   ],
   "small": {
     "scale": 0.5581666666666665,
     "offset_x": -350,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4678333333333335,
     "offset_x": -230,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6311666666666672,
     "offset_x": -64,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

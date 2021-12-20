@@ -2,27 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b48a1675-c3b1-453c-86af-444807387aa9/d6xjfls-9e6e23fb-961b-47bc-8878-e0e88ee2449a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0OGExNjc1LWMzYjEtNDUzYy04NmFmLTQ0NDgwNzM4N2FhOVwvZDZ4amZscy05ZTZlMjNmYi05NjFiLTQ3YmMtODg3OC1lMGU4OGVlMjQ0OWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HbpB9GHsMaKt6LCxQuER1LxUId6PG5Kpf5h-Vu2op7I",
   "md5": "32DF9246951A4889BBF453F1F3A194E7",
   "tags": [
-    ""
+    "",
+    "abstract",
+    "angel",
+    "prints",
+    "modern",
+    "paintings",
+    "zelda",
+    "twilight",
+    "princess",
+    "assumption",
+    "mary",
+    "chandra",
+    "nalaar",
+    "ivan",
+    "tao",
+    "warrior"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -221,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -124,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -156,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

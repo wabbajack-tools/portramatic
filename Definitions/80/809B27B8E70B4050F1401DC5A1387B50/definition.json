@@ -2,27 +2,49 @@
   "source": "https://www.pngkey.com/png/detail/225-2257280_corrin-kamui-2-fire-emblem-fates-birthright-3ds.png",
   "md5": "809B27B8E70B4050F1401DC5A1387B50",
   "tags": [
-    ""
+    "",
+    "fire",
+    "emblem",
+    "conquest",
+    "fates",
+    "revelation",
+    "hoshido",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "2b",
+    "lun",
+    "wuqu",
+    "lanser",
+    "oh",
+    "hyeoni",
+    "hurricane",
+    "katrina",
+    "joker.z"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -363,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -248,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -178,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

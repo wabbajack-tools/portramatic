@@ -1,28 +1,41 @@
 {
-  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsP8NWHrjrE-2xZ-a2619IqE5dL4hPVcAse0zp4Tpb7jzBu3fknWzXK680fgueJEQTzTE&usqp=CAU",
+  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsP8NWHrjrE-2xZ-a2619IqE5dL4hPVcAse0zp4Tpb7jzBu3fknWzXK680fgueJEQTzTE\u0026usqp=CAU",
   "md5": "A8FCB3D7A7B43A28BD23AFF007F7893C",
   "tags": [
-    ""
+    "",
+    "adult",
+    "nude",
+    "porn",
+    "erotic",
+    "full",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -23,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.139999999999998,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 4.049999999999957,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,53 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "legend",
+    "cryptids",
+    "cards",
+    "elves",
+    "kratos",
+    "conan",
+    "barbarian",
+    "masters",
+    "universe",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "taurus",
+    "lius",
+    "lasahido",
+    "scary",
+    "lady",
+    "mansik",
+    "yang",
+    "omu",
+    "upied",
+    "https://www"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -366,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -102,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000001,
     "offset_x": -146,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

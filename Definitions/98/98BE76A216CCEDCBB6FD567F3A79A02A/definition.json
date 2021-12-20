@@ -3,27 +3,41 @@
   "md5": "98BE76A216CCEDCBB6FD567F3A79A02A",
   "tags": [
     "Dragon",
-    "sorcerer"
+    "sorcerer",
+    "red",
+    "book",
+    "illustration",
+    "matt",
+    "demino",
+    "d\u0026d",
+    "works",
+    "matias",
+    "tapia",
+    "cdna.artstation.com",
+    "submitted"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -232.00000000000057,
     "offset_y": -129.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -141.33333333333377,
     "offset_y": -110.00000000000014,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -122.66666666666652,
     "offset_y": -134.66666666666606,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

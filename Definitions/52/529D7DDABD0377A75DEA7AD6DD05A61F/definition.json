@@ -2,27 +2,67 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2019/04/Teferi-Time-Raveler-War-of-the-Spark-Art.jpg",
   "md5": "529D7DDABD0377A75DEA7AD6DD05A61F",
   "tags": [
-    ""
+    "",
+    "magic",
+    "gathering",
+    "planeswalkers",
+    "mtg",
+    "ajani",
+    "elspeth",
+    "zelda",
+    "twilight",
+    "princess",
+    "rise",
+    "guardians",
+    "league",
+    "legends",
+    "legend",
+    "female",
+    "pirate",
+    "witcher",
+    "teferi",
+    "time",
+    "raveler",
+    "chris",
+    "rallis",
+    "corsair",
+    "face",
+    "void",
+    "johan",
+    "grenier",
+    "warhammer",
+    "40k",
+    "artwork",
+    "thief",
+    "woo",
+    "kyungzin",
+    "character",
+    "portraits",
+    "characters",
+    "rogue"
   ],
   "small": {
     "scale": 1,
     "offset_x": -402.3999999999986,
     "offset_y": -60.80000000000112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -307.20000000000175,
     "offset_y": -49.59999999999951,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -126.54629629629744,
     "offset_y": -9.61111111111046,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

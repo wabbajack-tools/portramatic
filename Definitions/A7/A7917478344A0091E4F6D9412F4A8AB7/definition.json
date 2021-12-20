@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/23/a1/0c/23a10ca6d05cabe6db4ddcc0817ff507.jpg",
   "md5": "A7917478344A0091E4F6D9412F4A8AB7",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "freedom",
+    "andy",
+    "liong",
+    "uncharted",
+    "tides",
+    "marzena",
+    "nereida",
+    "piwowar",
+    "https://www.artstation.com/artwork",
+    "witch",
+    "wild",
+    "phichaya(scykiazor",
+    "boonton"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -295,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -63,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.419999999999998,
     "offset_x": -82,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

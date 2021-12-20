@@ -5,27 +5,40 @@
     "female",
     "assassin",
     "anime",
-    "concept"
+    "concept",
+    "girl",
+    "witch",
+    "emiroth",
+    "fate",
+    "grand",
+    "order",
+    "black",
+    "jeanne",
+    "d\u0027arc",
+    "yeomi"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -254,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -176,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -42,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

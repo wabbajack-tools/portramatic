@@ -8,27 +8,40 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "wylie",
+    "beckert",
+    "sketches",
+    "oil",
+    "painting",
+    "illustration",
+    "tam",
+    "lin",
+    "tattoo",
+    "drawings"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -370,
     "offset_y": -216,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -342,
     "offset_y": -177,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -358,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

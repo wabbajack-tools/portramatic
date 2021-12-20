@@ -21,34 +21,43 @@
     "anton",
     "kokarev",
     "concept",
-    "angoulême",
+    "angoul\uFFFDme",
     "india-lee",
     "crews",
     "ice",
     "golem",
     "igor",
     "golovkov",
-    "2020"
+    "2020",
+    "geralt",
+    "rivia",
+    "anson",
+    "mount",
+    "hell",
+    "wheels"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -334.6,
     "offset_y": -48.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -146.39999999999998,
     "offset_y": -26.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -108,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

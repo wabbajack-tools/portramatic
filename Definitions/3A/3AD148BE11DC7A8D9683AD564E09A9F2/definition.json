@@ -7,27 +7,48 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "liu",
+    "artist",
+    "ye",
+    "huihan",
+    "dark",
+    "elf",
+    "\u4F8D\u795E\u4EE4\u540C\u4EBA",
+    "shuo",
+    "https://www.artstation",
+    "veronika",
+    "kozlova",
+    "monster",
+    "darkness",
+    "returns",
+    "rayden",
+    "chen",
+    "artstation.",
+    "character"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -249.60000000000016,
     "offset_y": -171.20000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -72.20000000000005,
     "offset_y": -25.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -31.40740740740739,
     "offset_y": -6.768518518518476,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

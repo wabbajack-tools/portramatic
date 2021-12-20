@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/61Wn79r.jpeg",
   "md5": "8D60D3C0AC633371522DBD4A3379B78A",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "artwork",
+    "death",
+    "dealer",
+    "revenant",
+    "yefim",
+    "kligerman",
+    "god",
+    "war",
+    "character",
+    "design",
+    "predator",
+    "elite",
+    "warrior",
+    "vladimir",
+    "silkin",
+    "2020",
+    "undead",
+    "knight",
+    "maciej",
+    "mikolajczyk",
+    "https://www.artstation.com/artwork/3v8gg"
   ],
   "small": {
     "scale": 1,
     "offset_x": -357,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -284,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -68,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

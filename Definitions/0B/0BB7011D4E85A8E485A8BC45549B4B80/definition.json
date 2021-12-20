@@ -2,27 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64b97724-09c3-4cd5-a8a1-a25ba4f1a0b8/de7igyk-7aa3c4aa-75b6-4599-a22a-311c80a9bd28.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0Yjk3NzI0LTA5YzMtNGNkNS1hOGExLWEyNWJhNGYxYTBiOFwvZGU3aWd5ay03YWEzYzRhYS03NWI2LTQ1OTktYTIyYS0zMTFjODBhOWJkMjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.l0xo7mplX8__TCwdw9i7hbOFRrkay3cEfMKv0rION2s",
   "md5": "0BB7011D4E85A8E485A8BC45549B4B80",
   "tags": [
-    ""
+    "",
+    "woman",
+    "with",
+    "angel",
+    "god",
+    "fallen",
+    "sons",
+    "angels",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "violet\uFF08\u963F\u7D2B\uFF09",
+    "yang",
+    "bilong"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -19,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -3,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -32,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/19/2e/6f/192e6f6f1f466c771feff9985838a64b.jpg",
   "md5": "FD81C1BB901673BC35306E4CC1C857CD",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "knight",
+    "red",
+    "sun",
+    "castlevania",
+    "lords",
+    "shadow",
+    "lord",
+    "rings",
+    "mordor",
+    "death",
+    "armor",
+    "samurai",
+    "warrior",
+    "steven",
+    "fergusson",
+    "hochmann",
+    "https://www.artstation.com/artwork",
+    "war",
+    "cry",
+    "kira",
+    "l.",
+    "nguyen",
+    "asura",
+    "wataru",
+    "nakashima"
   ],
   "small": {
     "scale": 1,
     "offset_x": -245,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -191,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 68,
     "offset_y": 112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

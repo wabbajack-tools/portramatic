@@ -6,27 +6,37 @@
     "wrath",
     "righteous",
     "dhampir",
-    "portraits"
+    "portraits",
+    "male",
+    "drawing",
+    "head",
+    "anime",
+    "brown",
+    "hair",
+    "long"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -398.00000000000045,
     "offset_y": -110.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -179.00000000000034,
     "offset_y": -41.000000000000114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.27999999999999936,
     "offset_x": -127.99999999999989,
     "offset_y": -86.00000000000006,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

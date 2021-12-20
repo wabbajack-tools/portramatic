@@ -15,27 +15,51 @@
     "",
     "fighter",
     "female",
-    "male"
+    "male",
+    "mtg",
+    "card",
+    "fan",
+    "angel",
+    "altered",
+    "pirates",
+    "caribbean",
+    "star",
+    "wars",
+    "clone",
+    "force",
+    "unleashed",
+    "usun",
+    "master",
+    "david",
+    "gaillet",
+    "2020",
+    "monk",
+    "tequila",
+    "cactus",
+    "chimichangas_charro"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -385,
     "offset_y": -110.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -205,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -444,
     "offset_y": -19,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

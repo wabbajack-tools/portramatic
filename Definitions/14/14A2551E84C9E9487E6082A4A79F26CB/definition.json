@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/Eng6kpUVcAUAsTp?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/Eng6kpUVcAUAsTp?format=jpg\u0026name=4096x4096",
   "md5": "14A2551E84C9E9487E6082A4A79F26CB",
   "tags": [
     "devil",
@@ -23,27 +23,47 @@
     "design",
     "demon",
     "game",
-    "assets"
+    "assets",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "fallen",
+    "nicolas",
+    "barge",
+    "aphelios",
+    "beverley",
+    "yim",
+    "dragoborne",
+    "tcg",
+    "yigit",
+    "koroglu",
+    "artwork",
+    "races",
+    "characters"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -320.79999999999905,
     "offset_y": -73.59999999999991,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38833333333333275,
     "offset_x": -125.60000000000008,
     "offset_y": -45.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -20.824074074073906,
     "offset_y": -30.43518518518522,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

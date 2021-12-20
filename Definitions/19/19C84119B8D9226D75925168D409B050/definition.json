@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/d5/15/a4/d515a4eed5c994090a922324fe9a8660.jpg",
   "md5": "19C84119B8D9226D75925168D409B050",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "conan",
+    "barbarian",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dark",
+    "hunter",
+    "\u3147\u3147",
+    "joo",
+    "characters",
+    "concept",
+    "rpg",
+    "character",
+    "https://cdnb.artstation.com/p/assets/images/images/005/967/043/large/valeriy-vegera-3-1.j",
+    "duet",
+    "mikhail",
+    "palamarchuk",
+    "https://www.artstation.com/artwork/bb13z",
+    "dungeons"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -224,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -69,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2999999999999978,
     "offset_x": -30,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

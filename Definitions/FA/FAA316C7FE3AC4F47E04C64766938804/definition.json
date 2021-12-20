@@ -9,27 +9,59 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "vampire",
+    "knight",
+    "anime",
+    "kaname",
+    "guilty",
+    "samurai",
+    "armor",
+    "female",
+    "pirate",
+    "demon",
+    "hunter",
+    "griptooth",
+    "danvici",
+    "werewolf",
+    "mythical",
+    "creatures",
+    "study",
+    "ivan",
+    "\u4F0A\u51E1",
+    "daily",
+    "darth",
+    "vader",
+    "tattoo",
+    "duliera",
+    "ironheart",
+    "antti",
+    "hakosaari",
+    "2021",
+    "dwarf"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -274,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -89,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999994,
     "offset_x": -30,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

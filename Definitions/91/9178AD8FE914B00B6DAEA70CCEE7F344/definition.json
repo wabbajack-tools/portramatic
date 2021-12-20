@@ -5,27 +5,47 @@
     "outsider",
     "female",
     "dancer",
-    "mage"
+    "mage",
+    "beauty",
+    "death",
+    "child",
+    "queens",
+    "venezuelan",
+    "vivienne",
+    "de",
+    "tabris",
+    "gwent",
+    "contest",
+    "rod",
+    "princess",
+    "fenghua",
+    "zhong",
+    "emerald",
+    "ina",
+    "wong"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -707.7999999999997,
     "offset_y": -89.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -303.1999999999998,
     "offset_y": -7.600000000000421,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -4.324074074074815,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,52 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "suit",
+    "armor",
+    "assassin",
+    "black",
+    "knight",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "yang",
+    "liu",
+    "https://www.artstation",
+    "blader",
+    "gong",
+    "2021",
+    "character",
+    "design",
+    "vampire",
+    "hunter",
+    "sunong"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -774,
     "offset_y": -330,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.561416666666666,
     "offset_x": -391,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5619999999999992,
     "offset_x": -194,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

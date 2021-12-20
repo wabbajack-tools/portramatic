@@ -8,27 +8,55 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "spell",
+    "book",
+    "magic",
+    "spells",
+    "death",
+    "knight",
+    "godzilla",
+    "king",
+    "monsters",
+    "wow",
+    "undead",
+    "dungeons",
+    "dragons",
+    "dark",
+    "bloodborne",
+    "giovanni",
+    "pirrotta",
+    "artorias",
+    "fixed",
+    "nyiccco",
+    "thor",
+    "ragnarok",
+    "fanart",
+    "fajareka",
+    "setiawan"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -511.0000000000002,
     "offset_y": -278.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -297.00000000000006,
     "offset_y": -111.66666666666652,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -272.66666666666674,
     "offset_y": -16.666666666666003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

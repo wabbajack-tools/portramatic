@@ -6,27 +6,42 @@
     "arcane",
     "trickster",
     "ssandulak",
-    "elf"
+    "elf",
+    "male",
+    "wood",
+    "druid",
+    "concept",
+    "game",
+    "thrones",
+    "female",
+    "character",
+    "jake",
+    "bartok",
+    "characters",
+    "portraits"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -272.1999999999998,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -107.39999999999998,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -20.824074074073906,
     "offset_y": -22.425925925925867,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

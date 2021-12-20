@@ -2,27 +2,41 @@
   "source": "https://img2.rule34.us/images/5d/c6/5dc65f89491e6026a264bf866aa0b713.jpeg",
   "md5": "5DC65F89491E6026A264BF866AA0B713",
   "tags": [
-    ""
+    "",
+    "caravan",
+    "cards",
+    "outdoor",
+    "garden",
+    "signs",
+    "quotes",
+    "bodybuilding",
+    "bodybuilders",
+    "competition",
+    "ultimate",
+    "warrior"
   ],
   "small": {
     "scale": 0.5599999999999997,
     "offset_x": -78,
     "offset_y": -151,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999997,
     "offset_x": -25,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999999,
     "offset_x": -41,
     "offset_y": -27,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

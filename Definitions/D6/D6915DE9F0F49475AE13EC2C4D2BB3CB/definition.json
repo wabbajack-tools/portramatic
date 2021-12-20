@@ -2,27 +2,48 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/024/265/314/large/sunong-succubus.jpg?1581870992",
   "md5": "D6915DE9F0F49475AE13EC2C4D2BB3CB",
   "tags": [
-    ""
+    "",
+    "realistic",
+    "succubus",
+    "agony",
+    "human",
+    "form",
+    "shumolly",
+    ".",
+    "female",
+    "warrior",
+    "goddess",
+    "ver.black",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "hate-board",
+    "game-concept",
+    "adrian",
+    "smith"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -1166,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -735,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -514,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

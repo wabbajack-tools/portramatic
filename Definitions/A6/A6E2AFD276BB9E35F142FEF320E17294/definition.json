@@ -4,27 +4,48 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "god",
+    "war",
+    "4k",
+    "thunder",
+    "total",
+    "arena",
+    "deer",
+    "dylan",
+    "eurlings",
+    "https://www.artstation.com/artwork/5vq41",
+    "beautiful",
+    "lara",
+    "croft",
+    "tomb",
+    "raider",
+    "jared",
+    "calder",
+    "https://www.artstation.com/artwork/05nl4"
   ],
   "small": {
     "scale": 1.370000000000001,
     "offset_x": -1045,
     "offset_y": -571,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.0200000000000002,
     "offset_x": -655,
     "offset_y": -327,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -776,
     "offset_y": -286,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

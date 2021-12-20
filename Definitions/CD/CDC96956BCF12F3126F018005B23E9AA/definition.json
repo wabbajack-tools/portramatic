@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/9mzRKju.jpeg",
   "md5": "CDC96956BCF12F3126F018005B23E9AA",
   "tags": [
-    ""
+    "",
+    "rebecca",
+    "guay",
+    "angel",
+    "artist",
+    "creatures",
+    "cave",
+    "paintings",
+    "odyssey",
+    "dragonlords",
+    "sebastian",
+    "kowoll",
+    "greek",
+    "roman",
+    "mythology",
+    "mythical",
+    "little",
+    "chinese",
+    "god-2",
+    "yangyang",
+    "sui",
+    "digital",
+    "gallery",
+    "gojilla",
+    "bernard",
+    "chan"
   ],
   "small": {
     "scale": 2.96999999999998,
     "offset_x": -519,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.3499999999999934,
     "offset_x": -278,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2499999999999956,
     "offset_x": -124,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

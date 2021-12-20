@@ -2,27 +2,53 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/006/465/866/large/rui-li-.jpg?1498789536",
   "md5": "7462E457E6016EBEEF9210B970316B95",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "character",
+    "medieval",
+    "knights",
+    "warriors",
+    "assassin",
+    "maidens",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u6B66\u4FA0\u7537",
+    "tao",
+    "chen",
+    "https://www.artstation.com/artwork/zalvjq",
+    "sketches",
+    "digital",
+    "gamayun",
+    "evgeny",
+    "dvoretckiy"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -615,
     "offset_y": -303,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -127,
     "offset_y": -115,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

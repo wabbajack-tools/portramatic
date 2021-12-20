@@ -2,27 +2,61 @@
   "source": "https://i.redd.it/u8dhddx8wmf01.jpg",
   "md5": "551B0286781FD9351759FF7FD6C844F7",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "plate",
+    "armor",
+    "heavy",
+    "armors",
+    "power",
+    "sketch",
+    "xiaohan",
+    "liu",
+    "design",
+    "characters",
+    "youngmin",
+    "seo",
+    "painting",
+    "mercenary",
+    "by.\uC11C\uC601\uBBFC",
+    "medieval",
+    "do",
+    "you",
+    "think",
+    "he",
+    "is",
+    "who",
+    "shuqi",
+    "dang",
+    "https://www.artstation.com/artwork/3bd"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -389,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -127,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999982,
     "offset_x": -74,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

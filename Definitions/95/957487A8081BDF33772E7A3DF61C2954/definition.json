@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/EDVw9RkVAAEBjnK?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/EDVw9RkVAAEBjnK?format=jpg\u0026name=4096x4096",
   "md5": "957487A8081BDF33772E7A3DF61C2954",
   "tags": [
     "explore",
@@ -9,27 +9,48 @@
     "gantzu",
     "barbarianwomen",
     "hou",
-    "yuan"
+    "yuan",
+    "knight",
+    "armor",
+    "concept",
+    "warrior",
+    "dragon",
+    "suit",
+    "medieval",
+    "knights",
+    "plate",
+    "death",
+    "victorin",
+    "lane",
+    "libra",
+    "moon",
+    "charles",
+    "park",
+    "jp",
+    "targete"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -388.33333333333314,
     "offset_y": -36.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -111.3333333333332,
     "offset_y": -15.999999999999744,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.42999999999999705,
     "offset_x": -22.66666666666731,
     "offset_y": -19.333333333333144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

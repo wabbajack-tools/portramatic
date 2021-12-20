@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/2b/9c/09/2b9c090c9e6e2b80fb6ec761c3baabdb.jpg",
   "md5": "3E95D23C81D87B63E4E5EE32E5947F43",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elves",
+    "elf",
+    "male",
+    "warrior",
+    "drawing",
+    "teardrop",
+    "white-eye",
+    "underworld",
+    "rise",
+    "lycans",
+    "assassin",
+    "vampire",
+    "knight",
+    "manga",
+    "black",
+    "lord",
+    "rings",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shoes",
+    "boots",
+    "unholy",
+    "soldier",
+    "jordier",
+    "w",
+    "jihun",
+    "lee"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -292,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -108,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9000000000000008,
     "offset_x": -184,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

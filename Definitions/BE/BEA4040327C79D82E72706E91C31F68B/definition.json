@@ -15,27 +15,49 @@
     "",
     "fighter",
     "female",
-    "male"
+    "male",
+    "dark",
+    "concept",
+    "medieval",
+    "knights",
+    "drawings",
+    "ancient",
+    "plate",
+    "ahmed",
+    "akib",
+    "https://www.artstation.com/artwork/rardn5",
+    "valentin",
+    "demchenko",
+    "character",
+    "design",
+    "characters",
+    "assasin",
+    "jek",
+    "jan",
+    "tan"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -239,
     "offset_y": -84.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -176,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -148,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

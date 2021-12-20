@@ -2,27 +2,54 @@
   "source": "https://comicvine.gamespot.com/a/uploads/original/11131/111310735/5859749-17475441_1339435032789509_1205421287_o.jpg",
   "md5": "017D2673A3F26340FE8C951EF64C944B",
   "tags": [
-    ""
+    "",
+    "guts",
+    "from",
+    "berserk",
+    "anime",
+    "armor",
+    "arm",
+    "female",
+    "assassin",
+    "witcher",
+    "dark",
+    "avengers",
+    "black",
+    "widow",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend",
+    "cryptids",
+    "applibot",
+    "inc",
+    "marat",
+    "ars"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 18,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

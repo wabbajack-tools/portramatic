@@ -2,27 +2,46 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/035/279/344/large/sungmoo-heo-asset.jpg?1614581200",
   "md5": "495E16DAB230AF17706376559DCBA1A9",
   "tags": [
-    ""
+    "",
+    "2018",
+    "personal",
+    "work",
+    "demon",
+    "hunter",
+    "priest",
+    "blade",
+    "\u0022",
+    "assassin",
+    "\u6697\u6740\u8005",
+    "p.e.k.k.a",
+    "\uD83E\uDD16",
+    "apprentice",
+    "wizard",
+    "harim",
+    "shin"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -301,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -108,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -30,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

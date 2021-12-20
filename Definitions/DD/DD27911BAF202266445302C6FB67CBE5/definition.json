@@ -5,27 +5,52 @@
     "human",
     "female",
     "dancer",
-    "mage"
+    "mage",
+    "shibashake",
+    "deviant",
+    "woman",
+    "warrior",
+    "with",
+    "sword",
+    "white-haired",
+    "male",
+    "lady",
+    "raven",
+    "helena",
+    "nikulina",
+    "20.12",
+    "ivan",
+    "stan",
+    "\u0022ag\u00E1ve",
+    "carnivore\u0022",
+    "vadim",
+    "baydashnikov",
+    "creature",
+    "concept",
+    "dark"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -121,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -71,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -2,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

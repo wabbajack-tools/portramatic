@@ -2,27 +2,51 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f1cc1b2-31e1-4488-b6d9-ccb346ec5fb3/dqoq60-f22a4dd2-8555-4704-a7f3-135fb2b4aee6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmMWNjMWIyLTMxZTEtNDQ4OC1iNmQ5LWNjYjM0NmVjNWZiM1wvZHFvcTYwLWYyMmE0ZGQyLTg1NTUtNDcwNC1hN2YzLTEzNWZiMmI0YWVlNi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.GOkP7coNTr2tmB_JomxGPV2nbq4q4sV0o3Z0OhVg6vE",
   "md5": "81B64FEEDB742C7B6D6C99CBCAF80196",
   "tags": [
-    ""
+    "",
+    "dark",
+    "gothic",
+    "witch",
+    "anime",
+    "artwork",
+    "\u0022into",
+    "woods\u0022",
+    "igor",
+    "krstic",
+    "cyber_guard",
+    "hui",
+    "zou",
+    "elf",
+    "monk",
+    "angelo",
+    "peluso",
+    "dungeons",
+    "dragons",
+    "characters",
+    "half",
+    "drow"
   ],
   "small": {
     "scale": 1.8800000000000008,
     "offset_x": -648,
     "offset_y": -401,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -209,
     "offset_y": -183,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -30,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -23,27 +23,58 @@
     "satyr",
     "john",
     "ric",
-    "deto-on"
+    "deto-on",
+    "samurai",
+    "armor",
+    "concept",
+    "cyberpunk",
+    "black",
+    "medieval",
+    "knights",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "hoop",
+    "journey",
+    "a",
+    "princess",
+    "warrior",
+    "rodrigo",
+    "idalino",
+    "with",
+    "character",
+    "male",
+    "farmer",
+    "axel",
+    "steinhanses",
+    "https://cdn3.artstation.com/p/assets/images/images/002/271/215/large/cal-santiago-siliathvorgan"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -135.20000000000002,
     "offset_y": -3.3999999999999773,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -118.60000000000002,
     "offset_y": -4.800000000000011,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -150.0277777777776,
     "offset_y": -13.212962962963047,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/f2/da/57/f2da57dccc404dc3041775f485162143.jpg",
   "md5": "F30021E7207DDE458846F98BF4495D67",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "warlock",
+    "drow",
+    "mage",
+    "concept",
+    "alien",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "battle",
+    "erak",
+    "note",
+    "archer",
+    "bartek",
+    "fedyczak",
+    "cursed",
+    "working",
+    "title",
+    "creature",
+    "design",
+    "vyacheslav",
+    "gluhov"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -62,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -74,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -84,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

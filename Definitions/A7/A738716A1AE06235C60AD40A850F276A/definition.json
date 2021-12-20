@@ -2,27 +2,63 @@
   "source": "https://i.imgur.com/hKeTJYJ.jpeg",
   "md5": "A738716A1AE06235C60AD40A850F276A",
   "tags": [
-    ""
+    "",
+    "cleric",
+    "female",
+    "elf",
+    "paladin",
+    "dd",
+    "anime",
+    "characters",
+    "girl",
+    "dark",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "dress_shoes",
+    "character",
+    "concept",
+    "illustration",
+    "_",
+    "kaiser",
+    "kim",
+    "ki",
+    "woong",
+    "https://www",
+    "dual",
+    "blade",
+    "jang",
+    "minho",
+    "warrior",
+    "woman",
+    "fighter",
+    "eunsun",
+    "design",
+    "game"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -342,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -171,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -74,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/d3/49/16/d34916eb1baca09a8e370cfd0f106a47.jpg",
   "md5": "AB1EBE3287152F46B0AAEC2C63ABA914",
   "tags": [
-    ""
+    "",
+    "julio",
+    "rufian",
+    "impresora",
+    "y",
+    "pagola",
+    "knight",
+    "armor",
+    "pirates",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "rpg",
+    "character",
+    "set",
+    "12",
+    "ernesto",
+    "irawan",
+    "characters",
+    "ioana",
+    "muresan",
+    "horror",
+    "adventures"
   ],
   "small": {
     "scale": 1.9400000000000008,
     "offset_x": -453,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -113,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

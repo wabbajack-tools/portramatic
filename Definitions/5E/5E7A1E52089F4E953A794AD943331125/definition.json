@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/da/2b/1a/da2b1a7a71a05b0a3b2f32cc665e652b.jpg",
   "md5": "5E7A1E52089F4E953A794AD943331125",
   "tags": [
-    ""
+    "",
+    "fiora",
+    "xenoblade",
+    "chronicles",
+    "mechon",
+    "swimsuit",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "https://www.artstation.com",
+    "maniacal",
+    "rage",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "black",
+    "rose",
+    "knight",
+    "gunship",
+    "revolution"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -228,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -47,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.429999999999998,
     "offset_x": -38,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

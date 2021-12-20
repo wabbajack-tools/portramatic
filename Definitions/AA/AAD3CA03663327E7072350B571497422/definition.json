@@ -2,25 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9e05a5d-03ce-4fb2-ba79-3b15306a0cdd/deaiw3t-e5c995c3-0ada-4b38-84e1-dc3af297fbfc.png/v1/fill/w_1280,h_1900,q_80,strp/au_ra_paladin_by_bachzim_deaiw3t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkwMCIsInBhdGgiOiJcL2ZcL2Y5ZTA1YTVkLTAzY2UtNGZiMi1iYTc5LTNiMTUzMDZhMGNkZFwvZGVhaXczdC1lNWM5OTVjMy0wYWRhLTRiMzgtODRlMS1kYzNhZjI5N2ZiZmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-rgKQHRTUt2X77PcuBWzIlplgCmB4_teMbl9_-C24HE",
   "md5": "AAD3CA03663327E7072350B571497422",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "assassin\u0027s",
+    "creed",
+    "revelations",
+    "death",
+    "knight",
+    "personal",
+    "work",
+    "taak",
+    "choi",
+    "nomad",
+    "king",
+    "bone",
+    "soup"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -562,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -451,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -228,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

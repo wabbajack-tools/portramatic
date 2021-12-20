@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/87/a7/de/87a7de73abb41fa1969fbdf682b0938b.jpg",
   "md5": "A53A70C6D9221362E96EDC12228C1C81",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "concept",
+    "sucker",
+    "punch",
+    "warrior",
+    "drawings",
+    "orc",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "dark",
+    "knight",
+    "warrior\u0027s",
+    "darkening#2",
+    "mansik",
+    "yang",
+    "darkening",
+    "https://www.artstation.com/artwork/v1kgwa",
+    "monkey",
+    "king",
+    "thien",
+    "nguyen"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -251,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -126,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -96,
     "offset_y": -142,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

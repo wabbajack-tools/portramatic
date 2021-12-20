@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/0c/c4/57/0cc457dd8b5827c0078b3fc30ff16071.jpg",
   "md5": "69AA92955596EA7F3F25A1DE0A4988F6",
   "tags": [
-    ""
+    "",
+    "shaolin",
+    "monk",
+    "warrior",
+    "king",
+    "fighters",
+    "tekken",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "ma\u00EEtre",
+    "isomael",
+    "rpg",
+    "character",
+    "set",
+    "01",
+    "ernesto",
+    "irawan",
+    "arcane",
+    "trickster",
+    "bruno",
+    "machado",
+    "2020"
   ],
   "small": {
     "scale": 2.0300000000000002,
     "offset_x": -437,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -127,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -28,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

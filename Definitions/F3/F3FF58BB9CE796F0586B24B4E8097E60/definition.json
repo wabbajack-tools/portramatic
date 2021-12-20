@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/87/44/0a/87440abc97a26623b7018800a93c6436.jpg",
   "md5": "F3FF58BB9CE796F0586B24B4E8097E60",
   "tags": [
-    ""
+    "",
+    "dope",
+    "eyes",
+    "hairstyles",
+    "makeup",
+    "fleek",
+    "looks",
+    "eye",
+    "eyeshadow",
+    "beautiful"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -1,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.239999999999999,
     "offset_x": -4,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

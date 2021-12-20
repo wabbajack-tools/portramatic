@@ -2,27 +2,33 @@
   "source": "http://wx4.sinaimg.cn/large/006pFDDhgy1fy9va0as01j30b40b4goo.jpg",
   "md5": "8A52ADB07279017DEACC75B8FC5A2407",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "yugio"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -18.399999999999977,
     "offset_y": -12.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,33 @@
   "source": "https://cdn.discordapp.com/attachments/655229862583205917/920169678322688040/Neriah_Final.jpg",
   "md5": "C6F22CADF49D5BDD11B41628204533B5",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "alexandr",
+    "leskinen"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -1173,
     "offset_y": -574,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -981,
     "offset_y": -500,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -256,
     "offset_y": -150,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

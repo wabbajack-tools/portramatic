@@ -2,27 +2,60 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/005/336/516/large/gwayne-li-chaplain-terrmi4-resize2.jpg?1490294618",
   "md5": "FB3B3FDBAA4306BB80B2A52C7F07D74D",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "40k",
+    "power",
+    "armor",
+    "space",
+    "marine",
+    "terminator",
+    "armour",
+    "chaos",
+    "marines",
+    "wolves",
+    "league",
+    "legends",
+    "death",
+    "knight",
+    "doom",
+    "eternal",
+    "erich",
+    "b",
+    "slayer",
+    "borg",
+    "king",
+    "richard",
+    "tran",
+    "a",
+    "calls",
+    "personal",
+    "project",
+    "marcus",
+    "whinney"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -172,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -199,
     "offset_y": -189,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -214,
     "offset_y": -150,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

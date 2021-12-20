@@ -4,27 +4,56 @@
   "tags": [
     "male",
     "anime",
-    "swordsman"
+    "swordsman",
+    "high",
+    "elf",
+    "warrior",
+    "dark",
+    "drawing",
+    "orcs",
+    "dungeons",
+    "dragons",
+    "assassin",
+    "hunter",
+    "\u3147\u3147",
+    "joo",
+    "concept",
+    "characters",
+    "rpg",
+    "character",
+    "knight",
+    "raymond",
+    "minnaar",
+    "https://www.artstation.com/artwork/kjkvr",
+    "medieval",
+    "post",
+    "apocalyptic",
+    "dylan",
+    "eurlings",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -232,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -7,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -10,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

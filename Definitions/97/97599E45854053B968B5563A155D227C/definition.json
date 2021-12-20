@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/93/a3/8e/93a38eb25815b9e25a613032fba425b3.png",
   "md5": "97599E45854053B968B5563A155D227C",
   "tags": [
-    ""
+    "",
+    "pictures",
+    "klaus",
+    "mikaelson",
+    "eyes",
+    "joseph",
+    "morgan",
+    "vampire",
+    "diaries",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -91,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -62,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -14,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,50 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/014/987/937/large/fei-ren-b407-2.jpg?1546606280",
   "md5": "21D140BEC74AE6BC5E32848D0F6445C8",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "rogue",
+    "character",
+    "male",
+    "assassin",
+    "samurai",
+    "girls",
+    "high",
+    "school",
+    "dead",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "killer",
+    "fei",
+    "ren"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -331,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -131,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -182,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

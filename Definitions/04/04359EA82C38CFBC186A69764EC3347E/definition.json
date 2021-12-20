@@ -2,27 +2,64 @@
   "source": "https://i.imgur.com/CGH3zuY.jpeg",
   "md5": "04359EA82C38CFBC186A69764EC3347E",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "fighter",
+    "human",
+    "eldritch",
+    "knight",
+    "high",
+    "world",
+    "warcraft",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "black",
+    "desert",
+    "online",
+    "outfit",
+    "challenge",
+    "midknight",
+    "armor",
+    "concept",
+    "adam",
+    "isailovic",
+    "nare",
+    "lavellan",
+    "christina",
+    "kraus",
+    "https://www.artstation.com/artwork/8lgq9g",
+    "sorceress",
+    "redesign",
+    "micha\u0142",
+    "sowa",
+    "character"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -400,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -126,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -2,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

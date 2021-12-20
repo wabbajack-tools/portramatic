@@ -5,27 +5,57 @@
     "demon",
     "female",
     "cavalier",
-    "rider"
+    "rider",
+    "hunter",
+    "concept",
+    "knight",
+    "character",
+    "dark",
+    "elf",
+    "orc",
+    "warrior",
+    "lord",
+    "rings",
+    "death",
+    "faction",
+    "enemy",
+    "exploration",
+    "muyoung",
+    "kim",
+    "evil",
+    "mask",
+    "souls",
+    "daniel",
+    "kamarudin",
+    "pictures",
+    "horseman",
+    "skull",
+    "artwork",
+    "four",
+    "horsemen"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -723,
     "offset_y": -318,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -184,
     "offset_y": -138,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -46,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,37 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "sue",
+    "storm",
+    "invisible",
+    "woman",
+    "susan",
+    "fantastic",
+    "four"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -273,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -157,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -1,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

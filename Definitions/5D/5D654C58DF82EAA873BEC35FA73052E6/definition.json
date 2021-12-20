@@ -2,27 +2,52 @@
   "source": "https://artfiles.alphacoders.com/125/thumb-125224.jpg",
   "md5": "5D654C58DF82EAA873BEC35FA73052E6",
   "tags": [
-    ""
+    "",
+    "necromancer",
+    "vampire",
+    "character",
+    "world",
+    "warcraft",
+    "rogue",
+    "black",
+    "dragon",
+    "death",
+    "knight",
+    "night",
+    "elf",
+    "https://www.artstation.com/artwork/qpzmn",
+    "concept",
+    "dark",
+    "raven",
+    "hope",
+    "star",
+    "ice",
+    "wizard",
+    "carlos",
+    "cabrera"
   ],
   "small": {
     "scale": 2.119999999999999,
     "offset_x": -240,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6400000000000006,
     "offset_x": -83,
     "offset_y": -150,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2399999999999958,
     "offset_x": -24,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

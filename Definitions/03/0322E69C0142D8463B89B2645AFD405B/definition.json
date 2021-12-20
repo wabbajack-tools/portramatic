@@ -2,25 +2,47 @@
   "source": "https://look.com.ua/pic/201908/1920x1200/look.com.ua-352957.jpg",
   "md5": "0322E69C0142D8463B89B2645AFD405B",
   "tags": [
-    ""
+    "",
+    "xena",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "red",
+    "hair",
+    "02",
+    "hood",
+    "saladine"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -574,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -460,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -490,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

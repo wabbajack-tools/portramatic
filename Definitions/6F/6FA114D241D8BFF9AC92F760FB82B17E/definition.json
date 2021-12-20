@@ -2,27 +2,54 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/799/290/large/kim-jongeun-kim-jongeun-celtic-woman-concept.jpg?1520962092",
   "md5": "6FA114D241D8BFF9AC92F760FB82B17E",
   "tags": [
-    ""
+    "",
+    "woman",
+    "warrior",
+    "with",
+    "sword",
+    "celtic",
+    "woad",
+    "tattoos",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "concept",
+    "kim",
+    "jongeun",
+    "silver",
+    "hair_elf",
+    "taeyong",
+    "choi",
+    "dragon",
+    "age",
+    "fan",
+    "cassandra"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -300,
     "offset_y": -284,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -114,
     "offset_y": -195,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -2,
     "offset_y": -250,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

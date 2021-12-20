@@ -10,27 +10,58 @@
     "magic",
     "rich",
     "evil",
-    "human"
+    "human",
+    "steampunk",
+    "drawing",
+    "pirate",
+    "anime",
+    "death",
+    "knight",
+    "star",
+    "wars",
+    "clone",
+    "dark",
+    "old",
+    "republic",
+    "elf",
+    "58",
+    "ellirh",
+    "shaan",
+    "https://www.artstation.com/artwork/beyyl",
+    "2020",
+    "artwork",
+    "notifications",
+    "superhero",
+    "armor",
+    "character",
+    "some",
+    "practice",
+    "lexey",
+    "anikin",
+    "https://www.artstation.com/artwork/8aqxg"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -513,
     "offset_y": -408,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -202,
     "offset_y": -168,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -22,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

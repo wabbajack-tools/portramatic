@@ -6,27 +6,33 @@
     "female",
     "dancer",
     "mage",
-    "warrior"
+    "warrior",
+    "gray",
+    "hair",
+    "thinning"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -207.79999999999973,
     "offset_y": -92.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -231.19999999999982,
     "offset_y": -38.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -428.3240740740748,
     "offset_y": 0.3981481481472997,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

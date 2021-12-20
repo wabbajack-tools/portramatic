@@ -11,27 +11,52 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "legend",
+    "cryptids",
+    "cards",
+    "dark",
+    "queen",
+    "angels",
+    "zelda",
+    "twilight",
+    "princess",
+    "criminal",
+    "leader",
+    "grey",
+    "evolved",
+    "lotc",
+    "grosnez",
+    "ragnabreak",
+    "donfoo",
+    ".",
+    "character",
+    "exorcist",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -264.7999999999997,
     "offset_y": -67.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -48.19999999999976,
     "offset_y": -25.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8400000000000007,
     "offset_x": -34.324074074074815,
     "offset_y": -9.601851851852643,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

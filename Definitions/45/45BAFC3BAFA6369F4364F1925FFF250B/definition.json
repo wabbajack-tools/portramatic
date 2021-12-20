@@ -2,27 +2,53 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/e/e7/Gideon.jpg/revision/latest?cb=20130122101532",
   "md5": "45BAFC3BAFA6369F4364F1925FFF250B",
   "tags": [
-    ""
+    "",
+    "gideon",
+    "jura",
+    "planeswalker",
+    "mtg",
+    "god",
+    "war",
+    "chains",
+    "olympus",
+    "\u76DB\u5927\u4F20\u5947\u5BA3\u4F20",
+    "hart",
+    "studio",
+    "concepts",
+    "for",
+    "joan",
+    "arc",
+    "bayard",
+    "wu",
+    "mortal",
+    "kombat",
+    "hanzo",
+    "hasashi",
+    "victor",
+    "k."
   ],
   "small": {
     "scale": 1,
     "offset_x": -401.6000000000002,
     "offset_y": -86.40000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -330.40000000000003,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -148.97222222222194,
     "offset_y": -81.69444444444434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

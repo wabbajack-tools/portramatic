@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/1d/32/aa/1d32aa2bf7b461f9e32ebf1376b484df.jpg",
   "md5": "24381B9B29BC27952342F05EE62C2A6C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "paladin",
+    "girl",
+    "armor",
+    "souls",
+    "hobbit",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "knight",
+    "warlock",
+    "concept",
+    "sergey",
+    "kondratovich",
+    "http://www.artstation.com/artwork",
+    "undead",
+    "j",
+    "jp",
+    "https://www.artstation.com/artwork/bz3zn",
+    "creature",
+    "mage",
+    "duong",
+    "ct",
+    "https://www.artstation.com/artwork/a9ragx",
+    "character"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

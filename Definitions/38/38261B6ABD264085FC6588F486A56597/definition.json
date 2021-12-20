@@ -6,27 +6,49 @@
     "female",
     "priest",
     "mage",
-    "princess"
+    "princess",
+    "lee",
+    "seung",
+    "gi",
+    "movies",
+    "ki",
+    "min",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "necklace",
+    "lucy",
+    "alexej",
+    "peters",
+    "cyberpunk",
+    "sci",
+    "fi",
+    "characters"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -595.7999999999997,
     "offset_y": -122.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7096666666666664,
     "offset_x": -228.19999999999982,
     "offset_y": -3.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.189166666666667,
     "offset_x": -426.3240740740748,
     "offset_y": 0.3981481481472997,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

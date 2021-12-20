@@ -5,27 +5,36 @@
     "female",
     "human",
     "mage",
-    "sorcerer"
+    "sorcerer",
+    "elvira",
+    "queen",
+    "darkness",
+    "costume",
+    "ring",
+    "dark"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -142,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -145,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -82,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

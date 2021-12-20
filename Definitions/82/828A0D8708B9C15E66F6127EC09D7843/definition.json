@@ -2,27 +2,48 @@
   "source": "https://i.imgur.com/nCf7UQ2.jpeg",
   "md5": "828A0D8708B9C15E66F6127EC09D7843",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "race",
+    "anime",
+    "characters",
+    "orcs",
+    "character",
+    "sketches",
+    "7",
+    "stephen",
+    "nickel",
+    "inspiration",
+    "11",
+    "samurai",
+    "zhilong",
+    "li",
+    "creature",
+    "concept",
+    "artwork"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -412,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -284,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -122,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

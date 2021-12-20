@@ -1,26 +1,47 @@
 {
-  "source": "https://sun9-20.userapi.com/impg/V-oHWrOnKn5weQEzCriEpX2HQXFN0dI_FSL7Sw/t4vsFP2cOv0.jpg?size=1393x1600&quality=96&sign=d1360099ec11f6e15fa7215c23bd0073&type=album",
+  "source": "https://sun9-20.userapi.com/impg/V-oHWrOnKn5weQEzCriEpX2HQXFN0dI_FSL7Sw/t4vsFP2cOv0.jpg?size=1393x1600\u0026quality=96\u0026sign=d1360099ec11f6e15fa7215c23bd0073\u0026type=album",
   "md5": "AD55D1EDA0DB9056A03AF8EFA9EEFAEF",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots",
+    "\u4EBA\u8BBE",
+    "zhiyan",
+    "li",
+    "https://www.artstation.com",
+    "greed",
+    "whata"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -475,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -281,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -160,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

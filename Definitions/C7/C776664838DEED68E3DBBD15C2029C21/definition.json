@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/1c/6a/18/1c6a1807fd1241a505bb31049417808d.jpg",
   "md5": "C776664838DEED68E3DBBD15C2029C21",
   "tags": [
-    ""
+    "",
+    "frost",
+    "lich",
+    "as",
+    "jaina",
+    "proudmoore",
+    "queen",
+    "wow",
+    "king",
+    "four",
+    "horsemen",
+    "death",
+    "knight",
+    "melissa",
+    "summoner",
+    "metal",
+    "hope",
+    "star",
+    "ithaqua",
+    "aria",
+    "wang",
+    "city",
+    "deep",
+    "lie",
+    "setiawan",
+    "digital"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -246,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -175,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -96,
     "offset_y": -152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

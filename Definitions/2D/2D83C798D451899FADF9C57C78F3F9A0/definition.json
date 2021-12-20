@@ -5,27 +5,46 @@
     "lord",
     "rings",
     "aragorn",
-    "tavern"
+    "tavern",
+    "inspirational",
+    "paintings",
+    "framed",
+    "wall",
+    "canvas",
+    "oil",
+    "watercolor",
+    "acrylic",
+    "painting",
+    "summon",
+    "golem",
+    "kaines",
+    "elande",
+    "fenghua",
+    "zhong",
+    "dark"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -791.0000000000011,
     "offset_y": -139.600000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -345.5999999999998,
     "offset_y": -18.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -581.4722222222221,
     "offset_y": -23.60185185185196,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

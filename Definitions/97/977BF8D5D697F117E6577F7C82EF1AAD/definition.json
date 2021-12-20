@@ -11,27 +11,48 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "hgjart",
+    "huang",
+    "arty",
+    "sniper",
+    "ghost",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "character",
+    "bear",
+    "denman",
+    "rooke",
+    "artstation.",
+    "ilustra\u00E7\u00F5es",
+    "orc",
+    "berserker",
+    "andrew",
+    "kuzinskiy"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -339.7999999999997,
     "offset_y": -252.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -243.19999999999976,
     "offset_y": -247.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -102.32407407407482,
     "offset_y": -179.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

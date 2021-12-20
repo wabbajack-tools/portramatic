@@ -12,25 +12,43 @@
     "crowd",
     "festival",
     "adventure",
-    "azata"
+    "azata",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "samira",
+    "rafael",
+    "benedicto",
+    "robots",
+    "concept",
+    "superhero",
+    "winged",
+    "people"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -421,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -251,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -170,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

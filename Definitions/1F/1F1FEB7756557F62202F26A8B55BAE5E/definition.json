@@ -11,27 +11,59 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "crown",
+    "orange",
+    "ring",
+    "dark",
+    "elf",
+    "souls",
+    "death",
+    "knight",
+    "elder",
+    "scrolls",
+    "online",
+    "medieval",
+    "knights",
+    "night",
+    "skeletor",
+    "illustration",
+    "george",
+    "evangelista",
+    "masters",
+    "universe",
+    "ser",
+    "matthew",
+    "reborn",
+    "barret",
+    "frymire",
+    "legends",
+    "house",
+    "stuff",
+    "pinterest"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -262.7999999999997,
     "offset_y": -223.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -97.19999999999976,
     "offset_y": -118.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -8.324074074074815,
     "offset_y": -85.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

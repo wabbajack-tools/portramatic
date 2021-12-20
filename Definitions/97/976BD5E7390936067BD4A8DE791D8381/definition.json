@@ -5,27 +5,40 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "anime",
+    "girl",
+    "k/da",
+    "seraphine",
+    "arimatang",
+    "lol",
+    "league",
+    "crow",
+    "god",
+    "legends"
   ],
   "small": {
     "scale": 0.8999999999999997,
     "offset_x": -422.5,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999993,
     "offset_x": -166.5,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999996,
     "offset_x": -3,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

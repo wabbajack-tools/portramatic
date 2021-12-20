@@ -2,27 +2,51 @@
   "source": "https://i.imgur.com/sypj7K7.png",
   "md5": "EC5590E1D5581C4124970C6F9DD5684D",
   "tags": [
-    ""
+    "",
+    "sk",
+    "lineage",
+    "victoria",
+    "sokolova",
+    "female",
+    "warrior",
+    "dark",
+    "elf",
+    "dungeons",
+    "herota",
+    "michael",
+    "smirnov",
+    "https://www.artstation.com/artwork/weoq2",
+    "phantom",
+    "dasha",
+    "y.",
+    "park",
+    "concept",
+    "characters",
+    "beautiful",
+    "character"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -268,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -56,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

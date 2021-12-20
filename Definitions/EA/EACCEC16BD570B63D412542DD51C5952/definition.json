@@ -2,27 +2,57 @@
   "source": "https://pbs.twimg.com/media/E6qxrHTWUAUf_mA.jpg",
   "md5": "EACCEC16BD570B63D412542DD51C5952",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "sorcerer",
+    "human",
+    "painting",
+    "death",
+    "knight",
+    "demon",
+    "souls",
+    "hunter",
+    "dark",
+    "arch",
+    "heretic",
+    "fan",
+    "chris",
+    "joshua",
+    "saldon",
+    "batman",
+    "azrael",
+    "limkuk",
+    "3d",
+    "characters",
+    "paid",
+    "assasin",
+    "warlords",
+    "terra",
+    "jair",
+    "medina"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -337,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -132,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -78,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

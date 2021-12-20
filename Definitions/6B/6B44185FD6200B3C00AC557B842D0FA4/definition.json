@@ -1,28 +1,54 @@
 {
-  "source": "https://static.wikia.nocookie.net/godofwar/images/1/14/Atenea_%282018%29.jpg/revision/latest/scale-to-width-down/1000?cb=20180622183427&path-prefix=es",
+  "source": "https://static.wikia.nocookie.net/godofwar/images/1/14/Atenea_%282018%29.jpg/revision/latest/scale-to-width-down/1000?cb=20180622183427\u0026path-prefix=es",
   "md5": "6B44185FD6200B3C00AC557B842D0FA4",
   "tags": [
-    "oread"
+    "oread",
+    "athena",
+    "goddess",
+    "pictures",
+    "statue",
+    "greek",
+    "gods",
+    "ancient",
+    "marble",
+    "statues",
+    "greece",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "imperial",
+    "feminine",
+    "cultural",
+    "outfit",
+    "ricardo"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -362,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -41,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -8,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

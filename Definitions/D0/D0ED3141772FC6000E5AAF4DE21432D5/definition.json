@@ -4,27 +4,54 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "knight",
+    "drawings",
+    "orc",
+    "samurai",
+    "armor",
+    "heavy",
+    "yuko",
+    "kang",
+    "did",
+    "tattoo",
+    "character",
+    "concept",
+    "slayer",
+    "wip",
+    "muyoung",
+    "kim",
+    "total",
+    "war",
+    "three",
+    "kingdoms-character",
+    "design_kingdom",
+    "shu",
+    "lulu",
+    "zhang"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -881,
     "offset_y": -450,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999997,
     "offset_x": -461,
     "offset_y": -233,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5896666666666663,
     "offset_x": -372,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

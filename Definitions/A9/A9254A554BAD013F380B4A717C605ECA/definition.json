@@ -5,27 +5,52 @@
     "human",
     "male",
     "prince",
-    "warrior"
+    "warrior",
+    "armors",
+    "knight",
+    "armor",
+    "samurai",
+    "actionfigures",
+    "leather",
+    "half-elf",
+    "cleric",
+    "keep",
+    "master",
+    "kim",
+    "van",
+    "deun",
+    "vlad",
+    "iii",
+    "impaler",
+    "riccardo",
+    "moscatello",
+    "vikings",
+    "coco",
+    "viking",
+    "men"
   ],
   "small": {
     "scale": 1.3700000000000006,
     "offset_x": -555,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9012499999999997,
     "offset_x": -260,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03025,
     "offset_x": -132,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

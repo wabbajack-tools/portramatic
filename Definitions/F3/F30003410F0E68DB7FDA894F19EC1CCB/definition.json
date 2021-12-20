@@ -23,27 +23,45 @@
     "magic",
     "source",
     "victoria",
-    "khlynina"
+    "khlynina",
+    "pirates",
+    "caribbean",
+    "stranger",
+    "tides",
+    "lord",
+    "rings",
+    "witcher",
+    "orcs",
+    "oil",
+    "paintings",
+    "olie",
+    "boldador",
+    "characters",
+    "creatures",
+    "baranovskaya"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -325,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -167,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

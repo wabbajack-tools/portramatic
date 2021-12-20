@@ -2,27 +2,33 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c4ec06a-6853-42ea-a6cb-b10d4ab08472/delsakb-5b0b11e6-a596-480a-bb4d-39d7425c8e4d.jpg/v1/fill/w_800,h_1131,q_75,strp/ayra__saint_of_nature_by_catilus_delsakb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMSIsInBhdGgiOiJcL2ZcLzFjNGVjMDZhLTY4NTMtNDJlYS1hNmNiLWIxMGQ0YWIwODQ3MlwvZGVsc2FrYi01YjBiMTFlNi1hNTk2LTQ4MGEtYmI0ZC0zOWQ3NDI1YzhlNGQuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ChONihoO9-HDbr7HQNtJsKgxyAv6WLcxouyvpsRkPqs",
   "md5": "6C53E9694AB7BD7F49D624CE2EB7D779",
   "tags": [
-    ""
+    "",
+    "dreadvolver",
+    "martyna",
+    "tyka"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -280,
     "offset_y": -122.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -156.66666666666657,
     "offset_y": -32.66666666666677,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -10.66666666666697,
     "offset_y": -6.666666666666629,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

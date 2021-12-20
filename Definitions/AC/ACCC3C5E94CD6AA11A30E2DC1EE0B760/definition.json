@@ -2,27 +2,47 @@
   "source": "https://lanccelot.com/wp-content/uploads/2019/01/Navigator-of-Valkyrie.jpg",
   "md5": "ACCC3C5E94CD6AA11A30E2DC1EE0B760",
   "tags": [
-    ""
+    "",
+    "valkyrie",
+    "warrior",
+    "valhalla",
+    "god",
+    "league",
+    "angels",
+    "zelda",
+    "twilight",
+    "princess",
+    "demon",
+    "hunter",
+    "legend",
+    "lord",
+    "hector",
+    "holy",
+    "legion",
+    "yutthaphong"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -295,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -199,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -152,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,60 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "male",
+    "elf",
+    "character",
+    "warrior",
+    "drawing",
+    "dark",
+    "souls",
+    "world",
+    "warcraft",
+    "rogue",
+    "night",
+    "death",
+    "knight",
+    "lord",
+    "rings",
+    "dragon",
+    "lancer",
+    "monable",
+    ".",
+    "https://www.artstation.com/artwork/v6o55",
+    "artorias",
+    "abysswalker",
+    "jo\u00E3o",
+    "sergio",
+    "2021",
+    "artwork",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www.artstation.com/artwork/d4ewe"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -199,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -233,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.329999999999994,
     "offset_x": -521,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

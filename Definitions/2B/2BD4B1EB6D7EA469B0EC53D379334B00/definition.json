@@ -5,27 +5,44 @@
     "outsider",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "assassin\u0027s",
+    "creed",
+    "valhalla",
+    "ps4",
+    "gameplay",
+    "knight",
+    "armor",
+    "dragon",
+    "sets",
+    "ubisoft",
+    "valhallaart",
+    "blast",
+    "eivor",
+    "assassin"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -1338.7999999999997,
     "offset_y": -178.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -945.1999999999998,
     "offset_y": -62.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -260.3240740740748,
     "offset_y": -121.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

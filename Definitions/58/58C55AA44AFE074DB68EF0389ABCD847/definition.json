@@ -11,27 +11,35 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "ynenenrfer",
+    "last",
+    "sunstrider",
+    "isuardi",
+    "therianto"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -465.5999999999998,
     "offset_y": -36.200000000001154,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -478.99999999999994,
     "offset_y": -36.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -617.3148148148148,
     "offset_y": -4.018518518518704,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

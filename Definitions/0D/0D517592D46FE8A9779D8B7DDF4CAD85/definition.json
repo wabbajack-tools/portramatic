@@ -5,27 +5,45 @@
     "outsider",
     "female",
     "queen",
-    "mage"
+    "mage",
+    "fate",
+    "stay",
+    "night",
+    "anime",
+    "girl",
+    "..",
+    "r.o.",
+    "iaki",
+    "concept",
+    "characters",
+    "photography",
+    "dark",
+    "aries",
+    "egle",
+    "zioma"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -1191.7999999999997,
     "offset_y": -487.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5301666666666665,
     "offset_x": -767.1999999999998,
     "offset_y": -280.6000000000004,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.501416666666666,
     "offset_x": -590.3240740740748,
     "offset_y": -197.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

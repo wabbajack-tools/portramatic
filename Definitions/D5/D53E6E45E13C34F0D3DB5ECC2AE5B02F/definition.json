@@ -4,27 +4,49 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "anime",
+    "girl",
+    "character",
+    "inspiration",
+    "armor",
+    "designs",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "twin",
+    "sword",
+    "cheolseung",
+    "ok",
+    "diego",
+    "fonteriz",
+    "terrans",
+    "katya"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -795.7999999999997,
     "offset_y": -197.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8096666666666665,
     "offset_x": -412.1999999999998,
     "offset_y": -36.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7691666666666666,
     "offset_x": -314.3240740740748,
     "offset_y": -17.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

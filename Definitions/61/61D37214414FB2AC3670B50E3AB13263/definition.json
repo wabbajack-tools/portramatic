@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/d2/d7/79/d2d7793ea65a7f54e0bb1049a4dcca75.jpg",
   "md5": "61D37214414FB2AC3670B50E3AB13263",
   "tags": [
-    ""
+    "",
+    "phoenix",
+    "rises",
+    "from",
+    "ashes",
+    "rising",
+    "ash",
+    "ancient",
+    "bird",
+    "fire",
+    "emblem",
+    "path",
+    "radiance",
+    "anime",
+    "girl",
+    "character",
+    "outfit",
+    "designs",
+    "noa",
+    "ikeda",
+    "mit",
+    "bildern",
+    "fantasy-figuren",
+    "charakter",
+    "sorceress",
+    "grace",
+    "park",
+    "https://www.artstation.com/artwork/byqj4"
   ],
   "small": {
     "scale": 0.24999999999999933,
     "offset_x": -244,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.12999999999999926,
     "offset_x": -10,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.2999999999999994,
     "offset_x": -60,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

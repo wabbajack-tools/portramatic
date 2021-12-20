@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/a6/b0/06/a6b0069ccb91318c4329622812b913c6.jpg",
   "md5": "D800373AF83D36E5D473DF6C0C1239C0",
   "tags": [
-    ""
+    "",
+    "priestess",
+    "costume",
+    "dress",
+    "outfit",
+    "lord",
+    "rings",
+    "pirates",
+    "caribbean",
+    "white",
+    "lion",
+    "knight",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "meir",
+    "\u30E1",
+    "\u30A4\u30A2\uFF09\u0022cat",
+    "ear",
+    "costume\u0022",
+    "wisnu",
+    "tan",
+    "ars",
+    "goetia",
+    "orias",
+    "daniel",
+    "kamarudin"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -262.4,
     "offset_y": -57.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -137.60000000000002,
     "offset_y": -38.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -1.601851851851734,
     "offset_y": -3.203703703703809,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

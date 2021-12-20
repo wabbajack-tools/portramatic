@@ -8,27 +8,37 @@
     "bangku",
     "an",
     "supernatural",
-    "creature"
+    "creature",
+    "chibi",
+    "dragonborn",
+    "tiefling",
+    "monsters",
+    "league",
+    "angels",
+    "legends"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -321.3999999999993,
     "offset_y": -323.6000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -53.799999999999784,
     "offset_y": -14.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": 0.3888888888902784,
     "offset_y": -7.675925925925867,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

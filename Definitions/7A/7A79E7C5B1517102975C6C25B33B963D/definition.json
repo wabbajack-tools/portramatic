@@ -4,27 +4,59 @@
   "tags": [
     "outsider",
     "female. mage",
-    "princess"
+    "princess",
+    "legends",
+    "cryptids",
+    "legend",
+    "goddess",
+    "love",
+    "female",
+    "kratos",
+    "god",
+    "war",
+    "chains",
+    "olympus",
+    "gears",
+    "trap",
+    "kasum",
+    "secret",
+    "agent",
+    "jun",
+    "seong",
+    "park",
+    "cassia",
+    "goldenlight",
+    "hextcg",
+    "raluca",
+    "marinescu",
+    "world",
+    "warcraft",
+    "chronicle",
+    "chapter",
+    "5"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -397,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -302,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -182,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,42 @@
     "mage",
     "priest",
     "rogue",
-    "dancer"
+    "dancer",
+    "dynasty",
+    "warriors",
+    "7",
+    "cai",
+    "wenji",
+    "orochi",
+    "eriselle",
+    "yu",
+    "cheng",
+    "hong",
+    "anime",
+    "dark"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -336,
     "offset_y": -397,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.511416666666666,
     "offset_x": -109,
     "offset_y": -170,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7419999999999993,
     "offset_x": -6,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

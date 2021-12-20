@@ -8,27 +8,43 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "fairies",
+    "fairy",
+    "tale",
+    "book",
+    "cover",
+    "jeremy",
+    "chong",
+    "beautiful",
+    "elf",
+    "archerist",
+    "tiny",
+    "rodrigo",
+    "ramos"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -186,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -163,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -284,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

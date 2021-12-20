@@ -4,27 +4,40 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "anime",
+    "warrior",
+    "girl",
+    "beautiful",
+    "woman",
+    "chinese",
+    "cosplay",
+    "\u505A\u4E2A\u632B\u6B65\u9AA4\uFF0C\u81EA\u6211\u52C9\u52B1",
+    "feng",
+    "yan"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -221.5,
     "offset_y": -227,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999992,
     "offset_x": -79.5,
     "offset_y": -143,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399166666666662,
     "offset_x": -59,
     "offset_y": -31,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

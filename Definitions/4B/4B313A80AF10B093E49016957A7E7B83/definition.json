@@ -5,27 +5,57 @@
     "undead",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "liliana",
+    "waker",
+    "dead",
+    "dau",
+    "thi",
+    "ghoul",
+    "silversmote",
+    "goul",
+    "reaper",
+    "league",
+    "legends",
+    "assassin",
+    "dark",
+    "elf",
+    "witch",
+    "king",
+    "angmar",
+    "kawin",
+    "akaworawit",
+    "vampire",
+    "viking",
+    "kaithzer",
+    "morej\u00F3n",
+    "kali",
+    "jonathan",
+    "opgenhaffen",
+    "god"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -771.7999999999997,
     "offset_y": -48.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -459.19999999999976,
     "offset_y": -4.600000000000421,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -650.3240740740748,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

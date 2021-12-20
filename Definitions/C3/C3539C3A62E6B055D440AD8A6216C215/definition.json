@@ -2,27 +2,58 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/701/772/large/ruben-perez-gonzalez-warrior-leather-final2.jpg?1520418708",
   "md5": "C3539C3A62E6B055D440AD8A6216C215",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "character",
+    "dragon",
+    "girl",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "mortal",
+    "kombat",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "warrior",
+    "ruben",
+    "perez",
+    "gonzalez",
+    "\u6218\u58EB",
+    "bain",
+    "f",
+    "https://www.artstation.com",
+    "duelist",
+    "stefan",
+    "tsvetkov"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -484,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -243,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -56,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

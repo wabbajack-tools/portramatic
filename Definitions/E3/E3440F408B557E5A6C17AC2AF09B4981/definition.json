@@ -2,27 +2,62 @@
   "source": "https://64.media.tumblr.com/af5cc9b4e50515836936a3abb97ae5dd/tumblr_nw9zpklpt71t5z3yho1_500.jpg",
   "md5": "E3440F408B557E5A6C17AC2AF09B4981",
   "tags": [
-    "#Barbarian #knight"
+    "#Barbarian #knight",
+    "viking",
+    "warrior",
+    "painting",
+    "norse",
+    "battle",
+    "knight",
+    "armor",
+    "orc",
+    "armors",
+    "medieval",
+    "knights",
+    "death",
+    "sniper",
+    "ghost",
+    "heavy",
+    "marcus",
+    "daryl",
+    "mandryk",
+    "warhammer",
+    "slayer",
+    "chris",
+    "dien",
+    "dwarf",
+    "character",
+    "portraits",
+    "assassin",
+    "yu-chao",
+    "cheng",
+    "concept",
+    "characters",
+    "cyber",
+    "ninja"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -286.39999999999986,
     "offset_y": -147.20000000000013,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3500000000000003,
     "offset_x": -150.40000000000032,
     "offset_y": -119.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9000000000000012,
     "offset_x": -107.3240740740739,
     "offset_y": -161.78703703703695,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

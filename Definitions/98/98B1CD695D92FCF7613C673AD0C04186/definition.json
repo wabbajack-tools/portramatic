@@ -5,27 +5,54 @@
     "human",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "dante",
+    "from",
+    "devil",
+    "may",
+    "cry",
+    "new",
+    "5",
+    "weapons",
+    "warriors",
+    "dynasty",
+    "king",
+    "\u856D",
+    "\u4F2F\u540C",
+    "aoe",
+    "cards",
+    "yue",
+    "fei",
+    "red",
+    "pencil",
+    "shang-chi",
+    "jaynorn",
+    "lin",
+    "2021",
+    "marvel"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -938,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -580,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -814,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

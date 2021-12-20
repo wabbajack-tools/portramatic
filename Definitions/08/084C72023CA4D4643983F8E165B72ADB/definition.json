@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/564x/55/42/f3/5542f32c207c21e65a1cfba959756690.jpg",
   "md5": "084C72023CA4D4643983F8E165B72ADB",
   "tags": [
-    ""
+    "",
+    "wang",
+    "wei",
+    "artist",
+    "paintings",
+    "warcraft",
+    "chaos",
+    "warrior",
+    "warhammer",
+    "40k",
+    "dungeons",
+    "dragons",
+    "orcs"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -322,
     "offset_y": -269,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -149,
     "offset_y": -163,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -20,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -29,27 +29,40 @@
     "tom",
     "bruck",
     "https://www.artstation.com/artwork/loja5",
-    "creature"
+    "creature",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -218,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -52,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -26,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

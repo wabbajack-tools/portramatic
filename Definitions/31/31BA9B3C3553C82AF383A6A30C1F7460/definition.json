@@ -4,27 +4,45 @@
   "tags": [
     "aasimar",
     "priest",
-    "female"
+    "female",
+    "godzilla",
+    "king",
+    "monsters",
+    "fallen",
+    "angel",
+    "anime",
+    "dark",
+    "sacrifice",
+    "heart",
+    "mist",
+    "xg",
+    "gothic",
+    "draft",
+    "\u53EF",
+    "\u6D41\u5DDD"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -1002,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -655,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -380,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

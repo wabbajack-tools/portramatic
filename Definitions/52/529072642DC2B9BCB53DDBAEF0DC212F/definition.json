@@ -9,27 +9,44 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "random",
+    "creatures",
+    "paintings",
+    "creature",
+    "design",
+    "four",
+    "horsemen",
+    "carnival",
+    "alice",
+    "wonderland",
+    "disney",
+    "gnoll",
+    "nate",
+    "https://www.artstation.com/artwork/18xlnx?fbclid=iwar3"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -292,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -3,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999997,
     "offset_x": -10,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

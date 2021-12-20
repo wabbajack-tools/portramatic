@@ -1,26 +1,44 @@
 {
-  "source": "https://sun9-43.userapi.com/impg/PCOw8xyR-rlvo3_0H2Fo1ArMT4iUD_nibXE2sA/QU9WpEt1WBE.jpg?size=1296x2160&quality=96&sign=8535a1c9adb65909c74daa213cba0b0b&type=album",
+  "source": "https://sun9-43.userapi.com/impg/PCOw8xyR-rlvo3_0H2Fo1ArMT4iUD_nibXE2sA/QU9WpEt1WBE.jpg?size=1296x2160\u0026quality=96\u0026sign=8535a1c9adb65909c74daa213cba0b0b\u0026type=album",
   "md5": "5C5F82BC14E15ADCB0135A56A9FB6F69",
   "tags": [
-    ""
+    "",
+    "marvel",
+    "comics",
+    "2017",
+    "sharke",
+    "wave",
+    "faust",
+    "savant",
+    "reg",
+    "randy",
+    "vargas",
+    "vargasni",
+    "overwatch-pharah-\u6CD5\u8001\u4E4B\u9E70",
+    "ibeemoy"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -278,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -209,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -18,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

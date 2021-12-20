@@ -6,27 +6,44 @@
     "female",
     "dancer",
     "mage",
-    "queen"
+    "queen",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "league",
+    "legends",
+    "final",
+    "mobius",
+    "agri",
+    "karuniawan",
+    "\u9B54\u4F5B\u6CE2\u65EC",
+    "don",
+    "cai"
   ],
   "small": {
     "scale": 0.5799999999999997,
     "offset_x": -605,
     "offset_y": -494,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4699999999999994,
     "offset_x": -431,
     "offset_y": -357,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.429583333333333,
     "offset_x": -270,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,27 +11,54 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "steampunk",
+    "plague",
+    "doctor",
+    "anime",
+    "clip",
+    "league",
+    "legends",
+    "david",
+    "goliath",
+    "orcs",
+    "azshara",
+    "archdruid",
+    "rimma",
+    "b",
+    "lady",
+    "necromancer",
+    "jessie",
+    "lam",
+    "tyrranir",
+    "tatiana",
+    "hordiienko",
+    "world",
+    "warcraft",
+    "characters"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -286.7999999999997,
     "offset_y": -162.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -96.19999999999976,
     "offset_y": -90.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -38.324074074074815,
     "offset_y": -69.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

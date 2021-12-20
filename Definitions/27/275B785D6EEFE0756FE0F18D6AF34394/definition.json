@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/564x/11/0c/f2/110cf262f1016cefb3a6f093da2bd72e.jpg",
   "md5": "275B785D6EEFE0756FE0F18D6AF34394",
   "tags": [
-    ""
+    "",
+    "cool",
+    "character",
+    "artwork",
+    "names",
+    "guardians",
+    "galaxy",
+    "little",
+    "red",
+    "riding",
+    "hood",
+    "evelyn",
+    "tang"
   ],
   "small": {
     "scale": 1.8300000000000007,
     "offset_x": -479,
     "offset_y": -303,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -82,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -18,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

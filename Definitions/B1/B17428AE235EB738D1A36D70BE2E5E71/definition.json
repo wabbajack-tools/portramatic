@@ -5,27 +5,38 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "weaving",
+    "growers",
+    "henriette",
+    "boldt",
+    "tyrande",
+    "daria",
+    "r",
+    "https://cdn2.artstation.com/p/assets/images/images/002/791"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -661,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999998,
     "offset_x": -496,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0396666666666667,
     "offset_x": -654,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

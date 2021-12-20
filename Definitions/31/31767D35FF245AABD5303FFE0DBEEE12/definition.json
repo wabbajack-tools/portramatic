@@ -2,27 +2,54 @@
   "source": "https://i.gyazo.com/31767d35ff245aabd5303ffe0dbeee12.png",
   "md5": "31767D35FF245AABD5303FFE0DBEEE12",
   "tags": [
-    ""
+    "",
+    "barbarian",
+    "woman",
+    "outfit",
+    "female",
+    "larp",
+    "pirate",
+    "knight",
+    "armor",
+    "assassin",
+    "actionfigures",
+    "black",
+    "assassin\u0027s",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "fire",
+    "genasi",
+    "concept",
+    "nat",
+    "martin"
   ],
   "small": {
     "scale": 1,
     "offset_x": -281,
     "offset_y": 11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -232,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -148,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

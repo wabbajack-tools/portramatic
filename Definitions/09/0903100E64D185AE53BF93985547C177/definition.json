@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/4e/fe/66/4efe66efdfdf6224103265accb601591.jpg",
   "md5": "0903100E64D185AE53BF93985547C177",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "vampire",
+    "magic",
+    "gathering",
+    "concept",
+    "lord",
+    "teardrop",
+    "white-eye",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "blood",
+    "anime",
+    "angel",
+    "caster",
+    "midrash",
+    "b.c.n.y.",
+    "han-yuan",
+    "yu",
+    "fate\u0027s",
+    "folly",
+    "warrior",
+    "card",
+    "#1",
+    "jerry",
+    "padilla"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -467,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -194,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.319999999999994,
     "offset_x": -452,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

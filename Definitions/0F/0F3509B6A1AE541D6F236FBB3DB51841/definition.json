@@ -9,27 +9,58 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "deathwing",
+    "destroyer",
+    "shiva",
+    "league",
+    "legends",
+    "female",
+    "assassin",
+    "anime",
+    "girl",
+    "angel",
+    "blood",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "lol",
+    "thunderspear",
+    "mariusz",
+    "gandzel"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -321,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -76,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1099999999999999,
     "offset_x": -46,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

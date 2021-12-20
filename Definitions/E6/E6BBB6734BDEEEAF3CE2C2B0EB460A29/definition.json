@@ -6,27 +6,55 @@
     "female",
     "dancer",
     "priest",
-    "mage"
+    "mage",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "warrior",
+    "rise",
+    "guardians",
+    "anime",
+    "girl",
+    "galaxy",
+    "evil",
+    "summoner",
+    "basic",
+    "antilous",
+    "chao",
+    "card",
+    "illustration",
+    "\u6D69",
+    "\u90ED",
+    "techno",
+    "pin",
+    "up",
+    "#1",
+    "jon",
+    "parr"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -461,
     "offset_y": -343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999993,
     "offset_x": -161,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4496666666666663,
     "offset_x": -126,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/27/f3/80/27f380b59f2bd600ce9746fecc019326.jpg",
   "md5": "CE11BBDB33073A92EC29D2AFB6954746",
   "tags": [
-    "Warrior Final"
+    "Warrior Final",
+    "ichigo",
+    "kurosaki",
+    "final",
+    "getsuga",
+    "bleach",
+    "mugetsu",
+    "tenshou",
+    "sword",
+    "dungeons",
+    "dragons",
+    "rock",
+    "pirates",
+    "caribbean",
+    "last",
+    "knight_2",
+    ".",
+    "dleoblack",
+    "skyrim",
+    "fanart",
+    "angel",
+    "warrior"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -579,
     "offset_y": -301,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -358,
     "offset_y": -173,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9978333333333335,
     "offset_x": -322,
     "offset_y": -178,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

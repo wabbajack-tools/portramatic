@@ -4,27 +4,41 @@
   "tags": [
     "elf",
     "female",
-    "red"
+    "red",
+    "dark",
+    "shadowrun",
+    "male",
+    "rogue",
+    "blonde",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -39.99999999999986,
     "offset_y": -0.7999999999999545,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -38.400000000000034,
-    "offset_y": -5.684341886080802e-14,
-    "size": "medium"
+    "offset_y": -5.684341886080802E-14,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -8.009259259259807,
     "offset_y": -1.601851851852075,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

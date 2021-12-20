@@ -14,27 +14,32 @@
     "before",
     "time",
     "wile",
-    "coyote"
+    "coyote",
+    "costume",
+    "elves"
   ],
   "small": {
     "scale": 1,
     "offset_x": -159,
     "offset_y": -311,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -184,
     "offset_y": -299,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -88,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

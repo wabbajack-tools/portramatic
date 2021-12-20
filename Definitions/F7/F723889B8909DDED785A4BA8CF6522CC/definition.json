@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/564x/8d/8f/f2/8d8ff2017521fae5212758861c5709a8.jpg",
   "md5": "F723889B8909DDED785A4BA8CF6522CC",
   "tags": [
-    "female"
+    "female",
+    "boudoir",
+    "acrylic",
+    "paintings",
+    "women",
+    "portraits",
+    "oil",
+    "face",
+    "painting"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -13,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -6,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -39,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

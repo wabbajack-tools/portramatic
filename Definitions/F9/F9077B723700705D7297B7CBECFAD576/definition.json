@@ -2,25 +2,55 @@
   "source": "https://i.pinimg.com/564x/e0/3c/59/e03c59216f454b91384b0bf2ac6cb9af.jpg",
   "md5": "F9077B723700705D7297B7CBECFAD576",
   "tags": [
-    ""
+    "",
+    "male",
+    "demon",
+    "drawing",
+    "hunter",
+    "female",
+    "character",
+    "anime",
+    "characters",
+    "girl",
+    "guys",
+    "fate",
+    "stay",
+    "night",
+    "shadow",
+    "hedgehog",
+    "dark",
+    "shadows",
+    "league",
+    "legends",
+    "one",
+    "piece",
+    "tiefling",
+    "knight",
+    "leonardo",
+    "domingues"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -125,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -103,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": 0,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

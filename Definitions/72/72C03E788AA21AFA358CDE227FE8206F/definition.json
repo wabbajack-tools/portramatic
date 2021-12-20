@@ -4,27 +4,54 @@
   "tags": [
     "orc",
     "male",
-    "warrior"
+    "warrior",
+    "barbarian",
+    "character",
+    "half-orc",
+    "fan",
+    "heavy",
+    "armor",
+    "knight",
+    "medieval",
+    "knights",
+    "female",
+    "assassin",
+    "templar",
+    "denis",
+    "didenko",
+    "baggi",
+    "monster",
+    "hunter",
+    "fanart",
+    "daniel",
+    "hiew",
+    "concept",
+    "junkyu",
+    "lee",
+    "2021"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -575,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -316,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -140,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

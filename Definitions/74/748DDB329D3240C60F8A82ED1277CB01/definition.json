@@ -5,27 +5,53 @@
     "outsider",
     "male",
     "warrior",
-    "king"
+    "king",
+    "chaos",
+    "clash",
+    "titans",
+    "dark",
+    "elf",
+    "assassin\u0027s",
+    "creed",
+    "origins",
+    "bandits",
+    "concepts",
+    "jeff",
+    "simpson",
+    "comicon",
+    "challenge",
+    "2014",
+    "doctor",
+    "strange",
+    "girish",
+    "srinivasagopalan",
+    "lee",
+    "kyong-min",
+    "iwo",
+    "widuli\u0144ski"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -481,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999999,
     "offset_x": -275,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9296666666666666,
     "offset_x": -178,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

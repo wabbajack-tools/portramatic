@@ -1,28 +1,38 @@
 {
-  "source": "https://preview.redd.it/nmakd8yrvl081.jpg?width=640&crop=smart&auto=webp&s=f29e450b6be24bb8294007cb527599243eca6e1b",
+  "source": "https://preview.redd.it/nmakd8yrvl081.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=f29e450b6be24bb8294007cb527599243eca6e1b",
   "md5": "8F38BFC5F023C8CBA39DE0BD45142984",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "socks",
+    "bra",
+    "panties"
   ],
   "small": {
     "scale": 1,
     "offset_x": -165.33333333333331,
     "offset_y": -7.333333333333314,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -73.33333333333343,
     "offset_y": -8.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -49.333333333333485,
     "offset_y": -31.999999999999886,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/yL1Tzzu.jpeg",
   "md5": "21558C8EACD292AA95D57D26BF2361F0",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "night",
+    "elf",
+    "lord",
+    "rings",
+    "lair",
+    "gorgon",
+    "eli",
+    "delia",
+    "artwork",
+    "creative",
+    "work",
+    "painting",
+    "elleshar",
+    "jane",
+    "katsubo",
+    "character",
+    "characters",
+    "design",
+    "crossbowmans",
+    "dodos",
+    "helder",
+    "almeida",
+    "creatures",
+    "creature"
   ],
   "small": {
     "scale": 1,
     "offset_x": -212,
     "offset_y": -414,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -217,
     "offset_y": -322,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 12,
     "offset_y": 12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,58 @@
   "md5": "8517F6A65B92AB68BBF004E7377D945D",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "chinese",
+    "emperor",
+    "roman",
+    "concept",
+    "ancient",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "warriors",
+    "eyes",
+    "king",
+    "zahir",
+    "aghakhani",
+    "persian",
+    "warrior",
+    "strategos",
+    "satanasov",
+    "greek",
+    "soldier",
+    "assassins",
+    "creed",
+    "saracen",
+    "oleg",
+    "bozhko",
+    "character",
+    "design",
+    "characters"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -557,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -467,
     "offset_y": -160,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -88,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

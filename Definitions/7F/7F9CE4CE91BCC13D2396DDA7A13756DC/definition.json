@@ -3,27 +3,59 @@
   "md5": "7F9CE4CE91BCC13D2396DDA7A13756DC",
   "tags": [
     "Dragon",
-    "sorcerer"
+    "sorcerer",
+    "zelda",
+    "twilight",
+    "princess",
+    "nike",
+    "goddess",
+    "dungeons",
+    "dragons",
+    "guardian",
+    "angels",
+    "greek",
+    "gods",
+    "fanart",
+    "jay",
+    "jiwoopark",
+    "avacyn",
+    "angel",
+    "hope.",
+    "illustration",
+    "test",
+    "for",
+    "mtg",
+    "iv\u00E1n",
+    "herranz",
+    "blasphemous",
+    "vasco",
+    "mariano",
+    "character",
+    "design",
+    "dark"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -373.99999999999955,
     "offset_y": -86.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -316.6666666666671,
     "offset_y": -52.0000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -30.666666666666288,
     "offset_y": -6.666666666666174,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

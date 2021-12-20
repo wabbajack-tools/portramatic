@@ -20,27 +20,41 @@
     "cromwell",
     "renewal",
     "b.elin",
-    "."
+    ".",
+    "gay",
+    "men",
+    "anime",
+    "cock",
+    "male",
+    "fitness",
+    "models",
+    "vader",
+    "unmasked",
+    "rachel",
+    "hough"
   ],
   "small": {
     "scale": 0.9599999999999997,
     "offset_x": -279,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -153,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3699999999999992,
     "offset_x": -158,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

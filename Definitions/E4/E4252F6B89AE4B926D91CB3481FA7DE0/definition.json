@@ -4,27 +4,48 @@
   "tags": [
     "dark",
     "dwarf",
-    "wizard"
+    "wizard",
+    "dwarven",
+    "female",
+    "skyrim",
+    "lord",
+    "demon",
+    "2015",
+    "david",
+    "ceballos",
+    "aagaroth",
+    "royal",
+    "assassin",
+    "tiago",
+    "rios",
+    "monster",
+    "bible",
+    "he",
+    "xiaosong",
+    "https://www.artstation.com/artwork/olnzj"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -196.33333333333337,
     "offset_y": -93.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -190,
     "offset_y": -121.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -0.6666666666665151,
     "offset_y": -42.66666666666674,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,50 @@
   "source": "https://s-media-cache-ak0.pinimg.com/736x/f0/99/fa/f099fa758d383258e47cd41bd6b24848.jpg",
   "md5": "92AB05E0286D2B42F6187240D1E33343",
   "tags": [
-    ""
+    "",
+    "neverwinter",
+    "characters",
+    "warlock",
+    "dark",
+    "tiefling",
+    "female",
+    "assassin",
+    "elf",
+    "random",
+    "sketch",
+    "und",
+    "unver\u00F6ffentlichte",
+    "forerunner",
+    "pact",
+    "elder",
+    "scrolls",
+    "lizard",
+    "monster",
+    "ford",
+    "nguyen"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -223,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -159,
     "offset_y": -143,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -180,
     "offset_y": -162,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

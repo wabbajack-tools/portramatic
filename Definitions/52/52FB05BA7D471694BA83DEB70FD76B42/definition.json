@@ -2,27 +2,54 @@
   "source": "https://www.sideshow.com/wp/wp-content/uploads/2017/10/500474_press02.jpg",
   "md5": "52FB05BA7D471694BA83DEB70FD76B42",
   "tags": [
-    ""
+    "",
+    "aspen",
+    "comic",
+    "book",
+    "sideshow",
+    "prints",
+    "covers",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "swim_wear",
+    "bikini",
+    "shadowfall",
+    "astalian",
+    "dragonkin",
+    "animation",
+    "larry",
+    "wilson",
+    "titan",
+    "george",
+    "redreev"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -261,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -149,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -126,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

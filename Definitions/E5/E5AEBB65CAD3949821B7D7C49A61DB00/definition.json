@@ -2,27 +2,36 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/042/891/859/large/milivoj-ceran-mceran-emanation.jpg?1635748017",
   "md5": "E5AEBB65CAD3949821B7D7C49A61DB00",
   "tags": [
-    ""
+    "",
+    "daily",
+    "sketches",
+    "week",
+    "29",
+    "even",
+    "amundsen"
   ],
   "small": {
     "scale": 2.0699999999999994,
     "offset_x": -685,
     "offset_y": -1390,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -291,
     "offset_y": -806,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -156,
     "offset_y": -538,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,49 @@
     "female",
     "warrior",
     "priest",
-    "mage"
+    "mage",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "league",
+    "assassin",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "lol",
+    "\u9B54\u306A\u308B\u3082\u306E\u306E\u738B\u5973",
+    "rui",
+    "li",
+    "morathi",
+    "catherine",
+    "o\u0027connor"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -541,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999996,
     "offset_x": -368,
     "offset_y": -136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7096666666666666,
     "offset_x": -276,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,50 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "ocarina",
+    "time",
+    "anime",
+    "angel",
+    "3ds",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "transcended",
+    "kayle",
+    "atey",
+    "ghailan",
+    "rising",
+    "shield",
+    "hero",
+    "raphtalia"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -202,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -71,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1599999999999997,
     "offset_x": -2,
     "offset_y": -150,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -32,27 +32,50 @@
     "legends",
     "eleonora",
     "lisi",
-    "https://www.artstation.com/artwork"
+    "https://www.artstation.com/artwork",
+    "male",
+    "warrior",
+    "female",
+    "medieval",
+    "knights",
+    "heavy",
+    "assassin",
+    "tiberius",
+    "david",
+    "paget",
+    "roman",
+    "model",
+    "tsvetomir",
+    "georgiev",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -275,
     "offset_y": 33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -291,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -100,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

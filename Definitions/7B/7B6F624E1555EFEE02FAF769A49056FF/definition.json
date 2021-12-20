@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/19/e2/9e/19e29e08c1f218396c91a7bfde855f33.jpg",
   "md5": "7B6F624E1555EFEE02FAF769A49056FF",
   "tags": [
-    ""
+    "",
+    "wood",
+    "elf",
+    "army",
+    "drawings",
+    "warhammer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "veronica",
+    "jones",
+    "maxime",
+    "delcambre",
+    "2020",
+    "witch",
+    "real",
+    "time",
+    "iv\u00E1n",
+    "mayol",
+    "viking",
+    "warrior",
+    "kim",
+    "myoung",
+    "hyun"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -194,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -25,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -82,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

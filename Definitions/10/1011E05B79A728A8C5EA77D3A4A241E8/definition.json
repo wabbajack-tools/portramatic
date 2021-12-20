@@ -4,27 +4,60 @@
   "tags": [
     "tiefling",
     "female",
-    "mage"
+    "mage",
+    "sleeping",
+    "beauty",
+    "villain",
+    "maleficent",
+    "disney",
+    "evil",
+    "queen",
+    "drawing",
+    "corpse",
+    "bride",
+    "city",
+    "park",
+    "witch",
+    "josh",
+    "black",
+    "characters",
+    "2d",
+    "character",
+    "design",
+    "daenerys",
+    "targaryen",
+    "ilya",
+    "brovkin",
+    "https://www.artstation.com/artwork/yaoxnk",
+    "hannya",
+    "mask",
+    "women",
+    "kellen",
+    "carranza",
+    "https://www.artstation.com/artwork/81kog"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -254,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -62,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

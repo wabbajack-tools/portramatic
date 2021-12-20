@@ -4,27 +4,54 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "meruccubus",
+    "anime",
+    "demon",
+    "league",
+    "legends",
+    "warriors",
+    "game",
+    "thrones",
+    "level",
+    "two",
+    "witch",
+    "erica",
+    "willey",
+    "tracer",
+    "overwatch",
+    "fanart",
+    "dao",
+    "le",
+    "trong",
+    "https://www.artstation.com/artwork/bvlvk",
+    "knight",
+    "sketch",
+    "hanh",
+    "chu"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -341.5,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -184.5,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -79,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

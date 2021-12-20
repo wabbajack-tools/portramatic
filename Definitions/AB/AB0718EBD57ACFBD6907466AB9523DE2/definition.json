@@ -1,26 +1,41 @@
 {
-  "source": "https://pbs.twimg.com/media/FEgiJlEVkAM5uDs?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/FEgiJlEVkAM5uDs?format=jpg\u0026name=large",
   "md5": "AB0718EBD57ACFBD6907466AB9523DE2",
   "tags": [
-    ""
+    "",
+    "civil",
+    "war",
+    "medieval",
+    "knights",
+    "qishi",
+    "ling",
+    "lin",
+    "kratos",
+    "k\u00E9vin",
+    "beaudouin"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -548,
     "offset_y": -504,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -674,
     "offset_y": -669,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9300000000000008,
     "offset_x": -1670,
     "offset_y": -1568,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

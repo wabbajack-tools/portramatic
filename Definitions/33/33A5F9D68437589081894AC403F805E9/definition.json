@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/0e/2c/ff/0e2cff3960126fc82bfdb59cb628cb26.jpg",
   "md5": "33A5F9D68437589081894AC403F805E9",
   "tags": [
-    ""
+    "",
+    "egyptian",
+    "god",
+    "concept",
+    "warrior",
+    "armor",
+    "ancient",
+    "dynasty",
+    "warriors",
+    "knight",
+    "miniatures",
+    "death",
+    "heroes",
+    "might",
+    "magic",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "holy",
+    "knight2",
+    "nazar",
+    "havryliuk",
+    "https://www",
+    "draenei",
+    "tibi",
+    "neag",
+    "lizard",
+    "banker",
+    "juan",
+    "bernaus",
+    "aguirre"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -188.79999999999995,
     "offset_y": -13.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -81.60000000000002,
     "offset_y": -3.1999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -59.26851851851825,
     "offset_y": -24.02777777777783,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,59 @@
   "tags": [
     "female",
     "human",
-    "samurai"
+    "samurai",
+    "ronin",
+    "armor",
+    "ninja",
+    "warrior",
+    "assassin",
+    "game",
+    "thrones",
+    "dark",
+    "brotherhood",
+    "death",
+    "knight",
+    "vampire",
+    "manga",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend",
+    "pirate",
+    "kim",
+    "junghun",
+    "woman",
+    "character",
+    "personal",
+    "work",
+    "dia",
+    "nak",
+    "2020"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -326,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -242,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -342,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

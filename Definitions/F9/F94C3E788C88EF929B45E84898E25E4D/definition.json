@@ -1,28 +1,54 @@
 {
-  "source": "https://static.wikia.nocookie.net/labibliotecadelviejomundo/images/e/ec/Luthor_Huss_por_Chris_Dien.jpg/revision/latest/scale-to-width-down/1000?cb=20110420090910&path-prefix=es",
+  "source": "https://static.wikia.nocookie.net/labibliotecadelviejomundo/images/e/ec/Luthor_Huss_por_Chris_Dien.jpg/revision/latest/scale-to-width-down/1000?cb=20110420090910\u0026path-prefix=es",
   "md5": "F94C3E788C88EF929B45E84898E25E4D",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "priest",
+    "sigmar",
+    "concept",
+    "warhammer",
+    "40k",
+    "death",
+    "knight",
+    "shadow",
+    "mordor",
+    "yghnar",
+    "remko",
+    "troost",
+    "viking",
+    "revenant",
+    "elie",
+    "gomez",
+    "bloodhound",
+    "apex",
+    "legends",
+    "eleonora",
+    "lisi",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -443,
     "offset_y": -211,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -367,
     "offset_y": -172,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -174,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

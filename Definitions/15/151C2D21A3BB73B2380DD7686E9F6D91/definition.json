@@ -2,27 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34f8c74f-bb8c-44cd-abc8-13a51caf9f84/d5wxywr-47112b41-7ab3-48cd-a016-ddd9530afc9a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0ZjhjNzRmLWJiOGMtNDRjZC1hYmM4LTEzYTUxY2FmOWY4NFwvZDV3eHl3ci00NzExMmI0MS03YWIzLTQ4Y2QtYTAxNi1kZGQ5NTMwYWZjOWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VS2QVstUwBxJfD-XvkZ8l71g7GOTZh-Ed0bFe7pIZPw",
   "md5": "151C2D21A3BB73B2380DD7686E9F6D91",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "armor",
+    "knight",
+    "pencil",
+    "drawings",
+    "knights",
+    "templar",
+    "dark",
+    "guerrero",
+    "jose",
+    "parodi",
+    "warrior",
+    "inspiration",
+    "character",
+    "portraits"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -128,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -61,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -34,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

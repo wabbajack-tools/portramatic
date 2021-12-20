@@ -23,27 +23,47 @@
     "design",
     "demon",
     "game",
-    "assets"
+    "assets",
+    "anime",
+    "thrones",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www",
+    "yang",
+    "liu",
+    "artist",
+    "artstation).",
+    ".",
+    ".#cyberpunkart",
+    "#",
+    "cult",
+    "undead",
+    "vasiliy",
+    "gromov"
   ],
   "small": {
     "scale": 0.917,
     "offset_x": -627.1999999999989,
     "offset_y": -34.39999999999981,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5383333333333329,
     "offset_x": -197.60000000000002,
     "offset_y": -8.799999999999898,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7468333333333339,
     "offset_x": -48.05555555555543,
     "offset_y": -1.6018518518523024,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

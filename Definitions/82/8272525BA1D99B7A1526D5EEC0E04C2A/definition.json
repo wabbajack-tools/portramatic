@@ -5,27 +5,66 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "hyung",
+    "lee",
+    "alvin",
+    "amazing",
+    "geek",
+    "gallery",
+    "man",
+    "steel",
+    "death",
+    "knight",
+    "armor",
+    "medieval",
+    "shields",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "jeans",
+    "michael",
+    "maurino",
+    "artist",
+    "fictional",
+    "characters",
+    "huln",
+    "highmountain",
+    "wow",
+    "tcg",
+    "paul",
+    "mafayon",
+    "http://www.artstation.com/artwork/huln",
+    "game",
+    "thrones",
+    "night",
+    "king",
+    "kelvin",
+    "chan"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -566,
     "offset_y": -247,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -87,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -42,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

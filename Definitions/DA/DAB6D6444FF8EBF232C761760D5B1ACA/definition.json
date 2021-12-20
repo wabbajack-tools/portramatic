@@ -3,27 +3,50 @@
   "md5": "DAB6D6444FF8EBF232C761760D5B1ACA",
   "tags": [
     "man",
-    "knight"
+    "knight",
+    "medieval",
+    "sketches",
+    "anime",
+    "armor",
+    "artwork",
+    "armors",
+    "plate",
+    "knights",
+    "heavy",
+    "young",
+    "hyunjoong",
+    ".",
+    "character",
+    "portraits",
+    "ruse",
+    "dungeons",
+    "dragons",
+    "warrior",
+    "\uB028",
+    "\uB039\uC774"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -576,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -230,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -26,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

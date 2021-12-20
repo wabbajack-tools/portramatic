@@ -7,27 +7,57 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "marvel",
+    "comics",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "a",
+    "bad",
+    "guy\uFF1F",
+    "sol",
+    "hecate",
+    "svein",
+    "yngve",
+    "sandvik",
+    "antonsen",
+    "sci",
+    "fi",
+    "characters",
+    "\uD574\uB2D8\uB2EC\uB2D8",
+    "knight",
+    "mage",
+    "//",
+    "sun",
+    "moon",
+    "z-o_u",
+    "t.j.",
+    "kwon"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -316.66666666666794,
     "offset_y": -92.66666666668192,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -90.86666666666434,
     "offset_y": -27.133333333342534,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -157.00000000000125,
     "offset_y": -40.80555555555668,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

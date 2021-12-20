@@ -7,27 +7,49 @@
     "wood",
     "rouge",
     "duel",
-    "wield"
+    "wield",
+    "tattoos",
+    "winter",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "predator",
+    "girl",
+    "rafa",
+    "flores",
+    "aliens",
+    "micha\u0142",
+    "sa\u0142ata",
+    "geralt",
+    "rivia",
+    "paula",
+    "vizca\u00EDno"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -269,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4400000000000004,
     "offset_x": -121,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8100000000000007,
     "offset_x": -18,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

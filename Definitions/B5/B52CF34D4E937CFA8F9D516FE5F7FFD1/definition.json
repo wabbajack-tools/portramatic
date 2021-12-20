@@ -23,27 +23,46 @@
     "design",
     "demon",
     "game",
-    "assets"
+    "assets",
+    "dmc",
+    "4",
+    "fan",
+    "wallpaper",
+    "anime",
+    "girl",
+    "championship",
+    "riven",
+    "boyi",
+    "cui",
+    "kimmy",
+    "dragon",
+    "tamer",
+    "mobile",
+    "legends",
+    "bang"
   ],
   "small": {
     "scale": 0.937,
     "offset_x": -186.39999999999898,
-    "offset_y": 1.7053025658242404e-13,
-    "size": "small"
+    "offset_y": 1.7053025658242404E-13,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9672499999999996,
     "offset_x": -129.59999999999997,
     "offset_y": -1.5999999999997954,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.087083333333336,
     "offset_x": -237.0740740740739,
-    "offset_y": -5.684341886080801e-13,
-    "size": "full"
+    "offset_y": -5.684341886080801E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

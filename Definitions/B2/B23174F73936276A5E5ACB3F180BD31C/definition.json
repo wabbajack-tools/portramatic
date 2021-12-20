@@ -2,27 +2,45 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/037/913/334/large/stephen-sykes-sanguinius.jpg?1621638203",
   "md5": "B23174F73936276A5E5ACB3F180BD31C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "assassin",
+    "jang",
+    "tae-hwan",
+    "2020",
+    "speechless",
+    "knight",
+    "evgeniy",
+    "petlya",
+    "cara_whaler",
+    "girl",
+    "yun",
+    "du",
+    "white"
   ],
   "small": {
     "scale": 0.86,
     "offset_x": -710.8571428571422,
     "offset_y": -585.7142857142848,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999998,
     "offset_x": -415.42857142857144,
     "offset_y": -371.42857142857156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -61.71428571428555,
     "offset_y": -49.142857142857224,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

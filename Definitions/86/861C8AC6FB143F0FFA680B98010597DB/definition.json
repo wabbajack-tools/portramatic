@@ -2,25 +2,53 @@
   "source": "https://c4.wallpaperflare.com/wallpaper/620/829/241/artwork-fantasy-art-women-elves-elf-ears-hd-wallpaper-preview.jpg",
   "md5": "861C8AC6FB143F0FFA680B98010597DB",
   "tags": [
-    ""
+    "",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "night",
+    "prowl",
+    "frida",
+    "arntsen",
+    "vampires",
+    "werewolves",
+    "character",
+    "artwork",
+    "wip",
+    "uldren",
+    "sov",
+    "prince",
+    "reef",
+    "destiny",
+    "valentina",
+    "berno"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -206,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -71,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -118,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

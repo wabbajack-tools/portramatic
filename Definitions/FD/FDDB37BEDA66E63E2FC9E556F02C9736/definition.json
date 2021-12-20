@@ -5,27 +5,54 @@
     "tiefling",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "succubus",
+    "sketches",
+    "poster",
+    "blood",
+    "black",
+    "widow",
+    "marvel",
+    "comics",
+    "arillyth",
+    "redvale",
+    "fanfoxy",
+    "a",
+    "woman",
+    "science",
+    "dc",
+    "unchained-artemis(2016",
+    "sangyang",
+    "an",
+    "https://www.artstation.com/artwork",
+    "\u6731\u540C\u5B66-cg\u7CBE\u54C1\u73ED-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -685,
     "offset_y": -206,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9504999999999999,
     "offset_x": -263,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0902500000000002,
     "offset_x": -120,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

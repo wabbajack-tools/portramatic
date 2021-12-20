@@ -5,27 +5,49 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "concept",
+    "sketch",
+    "character",
+    "sketches",
+    "drawing",
+    "anime",
+    "girl",
+    "sorceress",
+    "terin",
+    "kim",
+    "vampire",
+    "gunner",
+    "yeajin",
+    "heo",
+    "https://www.artstation.com/artwork/gb40v",
+    "sword",
+    "kyung",
+    "hoon",
+    "ahn"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -849,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -345,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -12,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,55 @@
   "source": "https://i.pinimg.com/564x/ef/2d/45/ef2d45eb9ed7ecfa20dcc1ce0ac3ed3b.jpg",
   "md5": "78DEEEB427611D220914EF13724F1AC7",
   "tags": [
-    ""
+    "",
+    "dark",
+    "demon",
+    "anime",
+    "boy",
+    "wolf",
+    "sketches",
+    "link",
+    "legend",
+    "zelda",
+    "guys",
+    "a",
+    "zhiyang",
+    "yin",
+    "persona",
+    "5",
+    "wild",
+    "cards",
+    "fiona",
+    "chor-kay",
+    "chan",
+    "kil",
+    "jaeden",
+    "bigball",
+    "gao",
+    "warcraft"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -141,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -66,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -2,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

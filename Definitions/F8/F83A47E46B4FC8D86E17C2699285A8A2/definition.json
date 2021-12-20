@@ -30,27 +30,47 @@
     "bonecarver",
     "www.redpencilart.com",
     "red",
-    "pencil"
+    "pencil",
+    "funny",
+    "characters",
+    "character",
+    "sketches",
+    "druid",
+    "naxi",
+    "rong",
+    "xiao",
+    "design",
+    "mercenary",
+    "sonech",
+    ".",
+    "https://www.artstation.com/artwork/288boa",
+    "old",
+    "stuff.",
+    "duong",
+    "ct"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -847,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -811,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -572,
     "offset_y": -101,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

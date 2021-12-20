@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/9e/47/60/9e47605dc14f6058fd12e42bd806527d.jpg",
   "md5": "05B3A59064B023E40B630CBBEC9E6E54",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "concept",
+    "sucker",
+    "punch",
+    "warrior",
+    "drawings",
+    "heavy",
+    "death",
+    "knight",
+    "elder",
+    "scrolls",
+    "online",
+    "skyrim",
+    "star",
+    "wars",
+    "real-time",
+    "character",
+    "michael",
+    "weisheim",
+    "graveyard",
+    "qiwen",
+    "dong"
   ],
   "small": {
     "scale": 1,
     "offset_x": -402,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -344,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -156,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

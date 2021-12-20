@@ -5,27 +5,37 @@
     "male",
     "half elf",
     "rogue",
-    "warrior"
+    "warrior",
+    "winx",
+    "club",
+    "anime",
+    "outfits",
+    "blonde",
+    "hair",
+    "brown"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -84,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -68,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -84,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

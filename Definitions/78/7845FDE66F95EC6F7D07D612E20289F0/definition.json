@@ -2,27 +2,38 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/032/249/218/large/lena-pilieva-archangel3web.jpg?1605883546",
   "md5": "7845FDE66F95EC6F7D07D612E20289F0",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u6765\u4E00\u53E3\u590F\u65E5\u6D77\u98CE\u5473\u9053\u7684\u63D2\u753B\u5427",
+    "mingqian",
+    "youxia"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -627,
     "offset_y": -308,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -137,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -82,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

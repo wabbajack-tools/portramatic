@@ -8,27 +8,36 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "paintings",
+    "angels",
+    "christian",
+    "watercolor",
+    "angel",
+    "fallen"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -354,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -266,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8500000000000008,
     "offset_x": -348,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

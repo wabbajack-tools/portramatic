@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/87/17/c0/8717c02c56c0ddcf015599d9711a87d8.jpg",
   "md5": "4E377E6E6D812F6C4C73B24E190A42DF",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "warrior",
+    "davood",
+    "diba",
+    "https://www.artstation.com/artwork/e0zwv",
+    "medieval",
+    "osdal",
+    "fred",
+    "gambino",
+    "https://www.artstation.com/artwork/nzxzx",
+    "2020",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -276,
     "offset_y": -27.999999999999943,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -206.4000000000001,
     "offset_y": -28.800000000000068,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -100.91666666666583,
     "offset_y": -11.21296296296316,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

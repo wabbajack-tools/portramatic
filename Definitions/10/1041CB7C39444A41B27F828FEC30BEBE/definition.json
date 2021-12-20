@@ -8,27 +8,40 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "dark",
+    "ascension",
+    "zombie",
+    "deck",
+    "black",
+    "spells",
+    "skaven",
+    "misfortune",
+    "mi\u0142ek",
+    "jakubiec"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -232,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -209,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -306,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

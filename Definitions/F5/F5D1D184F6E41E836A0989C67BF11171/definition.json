@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/e3/3b/ad/e33bad15554aecf03fc31bff64b81b31.jpg",
   "md5": "F5D1D184F6E41E836A0989C67BF11171",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "elves",
+    "dark",
+    "elf",
+    "ranger",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -73.60000000000336,
     "offset_y": -57.59999999999985,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -2.3999999999999773,
     "offset_y": -28.79999999999967,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -8.00925925925867,
     "offset_y": -12.814814814815463,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

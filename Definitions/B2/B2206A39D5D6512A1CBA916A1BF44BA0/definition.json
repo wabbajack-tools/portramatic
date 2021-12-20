@@ -11,25 +11,47 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "spartan",
+    "warrior",
+    "armor",
+    "greek",
+    "soldier",
+    "actionfigures",
+    "medieval",
+    "knights",
+    "dynasty",
+    "warriors",
+    "roman",
+    "ancient",
+    "greece",
+    "landsknechts",
+    "tom",
+    "mcgrath",
+    "warhammer"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -662,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -257,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -186,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

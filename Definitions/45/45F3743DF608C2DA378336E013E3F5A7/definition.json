@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/564x/95/bd/e1/95bde11884392116ec9be3a82c69dc03.jpg",
   "md5": "45F3743DF608C2DA378336E013E3F5A7",
   "tags": [
-    ""
+    "",
+    "female",
+    "knight",
+    "warrior",
+    "character",
+    "armor",
+    "medieval",
+    "portraits",
+    "dragon",
+    "heavy",
+    "plate",
+    "conan",
+    "barbarian",
+    "elder",
+    "scrolls",
+    "online",
+    "personal",
+    "work",
+    "dia",
+    "nak(\uC774\uBBF8\uC9C0",
+    "\uD3EC\uD568",
+    "\uD310\uD0C0\uC9C0",
+    "\uCE90\uB9AD\uD130",
+    "injustice",
+    "//",
+    "green",
+    "arrow\u0027s",
+    "arrows",
+    "andre",
+    "spawn",
+    "183",
+    "cover",
+    "brian",
+    "haberlin"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -137,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": 0,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/b7MGPLL.jpeg",
   "md5": "D093E3B73EF7DBA46E82903352041F15",
   "tags": [
-    ""
+    "",
+    "african",
+    "god",
+    "men",
+    "american",
+    "black",
+    "gods",
+    "goddess",
+    "statues",
+    "orcs",
+    "mathis",
+    "character",
+    "concept",
+    "doriana",
+    "dream",
+    "https://www.artstation.com",
+    "champion",
+    "egypt",
+    "andrea",
+    "de",
+    "dominicis",
+    "levels4",
+    "junior",
+    "beckley"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -343,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -168,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -24,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

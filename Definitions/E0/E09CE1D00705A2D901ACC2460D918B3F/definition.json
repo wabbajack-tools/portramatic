@@ -2,27 +2,53 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921406673682305024/barbara_dorso.jpg",
   "md5": "E09CE1D00705A2D901ACC2460D918B3F",
   "tags": [
-    ""
+    "",
+    "red",
+    "haired",
+    "warrior",
+    "woman",
+    "sonja",
+    "punk",
+    "vampire",
+    "masquerade",
+    "pirates",
+    "caribbean",
+    "hellfire",
+    "caelestra",
+    "dylan",
+    "pierpont",
+    "omu",
+    "upied",
+    "https://www.artstation.com/artwork/o30ro",
+    "warcraft",
+    "minor",
+    "arcana",
+    "swords",
+    "jasmine",
+    "young"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -389,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -117,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -50,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

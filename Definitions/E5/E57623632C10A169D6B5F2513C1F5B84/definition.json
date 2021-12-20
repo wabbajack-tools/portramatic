@@ -2,25 +2,32 @@
   "source": "https://i.pinimg.com/564x/39/c0/b7/39c0b7b2e5a2300e01b5d7b57e64b9d6.jpg",
   "md5": "E57623632C10A169D6B5F2513C1F5B84",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -66,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -78,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9500000000000008,
     "offset_x": -164,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

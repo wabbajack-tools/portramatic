@@ -21,34 +21,49 @@
     "anton",
     "kokarev",
     "concept",
-    "angoulême",
+    "angoul\uFFFDme",
     "india-lee",
     "crews",
     "ice",
     "golem",
     "igor",
     "golovkov",
-    "2020"
+    "2020",
+    "prince",
+    "persia",
+    "within",
+    "anime",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "dark",
+    "knight",
+    "marvel",
+    "darksiders"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -316.79999999999984,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -80.00000000000006,
     "offset_y": -15.199999999999932,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -11.212962962962592,
     "offset_y": -51.25925925925924,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

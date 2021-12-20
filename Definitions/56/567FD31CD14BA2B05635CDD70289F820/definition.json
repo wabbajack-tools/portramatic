@@ -3,27 +3,51 @@
   "md5": "567FD31CD14BA2B05635CDD70289F820",
   "tags": [
     "half-elf",
-    "elf"
+    "elf",
+    "legend",
+    "zelda",
+    "link",
+    "loz",
+    "fan",
+    "love",
+    "anime",
+    "girl",
+    "korra",
+    "avatar",
+    "last",
+    "airbender",
+    "character",
+    "redesigns",
+    "brandon",
+    "vuong",
+    "crow",
+    "executioner",
+    "yare",
+    "yue",
+    "https://www"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -148,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -116,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -144,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

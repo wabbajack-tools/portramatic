@@ -5,27 +5,53 @@
     "cleric",
     "female",
     "white",
-    "mage"
+    "mage",
+    "legend",
+    "zelda",
+    "prince",
+    "persia",
+    "warrior",
+    "within",
+    "night",
+    "elf",
+    "ocarina",
+    "time",
+    "world",
+    "warcraft",
+    "muriah",
+    "vero",
+    "andya",
+    "dewakinnara",
+    "drop",
+    "tu\u1EA5n",
+    "anh",
+    "th\u00E1i",
+    "champions",
+    "olga",
+    "pakskina"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -369,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -467,
     "offset_y": -175,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -184,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

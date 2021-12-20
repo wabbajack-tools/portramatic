@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/CPLWJ0d.jpeg",
   "md5": "6225B7DBFDBEE7BB44ECAB80A93ED602",
   "tags": [
-    ""
+    "",
+    "girl",
+    "knight",
+    "armor",
+    "female",
+    "costume",
+    "warrior",
+    "armors",
+    "plate",
+    "heavy",
+    "medieval",
+    "knights",
+    "iron",
+    "man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "valkyrie",
+    "roger",
+    "rovira",
+    "\uC2B54",
+    "k",
+    "ei",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -206,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -106,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -14,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,51 @@
   "source": "https://kartinkin.net/uploads/posts/2021-07/1626136687_19-kartinkin-com-p-malchik-mag-art-art-krasivo-20.jpg",
   "md5": "91D809BAADD1EC5E71EB26AB82ADE8D7",
   "tags": [
-    ""
+    "",
+    "modern",
+    "male",
+    "vampire",
+    "concept",
+    "mage",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "http://www.artstation.com/artwork/meteor-6e59a933-33d3",
+    "amantian",
+    "rogue",
+    "tom",
+    "bruck",
+    "https://www",
+    "succubus",
+    "sandra",
+    "duchiewicz"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -378,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -58,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -78,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,31 +1,69 @@
 {
-  "source": "https://external-preview.redd.it/meJMvO9LRReO3Lg1FLRakMjUmb5QDvPx-7eBtPhCcg0.jpg?auto=webp&s=97590564b515422551a8a0ae58e6663373b88aa2",
+  "source": "https://external-preview.redd.it/meJMvO9LRReO3Lg1FLRakMjUmb5QDvPx-7eBtPhCcg0.jpg?auto=webp\u0026s=97590564b515422551a8a0ae58e6663373b88aa2",
   "md5": "36833EF4DF94150151047F758FBDC95A",
   "tags": [
     "winter",
     "human",
     "rogue",
-    "alchemist"
+    "alchemist",
+    "anime",
+    "girls",
+    "as",
+    "warriors",
+    "girl",
+    "with",
+    "armor",
+    "warrior",
+    "princess",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "pirates",
+    "caribbean",
+    "skyrim",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "book",
+    "cover",
+    "viking",
+    "razvan",
+    "matei",
+    "2014",
+    "loc",
+    "rui",
+    "li"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -209.99999999999994,
     "offset_y": -107.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -128.39999999999998,
     "offset_y": -64.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -190.39999999999998,
     "offset_y": -95.20000000000005,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

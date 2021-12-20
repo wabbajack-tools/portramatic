@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/a0/50/78/a050782f3cb6a93ea84796bb0e4ae190.jpg",
   "md5": "F0E8EBB36B95737684C786CD2440910E",
   "tags": [
-    ""
+    "",
+    "disney",
+    "rajah",
+    "clip",
+    "character",
+    "four",
+    "horsemen",
+    "dark",
+    "elf",
+    "death",
+    "knight",
+    "dungeons",
+    "dragons",
+    "demons",
+    "lord",
+    "rings",
+    "molitova",
+    "kyuyong",
+    "eom",
+    "174",
+    "paul",
+    "shut",
+    "shagren",
+    "lizardfolk",
+    "shaman",
+    "krzysztof",
+    "porchowski",
+    "jr"
   ],
   "small": {
     "scale": 1.9400000000000008,
     "offset_x": -349,
     "offset_y": -244,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -120,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -6,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

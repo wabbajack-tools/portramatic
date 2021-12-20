@@ -6,27 +6,52 @@
     "female",
     "warrior",
     "mage",
-    "queen"
+    "queen",
+    "jeanne",
+    "alter",
+    "kda",
+    "ahri",
+    "tess",
+    "turner",
+    "league",
+    "legends",
+    "yunlu",
+    "ma",
+    "yuxiang",
+    "fang",
+    "gourd",
+    "dragon",
+    "ronin",
+    "woman",
+    "justice",
+    "wong",
+    "https://www.artstation.com/artwork",
+    "fanart_dota2_ganking",
+    "yshing",
+    "yip"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -789,
     "offset_y": -218,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -523,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -586,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

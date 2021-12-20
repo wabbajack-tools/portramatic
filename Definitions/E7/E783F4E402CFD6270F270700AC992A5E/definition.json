@@ -11,27 +11,59 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "yu",
+    "hong",
+    "artist",
+    "cheng",
+    "ling",
+    "orc",
+    "warrior",
+    "alien",
+    "vs",
+    "predator",
+    "death",
+    "knight",
+    "demon",
+    "hunter",
+    "dark",
+    "souls",
+    "armor",
+    "valkyrie",
+    "skygrave",
+    "ramza",
+    "ardyputra",
+    "ryle_adv",
+    "mansik",
+    "yang",
+    "anime",
+    "character",
+    "mingzhu",
+    "artwork",
+    "river"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -269.7999999999997,
     "offset_y": -68.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -128.19999999999976,
     "offset_y": -32.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -112.32407407407482,
     "offset_y": -3.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

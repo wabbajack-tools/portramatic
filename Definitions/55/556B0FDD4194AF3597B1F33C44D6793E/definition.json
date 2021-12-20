@@ -2,25 +2,59 @@
   "source": "https://i.pinimg.com/564x/93/b1/8c/93b18c5f417e4df99a09d828dd59c134.jpg",
   "md5": "556B0FDD4194AF3597B1F33C44D6793E",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "daedric",
+    "armor",
+    "suit",
+    "armors",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "robot",
+    "sushil",
+    "pawar",
+    "futuristic",
+    "armour",
+    "tactical",
+    "scout",
+    "muyoung",
+    "kim",
+    "https://www.artstation.com/artwork/scout-armor",
+    "ian",
+    "boe",
+    "https://www.artstation.com/artwork/lr5bo",
+    "titan"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -70,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -15,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": 126,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

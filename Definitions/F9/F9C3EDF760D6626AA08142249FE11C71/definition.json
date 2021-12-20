@@ -2,27 +2,61 @@
   "source": "https://s-media-cache-ak0.pinimg.com/originals/11/cd/46/11cd46b63d2d05e52b64df9fb73dd3f5.jpg",
   "md5": "F9C3EDF760D6626AA08142249FE11C71",
   "tags": [
-    ""
+    "",
+    "human",
+    "female",
+    "warrior",
+    "woman",
+    "with",
+    "sword",
+    "medieval",
+    "archer",
+    "assassin",
+    "dragon",
+    "wip",
+    "https://www.artstation.com/p/4kwql",
+    "tony",
+    "sart",
+    "concept",
+    "artist",
+    "share",
+    "via",
+    "character",
+    "tobii",
+    "ko",
+    "design",
+    "knight",
+    "clothing",
+    "for",
+    "game",
+    "characters",
+    "5518",
+    "studios",
+    "gaming",
+    "clothes"
   ],
   "small": {
     "scale": 1,
     "offset_x": -358,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -291,
     "offset_y": -115,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

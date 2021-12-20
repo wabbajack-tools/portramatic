@@ -2,27 +2,41 @@
   "source": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f15baff8-4caf-4f4e-8f12-8a9ee69edad2.__CR0,0,970,600_PT0_SX970_V1___.jpg",
   "md5": "58AF7609D50EF1778819E338F4600BB4",
   "tags": [
-    ""
+    "",
+    "anime",
+    "characters",
+    "girl",
+    "dragon",
+    "age",
+    "origins",
+    "marvel",
+    "scarlet",
+    "witch",
+    "abhishek",
+    "kumar"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -385,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -476,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -552,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

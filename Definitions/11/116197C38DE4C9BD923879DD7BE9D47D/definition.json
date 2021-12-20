@@ -3,27 +3,44 @@
   "md5": "116197C38DE4C9BD923879DD7BE9D47D",
   "tags": [
     "Dragon",
-    "gold"
+    "gold",
+    "abstract",
+    "dragon",
+    "sleek",
+    "with",
+    "heart",
+    "dungeons",
+    "dragons",
+    "applibot",
+    "\u2013",
+    "ultimate",
+    "beast",
+    "advanced",
+    "bjorn",
+    "hurri"
   ],
   "small": {
     "scale": 0.16999999999999926,
     "offset_x": -78.66666666666647,
     "offset_y": -19.333333333333286,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2099999999999993,
     "offset_x": -40.6666666666668,
     "offset_y": -11.999999999999915,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -25.333333333333258,
     "offset_y": -1.333333333333428,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,26 +1,36 @@
 {
-  "source": "https://pbs.twimg.com/media/EiSphG8VoAAO2R5?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EiSphG8VoAAO2R5?format=jpg\u0026name=large",
   "md5": "044B3C390A6EAFE1D35647DB38D6BF0C",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -82,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -109,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -106,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

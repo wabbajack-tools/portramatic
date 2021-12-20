@@ -2,27 +2,50 @@
   "source": "https://static.wikia.nocookie.net/warhammerfb/images/c/cc/Heinrich_Kemmler.png/revision/latest?cb=20151004005046",
   "md5": "BCF283AC4493C1D8B3D99A6F761566C2",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "sorcerer",
+    "magic",
+    "demon",
+    "necromancer",
+    "pet",
+    "sematary",
+    "2019",
+    "sergei",
+    "sarichev",
+    "monster",
+    "pets",
+    "guardian",
+    "emilis",
+    "emka",
+    "concept",
+    "characters",
+    "dark",
+    "race",
+    "design"
   ],
   "small": {
     "scale": 2.3999999999999915,
     "offset_x": -440,
     "offset_y": -421,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -106,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -14,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04fd85f8-26e8-4c1b-ad91-4015c600383e/dc2qh8u-1e6973c2-33ed-40e9-873b-eb0140d52c77.jpg/v1/fill/w_1024,h_1536,q_75,strp/jacques_dace_by_lorandesore_dc2qh8u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzA0ZmQ4NWY4LTI2ZTgtNGMxYi1hZDkxLTQwMTVjNjAwMzgzZVwvZGMycWg4dS0xZTY5NzNjMi0zM2VkLTQwZTktODczYi1lYjAxNDBkNTJjNzcuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.zoeE4m5LAtSmg77GV_nNjl4NR5cIsq8W_D0VsNfcBLo",
   "md5": "3F1F814B8B51D2A1291E0EFDDE4CA345",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "characters",
+    "drawing",
+    "character",
+    "portraits",
+    "modern"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -94.85714285714349,
     "offset_y": -160.5714285714286,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -17.714285714285893,
     "offset_y": -13.142857142857281,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -11.42857142857224,
     "offset_y": -35.428571428571445,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -16,27 +16,43 @@
     "moto",
     "hachiya",
     "anime",
-    "image"
+    "image",
+    "thicc",
+    "blood",
+    "elf",
+    "fan",
+    "night",
+    "archer",
+    "avatar",
+    "last",
+    "airbender",
+    "sigurd",
+    "zaiisey",
+    "ana",
+    "viana"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -311.0000000000002,
     "offset_y": -115.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -247.99999999999994,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -376.66666666666674,
     "offset_y": -17.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

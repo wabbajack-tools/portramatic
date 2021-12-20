@@ -3,27 +3,49 @@
   "md5": "A3A2E0D9D25E4AD86E956605C5477A19",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "ancient",
+    "greek",
+    "001",
+    "fariba",
+    "khamseh",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc",
+    "priestess",
+    "nika",
+    "kuznetsova",
+    "2021",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -299,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -48,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -70,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

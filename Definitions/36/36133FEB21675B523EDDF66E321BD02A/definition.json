@@ -6,27 +6,51 @@
     "elf",
     "female",
     "mage",
-    "archer"
+    "archer",
+    "league",
+    "legends",
+    "mordred",
+    "challenge",
+    "legend",
+    "king",
+    "arthur",
+    "valerio",
+    "korax",
+    "carbone",
+    "sub-zero",
+    "daniel",
+    "johnsson",
+    "submarine",
+    "sub",
+    "zero",
+    "skeletor",
+    "forest",
+    "spirit",
+    "edward",
+    "barons"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -498,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -358,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -420,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

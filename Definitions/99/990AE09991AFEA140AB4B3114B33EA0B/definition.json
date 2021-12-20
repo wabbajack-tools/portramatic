@@ -19,27 +19,51 @@
     "anna",
     "kharitonova",
     "design",
-    "juliana"
+    "juliana",
+    "inspiration",
+    "cartoon",
+    "girl",
+    "assassin",
+    "pirate",
+    "black",
+    "women",
+    "body",
+    "armor",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "semi-exosuit",
+    "kirim",
+    "son",
+    "https://www",
+    "chi",
+    "duong",
+    "dragon",
+    "kim",
+    "yeen"
   ],
   "small": {
     "scale": 1.7600000000000007,
     "offset_x": -399,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -188,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4799999999999993,
     "offset_x": -60,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

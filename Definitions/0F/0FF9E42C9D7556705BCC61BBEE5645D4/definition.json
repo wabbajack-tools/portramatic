@@ -18,27 +18,52 @@
     "color",
     "study",
     "andrea",
-    "mazziotti"
+    "mazziotti",
+    "rogue",
+    "nymph",
+    "love",
+    "elves",
+    "high",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "nissa",
+    "revane",
+    "_",
+    "tutu",
+    "lumber",
+    "jack",
+    "peacecuit",
+    "studio",
+    "https://www.artstation.com/artwork/exvw0",
+    "siegfried",
+    "jos\u00E9-patricio",
+    "aguirre"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -116,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -63,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -124,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

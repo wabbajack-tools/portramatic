@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/bfhZ8FF.png",
   "md5": "89AFAC9C097E81406CF41C24DF1916C0",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "concept",
+    "male",
+    "elf",
+    "skyrim",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "persian",
+    "knight",
+    "wil",
+    "chuan",
+    "forest",
+    "druid",
+    "james",
+    "churchill",
+    "https://www.artstation.com/artwork/ek8yx"
   ],
   "small": {
     "scale": 1.7100000000000006,
     "offset_x": -648,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -413,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -128,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

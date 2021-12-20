@@ -9,27 +9,49 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "marvel",
+    "comics",
+    "wonder",
+    "woman",
+    "anime",
+    "girl",
+    "female",
+    "pirate",
+    "dc",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "clothing",
+    "under_wear",
+    "panties",
+    "rabbit",
+    "princess",
+    "rorinya"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -267,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -72,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0899999999999999,
     "offset_x": -4,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

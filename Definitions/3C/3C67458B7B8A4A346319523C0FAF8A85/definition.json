@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/ba/bc/08/babc08fe1a7252b2e725d84d87ffd62d.jpg",
   "md5": "3C67458B7B8A4A346319523C0FAF8A85",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "7",
+    "characters",
+    "reference",
+    "artwork",
+    "human_made_object",
+    "furniture_or_decor",
+    "seating",
+    "chair",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses",
+    "\u62E9\u5929\u8BB0\u4E03\u95F4",
+    "\u53C1\u4E54\u5C45",
+    "3qstudio",
+    "warrior",
+    "olga",
+    "lihota",
+    "c-home",
+    "original",
+    "one",
+    "piece"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -249,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -84,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -2,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

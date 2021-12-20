@@ -8,27 +8,40 @@
     "work",
     "2012",
     "mythical",
-    "creature"
+    "creature",
+    "bezda",
+    "as#57",
+    "gvart",
+    "gv",
+    "embergarde15-npc",
+    "soon",
+    "lee",
+    "doodles",
+    "gangsta",
+    "g"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -706.3999999999996,
     "offset_y": -76.8000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -275.99999999999983,
     "offset_y": -14.400000000000091,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -257.89814814814895,
     "offset_y": -1.6018518518519613,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

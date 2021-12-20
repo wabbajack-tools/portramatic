@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/11/8d/9e/118d9ed22f12a43959dbdd3c42eac5d6.jpg",
   "md5": "CA316DAFFDD39AA8D4055B6C630B3FFB",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "character",
+    "wow",
+    "warrior",
+    "concept",
+    "orc",
+    "minotaur",
+    "dawn",
+    "war",
+    "theseus",
+    "inspiring",
+    "captain",
+    "ben",
+    "maier",
+    "mtg",
+    "magic"
   ],
   "small": {
     "scale": 1,
     "offset_x": -262,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -184,
     "offset_y": -186,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -110,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,61 @@
   "source": "https://i.imgur.com/OKKDzKV.jpeg",
   "md5": "38A3C66572959E4B7D86F2D27162A864",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "medieval",
+    "knights",
+    "scythian",
+    "chieftain",
+    "joan",
+    "francesc",
+    "oliveras",
+    "pallerols",
+    "warrior",
+    "ancient",
+    "warfare",
+    "black",
+    "panther",
+    "citidel",
+    "guard",
+    "concepts",
+    "keith",
+    "christensen",
+    "characters",
+    "wolf",
+    "tribe",
+    "viking",
+    "seungho",
+    "lee",
+    "2020",
+    "design"
   ],
   "small": {
     "scale": 1,
     "offset_x": -494,
     "offset_y": -223,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -386,
     "offset_y": -228,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -286,
     "offset_y": -226,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

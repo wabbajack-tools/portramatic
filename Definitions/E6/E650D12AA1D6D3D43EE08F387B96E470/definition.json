@@ -9,27 +9,47 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "creature",
+    "concept",
+    "anime",
+    "sketch",
+    "girl",
+    "crow",
+    "s\u5149\u5E74",
+    "\u677F\u7ED8\u5DE5\u4F5C\u5BA4",
+    "lisa",
+    "genshin",
+    "impact",
+    "vezonia",
+    "lithium",
+    "u\u03B2zul",
+    "zhichao",
+    "dong",
+    "https://www"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -341,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -121,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.56,
     "offset_x": -50,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

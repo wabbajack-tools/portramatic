@@ -2,27 +2,46 @@
   "source": "https://i.imgur.com/EaPqysn.png",
   "md5": "25C4DD10AD6B2A2871F6851AB9BD5C22",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "twilight",
+    "fanfoxy",
+    "maelyndra",
+    "svetlana",
+    "nurkaeva",
+    "blue",
+    "liquid",
+    "anna",
+    "shulgina",
+    "https://www.artstation.com/artwork/emx2x"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -284,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -170,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

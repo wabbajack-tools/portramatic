@@ -2,27 +2,52 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/012/737/405/large/wisnu-tan-dark-elf-blademan-reg-uplox.jpg?1536251273",
   "md5": "17C97CDE90EEBF3277016553F127D137",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "legends",
+    "cryptids",
+    "dark",
+    "elf",
+    "knight",
+    "legend",
+    "female",
+    "black",
+    "game",
+    "thrones",
+    "souls",
+    "reaper",
+    "sergey",
+    "olson",
+    "ride",
+    "helen",
+    "blizzard",
+    "dwarf",
+    "michael",
+    "bridge",
+    "https://www.artstation.com/artwork/6pzqx"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -500.00000000000017,
     "offset_y": -67.33333333333334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -242,
     "offset_y": -47.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -76,
     "offset_y": -1.3333333333328596,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

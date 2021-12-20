@@ -12,29 +12,49 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "dragon",
+    "armor",
+    "concept",
+    "character",
+    "design",
+    "warrior",
+    "mushroom",
+    "lady",
+    "lorena",
+    "lammer",
+    "moon",
+    "chocofing",
+    "r",
+    "magic",
+    "archer",
+    "yuji",
+    "yuan"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -420,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -236,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -104,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

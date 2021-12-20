@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/ac/ca/3b/acca3b9fa082433b34a7d45822cc23d1.jpg",
   "md5": "B72AA4278B7E6594E93B006410389F18",
   "tags": [
-    ""
+    "",
+    "concept",
+    "dungeons",
+    "dragons",
+    "shadow",
+    "over",
+    "mystara",
+    "rpg",
+    "character",
+    "orc",
+    "warrior",
+    "kratos",
+    "gears",
+    "war",
+    "elder",
+    "scrolls",
+    "online",
+    "grommash",
+    "hellscream",
+    "fan",
+    "john",
+    "doromal",
+    "viking",
+    "nikolai",
+    "glukhov",
+    "https://www",
+    "fei",
+    "che",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 2.0999999999999988,
     "offset_x": -419,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -79,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -102,
     "offset_y": -150,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

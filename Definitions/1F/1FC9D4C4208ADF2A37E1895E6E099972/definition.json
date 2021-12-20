@@ -9,27 +9,58 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "high",
+    "elf",
+    "wood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "shoes",
+    "heels",
+    "archer",
+    "cheolseung",
+    "ok",
+    "witch",
+    "jiyun",
+    "lim",
+    "woman",
+    "female",
+    "girl",
+    "https://www.artstation.com/artwork/pdeor",
+    "outfit"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -393,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -117,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999997,
     "offset_x": 0,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

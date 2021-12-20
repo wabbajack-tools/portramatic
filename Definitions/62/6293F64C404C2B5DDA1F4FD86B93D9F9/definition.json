@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/5e/01/ff/5e01ff8478fec2e2bac1769c17018a42.jpg",
   "md5": "6293F64C404C2B5DDA1F4FD86B93D9F9",
   "tags": [
-    ""
+    "",
+    "siwa",
+    "map",
+    "assassin\u0027s",
+    "creed",
+    "origins",
+    "gameplay",
+    "costume",
+    "lord",
+    "rings",
+    "two",
+    "towers",
+    "alexander",
+    "great",
+    "\u5C71\u53E3\u5C7113",
+    "\u9038",
+    "\u5F20"
   ],
   "small": {
     "scale": 1.5300000000000005,
     "offset_x": -208.00000000000003,
     "offset_y": -25.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -65.80000000000007,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8400000000000007,
     "offset_x": -87.47222222222194,
     "offset_y": -11.57407407407402,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

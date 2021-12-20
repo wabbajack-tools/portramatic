@@ -2,25 +2,47 @@
   "source": "https://i.redd.it/p3unh89l2vl41.png",
   "md5": "3FD63CD8929C6838E949B9B2BCEACB93",
   "tags": [
-    ""
+    "",
+    "darth",
+    "vader",
+    "skull",
+    "knight",
+    "j.",
+    "w.",
+    "mr",
+    "sinister",
+    "villain",
+    "from",
+    "x-men",
+    "wattson",
+    "cyberpunked",
+    "season",
+    "4",
+    "legendary",
+    "skin"
   ],
   "small": {
     "scale": 0.14999999999999947,
     "offset_x": -137,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.15999999999999928,
     "offset_x": -80,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.28999999999999937,
     "offset_x": -56,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

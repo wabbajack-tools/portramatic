@@ -6,27 +6,34 @@
     "female",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "wolf",
+    "drawings",
+    "dark",
+    "characters"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -70,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -3,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

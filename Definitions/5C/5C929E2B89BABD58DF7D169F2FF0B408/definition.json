@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/b1/14/8c/b1148cfc34f96ecd10a4c776d0881dc0.jpg",
   "md5": "5C929E2B89BABD58DF7D169F2FF0B408",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "under_wear",
+    "bra",
+    "shoes",
+    "heels",
+    "luthiel_character",
+    "concept",
+    "kim",
+    "ssang",
+    "\u7CBE\u7075\u5973\u5F13\u7BAD\u624B",
+    "pbs",
+    "pbs.zyxr",
+    "stylized",
+    "female",
+    "\u201Carcher\u201D",
+    "creating",
+    "wing",
+    "fox"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -578,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -403,
     "offset_y": -110,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.41999999999999904,
     "offset_x": -76,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

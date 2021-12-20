@@ -1,26 +1,56 @@
 {
-  "source": "https://pbs.twimg.com/media/EwZ7IAqUYAEAHIh?format=jpg&name=900x900",
+  "source": "https://pbs.twimg.com/media/EwZ7IAqUYAEAHIh?format=jpg\u0026name=900x900",
   "md5": "796257491328EEDC460AC7B796B3CFB2",
   "tags": [
-    ""
+    "",
+    "black",
+    "desert",
+    "online",
+    "ps4",
+    "game",
+    "icon",
+    "dynasty",
+    "warriors",
+    "samurai",
+    "chinese",
+    "symbols",
+    "orochi",
+    "golden",
+    "state",
+    "baron",
+    "dong",
+    "zhiwei",
+    "character",
+    "imperial",
+    "knight",
+    "ting",
+    "\u6BDB\u540C\u5B66--\u7EBF\u4E0B\u96F6\u57FA\u7840\u73ED\u4F5C\u4E1A--beginner\u0027s",
+    "class",
+    "\u7FFC\u6B21\u65B9",
+    "www"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -333,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -255,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -280,
     "offset_y": -120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

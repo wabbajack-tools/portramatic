@@ -4,27 +4,40 @@
   "tags": [
     "Archer",
     "Female",
-    "Masked"
+    "Masked",
+    "concept",
+    "artemis",
+    "artwork",
+    "character",
+    "league",
+    "legends",
+    "tyrande",
+    "whisperwind",
+    "lara",
+    "logvinenko"
   ],
   "small": {
     "scale": 0.30999999999999783,
     "offset_x": -115.99999999999994,
     "offset_y": -14.333333333333286,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -18.666666666666686,
     "offset_y": -11.00000000000017,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5000000000000009,
     "offset_x": -4.666666666667197,
     "offset_y": -18.666666666667084,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

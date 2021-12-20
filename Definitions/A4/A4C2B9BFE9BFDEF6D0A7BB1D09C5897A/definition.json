@@ -4,27 +4,39 @@
   "tags": [
     "female",
     "human",
-    "mage"
+    "mage",
+    "vampire",
+    "fan",
+    "dark",
+    "male",
+    "anime",
+    "league",
+    "legends",
+    "cosplay",
+    "girls"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -81,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -89,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -46,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

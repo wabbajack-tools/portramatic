@@ -2,27 +2,60 @@
   "source": "https://i.imgur.com/MWGBTrH.jpeg",
   "md5": "BE47FF3F96C73DED13CDA3B64BF09ADA",
   "tags": [
-    ""
+    "",
+    "drow",
+    "artwork",
+    "elves",
+    "samurai",
+    "armor",
+    "knight",
+    "shogun",
+    "warriors",
+    "orc",
+    "warrior",
+    "alien",
+    "lord",
+    "rings",
+    "armors",
+    "dark",
+    "worlds",
+    "piotr",
+    "chrzanowski",
+    "game",
+    "thrones",
+    "season",
+    "iv",
+    "robert",
+    "simon",
+    "undead",
+    "concept",
+    "characters",
+    "\uB300",
+    "\uC7A5\uAE08",
+    "beasts"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -642,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -279,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -280,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

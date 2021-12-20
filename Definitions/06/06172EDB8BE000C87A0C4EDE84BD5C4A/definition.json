@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/cd/0d/11/cd0d11fb531c96460cffc63c1c390f49.jpg",
   "md5": "06172EDB8BE000C87A0C4EDE84BD5C4A",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "suit",
+    "medieval",
+    "knights",
+    "armors",
+    "heavy",
+    "samurai",
+    "archer",
+    "sergey",
+    "shilkin",
+    "glass",
+    "cannon",
+    "crew",
+    "graey",
+    "erb",
+    "en",
+    "2020",
+    "captain",
+    "s",
+    "zero",
+    "image",
+    "pirates",
+    "human"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -291,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -60,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7100000000000006,
     "offset_x": -66,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

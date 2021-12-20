@@ -24,27 +24,38 @@
     "tiefling",
     "blackguard",
     "alessandro",
-    "rossi"
+    "rossi",
+    "how",
+    "to",
+    "draw",
+    "manga",
+    "line",
+    "drawings",
+    "pencil",
+    "sketches"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -65.59999999999982,
     "offset_y": -10.400000000000091,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.770083333333333,
     "offset_x": -36.000000000000455,
     "offset_y": -7.200000000000159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.685750000000001,
     "offset_x": -106.49999999999864,
     "offset_y": 0.05555555555565661,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

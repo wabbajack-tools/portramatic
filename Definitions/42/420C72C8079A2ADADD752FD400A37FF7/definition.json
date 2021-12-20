@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/13/e8/ff/13e8ff4f283e7f13bce71401cb990f44.jpg",
   "md5": "420C72C8079A2ADADD752FD400A37FF7",
   "tags": [
-    ""
+    "",
+    "michael",
+    "moorcock",
+    "elric",
+    "movie",
+    "arioch",
+    "melnibone",
+    "castlevania",
+    "lords",
+    "shadow",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "angel",
+    "souls",
+    "necromancer",
+    "hyun",
+    "lee",
+    "https://www",
+    "\u5609\u6587\u5C60\u9F99\u52C7\u58EB",
+    "yun",
+    "yi"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -327,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -140,
     "offset_y": -163,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,47 @@
     "elf",
     "female",
     "mage",
-    "dancer"
+    "dancer",
+    "chinese",
+    "zodiac",
+    "dragon",
+    "tattoo",
+    "tiger",
+    "snake",
+    "compatibility",
+    "dynasty",
+    "warriors",
+    "sphinx",
+    "ebanghelyo",
+    "pokemon",
+    "s\u0026s",
+    "sonia",
+    "izhar",
+    "draws",
+    "drawings"
   ],
   "small": {
     "scale": 0.9600000000000001,
     "offset_x": -292,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.84,
     "offset_x": -210,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -282,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

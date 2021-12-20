@@ -15,27 +15,63 @@
     "bear",
     "spirit",
     "dmitry",
-    "alexeev"
+    "alexeev",
+    "samurai",
+    "tiefling",
+    "inquisitor",
+    "dwarf",
+    "cleric",
+    "vampire",
+    "manga",
+    "elf",
+    "black",
+    "league",
+    "legends",
+    "blood",
+    "souls",
+    "battle",
+    "sorcerer",
+    "\u2171",
+    "repainted",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "https://www.artstation.com/artwork",
+    "rosefinch",
+    "zhang",
+    "yimin",
+    "personnage",
+    "patron",
+    "vaas",
+    "adam",
+    "schumpert",
+    "https://www.artstation.com/artwork/n5ww8z"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -540,
     "offset_y": -139,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -291,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -229,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

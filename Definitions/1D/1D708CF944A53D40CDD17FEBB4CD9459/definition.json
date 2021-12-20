@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0af7385-2a57-4d11-9bd9-c77a0f83e73a/d5mzm30-a9eccbb3-95da-45ef-8443-c303946410b6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwYWY3Mzg1LTJhNTctNGQxMS05YmQ5LWM3N2EwZjgzZTczYVwvZDVtem0zMC1hOWVjY2JiMy05NWRhLTQ1ZWYtODQ0My1jMzAzOTQ2NDEwYjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.liohd4X1Xzo6CmFnPy8EArMM1eSLy8vVEWjCW7eS_o0",
   "md5": "1D708CF944A53D40CDD17FEBB4CD9459",
   "tags": [
-    ""
+    "",
+    "gladiator",
+    "woman",
+    "female",
+    "costume",
+    "killed",
+    "demon",
+    "hunter",
+    "pit",
+    "war",
+    "alexander",
+    "kolakowski",
+    "dark",
+    "phoenix",
+    "litgraphix",
+    "sonja",
+    "fire",
+    "emilio",
+    "raya"
   ],
   "small": {
     "scale": 1.8000000000000007,
     "offset_x": -685,
     "offset_y": -324,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -255,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -114,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

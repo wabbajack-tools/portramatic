@@ -2,27 +2,56 @@
   "source": "https://vignette.wikia.nocookie.net/assassinscreed/images/9/95/AC4MP-Jaguar.png/revision/latest?cb=20131213084138",
   "md5": "3B6FE40B02B2AE9C339F17A0546F5911",
   "tags": [
-    ""
+    "",
+    "pirates",
+    "caribbean",
+    "orc",
+    "warrior",
+    "witch",
+    "king",
+    "angmar",
+    "heavy",
+    "armor",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "metro",
+    "exodus",
+    "children",
+    "forest",
+    "game",
+    "kratos",
+    "ricardo",
+    "barcellos",
+    "https://www",
+    "child",
+    "olga",
+    "model"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

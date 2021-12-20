@@ -2,27 +2,57 @@
   "source": "https://m.media-amazon.com/images/I/91iuPZ-RaQL._AC_SL1500_.jpg",
   "md5": "13CF0E1B53680CB3AB43F44C1F0E6647",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "cover",
+    "artwork",
+    "concept",
+    "dungeons",
+    "dragons",
+    "lord",
+    "rings",
+    "goblin",
+    "ciri",
+    "gwent",
+    "card",
+    "anna",
+    "podedworna",
+    "swamp",
+    "bash",
+    "grant",
+    "griffin",
+    "https://www.artstation.com/artwork/o9jkb",
+    "artist",
+    "gawain",
+    "legacy",
+    "green",
+    "knight",
+    "joel",
+    "holtzman",
+    "psychedelic"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -326,
     "offset_y": -226,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -186,
     "offset_y": -169,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -18,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

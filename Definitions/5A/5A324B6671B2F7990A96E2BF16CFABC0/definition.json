@@ -6,27 +6,56 @@
     "male",
     "warrior",
     "rogue",
-    "assassin"
+    "assassin",
+    "female",
+    "dragon",
+    "armor",
+    "shredder",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "devil",
+    "hunter",
+    "lost",
+    "ark",
+    "yuriy",
+    "polishchuk",
+    "2021",
+    "02",
+    "14",
+    "dante",
+    "liu",
+    "dark",
+    "sister",
+    "jay",
+    "jiwoopark",
+    "character"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -558,
     "offset_y": -243,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -204,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -106,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

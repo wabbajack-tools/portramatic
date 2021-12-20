@@ -4,27 +4,40 @@
   "tags": [
     "tiefling",
     "male",
-    "mage"
+    "mage",
+    "ashiok",
+    "cards",
+    "mtg",
+    "altered",
+    "aetherborn",
+    "guardian",
+    "santiago",
+    "betancur",
+    "\u4E0E\u541B",
+    "pom"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -429,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -416,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -340,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,58 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/000/035/885/large/APPLIBOT16.jpg?1400216742",
   "md5": "0343ED726A3653EEA2B8B0CB58FB14B7",
   "tags": [
-    ""
+    "",
+    "legends",
+    "female",
+    "warriors",
+    "legend",
+    "cryptids",
+    "warrior",
+    "nature",
+    "guardians",
+    "ga",
+    "hoole",
+    "pose",
+    "paladin",
+    "dungeons",
+    "dragons",
+    "https://www.artstation.com/artwork/8awpq",
+    "artist",
+    "artstation.com",
+    "twitter",
+    "character",
+    "design",
+    "concept",
+    "characters",
+    "riven",
+    "queen",
+    "personal",
+    "work",
+    "phoenix",
+    "nguyen"
   ],
   "small": {
     "scale": 1,
     "offset_x": -161,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -123,
     "offset_y": -95,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -4,
     "offset_y": 14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

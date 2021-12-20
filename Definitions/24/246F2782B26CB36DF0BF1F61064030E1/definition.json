@@ -2,25 +2,43 @@
   "source": "https://www.worldanvil.com/uploads/images/636c9f7c444a3a8ea477a4df00e4efad.jpg",
   "md5": "246F2782B26CB36DF0BF1F61064030E1",
   "tags": [
-    ""
+    "",
+    "color",
+    "study",
+    "ragna",
+    "daniel",
+    "orive",
+    "jaheira",
+    "leanna",
+    "crossan",
+    "cdnb.artstation.com",
+    "submitted",
+    "hvitserkr",
+    "to",
+    "/r/reasonablefantas"
   ],
   "small": {
     "scale": 0.10999999999999927,
     "offset_x": -3,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.1799999999999993,
     "offset_x": -1,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

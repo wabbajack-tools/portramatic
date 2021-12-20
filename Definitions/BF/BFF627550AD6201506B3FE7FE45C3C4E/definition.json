@@ -17,27 +17,61 @@
     "snod",
     "snow",
     "https://www.artstation.com/artwork/kxmd9",
-    "cyberpunk"
+    "cyberpunk",
+    "warrior",
+    "drawing",
+    "fighter",
+    "dynasty",
+    "warriors",
+    "female",
+    "assassin",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "clone",
+    "force",
+    "unleashed",
+    "gwent",
+    "auberon",
+    "invader",
+    "valeriy",
+    "vegera",
+    "https://www.artstation.com/artwork",
+    "ra\u0027s",
+    "al",
+    "ghul",
+    "zhai",
+    "rui",
+    "ras",
+    "dc",
+    "comics",
+    "comic",
+    "yu-han",
+    "chen"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -297,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -208,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -28,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

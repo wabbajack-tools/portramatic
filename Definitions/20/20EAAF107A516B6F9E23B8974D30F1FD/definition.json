@@ -2,27 +2,44 @@
   "source": "https://ibart.b-cdn.net/images/Contest/16/2207141853531.jpg",
   "md5": "20EAAF107A516B6F9E23B8974D30F1FD",
   "tags": [
-    ""
+    "",
+    "orcs",
+    "\u6697\u9ED1\u3001\u5973\u5DEB",
+    "wk",
+    "\u5F20",
+    "rams\u00E9s",
+    "mel\u00E9ndez",
+    "mythological",
+    "creatures",
+    "demon",
+    "sword",
+    "stone",
+    "joseph",
+    "c-knight",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -308,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -218,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -98,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

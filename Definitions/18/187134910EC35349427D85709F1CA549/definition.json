@@ -2,27 +2,51 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/043/188/110/large/shadow-shadow-1-15.jpg?1636555870",
   "md5": "187134910EC35349427D85709F1CA549",
   "tags": [
-    ""
+    "",
+    "golden",
+    "warrior",
+    "yu",
+    "yao",
+    "huang",
+    "joel\u0027s",
+    "books",
+    "character",
+    "design",
+    "commissions",
+    "nick",
+    "savino",
+    "path",
+    "exile",
+    "npc",
+    "pack",
+    "boss",
+    "roman",
+    "kupriianov",
+    "female",
+    "characters"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -595,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -207,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -68,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,51 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "dungeons",
+    "dragons",
+    "concept",
+    "\u0026",
+    "cartoon",
+    "women",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shaman",
+    "priestess",
+    "jackie",
+    "felix",
+    "https://www.artstation.com/artwork/qwygx",
+    "hello",
+    "2017\uFF01",
+    "kai",
+    "lin"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -329.7999999999997,
     "offset_y": -215.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -174.19999999999976,
     "offset_y": -116.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -84.32407407407482,
     "offset_y": -51.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

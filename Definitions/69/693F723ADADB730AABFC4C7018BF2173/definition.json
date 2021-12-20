@@ -2,27 +2,35 @@
   "source": "https://pictures.hentai-foundry.com/s/STR4HL/944045/STR4HL-944045-Shes_Coming_For_You_II.png",
   "md5": "693F723ADADB730AABFC4C7018BF2173",
   "tags": [
-    ""
+    "",
+    "liang",
+    "xing",
+    "fan",
+    "overwatch",
+    "artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -262,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

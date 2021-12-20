@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/originals/61/2b/4e/612b4e5d401f5c62087595ea1f909745.jpg",
   "md5": "82ABBC5ADE21987EBBAACCC56D7A280A",
   "tags": [
-    ""
+    "",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "witcher",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.25999999999999934,
     "offset_x": -19,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -29,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -112,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

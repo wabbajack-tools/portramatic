@@ -14,25 +14,63 @@
     "weapon",
     "weaponry",
     "knight",
-    "fighter"
+    "fighter",
+    "alice",
+    "wonderland",
+    "looking",
+    "glass",
+    "stained",
+    "cool",
+    "armor",
+    "drawings",
+    "orc",
+    "warrior",
+    "assassin",
+    "hansel",
+    "gretel",
+    "dark",
+    "elf",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "dress",
+    "formal_dress",
+    "knights",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "francis",
+    "brunet\u0027s",
+    "submission",
+    "feudal",
+    "japan",
+    "shogunate",
+    "character",
+    "design",
+    "https://meninfantasyart.tumblr.com/post/138153639264/white-elf-by-cesar-rosolino-artstation"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -486.66666666666663,
     "offset_y": -243.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -266,
     "offset_y": -181,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -3.999999999999716,
     "offset_y": -29.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

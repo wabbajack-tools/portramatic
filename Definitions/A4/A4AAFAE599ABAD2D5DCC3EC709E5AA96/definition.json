@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/062/979/large/taejune-kim-battle-in-the-woods-low.jpg?1439239229",
   "md5": "A4AAFAE599ABAD2D5DCC3EC709E5AA96",
   "tags": [
-    ""
+    "",
+    "kim",
+    "taehyung",
+    "height",
+    "gtz",
+    "taejune",
+    "hyung",
+    "tae",
+    "black",
+    "hair",
+    "seir",
+    "duong",
+    "ct",
+    "2020",
+    "character",
+    "creature",
+    "design",
+    "warrior",
+    "gryphon",
+    "hero",
+    "a",
+    "bubu",
+    "queen",
+    "undead(revise",
+    "https://www.artstation.com/artwork/y6ddo"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -712,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -408,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -520,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,46 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/041/205/411/medium/-22-41-1.jpg?1631048449",
   "md5": "86F2D154724B70BA20CF205DD0A44D99",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "warrior",
+    "hyeonwoo",
+    "hwang",
+    "female",
+    "characters",
+    "portfolio1",
+    "jihae",
+    "park",
+    "https://www.artstation.com/artwork/8x1wr",
+    "concept",
+    "character",
+    "design002",
+    "ming",
+    "tong"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -681,
     "offset_y": -252,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -263,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -64,
     "offset_y": -134,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

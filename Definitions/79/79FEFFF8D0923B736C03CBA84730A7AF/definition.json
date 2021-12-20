@@ -6,27 +6,43 @@
     "female",
     "dancer",
     "mage",
-    "priest"
+    "priest",
+    "anime",
+    "girl",
+    "night",
+    "watch",
+    "\u3147\u3147",
+    "joo",
+    "epic",
+    "drawings",
+    "dragon",
+    "shiryu",
+    "joe(zhao",
+    "young(yang",
+    "2020"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -553,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3715833333333326,
     "offset_x": -295,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5017499999999994,
     "offset_x": -242,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -43,27 +43,50 @@
     "koval",
     "sonya",
     "kayuda",
-    "victorian"
+    "victorian",
+    "nyx",
+    "goddess",
+    "painting",
+    "night",
+    "moon",
+    "assassin",
+    "illustration",
+    "soufiane",
+    "idrassi",
+    "https://www.artstation.com/artwork/dxb5yr",
+    "barbarian",
+    "amegani",
+    "https://www.artstation.com/artwork/ng9bp",
+    "dark",
+    "ninja",
+    "hime",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "https://www.artstation.com/artwork/wyln2"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -73.19999999999703,
     "offset_y": -41.533333333348196,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -45.66666666666657,
     "offset_y": -2.5333333333412043,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -40.33333333333371,
     "offset_y": -10.666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/5GG43AJTOCHYyun4z2BXCXX4f83Nn2GchPl2MpsAxCw.jpg?auto=webp&s=148abc7ce1e83bb527df5c73cecae2b1dbf76c6c",
+  "source": "https://external-preview.redd.it/5GG43AJTOCHYyun4z2BXCXX4f83Nn2GchPl2MpsAxCw.jpg?auto=webp\u0026s=148abc7ce1e83bb527df5c73cecae2b1dbf76c6c",
   "md5": "CA3684151BE738FD168AE29130987867",
   "tags": [
     "dwarves",
@@ -32,27 +32,39 @@
     "anakin",
     "skywalker",
     "jake",
-    "murray"
+    "murray",
+    "torag",
+    "dharok",
+    "torags",
+    "helmet",
+    "character",
+    "sketches",
+    "11",
+    "stephen",
+    "nickel"
   ],
   "small": {
     "scale": 1.2899999999999987,
     "offset_x": -589.0000000000036,
     "offset_y": -264.3333333333335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -364.6666666666664,
     "offset_y": -175.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -194.66666666666742,
-    "offset_y": -6.821210263296962e-13,
-    "size": "full"
+    "offset_y": -6.821210263296962E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -29,27 +29,50 @@
     "tom",
     "bruck",
     "https://www.artstation.com/artwork/loja5",
-    "creature"
+    "creature",
+    "blonde",
+    "male",
+    "pirate",
+    "women",
+    "clip",
+    "lady",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "necklace",
+    "paxi",
+    "f\u00E9lix",
+    "andrade"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -152,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -71,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -48,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

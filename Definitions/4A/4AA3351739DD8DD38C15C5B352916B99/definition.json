@@ -3,27 +3,50 @@
   "md5": "4AA3351739DD8DD38C15C5B352916B99",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "wizard",
+    "oz",
+    "dark",
+    "elf",
+    "staff",
+    "high",
+    "wwe",
+    "immortals",
+    "shamus",
+    "druid",
+    "01",
+    "zhao",
+    "yan",
+    "illustration",
+    "chengtao",
+    "ma",
+    "https://www",
+    "tanros",
+    "eugeniu",
+    "andriuta"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -289.00000000000006,
     "offset_y": -41.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -115.66666666666663,
     "offset_y": -0.6666666666665435,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -172.6666666666663,
     "offset_y": -0.9999999999997726,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

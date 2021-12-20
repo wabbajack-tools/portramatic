@@ -2,27 +2,36 @@
   "source": "https://i.imgur.com/R4yR4Ug.jpg",
   "md5": "7F08749174C2869C03FB8CF91B4AA1CE",
   "tags": [
-    ""
+    "",
+    "childe",
+    "hassam",
+    "paintings",
+    "watercolors",
+    "attack",
+    "titan"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -339,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -192,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -174,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

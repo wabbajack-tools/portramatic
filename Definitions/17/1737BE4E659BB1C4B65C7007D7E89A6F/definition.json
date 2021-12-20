@@ -5,27 +5,41 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "reaper",
+    "sergey",
+    "olson",
+    "siame",
+    "same",
+    "van",
+    "rijn",
+    "characters",
+    "\u5E2B\u5320",
+    "\u8C46\u8C46",
+    "\u6708\u5446"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -339,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999996,
     "offset_x": -154,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -2,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

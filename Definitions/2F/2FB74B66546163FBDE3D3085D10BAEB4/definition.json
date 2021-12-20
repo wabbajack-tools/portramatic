@@ -4,27 +4,47 @@
   "tags": [
     "human",
     "male",
-    "rogue"
+    "rogue",
+    "lord",
+    "rings",
+    "war",
+    "north",
+    "vikings",
+    "kerack",
+    "marine",
+    "alexander",
+    "kozachenko",
+    "dip",
+    "pontar",
+    "christof",
+    "grobelski",
+    "steampunk",
+    "inventor",
+    "felipe",
+    "malini"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -566.7999999999997,
     "offset_y": -243.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -397.19999999999976,
     "offset_y": -180.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -214.32407407407482,
     "offset_y": -33.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

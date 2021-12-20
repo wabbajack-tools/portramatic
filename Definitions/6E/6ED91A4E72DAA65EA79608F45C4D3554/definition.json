@@ -4,27 +4,48 @@
   "tags": [
     "undead",
     "male",
-    "warrior"
+    "warrior",
+    "death",
+    "knight",
+    "concept",
+    "drawing",
+    "armor",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "monster",
+    "morgoth",
+    "yutthaphong",
+    "kaewsuk",
+    "https://www",
+    "warrior2",
+    "nognumnoy"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -260.5,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -84.5,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -35,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

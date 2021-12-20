@@ -5,27 +5,35 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "elementer",
+    "amirul",
+    "hhf",
+    "character",
+    "anime"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -424.7999999999997,
     "offset_y": -166.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -278.1999999999998,
     "offset_y": -135.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -30.324074074074815,
     "offset_y": -25.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

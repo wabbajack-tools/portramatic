@@ -11,27 +11,41 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "male",
+    "elf",
+    "poses",
+    "beautiful",
+    "women",
+    "portraits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -78.29999999999973,
     "offset_y": -10.10000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -12.199999999999761,
     "offset_y": -22.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -36.324074074074815,
     "offset_y": -36.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

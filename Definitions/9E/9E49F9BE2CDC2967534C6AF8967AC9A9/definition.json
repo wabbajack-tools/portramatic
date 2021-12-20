@@ -5,27 +5,52 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "lady",
+    "guinevere",
+    "costume",
+    "dark",
+    "queen",
+    "drawing",
+    "pendragon",
+    "istvan",
+    "straban",
+    "character",
+    "inspiration",
+    "krynea",
+    "arcanist",
+    "david",
+    "benzal",
+    "https://www",
+    "melek",
+    "jean",
+    "pascal",
+    "leclerc",
+    "kegle",
+    "undead"
   ],
   "small": {
     "scale": 1.0400000000000007,
     "offset_x": -568,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8900000000000002,
     "offset_x": -368,
     "offset_y": -189,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -148,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

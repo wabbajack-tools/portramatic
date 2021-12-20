@@ -6,27 +6,48 @@
     "female",
     "mage",
     "priest",
-    "princess"
+    "princess",
+    "castlevania",
+    "lords",
+    "shadow",
+    "symphony",
+    "night",
+    "demon",
+    "returns",
+    "ahmed",
+    "rawi",
+    "illustrations",
+    "for",
+    "\u0022wizard\u0027s",
+    "dream\u0022",
+    "tomasz",
+    "ryger",
+    "character",
+    "\u7ED9\u738B\u8005\u8363\u8000\u7ED8\u5236\u7684\u9A6C\u8D85\u76AE\u80A4",
+    "brasenia"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -1079,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -744,
     "offset_y": -110,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1396666666666668,
     "offset_x": -822,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

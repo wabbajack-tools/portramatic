@@ -10,27 +10,49 @@
     "male",
     "statue",
     "conan",
-    "barbarian"
+    "barbarian",
+    "dark",
+    "elf",
+    "assassin",
+    "archer",
+    "star",
+    "wars",
+    "revenge",
+    "sith",
+    "title",
+    ".",
+    "artist",
+    "dongho",
+    "kang",
+    "from",
+    "#artstation",
+    "queen",
+    "crows",
+    "philipp",
+    "teichrieb"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -148,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -36,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -28,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

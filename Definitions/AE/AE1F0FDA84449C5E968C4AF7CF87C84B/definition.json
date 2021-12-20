@@ -9,27 +9,44 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "league",
+    "legends",
+    "dragonslayer",
+    "kayle",
+    "corey",
+    "mcgill",
+    "merry",
+    "christmas~\uFF01",
+    "mist",
+    "xg",
+    "\u8001\u56FE",
+    "\u5927",
+    "\u9C7C",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -360,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -169,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.46,
     "offset_x": -186,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

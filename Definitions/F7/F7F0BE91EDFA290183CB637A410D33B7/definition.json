@@ -12,29 +12,67 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "sun",
+    "goddess",
+    "beautiful",
+    "goddesses",
+    "forest",
+    "greek",
+    "gods",
+    "oil",
+    "paintings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "cave",
+    "monster",
+    "yakun",
+    "wang",
+    "artwork",
+    "beasts",
+    "priest",
+    "thunder",
+    "draft",
+    "lily",
+    "abdullina",
+    "inspiration",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "female",
+    "warrior",
+    "women"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -293,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -120,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -108,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

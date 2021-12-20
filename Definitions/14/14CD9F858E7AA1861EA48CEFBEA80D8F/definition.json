@@ -24,25 +24,61 @@
     "archangel",
     "doll",
     "toy",
-    ""
+    "",
+    "war",
+    "peace",
+    "peacekeeper",
+    "fan",
+    "trippy",
+    "hippie",
+    "dragon",
+    "age",
+    "origins",
+    "league",
+    "legends",
+    "spartan",
+    "warrior",
+    "orc",
+    "ting",
+    "xu",
+    "https://www.artstation.com/artwork/4bevgw",
+    "ornstein",
+    "smough",
+    "dark",
+    "souls",
+    "pedro",
+    "campello",
+    "https://www.artstation",
+    "ermahn\u0027ghurd",
+    "adair",
+    "forge",
+    "st.",
+    "torbec",
+    "nick",
+    "kubash"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -784.1999999999982,
     "offset_y": -811.4000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -237.00000000000023,
     "offset_y": -305.40000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -235.49999999999955,
     "offset_y": -348.05555555555554,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

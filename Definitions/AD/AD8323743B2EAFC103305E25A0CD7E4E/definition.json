@@ -12,29 +12,56 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "ice",
+    "princess",
+    "mythical",
+    "gallery",
+    "cool",
+    "dark",
+    "anime",
+    "girl",
+    "she",
+    "ra",
+    "nike",
+    "goddess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "aurora",
+    "natalie",
+    "bernard",
+    "2021",
+    "comic"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -374,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -184,
     "offset_y": 7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -148,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

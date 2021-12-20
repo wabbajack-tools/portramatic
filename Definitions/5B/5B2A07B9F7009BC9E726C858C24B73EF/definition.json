@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/ea/e0/4c/eae04cd69cd4fa9607c86143ea3cfd19.jpg",
   "md5": "5B2A07B9F7009BC9E726C858C24B73EF",
   "tags": [
-    ""
+    "",
+    "arthas",
+    "menethil",
+    "paladin",
+    "wow",
+    "lich",
+    "king",
+    "knight",
+    "armor",
+    "dawn",
+    "war",
+    "demon",
+    "hunter",
+    "\u6B63\u4E00",
+    "guo",
+    "feng",
+    "cute",
+    "monsters",
+    "day",
+    "orc",
+    "captain",
+    "nuare",
+    "studio",
+    "https://www",
+    "coin-flipping",
+    "safecracker",
+    "billy",
+    "christian"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -491,
     "offset_y": -225,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -32,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -52,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

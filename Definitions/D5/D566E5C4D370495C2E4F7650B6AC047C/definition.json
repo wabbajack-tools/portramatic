@@ -4,27 +4,43 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "game",
+    "thrones",
+    "dragon",
+    "wolf",
+    "dire",
+    "puppy",
+    "stark",
+    "richard",
+    "madden",
+    "rembrandt",
+    "rogue",
+    "martin",
+    "johnson"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -245,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -146,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -120,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,25 +4,53 @@
   "tags": [
     "thief",
     "shadow",
-    "red eyes"
+    "red eyes",
+    "samurai",
+    "ninja",
+    "shinobi",
+    "warrior",
+    "drawings",
+    "dark",
+    "souls",
+    "knight",
+    "assassin",
+    "oleg",
+    "matsokin",
+    "https://www.artstation.com/artwork/o9pa4",
+    "kihin",
+    "fao",
+    "ly",
+    "vicious",
+    "deathsower",
+    "ryan",
+    "van",
+    "dongen",
+    "concept",
+    "characters",
+    "artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1017.6,
     "offset_y": -58.400000000000176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -697.6000000000003,
     "offset_y": -11.999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -717.6296296296293,
-    "offset_y": 2.2737367544323206e-13,
-    "size": "full"
+    "offset_y": 2.2737367544323206E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

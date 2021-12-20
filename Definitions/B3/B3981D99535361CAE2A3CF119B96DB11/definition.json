@@ -11,27 +11,61 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "rogue",
+    "character",
+    "rpg",
+    "assassin",
+    "knight",
+    "armor",
+    "death",
+    "mandalorian",
+    "medieval",
+    "knights",
+    "hansel",
+    "gretel",
+    "skyrim",
+    "body",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "edan",
+    "guardians",
+    "pierre-alain",
+    "reymond",
+    "warrior",
+    "vadim",
+    "galuza",
+    "https://www"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -375.7999999999997,
     "offset_y": -74.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -264.19999999999976,
     "offset_y": -33.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -0.32407407407481514,
     "offset_y": 0.39814814814735655,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

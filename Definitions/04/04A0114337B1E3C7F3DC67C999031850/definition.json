@@ -2,27 +2,47 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/643/124/medium/lim-gae-00-shinning-sophitia.jpg?1520110808",
   "md5": "04A0114337B1E3C7F3DC67C999031850",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "mermaid",
+    "chungla",
+    "lili",
+    "siren",
+    "lin",
+    "tomato",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -402,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -197,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -196,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

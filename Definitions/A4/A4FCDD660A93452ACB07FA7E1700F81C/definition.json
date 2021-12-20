@@ -8,25 +8,48 @@
     "costume",
     "bronze",
     "figurine",
-    ""
+    "",
+    "bloodborne",
+    "maria",
+    "fan",
+    "lady",
+    "concept",
+    "anime",
+    "bleach",
+    "girl",
+    "sintinel",
+    "jessica",
+    "peterson",
+    "world",
+    "warcraft",
+    "characters",
+    "military",
+    "commissioned",
+    "louback",
+    "lavoura"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -109,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -81,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -158,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

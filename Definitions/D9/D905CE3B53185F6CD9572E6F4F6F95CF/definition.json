@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/033/008/347/4k/michele-esposito-pzo9302-firebrand-braggart.jpg?1608128480",
   "md5": "D905CE3B53185F6CD9572E6F4F6F95CF",
   "tags": [
-    ""
+    "",
+    "renaissance",
+    "costumes",
+    "zombies",
+    "zombie",
+    "apocalypse",
+    "scary",
+    "halloween",
+    "artificer",
+    "jon",
+    "pintar",
+    "tarnished",
+    "crusader",
+    "daniel",
+    "cotter",
+    "swordsman",
+    "sonech",
+    ".",
+    "character"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -534,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -419,
     "offset_y": -139,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3399999999999994,
     "offset_x": -118,
     "offset_y": -106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

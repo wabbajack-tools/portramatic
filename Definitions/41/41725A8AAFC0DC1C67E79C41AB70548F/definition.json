@@ -11,27 +11,56 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "diablo",
+    "iii",
+    "demon",
+    "hunter",
+    "female",
+    "male",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "dungeons",
+    "dragons",
+    "centaur",
+    "darkness",
+    "steven",
+    "g",
+    "gaming",
+    "pinwire",
+    "tinlef",
+    "elharil",
+    "monica",
+    "doss",
+    "ool",
+    "warrior",
+    "pierre",
+    "raveneau"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -263.7999999999997,
     "offset_y": -177.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -93.19999999999976,
     "offset_y": -106.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6.324074074074815,
     "offset_y": -3.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

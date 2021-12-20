@@ -5,27 +5,50 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "athena",
+    "smite",
+    "skins",
+    "fan",
+    "amaterasu",
+    "skin",
+    "game",
+    "thrones",
+    "cave",
+    "elf",
+    "filipe",
+    "pagliuso",
+    "windrunner",
+    "l.m.",
+    "yang",
+    "cover",
+    "forgotten",
+    "suffering",
+    "javier",
+    "rodr\u00EDguez"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -665.5,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -182.5,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -57,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

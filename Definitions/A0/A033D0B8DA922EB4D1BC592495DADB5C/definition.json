@@ -2,25 +2,51 @@
   "source": "https://i.imgur.com/2iJXJ8l.png",
   "md5": "A033D0B8DA922EB4D1BC592495DADB5C",
   "tags": [
-    ""
+    "",
+    "evil",
+    "wizard",
+    "tattoos",
+    "robes",
+    "friday",
+    "13th",
+    "movie",
+    "game",
+    "thrones",
+    "sauron",
+    "silmarillion",
+    "guillem",
+    "h",
+    "ladyofthelake",
+    "rishiraj",
+    "singh",
+    "shekhawat",
+    "bloodborne",
+    "fan",
+    "pavel",
+    "zolotarev"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 1,
     "offset_y": 3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -18,27 +18,51 @@
     "laurin",
     "crozier",
     "cyberpunk",
-    "lady"
+    "lady",
+    "icewind",
+    "dale",
+    "portraits",
+    "characters",
+    "game",
+    "great",
+    "destructor",
+    "jackie",
+    "felix",
+    "demiart",
+    "13",
+    "years",
+    "galina",
+    "butakova",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "artwork"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -200,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -141,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -64,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

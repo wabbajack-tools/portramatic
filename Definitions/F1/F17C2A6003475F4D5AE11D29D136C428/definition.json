@@ -4,27 +4,62 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "ghost",
+    "tsushima",
+    "ps4",
+    "release",
+    "new",
+    "hd",
+    "pics",
+    "graphics",
+    "orc",
+    "heavy",
+    "armor",
+    "skyrim",
+    "knight",
+    "dawn",
+    "war",
+    "sakai",
+    "mitch",
+    "mohrhauser",
+    "concept",
+    "hero",
+    "chinzoo",
+    "https://www.artstation.com/artwork/8e9xg",
+    "rpg",
+    "vincent",
+    "turcot\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "character",
+    "design",
+    "apocalypse",
+    "aesthetic"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -378,
     "offset_y": -139,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -422,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9096666666666666,
     "offset_x": -482,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

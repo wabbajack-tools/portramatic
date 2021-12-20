@@ -32,27 +32,41 @@
     "a",
     "devil",
     "heart",
-    "legend"
+    "legend",
+    "souls",
+    "witcher",
+    "vampire",
+    "manga",
+    "k.o",
+    "xuan",
+    "liu",
+    "loc",
+    "mansik",
+    "yang",
+    "\u03C0\u03BF\u03BB\u03B5\u03BC\u03B9\u03C3\u03C4\u03AD\u03C2"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -384,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -344,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -22,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

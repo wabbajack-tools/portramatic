@@ -8,27 +8,43 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "elven",
+    "magic",
+    "mark",
+    "zug",
+    "dune",
+    "wow",
+    "dawn",
+    "war",
+    "witcher",
+    "dungeons",
+    "dragons",
+    "maze",
+    "runner"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -340,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -209,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6700000000000006,
     "offset_x": -338,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

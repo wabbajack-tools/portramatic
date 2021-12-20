@@ -4,27 +4,33 @@
   "tags": [
     "human",
     "female",
-    "samurai"
+    "samurai",
+    "desktop",
+    "black",
+    "wallpaper"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -225.5,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999996,
     "offset_x": -270.5,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7600000000000005,
     "offset_x": -579,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

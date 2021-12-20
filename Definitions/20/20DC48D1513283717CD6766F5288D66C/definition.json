@@ -5,27 +5,58 @@
     "tiefling",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "neoartcore",
+    "lazy",
+    "girl",
+    "ada",
+    "zelda",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "alucard",
+    "viscount",
+    "lasso",
+    "mobile",
+    "legend",
+    "wallpaper",
+    "priestess",
+    "\u2661kardie",
+    "art\u2665",
+    "knight",
+    "errant",
+    "jin",
+    "liujiang",
+    "character",
+    "design",
+    "portraits"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -295,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -153,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -1,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

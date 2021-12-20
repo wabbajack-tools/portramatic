@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/8b/97/4a/8b974a4160510df27cf1aee75ea0ac5c.jpg",
   "md5": "EAFF7747A3F3FC44ECDD33296403EE09",
   "tags": [
-    ""
+    "",
+    "necromancer",
+    "drawing",
+    "vampire",
+    "artwork",
+    "knight",
+    "death",
+    "devil",
+    "reaper",
+    "into",
+    "woods",
+    "vikings",
+    "ariel",
+    "perez",
+    "2021",
+    "character",
+    "space"
   ],
   "small": {
     "scale": 1.9199999999999997,
     "offset_x": -475,
     "offset_y": -660,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -199,
     "offset_y": -296,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -44,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

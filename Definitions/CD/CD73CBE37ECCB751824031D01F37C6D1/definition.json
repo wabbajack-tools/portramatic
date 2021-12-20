@@ -19,25 +19,49 @@
     "witch",
     "sorceror",
     "azata",
-    "trickster"
+    "trickster",
+    "female",
+    "fighter",
+    "character",
+    "rpg",
+    "concept",
+    "anime",
+    "girl",
+    "characters",
+    "archer",
+    "lux",
+    "sun",
+    "haiyang",
+    "https://www.artstation.com/artwork/jlljgv",
+    "lol",
+    "league",
+    "high",
+    "mighty",
+    "anastasiia",
+    "rikku"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -251.33333333333064,
     "offset_y": -142.66666666668152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -31.3333333333332,
     "offset_y": -55.00000000000793,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -3.6666666666670835,
     "offset_y": -14.000000000000682,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

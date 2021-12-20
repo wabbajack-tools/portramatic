@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/1b/36/22/1b3622a414c5b2c5defe2a81da9b83b1.jpg",
   "md5": "732F9984BC6A034C70C80F8EB040F798",
   "tags": [
-    ""
+    "",
+    "crusader",
+    "knights",
+    "dark",
+    "templar",
+    "knight",
+    "concept",
+    "armor",
+    "heavy",
+    "armors",
+    "plate",
+    "samurai",
+    "dragon",
+    "final",
+    "vladim\u00EDr",
+    "st\u00E1\u0148a",
+    "a",
+    "character",
+    "alan",
+    "chanhyuk",
+    "lee",
+    "https://www.artstation.com/artwork/gvwvg",
+    "s-13",
+    "andres",
+    "rios",
+    "photo",
+    "logo",
+    "design",
+    "cyberpunk",
+    "aesthetic",
+    "suit"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -169,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -32,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9699999999999984,
     "offset_x": 0,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

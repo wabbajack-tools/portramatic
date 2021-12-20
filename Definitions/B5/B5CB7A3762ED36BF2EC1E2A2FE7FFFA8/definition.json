@@ -2,27 +2,46 @@
   "source": "https://cdn.discordapp.com/attachments/870086496835743768/912207135172091954/firepetal.png",
   "md5": "B5CB7A3762ED36BF2EC1E2A2FE7FFFA8",
   "tags": [
-    "Ethyn"
+    "Ethyn",
+    "anime",
+    "fox",
+    "wolf",
+    "girl",
+    "ears",
+    "purple",
+    "red",
+    "hair",
+    "black",
+    "brown",
+    "color",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -66.39999999999998,
     "offset_y": -92.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -8.799999999999955,
     "offset_y": -55.200000000000045,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -17.620370370370438,
     "offset_y": -97.71296296296282,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/originals/33/bf/da/33bfdad2c253fa350b00b5f1d0bcee3c.jpg",
   "md5": "7CBA9148E322F46EA1A964463178396C",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "warrior",
+    "paladin",
+    "character",
+    "armors",
+    "skyrim"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -210,
     "offset_y": -306,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -215,
     "offset_y": -385,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -22,
     "offset_y": -258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

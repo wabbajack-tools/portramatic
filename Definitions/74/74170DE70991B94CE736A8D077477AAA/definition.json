@@ -10,27 +10,43 @@
     "edition",
     "polar",
     "legends",
-    "women"
+    "women",
+    "gothic",
+    "anime",
+    "dark",
+    "warrior",
+    "drow",
+    "elf",
+    "vampire",
+    "masquerade",
+    "girl",
+    "pirate",
+    "captain",
+    "vezonia",
+    "lithium"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -171,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -110,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -25,27 +25,61 @@
     "tan",
     "mobius",
     "final",
-    "men"
+    "men",
+    "40k",
+    "battle",
+    "sister",
+    "warhammer",
+    "chaos",
+    "sisters",
+    "comics",
+    "daedric",
+    "armor",
+    "legend",
+    "zelda",
+    "roman",
+    "centurion",
+    "evocatus",
+    "juani",
+    "forn",
+    "legion",
+    "soldiers",
+    "penitent",
+    "lorenzo",
+    "mastroianni",
+    "https://www.artstation.com/artwork/9mq36a",
+    "2021",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "film/vfx",
+    "character",
+    "rendered"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -299.1428571428586,
     "offset_y": -164.28571428571414,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -260.2857142857147,
     "offset_y": -189.99999999999983,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.78,
     "offset_x": -97.14285714285734,
     "offset_y": -3.5714285714284415,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

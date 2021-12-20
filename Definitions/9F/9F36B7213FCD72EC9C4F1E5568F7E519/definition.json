@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/3f/28/1e/3f281e7ecc4332a213337efd82e61872.jpg",
   "md5": "9F36B7213FCD72EC9C4F1E5568F7E519",
   "tags": [
-    ""
+    "",
+    "plague",
+    "doctor",
+    "illustration",
+    "dark",
+    "knight",
+    "armor",
+    "armors",
+    "heavy",
+    "orc",
+    "warrior",
+    "conan",
+    "barbarian",
+    "guardsman",
+    "alexey",
+    "kruglov",
+    "https://www",
+    "rahul",
+    "venkatesh\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "dead",
+    "alexander",
+    "shatohin"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -587,
     "offset_y": -164,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -306,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -34,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

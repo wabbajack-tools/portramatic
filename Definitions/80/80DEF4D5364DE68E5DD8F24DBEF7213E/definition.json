@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/originals/d2/22/00/d22200dacb67a0c16724374e60566b09.png",
   "md5": "80DEF4D5364DE68E5DD8F24DBEF7213E",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "rpg",
+    "character",
+    "concept",
+    "dark",
+    "knight",
+    "armor",
+    "black",
+    "female",
+    "assassin",
+    "death",
+    "knights",
+    "milan",
+    "nikolic",
+    "fullbody",
+    "joma",
+    "cueto",
+    "critical",
+    "role",
+    "fan",
+    "queen",
+    "\uC5EC\uC655",
+    "somi",
+    "kim"
   ],
   "small": {
     "scale": 1,
     "offset_x": -209.33333333333326,
     "offset_y": -46.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -164.66666666666669,
     "offset_y": -55.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 40,
     "offset_y": 80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

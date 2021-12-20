@@ -2,27 +2,41 @@
   "source": "https://cdn-prod.scalefast.com/public/assets/user/1614900/sample/aff1973eabeac3c2611476acb4933ebc.png",
   "md5": "BEDCC8C95405083274485D977D501F20",
   "tags": [
-    ""
+    "",
+    "rise",
+    "tomb",
+    "raider",
+    "ps4",
+    "cover",
+    "ana",
+    "laura",
+    "croft",
+    "outfits",
+    "anniversary",
+    "legend"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -756,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -440,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9999999999999996,
     "offset_x": -590,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

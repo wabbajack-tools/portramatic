@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/1d/0b/38/1d0b386a26873bab5ee7d0989e3cf51f.jpg",
   "md5": "58FB793F2FC617FB5F80AB2D47104B9A",
   "tags": [
-    ""
+    "",
+    "character",
+    "concept",
+    "sketches",
+    "black",
+    "woman",
+    "female",
+    "characters",
+    "knight",
+    "armor",
+    "d\u0026d",
+    "yakira",
+    "brynjar",
+    "billy",
+    "gladiator",
+    "eric",
+    "durante",
+    "ogrim",
+    "doomhammer",
+    "\u52A0\u6D53",
+    "\u5C71",
+    "arte",
+    "de",
+    "fantas\u00EDa"
   ],
   "small": {
     "scale": 1,
     "offset_x": -296,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -219,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

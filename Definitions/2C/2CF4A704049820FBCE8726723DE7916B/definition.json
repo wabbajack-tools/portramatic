@@ -5,27 +5,38 @@
     "outsider",
     "male",
     "rogue",
-    "archer"
+    "archer",
+    "survival",
+    "horror",
+    "games",
+    "scary",
+    "pc",
+    "clone",
+    "wars",
+    "star"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -57,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999995,
     "offset_x": -50,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1893333333333336,
     "offset_x": -70,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

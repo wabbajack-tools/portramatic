@@ -8,27 +8,46 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "alela",
+    "artful",
+    "provocateur",
+    "proxies",
+    "deck",
+    "custom",
+    "full",
+    "league",
+    "legends",
+    "\u5929\u4E0B\u7D71\u4E00\u30AF\u30ED\u30CB\u30AF\u30EB_paikaikamui",
+    "kang",
+    "heewon",
+    "alice",
+    "wonderland",
+    "luigi",
+    "accardo"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -644,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -420,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -482,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

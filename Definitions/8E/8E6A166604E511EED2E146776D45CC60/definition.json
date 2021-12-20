@@ -8,27 +8,54 @@
     "characters",
     "samurai",
     "league",
-    "legends"
+    "legends",
+    "dark",
+    "paladin",
+    "holy",
+    "human",
+    "death",
+    "knight",
+    "spartan",
+    "warrior",
+    "elder",
+    "scrolls",
+    "online",
+    "heavy",
+    "armor",
+    "gears",
+    "war",
+    "elf",
+    "baek",
+    "ji",
+    "\u5929\u4E0A\u5929\u4E0B",
+    "\u552F\u6211\u7368\u5C0A",
+    "nyang",
+    "tiago",
+    "rios",
+    "artwork"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -247,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -190,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -52,
     "offset_y": 12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

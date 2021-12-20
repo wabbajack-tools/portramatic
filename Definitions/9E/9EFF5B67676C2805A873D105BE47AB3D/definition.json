@@ -5,27 +5,55 @@
     "undead",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "anime",
+    "dark",
+    "vampire",
+    "dracula",
+    "queen",
+    "fan",
+    "league",
+    "legends",
+    "black",
+    "dragon",
+    "elf",
+    "shadows",
+    "catwoman",
+    "comicon",
+    "challenge",
+    "2016",
+    "190716",
+    "chen",
+    "hg",
+    "https://www.artstation",
+    "path",
+    "to",
+    "avengement",
+    "chalky",
+    "nan"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -453.7999999999997,
     "offset_y": -135.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -249.19999999999982,
     "offset_y": -56.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7700000000000007,
     "offset_x": -220.32407407407482,
     "offset_y": -45.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

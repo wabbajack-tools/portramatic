@@ -5,27 +5,58 @@
     "human",
     "male",
     "warrior",
-    "samurai"
+    "samurai",
+    "angel",
+    "concept",
+    "armor",
+    "wings",
+    "lord",
+    "rings",
+    "orc",
+    "dark",
+    "elf",
+    "metroid",
+    "chozo",
+    "suit",
+    "ian",
+    "barker",
+    "https://www.artstation.com/artwork/yrogo",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork",
+    "world",
+    "auron",
+    "necromancer",
+    "reliah",
+    "a.",
+    "demon",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -389,
     "offset_y": -150,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -245,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -62,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

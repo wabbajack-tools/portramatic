@@ -2,27 +2,58 @@
   "source": "https://s-media-cache-ak0.pinimg.com/originals/18/db/eb/18dbeb05b5ae477c6f2b0d787fc95323.jpg",
   "md5": "22CBF4E860DAD8A37B30EDFD69433BC6",
   "tags": [
-    ""
+    "",
+    "gnome",
+    "character",
+    "forest",
+    "paladin",
+    "dungeons",
+    "dragons",
+    "dragonborn",
+    "orcs",
+    "boss",
+    "creature",
+    "design",
+    "oxan",
+    "studio",
+    "steampunk",
+    "artwork",
+    "concept",
+    "ankha",
+    "shedo",
+    "daniel",
+    "sanchez",
+    "gersang",
+    "mercenary",
+    "hanchae",
+    "moon",
+    "2020",
+    "archery",
+    "girl",
+    "artist"
   ],
   "small": {
     "scale": 1,
     "offset_x": -407,
     "offset_y": -572,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -380,
     "offset_y": -485,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -204,
     "offset_y": -470,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

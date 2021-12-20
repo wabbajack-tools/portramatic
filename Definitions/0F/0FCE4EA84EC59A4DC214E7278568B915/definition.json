@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/3b/66/7e/3b667eb4886da1fc89472d91730edaed.jpg",
   "md5": "0FCE4EA84EC59A4DC214E7278568B915",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "zelda",
+    "twilight",
+    "princess",
+    "dark",
+    "death",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "gabriel",
+    "crow",
+    "god",
+    "women",
+    "warrior",
+    "woman",
+    "artwork",
+    "sorceress",
+    "scifi",
+    "taregh",
+    "saber",
+    "armored",
+    "sky",
+    "kumanz"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -318,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -181,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.589999999999998,
     "offset_x": -72,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

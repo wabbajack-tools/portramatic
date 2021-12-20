@@ -11,27 +11,35 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "warlock",
+    "fan",
+    "wow",
+    "undead",
+    "female"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -128.79999999999973,
     "offset_y": -250.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -17.19999999999976,
     "offset_y": -136.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -90.32407407407482,
     "offset_y": -365.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

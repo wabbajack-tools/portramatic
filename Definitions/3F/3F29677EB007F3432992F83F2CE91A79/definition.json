@@ -2,27 +2,45 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2017/08/Mavren-Fein-Dusk-Apostle-Ixalan-MtG-Art.jpg",
   "md5": "3F29677EB007F3432992F83F2CE91A79",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "vampire",
+    "vampires",
+    "pirate",
+    "masquerade",
+    "league",
+    "legends",
+    "hansel",
+    "gretel",
+    "lord",
+    "rings",
+    "007",
+    "muel",
+    "kim",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -1264,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -596,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -634,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

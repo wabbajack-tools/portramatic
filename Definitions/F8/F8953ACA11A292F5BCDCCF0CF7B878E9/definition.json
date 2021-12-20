@@ -10,25 +10,50 @@
     "manga",
     "comics",
     "book",
-    ""
+    "",
+    "cute",
+    "halfling",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "knight",
+    "whata",
+    "bear",
+    "warrior",
+    "jm",
+    "lee",
+    "https://www.artstation.com/artwork/9l62lartstation",
+    "works",
+    "bangku",
+    "an",
+    "female",
+    "character"
   ],
   "small": {
     "scale": 0.6199999999999999,
     "offset_x": -443,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999998,
     "offset_x": -274,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999964,
     "offset_x": -75,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

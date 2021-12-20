@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/originals/3b/d5/bf/3bd5bfb110001849f49f0c0c1d52cf69.png",
   "md5": "14EA46B5FA71082AEDE7F13D5C4D47FC",
   "tags": [
-    ""
+    "",
+    "ac",
+    "valhalla",
+    "logo",
+    "wallpaper",
+    "gameplay"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -21,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -9,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -80,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

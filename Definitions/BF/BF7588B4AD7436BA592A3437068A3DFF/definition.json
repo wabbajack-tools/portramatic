@@ -21,27 +21,49 @@
     "oni",
     "tong",
     "yan",
-    "character"
+    "character",
+    "billy",
+    "sunday",
+    "quotes",
+    "johnny",
+    "cash",
+    "brother",
+    "graham",
+    "faith",
+    "orc",
+    "warhammer",
+    "d\u0026d",
+    "showdown",
+    "with",
+    "count",
+    "strahd",
+    "caravan",
+    "2021",
+    "male",
+    "vampire"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -161.59999999999988,
     "offset_y": -161.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.41008333333333274,
     "offset_x": -116.80000000000052,
     "offset_y": -160.80000000000018,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7357500000000001,
     "offset_x": -171.1999999999988,
     "offset_y": -295.20000000000005,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

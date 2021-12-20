@@ -7,27 +7,57 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "demon",
+    "concept",
+    "dodge",
+    "car",
+    "weapon",
+    "iron",
+    "man",
+    "armor",
+    "suit",
+    "knight",
+    "marvel",
+    "spider-man",
+    "gunner",
+    "soo",
+    "joop",
+    "game",
+    "character",
+    "design",
+    "2016",
+    "god",
+    "high",
+    "school",
+    "woomawang",
+    "yunsik",
+    "coco",
+    "kim",
+    "personagens"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -464.6666666666675,
     "offset_y": -58.266666666681886,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -126.06666666666428,
     "offset_y": -30.333333333342523,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -76.90740740740796,
     "offset_y": -32.79629629629767,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

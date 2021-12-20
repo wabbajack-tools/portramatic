@@ -7,27 +7,49 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "dark",
+    "iron",
+    "dwarf",
+    "paladin",
+    "wow",
+    "league",
+    "legends",
+    "orc",
+    "minotaur",
+    "death",
+    "knight",
+    "loc",
+    "mansik",
+    "yang",
+    "\u03C0\u03BF\u03BB\u03B5\u03BC\u03B9\u03C3\u03C4\u03AD\u03C2",
+    "gipsy",
+    "danger",
+    "kristina",
+    "smiltnieks"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -349,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -278,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -454,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

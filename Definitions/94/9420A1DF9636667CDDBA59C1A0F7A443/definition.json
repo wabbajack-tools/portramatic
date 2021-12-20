@@ -3,27 +3,35 @@
   "md5": "9420A1DF9636667CDDBA59C1A0F7A443",
   "tags": [
     "dhampir",
-    "female"
+    "female",
+    "pastel",
+    "girl",
+    "digital",
+    "beautiful",
+    "chinese"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -7,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -8,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.379999999999993,
     "offset_x": -21,
     "offset_y": -29,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

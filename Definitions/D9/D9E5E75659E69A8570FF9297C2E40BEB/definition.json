@@ -30,27 +30,48 @@
     "a.",
     "szade",
     "2020",
-    "undead"
+    "undead",
+    "blank",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "orc",
+    "dungeons",
+    "dragons",
+    "alexander",
+    "trufanov",
+    "shenniu",
+    "exia",
+    "xiaotong",
+    "https://www",
+    "spider",
+    "adv",
+    "ricardo",
+    "padierne"
   ],
   "small": {
     "scale": 0.5427499999999998,
     "offset_x": -495,
     "offset_y": -221,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35366666666666613,
     "offset_x": -237,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4460833333333323,
     "offset_x": -104,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,38 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "radha",
+    "alice",
+    "wonderland",
+    "alchemist",
+    "fariba",
+    "khamseh",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -421.7999999999997,
     "offset_y": -314.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -164.19999999999982,
     "offset_y": -78.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -20.324074074074815,
     "offset_y": -39.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,44 @@
   "tags": [
     "elf",
     "female",
-    "mage"
+    "mage",
+    "anime",
+    "girl",
+    "dongyu",
+    "mao",
+    "app",
+    "icon",
+    "design",
+    "elena",
+    "red",
+    "pencil",
+    "nezuko",
+    "fanart",
+    "siera",
+    "21"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -142.5,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -102.5,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099166666666662,
     "offset_x": -105,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

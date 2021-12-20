@@ -9,27 +9,50 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "suzanna",
+    "smith",
+    "queen",
+    "film",
+    "tally",
+    "chanel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties",
+    "tristian",
+    "valeriy",
+    "vegera",
+    "character",
+    "persian",
+    "knight",
+    "wil",
+    "chuan"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -336,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -74,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0799999999999996,
     "offset_x": -48,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/029/063/820/4k/l-j-koh-sanguinius-new-to-stop-stealing.jpg?1596352740&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/029/063/820/4k/l-j-koh-sanguinius-new-to-stop-stealing.jpg?1596352740\u0026dl=1",
   "md5": "E9ED64D58C77BD538FB45502A888C527",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 0.82,
     "offset_x": -1471.999999999999,
     "offset_y": -809.7142857142853,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999954,
     "offset_x": -510.857142857143,
     "offset_y": -213.14285714285717,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.2099999999999993,
     "offset_x": -64,
     "offset_y": -6.85714285714289,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

@@ -4,27 +4,64 @@
   "tags": [
     "human",
     "male",
-    "mage"
+    "mage",
+    "packers",
+    "kings",
+    "north",
+    "iron",
+    "throne",
+    "game",
+    "jon",
+    "snow",
+    "king",
+    "lord",
+    "rings",
+    "two",
+    "towers",
+    "death",
+    "knight",
+    "vikings",
+    "usurper",
+    "gwent",
+    "card",
+    "anton",
+    "nazarenko",
+    "character",
+    "characters",
+    "witcher",
+    "yennefer",
+    "nicky",
+    "geerlings",
+    "cdnb.artstation.com",
+    "submitted",
+    "owntheknight",
+    "to",
+    "/r",
+    "xuan",
+    "liu"
   ],
   "small": {
     "scale": 1.1900000000000008,
     "offset_x": -476,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.75,
     "offset_x": -115,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -92,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

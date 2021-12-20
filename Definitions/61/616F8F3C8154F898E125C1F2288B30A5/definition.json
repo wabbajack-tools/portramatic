@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/550x/9c/56/85/9c5685b8e17d358fe5e7ac000fc356aa.jpg",
   "md5": "616F8F3C8154F898E125C1F2288B30A5",
   "tags": [
-    ""
+    "",
+    "god",
+    "thunder",
+    "mighty",
+    "thor",
+    "new",
+    "comic",
+    "books",
+    "league",
+    "legends",
+    "sub-zero",
+    "mortal",
+    "kombat",
+    "bat-creature",
+    "gilberto",
+    "magno",
+    "https://www.artstation.com/artwork/vn8g3",
+    "greek",
+    "werewolf",
+    "warlock",
+    "tom\u00E1s",
+    "norambuena"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -166,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -48,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -134,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

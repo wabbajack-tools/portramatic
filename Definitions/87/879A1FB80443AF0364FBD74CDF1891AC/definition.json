@@ -3,27 +3,54 @@
   "md5": "879A1FB80443AF0364FBD74CDF1891AC",
   "tags": [
     "knights",
-    "realm"
+    "realm",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "dark",
+    "armors",
+    "suit",
+    "elf",
+    "cheolseung",
+    "ok",
+    "https://www.artstation.com/artwork/zazx9q",
+    "hyeyoung",
+    "kim",
+    "2021",
+    "character",
+    "female",
+    "personal",
+    "work",
+    "younghun",
+    "byun",
+    "https://www.artstation.com/artwork/v2dbby",
+    "rpg"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -381,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -206,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0700000000000085,
     "offset_x": -2,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

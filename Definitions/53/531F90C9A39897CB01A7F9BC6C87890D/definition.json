@@ -5,27 +5,61 @@
     "human",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "edward",
+    "elric",
+    "roy",
+    "mustang",
+    "colonel",
+    "fan",
+    "league",
+    "legends",
+    "dark",
+    "souls",
+    "elf",
+    "knight",
+    "darien",
+    "gerry",
+    "arthur",
+    "character",
+    "portraits",
+    "arsenal",
+    "dc",
+    "pepsicards",
+    "christiaan",
+    "mateo",
+    "https://www.artstation.com/artwork",
+    "devil",
+    "may",
+    "cry",
+    "5",
+    "nero",
+    "fanart",
+    "derrick",
+    "song"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -403,
     "offset_y": -162,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7604999999999997,
     "offset_x": -151,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1102500000000002,
     "offset_x": -154,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

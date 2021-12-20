@@ -9,27 +9,54 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "dark",
+    "female",
+    "guardian",
+    "angel",
+    "fallen",
+    "concept",
+    "league",
+    "legends",
+    "k/da",
+    "fan",
+    "set",
+    "yang",
+    "https://www",
+    "young",
+    "king",
+    "rupid79",
+    "lee",
+    "jung-myung",
+    "lawless",
+    "district",
+    "seok",
+    "jeon",
+    "garotas",
+    "gamer"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -280,
     "offset_y": -187,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -83,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2399999999999998,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

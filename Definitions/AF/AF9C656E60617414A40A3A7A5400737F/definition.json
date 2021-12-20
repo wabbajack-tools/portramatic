@@ -6,27 +6,47 @@
     "female",
     "warrior",
     "mage",
-    "priest"
+    "priest",
+    "amazing",
+    "concept",
+    "design",
+    "digital",
+    "esben",
+    "lash",
+    "rasmussen",
+    "2020",
+    "league",
+    "lili\u0027s",
+    "delight",
+    "filipe",
+    "pagliuso",
+    "sakura",
+    "shrines",
+    "manuel",
+    "casta\u00F1\u00F3n"
   ],
   "small": {
     "scale": 1.6600000000000008,
     "offset_x": -1523,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.28125,
     "offset_x": -1102,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6202500000000006,
     "offset_x": -1158,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,57 @@
 {
-  "source": "https://media.discordapp.net/attachments/827352978376753203/899057275833049118/d8ygh6c-3162eb76-6b10-4843-a5fc-98c1e451efde.png?width=599&height=662",
+  "source": "https://media.discordapp.net/attachments/827352978376753203/899057275833049118/d8ygh6c-3162eb76-6b10-4843-a5fc-98c1e451efde.png?width=599\u0026height=662",
   "md5": "C6391C2E477AD7211077B9E31970840A",
   "tags": [
-    ""
+    "",
+    "real",
+    "life",
+    "human",
+    "body",
+    "poses",
+    "stock",
+    "creepy",
+    "drawing",
+    "pose",
+    "reference",
+    "dr.",
+    "frankenstein",
+    "xander",
+    "smith",
+    "character",
+    "ciar\u00E1n",
+    "hinds",
+    "mance",
+    "rayder",
+    "game",
+    "thrones",
+    "ian",
+    "mcdiarmid",
+    "palpatine",
+    "darth",
+    "sidious"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -26,
     "offset_y": -18.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -24.666666666666686,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -94.66666666666674,
     "offset_y": -6.666666666666629,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

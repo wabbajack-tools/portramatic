@@ -6,27 +6,40 @@
     "female",
     "dancer",
     "priest",
-    "mage"
+    "mage",
+    "emma",
+    "dumont",
+    "magicians",
+    "lorna",
+    "dane",
+    "leather",
+    "kasai",
+    "2015",
+    "michelle",
+    "hoefener"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -490,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999995,
     "offset_x": -193,
     "offset_y": -136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6495833333333332,
     "offset_x": -60,
     "offset_y": -140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

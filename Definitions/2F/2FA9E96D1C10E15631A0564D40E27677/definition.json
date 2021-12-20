@@ -3,27 +3,32 @@
   "md5": "2FA9E96D1C10E15631A0564D40E27677",
   "tags": [
     "dwarf",
-    "fighter"
+    "fighter",
+    "warrior",
+    "female"
   ],
   "small": {
     "scale": 0.34999999999999987,
     "offset_x": -42.80000000000152,
     "offset_y": -21.73333333333369,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -25.466666666666697,
     "offset_y": -2.133333333333212,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -60.87037037037112,
     "offset_y": -5.60185185185162,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

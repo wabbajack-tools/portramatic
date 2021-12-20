@@ -7,27 +7,49 @@
     "mage",
     "priest",
     "warrior",
-    "queen"
+    "queen",
+    "dark",
+    "elf",
+    "dragon",
+    "age",
+    "origins",
+    "souls",
+    "league",
+    "angels",
+    "angel",
+    "ivan",
+    "troitsky",
+    "artstation.",
+    "spider",
+    "bat",
+    "witch",
+    "monable",
+    "bloodelf",
+    "aney",
+    "sieko"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -855.9333333333334,
     "offset_y": -242.5999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999999,
     "offset_x": -393.1333333333332,
     "offset_y": -86.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -469.19999999999993,
     "offset_y": -14.399999999999864,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

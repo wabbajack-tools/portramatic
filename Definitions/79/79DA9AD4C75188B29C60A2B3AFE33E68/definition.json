@@ -2,27 +2,49 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e64aa4cb-7fa7-4580-bbef-3a429d49d6b8/da121yy-0a98653e-f46b-421c-a718-fdf5d911b5cd.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U2NGFhNGNiLTdmYTctNDU4MC1iYmVmLTNhNDI5ZDQ5ZDZiOFwvZGExMjF5eS0wYTk4NjUzZS1mNDZiLTQyMWMtYTcxOC1mZGY1ZDkxMWI1Y2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.07bZcQUqRH6g354HdDYd8Pz8R21n5lav47SEGV7ZMJM",
   "md5": "79DA9AD4C75188B29C60A2B3AFE33E68",
   "tags": [
-    ""
+    "",
+    "jack",
+    "blades",
+    "fan",
+    "costume",
+    "mask",
+    "redraw",
+    "asaderi",
+    "ermac",
+    "mortal",
+    "kombat",
+    "andrew",
+    "gibbons",
+    "hooded",
+    "undead",
+    "v2",
+    "luis",
+    "aguirre",
+    "g\u00E1rate",
+    "kronte"
   ],
   "small": {
     "scale": 0.1999999999999993,
     "offset_x": -57,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -75,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -278,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

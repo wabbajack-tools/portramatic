@@ -4,27 +4,51 @@
   "tags": [
     "dark",
     "dwarf",
-    "wizard"
+    "wizard",
+    "nina",
+    "hagen",
+    "daughter",
+    "beautiful",
+    "scandal",
+    "anime",
+    "girl",
+    "fardarismavi",
+    "todor",
+    "hristov",
+    "https://www",
+    "33/100",
+    "wizardress",
+    "sebastian",
+    "horoszko",
+    "satan",
+    "demon",
+    "wrath",
+    "trung",
+    "tin",
+    "shinji"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -163.33333333333337,
     "offset_y": -39.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -72,
     "offset_y": -19.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -32.666666666666515,
     "offset_y": -2.6666666666667425,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

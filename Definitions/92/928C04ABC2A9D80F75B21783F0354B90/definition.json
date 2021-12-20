@@ -2,27 +2,32 @@
   "source": "https://i.pinimg.com/564x/3d/8e/0d/3d8e0d37281e6ad148c63775dd7e64b9.jpg",
   "md5": "928C04ABC2A9D80F75B21783F0354B90",
   "tags": [
-    ""
+    "",
+    "eye",
+    "makeup"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -25,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -46,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.01,
     "offset_x": -144,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

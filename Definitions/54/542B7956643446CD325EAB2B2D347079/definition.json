@@ -6,27 +6,51 @@
     "demon",
     "pyro",
     "dancer",
-    "artofneight"
+    "artofneight",
+    "lady",
+    "fire",
+    "\\wip\\",
+    "aleksandra",
+    "alekseeva",
+    "monsters",
+    "men",
+    "artwork",
+    "fullbody",
+    "character",
+    "joma",
+    "cueto",
+    "critical",
+    "role",
+    "fan",
+    "demonic",
+    "commander",
+    "chaei",
+    "min",
+    "girl",
+    "contest"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -608,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -424,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -70,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://i.imgur.com/Icd81uI.jpg",
   "md5": "9A7FCFEE05C88147D8A61C44B30E3397",
   "tags": [
-    "shiek"
+    "shiek",
+    "cool",
+    "anime",
+    "girl",
+    "with",
+    "white",
+    "hair",
+    "black",
+    "characters",
+    "dark",
+    "elf",
+    "vampires",
+    "nearel",
+    "rich",
+    "carey",
+    "\uD83E\uDD8E",
+    "baruka",
+    "shadow",
+    "solo",
+    "leveling",
+    "bier",
+    "schwarz",
+    "fury",
+    "demi",
+    "matus"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -39,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -6,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

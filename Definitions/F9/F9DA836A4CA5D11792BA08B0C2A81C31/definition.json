@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/f8/e3/14/f8e314dfba41b6cb7f831266d4cb0833.jpg",
   "md5": "F9DA836A4CA5D11792BA08B0C2A81C31",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "concept",
+    "steampunk",
+    "characters",
+    "david",
+    "goliath",
+    "orcs",
+    "qingxue",
+    "ye",
+    "elf",
+    "artwork",
+    "human",
+    "jerry",
+    "park",
+    "\uCE90\uB9AD\uD130",
+    "pinterest",
+    "wild",
+    "sea",
+    "pirate",
+    "eve",
+    "ventrue",
+    "https://www.artstation.com/artwork/wild-sea-pirate"
   ],
   "small": {
     "scale": 1.6600000000000006,
     "offset_x": -450,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -148,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -90,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

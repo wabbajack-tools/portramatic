@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/51/9a/4d/519a4dabbd3e3e01d38081784bc10074.jpg",
   "md5": "8452A3C7B6DEC7BB791585005364C43A",
   "tags": [
-    ""
+    "",
+    "tauren",
+    "druid",
+    "night",
+    "elf",
+    "wow",
+    "wood",
+    "dark",
+    "league",
+    "legends",
+    "12",
+    "veronika",
+    "kozlova",
+    "halloween",
+    "#4",
+    "witch",
+    "alejandro",
+    "giraldo",
+    "vargas",
+    "alejdark",
+    "https://www.artstation",
+    "d\u0026d",
+    "character",
+    "portraits",
+    "kirsten",
+    "gould",
+    "warrior",
+    "d"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -95,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -30,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -80,
     "offset_y": -128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

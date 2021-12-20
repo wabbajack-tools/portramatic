@@ -3,27 +3,49 @@
   "md5": "B6FE2BA4B2ED7A97286378E0C2006ECD",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "magic",
+    "sword",
+    "arcade",
+    "snes",
+    "capcom",
+    "theme",
+    "harry",
+    "potter",
+    "wellington",
+    "phelippe",
+    "komuso",
+    "shinobi",
+    "jonathan",
+    "park",
+    "bounty",
+    "hunter.",
+    "john",
+    "fox",
+    "steampunk"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -321.00000000000006,
     "offset_y": -110.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -130.66666666666663,
     "offset_y": -43.66666666666654,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -226.6666666666663,
     "offset_y": -4.999999999999773,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

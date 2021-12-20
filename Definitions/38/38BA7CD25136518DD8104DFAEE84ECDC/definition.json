@@ -5,27 +5,44 @@
     "human",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "steampunk",
+    "pirate",
+    "famous",
+    "drawings",
+    "lord",
+    "rings",
+    "league",
+    "legends",
+    "witcher3",
+    "fanart",
+    "sungryun",
+    "park",
+    "witcher",
+    "girl"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -264.5,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -151.5,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -185,
     "offset_y": -33,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

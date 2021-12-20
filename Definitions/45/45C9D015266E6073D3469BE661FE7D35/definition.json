@@ -9,27 +9,45 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "celtic",
+    "warriors",
+    "beautiful",
+    "woman",
+    "wonder",
+    "ereshkigal",
+    "fanart",
+    "phichaya(scykiazor",
+    "boonton",
+    "\u5173\u94F6\u5C4F",
+    "yuxiang",
+    "fang",
+    "rabbit",
+    "princess",
+    "rorinya"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -273,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -38,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000002,
     "offset_x": -46,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

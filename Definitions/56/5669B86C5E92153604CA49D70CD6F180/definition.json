@@ -5,27 +5,54 @@
     "human",
     "male",
     "warrior",
-    "hunter"
+    "hunter",
+    "book",
+    "wanderers",
+    "edvard",
+    "munch",
+    "night",
+    "wanderer",
+    "novel",
+    "orc",
+    "witcher",
+    "skyrim",
+    "dark",
+    "elf",
+    "ling",
+    "xiang",
+    "chaos",
+    "champion",
+    "marauder",
+    "alex",
+    "boca",
+    "grahtwood",
+    "ambusher",
+    "gabriela",
+    "dea",
+    "julia"
   ],
   "small": {
     "scale": 1.0000000000000002,
     "offset_x": -1206,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5811666666666662,
     "offset_x": -600,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6602499999999997,
     "offset_x": -524,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

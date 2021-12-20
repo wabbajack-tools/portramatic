@@ -11,27 +11,57 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "holy",
+    "knight",
+    "armor",
+    "artwork",
+    "dynasty",
+    "warriors",
+    "orochi",
+    "samurai",
+    "anime",
+    "girl",
+    "2014/12/19",
+    "gu",
+    "junyi",
+    "character",
+    "design",
+    "characters",
+    "female",
+    "warrior",
+    "ting",
+    "xu",
+    "woman",
+    "elf",
+    "legendary",
+    "pirate",
+    "maria",
+    "provotorova",
+    "https://www.artstation.com/artwork/vw5z"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -377.7999999999997,
     "offset_y": -112.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -182.19999999999976,
     "offset_y": -84.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -86.32407407407482,
     "offset_y": -47.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

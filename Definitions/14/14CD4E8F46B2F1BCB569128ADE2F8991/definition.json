@@ -9,25 +9,55 @@
     "art",
     "tattoo",
     "sketch",
-    "Female"
+    "Female",
+    "female",
+    "tiefling",
+    "warrior",
+    "elf",
+    "paladin",
+    "dd",
+    "warriors",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "undead",
+    "knight",
+    "antonio",
+    "stappaerts",
+    "wizard",
+    "sang",
+    "sub",
+    "kim",
+    "https://www.artstation.com/artwork/loqe5",
+    "some",
+    "my",
+    "artworks",
+    "way"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -476,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -252,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.23075,
     "offset_x": -102,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

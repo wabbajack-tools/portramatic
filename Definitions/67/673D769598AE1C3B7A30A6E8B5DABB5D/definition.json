@@ -26,27 +26,45 @@
     "zhangliang",
     "studio",
     "tai",
-    "xi"
+    "xi",
+    "medieval",
+    "hobbit",
+    "witcher",
+    "punisher",
+    "nissa",
+    "revane",
+    "_",
+    "tutu",
+    "drawings",
+    "artwork",
+    "tattoo",
+    "nile",
+    "order",
+    "batu",
+    "ince"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -322.20000000000016,
     "offset_y": -203.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6000000000000005,
     "offset_x": -237.60000000000002,
     "offset_y": -197.39999999999995,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -6.907407407406936,
     "offset_y": -42.40740740740739,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

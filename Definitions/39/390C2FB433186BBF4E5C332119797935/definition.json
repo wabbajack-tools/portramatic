@@ -2,27 +2,41 @@
   "source": "https://pbs.twimg.com/media/Du18wtiXgAAbw38.jpg",
   "md5": "390C2FB433186BBF4E5C332119797935",
   "tags": [
-    "Arthas. Lich-King"
+    "Arthas. Lich-King",
+    "warcraft",
+    "lich",
+    "king",
+    "world",
+    "character",
+    "predator",
+    "dark",
+    "elf",
+    "d",
+    "judash",
+    "137"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -318,
     "offset_y": -253,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -78,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -84,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

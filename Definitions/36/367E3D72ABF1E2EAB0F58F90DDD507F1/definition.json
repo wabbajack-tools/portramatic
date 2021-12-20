@@ -2,25 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f398e6f-88ef-4a92-a69b-1e829c7d38c6/dej2vg1-1cf44871-7a8f-44c4-9657-7479afa9e136.png/v1/fill/w_800,h_1000,q_80,strp/dorian_havilliard_by_artbysmashley_dej2vg1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzJmMzk4ZTZmLTg4ZWYtNGE5Mi1hNjliLTFlODI5YzdkMzhjNlwvZGVqMnZnMS0xY2Y0NDg3MS03YThmLTQ0YzQtOTY1Ny03NDc5YWZhOWUxMzYucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VaqSHQxS1H9iS5364QfCarYodJhSOIltEAH3uChbx-U",
   "md5": "367E3D72ABF1E2EAB0F58F90DDD507F1",
   "tags": [
-    ""
+    "",
+    "kingdom",
+    "ash",
+    "fan",
+    "quotes",
+    "cover",
+    "short",
+    "haircut",
+    "curly",
+    "hair",
+    "hairstyles",
+    "for",
+    "thick",
+    "natural",
+    "haircuts"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -46,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -25,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -44,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

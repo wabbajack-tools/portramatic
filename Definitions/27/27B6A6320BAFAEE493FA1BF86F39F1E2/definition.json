@@ -2,25 +2,36 @@
   "source": "https://i.pinimg.com/564x/58/1a/c1/581ac198b0d3f83af0ef5f0761f69155.jpg",
   "md5": "27B6A6320BAFAEE493FA1BF86F39F1E2",
   "tags": [
-    ""
+    "",
+    "jericho",
+    "seven",
+    "deadly",
+    "sins",
+    "anime",
+    "ban"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -17,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5200000000000005,
     "offset_x": -13,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 3.0899999999999777,
     "offset_x": -2,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

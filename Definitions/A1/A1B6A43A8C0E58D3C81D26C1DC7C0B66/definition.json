@@ -5,27 +5,49 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "navigator",
+    "mtg",
+    "magic",
+    "gathering",
+    "cards",
+    "thalia",
+    "guardian",
+    "thraben",
+    "johannes",
+    "elf",
+    "king",
+    "wei",
+    "yi",
+    "zeng",
+    "elves",
+    "wow003",
+    "chen",
+    "zhen",
+    "women"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -479,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -259,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -356,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,51 @@
   "md5": "289AF7F28727173BB55583F148436974",
   "tags": [
     "gnome",
-    "girl"
+    "girl",
+    "fighter",
+    "paladin",
+    "warlock",
+    "league",
+    "legends",
+    "anime",
+    "nevermore",
+    "david",
+    "alc\u00E1ntara",
+    "rubio",
+    "ugly",
+    "duckling",
+    "bea",
+    "fern\u00E1ndez",
+    "ch\u0027kali",
+    "pale",
+    "nolhan",
+    "colombani",
+    "world",
+    "warcraft",
+    "characters"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -212,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -104,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -22,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

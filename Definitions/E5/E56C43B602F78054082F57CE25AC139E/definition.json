@@ -5,27 +5,55 @@
     "human",
     "female",
     "warrior",
-    "samurai"
+    "samurai",
+    "aqw",
+    "katana",
+    "shadow",
+    "skyrim",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "dynasty",
+    "warriors",
+    "plate",
+    "double-edged",
+    "sword",
+    "taekwon",
+    "kim(a-rang",
+    "https://www.artstation.com/artwork",
+    "\uC5EC\uC790\uAE30\uC0AC",
+    "\uC544\uD2F0",
+    "\uC6A9",
+    "game",
+    "concept",
+    "art_thief",
+    "choe",
+    "yera",
+    "disney"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -769,
     "offset_y": -364,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5815833333333327,
     "offset_x": -342,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5519999999999992,
     "offset_x": -134,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

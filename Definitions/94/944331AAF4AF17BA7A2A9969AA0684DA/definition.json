@@ -35,27 +35,56 @@
     "sea",
     "alessio",
     "cocchetti",
-    "https://www.artstation.com/artwork"
+    "https://www.artstation.com/artwork",
+    "vampire",
+    "queen",
+    "tarot",
+    "aleta",
+    "dark",
+    "knight",
+    "assassin",
+    "black",
+    "knights",
+    "death",
+    "irene",
+    "atlas",
+    "souls",
+    "for",
+    "cdc",
+    "mike",
+    "jordana",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "hunter",
+    "tony",
+    "wang",
+    "good",
+    "hope",
+    "pin-up"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -232.73333333332448,
     "offset_y": -65.33333333333059,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999999,
     "offset_x": -70.60000000000213,
     "offset_y": -25.933333333333223,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -102.4166666666672,
     "offset_y": -6.064814814814895,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

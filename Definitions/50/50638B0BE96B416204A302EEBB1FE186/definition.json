@@ -6,27 +6,50 @@
     "female",
     "mage",
     "dancer",
-    "princess"
+    "princess",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "legend",
+    "korra",
+    "fate",
+    "stay",
+    "night",
+    "guys",
+    "angel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "catgirl",
+    "oliver",
+    "liu",
+    "https://www.artstation.com/artwork/eg3o0",
+    "character"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -385,
     "offset_y": -143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.521416666666666,
     "offset_x": -185,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7419166666666659,
     "offset_x": -124,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

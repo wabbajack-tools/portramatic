@@ -6,27 +6,34 @@
     "female",
     "mage",
     "warrior",
-    "archer"
+    "archer",
+    "league",
+    "legends",
+    "guardians",
+    "galaxy"
   ],
   "small": {
     "scale": 0.4799166666666662,
     "offset_x": -614.7999999999997,
     "offset_y": -99.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -399.1999999999998,
     "offset_y": -41.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -716.3240740740748,
     "offset_y": -9.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

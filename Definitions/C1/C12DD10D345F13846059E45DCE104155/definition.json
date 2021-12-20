@@ -7,27 +7,42 @@
     "angel",
     "divine",
     "mage",
-    "wizard"
+    "wizard",
+    "anime",
+    "girl",
+    "godzilla",
+    "king",
+    "monsters",
+    "ghidorah",
+    "\u54C1\u8FB0",
+    "\u90ED",
+    "d",
+    "\u0026",
+    "noah",
+    "regan"
   ],
   "small": {
     "scale": 1,
     "offset_x": -324.79999999999995,
     "offset_y": -137.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -264.8,
     "offset_y": -103.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -54.46296296296305,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

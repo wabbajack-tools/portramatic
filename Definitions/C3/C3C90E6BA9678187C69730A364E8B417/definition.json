@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/fa/12/8f/fa128f3c673c50f775ff6e5b0cb95218.jpg",
   "md5": "C3C90E6BA9678187C69730A364E8B417",
   "tags": [
-    "#Barbarian #knight"
+    "#Barbarian #knight",
+    "character",
+    "male",
+    "warrior",
+    "digital",
+    "human",
+    "conan",
+    "barbarian",
+    "skyrim",
+    "filipe",
+    "pagliuso",
+    "2020",
+    "artwork",
+    "jaeger",
+    "dmitry",
+    "bezrodniy",
+    "dungeons",
+    "mongolian",
+    "yumi",
+    "batgerel",
+    "samurai"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -129.59999999999994,
     "offset_y": -23.200000000000102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -44.000000000000284,
     "offset_y": -13.600000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9900000000000004,
     "offset_x": -17.62037037037021,
     "offset_y": -11.212962962962933,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

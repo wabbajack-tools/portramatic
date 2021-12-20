@@ -6,27 +6,45 @@
     "male",
     "mage",
     "warrior",
-    "prince"
+    "prince",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "native",
+    "american",
+    "egyptian",
+    "gods",
+    "queen",
+    "0060",
+    "james",
+    "child",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -576,
     "offset_y": -235,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999993,
     "offset_x": -273,
     "offset_y": -115,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5393333333333331,
     "offset_x": -198,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

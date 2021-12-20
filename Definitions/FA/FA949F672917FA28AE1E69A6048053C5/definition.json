@@ -4,27 +4,54 @@
   "tags": [
     "female",
     "tiefling",
-    "fighter"
+    "fighter",
+    "paintings",
+    "angels",
+    "mtg",
+    "angel",
+    "cards",
+    "serra",
+    "dragon",
+    "fire",
+    "league",
+    "legends",
+    "flight",
+    "dragons",
+    "gold",
+    "lion",
+    "sin",
+    "pride",
+    "escanor",
+    "david",
+    "kuo",
+    "fan",
+    "seven",
+    "deadly",
+    "sins",
+    "anime"
   ],
   "small": {
     "scale": 1.9000000000000008,
     "offset_x": -967,
     "offset_y": -335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5300000000000005,
     "offset_x": -650,
     "offset_y": -203,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -446,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

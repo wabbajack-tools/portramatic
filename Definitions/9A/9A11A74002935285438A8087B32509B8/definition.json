@@ -5,27 +5,46 @@
     "halfling",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "ghibli",
+    "princess",
+    "mononoke",
+    "princesse",
+    "hime",
+    "dragon",
+    "saggan",
+    "regular",
+    "billy",
+    "character",
+    "design002",
+    "ming",
+    "tong",
+    "gnoll",
+    "nate",
+    "https://www"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -119,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -37,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7400000000000007,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

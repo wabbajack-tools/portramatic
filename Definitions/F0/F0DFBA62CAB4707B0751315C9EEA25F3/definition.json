@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/f0/92/30/f0923069d8cdd38012375603d81ca351.jpg",
   "md5": "F0DFBA62CAB4707B0751315C9EEA25F3",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "digital",
+    "lion",
+    "drawings",
+    "dark",
+    "knight",
+    "armor",
+    "heavy",
+    "samurai",
+    "medieval",
+    "knights",
+    "armors",
+    "weapons",
+    "mounted",
+    "inga",
+    "fable",
+    "legends",
+    "mike",
+    "mccarthy",
+    "knight_sketch_2",
+    "takuya",
+    "iijima"
   ],
   "small": {
     "scale": 1,
     "offset_x": -225,
     "offset_y": -251,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -150,
     "offset_y": -273,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -42,
     "offset_y": -328,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

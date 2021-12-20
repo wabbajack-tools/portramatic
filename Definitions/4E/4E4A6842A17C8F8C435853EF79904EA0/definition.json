@@ -9,27 +9,54 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "dark",
+    "elf",
+    "warlock",
+    "drow",
+    "mage",
+    "concept",
+    "alien",
+    "demons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "battle",
+    "erak",
+    "note",
+    "\u540C\u4EBA-\u9B3C\u5200",
+    "karyeo",
+    "woo",
+    "babrian",
+    "king",
+    "mansik",
+    "yang",
+    "https://www.artstation.com/artwork/3o0evj"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -329,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -12,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3299999999999998,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

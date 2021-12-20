@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/d2/12/a3/d212a35b91057a276620cded3d12b2fc.jpg",
   "md5": "276D0BF10FF94A2025ADEA19341450CF",
   "tags": [
-    ""
+    "",
+    "modern",
+    "knight",
+    "armor",
+    "renaissance",
+    "medieval",
+    "times",
+    "knights",
+    "plate",
+    "iron",
+    "man",
+    "armors",
+    "heavy",
+    "yesun",
+    "jung",
+    "warrior",
+    "concept",
+    "character",
+    "design",
+    "sora",
+    "kim",
+    "https://www.artstation.com/artwork/xb3xzl",
+    "#wallart",
+    "#design",
+    "#",
+    "chaei",
+    "min"
   ],
   "small": {
     "scale": 1.799999999999997,
     "offset_x": -434.3999999999994,
     "offset_y": -63.2000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -109.59999999999962,
     "offset_y": -18.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": 6.407407407407163,
     "offset_y": -9.611111111111086,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

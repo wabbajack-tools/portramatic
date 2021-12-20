@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/04/41/a6/0441a6273b725997c73f558ce5c4c521.jpg",
   "md5": "5029BE0D82687B7FABC28691AE5090EE",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "concept",
+    "sucker",
+    "punch",
+    "warrior",
+    "drawings",
+    "yrvi",
+    "korpikalli",
+    "elf",
+    "https://www.artstation.com/artwork/a9dx6o",
+    "characters",
+    "drow",
+    "earthshaker",
+    "titan",
+    "bartek",
+    "fedyczak",
+    "2021",
+    "titans",
+    "artwork",
+    "cool",
+    "roman",
+    "chaliy",
+    "robot",
+    "background"
   ],
   "small": {
     "scale": 1,
     "offset_x": -494,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -386,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -216,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

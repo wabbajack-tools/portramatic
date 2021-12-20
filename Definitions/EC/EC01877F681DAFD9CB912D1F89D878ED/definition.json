@@ -2,27 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/688/803/large/ilya-izobov-duke1921.jpg?1560333554",
   "md5": "EC01877F681DAFD9CB912D1F89D878ED",
   "tags": [
-    ""
+    "",
+    "daily",
+    "sketch",
+    "34",
+    "donovan",
+    "liu",
+    "payback",
+    "pedram",
+    "mohammadi",
+    "https://www.artstation.com/artwork/doked3",
+    "sci",
+    "fi",
+    "cc-4303",
+    "\u201Coutburst\u201D",
+    "veteran",
+    "clone",
+    "commando",
+    "plus",
+    "stealthy",
+    "d-o",
+    "droid",
+    "christina"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -355.428571428569,
     "offset_y": -314.2857142857142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999932,
     "offset_x": -102.85714285714266,
     "offset_y": -54.85714285714283,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -41.14285714285688,
     "offset_y": -4.571428571428328,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

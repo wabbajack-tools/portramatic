@@ -14,25 +14,37 @@
     "female",
     "sword",
     "red",
-    "Arthur Azaryan"
+    "Arthur Azaryan",
+    "anime",
+    "characters",
+    "judith",
+    "doyo",
+    "h",
+    "jerry",
+    "park"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -388,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -317,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -150,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

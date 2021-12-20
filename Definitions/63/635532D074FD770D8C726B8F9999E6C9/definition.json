@@ -11,27 +11,33 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "underworld",
+    "rise",
+    "lycans"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -85.5999999999998,
     "offset_y": -86.20000000000115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -50.99999999999994,
     "offset_y": -55.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -1.3148148148147811,
     "offset_y": -40.018518518518704,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

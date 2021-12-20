@@ -5,27 +5,35 @@
     "elf",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "mtg",
+    "concept",
+    "magician",
+    "magic",
+    "book"
   ],
   "small": {
     "scale": 1.2100000000000009,
     "offset_x": -560,
     "offset_y": -251,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9200000000000002,
     "offset_x": -350,
     "offset_y": -162,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -362,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

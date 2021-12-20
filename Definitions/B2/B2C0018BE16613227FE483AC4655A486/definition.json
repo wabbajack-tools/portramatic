@@ -19,27 +19,40 @@
     "anna",
     "kharitonova",
     "design",
-    "juliana"
+    "juliana",
+    "sci-fi",
+    "sketch",
+    "cool",
+    "anime",
+    "girl",
+    "tina",
+    "wang",
+    "yuka",
+    "steve",
+    "james"
   ],
   "small": {
     "scale": 0.9899999999999971,
     "offset_x": -89,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -11,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.239999999999999,
     "offset_x": -8,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

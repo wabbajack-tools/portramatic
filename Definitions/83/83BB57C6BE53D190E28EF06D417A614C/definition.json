@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/e4/11/4a/e4114aa76cee67479accf1de77e3847e.jpg",
   "md5": "83BB57C6BE53D190E28EF06D417A614C",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "hunter",
+    "concept",
+    "knight",
+    "demon",
+    "game",
+    "thrones",
+    "medieval",
+    "knights",
+    "dark",
+    "assassin",
+    "lord",
+    "rings",
+    "death",
+    "gund_adv",
+    "mansik",
+    "yang",
+    "characters",
+    "wandering",
+    "striker",
+    "artwork",
+    "world",
+    "sponsored",
+    "universalsamurai.com",
+    "artists",
+    "1.",
+    "jaime",
+    "martinez",
+    "artstation.com",
+    "2.",
+    "anton",
+    "kokarev"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -249,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -100,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -206,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

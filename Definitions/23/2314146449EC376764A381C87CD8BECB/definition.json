@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/10/e6/11/10e611b213649d91e5790b99476ff2cf.jpg",
   "md5": "2314146449EC376764A381C87CD8BECB",
   "tags": [
-    ""
+    "",
+    "artwork",
+    "002",
+    "leee",
+    "738",
+    "uncharted",
+    "wars",
+    "oceans",
+    "\u0026",
+    "empires",
+    "black",
+    "swan",
+    "dhk",
+    "aeon",
+    "14",
+    "tek",
+    "tan",
+    "sci",
+    "fi",
+    "girl",
+    "cyberpunk",
+    "character",
+    "concept"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -250,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -134,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6899999999999982,
     "offset_x": -178,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

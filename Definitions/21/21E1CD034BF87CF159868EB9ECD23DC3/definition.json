@@ -7,27 +7,42 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "spider-man",
+    "scarlet",
+    "witch",
+    "amazing",
+    "marvel",
+    "heroes",
+    "super",
+    "league",
+    "legends",
+    "dryder",
+    "steven",
+    "yarbrough"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -228.66666666666745,
     "offset_y": -162.26666666668189,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -72.46666666666431,
     "offset_y": -75.13333333334248,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -0.018518518518817473,
     "offset_y": -45.61111111111245,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -24,27 +24,39 @@
     "gladiators",
     "dragon",
     "isle",
-    "manthos"
+    "manthos",
+    "snow",
+    "fairy",
+    "queen",
+    "costume",
+    "princes",
+    "princess",
+    "serenity",
+    "angels",
+    "blue"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -449,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -343,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -91,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

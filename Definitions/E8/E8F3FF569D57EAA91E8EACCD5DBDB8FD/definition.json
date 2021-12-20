@@ -5,27 +5,34 @@
     "goblin",
     "male",
     "warrior",
-    "hunter"
+    "hunter",
+    "wow",
+    "hobgoblin",
+    "concept",
+    "spider-man"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -385,
     "offset_y": -458,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -379,
     "offset_y": -433,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1696666666666669,
     "offset_x": -136,
     "offset_y": -216,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

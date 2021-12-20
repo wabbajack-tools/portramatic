@@ -4,27 +4,55 @@
   "tags": [
     "Elf",
     "female",
-    "thief"
+    "thief",
+    "rogue",
+    "character",
+    "concept",
+    "assassin",
+    "armor",
+    "game",
+    "thrones",
+    "dark",
+    "elf",
+    "witch",
+    "girl",
+    "xiao",
+    "h",
+    "\u66FE\u6DEF\u797A-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "ycf",
+    "online",
+    "masterclass",
+    "warrior",
+    "guardians-tess",
+    "olivier",
+    "sam",
+    "knight",
+    "woman"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -112,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -29,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000081,
     "offset_x": -88,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

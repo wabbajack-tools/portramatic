@@ -5,27 +5,57 @@
     "tiefling",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "demon",
+    "girl",
+    "wings",
+    "anime",
+    "with",
+    "costume",
+    "league",
+    "legends",
+    "black",
+    "dragon",
+    "red",
+    "chinese",
+    "haila",
+    "hela",
+    "zhang",
+    "dameng",
+    "concept",
+    "morrigan",
+    "moonlight",
+    "michelle",
+    "pao",
+    "shieda",
+    "kayn",
+    "neo",
+    "lee",
+    "2020",
+    "lol"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -346,
     "offset_y": -212,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -141,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -22,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

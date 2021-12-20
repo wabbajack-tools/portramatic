@@ -2,27 +2,31 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/005/346/158/large/denis-kornev-.jpg?1490365735",
   "md5": "946AFAB9239C8922BEFF5A806426E354",
   "tags": [
-    ""
+    "",
+    "skyrim"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -435.5,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -118.5,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -270,
     "offset_y": -101,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

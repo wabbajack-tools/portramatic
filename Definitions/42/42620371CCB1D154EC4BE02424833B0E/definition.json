@@ -5,27 +5,47 @@
     "outsider",
     "male",
     "samurai",
-    "warrior"
+    "warrior",
+    "human",
+    "inuyasha",
+    "fan",
+    "symbol",
+    "anime",
+    "sesshoumaru",
+    "fanart",
+    "jun",
+    "tai",
+    "li",
+    "girl",
+    "xu",
+    "xingzhi",
+    "chr_minotaur",
+    "roman",
+    "groph",
+    "https://www"
   ],
   "small": {
     "scale": 0.3499999999999995,
     "offset_x": -290,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.29999999999999916,
     "offset_x": -87,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38933333333333286,
     "offset_x": -24,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

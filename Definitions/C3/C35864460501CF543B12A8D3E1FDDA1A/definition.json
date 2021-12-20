@@ -13,27 +13,35 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "dress",
-    "formal_dress"
+    "formal_dress",
+    "girl",
+    "su",
+    "jian.",
+    "concepts",
+    "concept"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -154,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -151,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -48,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

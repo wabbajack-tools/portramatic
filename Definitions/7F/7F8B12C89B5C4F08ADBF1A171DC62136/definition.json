@@ -12,29 +12,51 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "water",
+    "goddess",
+    "american",
+    "greece",
+    "girls",
+    "kali",
+    "hindu",
+    "facts",
+    "fade",
+    "risa",
+    "hulett",
+    "kalianah",
+    "stephanie",
+    "brown",
+    "https://www.artstation.com/artwork/kreolw",
+    "2021",
+    "jnx",
+    "ujin",
+    "shamoney"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -171,
     "offset_y": -201,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -86,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -16,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

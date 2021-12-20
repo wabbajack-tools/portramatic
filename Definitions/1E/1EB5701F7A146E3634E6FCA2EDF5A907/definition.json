@@ -5,27 +5,58 @@
     "human",
     "male",
     "warrior",
-    "prince"
+    "prince",
+    "game",
+    "thrones",
+    "jon",
+    "snow",
+    "girlfriend",
+    "kit",
+    "harington",
+    "death",
+    "dark",
+    "knight",
+    "witcher",
+    "hobbit",
+    "huntress",
+    "i",
+    "asimov",
+    "character",
+    "design",
+    "portraits",
+    "nier",
+    "automata",
+    "shangwei",
+    "xu",
+    "star",
+    "wars",
+    "rise",
+    "skywalker",
+    "serenity",
+    "mizuri"
   ],
   "small": {
     "scale": 1.2000000000000008,
     "offset_x": -856,
     "offset_y": -279,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9100000000000001,
     "offset_x": -577,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -454,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

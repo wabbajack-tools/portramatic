@@ -15,27 +15,40 @@
     "",
     "fighter",
     "female",
-    "male"
+    "male",
+    "yennefer",
+    "from",
+    "witcher",
+    "vengerberg",
+    "eyes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -312,
     "offset_y": -311.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -179,
     "offset_y": -230,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -8,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

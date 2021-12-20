@@ -8,27 +8,48 @@
     "concept",
     "rpg",
     "league",
-    "legends"
+    "legends",
+    "reaper",
+    "king",
+    "mtg",
+    "midnight",
+    "graveyard",
+    "has",
+    "jade\u0026dragon",
+    "damien",
+    "sim",
+    "contest",
+    "blizzard2015",
+    "evgeniya",
+    "bandi",
+    "ciri",
+    "gwentfanart",
+    "derek",
+    "jiang",
+    "https://www.artstation.com/artwork/oy29mk"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -565,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -169,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -156,
     "offset_y": -148,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

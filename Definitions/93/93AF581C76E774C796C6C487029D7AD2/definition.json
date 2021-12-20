@@ -2,27 +2,47 @@
   "source": "https://static.wikia.nocookie.net/oustomiaworld/images/8/85/6da33da179c47678206ef888694a5286.jpg/revision/latest/scale-to-width-down/500?cb=20180520011612",
   "md5": "93AF581C76E774C796C6C487029D7AD2",
   "tags": [
-    ""
+    "",
+    "steampunk",
+    "character",
+    "concept",
+    "female",
+    "elf",
+    "dungeons",
+    "dragons",
+    "four",
+    "bears",
+    "graey",
+    "erb",
+    "https://www",
+    "visions",
+    "great",
+    "crusade.",
+    "young",
+    "lorgar"
   ],
   "small": {
     "scale": 2.2599999999999953,
     "offset_x": -481,
     "offset_y": -215,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

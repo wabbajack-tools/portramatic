@@ -11,27 +11,55 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "dungeons",
+    "dragons",
+    "minotaur",
+    "league",
+    "legends",
+    "dragonborn",
+    "fighter",
+    "bastien",
+    "aufrere",
+    "https://www.artstation.c\u2026",
+    "seething",
+    "bog",
+    "adam",
+    "schumpert",
+    "artwork",
+    "digital",
+    "apex",
+    "crypto",
+    "frag",
+    "ment",
+    "illustration"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -206.3999999999998,
     "offset_y": -37.600000000001245,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -130.39999999999986,
     "offset_y": -31.200000000000102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -35.24074074074042,
     "offset_y": -36.84259259259295,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

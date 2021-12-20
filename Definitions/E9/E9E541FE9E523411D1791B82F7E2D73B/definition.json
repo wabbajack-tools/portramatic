@@ -8,27 +8,59 @@
     "dark",
     "elves",
     "fairy",
-    "female"
+    "female",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "conan",
+    "barbarian",
+    "game",
+    "thrones",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "head_wear",
+    "hat",
+    "5",
+    "rings",
+    "core",
+    "rule",
+    "book",
+    "cover",
+    "palace",
+    "queen",
+    "keith",
+    "quoc",
+    "le"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -82.60000000000008,
     "offset_y": -22.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5100000000000005,
     "offset_x": -9.199999999999989,
     "offset_y": -34.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.9499999999999806,
     "offset_x": -1.9999999999997726,
     "offset_y": -60.86111111111097,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

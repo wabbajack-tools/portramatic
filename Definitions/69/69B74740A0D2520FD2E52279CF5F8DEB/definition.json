@@ -3,27 +3,50 @@
   "md5": "69B74740A0D2520FD2E52279CF5F8DEB",
   "tags": [
     "druid",
-    "female"
+    "female",
+    "nordic",
+    "goddesses",
+    "nature",
+    "god",
+    "forest",
+    "league",
+    "legends",
+    "dark",
+    "souls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "witch",
+    "who",
+    "unlocks",
+    "night",
+    "coax",
+    "\uCF55\uC2A4",
+    "cookie"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -423.5,
     "offset_y": -156,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -214.5,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -141,
     "offset_y": -51,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,37 @@
   "md5": "C2A5C58C9FDF2C1A48E2A38BBAC50C33",
   "tags": [
     "dhampir",
-    "female"
+    "female",
+    "character",
+    "design",
+    "inspiration",
+    "cartoon",
+    "girl",
+    "black",
+    "wig"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -16,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -46,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7700000000000007,
     "offset_x": -79,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

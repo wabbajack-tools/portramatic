@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/CUoubO1.jpg",
   "md5": "9C3390788E3AF3B60EEC07D509805EDF",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "character",
+    "dungeons",
+    "dragons",
+    "female",
+    "half",
+    "orc",
+    "rogue",
+    "knight",
+    "armor",
+    "kratos",
+    "medieval",
+    "knights",
+    "mandalorian",
+    "assassin",
+    "llama",
+    "warrior",
+    "mark",
+    "tarrisse",
+    "https://www",
+    "barbarian",
+    "paladin",
+    "pavel",
+    "romanov",
+    "http://www"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -578.4000000000003,
     "offset_y": -12.800000000000068,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -187.19999999999976,
     "offset_y": -9.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -331.58333333333326,
     "offset_y": -17.620370370370438,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

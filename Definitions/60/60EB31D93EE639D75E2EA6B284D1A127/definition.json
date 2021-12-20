@@ -6,27 +6,49 @@
     "female",
     "mage",
     "princess",
-    "priest"
+    "priest",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "magnolia",
+    "yozel",
+    ".",
+    "warrior",
+    "outfit",
+    "elven",
+    "knight",
+    "un",
+    "lee",
+    "armor",
+    "character",
+    "concept",
+    "marc",
+    "grunert"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -442,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -180,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -224,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

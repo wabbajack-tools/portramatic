@@ -11,27 +11,36 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "jade",
+    "empire",
+    "dawn",
+    "star",
+    "xbox",
+    "game"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -253.79999999999973,
     "offset_y": -204.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -96.19999999999976,
     "offset_y": -101.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -118.32407407407482,
     "offset_y": -199.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

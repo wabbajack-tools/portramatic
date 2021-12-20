@@ -5,27 +5,49 @@
     "female",
     "tiefling",
     "warrior",
-    "brawler"
+    "brawler",
+    "little",
+    "devil",
+    "tattoo",
+    "clip",
+    "drawings",
+    "pencil",
+    "legend",
+    "cryptids",
+    "lius",
+    "lasahido",
+    "\u543B",
+    "tian",
+    "dm",
+    "2020",
+    "couples",
+    "cartoon",
+    "lol-ahri",
+    "yuansheng",
+    "mao"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -700,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -662,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -794,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

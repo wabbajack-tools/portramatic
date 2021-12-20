@@ -8,27 +8,33 @@
     "warrior",
     "women",
     "female",
-    "costume"
+    "costume",
+    "hope",
+    "erak",
+    "note"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -519,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -596,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -552,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

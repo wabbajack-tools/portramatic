@@ -2,27 +2,42 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/037/903/495/large/kiri-kiri-leonard-ruby-of-the-sea-critical-role-web.jpg?1621613127",
   "md5": "91F989EC53751B47E5D7EDCEDD74EEDE",
   "tags": [
-    ""
+    "",
+    "critical",
+    "role",
+    "character",
+    "vox",
+    "machina",
+    "jester",
+    "snake",
+    "girl",
+    "lee",
+    "do",
+    "kyung",
+    "https://www"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -147,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -71,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

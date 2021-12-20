@@ -2,27 +2,60 @@
   "source": "https://i.imgur.com/XQeoquc.jpeg",
   "md5": "28D84ECAC47EF9F7C6F50180B4B81AA7",
   "tags": [
-    ""
+    "",
+    "storyteller",
+    "storytelling",
+    "african",
+    "elder",
+    "scrolls",
+    "online",
+    "lord",
+    "rings",
+    "hobbit",
+    "edward",
+    "mansfield",
+    "othon",
+    "nikolaidis",
+    "card",
+    "illustration",
+    "human",
+    "male",
+    "pirates",
+    "old",
+    "man",
+    "hyde",
+    ".",
+    "dungeons",
+    "dragons",
+    "artwork",
+    "planescape",
+    "torment",
+    "fanart",
+    "holger",
+    "kirste"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -472,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -283,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -172,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

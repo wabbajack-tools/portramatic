@@ -5,27 +5,52 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "actionfigures",
+    "dynasty",
+    "warriors",
+    "pirates",
+    "caribbean",
+    "knight",
+    "armor",
+    "swordmaiden",
+    "study",
+    "felipe",
+    "rocha",
+    "path",
+    "exile",
+    "concepts",
+    "roman",
+    "kupriyanov",
+    "character",
+    "design",
+    "concept",
+    "dark-renaissance",
+    "maxime",
+    "teppe"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -616.7999999999997,
     "offset_y": -102.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999954,
     "offset_x": -512.1999999999998,
     "offset_y": -40.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3299999999999994,
     "offset_x": -284.3240740740748,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

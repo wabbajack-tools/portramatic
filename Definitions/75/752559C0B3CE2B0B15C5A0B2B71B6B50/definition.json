@@ -2,27 +2,50 @@
   "source": "https://i.redd.it/1r4t5m2h48y31.png",
   "md5": "752559C0B3CE2B0B15C5A0B2B71B6B50",
   "tags": [
-    ""
+    "",
+    "drow",
+    "noble",
+    "house",
+    "names",
+    "death",
+    "knight",
+    "dark",
+    "girl",
+    "vera",
+    "velichko",
+    "characters",
+    "character",
+    "female",
+    "space",
+    "hero",
+    "guga",
+    "lobato",
+    "sci-fi",
+    "svetlana",
+    "solnyshkina"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -511,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -308,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -36,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

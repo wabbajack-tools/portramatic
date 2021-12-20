@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/f6/ef/aa/f6efaa13c037db4483a7fda73c70b5a1.jpg",
   "md5": "DA547E69B51F8B5720AB8749A6740763",
   "tags": [
-    ""
+    "",
+    "dark",
+    "sun",
+    "characters",
+    "elf",
+    "gears",
+    "war",
+    "dungeons",
+    "dragons",
+    "warhammer",
+    "40k",
+    "wargames",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "skaven",
+    "rich",
+    "carey",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1,
     "offset_x": -351,
     "offset_y": -210,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -276,
     "offset_y": -201,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 20,
     "offset_y": 92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

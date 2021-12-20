@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/b0/29/a6/b029a6a8cd2ffa2b31d6e6787bbfa71b.jpg",
   "md5": "0F4319A6CBCC43076353E66E4C75F3C7",
   "tags": [
-    ""
+    "",
+    "sorcerer",
+    "concept",
+    "wizard",
+    "staff",
+    "female",
+    "elf",
+    "character",
+    "samurai",
+    "armor",
+    "dragon",
+    "age",
+    "origins",
+    "black",
+    "knight",
+    "tiefling",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "dungeons",
+    "rogue",
+    "alexey",
+    "ivanov",
+    "rogues",
+    "red",
+    "mikhail",
+    "palamarchuk",
+    "design"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -169,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -72,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.46,
     "offset_x": -32,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

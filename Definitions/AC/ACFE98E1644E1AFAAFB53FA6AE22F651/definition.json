@@ -4,27 +4,54 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "knight",
+    "armor",
+    "heavy",
+    "assassin",
+    "dragon",
+    "suit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "tights",
+    "shoes",
+    "heels",
+    "seung",
+    "chan",
+    "hong",
+    "concept",
+    "gogi",
+    "kim",
+    "outfit",
+    "characters",
+    "tida",
+    "k",
+    "character"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -564,
     "offset_y": -277,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5215833333333326,
     "offset_x": -290,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5419999999999991,
     "offset_x": -154,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

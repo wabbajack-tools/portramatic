@@ -5,27 +5,47 @@
     "sun",
     "khamunaki",
     "red",
-    "sonja"
+    "sonja",
+    "pirates",
+    "caribbean",
+    "night",
+    "elf",
+    "dark",
+    "archer",
+    "brandon",
+    "dunn",
+    "cresent",
+    "maiden",
+    "jackie",
+    "felix",
+    "street",
+    "fighter",
+    "fan",
+    "art/redesigns",
+    "maki"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -674,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -459,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -678,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,56 @@
   "source": "https://www.leisurebyte.com/wp-content/uploads/2021/09/Screenshot-601-1024x576-1.jpg",
   "md5": "EA5A1CD7156A55461236A7DDCFA3B16D",
   "tags": [
-    "Georg Carmine IV"
+    "Georg Carmine IV",
+    "genjitsu",
+    "shugi",
+    "yusha",
+    "no",
+    "okoku",
+    "saikenki",
+    "mangadex",
+    "yuusha",
+    "oukokusaikenki",
+    "anime",
+    "yuuutsu",
+    "oukoku",
+    "beauty",
+    "beast",
+    "lady",
+    "tramp",
+    "legend",
+    "korra",
+    "hunchback",
+    "notre",
+    "dame",
+    "quasimodo",
+    "great",
+    "mouse",
+    "detective",
+    "hercules"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -647.3333333333309,
     "offset_y": -176.0000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -484.6666666666672,
     "offset_y": -100.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9100000000000008,
     "offset_x": -655.9999999999986,
     "offset_y": -73.33333333333297,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

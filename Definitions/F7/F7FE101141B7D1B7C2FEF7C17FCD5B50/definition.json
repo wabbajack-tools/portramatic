@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/db/54/f1/db54f1f9aaa5c7a919c4151a0e7a616c.jpg",
   "md5": "F7FE101141B7D1B7C2FEF7C17FCD5B50",
   "tags": [
-    "Dragon Sorceress Female"
+    "Dragon Sorceress Female",
+    "female",
+    "dragon",
+    "rider",
+    "armor",
+    "anime",
+    "warrior",
+    "girl",
+    "drawings",
+    "wood",
+    "elf",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "works126",
+    "song",
+    "nan",
+    "li",
+    "ayla",
+    "artur",
+    "m\u00F3sca",
+    "warp",
+    "lightning",
+    "skaven",
+    "diego",
+    "vila"
   ],
   "small": {
     "scale": 2.459999999999991,
     "offset_x": -572.6666666666663,
     "offset_y": -199.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8800000000000008,
     "offset_x": -338.6666666666667,
     "offset_y": -164.00000000000009,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -117.33333333333348,
     "offset_y": -94.66666666666652,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

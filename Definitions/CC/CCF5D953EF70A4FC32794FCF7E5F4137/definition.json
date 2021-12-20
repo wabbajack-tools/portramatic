@@ -5,27 +5,61 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "assassin",
+    "pirate",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "jumpsuit",
+    "lux",
+    "steve",
+    "zheng",
+    "lol",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "ii",
+    "joseph",
+    "weston",
+    "violet",
+    "evergarden",
+    "real",
+    "time",
+    "3d",
+    "fanart",
+    "lee",
+    "gh",
+    "con",
+    "im\u00E1genes",
+    "androide"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -385,
     "offset_y": -164,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.32158333333333244,
     "offset_x": -170,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.401999999999999,
     "offset_x": -16,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

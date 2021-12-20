@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/6b/51/9d/6b519d0b40fa2d476c10ce70d68c0cde.jpg",
   "md5": "29470E9240C5F492966DB5D177A28E74",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "man",
+    "character",
+    "lord",
+    "rings",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "goblin",
+    "king",
+    "maciej",
+    "janaszek",
+    "mythical",
+    "creatures",
+    "\u9B54\u5BB6\u56DB\u5C06",
+    "gui",
+    "yuan",
+    "2020",
+    "armor",
+    "concept",
+    "hunger",
+    "luka",
+    "brico"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -329,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -55,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -64,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

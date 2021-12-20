@@ -22,27 +22,55 @@
     "2020",
     "character",
     "design",
-    "game"
+    "game",
+    "gears",
+    "war",
+    "black",
+    "additional",
+    "heroes",
+    "band",
+    "for",
+    "orcquest.",
+    "lo\u00EFc",
+    "muzy",
+    "gwent",
+    "card",
+    "golyat",
+    "bryan",
+    "sola",
+    "witcher",
+    "monster",
+    "concept",
+    "hexxen",
+    "1733",
+    "rpg",
+    "illustration",
+    "piotr",
+    "chrzanowski",
+    "warhammer"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -205,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -93,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -24,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

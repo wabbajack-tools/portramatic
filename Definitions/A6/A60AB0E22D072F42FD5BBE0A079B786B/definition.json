@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/D3kYL4m.jpeg",
   "md5": "A60AB0E22D072F42FD5BBE0A079B786B",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "tattoos",
+    "men",
+    "drawings",
+    "samurai",
+    "warriors",
+    "dark",
+    "elf",
+    "achaemede_archer",
+    "timur",
+    "mutsaev",
+    "https://www.artstation.com/artwork/achaemede",
+    "babbarian",
+    "hanyong",
+    "kim",
+    "https://www.artstation.com/artwork/5ram1",
+    "alexandre",
+    "robitaille\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "character",
+    "design",
+    "native",
+    "american"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -387,
     "offset_y": -251,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3200000000000003,
     "offset_x": -200,
     "offset_y": -196,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -10,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

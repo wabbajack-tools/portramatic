@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/b3/90/aa/b390aa91c8c3b28f800c3ef20386c37b.jpg",
   "md5": "29F051655E0254CA5E95805BA466ABC1",
   "tags": [
-    ""
+    "",
+    "traditional",
+    "japanese",
+    "samurai",
+    "modern",
+    "dark",
+    "marvel",
+    "comics",
+    "transformers",
+    "war",
+    "for",
+    "cybertron",
+    "dc",
+    "g.i.joe",
+    "lucia",
+    "livia",
+    "prima",
+    "girl",
+    "legend",
+    "shodown",
+    "collab",
+    "with",
+    "chahine"
   ],
   "small": {
     "scale": 1,
     "offset_x": -190,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -117,
     "offset_y": -245,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -12,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

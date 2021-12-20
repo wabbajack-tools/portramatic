@@ -2,27 +2,50 @@
   "source": "https://staticdelivery.nexusmods.com/images/2607/1152573-1595641064.jpg",
   "md5": "29CEF80E91E13A8DE436C84B20584E3A",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "characters",
+    "aasimar",
+    "portraits",
+    "wizard",
+    "dark",
+    "souls",
+    "female",
+    "assassin",
+    "character",
+    "design",
+    "k",
+    "arcadia",
+    "pablo",
+    "fernandez",
+    "ghost",
+    "shell",
+    "major",
+    "constantine",
+    "sekeris"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -343.33333333333314,
     "offset_y": -4.666666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -275.3333333333335,
     "offset_y": -11.999999999999915,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -288,
     "offset_y": -5.3333333333332575,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

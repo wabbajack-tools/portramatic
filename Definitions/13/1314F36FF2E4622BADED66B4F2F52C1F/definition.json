@@ -3,27 +3,35 @@
   "md5": "1314F36FF2E4622BADED66B4F2F52C1F",
   "tags": [
     "fire",
-    "rengoku"
+    "rengoku",
+    "demon",
+    "slayer",
+    "characters",
+    "nezuko",
+    "inosuke"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -131,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -69,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -50,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

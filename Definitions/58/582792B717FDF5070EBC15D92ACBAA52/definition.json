@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/13/6d/39/136d39bd3bfb02e2b307d76f4ea16c65.jpg",
   "md5": "582792B717FDF5070EBC15D92ACBAA52",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "knight",
+    "armor",
+    "drawing",
+    "warrior",
+    "concept",
+    "artwork",
+    "samurai",
+    "dark",
+    "death",
+    "black",
+    "plate",
+    "souls",
+    "hyeyoung",
+    "kim",
+    "2021",
+    "lionheart",
+    "ji",
+    "ni",
+    "concepts",
+    "elliot",
+    "taylor",
+    "2019"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -54,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -62,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -54,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

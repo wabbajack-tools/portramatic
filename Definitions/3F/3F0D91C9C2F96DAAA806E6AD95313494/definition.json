@@ -5,27 +5,59 @@
     "elf",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "blood",
+    "wow",
+    "league",
+    "legends",
+    "night",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "lexith",
+    "fanfoxy",
+    "a",
+    "warcraft",
+    "world",
+    "sexy",
+    "hell",
+    "mum",
+    "nyx",
+    "rush",
+    "zilla",
+    "project",
+    "diana",
+    "work",
+    "progress",
+    "thomas",
+    "randby"
   ],
   "small": {
     "scale": 0.73,
     "offset_x": -1179,
     "offset_y": -403,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -601,
     "offset_y": -155,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -296,
     "offset_y": -166,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

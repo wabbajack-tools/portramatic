@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/DW-ocY8UMAAfeVa?format=jpg&name=900x900",
+  "source": "https://pbs.twimg.com/media/DW-ocY8UMAAfeVa?format=jpg\u0026name=900x900",
   "md5": "4E8F724291DC4CF4791BA8199DAC8D64",
   "tags": [
     "younglancelot",
@@ -7,27 +7,45 @@
     "red",
     "pencil",
     "lancelot",
-    "concept"
+    "concept",
+    "fate",
+    "grand",
+    "order",
+    "hercules",
+    "fan",
+    "camelot",
+    "anime",
+    "girl",
+    "characters",
+    "lvbu",
+    "xiangyu",
+    "xu",
+    "character",
+    "epic",
+    "artwork"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -167,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -84,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -223,
     "offset_y": -35,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

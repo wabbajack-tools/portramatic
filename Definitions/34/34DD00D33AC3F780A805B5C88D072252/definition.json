@@ -4,27 +4,42 @@
   "tags": [
     "outsider",
     "female",
-    "warrior"
+    "warrior",
+    "goblin",
+    "slayer",
+    "full",
+    "body",
+    "characters",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -330.5,
     "offset_y": -390,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999994,
     "offset_x": -107.5,
     "offset_y": -212,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999166666666663,
     "offset_x": -3,
     "offset_y": -139,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

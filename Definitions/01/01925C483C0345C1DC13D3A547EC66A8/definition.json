@@ -4,27 +4,59 @@
   "tags": [
     "blonde",
     "female",
-    "knight"
+    "knight",
+    "dc",
+    "raven",
+    "figure",
+    "from",
+    "comics",
+    "symbol",
+    "orc",
+    "warrior",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "night",
+    "orcs",
+    "ars",
+    "goetia",
+    "orobas",
+    "daniel",
+    "kamarudin",
+    "2019\u7684\u5C0F\u753B",
+    "\u75BE\u901F",
+    "k",
+    "work",
+    "progress",
+    "angel",
+    "secrets",
+    "pei",
+    "wei",
+    "li"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -279,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -172,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -12,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -15,25 +15,49 @@
     "painting",
     "art",
     "mage",
-    "female"
+    "female",
+    "pirate",
+    "photos",
+    "steampunk",
+    "male",
+    "queen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "\u3010\u5F0F\u795E\u7956\u5148-\u9B3C\u5FCD\u3011",
+    "bigball",
+    "gao",
+    "2020",
+    "digital",
+    "ninja",
+    "warrior"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -387,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -136,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -53,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

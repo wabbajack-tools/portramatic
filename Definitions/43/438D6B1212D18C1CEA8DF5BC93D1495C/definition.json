@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/da/1f/f7/da1ff72fb995eecd1e9d627ce4ad1e70.jpg",
   "md5": "438D6B1212D18C1CEA8DF5BC93D1495C",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "with",
+    "shadow",
+    "dark",
+    "red",
+    "black",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "01",
+    "gang9",
+    "d",
+    "beautiful",
+    "female",
+    "witch",
+    "cristina",
+    "lavi\u00F1a",
+    "iab2",
+    "ichisip",
+    "rr",
+    "women",
+    "concept"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -317,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -225,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -38,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -15,33 +15,56 @@
     "explore",
     "pale",
     "jeanne",
-    "d'arc",
+    "d\u0027arc",
     "alter",
     "fate/grand",
     "order",
     "mirco",
     "supernatural",
-    "creature"
+    "creature",
+    "fate",
+    "grand",
+    "fan",
+    "anime",
+    "girl",
+    "pin",
+    "up",
+    "liang",
+    "xing",
+    "overwatch",
+    "artwork",
+    "ro",
+    "valkyrie",
+    "randgris.",
+    "kate",
+    "fox",
+    "genderbent",
+    "shion",
+    "vayreceane",
+    "eafu"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -254.39999999999998,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -65.59999999999974,
     "offset_y": -2.400000000000432,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -4.805555555556566,
     "offset_y": -19.222222222223024,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

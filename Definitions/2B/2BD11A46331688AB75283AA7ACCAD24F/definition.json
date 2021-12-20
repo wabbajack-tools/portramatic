@@ -11,27 +11,57 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "half-orc",
+    "character",
+    "armor",
+    "dd",
+    "paladin",
+    "heavy",
+    "knight",
+    "samurai",
+    "medieval",
+    "knights",
+    "plate",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "assassin",
+    "erikas",
+    "perl",
+    "characters",
+    "valeriy",
+    "vegera",
+    "\u4E2A\u4EBA\u4F5C\u54C1",
+    "\u59DA",
+    "\u8FDC",
+    "persian",
+    "warrior"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -293.7999999999997,
     "offset_y": -53.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -173.19999999999976,
     "offset_y": -26.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -104.32407407407482,
     "offset_y": -47.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

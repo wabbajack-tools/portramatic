@@ -6,27 +6,37 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "medieval",
+    "thief",
+    "game",
+    "garrett",
+    "862",
+    "arr",
+    "4"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -150,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -207,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7400000000000007,
     "offset_x": -471,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

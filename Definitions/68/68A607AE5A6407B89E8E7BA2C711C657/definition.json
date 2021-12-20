@@ -11,27 +11,41 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "cartoon",
+    "makeover",
+    "sonic",
+    "anime",
+    "legend",
+    "zelda",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -58.39999999999981,
     "offset_y": -4.8000000000012335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -26.399999999999864,
     "offset_y": -36.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -81.69444444444412,
     "offset_y": -12.814814814815236,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

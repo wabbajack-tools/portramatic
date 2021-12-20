@@ -9,27 +9,54 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "dark",
+    "mage",
+    "drawing",
+    "anime",
+    "male",
+    "elf",
+    "orcs",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "sun",
+    "shangxiang",
+    "chang",
+    "qing",
+    "ophelia",
+    "hector",
+    "sevilla",
+    "l."
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -390,
     "offset_y": -301,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -38,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999992,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

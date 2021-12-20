@@ -4,27 +4,51 @@
   "tags": [
     "undead",
     "male",
-    "warrior"
+    "warrior",
+    "john",
+    "lennon",
+    "jasper",
+    "johns",
+    "map",
+    "piper",
+    "prints",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "assassin",
+    "guard",
+    "jeffrey",
+    "chang",
+    "gladiator",
+    "future",
+    "lucas",
+    "taillefesse",
+    "series",
+    "park"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -786.7999999999997,
     "offset_y": -315.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5201666666666664,
     "offset_x": -340.1999999999998,
     "offset_y": -62.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.541416666666666,
     "offset_x": -232.32407407407482,
     "offset_y": -55.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,47 @@
   "tags": [
     "male",
     "kaladin",
-    "stormlight"
+    "stormlight",
+    "brandon",
+    "sanderson",
+    "cosmere",
+    "books",
+    "warbreaker",
+    "thorn",
+    "alexandr",
+    "leskinen",
+    "with",
+    "\u0022ghost",
+    "tsushima_way",
+    "ghost\u0022",
+    "user",
+    "jungle",
+    "hunter",
+    ".",
+    "chern"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -455,
     "offset_y": -196,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -187,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -172,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

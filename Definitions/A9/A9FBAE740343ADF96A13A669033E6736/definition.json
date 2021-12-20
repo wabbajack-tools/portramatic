@@ -1,26 +1,46 @@
 {
-  "source": "https://external-preview.redd.it/JtCdJzkUcJommKqHAuxqP3vUOl-ix_ht2qXz9J3jruI.jpg?width=640&crop=smart&auto=webp&s=04df6442c2bbab9d44f0a09ca98f369c5c9aba70",
+  "source": "https://external-preview.redd.it/JtCdJzkUcJommKqHAuxqP3vUOl-ix_ht2qXz9J3jruI.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=04df6442c2bbab9d44f0a09ca98f369c5c9aba70",
   "md5": "A9FBAE740343ADF96A13A669033E6736",
   "tags": [
-    ""
+    "",
+    "anime",
+    "wolves",
+    "furry",
+    "wolf",
+    "pup",
+    "purple",
+    "furries",
+    "castlevania",
+    "lords",
+    "shadow",
+    "kaross",
+    "demon",
+    "slayer",
+    "vlad",
+    "bolotov"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -236,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -159,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": 0,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

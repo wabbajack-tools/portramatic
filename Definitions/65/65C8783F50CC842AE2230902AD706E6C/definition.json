@@ -22,25 +22,41 @@
     "female",
     "frost",
     "ice",
-    "mage"
+    "mage",
+    "banshee",
+    "d.va",
+    "\u00B7",
+    "axsens",
+    "scathach",
+    "caster",
+    "chai",
+    "zerox-ii",
+    "c.r.y.",
+    "agu",
+    "szwarc"
   ],
   "small": {
     "scale": 0.11999999999999923,
     "offset_x": -15,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.18999999999999928,
     "offset_x": -3,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -18,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

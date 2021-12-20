@@ -6,27 +6,51 @@
     "icequeen",
     "ice",
     "queen",
-    "concept"
+    "concept",
+    "male",
+    "vampire",
+    "wallpaper",
+    "drawing",
+    "anime",
+    "dark",
+    "elf",
+    "guys",
+    "clark",
+    "ocleasa",
+    "https://www.artstation.com/artwork/481z4q",
+    "2020",
+    "demon",
+    "slayer",
+    "inosuke",
+    "hashibira",
+    "fanart",
+    "cha",
+    "wak",
+    "2021",
+    "character"
   ],
   "small": {
     "scale": 0.36216666666666664,
     "offset_x": -1,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5433333333333333,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

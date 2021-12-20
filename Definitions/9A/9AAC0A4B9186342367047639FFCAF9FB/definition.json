@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/5pB-yULtMiVI1oCI7AgU896m8uSX8lCmFqZmRnhBiKA.jpg?auto=webp&s=b162ede3bccf83343377917fe27af85ddc8cfc95",
+  "source": "https://external-preview.redd.it/5pB-yULtMiVI1oCI7AgU896m8uSX8lCmFqZmRnhBiKA.jpg?auto=webp\u0026s=b162ede3bccf83343377917fe27af85ddc8cfc95",
   "md5": "9AAC0A4B9186342367047639FFCAF9FB",
   "tags": [
     "Barbarian",
@@ -7,27 +7,53 @@
     "Half-Orc",
     "Orc",
     "Shaman",
-    "Skald"
+    "Skald",
+    "orc",
+    "wizard",
+    "knight",
+    "dragon",
+    "vampire",
+    "manga",
+    "armor",
+    "skyrim",
+    "orcs",
+    "heavy",
+    "imperial",
+    "balazar",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "inquisitorialness",
+    "gerry",
+    "arthur",
+    "black",
+    "armour",
+    "jera",
+    "y",
+    "https://www"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -516,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -329,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -320,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

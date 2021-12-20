@@ -1,28 +1,46 @@
 {
-  "source": "https://preview.redd.it/a012xr35p8m51.jpg?width=2480&format=pjpg&auto=webp&s=55d55a6a54b6f7d7ebff8aa24a0d564ac95a9d35",
+  "source": "https://preview.redd.it/a012xr35p8m51.jpg?width=2480\u0026format=pjpg\u0026auto=webp\u0026s=55d55a6a54b6f7d7ebff8aa24a0d564ac95a9d35",
   "md5": "AA83030A39E6F6A8F90D8D6F07B8F233",
   "tags": [
-    ""
+    "",
+    "swan",
+    "princess",
+    "dungeons",
+    "dragons",
+    "brendan",
+    "milos",
+    "\u0022eurig",
+    "cursed",
+    "blade\u0022",
+    "pablo",
+    "fernandez",
+    "dark",
+    "historica",
+    "dylan",
+    "safford"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -1092.7999999999995,
     "offset_y": -476.79999999999905,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1081.6000000000008,
     "offset_y": -388.80000000000035,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -903.4444444444439,
     "offset_y": -365.22222222222206,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

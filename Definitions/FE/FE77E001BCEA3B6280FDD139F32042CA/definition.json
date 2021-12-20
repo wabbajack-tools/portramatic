@@ -2,27 +2,50 @@
   "source": "http://www.winonanelsonart.com/assets/necropolis_regent_by_winona_nelson.jpg",
   "md5": "FE77E001BCEA3B6280FDD139F32042CA",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "vampire",
+    "mtg",
+    "cards",
+    "masquerade",
+    "black",
+    "hydra",
+    "summoner",
+    "mina",
+    "dupont",
+    "issalys",
+    "https://www.artstation.com/artwork/z",
+    "ragnarok",
+    "abyss",
+    "knight",
+    "victor",
+    "ferraz",
+    "animal",
+    "warrior",
+    "oc\u00E9ane",
+    "coissard"
   ],
   "small": {
     "scale": 1.8500000000000008,
     "offset_x": -1427,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -617,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -576,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

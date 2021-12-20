@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/97/9e/17/979e17f2f7f3c123327fdd7f71ea602c.jpg",
   "md5": "6B4E4956C88F0F13C872AB0596C28A9A",
   "tags": [
-    ""
+    "",
+    "witch",
+    "hunter",
+    "artwork",
+    "warhammer",
+    "40k",
+    "concept",
+    "knight",
+    "armor",
+    "vampire",
+    "manga",
+    "assassin",
+    "erikas",
+    "perl",
+    "https://www",
+    "warp",
+    "lightning",
+    "skaven",
+    "diego",
+    "vila",
+    "lord",
+    "dead",
+    "dmitry",
+    "dalnev",
+    "2020"
   ],
   "small": {
     "scale": 1,
     "offset_x": -667,
     "offset_y": -190,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -618,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -416,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

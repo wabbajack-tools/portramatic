@@ -2,27 +2,55 @@
   "source": "https://cdn.inprnt.com/thumbs/63/fa/63fad19174485c28020748f0bedd00a7.jpg?response-cache-control=max-age=2628000",
   "md5": "4696109195B68439870DB93A982E4174",
   "tags": [
-    ""
+    "",
+    "elden",
+    "ring",
+    "memes",
+    "screenshots",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "armor",
+    "golden",
+    "knights",
+    "vampire",
+    "masquerade",
+    "gold",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "baroque",
+    "aristocrat",
+    "alessandro",
+    "bragalini",
+    "wildlife",
+    "patricio",
+    "clarey"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -125,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -127,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -48,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

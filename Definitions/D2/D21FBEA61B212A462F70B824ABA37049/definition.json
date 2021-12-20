@@ -2,27 +2,63 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/010/005/484/large/hyun-noh-.jpg?1522059139",
   "md5": "D21FBEA61B212A462F70B824ABA37049",
   "tags": [
-    ""
+    "",
+    "male",
+    "high",
+    "elves",
+    "elf",
+    "character",
+    "warrior",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "flats",
+    "king",
+    "li",
+    "zehao",
+    "characters",
+    "design",
+    "dungeons",
+    "yongwon",
+    "park",
+    "portraits",
+    "de",
+    "personnages",
+    "illustrations",
+    "red",
+    "evgeniy",
+    "petlya"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -348,
     "offset_y": -72.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -273.3333333333332,
     "offset_y": -91.55555555555549,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -62.2622107969155,
     "offset_y": -112.96143958868913,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,27 +11,62 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "female",
+    "wizard",
+    "drawing",
+    "artwork",
+    "elf",
+    "character",
+    "assassin",
+    "black",
+    "knight",
+    "dark",
+    "avengers",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "head_wear",
+    "hat",
+    "storm",
+    "queen",
+    "alexander",
+    "kretov",
+    "arillyth",
+    "redvale",
+    "fanfoxy",
+    "a",
+    "https://www",
+    "fancy",
+    "mermaid",
+    "aglaya",
+    "yunova"
   ],
   "small": {
     "scale": 1,
     "offset_x": -227.79999999999973,
     "offset_y": -89.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -68.19999999999976,
     "offset_y": -53.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6.324074074074815,
     "offset_y": -41.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

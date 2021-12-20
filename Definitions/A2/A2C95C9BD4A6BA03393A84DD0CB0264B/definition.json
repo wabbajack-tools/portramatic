@@ -6,27 +6,56 @@
     "female",
     "mage",
     "priest",
-    "warrior"
+    "warrior",
+    "human",
+    "spider",
+    "queen",
+    "girl",
+    "league",
+    "legends",
+    "gears",
+    "war",
+    "demon",
+    "hunter",
+    "heart",
+    "swarm",
+    "world",
+    "warcraft",
+    "veilena",
+    "andya",
+    "dewakinnara",
+    "sasha",
+    "braus",
+    "attack",
+    "titan",
+    "miqdad",
+    "kael\u0027thas",
+    "sunstrider",
+    "li",
+    "siqi"
   ],
   "small": {
     "scale": 1.0900000000000007,
     "offset_x": -336,
     "offset_y": -292,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8000000000000002,
     "offset_x": -158,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -26,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

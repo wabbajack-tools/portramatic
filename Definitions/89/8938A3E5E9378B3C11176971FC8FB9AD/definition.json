@@ -5,27 +5,47 @@
     "human",
     "female",
     "dancer",
-    "mage"
+    "mage",
+    "moonlight",
+    "blade",
+    "game",
+    "online",
+    "characters",
+    "4k",
+    "samurai",
+    "girls",
+    "twilight",
+    "knights",
+    "joseph",
+    "c-knight",
+    "minotaur",
+    "chase",
+    "nate",
+    "hallinan",
+    "concept"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -626.7999999999997,
     "offset_y": -185.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5401666666666665,
     "offset_x": -231.19999999999982,
     "offset_y": -2.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7814166666666662,
     "offset_x": -128.32407407407482,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

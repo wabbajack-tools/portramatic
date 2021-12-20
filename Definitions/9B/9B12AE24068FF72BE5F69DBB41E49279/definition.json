@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/ee/57/88/ee5788f0512f7f2bb699df3d0234f613.jpg",
   "md5": "9B12AE24068FF72BE5F69DBB41E49279",
   "tags": [
-    ""
+    "",
+    "african",
+    "american",
+    "anime",
+    "characters",
+    "black",
+    "skin",
+    "guy",
+    "character",
+    "girl",
+    "female",
+    "assassin",
+    "cultivation",
+    "qiwen",
+    "dong",
+    "nina",
+    "galinska",
+    "aurora",
+    "clint",
+    "cearley"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -179,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -85,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -10,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

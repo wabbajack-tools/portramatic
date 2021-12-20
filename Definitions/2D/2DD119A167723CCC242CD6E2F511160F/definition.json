@@ -25,27 +25,35 @@
     "ton",
     "presley",
     "https://www.artstation.com/artwork/dxna1",
-    "illustration"
+    "illustration",
+    "purple",
+    "crystal",
+    "necklace",
+    "light",
+    "https://www"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -441,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -319,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -768,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

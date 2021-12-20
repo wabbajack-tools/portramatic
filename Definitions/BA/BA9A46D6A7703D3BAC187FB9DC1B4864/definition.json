@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/15/0e/4d/150e4de7bae3a78ea59316d143fa9a3b.jpg",
   "md5": "BA9A46D6A7703D3BAC187FB9DC1B4864",
   "tags": [
-    ""
+    "",
+    "african",
+    "warrior",
+    "shield",
+    "drawing",
+    "warriors",
+    "drawings",
+    "tales",
+    "brimstones",
+    "mina",
+    "dupont",
+    "issalys",
+    "sister",
+    "battle",
+    "kilart",
+    "choe",
+    "heonhwa"
   ],
   "small": {
     "scale": 1.8300000000000007,
     "offset_x": -288,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -56,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.5399999999999894,
     "offset_x": -154,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

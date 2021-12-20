@@ -2,27 +2,61 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921403098130415696/arciera_figa_con_arco_dosso.jpg",
   "md5": "17F53FB9636DBBA64102DBD087DBB533",
   "tags": [
-    ""
+    "",
+    "artwork",
+    "ken",
+    "kelly",
+    "drawings",
+    "cover",
+    "female",
+    "assassin",
+    "conan",
+    "barbarian",
+    "dungeons",
+    "dragons",
+    "mike",
+    "azevedo",
+    "horizon",
+    "zero",
+    "dawn",
+    "comics",
+    "archer",
+    "athena",
+    "javier",
+    "charro",
+    "greece",
+    "moira",
+    "aka",
+    "oleander",
+    "lavender",
+    "tiefling",
+    "hexblade",
+    "warlock",
+    "olie",
+    "boldador"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -688,
     "offset_y": -358,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -279,
     "offset_y": -161,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -86,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

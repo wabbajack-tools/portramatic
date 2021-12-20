@@ -5,27 +5,51 @@
     "orc",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "fat",
+    "woman",
+    "beautiful",
+    "women",
+    "muscular",
+    "pirate",
+    "nimble",
+    "outrider",
+    "gunship",
+    "revolution",
+    "arte",
+    "war",
+    "pig",
+    "richard",
+    "huard",
+    "https://www",
+    "a",
+    "grim",
+    "fate",
+    "cristian",
+    "zamfir"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -281,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -149,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -76,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

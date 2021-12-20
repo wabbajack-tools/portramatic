@@ -2,27 +2,49 @@
   "source": "http://static.zerochan.net/Lucifer.%28Shingeki.no.Bahamut%29.full.2224589.jpg",
   "md5": "6A8BE8E416749E587887A2E8C16E0C8E",
   "tags": [
-    ""
+    "",
+    "rage",
+    "bahamut",
+    "anime",
+    "demon",
+    "shingeki",
+    "no",
+    "genesis",
+    "angel",
+    "guardian",
+    "angels",
+    "fallen",
+    "twilight",
+    "knights",
+    "joseph",
+    "c-knight",
+    "night",
+    "huntress",
+    "naruk",
+    "kod"
   ],
   "small": {
     "scale": 0.8841666666666664,
     "offset_x": -487,
     "offset_y": -211,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9073333333333332,
     "offset_x": -428,
     "offset_y": -209,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8404999999999994,
     "offset_x": -148,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

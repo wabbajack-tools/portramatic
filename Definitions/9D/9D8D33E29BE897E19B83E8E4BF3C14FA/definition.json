@@ -2,27 +2,49 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/065/244/medium/mario-wibisono-furoze-goddess-of-flame-ex-web.jpg?1479973896",
   "md5": "9D8D33E29BE897E19B83E8E4BF3C14FA",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "female",
+    "witch",
+    "dragon",
+    "fire",
+    "black",
+    "gangroad",
+    "choi",
+    "tae",
+    "hyun",
+    "gang",
+    "road",
+    "\u201C",
+    "you",
+    "will",
+    "die",
+    "yugin",
+    "maffioli"
   ],
   "small": {
     "scale": 1,
     "offset_x": -395,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -329,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

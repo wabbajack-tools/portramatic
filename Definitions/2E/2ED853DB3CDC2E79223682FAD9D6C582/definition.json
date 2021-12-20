@@ -4,27 +4,45 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "with",
+    "sword",
+    "shield",
+    "clip",
+    "magic",
+    "malkeor",
+    "kolo",
+    "j.",
+    "r.",
+    "coffron",
+    "sisters",
+    "battle",
+    "penitent",
+    "engine",
+    "jaime"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -1174,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3899999999999996,
     "offset_x": -592,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6096666666666664,
     "offset_x": -796,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

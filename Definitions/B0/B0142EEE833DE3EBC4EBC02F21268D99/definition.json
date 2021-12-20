@@ -11,27 +11,53 @@
     "contract",
     "worrior",
     "bikini",
-    "armor"
+    "armor",
+    "hades",
+    "greek",
+    "god",
+    "underworld",
+    "costume",
+    "kratos",
+    "orc",
+    "demon",
+    "hunter",
+    "cover",
+    "forgotten",
+    "suffering",
+    "javier",
+    "rodr\u00EDguez",
+    "kings",
+    "j",
+    "c",
+    "rocha",
+    "female",
+    "knight",
+    "sketch",
+    "hanh",
+    "chu"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -529,
     "offset_y": -225,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -311,
     "offset_y": -130,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,63 @@
   "source": "https://i.pinimg.com/564x/d0/38/b6/d038b698b097a852a730b425c0c7ec92.jpg",
   "md5": "E0335CB516C07622A0A09A0D3CAF2EAE",
   "tags": [
-    ""
+    "",
+    "character",
+    "concept",
+    "sketches",
+    "drawing",
+    "design",
+    "female",
+    "pirate",
+    "marvel",
+    "comics",
+    "heroes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "zagreus",
+    "alfonso",
+    "maesa",
+    "2021",
+    "hades",
+    "son",
+    "black",
+    "sand",
+    "a.e.",
+    "coggon",
+    "dark",
+    "characters",
+    "if",
+    "mario",
+    "was",
+    "overwatch",
+    "anthony",
+    "amorose",
+    "super"
   ],
   "small": {
     "scale": 1.8200000000000007,
     "offset_x": -394,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -189,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -36,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

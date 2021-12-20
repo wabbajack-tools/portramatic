@@ -2,27 +2,52 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921406674512801832/barbara_poderosa_che_comanda.jpg",
   "md5": "B18FD66B934AAED512705F71F5E2D831",
   "tags": [
-    ""
+    "",
+    "barbarian",
+    "viking",
+    "warrior",
+    "norse",
+    "maiden",
+    "drawing",
+    "pirate",
+    "marta",
+    "zoewings",
+    "zhang",
+    "https://www",
+    "song",
+    "nan",
+    "li",
+    "zed",
+    "wallpaper",
+    "anime",
+    "anima\u00E7\u00E3o",
+    "daring",
+    "challenger",
+    "felipe",
+    "gaona"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -734,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -309,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -288,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

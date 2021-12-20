@@ -6,27 +6,54 @@
     "male",
     "priest",
     "mage",
-    "prince"
+    "prince",
+    "dynasty",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "diao",
+    "chan",
+    "total",
+    "war",
+    "three",
+    "kingdoms",
+    "zongyi",
+    "elf",
+    "wizard",
+    "dionisis",
+    "milonas",
+    "archeress",
+    "julia",
+    "balyshkova",
+    "indian"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -650.7999999999997,
     "offset_y": -257.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.0301666666666667,
     "offset_x": -453.1999999999998,
     "offset_y": -143.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6714166666666661,
     "offset_x": -102.32407407407482,
     "offset_y": -41.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

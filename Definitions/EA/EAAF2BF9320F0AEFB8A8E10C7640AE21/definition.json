@@ -8,27 +8,55 @@
     "origins",
     "characters",
     "alistair",
-    "artwork"
+    "artwork",
+    "cullen",
+    "romance",
+    "inquisition",
+    "witcher",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "dark",
+    "elf",
+    "female",
+    "pirate",
+    "2014.06",
+    "namgwon",
+    "lee",
+    "http://www",
+    "omu",
+    "upied",
+    "https://www",
+    "return",
+    "arya",
+    "stark",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -264,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -69,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -92,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

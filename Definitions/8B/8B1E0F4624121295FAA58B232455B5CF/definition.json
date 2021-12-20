@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/37/72/5f/37725fba538dc13e3e23210ca38b342c.jpg",
   "md5": "8B1E0F4624121295FAA58B232455B5CF",
   "tags": [
-    ""
+    "",
+    "demon",
+    "hunter",
+    "concept",
+    "fan",
+    "male",
+    "female",
+    "assassin",
+    "world",
+    "warcraft",
+    "rogue",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc",
+    "\u919C",
+    "gunstaff",
+    "max",
+    "davenport",
+    "https://www.artstation.com/artwork/vbzen"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -187,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -130,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

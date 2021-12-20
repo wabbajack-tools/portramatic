@@ -2,27 +2,59 @@
   "source": "https://i.imgur.com/vB9rPeP.png",
   "md5": "C1E74E105187B354F2329EE8B4E771FD",
   "tags": [
-    ""
+    "",
+    "shaolin",
+    "monk",
+    "warrior",
+    "dark",
+    "elf",
+    "assassin",
+    "high",
+    "wood",
+    "arkeis",
+    "h\u00E9ros",
+    "aurore",
+    "folny",
+    "female",
+    "human",
+    "character",
+    "portraits",
+    "inspiration",
+    "cg",
+    "poster",
+    "jian",
+    "xu",
+    "illustration",
+    "design",
+    "concept",
+    "\u5584\u4E0E\u6076\u2014\u5C0F\u9053\u58EB",
+    "yun",
+    "zhang",
+    "2021",
+    "characters"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -521.9999999999966,
     "offset_y": -159.3333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999999,
     "offset_x": -313.33333333333337,
     "offset_y": -75.3333333333332,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -170.66666666666697,
     "offset_y": -63.99999999999943,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

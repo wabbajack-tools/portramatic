@@ -4,27 +4,45 @@
   "tags": [
     "elf",
     "male",
-    "warrior"
+    "warrior",
+    "kratos",
+    "dungeons",
+    "dragons",
+    "\u63D2\u56FE",
+    "\u59DA",
+    "\u8FDC",
+    "zombie",
+    "dragon",
+    "chun",
+    "lo",
+    "meng",
+    "xing",
+    "hun",
+    "zheng",
+    "huang"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -536,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -416,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -546,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,59 @@
   "source": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4b/02NX007-full.png/revision/latest?cb=20200428104851",
   "md5": "FB985F61E85CCD9DB4FE2CA1DD0C5D30",
   "tags": [
-    ""
+    "",
+    "swain",
+    "runes",
+    "rework",
+    "skins",
+    "league",
+    "legends",
+    "castlevania",
+    "lords",
+    "shadow",
+    "assassin",
+    "https://www.artstation.com/artwork/rrnvxj",
+    "dragon",
+    "slayer",
+    "concept",
+    "characters",
+    "artwork",
+    "croquemitaines",
+    "boogeymen",
+    "fan",
+    "wip",
+    "romeo",
+    "boury",
+    "vainglory",
+    "reza",
+    "mushk",
+    "rizvi",
+    "hero",
+    "rpg",
+    "character"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

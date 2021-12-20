@@ -2,27 +2,50 @@
   "source": "https://wallpapersmug.com/download/1600x1200/7acffc/fantasy-woman-with-sword-and-shield.jpg",
   "md5": "ABB484E6A19C13314BA2148811EB5231",
   "tags": [
-    ""
+    "",
+    "knight",
+    "sword",
+    "shield",
+    "wonder",
+    "woman",
+    "with",
+    "warrior",
+    "berserker",
+    "kanu",
+    "jaeheon",
+    "kim",
+    "2020",
+    "great",
+    "20141219",
+    "namgwon",
+    "lee",
+    "works",
+    "2014",
+    "autumn",
+    "fengli"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -1200.7999999999995,
     "offset_y": -291.2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -699.2000000000012,
     "offset_y": -185.5999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -555.8425925925924,
     "offset_y": -168.19444444444377,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

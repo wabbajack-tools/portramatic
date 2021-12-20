@@ -2,25 +2,51 @@
   "source": "https://www.scabard.com/user/Gazrok/image/death%20knight.jpg",
   "md5": "541E47BA30D06E376504242DAE658BCC",
   "tags": [
-    ""
+    "",
+    "undead",
+    "death",
+    "knight",
+    "ghast",
+    "armor",
+    "dark",
+    "heavy",
+    "black",
+    "samurai",
+    "medieval",
+    "knights",
+    "red",
+    "dead",
+    "ni",
+    "yipeng",
+    "#2d",
+    "character",
+    "ruda",
+    "creative",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -120,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -36,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": 80,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -4,27 +4,49 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "sniper",
+    "ghost",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "space",
+    "pirate",
+    "james",
+    "wetherell",
+    "https://www",
+    "demon",
+    "hunter",
+    "liu",
+    "pengcheng",
+    "fang",
+    "woo",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -496,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999997,
     "offset_x": -239,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7596666666666665,
     "offset_x": -202,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

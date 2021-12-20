@@ -6,27 +6,61 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "character",
+    "ideas",
+    "cartoon",
+    "girl",
+    "design",
+    "concept",
+    "assassin",
+    "anime",
+    "characters",
+    "yugio",
+    "amun",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "15",
+    "xie",
+    "hua",
+    "https://www.artstation.com/artwork/58w1w8",
+    "women",
+    "kingdom",
+    "heroes",
+    "soohyun",
+    "jin",
+    "2021",
+    "drawing",
+    "poses",
+    "dragon",
+    "magician",
+    "kim",
+    "sehoon"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -1139,
     "offset_y": -384,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8615833333333329,
     "offset_x": -671,
     "offset_y": -177,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7819999999999994,
     "offset_x": -396,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

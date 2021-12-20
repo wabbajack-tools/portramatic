@@ -7,27 +7,49 @@
     "archer",
     "hunter",
     "rogue",
-    "warrior"
+    "warrior",
+    "raven",
+    "queen",
+    "drawings",
+    "anime",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "daedric",
+    "liz",
+    "son",
+    "\u5DF4\u62C9\u55D2\u4EC0",
+    "dongming",
+    "yang",
+    "artwork",
+    "succubus",
+    "jaeyoung",
+    "jeong",
+    "elf"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -232,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.021583333333333,
     "offset_x": -105,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.33175,
     "offset_x": -36,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

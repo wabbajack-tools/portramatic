@@ -8,27 +8,41 @@
     "concept",
     "rpg",
     "league",
-    "legends"
+    "legends",
+    "blue",
+    "tiefling",
+    "warlock",
+    "horns",
+    "dark",
+    "anime",
+    "guys",
+    "girl",
+    "bleach",
+    "blood",
+    "elf"
   ],
   "small": {
     "scale": 0.27999999999999936,
     "offset_x": -11,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -1,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -10,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

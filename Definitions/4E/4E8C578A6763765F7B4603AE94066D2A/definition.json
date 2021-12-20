@@ -6,27 +6,59 @@
     "mage",
     "horn",
     "devil",
-    "tiefling"
+    "tiefling",
+    "concept",
+    "male",
+    "character",
+    "portraits",
+    "vampire",
+    "knight",
+    "manga",
+    "female",
+    "assassin",
+    "pirate",
+    "dark",
+    "elf",
+    "heavy",
+    "armor",
+    "clemente",
+    "daniil",
+    "ivanov",
+    "2020",
+    "spanish",
+    "conquistador",
+    "inspiration",
+    "artwork",
+    "hades",
+    "dongjun",
+    "seo",
+    "characters",
+    "mikhail",
+    "palamarchuk",
+    "rpg"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -440,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -157,
     "offset_y": -122,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -62,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

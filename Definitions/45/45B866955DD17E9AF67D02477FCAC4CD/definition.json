@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/39/fa/17/39fa17d4b0e87816b956ab53bbbedcf2.jpg",
   "md5": "45B866955DD17E9AF67D02477FCAC4CD",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "concept",
+    "warrior",
+    "dragon",
+    "mandalorian",
+    "power",
+    "knights",
+    "templar",
+    "lionheart",
+    "arena",
+    "fate",
+    "will",
+    "murai",
+    "fan",
+    "modo",
+    "alejandro",
+    "gonzalez",
+    "agudelo"
   ],
   "small": {
     "scale": 1,
     "offset_x": -366,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -236,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -78,
     "offset_y": 4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

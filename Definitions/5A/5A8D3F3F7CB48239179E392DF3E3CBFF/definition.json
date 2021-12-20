@@ -2,27 +2,49 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9242ec82-47cb-45c5-b7fb-fad26ff8d2b8/d3df5vf-5e101c92-992d-4177-aa5f-c1b38a781c93.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkyNDJlYzgyLTQ3Y2ItNDVjNS1iN2ZiLWZhZDI2ZmY4ZDJiOFwvZDNkZjV2Zi01ZTEwMWM5Mi05OTJkLTQxNzctYWE1Zi1jMWIzOGE3ODFjOTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tajp8ZcgbNeOhiI2_vMMiT3qiHVzKhZK_WHOyCWHDfA",
   "md5": "5A8D3F3F7CB48239179E392DF3E3CBFF",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "fan",
+    "concept",
+    "\u0026",
+    "artwork",
+    "\u7EA2\u53F6\u72E9",
+    "red",
+    "leaf",
+    "hunting",
+    "hua",
+    "lu",
+    "https://www",
+    "soohyun",
+    "jin",
+    "ranger",
+    "gallery",
+    "david",
+    "rogers"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -256,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -72,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": 0,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

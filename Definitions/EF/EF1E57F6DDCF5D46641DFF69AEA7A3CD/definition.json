@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/b4/5e/6d/b45e6d9936b448860e5de2815a33cd1c.jpg",
   "md5": "EF1E57F6DDCF5D46641DFF69AEA7A3CD",
   "tags": [
-    ""
+    "",
+    "human",
+    "male",
+    "character",
+    "wizard",
+    "elf",
+    "zombie",
+    "apocalypse",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "concept",
+    "kwyn",
+    "kiana",
+    "hamm",
+    "lutte",
+    "romain",
+    "leguay",
+    "artwork",
+    "design",
+    "illustration",
+    "felder",
+    "guga",
+    "lobato",
+    "https://www.artstation.com/artwork/vdqw64",
+    "rpg"
   ],
   "small": {
     "scale": 1,
     "offset_x": -208.66666666666657,
     "offset_y": -76.66666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -138.00000000000045,
     "offset_y": -68.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 66.66666666666674,
     "offset_y": 133.33333333333331,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

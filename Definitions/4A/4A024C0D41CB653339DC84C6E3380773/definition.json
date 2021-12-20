@@ -4,27 +4,42 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "justice",
+    "league",
+    "crisis",
+    "two",
+    "earth\u0027s",
+    "ax",
+    "maidenhair",
+    "tree",
+    "https://www",
+    "\u62F3\u51FBgirl",
+    "wang",
+    "enlei"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -935,
     "offset_y": -304,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -603,
     "offset_y": -180,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -470,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

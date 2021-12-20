@@ -6,27 +6,41 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "full",
+    "metal",
+    "alchemist",
+    "homunculus",
+    "greed",
+    "fullmetal",
+    "revised",
+    "skarlet",
+    "mk9",
+    "jf",
+    "ee"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -302,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7804999999999997,
     "offset_x": -36,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2302500000000003,
     "offset_x": -228,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

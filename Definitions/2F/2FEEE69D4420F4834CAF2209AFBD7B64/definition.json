@@ -1,28 +1,47 @@
 {
-  "source": "https://pbs.twimg.com/media/FF6uv3QaAAQPhLk?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/FF6uv3QaAAQPhLk?format=jpg\u0026name=4096x4096",
   "md5": "2FEEE69D4420F4834CAF2209AFBD7B64",
   "tags": [
-    "necromancer"
+    "necromancer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "heels",
+    "baseball",
+    "girl",
+    "sanghyun",
+    "yu",
+    "tiefling",
+    "warlock",
+    "arielle",
+    "levesque",
+    "dungeons"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -341.46666666666755,
     "offset_y": -57.53333333333339,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -80.26666666666654,
     "offset_y": -7.666666666666885,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -37.02777777777783,
     "offset_y": -13.592592592593405,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

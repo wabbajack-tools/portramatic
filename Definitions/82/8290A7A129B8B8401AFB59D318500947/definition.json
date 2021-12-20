@@ -16,27 +16,58 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "beautiful",
+    "elf",
+    "woman",
+    "dark",
+    "elves",
+    "fairy",
+    "female",
+    "cosplay",
+    "girls",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "alita",
+    "battle",
+    "angel",
+    "fanart",
+    "helio",
+    "clark",
+    "https://www.artstation.com/artwork",
+    "yakuza",
+    "hirada",
+    "hirao",
+    "https://www.artstation.com/artwork/qzznnz",
+    "male"
   ],
   "small": {
     "scale": 0.44999999999999973,
     "offset_x": -65.99999999999943,
     "offset_y": -2.6666666666666003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -66.22222222222229,
     "offset_y": -3.111111111111171,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -127.23050556983799,
     "offset_y": -2.6666666666664582,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

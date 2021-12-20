@@ -2,27 +2,52 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb66cf2e-63d0-451d-9e04-78ffc0e7919f/d60kx6w-65f34b0c-a230-43ca-9e64-fc217ad45863.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViNjZjZjJlLTYzZDAtNDUxZC05ZTA0LTc4ZmZjMGU3OTE5ZlwvZDYwa3g2dy02NWYzNGIwYy1hMjMwLTQzY2EtOWU2NC1mYzIxN2FkNDU4NjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4djZYj_JOSQcuArod5fax9Y-Clghkd8r6toawaqrd-A",
   "md5": "21532DF586F61282D79C714B16B723FF",
   "tags": [
-    ""
+    "",
+    "anime",
+    "red",
+    "knight",
+    "haired",
+    "female",
+    "castlevania",
+    "lords",
+    "shadow",
+    "symphony",
+    "night",
+    "lord",
+    "rings",
+    "death",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "jotun",
+    "denis",
+    "kornev",
+    "artwork",
+    "book"
   ],
   "small": {
     "scale": 1,
     "offset_x": -681,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -599,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -288,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

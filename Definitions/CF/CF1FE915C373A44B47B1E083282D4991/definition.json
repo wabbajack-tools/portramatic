@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/0b/f4/1b/0bf41be9133f1f8b2dfedc9e2efbb206.jpg",
   "md5": "CF1FE915C373A44B47B1E083282D4991",
   "tags": [
-    ""
+    "",
+    "full",
+    "body",
+    "knight",
+    "armor",
+    "black",
+    "medieval",
+    "plate",
+    "authentic",
+    "armors",
+    "soldier",
+    "l",
+    "j",
+    "cairnhust",
+    "set",
+    "adri\u00E1n",
+    "prado",
+    "character",
+    "design",
+    "bloodborne",
+    "dark",
+    "souls",
+    "lionheart",
+    "ji",
+    "ni"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -247,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -82,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -40,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

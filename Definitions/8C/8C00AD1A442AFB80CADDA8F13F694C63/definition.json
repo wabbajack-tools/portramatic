@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/09/dc/bf/09dcbf0f0ad85c3d6716283c1195ef57.jpg",
   "md5": "8C00AD1A442AFB80CADDA8F13F694C63",
   "tags": [
-    ""
+    "",
+    "wow",
+    "goblin",
+    "hobgoblin",
+    "concept",
+    "spider-man",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "gulath",
+    "diego",
+    "gisbert",
+    "llorens",
+    "clash",
+    "wonder",
+    "divinity",
+    "saga",
+    "\u5E7D\u9748\u8239\u9577",
+    "francis",
+    "tneh",
+    "pirate",
+    "dark",
+    "monkey",
+    "king",
+    "oliver",
+    "liu"
   ],
   "small": {
     "scale": 1.7200000000000006,
     "offset_x": -373,
     "offset_y": -165,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -43,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -10,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

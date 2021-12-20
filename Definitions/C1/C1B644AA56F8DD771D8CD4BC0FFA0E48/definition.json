@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/1e/65/ee/1e65ee5c27662d92d798476a62430242.jpg",
   "md5": "C1B644AA56F8DD771D8CD4BC0FFA0E48",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "vampire",
+    "male",
+    "female",
+    "assassin",
+    "black",
+    "assassin\u0027s",
+    "knight",
+    "armor",
+    "dragon",
+    "souls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "high",
+    "sword-bearer",
+    "leo",
+    "spy",
+    "inna",
+    "kozak",
+    "rogues",
+    "artwork",
+    "concept",
+    "characters",
+    "\u4E2D\u4E16\u7EAA\u9A91\u58EB",
+    "yunhao",
+    "zheng"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -407,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -188,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -62,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

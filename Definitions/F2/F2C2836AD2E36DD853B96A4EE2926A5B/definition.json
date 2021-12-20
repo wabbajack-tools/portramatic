@@ -2,27 +2,36 @@
   "source": "https://furrycdn.org/img/view/2020/7/23/11011.jpg",
   "md5": "F2C2836AD2E36DD853B96A4EE2926A5B",
   "tags": [
-    "Vixen"
+    "Vixen",
+    "guardians",
+    "galaxy",
+    "dungeons",
+    "dragons",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -298,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -166,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -4,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

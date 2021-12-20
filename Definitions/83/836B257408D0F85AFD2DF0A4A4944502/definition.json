@@ -3,27 +3,56 @@
   "md5": "836B257408D0F85AFD2DF0A4A4944502",
   "tags": [
     "human",
-    "female"
+    "female",
+    "sorceress",
+    "drawings",
+    "beautiful",
+    "witches",
+    "evil",
+    "costume",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "yvette",
+    "advance",
+    "xi",
+    "zhang",
+    "catgirl",
+    "oliver",
+    "liu",
+    "https://www.artstation.com/artwork/eg3o0",
+    "character",
+    "frost",
+    "elf",
+    "angan",
+    "kelana",
+    "characters",
+    "freelance",
+    "artist"
   ],
   "small": {
     "scale": 0.5999999999999998,
     "offset_x": -210,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -281,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -444,
     "offset_y": -172,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

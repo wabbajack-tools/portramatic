@@ -4,27 +4,52 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "assassin",
+    "orc",
+    "barbarians",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "superstring",
+    "bangku",
+    "an",
+    "women",
+    "character",
+    "rpg",
+    "sansa",
+    "redesign",
+    "magdalena",
+    "\u015Bwiderska",
+    "20200601",
+    "jonny",
+    "sun"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -679.5,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999994,
     "offset_x": -313.5,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999993,
     "offset_x": -31,
     "offset_y": -23,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/17/92/4b/17924b8c7e3a04d84b28355088f54dfa.jpg",
   "md5": "D5D4F95D860B3391A89EA83766DBDC43",
   "tags": [
-    ""
+    "",
+    "demon",
+    "warrior",
+    "drawings",
+    "hunter",
+    "concept",
+    "character",
+    "dungeons",
+    "dragons",
+    "medieval",
+    "knights",
+    "death",
+    "knight",
+    "orcs",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "mobius",
+    "ff",
+    "super",
+    "monk",
+    "laura",
+    "sava",
+    "zac",
+    "keeper",
+    "legend",
+    "cryprids"
   ],
   "small": {
     "scale": 1,
     "offset_x": -241,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -160,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 46,
     "offset_y": 118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/originals/66/a4/b5/66a4b57bb8698697e474e8b699a495f8.jpg",
   "md5": "6A7EF8D22B95679CEAB42E6FDC9158C2",
   "tags": [
-    ""
+    "",
+    "male",
+    "digital",
+    "head",
+    "grant",
+    "general",
+    "presidents",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -15,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -4,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

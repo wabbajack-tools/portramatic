@@ -19,27 +19,49 @@
     "cornelius",
     "jr",
     "yennefer",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "hexblade",
+    "mage",
+    "legend",
+    "zelda",
+    "ignaria",
+    "adam",
+    "barker",
+    "dungeons",
+    "dragons",
+    "ch\u0027kali",
+    "pale",
+    "nolhan",
+    "colombani",
+    "liliana",
+    "demonic",
+    "queen",
+    "bryan",
+    "foga\u00E7a",
+    "rosado"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -190,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -150,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -403,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

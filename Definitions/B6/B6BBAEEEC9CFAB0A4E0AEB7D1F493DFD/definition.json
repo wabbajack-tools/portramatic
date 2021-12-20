@@ -4,27 +4,48 @@
   "tags": [
     "undead",
     "female",
-    "warrior"
+    "warrior",
+    "battle",
+    "axe",
+    "statue",
+    "tyr",
+    "abe",
+    "taraky",
+    "https://www",
+    "gow",
+    "darkone",
+    "elite",
+    "glauco",
+    "longhi",
+    "kratos",
+    "pantheon",
+    "ii",
+    "warden",
+    "nicholas",
+    "rein"
   ],
   "small": {
     "scale": 0.71,
     "offset_x": -611,
     "offset_y": -502,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -156,
     "offset_y": -101,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -174,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

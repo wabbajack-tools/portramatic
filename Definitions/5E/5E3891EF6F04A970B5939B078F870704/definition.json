@@ -5,27 +5,45 @@
     "outsider",
     "female",
     "mage",
-    "queen"
+    "queen",
+    "league",
+    "legends",
+    "spider",
+    "tungning",
+    "hsu",
+    "baroness",
+    "izanami",
+    "jon",
+    "neimeister",
+    "palette",
+    "72",
+    "\u2605",
+    "exellero",
+    "2020",
+    "artwork"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -552,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999997,
     "offset_x": -442,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0193333333333334,
     "offset_x": -296,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

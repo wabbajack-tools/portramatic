@@ -2,27 +2,48 @@
   "source": "https://i.redd.it/4rrgn1wet4u61.jpg",
   "md5": "C318F35436FE711BAE54ECCED1342ED6",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "chaos",
+    "king",
+    "kong",
+    "bonecarver",
+    "www.redpencilart.com",
+    "red",
+    "pencil",
+    "minotaur",
+    "hak",
+    "sun",
+    "kim",
+    "https://www",
+    "champion",
+    "marauder",
+    "alex",
+    "boca"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -345.6000000000008,
     "offset_y": -266.40000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -358.4000000000001,
     "offset_y": -312.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -238.67592592592632,
     "offset_y": -249.88888888888846,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

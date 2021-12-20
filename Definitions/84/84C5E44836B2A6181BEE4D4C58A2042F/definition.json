@@ -2,27 +2,40 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/723/359/large/ina-wong-ame-done-comp.jpg?1568909936",
   "md5": "84C5E44836B2A6181BEE4D4C58A2042F",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "ramli",
+    "widyasmono",
+    "https://www.artstation.com/artwork/0qeqv",
+    "kirova",
+    "nina",
+    "ward",
+    "syndra",
+    "neo",
+    "lee"
   ],
   "small": {
     "scale": 1,
     "offset_x": -814.5,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -685,
     "offset_y": -83.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -638,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

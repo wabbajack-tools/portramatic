@@ -4,27 +4,51 @@
   "tags": [
     "outsider",
     "female",
-    "mage"
+    "mage",
+    "medusa",
+    "gorgon",
+    "head",
+    "monster",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "my",
+    "castlevania",
+    "alucard",
+    "version",
+    "vlad",
+    "iii",
+    "alle",
+    "page",
+    "she",
+    "wolf",
+    "le",
+    "gr\u00E8be"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -248.5,
     "offset_y": -189,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999994,
     "offset_x": -151.5,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899166666666665,
     "offset_x": -49,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

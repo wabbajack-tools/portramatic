@@ -3,27 +3,46 @@
   "md5": "9BA682AD941D084EAA9E095BD088A16F",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "freya",
+    "drawing",
+    "artwork",
+    "league",
+    "legends",
+    "greek",
+    "gods",
+    "death",
+    "knight",
+    "vinicius",
+    "damianos",
+    "shellz",
+    "character",
+    "anubis",
+    "sangeetha",
+    "sudhakaran"
   ],
   "small": {
     "scale": 2.289999999999995,
     "offset_x": -681,
     "offset_y": -354,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6200000000000006,
     "offset_x": -377,
     "offset_y": -194,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1199999999999941,
     "offset_x": -10,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

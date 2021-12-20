@@ -2,27 +2,59 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/012/787/627/large/nezt-oss-reg-nezt-black-h-copia-2.jpg?1536529139",
   "md5": "739AFBD62A580659186C4F166490C294",
   "tags": [
-    ""
+    "",
+    "black",
+    "hole",
+    "light",
+    "science",
+    "physics",
+    "alien",
+    "warrior",
+    "master",
+    "orion",
+    "death",
+    "knight",
+    "dungeons",
+    "dragons",
+    "illustrations",
+    "for",
+    "\u0022wizard\u0027s",
+    "dream\u0022",
+    "tomasz",
+    "ryger",
+    "character",
+    "san",
+    "tez",
+    "dark",
+    "illustration",
+    "beast",
+    "concept",
+    "ii",
+    "d.",
+    "rock-art"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -607.9999999999976,
     "offset_y": -486.3999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -228.79999999999984,
     "offset_y": -193.60000000000008,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -164.99074074074088,
     "offset_y": -121.74074074074076,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

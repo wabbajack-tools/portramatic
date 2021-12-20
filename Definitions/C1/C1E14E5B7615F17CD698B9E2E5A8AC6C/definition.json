@@ -5,27 +5,49 @@
     "female",
     "human",
     "warrior",
-    "samurai"
+    "samurai",
+    "geisha",
+    "women",
+    "costume",
+    "kratos",
+    "league",
+    "legends",
+    "dragon",
+    "armor",
+    "star",
+    "academy",
+    "pictures",
+    "concept",
+    "elderwood\u002B1s",
+    "yuanbin",
+    "hu",
+    "https://www.artstation.com/artwork/k1wa2",
+    "knight",
+    "john",
+    "\u5C0F\u767D\u9F99"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -471,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -389,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -578,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

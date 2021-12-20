@@ -2,27 +2,45 @@
   "source": "https://static.wikia.nocookie.net/throne-of-magical-arcana/images/d/dd/682023.png/revision/latest?cb=20200706221345",
   "md5": "45191F2A743BD9D71A6E92CE9FB1AEFD",
   "tags": [
-    ""
+    "",
+    "tarot",
+    "arcana",
+    "cards",
+    "game",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "disney",
+    "princess",
+    "sailor",
+    "moon",
+    ".-.\u6700\u540E\u4FEE\u6539",
+    "haha",
+    "chen"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -103,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -77,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -22,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

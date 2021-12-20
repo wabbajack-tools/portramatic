@@ -8,25 +8,51 @@
     "painting",
     "art",
     "elf",
-    ""
+    "",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "guardians",
+    "galaxy",
+    "league",
+    "legends",
+    "dungeons",
+    "dragons",
+    "merlin",
+    "merilliza",
+    "chan",
+    "characters",
+    "ienera",
+    "astri",
+    "lohne",
+    "assassin",
+    "tiefling",
+    "flo",
+    "young"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -279.99999999999994,
     "offset_y": -273.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -96.39999999999998,
     "offset_y": -165.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

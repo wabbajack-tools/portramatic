@@ -2,25 +2,35 @@
   "source": "https://i.pinimg.com/564x/ea/5a/02/ea5a020f31fe7c45ffa3066c51fda321.jpg",
   "md5": "4512EC6B70E4446977F8EA39D701D776",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "guys",
+    "drawings",
+    "chibi"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -130,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -95,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9900000000000009,
     "offset_x": -200,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

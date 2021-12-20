@@ -2,27 +2,58 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921404651377688617/assassina_cultista_con_cane_che_spia.jpg",
   "md5": "8923EB2E7227BCED088121A5420FEB71",
   "tags": [
-    ""
+    "",
+    "wolf",
+    "girl",
+    "warrior",
+    "female",
+    "with",
+    "drawings",
+    "league",
+    "legends",
+    "alien",
+    "vs",
+    "predator",
+    "underworld",
+    "rise",
+    "lycans",
+    "limkuk",
+    ".",
+    "batman",
+    "redesign",
+    "costumes",
+    "character",
+    "02",
+    "aleksandar",
+    "saric",
+    "https://www.artstation.com/artwork",
+    "artworks",
+    "2021",
+    "spirit",
+    "animal"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -790,
     "offset_y": -236,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -303,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -6,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

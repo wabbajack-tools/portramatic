@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/originals/a2/14/90/a21490ace77ec8dd41513e4cc25e1958.png",
   "md5": "A5B4C292F433B005AAF565235D9A9343",
   "tags": [
-    ""
+    "",
+    "body",
+    "male",
+    "mage",
+    "chinese",
+    "anime",
+    "chaos",
+    "warrior",
+    "kratos",
+    "lich",
+    "king",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "deck-heroes\u9879\u76EE\u56FE\u516D\u5F20",
+    "shan",
+    "dark",
+    "character",
+    "creatures",
+    "minotaur",
+    "hak",
+    "sun",
+    "kim",
+    "https://www.artstation.com/artwork/exom0",
+    "spirit",
+    "animal",
+    "butcher",
+    "vs.",
+    "strongman",
+    "john",
+    "mueller"
   ],
   "small": {
     "scale": 1.4713333333333325,
     "offset_x": -363,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7653333333333343,
     "offset_x": -72,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0871666666666666,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

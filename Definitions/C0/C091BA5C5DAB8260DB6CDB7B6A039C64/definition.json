@@ -5,27 +5,39 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "mtg",
+    "lich",
+    "card",
+    "undergrowth",
+    "who",
+    "rest",
+    "forest",
+    "ina",
+    "wong"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -456.7999999999997,
     "offset_y": -120.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -215.19999999999976,
     "offset_y": -9.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -432.3240740740748,
     "offset_y": -37.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

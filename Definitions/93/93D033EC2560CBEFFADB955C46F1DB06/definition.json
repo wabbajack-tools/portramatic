@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/64/8a/8d/648a8da95eb9a0b1cca36e9b3e973608.jpg",
   "md5": "93D033EC2560CBEFFADB955C46F1DB06",
   "tags": [
-    ""
+    "",
+    "mag",
+    "har",
+    "orc",
+    "maghar",
+    "orcs",
+    "archdruid",
+    "scorpion",
+    "queen",
+    "jy",
+    "choe",
+    "girl",
+    "hua",
+    "lu",
+    "cthulhu",
+    "cool",
+    "artwork",
+    "terrorblade",
+    "david",
+    "simons",
+    "https://www"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -377,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.18999999999999928,
     "offset_x": -22,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -16,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

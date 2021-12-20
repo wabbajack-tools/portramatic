@@ -3,27 +3,48 @@
   "md5": "7AFAB6DA284BC7190FA0B7E021423439",
   "tags": [
     "female",
-    "monk"
+    "monk",
+    "shadow",
+    "colossus",
+    "lord",
+    "rings",
+    "anakin",
+    "padme",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "lion",
+    "warrior",
+    "concept",
+    "daniel",
+    "rubio"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -373,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -99,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -187,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

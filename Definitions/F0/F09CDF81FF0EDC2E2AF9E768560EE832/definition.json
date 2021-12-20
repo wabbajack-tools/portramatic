@@ -4,27 +4,59 @@
   "tags": [
     "Regal",
     "Sorceror",
-    "robe"
+    "robe",
+    "bound",
+    "flame",
+    "armor",
+    "ps4",
+    "game",
+    "orc",
+    "warrior",
+    "thrones",
+    "spartan",
+    "samurai",
+    "knight",
+    "half-elf",
+    "barbarians",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "2021",
+    "barbarian",
+    "dungeons",
+    "https://www.artstation.com/artwork/1yeae",
+    "concept",
+    "characters",
+    "monster",
+    "epic",
+    "fengyun",
+    "mingzhu",
+    "yang",
+    "men",
+    "dress",
+    "gothic"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -443,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -454,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -14,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

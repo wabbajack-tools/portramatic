@@ -11,27 +11,37 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "magical",
+    "creature",
+    "cat",
+    "mythical",
+    "creatures",
+    "legendary",
+    "https://www.artstation.com/artwork/a9wrro"
   ],
   "small": {
     "scale": 1.9000000000000008,
     "offset_x": -457.7999999999997,
     "offset_y": -162.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -185.19999999999976,
     "offset_y": -50.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -74.32407407407482,
     "offset_y": -65.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

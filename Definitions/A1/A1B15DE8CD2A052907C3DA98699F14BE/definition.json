@@ -2,25 +2,34 @@
   "source": "https://www.goha.ru/s/A:N4/kg/XC4FhKKwnR.png",
   "md5": "A1B15DE8CD2A052907C3DA98699F14BE",
   "tags": [
-    ""
+    "",
+    "sk",
+    "lineage",
+    "victoria",
+    "sokolova"
   ],
   "small": {
     "scale": 1,
     "offset_x": -175,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -105,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

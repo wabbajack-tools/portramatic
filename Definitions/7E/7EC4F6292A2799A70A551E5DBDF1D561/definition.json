@@ -11,27 +11,40 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "manga",
+    "anime",
+    "girl",
+    "forward",
+    "attack",
+    "titan",
+    "female",
+    "assassin",
+    "dark",
+    "elf"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -97.79999999999973,
     "offset_y": -71.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -107.19999999999976,
     "offset_y": -77.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8.324074074074815,
     "offset_y": -27.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

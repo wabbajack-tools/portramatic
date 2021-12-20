@@ -8,27 +8,48 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "swamp",
+    "traxos",
+    "muldrotha",
+    "demon",
+    "me",
+    "piotr",
+    "krezelewski",
+    "witch",
+    "young",
+    "hwan",
+    "lee",
+    "dormammu",
+    "concept",
+    "4",
+    "for",
+    "dr.",
+    "strange",
+    "jerad"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -501,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -325,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -488,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

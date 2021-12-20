@@ -5,27 +5,41 @@
     "elf",
     "female",
     "assassin",
-    "rogue"
+    "rogue",
+    "mage",
+    "drawings",
+    "dark",
+    "outfit",
+    "yuri",
+    "fire",
+    "emblem",
+    "three",
+    "houses",
+    "hellyon",
+    "white"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -288,
     "offset_y": -292,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999993,
     "offset_x": -36,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5993333333333332,
     "offset_x": 0,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

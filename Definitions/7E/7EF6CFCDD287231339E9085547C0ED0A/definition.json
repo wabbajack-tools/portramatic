@@ -5,27 +5,40 @@
     "tiefling",
     "female",
     "mage",
-    "dancer"
+    "dancer",
+    "\u5C0F\u72D0\u72F8",
+    "fei",
+    "liu",
+    "fanart",
+    "yi-zhang",
+    "pan",
+    "ahri",
+    "league",
+    "legends",
+    "artwork"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -143,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -33,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": 0,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

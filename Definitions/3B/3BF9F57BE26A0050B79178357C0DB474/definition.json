@@ -25,27 +25,49 @@
     "tan",
     "mobius",
     "final",
-    "men"
+    "men",
+    "succubus",
+    "hair",
+    "succubi",
+    "dragon",
+    "human",
+    "female",
+    "assassin",
+    "demon",
+    "hunter",
+    "armor",
+    "faeries",
+    "taras",
+    "susak",
+    "2020",
+    "character",
+    "skeleton",
+    "koiranuk",
+    "belov",
+    "pavel"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -655.1428571428575,
     "offset_y": -138.57142857142853,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -431.7142857142858,
     "offset_y": -85.42857142857144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -161.1428571428571,
     "offset_y": -43.57142857142867,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

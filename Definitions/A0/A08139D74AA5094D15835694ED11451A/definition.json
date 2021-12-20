@@ -4,27 +4,45 @@
   "tags": [
     "female",
     "human",
-    "mage"
+    "mage",
+    "liliana",
+    "vess",
+    "chandra",
+    "card",
+    "league",
+    "legends",
+    "vampire",
+    "cavern",
+    "wong",
+    "yinyi",
+    "hopefully",
+    "junjie",
+    "gao",
+    "anime",
+    "artwork"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -114,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -69,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -44,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

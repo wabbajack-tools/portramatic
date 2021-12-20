@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/e4/7b/f4/e47bf420eb4a3c5315667a2a4a3a8a89.jpg",
   "md5": "FB125760DD1265B4AAF2B5F5D658BA14",
   "tags": [
-    ""
+    "",
+    "human",
+    "male",
+    "cleric",
+    "female",
+    "characters",
+    "yugio",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "\uC232\uC758",
+    "\uB9C8\uBC95\uC0AC",
+    "chaeyoung",
+    "won",
+    "hibiki",
+    "tachibana(from",
+    "senki",
+    "zesshou",
+    "symphogear",
+    "donghyun",
+    "shin(mar10",
+    "character"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -234,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -121,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9400000000000008,
     "offset_x": -202,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

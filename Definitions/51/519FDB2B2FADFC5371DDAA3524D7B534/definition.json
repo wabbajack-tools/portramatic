@@ -10,27 +10,61 @@
     "edition",
     "polar",
     "legends",
-    "women"
+    "women",
+    "neoartcore",
+    "lazy",
+    "girl",
+    "ada",
+    "zelda",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "gloves",
+    "qareven",
+    "ayyasap",
+    "\uFE0F",
+    "fate",
+    "grand",
+    "order",
+    "avetetsuya",
+    "studios",
+    "take",
+    "a",
+    "how",
+    "i",
+    "cast",
+    "spell",
+    "guys",
+    "io",
+    "tikhaya"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -108,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -53,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -7,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

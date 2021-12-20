@@ -11,27 +11,57 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "sarkhan",
+    "vol",
+    "planeswalker",
+    "mtg",
+    "myr",
+    "star",
+    "wars",
+    "sith",
+    "ravage",
+    "brian",
+    "hagan",
+    "card",
+    "games",
+    "art.",
+    "steppen",
+    "wolf",
+    "characters",
+    "character",
+    "design",
+    "maniacal",
+    "rage",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "digital",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -314.7999999999997,
     "offset_y": -50.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -122.19999999999976,
     "offset_y": -11.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -34.324074074074815,
     "offset_y": -9.601851851852643,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

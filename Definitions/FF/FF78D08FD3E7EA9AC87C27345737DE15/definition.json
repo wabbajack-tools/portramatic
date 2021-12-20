@@ -2,27 +2,62 @@
   "source": "https://static.wikia.nocookie.net/forgottenrealms/images/4/44/Mirt-5e.jpg/revision/latest?cb=20181208035731",
   "md5": "FF78D08FD3E7EA9AC87C27345737DE15",
   "tags": [
-    ""
+    "",
+    "faerie",
+    "dragon",
+    "dungeons",
+    "dragons",
+    "armors",
+    "knight",
+    "armor",
+    "plate",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "characters",
+    "yigit",
+    "koroglu",
+    "2020",
+    "monster",
+    "cursed",
+    "infantry",
+    "craig",
+    "matchett",
+    "game",
+    "elf",
+    "thief",
+    "sanha",
+    "kim",
+    "https://www.artstation.com/artwork/3rb2a",
+    "character"
   ],
   "small": {
     "scale": 1.3200000000000012,
     "offset_x": -285,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -39,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

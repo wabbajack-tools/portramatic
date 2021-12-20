@@ -17,27 +17,35 @@
     "riikka",
     "sofia",
     "riekkinen",
-    "2021"
+    "2021",
+    "middle-aged",
+    "shower",
+    "gorgeous",
+    "woman",
+    "full"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -75,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -12,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -26,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

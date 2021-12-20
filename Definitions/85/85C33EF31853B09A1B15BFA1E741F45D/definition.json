@@ -5,27 +5,56 @@
     "elf",
     "male",
     "rogue",
-    "mage"
+    "mage",
+    "vampire",
+    "magic",
+    "baron",
+    "sengir",
+    "mtg",
+    "lich",
+    "king",
+    "league",
+    "legends",
+    "killer",
+    "instinct",
+    "dreamwheel",
+    "assassin",
+    "johnny",
+    "morrow",
+    "produ\u00E7\u00E3o",
+    "de",
+    "arte",
+    "ilustra\u00E7\u00E3o",
+    "terror",
+    "viking",
+    "clan",
+    "boss",
+    "disir",
+    "jose",
+    "brand"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -1146.7999999999997,
     "offset_y": -157.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -683.1999999999998,
     "offset_y": -79.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -628.3240740740748,
     "offset_y": -25.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

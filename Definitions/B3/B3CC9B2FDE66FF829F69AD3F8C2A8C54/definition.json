@@ -8,27 +8,44 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "mythical",
+    "banshee",
+    "celtic",
+    "fairy",
+    "legendary",
+    "creatures",
+    "soul",
+    "keeper",
+    "rick",
+    "troula",
+    "search",
+    "party",
+    "steven",
+    "tobiasz"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -267,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -223,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -354,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

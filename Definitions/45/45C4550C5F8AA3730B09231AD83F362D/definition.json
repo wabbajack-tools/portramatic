@@ -4,27 +4,51 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "jeanne",
+    "d\u0027arc",
+    "fate",
+    "joan",
+    "arc",
+    "painting",
+    "de",
+    "kui",
+    "bu",
+    "character",
+    "design",
+    "j",
+    "k",
+    "devil",
+    "may",
+    "cry",
+    "5",
+    "wei",
+    "nian",
+    "yang",
+    "\u7F8A"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -819.5,
     "offset_y": -181,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999995,
     "offset_x": -463.5,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999166666666665,
     "offset_x": -541,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

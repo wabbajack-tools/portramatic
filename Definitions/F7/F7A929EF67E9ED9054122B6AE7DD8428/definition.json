@@ -5,27 +5,40 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "catwoman",
+    "vampirella",
+    "space",
+    "who",
+    "is",
+    "tabaxi",
+    "blood",
+    "hunter",
+    "angelo",
+    "palicte"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -344.9999999999999,
     "offset_y": -381.9999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -49.99999999999977,
     "offset_y": -152.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -43.222222222222854,
     "offset_y": -193.61111111111086,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

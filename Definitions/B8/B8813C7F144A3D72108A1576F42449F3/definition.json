@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/75/70/1c/75701c6b239abc626fd5f2f80dd297ca.jpg",
   "md5": "B8813C7F144A3D72108A1576F42449F3",
   "tags": [
-    ""
+    "",
+    "anime",
+    "dark",
+    "assassin",
+    "vampire",
+    "mask",
+    "knight",
+    "armor",
+    "female",
+    "manga",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dress_shoes",
+    "yoon",
+    "seseon",
+    "https://www",
+    "gerodonna",
+    "roman",
+    "kupriyanov",
+    "stealth-archer",
+    "dmitry",
+    "morozov",
+    "leather"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -288,
     "offset_y": -188,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -132,
     "offset_y": -142,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.38,
     "offset_x": -42,
     "offset_y": -194,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

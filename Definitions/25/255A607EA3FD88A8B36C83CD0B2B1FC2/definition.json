@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/49/d8/c1/49d8c158f1e245a200e977db24be556e.jpg",
   "md5": "255A607EA3FD88A8B36C83CD0B2B1FC2",
   "tags": [
-    ""
+    "",
+    "human",
+    "spider",
+    "queen",
+    "girl",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "spider-man",
+    "marvel",
+    "comics",
+    "mother",
+    "dragons",
+    "francisco",
+    "garc\u00EDa",
+    "2020",
+    "game",
+    "thrones",
+    "commissions",
+    "salamandra",
+    "san",
+    "ereshkigal",
+    "fanart",
+    "phichaya(scykiazor",
+    "boonton"
   ],
   "small": {
     "scale": 1,
     "offset_x": -319,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -233,
     "offset_y": -267,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -144,
     "offset_y": -266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

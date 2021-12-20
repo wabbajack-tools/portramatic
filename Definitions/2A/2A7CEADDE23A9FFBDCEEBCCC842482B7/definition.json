@@ -9,27 +9,48 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "welcome",
+    "from",
+    "village",
+    "ladies",
+    "lady",
+    "stripping",
+    "naughty",
+    "hairy",
+    "pin",
+    "up",
+    "league",
+    "legends",
+    "cosplay",
+    "girls",
+    "elfine",
+    "24",
+    "lamuserie",
+    "antoine"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -244,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -1,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3299999999999998,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

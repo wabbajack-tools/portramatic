@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.Vy7m2BDobHWbGt5tt3uEYwHaJE%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.Vy7m2BDobHWbGt5tt3uEYwHaJE%26pid%3DApi\u0026f=1",
   "md5": "68ADF073404BB08446E617A17F12BA0C",
   "tags": [
     "human",
@@ -16,27 +16,41 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "male",
+    "elf",
+    "warrior",
+    "with",
+    "white",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5299999999999998,
     "offset_x": -27.777777777777203,
     "offset_y": -11.111111111111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -10.222222222222399,
     "offset_y": -6.2222222222224275,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8100000000000007,
     "offset_x": -73.8628963153385,
     "offset_y": -9.782347900599518,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

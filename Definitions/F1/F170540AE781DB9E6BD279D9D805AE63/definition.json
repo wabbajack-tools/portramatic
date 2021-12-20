@@ -2,25 +2,43 @@
   "source": "https://i.imgur.com/0Aa43Ov.jpeg",
   "md5": "F170540AE781DB9E6BD279D9D805AE63",
   "tags": [
-    ""
+    "",
+    "orcs",
+    "black",
+    "saintess",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "utg\u00E5rda-loke",
+    "johan",
+    "egerkrans",
+    "red",
+    "serf",
+    "juan",
+    "herrerart"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -493,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -274,
     "offset_y": -165,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -366,
     "offset_y": -268,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

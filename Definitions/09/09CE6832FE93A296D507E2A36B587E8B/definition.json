@@ -8,27 +8,41 @@
     "warrior",
     "rogue",
     "dancer",
-    "mage"
+    "mage",
+    "shuten",
+    "doji",
+    "fate",
+    "grand",
+    "order",
+    "shutendouji",
+    "manga",
+    "ibaraki",
+    "thanos",
+    "genderbend",
+    "avengers"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -290,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -54,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -2,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

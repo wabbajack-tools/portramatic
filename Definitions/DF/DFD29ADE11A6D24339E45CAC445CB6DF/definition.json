@@ -4,27 +4,61 @@
   "tags": [
     "female",
     "human",
-    "spellcaster"
+    "spellcaster",
+    "yennefer",
+    "from",
+    "witcher",
+    "books",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "kaichen",
+    "yan\u0027s",
+    "submission",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "character",
+    "design",
+    "some",
+    "costume",
+    "illustrations",
+    "done",
+    "for",
+    "emerald",
+    "city",
+    "andrei",
+    "riabovitchev",
+    "costumes"
   ],
   "small": {
     "scale": 1,
     "offset_x": -379,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -316,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -144,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

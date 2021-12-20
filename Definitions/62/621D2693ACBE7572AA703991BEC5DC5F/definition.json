@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/4f/02/b5/4f02b5d696f8973c14b69e8064fe36c0.jpg",
   "md5": "621D2693ACBE7572AA703991BEC5DC5F",
   "tags": [
-    ""
+    "",
+    "anime",
+    "character",
+    "inspiration",
+    "writing",
+    "girl",
+    "orc",
+    "warrior",
+    "orcs",
+    "barbarians",
+    "lotc",
+    "master",
+    "pirate",
+    "juan",
+    "livia",
+    "prima",
+    "pirates",
+    "legend",
+    "necromancer",
+    "chengli",
+    "chen",
+    "creatures",
+    "monsters",
+    "demons",
+    "warlords",
+    "sheep",
+    "\u6EC4",
+    "\u6D3A",
+    "illustration"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -49,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -62,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.079999999999999,
     "offset_x": -94,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

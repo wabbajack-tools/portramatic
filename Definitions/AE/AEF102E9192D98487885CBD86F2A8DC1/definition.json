@@ -2,27 +2,56 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/011/549/677/large/nezt-oss-high-emperor-ildanev-2-nezt-x.jpg?1530141880",
   "md5": "AEF102E9192D98487885CBD86F2A8DC1",
   "tags": [
-    ""
+    "",
+    "godzilla",
+    "king",
+    "monsters",
+    "warhammer",
+    "40k",
+    "elder",
+    "scrolls",
+    "online",
+    "conan",
+    "barbarian",
+    "orcs",
+    "david",
+    "goliath",
+    "2d",
+    "conceptart",
+    "moky",
+    "lin",
+    "https://www",
+    "deck-heroes\u9879\u76EE\u56FE\u516D\u5F20",
+    "shan",
+    "dark",
+    "turiel",
+    "angel",
+    "mountain",
+    "peter",
+    "mohrbacher"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -520.7999999999995,
     "offset_y": -301.6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -215.19999999999993,
     "offset_y": -145.5999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -136.1574074074074,
     "offset_y": -91.30555555555566,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

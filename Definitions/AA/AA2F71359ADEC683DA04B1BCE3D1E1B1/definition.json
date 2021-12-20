@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/f3/1d/b8/f31db877c40c6c98d709429d3196d2b3.jpg",
   "md5": "AA2F71359ADEC683DA04B1BCE3D1E1B1",
   "tags": [
-    ""
+    "",
+    "beautiful",
+    "concept",
+    "infection",
+    "drawing",
+    "infected",
+    "knight",
+    "armor",
+    "dragon",
+    "heavy",
+    "plate",
+    "medieval",
+    "knights",
+    "sniper",
+    "ghost",
+    "warrior",
+    "lamellar",
+    "mortal",
+    "kombat",
+    "11",
+    "damian",
+    "audino",
+    "winter",
+    "character",
+    "total",
+    "war",
+    "three",
+    "kingdoms-character",
+    "design"
   ],
   "small": {
     "scale": 1,
     "offset_x": -466,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -379,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -296,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

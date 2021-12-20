@@ -5,27 +5,49 @@
     "human",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "kingmaker",
+    "wizard",
+    "portraits",
+    "druid",
+    "black",
+    "female",
+    "assassin",
+    "mercenaries",
+    "wayne",
+    "wu",
+    "https://www.artstation.com/artwork/xaqyn",
+    "awesome",
+    "armors",
+    "a",
+    "soft",
+    "man",
+    "jihwan",
+    "ha",
+    "https://www.artstation.com/artwork/rrbmnl"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -419.7999999999997,
     "offset_y": -94.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -252.19999999999976,
     "offset_y": -41.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -66.32407407407482,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

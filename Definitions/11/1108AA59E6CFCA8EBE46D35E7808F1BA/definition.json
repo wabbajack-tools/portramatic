@@ -2,25 +2,50 @@
   "source": "https://d.furaffinity.net/art/hotchkisstank/1529320679/1529320679.hotchkisstank_fox-magician.png",
   "md5": "1108AA59E6CFCA8EBE46D35E7808F1BA",
   "tags": [
-    ""
+    "",
+    "elemental",
+    "wizard",
+    "werewolf",
+    "wolf",
+    "league",
+    "legends",
+    "elf",
+    "thief",
+    "victor",
+    "marczak",
+    "traveling",
+    "merchant",
+    "steve",
+    "zheng",
+    "warrior",
+    "concept",
+    "monkey",
+    "king",
+    "anoop",
+    "mohan"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -454,
     "offset_y": -396,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -246,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -238,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

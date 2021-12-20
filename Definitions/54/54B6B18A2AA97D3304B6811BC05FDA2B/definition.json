@@ -2,25 +2,64 @@
   "source": "https://i.pinimg.com/originals/b2/14/13/b214130baa3f4d070a76cd678fb85020.jpg",
   "md5": "54B6B18A2AA97D3304B6811BC05FDA2B",
   "tags": [
-    ""
+    "",
+    "grave",
+    "digger",
+    "printable",
+    "silhouette",
+    "skull",
+    "death",
+    "knight",
+    "game",
+    "thrones",
+    "demon",
+    "hunter",
+    "dark",
+    "limkuk",
+    ".",
+    "batman",
+    "redesign",
+    "costumes",
+    "concept",
+    "human",
+    "jerry",
+    "park",
+    "\uCE90\uB9AD\uD130",
+    "pinterest",
+    "hel",
+    "goddess",
+    "dead",
+    "rod",
+    "wong",
+    "dioses",
+    "mitologia",
+    "nordica",
+    "hijos",
+    "de",
+    "loki"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -314,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -187,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -138,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -4,27 +4,50 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "knight",
+    "armor",
+    "samurai",
+    "knights",
+    "female",
+    "assassin",
+    "dark",
+    "power",
+    "\u4E2A\u4EBA\u4F5C\u54C1",
+    "\u59DA",
+    "\u8FDC",
+    "marcus",
+    "renewal",
+    "yoon",
+    "\u2606",
+    "2020",
+    "drelan",
+    "mikhail",
+    "palamarchuk",
+    "concept"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -594.5,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -364.5,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -147,
     "offset_y": -75,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,57 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "norse",
+    "viking",
+    "male",
+    "fur",
+    "armor",
+    "conan",
+    "barbarian",
+    "four",
+    "horsemen",
+    "demon",
+    "hunter",
+    "raging",
+    "starfire",
+    "gun",
+    "gunawan",
+    "jared",
+    "a",
+    "legend",
+    "cryptids",
+    "st.",
+    "cygnus",
+    "https://www.artstation.com",
+    "personal",
+    "work",
+    "jeon",
+    "tae",
+    "kang"
   ],
   "small": {
     "scale": 0.4299999999999996,
     "offset_x": -776,
     "offset_y": -140,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3599999999999993,
     "offset_x": -518,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.429333333333333,
     "offset_x": -536,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/64/70/ac/6470ac0cc48f927029922c48561641fd.png",
   "md5": "A0FBB70220F4B5AB602BD5C25E84541A",
   "tags": [
-    ""
+    "",
+    "norse",
+    "viking",
+    "warrior",
+    "human",
+    "giant",
+    "conan",
+    "barbarian",
+    "dynasty",
+    "warriors",
+    "vikings",
+    "guard",
+    "katerina",
+    "kirillova",
+    "2020",
+    "female",
+    "wild",
+    "west",
+    "greg",
+    "wright",
+    "native",
+    "american",
+    "a",
+    "copy",
+    "work",
+    "wei",
+    "wang",
+    "glowei).",
+    "orc"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -389,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -276,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -228,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://i.imgur.com/Sh3S5rn.jpeg",
   "md5": "F03E94B64F083A4660472226948BEDFB",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "photos",
+    "woman",
+    "character",
+    "concept",
+    "firekeeper",
+    "charles",
+    "chai",
+    "dark",
+    "souls",
+    "rhaka",
+    "rhul",
+    "matt",
+    "forsyth",
+    "president",
+    "eleanor",
+    "tan",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -70,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -66,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -52,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

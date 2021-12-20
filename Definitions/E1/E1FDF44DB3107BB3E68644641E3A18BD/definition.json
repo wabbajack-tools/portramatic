@@ -4,27 +4,55 @@
   "tags": [
     "orc",
     "male",
-    "warrior"
+    "warrior",
+    "knight",
+    "armor",
+    "samurai",
+    "armors",
+    "dragon",
+    "suit",
+    "power",
+    "egypt",
+    "punk",
+    "raymond",
+    "chen",
+    "concept",
+    "characters",
+    "dark",
+    "egyptian",
+    "toxic",
+    "ranger",
+    "filip",
+    "cebotari",
+    "predator",
+    "incursion",
+    "vacuum",
+    "william",
+    "bao",
+    "alien"
   ],
   "small": {
     "scale": 0.8700000000000001,
     "offset_x": -757,
     "offset_y": -236,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -449,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -258,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

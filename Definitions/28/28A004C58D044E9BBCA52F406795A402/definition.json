@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/7e/72/f4/7e72f455e0404241080fe8f7b15e7f40.jpg",
   "md5": "28A004C58D044E9BBCA52F406795A402",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "iron",
+    "man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "cleric",
+    "shovel",
+    "kim",
+    "drawing",
+    "artwork",
+    "raven",
+    "knight",
+    "hue",
+    "k",
+    "armor",
+    "characters",
+    "cyclops",
+    "gvart",
+    "gv"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -325,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2900000000000003,
     "offset_x": -192,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -26,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

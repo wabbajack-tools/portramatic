@@ -2,27 +2,52 @@
   "source": "https://i.imgur.com/GPj58Oe.jpeg",
   "md5": "9018177F64CFCAD795BD002C8021C634",
   "tags": [
-    ""
+    "",
+    "kev",
+    "walker",
+    "mtg",
+    "artist",
+    "steve",
+    "paintings",
+    "dungeons",
+    "dragons",
+    "orc",
+    "warrior",
+    "orcs",
+    "samurai",
+    "warriors",
+    "barbarian",
+    "dmitry",
+    "skvortsov",
+    "undead",
+    "with",
+    "skull",
+    "geun",
+    "jang",
+    "https://www"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -470,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -291,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -422,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

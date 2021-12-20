@@ -4,27 +4,41 @@
   "tags": [
     "bayek",
     "senu",
-    "desert"
+    "desert",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "applibot",
+    "\u2013",
+    "king",
+    "sky",
+    "normal",
+    "bjorn",
+    "hurri"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -554.3999999999987,
     "offset_y": -20.800000000000182,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -445.60000000000025,
     "offset_y": -30.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -708.0185185185184,
     "offset_y": -17.62037037036987,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

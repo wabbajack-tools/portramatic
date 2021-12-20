@@ -6,27 +6,48 @@
     "female",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "street",
+    "fighter",
+    "concept",
+    "laura",
+    "fan",
+    "line",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "chun-li",
+    "sean",
+    "ellery",
+    "https://www"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -263,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -24,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -1,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,51 @@
   "md5": "4F3217BEEA457C714920B4F5BD99E92D",
   "tags": [
     "human",
-    "female"
+    "female",
+    "blood",
+    "elf",
+    "fan",
+    "fire",
+    "mage",
+    "drawing",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "totem",
+    "pole",
+    "cuardian",
+    "bageumi",
+    "pirate",
+    "sothina",
+    "khiev",
+    "https://www.artstation.com/artwork/yqxnw",
+    "cassandra",
+    "zineryl"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -218,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2100000000000002,
     "offset_x": -128,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -58,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

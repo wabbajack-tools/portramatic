@@ -2,25 +2,49 @@
   "source": "https://www.teahub.io/photos/full/133-1330811_wow-demon-hunter-eyes.jpg",
   "md5": "D2ACE2DE49C0F62E35BEC967E636FC81",
   "tags": [
-    ""
+    "",
+    "female",
+    "blood",
+    "elf",
+    "hunter",
+    "warcraft",
+    "demon",
+    "witch",
+    "doctor",
+    "girl",
+    "rafa\u0142",
+    "g\u00F3rniak",
+    "concept",
+    "characters",
+    "character",
+    "march",
+    "demonic",
+    "army",
+    "silas",
+    "amdi"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -57.599999999999966,
     "offset_y": -84.79999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -26.400000000000034,
     "offset_y": -29.60000000000025,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -76.88888888888914,
     "offset_y": -12.814814814815009,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

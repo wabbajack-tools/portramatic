@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f1cc1b2-31e1-4488-b6d9-ccb346ec5fb3/d7yj65z-e04115f5-8054-49a9-a2dd-18c88835fd73.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmMWNjMWIyLTMxZTEtNDQ4OC1iNmQ5LWNjYjM0NmVjNWZiM1wvZDd5ajY1ei1lMDQxMTVmNS04MDU0LTQ5YTktYTJkZC0xOGM4ODgzNWZkNzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p2DzPSYWZfM-3Du3SnDjAhTw44vGTUkSEymPcYrazHA",
   "md5": "D76895E9C3C0CAD017883F4CFCB2260D",
   "tags": [
-    ""
+    "",
+    "executioner",
+    "cartoon",
+    "tattoo",
+    "demons",
+    "gears",
+    "war",
+    "dungeons",
+    "dragons",
+    "keeper",
+    "secrets",
+    "shalaxi",
+    "hellbane",
+    "vs",
+    "sci-fi",
+    "characters",
+    "vol.3",
+    "kircell",
+    "."
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -378,
     "offset_y": -156,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -59,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -28,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

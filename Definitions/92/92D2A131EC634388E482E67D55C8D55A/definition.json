@@ -21,27 +21,57 @@
     "enrage",
     "dmitry",
     "desyatov",
-    "https://www"
+    "https://www",
+    "mage",
+    "characters",
+    "dungeons",
+    "dragons",
+    "plate",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "eagle",
+    "knight",
+    "konstantin",
+    "porubov",
+    "for",
+    "crown",
+    "blood",
+    "book",
+    "series",
+    "anna",
+    "helme",
+    "woman",
+    "with",
+    "sword",
+    "hela",
+    "magda",
+    "female"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -178.00000000000006,
     "offset_y": -108.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -2.333333333333485,
     "offset_y": -47.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -4,
     "offset_y": -82.00000000000051,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,36 @@
 {
-  "source": "https://cdnb.artstation.com/p/assets/images/images/009/212/679/large/big-t-xu-knight-honor-p.jpg?1517741838&dl=1",
+  "source": "https://cdnb.artstation.com/p/assets/images/images/009/212/679/large/big-t-xu-knight-honor-p.jpg?1517741838\u0026dl=1",
   "md5": "89DC79417090278C8AC4CF8B2E23E71A",
   "tags": [
-    "222"
+    "222",
+    "game",
+    "thrones",
+    "hobbit",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.15999999999999925,
     "offset_x": -23,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -1,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -7,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

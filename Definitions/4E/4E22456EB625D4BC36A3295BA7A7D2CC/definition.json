@@ -3,27 +3,62 @@
   "md5": "4E22456EB625D4BC36A3295BA7A7D2CC",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "angel",
+    "women",
+    "woman",
+    "painting",
+    "wing",
+    "anime",
+    "girl",
+    "characters",
+    "wonder",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "steam",
+    "malwina",
+    "kwiatkowska",
+    "konstantin",
+    "gerasimov",
+    "viking",
+    "people",
+    "vikings",
+    "senna",
+    "league",
+    "legends",
+    "st.",
+    "cygnus"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -312,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -250,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -162,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

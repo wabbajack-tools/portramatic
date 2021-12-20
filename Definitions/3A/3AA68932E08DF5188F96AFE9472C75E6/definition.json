@@ -11,27 +11,55 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "black",
+    "egyptian",
+    "warrior",
+    "goddess",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "dragon",
+    "dark",
+    "elf",
+    "heavy",
+    "astellia",
+    "work",
+    "\uC544\uC2A4\uD154\uB9AC\uC544",
+    "\uC791\uC5C5",
+    "12",
+    "changyoung",
+    "jung",
+    "character",
+    "milan",
+    "nikolic",
+    "lionheart",
+    "ji",
+    "ni"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -484.7999999999997,
     "offset_y": -179.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -194.19999999999976,
     "offset_y": -97.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -12.324074074074815,
     "offset_y": -103.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8b11570-6868-4249-a9e5-189066b4abf9/ddw4mqu-9c5a58b1-a9b1-4108-ba5c-9297ac1114e3.jpg/v1/fill/w_1024,h_1366,q_75,strp/ffxiv_au_ra_commission_by_pashapencil_ddw4mqu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2NiIsInBhdGgiOiJcL2ZcL2I4YjExNTcwLTY4NjgtNDI0OS1hOWU1LTE4OTA2NmI0YWJmOVwvZGR3NG1xdS05YzVhNThiMS1hOWIxLTQxMDgtYmE1Yy05Mjk3YWMxMTE0ZTMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.89ryTKIJ-8DQlsBE5ws6BnvP1yyRleypsblEzY6fJyQ",
   "md5": "9636BB8B0174F9EA24854A746D4ADEA8",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "play",
+    "card",
+    "xiong",
+    "jiajie",
+    "healer",
+    "juyoung",
+    "kim",
+    "princess",
+    "zelda",
+    "luthiel_character",
+    "concept",
+    "ssang"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -518,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -372,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -32,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -5,27 +5,33 @@
     "outsider",
     "male",
     "mage",
-    "priest"
+    "priest",
+    "narcissism",
+    "victor",
+    "petersson"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -707,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -391,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -480,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

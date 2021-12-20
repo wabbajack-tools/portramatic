@@ -6,27 +6,54 @@
     "elf",
     "arbalest",
     "bageumi",
-    "."
+    ".",
+    "demon",
+    "girl",
+    "face",
+    "costume",
+    "sketches",
+    "\u7F57\u540C\u5B66-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "grim",
+    "reaper",
+    "hades",
+    "concept",
+    "andy",
+    "timm",
+    "character",
+    "design",
+    "monkey",
+    "king~",
+    "ocean",
+    "south",
+    "king",
+    "illustration",
+    "robot"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -499.00000000000125,
     "offset_y": -116.79999999999973,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -333.3999999999998,
     "offset_y": -88.39999999999952,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -241.3148148148132,
     "offset_y": -98.1574074074066,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

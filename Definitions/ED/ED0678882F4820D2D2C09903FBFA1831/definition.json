@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ft.ashemaletube.com%2Fimages%2F2017-12%2Ff0%2F5a427af0857a5%2F5a427af0857a5-full-4.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ft.ashemaletube.com%2Fimages%2F2017-12%2Ff0%2F5a427af0857a5%2F5a427af0857a5-full-4.jpg\u0026f=1\u0026nofb=1",
   "md5": "ED0678882F4820D2D2C09903FBFA1831",
   "tags": [
     "trans",
@@ -10,21 +10,24 @@
     "scale": 0.4599999999999995,
     "offset_x": -176,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -62,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

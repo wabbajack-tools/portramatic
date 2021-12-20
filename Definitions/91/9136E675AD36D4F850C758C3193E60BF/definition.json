@@ -4,27 +4,53 @@
   "tags": [
     "druid",
     "mage",
-    "cleric"
+    "cleric",
+    "elf",
+    "sorcerer",
+    "male",
+    "female",
+    "assassin",
+    "lord",
+    "rings",
+    "dark",
+    "hobbit",
+    "game",
+    "thrones",
+    "yennefer",
+    "nicky",
+    "geerlings",
+    "necromancer",
+    "ii",
+    "markus",
+    "vogt",
+    "https://www",
+    "aelynn",
+    "victor",
+    "tan",
+    "warrior"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -342.5,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -167.5,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -5,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

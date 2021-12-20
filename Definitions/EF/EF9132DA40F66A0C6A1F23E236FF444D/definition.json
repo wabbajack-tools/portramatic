@@ -4,27 +4,53 @@
   "tags": [
     "human",
     "male",
-    "rogue"
+    "rogue",
+    "orks",
+    "orc",
+    "warrior",
+    "warhammer",
+    "40k",
+    "orcs",
+    "yu",
+    "cheng",
+    "hong",
+    "mobius",
+    "final",
+    "bull",
+    "demon",
+    "king",
+    "vs",
+    "monkey",
+    "fenghua",
+    "zhong",
+    "poseidon",
+    "character",
+    "card",
+    "alexander",
+    "levett"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -282,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -229,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -158,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

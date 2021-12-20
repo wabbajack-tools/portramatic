@@ -2,27 +2,34 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb4f7a1c-3e37-443c-abad-83d55f8cb1c7/dela2ja-6dd04788-972f-45de-9c67-1f9b6e98061e.jpg/v1/fill/w_800,h_1132,q_75,strp/jun_ortoi__veiled_master_by_artofbeng_dela2ja-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcL2NiNGY3YTFjLTNlMzctNDQzYy1hYmFkLTgzZDU1ZjhjYjFjN1wvZGVsYTJqYS02ZGQwNDc4OC05NzJmLTQ1ZGUtOWM2Ny0xZjliNmU5ODA2MWUuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xKNzwjzGhN9swXyfaQDQ0YWYJ94e5jHeZdc_GdExdsg",
   "md5": "B2117F49FFFB7D38639AE591B43128F5",
   "tags": [
-    ""
+    "",
+    "star",
+    "wars",
+    "old",
+    "republic"
   ],
   "small": {
     "scale": 1.6700000000000006,
     "offset_x": -525,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -204,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -26,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

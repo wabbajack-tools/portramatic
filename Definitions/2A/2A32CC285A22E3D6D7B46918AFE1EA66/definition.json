@@ -4,27 +4,50 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "all",
+    "girl",
+    "drum",
+    "corps",
+    "united",
+    "marine",
+    "girls",
+    "model",
+    "study",
+    "son6",
+    "_",
+    "character",
+    "concept",
+    "study(copy",
+    "j.won",
+    "han",
+    "idran",
+    "andrew",
+    "caputo",
+    "dungeon"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -362.93333333333334,
     "offset_y": -146.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -182.13333333333327,
     "offset_y": -63.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -23.199999999999932,
     "offset_y": -2.399999999999892,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

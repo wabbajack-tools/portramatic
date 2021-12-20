@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/fb/b3/43/fbb3432b21efd8de6dc4722191a020e4.jpg",
   "md5": "E2E09191CCDC1B9FF79126ECC3EDF8E8",
   "tags": [
-    ""
+    "",
+    "lich",
+    "king",
+    "fan",
+    "drawing",
+    "wow",
+    "death",
+    "knight",
+    "night",
+    "elf",
+    "orcs",
+    "armor",
+    "daric",
+    "rylan",
+    "nik",
+    "hagialas",
+    "https://www.artstation.com/artwork/qpzmn",
+    "concept",
+    "characters",
+    "artwork",
+    "character",
+    "evil",
+    "wizard",
+    "fang",
+    "wanglin",
+    "anime",
+    "witch",
+    "doctor"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -296,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -127,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.52,
     "offset_x": -66,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://get.wallhere.com/photo/portrait-display-original-characters-knight-armor-fantasy-art-1804719.jpg",
   "md5": "7C609AE7D304A1399CFD58E092D0333D",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "daedric",
+    "plate",
+    "sets",
+    "heavy",
+    "skyrim",
+    "lord",
+    "rings",
+    "medieval",
+    "marmoset",
+    "toolbag",
+    "turntable",
+    "s2",
+    "h1",
+    "characters",
+    "hlaalu",
+    "medium",
+    "set",
+    "ricardo",
+    "graham",
+    "elder",
+    "scrolls"
   ],
   "small": {
     "scale": 1.7000000000000006,
     "offset_x": -385.3333333333336,
     "offset_y": -103.99999999999989,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -96.00000000000006,
     "offset_y": -55.99999999999986,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -1.333333333333485,
     "offset_y": -3.999999999999318,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,50 @@
     "male",
     "warrior",
     "assassin",
-    "archer"
+    "archer",
+    "medieval",
+    "knight",
+    "concept",
+    "armor",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sichen",
+    "wang",
+    "https://www",
+    "tournament\u0027s",
+    "favorite",
+    "vladimir",
+    "buchyk",
+    "concepting",
+    "practice",
+    "alex",
+    "vasin"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -659,
     "offset_y": -208,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -321,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -196,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

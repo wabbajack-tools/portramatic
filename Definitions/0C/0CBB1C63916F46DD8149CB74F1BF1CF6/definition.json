@@ -15,27 +15,58 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "mermaid",
+    "fairy",
+    "drawings",
+    "with",
+    "wings",
+    "dynasty",
+    "warriors",
+    "witcher",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "warrior",
+    "stivens",
+    "trujillo",
+    "sanchez",
+    "sellsword",
+    "valte",
+    "knight",
+    "\u9A0E\u58EB",
+    "\uAE30\uC0AC",
+    "kyoungmin",
+    "lee",
+    "armor",
+    "drawing"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -135,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -61,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -32,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

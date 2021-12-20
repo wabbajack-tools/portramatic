@@ -5,27 +5,35 @@
     "human",
     "female",
     "samurai",
-    "rogue"
+    "rogue",
+    "steampunk",
+    "couture",
+    "women",
+    "costume",
+    "ideas"
   ],
   "small": {
     "scale": 0.69,
     "offset_x": -801,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.45124999999999926,
     "offset_x": -403,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7602499999999999,
     "offset_x": -624,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

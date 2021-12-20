@@ -2,27 +2,37 @@
   "source": "https://www.nawpic.com/media/2020/itachi-uchiha-nawpic-11.jpg",
   "md5": "594C40DE9077747C87E87279F533B194",
   "tags": [
-    "Itachi"
+    "Itachi",
+    "anime",
+    "itachi",
+    "uchiha",
+    "wallpaper",
+    "desktop",
+    "naruto",
+    "wallpapers"
   ],
   "small": {
     "scale": 0.14999999999999925,
     "offset_x": -23.5,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -37.5,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3299999999999994,
     "offset_x": -3,
     "offset_y": -67,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

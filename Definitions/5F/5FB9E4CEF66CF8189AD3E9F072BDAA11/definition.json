@@ -16,27 +16,36 @@
     "moto",
     "hachiya",
     "anime",
-    "image"
+    "image",
+    "rhona",
+    "wandering",
+    "witch",
+    "bone",
+    "dust",
+    "2021"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -219.00000000000023,
     "offset_y": -77.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -159.99999999999994,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -144.66666666666674,
     "offset_y": -57.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

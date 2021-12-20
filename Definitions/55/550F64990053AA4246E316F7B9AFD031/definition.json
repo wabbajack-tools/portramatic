@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/564x/8b/b1/14/8bb114785c929849c58c5f40f5946643.jpg",
   "md5": "550F64990053AA4246E316F7B9AFD031",
   "tags": [
-    ""
+    "",
+    "uncanny",
+    "pocchito",
+    "leandro",
+    "r"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -193,
     "offset_y": -180,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -98,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -38,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

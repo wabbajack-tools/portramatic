@@ -6,27 +6,43 @@
     "female",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "reaper",
+    "king",
+    "mtg",
+    "midnight",
+    "graveyard",
+    "dungeons",
+    "dragons",
+    "lance",
+    "azora",
+    "studio",
+    "\u83DC\u9E21\u730E\u4EBA",
+    "hey",
+    "\u6CE1\u6CE1\u53D4\u53D4"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -1315,
     "offset_y": -327,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5401666666666662,
     "offset_x": -506,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6907500000000006,
     "offset_x": -578,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

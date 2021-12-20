@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/71/93/df/7193df7618419fce5f441466684af296.jpg",
   "md5": "749E4B6C1D28735594168B627D212EBE",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "plate",
+    "heavy",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "warrior",
+    "yunpong",
+    "yoonhwa,choi",
+    "character",
+    "design",
+    "concept",
+    "characters",
+    "silver",
+    "wolf",
+    "knight.",
+    "kang",
+    "jihun",
+    "drawing",
+    "dongwoo",
+    "kim"
   ],
   "small": {
     "scale": 1.799999999999997,
     "offset_x": -351.1999999999994,
     "offset_y": -131.2000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -72.7999999999995,
     "offset_y": -43.19999999999993,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": 6.407407407407163,
     "offset_y": -9.611111111111086,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,49 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "legend",
+    "cryptids",
+    "monster",
+    "characters",
+    "dungeons",
+    "dragons",
+    "odin",
+    "simon",
+    "zhong",
+    "cartoon",
+    "works",
+    "bangku",
+    "an",
+    "character",
+    "warrior",
+    "dragonborn",
+    "shapeshift",
+    "marius",
+    "bota"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -551.7999999999997,
     "offset_y": -240.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6501666666666666,
     "offset_x": -70.19999999999982,
     "offset_y": -32.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9414166666666663,
     "offset_x": -70.32407407407482,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

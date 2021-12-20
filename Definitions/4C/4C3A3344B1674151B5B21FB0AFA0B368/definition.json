@@ -2,27 +2,51 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/012/154/260/large/pig-park-wizard.jpg?1533306891",
   "md5": "4C3A3344B1674151B5B21FB0AFA0B368",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "plate",
+    "armor",
+    "heavy",
+    "knight",
+    "steampunk",
+    "z",
+    "owen",
+    "kim",
+    "inspiration",
+    "lancer",
+    "mumu",
+    "pan",
+    "kyle",
+    "enochs",
+    "science"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -726,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -373,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -156,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

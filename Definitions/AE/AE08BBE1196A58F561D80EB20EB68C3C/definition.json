@@ -11,27 +11,57 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "red",
+    "hair",
+    "witch",
+    "headed",
+    "witches",
+    "head",
+    "armor",
+    "sets",
+    "world",
+    "warcraft",
+    "rogue",
+    "wow",
+    "undead",
+    "druid",
+    "\u87D2",
+    "xue",
+    "cheng",
+    "work",
+    "charts",
+    "two",
+    "years",
+    "ago",
+    "yang",
+    "chen",
+    "tyrranir",
+    "tatiana",
+    "hordiienko"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -264.7999999999997,
     "offset_y": -95.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -66.19999999999976,
     "offset_y": -23.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -12.324074074074815,
     "offset_y": -7.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

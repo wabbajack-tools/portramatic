@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/49/4a/09/494a0941fa1fd4206d27cb45ea5fd093.jpg",
   "md5": "DB9F5B20CE7FD6C75476D7F9344D1E3B",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "with",
+    "demon",
+    "white",
+    "eyes",
+    "league",
+    "legends",
+    "spider-man",
+    "marvel",
+    "comics",
+    "yugio",
+    "angel",
+    "berber",
+    "witch",
+    "robynn",
+    "frauhn",
+    "characters",
+    "character",
+    "digital",
+    "blood",
+    "lord",
+    "nico",
+    "fari",
+    "tcg",
+    "illust",
+    "k",
+    "ei"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -171,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -103,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -52,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

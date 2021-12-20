@@ -5,27 +5,54 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "kda",
+    "evelynn",
+    "x",
+    "akali",
+    "splash",
+    "skin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses",
+    "tira",
+    "soulcalibur",
+    "vi",
+    "fan",
+    "apipol(sahlea",
+    "chongjiamjit",
+    "\u6478\u4E86",
+    "yuanbin",
+    "hu",
+    "beautiful",
+    "face",
+    "kelly",
+    "marta",
+    "deer"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -200.79999999999973,
     "offset_y": -173.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -78.19999999999982,
     "offset_y": -47.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -20.324074074074815,
     "offset_y": -39.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

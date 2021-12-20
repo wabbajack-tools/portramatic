@@ -23,25 +23,37 @@
     "flower",
     "blossom",
     "female",
-    ""
+    "",
+    "anime",
+    "girl",
+    "long",
+    "purple",
+    "hair",
+    "blue",
+    "short"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -408.00000000000034,
     "offset_y": -78.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -263.66666666666686,
     "offset_y": -41.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -114.66666666666674,
     "offset_y": -11.3333333333332,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

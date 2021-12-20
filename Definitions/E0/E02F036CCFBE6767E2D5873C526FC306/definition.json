@@ -7,27 +7,52 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "dark",
+    "elves",
+    "male",
+    "elf",
+    "fighter",
+    "anime",
+    "girl",
+    "drawings",
+    "omen",
+    "exodus",
+    "mournfulwizard",
+    ".",
+    "character",
+    "fictional",
+    "characters",
+    "game",
+    "thrones",
+    "quistis",
+    "firons",
+    "study",
+    "mihaela",
+    "vlad"
   ],
   "small": {
     "scale": 0.7299999999999999,
     "offset_x": -114.6666666666614,
     "offset_y": -87.66666666668158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999997,
     "offset_x": -0.6666666666665719,
     "offset_y": -49.33333333334156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -39.66666666666754,
     "offset_y": -118.00000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

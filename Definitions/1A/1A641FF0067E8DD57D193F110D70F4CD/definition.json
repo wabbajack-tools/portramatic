@@ -8,27 +8,43 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "igor",
+    "artist",
+    "vampire",
+    "hunter",
+    "flying",
+    "dutchman",
+    "april",
+    "wong",
+    "\u0022venom\u0022",
+    "quick",
+    "sketch",
+    "filip",
+    "ivanovi\u0107"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -381,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -314,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -292,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

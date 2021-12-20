@@ -2,27 +2,55 @@
   "source": "https://64.media.tumblr.com/3d909c71dd4611567cc43f93e994f394/tumblr_oopxjjghvr1v0l7ifo1_1280.jpg",
   "md5": "570CB56B8EF5374698C7EA9125EDFAD5",
   "tags": [
-    ""
+    "",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "orc",
+    "warrior",
+    "knight",
+    "armor",
+    "dungeons",
+    "dragons",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "centaur",
+    "alexander",
+    "shatohin",
+    "female",
+    "celtic",
+    "jian",
+    "li",
+    "https://www",
+    "blacksmith",
+    "hephaestus"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -446,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -241,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -92,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

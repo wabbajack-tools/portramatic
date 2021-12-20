@@ -8,27 +8,48 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "league",
+    "legends",
+    "demon",
+    "hunter",
+    "demons",
+    "dark",
+    "elf",
+    "blood",
+    "lost",
+    "botos",
+    "vlad",
+    "possessed",
+    "alejandro",
+    "catalan",
+    "shadow",
+    "fear",
+    "kerem",
+    "beyit"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -669,
     "offset_y": -191,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -403,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -440,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

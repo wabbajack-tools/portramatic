@@ -12,7 +12,7 @@
     "vampire",
     "manga",
     "souls",
-    "'yeopo'",
+    "\u0027yeopo\u0027",
     "three",
     "kingdoms",
     "reincarnates",
@@ -20,27 +20,43 @@
     "li",
     "update",
     "marishka",
-    "kleyman"
+    "kleyman",
+    "diablo",
+    "necromancer",
+    "armor",
+    "iii",
+    "personal",
+    "work",
+    "jeon",
+    "tae",
+    "kang",
+    "demon",
+    "armour",
+    "zhang",
+    "davey"
   ],
   "small": {
     "scale": 1,
     "offset_x": -437.99999999999784,
     "offset_y": -54.39999999999992,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -133.00000000000023,
     "offset_y": -1.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -300.03703703703763,
     "offset_y": -4.824074074074019,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

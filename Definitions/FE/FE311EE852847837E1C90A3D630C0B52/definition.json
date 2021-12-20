@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/82/9b/28/829b286e611997169c6e8fffa032ce43.jpg",
   "md5": "FE311EE852847837E1C90A3D630C0B52",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "artwork",
+    "orc",
+    "warrior",
+    "fan",
+    "samurai",
+    "armor",
+    "shogun",
+    "warriors",
+    "knight",
+    "heavy",
+    "\u6D9B\u795E",
+    "qingxue",
+    "ye",
+    "character",
+    "portraits",
+    "pirate",
+    "dynasty",
+    "barbarian",
+    "houssam",
+    "tamaoui",
+    "https://www.artstation.com/artwork/g2zq1",
+    "\uBAAC\uC2A4\uD130...",
+    "sun",
+    "lee",
+    "dungeons",
+    "dragons",
+    "characters",
+    "concept"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -481,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -98,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -92,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

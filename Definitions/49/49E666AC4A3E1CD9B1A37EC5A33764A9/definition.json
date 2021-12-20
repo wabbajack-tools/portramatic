@@ -6,27 +6,51 @@
     "female",
     "mage",
     "dancer",
-    "princess"
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "coq\uFF0Dnpc",
+    "busnessman",
+    "fefo",
+    "chen",
+    "https://www",
+    "witch",
+    "sohyun",
+    "park",
+    "\uC548\uB0B4\uC778",
+    "lana",
+    "g",
+    "character",
+    "portraits"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -428,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999993,
     "offset_x": -232,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5493333333333331,
     "offset_x": -250,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

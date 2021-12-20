@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/originals/b4/fd/cb/b4fdcba53290bcdfdc2914303835803d.webp",
   "md5": "06BDE5AB208A8CD19A75BC55D550630C",
   "tags": [
-    ""
+    "",
+    "legends",
+    "runeterra",
+    "ranks",
+    "map",
+    "league",
+    "world"
   ],
   "small": {
     "scale": 1.9100000000000008,
     "offset_x": -1324,
     "offset_y": -606,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6600000000000006,
     "offset_x": -1053,
     "offset_y": -512,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.929999999999981,
     "offset_x": -1846,
     "offset_y": -840,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

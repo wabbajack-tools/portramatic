@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/a7/a4/54/a7a45448b3bb338256037af279c0fe1b.jpg",
   "md5": "F78C7B18D1B70F15CF903625ADDF0CE2",
   "tags": [
-    ""
+    "",
+    "female",
+    "hill",
+    "dwarf",
+    "cleric",
+    "wizard",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "characters",
+    "for",
+    "ekaterina",
+    "burmak",
+    "character",
+    "portraits",
+    "klaher",
+    "baklaher",
+    "2020",
+    "samurai",
+    "toto",
+    "dost"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -313,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -48,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9300000000000008,
     "offset_x": -152,
     "offset_y": -196,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -14,25 +14,49 @@
     "comics",
     "female",
     "demon",
-    "succubus"
+    "succubus",
+    "girl",
+    "with",
+    "minigun",
+    "dragonborn",
+    "anime",
+    "hunter",
+    "dark",
+    "blood_sucker_reg",
+    "azora",
+    "studio",
+    "unicorn",
+    "princess",
+    "al",
+    "so",
+    "contest",
+    "lotus",
+    "butterfly",
+    "mengxian",
+    "ying"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -460.20000000000715,
     "offset_y": -207.20000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -202.00000000000017,
     "offset_y": -123.59999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -62.018518518518476,
     "offset_y": -18.787037037036384,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

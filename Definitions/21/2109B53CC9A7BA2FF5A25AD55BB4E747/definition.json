@@ -22,27 +22,63 @@
     "hill",
     "dwarf",
     "cleric",
-    "wizard"
+    "wizard",
+    "wow",
+    "dark",
+    "iron",
+    "paladin",
+    "world",
+    "warcraft",
+    "rogue",
+    "warhammer",
+    "40k",
+    "warriors",
+    "spider-man",
+    "death",
+    "knight",
+    "league",
+    "legends",
+    "vampire",
+    "ruslan",
+    "svobodin",
+    "male",
+    "gnoll",
+    "project",
+    "lloyd",
+    "hoshide",
+    "characters",
+    "concept",
+    "artwork",
+    "mandalorian",
+    "tamo",
+    "nebieridze",
+    "star",
+    "wars",
+    "background",
+    "pictures"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -246.5,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -107.5,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -64,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

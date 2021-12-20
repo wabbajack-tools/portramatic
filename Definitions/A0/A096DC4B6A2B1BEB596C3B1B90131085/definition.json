@@ -2,25 +2,34 @@
   "source": "https://i.pinimg.com/originals/6e/7f/71/6e7f71c0f0a1fc3f60aa271edcbaf733.jpg",
   "md5": "A096DC4B6A2B1BEB596C3B1B90131085",
   "tags": [
-    ""
+    "",
+    "jojo",
+    "titania",
+    "oberon",
+    "map"
   ],
   "small": {
     "scale": 0.22999999999999932,
     "offset_x": -57,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -101,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -42,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

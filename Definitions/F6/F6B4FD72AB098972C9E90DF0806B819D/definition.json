@@ -4,27 +4,58 @@
   "tags": [
     "nun",
     "tyler",
-    "law"
+    "law",
+    "actionfigures",
+    "armors",
+    "suit",
+    "armor",
+    "knight",
+    "assassin",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "mercenary",
+    "chun",
+    "park",
+    "https://www.artstation.com/artwork/dn68w",
+    "rpg",
+    "crusader",
+    "dongho",
+    "kang",
+    "https://www.artstation.com/artwork/1n2622",
+    "2020",
+    "teh\u0027ya",
+    "lamin",
+    "martin",
+    "steampunk",
+    "characters",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -529,
     "offset_y": -244,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -329,
     "offset_y": -185,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -140,
     "offset_y": -176,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

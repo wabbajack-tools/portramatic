@@ -11,25 +11,41 @@
     "samurai",
     "hunger",
     "ranger",
-    "spear"
+    "spear",
+    "greek",
+    "spartan",
+    "warrior",
+    "drawing",
+    "ancient",
+    "soldier",
+    "dawn",
+    "war",
+    "dungeons",
+    "dragons",
+    "tomb"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -806,
     "offset_y": -257,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -374,
     "offset_y": -102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -370,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

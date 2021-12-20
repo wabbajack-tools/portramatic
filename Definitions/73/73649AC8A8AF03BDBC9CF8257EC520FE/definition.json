@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/736x/8a/bf/42/8abf42397e60baa1f9311e207bc01e46.jpg",
   "md5": "73649AC8A8AF03BDBC9CF8257EC520FE",
   "tags": [
-    ""
+    "",
+    "draenei",
+    "artwork",
+    "demon",
+    "female",
+    "concept",
+    "death",
+    "knight",
+    "world",
+    "warcraft",
+    "rogue",
+    "blood",
+    "night",
+    "elf",
+    "holyduck",
+    "fanfoxy",
+    "_",
+    "2020",
+    "characters",
+    "major",
+    "victoria",
+    "haley",
+    "hans",
+    "krill",
+    "lance",
+    "soul",
+    "iesabel",
+    "g.",
+    "zen",
+    "character"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -349,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -31,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -70,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

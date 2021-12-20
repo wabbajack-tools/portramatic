@@ -2,25 +2,38 @@
   "source": "https://mfiles.alphacoders.com/882/thumb-1920-882045.jpg",
   "md5": "43220AD76E4B6E753ADF2816C8AF0D91",
   "tags": [
-    "elf"
+    "elf",
+    "obama",
+    "christmas",
+    "michelle",
+    "creepy",
+    "shelf",
+    "eye",
+    "makeup",
+    "looks"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -67,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -13,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -2,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

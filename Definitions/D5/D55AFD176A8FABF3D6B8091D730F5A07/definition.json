@@ -4,27 +4,49 @@
   "tags": [
     "tiefling",
     "male",
-    "warrior"
+    "warrior",
+    "linda",
+    "baker",
+    "watercolor",
+    "apple",
+    "kemp",
+    "general",
+    "east",
+    "d.",
+    "rock-art",
+    "game",
+    "thrones",
+    "season",
+    "7",
+    "white",
+    "walkers",
+    "nemo",
+    "ida",
+    "felicia",
+    "m\u00F6ller"
   ],
   "small": {
     "scale": 0.29999999999999943,
     "offset_x": -185,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999992,
     "offset_x": -142,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48933333333333295,
     "offset_x": -74,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

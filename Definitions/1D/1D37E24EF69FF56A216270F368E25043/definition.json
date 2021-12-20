@@ -6,27 +6,37 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "chuby",
+    "mi",
+    "girl",
+    "anime",
+    "death",
+    "leandro",
+    "franci"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -212.79999999999973,
     "offset_y": -172.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -86.19999999999976,
     "offset_y": -39.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -2.324074074074815,
     "offset_y": -1.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

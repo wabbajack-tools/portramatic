@@ -7,27 +7,38 @@
     "blonde",
     "female",
     "knife",
-    "rogue"
+    "rogue",
+    "assassin",
+    "anime",
+    "girl",
+    "bleach",
+    "ulquiorra",
+    "cifer",
+    "denys",
+    "yelysavetskyi"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -184,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -140,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -216,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

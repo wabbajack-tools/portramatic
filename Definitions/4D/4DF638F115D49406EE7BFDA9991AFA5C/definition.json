@@ -2,27 +2,34 @@
   "source": "http://wotw.wdfiles.com/local--files/char-jae-01/Shuunn-start.jpg",
   "md5": "4DF638F115D49406EE7BFDA9991AFA5C",
   "tags": [
-    ""
+    "",
+    "icasius",
+    "giuseppe",
+    "de",
+    "iure"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -240,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -31,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -22,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,37 @@
     "human",
     "female",
     "mage",
-    "princess"
+    "princess",
+    "sorin",
+    "mtg",
+    "markov",
+    "edgar",
+    "spear",
+    "jamie",
+    "mariscal"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -531.7999999999997,
     "offset_y": -124.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -440.1999999999998,
     "offset_y": -49.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -654.3240740740748,
     "offset_y": -33.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://i.imgur.com/q6fc8Bu.jpeg",
   "md5": "4E599819BAD80E85D9532C0637959350",
   "tags": [
-    ""
+    "",
+    "black",
+    "woman",
+    "paintings",
+    "goddesses",
+    "african",
+    "american",
+    "gi",
+    "joe",
+    "rise",
+    "cobra",
+    "catwoman",
+    "vampire",
+    "knight",
+    "manga",
+    "hr",
+    "giger\u0027s",
+    "bust",
+    "game",
+    "assets",
+    "camazot",
+    "luis",
+    "arturo",
+    "arzate",
+    "velasco",
+    "kylo",
+    "ren",
+    "star",
+    "wars",
+    "eva",
+    "kosmos"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -234,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4800000000000004,
     "offset_x": -89,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9700000000000009,
     "offset_x": -24,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,36 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "dc",
+    "comics",
+    "artwork",
+    "comic",
+    "book",
+    "deathstroke"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -277,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -117,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -5,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

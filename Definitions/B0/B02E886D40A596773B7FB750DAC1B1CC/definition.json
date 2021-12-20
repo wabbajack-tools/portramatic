@@ -3,27 +3,55 @@
   "md5": "B02E886D40A596773B7FB750DAC1B1CC",
   "tags": [
     "armored",
-    "god"
+    "god",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "chaos",
+    "dragon",
+    "lords",
+    "heavy",
+    "armor",
+    "dungeons",
+    "dragons",
+    "king",
+    "kong",
+    "ranger",
+    "andrea",
+    "piparo",
+    "https://www",
+    "nurgle",
+    "daniel",
+    "farin",
+    "\u5E7B\u60F3",
+    "\u5218",
+    "\u70C1",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -139,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999996,
     "offset_x": -24,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -12,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

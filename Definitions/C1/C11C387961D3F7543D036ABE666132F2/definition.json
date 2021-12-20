@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/f3/d6/02/f3d6028c884baa58910cee426ece64e4.jpg",
   "md5": "C11C387961D3F7543D036ABE666132F2",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "fan",
+    "male",
+    "paladin",
+    "warlock",
+    "heroes",
+    "storm",
+    "league",
+    "legends",
+    "liliann",
+    "knight",
+    "angelina",
+    "chernyak",
+    "2020",
+    "character",
+    "surreal",
+    "geralt",
+    "azeroth",
+    "steven",
+    "crowe",
+    "https://www.artstation.com/artwork/mqvd88",
+    "study",
+    "dante",
+    "mephiston",
+    "craig",
+    "stirling"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -95,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -2,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

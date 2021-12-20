@@ -1,5 +1,5 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/001/088/242/large/concept-4-bard.jpg?1443928712&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/001/088/242/large/concept-4-bard.jpg?1443928712\u0026dl=1",
   "md5": "F40127B8B1C479B115B7018820F5F1A9",
   "tags": [
     "",
@@ -32,27 +32,47 @@
     "viking",
     "mam",
     "ba",
-    "2020"
+    "2020",
+    "warrior",
+    "drawings",
+    "knight",
+    "medieval",
+    "knights",
+    "barbarian",
+    "radoslav",
+    "topalov",
+    "https://www.artstation.com/artwork/lnobr",
+    "watchman",
+    "tate",
+    "s.",
+    "characters",
+    "2019",
+    "artwork",
+    "denis",
+    "didenko"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -561.9999999999854,
     "offset_y": -140.39999999999972,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -190.0000000000033,
     "offset_y": -65.00000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -37.20370370370301,
     "offset_y": -73.9999999999983,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

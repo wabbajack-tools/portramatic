@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/34/5c/cd/345ccded5eefaec9555244fd40131943.jpg",
   "md5": "0FAF2676CEF2AEAD1BFD597D5CAE145E",
   "tags": [
-    ""
+    "",
+    "jaina",
+    "proudmoore",
+    "new",
+    "theramore",
+    "artwork",
+    "league",
+    "legends",
+    "mortal",
+    "kombat",
+    "anime",
+    "girl",
+    "liang",
+    "xing",
+    "warcraft",
+    "world",
+    "characters",
+    "female",
+    "warlock",
+    "kim",
+    "herbst",
+    "true",
+    "heroes",
+    "storm",
+    "ekaterina",
+    "shapovalova",
+    "hero",
+    "fan"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -302,
     "offset_y": -219,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -25,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -36,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

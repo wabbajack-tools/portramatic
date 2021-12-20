@@ -2,27 +2,39 @@
   "source": "https://64.media.tumblr.com/91ad758f33898bd5ca924b1671428879/1de3aebd9236eb89-f2/s540x810/021ec4f8283733f3062e4bd52fb4fea196feb98b.png",
   "md5": "0E94A0091BBD651CC671CFFC08CD9360",
   "tags": [
-    "inquisitor"
+    "inquisitor",
+    "orthodox",
+    "icons",
+    "paladin",
+    "suny",
+    "mary",
+    "kafka",
+    "character",
+    "design",
+    "concept"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -107,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -50,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -20,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

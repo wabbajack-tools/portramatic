@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/bc/7f/23/bc7f236d64bdc68d13415e10ee751219.jpg",
   "md5": "967BA6F8F1128699DDB6E7FE17DBABD1",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "shadowrun",
+    "male",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -500,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -268,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

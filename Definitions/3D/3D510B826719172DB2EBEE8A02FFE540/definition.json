@@ -4,27 +4,47 @@
   "tags": [
     "conan",
     "barbarian",
-    "warrior"
+    "warrior",
+    "tattoo",
+    "drawing",
+    "skyrim",
+    "dark",
+    "elf",
+    "assassin",
+    "female",
+    "destroyer",
+    "phroilan",
+    "gardner",
+    "rt",
+    "jakub",
+    "wieczniak",
+    "whisp",
+    "blacksmith",
+    "matt",
+    "forsyth"
   ],
   "small": {
     "scale": 0.9599999999999997,
     "offset_x": -270,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -67,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -16,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

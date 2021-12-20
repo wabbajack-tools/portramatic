@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/1e/cc/7f/1ecc7fefb008a578879c30467503eb51.jpg",
   "md5": "95B5461891265EF89C692C92B6698154",
   "tags": [
-    ""
+    "",
+    "assassin\u0027s",
+    "creed",
+    "odyssey",
+    "gods",
+    "sobek",
+    "origins",
+    "trailer",
+    "plate",
+    "armor",
+    "heavy",
+    "dragon",
+    "knight",
+    "leather",
+    "matthias",
+    "de",
+    "muylder",
+    "self",
+    "jos\u00E9",
+    "arias"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0.7999999999999545,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,55 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "inhyuk",
+    "lee",
+    "immortal",
+    "hulk",
+    "covers",
+    "venom",
+    "variant",
+    "anime",
+    "girl",
+    "bewitching",
+    "janna",
+    "fan",
+    "yumi",
+    "banana",
+    "vampire",
+    "le",
+    "hoang",
+    "sci",
+    "fi",
+    "rpg",
+    "famme",
+    "fatale",
+    "alina",
+    "ogoltsova",
+    "https://www"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -436.9999999999999,
     "offset_y": -374.9999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -123.99999999999977,
     "offset_y": -147.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -119.22222222222285,
     "offset_y": -245.61111111111086,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

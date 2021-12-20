@@ -10,25 +10,47 @@
     "apparel",
     "female",
     "woman",
-    "vampire"
+    "vampire",
+    "dracula",
+    "from",
+    "castlevania",
+    "fan",
+    "count",
+    "strahd",
+    "talaitha",
+    "monica",
+    "doss",
+    "wedding",
+    "brandon",
+    "barnes",
+    "dark",
+    "magician",
+    "shar\u0027ya",
+    "ardat",
+    "wizard"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -149.20000000000016,
     "offset_y": -10.800000000000011,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -2.999999999999943,
     "offset_y": -1.6000000000000796,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.079999999999999,
     "offset_x": -12.351851851851961,
     "offset_y": -13.21296296296282,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

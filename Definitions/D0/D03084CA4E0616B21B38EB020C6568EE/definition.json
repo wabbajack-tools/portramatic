@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/9f/4f/ca/9f4fcaa7ede6cea38089350f225e6781.jpg",
   "md5": "D03084CA4E0616B21B38EB020C6568EE",
   "tags": [
-    ""
+    "",
+    "shield",
+    "maiden",
+    "tattoo",
+    "viking",
+    "shieldmaiden",
+    "armor",
+    "snow",
+    "white",
+    "huntsman",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "witcher",
+    "game",
+    "thrones",
+    "ygritte",
+    "c",
+    "juk",
+    "character",
+    "throne"
   ],
   "small": {
     "scale": 1,
     "offset_x": -436,
     "offset_y": -599,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -313,
     "offset_y": -584,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -370,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

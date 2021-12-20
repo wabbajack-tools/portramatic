@@ -6,27 +6,36 @@
     "female",
     "warrior",
     "rogue",
-    "dancer"
+    "dancer",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -809.7999999999997,
     "offset_y": -238.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6501666666666666,
     "offset_x": -353.1999999999998,
     "offset_y": -70.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7314166666666662,
     "offset_x": -142.32407407407482,
     "offset_y": -23.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

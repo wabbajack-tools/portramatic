@@ -4,27 +4,53 @@
   "tags": [
     "female",
     "tiefling",
-    "fighter"
+    "fighter",
+    "warrior",
+    "elf",
+    "paladin",
+    "dd",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "armors",
+    "heavy",
+    "dark",
+    "gunther_game",
+    "j",
+    "p",
+    "character",
+    "asian",
+    "olya",
+    "didenko",
+    "https://www",
+    "160906",
+    "san",
+    "mufan",
+    "artstation."
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -409,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5600000000000005,
     "offset_x": -273,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -72,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,56 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "siduri",
+    "gilgamesh",
+    "goddess",
+    "poem",
+    "greek",
+    "gods",
+    "zodiac",
+    "fairies",
+    "03",
+    "le",
+    "vuong",
+    "maling",
+    "\u5443",
+    "\u4E0D\u5C0F\u5FC3\u5220\u4E86\u2026\u2026",
+    "cy",
+    "l",
+    "character",
+    "dark",
+    "design",
+    "meir",
+    "\u30E1",
+    "\u30A4\u30A2\uFF09\u0022cat",
+    "ear",
+    "costume\u0022",
+    "wisnu",
+    "tan"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -375,
     "offset_y": -201,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -171,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -16,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

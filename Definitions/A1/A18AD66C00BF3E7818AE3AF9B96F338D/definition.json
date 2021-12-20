@@ -2,25 +2,54 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90b0cf78-3356-43b3-a7a2-8e6bf0e85ef1/davhxhm-75ac3a42-0716-4246-96e0-9f73466047a9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwYjBjZjc4LTMzNTYtNDNiMy1hN2EyLThlNmJmMGU4NWVmMVwvZGF2aHhobS03NWFjM2E0Mi0wNzE2LTQyNDYtOTZlMC05ZjczNDY2MDQ3YTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZHZmqvHfoK31budu1ouYkCdMEo-KFm2uzq-F4h8BtFA",
   "md5": "A18AD66C00BF3E7818AE3AF9B96F338D",
   "tags": [
-    ""
+    "",
+    "female",
+    "ninja",
+    "tattoo",
+    "anime",
+    "ronin",
+    "samurai",
+    "japanese",
+    "drawings",
+    "girls",
+    "crow",
+    "elf",
+    "bangku",
+    "an",
+    "inspiration",
+    "nier:automata",
+    "sam",
+    "s",
+    "cover",
+    "work",
+    "gerald",
+    "parel",
+    "2021",
+    "black",
+    "cat"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -207,
     "offset_y": -192,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -92,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -16,
     "offset_y": -152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

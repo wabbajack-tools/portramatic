@@ -4,27 +4,48 @@
   "tags": [
     "outsider",
     "male",
-    "mage"
+    "mage",
+    "farmer",
+    "djinn",
+    "efreet",
+    "vampire",
+    "masquerade",
+    "age",
+    "pantheons",
+    "huitzilopochtli",
+    "pantheon",
+    "king",
+    "rodolfo",
+    "h",
+    "https://www.artstation",
+    "knight",
+    "gyu",
+    "bin",
+    "yun",
+    "character"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -401.5,
     "offset_y": -202,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -248.5,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -159,
     "offset_y": -33,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

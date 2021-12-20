@@ -9,27 +9,58 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "athena",
+    "artwork",
+    "goddess",
+    "anime",
+    "sinbad",
+    "legend",
+    "seven",
+    "seas",
+    "league",
+    "legends",
+    "girl",
+    "power",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "challenge",
+    "zuzanna",
+    "kucharska",
+    "thor",
+    "hitokiri",
+    "battousai",
+    "realistic",
+    "eolim",
+    "bruno",
+    "wagner",
+    "portraits"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -438,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -214,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000003,
     "offset_x": -272,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

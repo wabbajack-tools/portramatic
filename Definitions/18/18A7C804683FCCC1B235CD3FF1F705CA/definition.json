@@ -9,27 +9,49 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "y",
+    "shtola",
+    "34",
+    "cosplay",
+    "te",
+    "female",
+    "muscle",
+    "xxx",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "replicant",
+    "no.12",
+    "mumu",
+    "mei",
+    "https://www.artstation.com/artwork/kaqlk",
+    "cyberpunk"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -253,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999932,
     "offset_x": -56,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.49,
     "offset_x": -58,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/b7/6d/86/b76d863948bbab644f4c75923e0ed5c6.jpg",
   "md5": "672CBFA6F286B4803C5A7C7F286A5566",
   "tags": [
-    ""
+    "",
+    "anime",
+    "goddess",
+    "drawing",
+    "dark",
+    "beautiful",
+    "deity",
+    "fallen",
+    "angel",
+    "guardian",
+    "angels",
+    "some",
+    "old",
+    "stuff",
+    "dimitar",
+    "ivanov",
+    "personal",
+    "work",
+    "01",
+    "marco",
+    "alvares",
+    "kassandra",
+    "assassin\u0027",
+    "s",
+    "creed",
+    "odyssey"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -337,
     "offset_y": -246,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -71,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -92,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

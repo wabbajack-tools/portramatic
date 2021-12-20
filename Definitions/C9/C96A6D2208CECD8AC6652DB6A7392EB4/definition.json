@@ -2,27 +2,51 @@
   "source": "https://pbs.twimg.com/media/EVgz9kJWoAEGMHB.jpg",
   "md5": "C96A6D2208CECD8AC6652DB6A7392EB4",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "fan",
+    "male",
+    "paladin",
+    "warlock",
+    "orc",
+    "warrior",
+    "chaos",
+    "warhammer",
+    "40k",
+    "https://www.artstation.com/artwork/nbmpn",
+    "armor",
+    "character",
+    "design",
+    "my",
+    "artwork",
+    "demon",
+    "allocer",
+    "phu",
+    "thieu"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -351,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -3,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -12,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

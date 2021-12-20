@@ -5,27 +5,54 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "norwegian",
+    "armed",
+    "forces",
+    "soldiers",
+    "home",
+    "guard",
+    "knight",
+    "armor",
+    "dynasty",
+    "warriors",
+    "miniatures",
+    "medieval",
+    "knights",
+    "death",
+    "girl",
+    "zach",
+    "sharts",
+    "orc",
+    "ting",
+    "xu",
+    "concept",
+    "sichen",
+    "wang",
+    "https://www"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -681,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3999999999999996,
     "offset_x": -378,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5396666666666663,
     "offset_x": -374,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

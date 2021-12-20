@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/4c/e5/37/4ce537cfd256547ed1211978b83fbb01.jpg",
   "md5": "5F845360D1C85F6902685860713E4F3B",
   "tags": [
-    "Angel"
+    "Angel",
+    "archangel",
+    "michael",
+    "warrior",
+    "saint",
+    "angel",
+    "gabriel",
+    "guardian",
+    "angels",
+    "knight",
+    "armor",
+    "fallen",
+    "dark",
+    "heavy",
+    "dragon",
+    "death",
+    "\u9F99\u9A91",
+    "3q",
+    "studio",
+    "anime",
+    "berserker",
+    "concept",
+    "marco",
+    "r.",
+    "sassi",
+    "blacklight",
+    "clan",
+    "terry",
+    "wei",
+    "character"
   ],
   "small": {
     "scale": 1,
     "offset_x": -186,
     "offset_y": -222,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -112,
     "offset_y": -181,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -36,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

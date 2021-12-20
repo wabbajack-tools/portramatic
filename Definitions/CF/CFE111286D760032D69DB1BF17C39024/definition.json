@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/564x/62/90/6d/62906de6b9f075d65db344fee189b53b.jpg",
   "md5": "CFE111286D760032D69DB1BF17C39024",
   "tags": [
-    ""
+    "",
+    "red",
+    "hair",
+    "female",
+    "warrior",
+    "elves",
+    "haired",
+    "assassin",
+    "world",
+    "warcraft",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "gloves",
+    "jewelry",
+    "necklace",
+    "d\u0026d",
+    "elf",
+    "wizard",
+    "ian",
+    "boe",
+    "https://www.artstation.com/artwork/qxob",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www.artstation.com/artwork/d4ewe",
+    "character",
+    "iga",
+    "kunoichi",
+    "thor",
+    "odenson",
+    "fighter"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -287,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -86,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

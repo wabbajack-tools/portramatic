@@ -11,27 +11,57 @@
     "contract",
     "worrior",
     "bikini",
-    "armor"
+    "armor",
+    "kratos",
+    "league",
+    "legends",
+    "warriors",
+    "last",
+    "guardian",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "\u5C71\u5CB3\u306E\u5B88\u4EBA",
+    "xi",
+    "zhang",
+    "path",
+    "to",
+    "avengement",
+    "chalky",
+    "nan",
+    "https://www.artstation.com/artwork",
+    "sisters",
+    "battle",
+    "arco",
+    "flagellant",
+    "jaime",
+    "martinez",
+    "warhammer"
   ],
   "small": {
     "scale": 1.7700000000000007,
     "offset_x": -359,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -154,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -42,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

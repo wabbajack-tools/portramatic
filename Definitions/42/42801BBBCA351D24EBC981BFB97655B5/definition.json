@@ -4,27 +4,50 @@
   "tags": [
     "misc",
     "male",
-    "warrior"
+    "warrior",
+    "dog",
+    "creature",
+    "concept",
+    "fred",
+    "rambaud",
+    "gamora",
+    "last",
+    "us",
+    "hellboy",
+    "kestutis",
+    "rinkevicius",
+    "shaman",
+    "work",
+    "progress",
+    "s\u00E9bastien",
+    "levieux",
+    "creepy",
+    "dude",
+    "ksenia",
+    "galushkina"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -106.79999999999973,
     "offset_y": -49.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -70.19999999999982,
     "offset_y": -25.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -76.32407407407482,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

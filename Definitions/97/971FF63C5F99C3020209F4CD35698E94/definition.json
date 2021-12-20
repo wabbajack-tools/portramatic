@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/e9/12/1e/e9121ee3a518d938fc55c561e8df3873.jpg",
   "md5": "971FF63C5F99C3020209F4CD35698E94",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "character",
+    "wow",
+    "warrior",
+    "concept",
+    "orc",
+    "heavy",
+    "armor",
+    "dungeons",
+    "dragons",
+    "knight",
+    "kings",
+    "realm",
+    "commanders",
+    "denman",
+    "rooke",
+    "d\u0026d",
+    "characters",
+    "todor",
+    "hristov",
+    "2019",
+    "10.10",
+    "liu",
+    "pengcheng",
+    "https://www"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -366,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -103,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -20,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

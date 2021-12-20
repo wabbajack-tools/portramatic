@@ -29,27 +29,35 @@
     "tom",
     "bruck",
     "https://www.artstation.com/artwork/loja5",
-    "creature"
+    "creature",
+    "human",
+    "female",
+    "warrior",
+    "elven",
+    "character"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -79,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -65,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -10,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

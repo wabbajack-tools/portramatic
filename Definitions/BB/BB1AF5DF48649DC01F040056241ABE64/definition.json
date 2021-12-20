@@ -2,27 +2,58 @@
   "source": "https://i.imgur.com/v9vZJ7h.jpeg",
   "md5": "BB1AF5DF48649DC01F040056241ABE64",
   "tags": [
-    ""
+    "",
+    "icewind",
+    "dale",
+    "portraits",
+    "characters",
+    "heavy",
+    "armor",
+    "skyrim",
+    "death",
+    "korps",
+    "krieg",
+    "dragon",
+    "lord",
+    "rings",
+    "online",
+    "shadow",
+    "mordor",
+    "fallen",
+    "paladin",
+    "lubomir",
+    "hij",
+    "watchman",
+    "sachin",
+    "nagar",
+    "trinity",
+    "souls",
+    "dancer",
+    "boreal",
+    "valley"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -544,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -189,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -34,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

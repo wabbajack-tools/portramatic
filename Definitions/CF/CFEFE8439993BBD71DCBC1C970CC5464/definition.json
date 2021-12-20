@@ -4,27 +4,49 @@
   "tags": [
     "elf",
     "female",
-    "archer"
+    "archer",
+    "soldier",
+    "drawing",
+    "military",
+    "future",
+    "paladin",
+    "liz",
+    "son",
+    "women",
+    "warrior",
+    "beautiful",
+    "half-length",
+    "sure",
+    "wang",
+    "girl",
+    "character",
+    "joan",
+    "arc",
+    "red",
+    "pencil"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -251.5,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999994,
     "offset_x": -209.5,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799166666666662,
     "offset_x": -47,
     "offset_y": -71,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/034/241/268/large/randy-vargas-vargasni-warrior-web.jpg?1611773601",
   "md5": "E7BF9F5701CCE9264FFD103B7DCA708D",
   "tags": [
-    ""
+    "",
+    "stormlight",
+    "eshonai",
+    "brandon",
+    "sanderson",
+    "kaladin",
+    "medieval",
+    "knights",
+    "spartan",
+    "warrior",
+    "templar",
+    "knight",
+    "armor",
+    "death",
+    "graph",
+    "billy",
+    "christian",
+    "dungeons",
+    "dragons",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "https://www.artstation.com/artwork/knight-knight"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -437,
     "offset_y": -162,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -162,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -88,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

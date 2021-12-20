@@ -9,27 +9,45 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "crow",
+    "witch",
+    "yunpong",
+    "yoonhwa,choi",
+    "rage",
+    "bahamut",
+    "\u30AB\u30FC\u30B9\u30C8\u30EC\u30F3\u30C8\u30A8\u30F4\u30A9\u30CB\u30FC",
+    "hyunjoon",
+    "kim",
+    "jealousy",
+    "xiao",
+    "artstation.",
+    "mermaid",
+    "artwork",
+    "anime"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -303,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -97,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8700000000000003,
     "offset_x": -148,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

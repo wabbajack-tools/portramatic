@@ -2,27 +2,56 @@
   "source": "https://www.teahub.io/photos/full/56-563622_wow-blood-elf-portrait.png",
   "md5": "D74A3C44BC5286A815E720F25AC04102",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "fan",
+    "warrior",
+    "armor",
+    "league",
+    "legends",
+    "death",
+    "knight",
+    "dark",
+    "vampire",
+    "manga",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend",
+    "chaos",
+    "redraw",
+    "soan",
+    "valentine",
+    "guqin",
+    "sona",
+    "phong",
+    "anh"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -103,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -15,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -58,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,39 @@
   "source": "https://staticdelivery.nexusmods.com/images/2607/1152573-1595663703.jpg",
   "md5": "0D715C87FD200E9808D007C118CF6F1F",
   "tags": [
-    "Regongar"
+    "Regongar",
+    "spider-man",
+    "league",
+    "legends",
+    "chiron",
+    "smite",
+    "fanart",
+    "dhaniels",
+    "castillo",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -187,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -39,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

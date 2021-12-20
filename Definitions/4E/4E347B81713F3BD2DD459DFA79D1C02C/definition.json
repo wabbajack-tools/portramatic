@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/a3/a3/b2/a3a3b2847d4587444c0a45de9c2e1f9c.jpg",
   "md5": "4E347B81713F3BD2DD459DFA79D1C02C",
   "tags": [
-    "#Barbarian #knight"
+    "#Barbarian #knight",
+    "ape",
+    "d\u0026d",
+    "character",
+    "artwork",
+    "jungle",
+    "temple",
+    "map",
+    "mercenary",
+    "jian",
+    "li",
+    "design",
+    "concept",
+    "characters",
+    "dungeons",
+    "barbarians",
+    "vlad",
+    "gheneli",
+    "https://www.artstation.com/artwork/x1q6x",
+    "barbarian",
+    "new",
+    "earth",
+    "savage",
+    "nick",
+    "acuna",
+    "https://www.artstation.com/artwork/oz2vw"
   ],
   "small": {
     "scale": 2.0200000000000005,
     "offset_x": -245.5999999999999,
     "offset_y": -113.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8400000000000007,
     "offset_x": -155.20000000000022,
     "offset_y": -63.200000000000045,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8300000000000012,
     "offset_x": 3.2037037037039227,
     "offset_y": -64.07407407407413,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

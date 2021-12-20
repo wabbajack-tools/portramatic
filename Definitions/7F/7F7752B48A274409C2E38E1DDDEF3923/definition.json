@@ -9,27 +9,48 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "lol",
+    "concept",
+    "league",
+    "fan",
+    "game",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "x2\uFF0D\u89E3\u795E\u8005",
+    "krenz",
+    "cushart",
+    "illustration",
+    "inspiration",
+    "anime"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -153,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -12,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.26,
     "offset_x": -6,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

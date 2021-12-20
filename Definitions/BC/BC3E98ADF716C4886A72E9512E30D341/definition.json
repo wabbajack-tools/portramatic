@@ -5,27 +5,49 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "medieval",
+    "iron",
+    "man",
+    "hawkeye",
+    "steampunk",
+    "avengers",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "personal",
+    "work",
+    "2019",
+    "4_",
+    "gunner",
+    "sohong"
   ],
   "small": {
     "scale": 0.9999999999999998,
     "offset_x": -361.5,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999994,
     "offset_x": -143.5,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999995,
     "offset_x": -27,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

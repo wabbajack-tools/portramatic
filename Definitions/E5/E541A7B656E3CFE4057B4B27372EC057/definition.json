@@ -1,28 +1,46 @@
 {
-  "source": "https://cdnb.artstation.com/p/assets/images/images/020/091/985/large/niko-boiko-ragnar-colo.jpg?1566328326&dl=1",
+  "source": "https://cdnb.artstation.com/p/assets/images/images/020/091/985/large/niko-boiko-ragnar-colo.jpg?1566328326\u0026dl=1",
   "md5": "E541A7B656E3CFE4057B4B27372EC057",
   "tags": [
-    ""
+    "",
+    "niko",
+    "bellic",
+    "oneshot",
+    "artist",
+    "game",
+    "thrones",
+    "weapon",
+    "master",
+    "toni",
+    "justamante",
+    "jacobs",
+    "raziel",
+    "andrea",
+    "tentori",
+    "montalto"
   ],
   "small": {
     "scale": 0.26999999999999935,
     "offset_x": -165.6000000000001,
     "offset_y": -16.000000000000057,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -147.19999999999976,
     "offset_y": -1.6000000000004206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -435.70370370370347,
     "offset_y": -11.212962962963047,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

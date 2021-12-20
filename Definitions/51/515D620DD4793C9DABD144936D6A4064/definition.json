@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/originals/47/e1/bc/47e1bc653c28472eaedba131a7628512.jpg",
   "md5": "515D620DD4793C9DABD144936D6A4064",
   "tags": [
-    ""
+    "",
+    "sun",
+    "goddesses",
+    "thea",
+    "goddess",
+    "theia",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -51,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,49 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "league",
+    "legends",
+    "akali",
+    "wallpaper",
+    "sona",
+    "lol",
+    "shadow",
+    "evelynn",
+    "\u51EF\u838E",
+    "mr",
+    "mango",
+    "spirit",
+    "blossom",
+    "riven",
+    "splash",
+    "for",
+    "syndra",
+    "neo",
+    "lee"
   ],
   "small": {
     "scale": 0.7299999999999999,
     "offset_x": -618.2666666666612,
     "offset_y": -12.666666666681692,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -422.86666666666645,
     "offset_y": -10.333333333341614,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -642.3611111111117,
     "offset_y": -11.972222222223422,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

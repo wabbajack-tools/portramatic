@@ -5,27 +5,48 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "warhammer",
+    "40k",
+    "shin",
+    "angyo",
+    "onshi",
+    "sando",
+    "yato",
+    "\uC57C\uD1A0",
+    "en",
+    "2020",
+    "abyss",
+    "michael",
+    "butcher",
+    "with",
+    "pirate",
+    "suho",
+    "park",
+    "https://www"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -724,
     "offset_y": -347,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -431,
     "offset_y": -177,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1196666666666668,
     "offset_x": -638,
     "offset_y": -254,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

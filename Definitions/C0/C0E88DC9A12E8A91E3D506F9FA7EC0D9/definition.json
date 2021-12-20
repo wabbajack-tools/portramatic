@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/564x/50/92/db/5092db61a11375c438f2d2c516ff18c2.jpg",
   "md5": "C0E88DC9A12E8A91E3D506F9FA7EC0D9",
   "tags": [
-    ""
+    "",
+    "zelda",
+    "twilight",
+    "princess",
+    "league",
+    "legends",
+    "mana",
+    "mage",
+    "jackie",
+    "felix",
+    "legend",
+    "cryptids",
+    "edward",
+    "chee",
+    "2021",
+    "warrior",
+    "female",
+    "kevin",
+    "sidharta",
+    "character",
+    "personification"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -223.20000000000007,
     "offset_y": -20.000000000000114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -112.80000000000007,
     "offset_y": -3.1999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -68.87962962962933,
     "offset_y": -4.80555555555577,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

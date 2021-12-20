@@ -5,27 +5,55 @@
     "tiefling",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "mythos",
+    "characters",
+    "shane",
+    "cook",
+    "for",
+    "honor",
+    "fanart",
+    "seung-jun",
+    "baek",
+    "girl",
+    "trooper",
+    "concept",
+    "polina",
+    "gagarina"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -470,
     "offset_y": -190,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -93,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -346,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/41/e5/65/41e5659eebdc6bb55ebadf06e5b87ba8.jpg",
   "md5": "498726BCDC23B58A231F5778F0D71992",
   "tags": [
-    ""
+    "",
+    "necromancer",
+    "girl",
+    "anime",
+    "male",
+    "elf",
+    "female",
+    "league",
+    "legends",
+    "death",
+    "knight",
+    "world",
+    "warcraft",
+    "rogue",
+    "wow",
+    "undead",
+    "cosmic",
+    "being",
+    "altaf",
+    "ahmed",
+    "fallen",
+    "wizard",
+    "maximilian",
+    "naumann"
   ],
   "small": {
     "scale": 1,
     "offset_x": -195,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -102,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

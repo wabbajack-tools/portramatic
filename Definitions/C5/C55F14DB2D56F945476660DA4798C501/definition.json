@@ -9,27 +9,54 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "dark",
+    "elf",
+    "archer",
+    "male",
+    "female",
+    "armor",
+    "knight",
+    "mortal",
+    "kombat",
+    "characters",
+    "archery",
+    "hye",
+    "jeong",
+    "hwang",
+    "https://www",
+    "fan",
+    "work",
+    "junseong",
+    "bae",
+    "artist",
+    "girl",
+    "game",
+    "ready",
+    "assets"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -804,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -180,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999994,
     "offset_x": -200,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

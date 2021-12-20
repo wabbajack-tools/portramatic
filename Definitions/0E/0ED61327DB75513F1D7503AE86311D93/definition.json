@@ -5,27 +5,51 @@
     "outsider",
     "female",
     "mage",
-    "queen"
+    "queen",
+    "samurai",
+    "armor",
+    "warriors",
+    "knight",
+    "conan",
+    "barbarian",
+    "power",
+    "siobh\u00E1n",
+    "iii",
+    "pierre",
+    "raveneau",
+    "inquisitor",
+    "valent",
+    "s.",
+    "https://www.artstation.com/artwork/inquisitor-4960e4ab",
+    "anna",
+    "helme",
+    "warhammer",
+    "40k",
+    "space",
+    "marine"
   ],
   "small": {
     "scale": 0.34999999999999953,
     "offset_x": -359,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -125,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -192,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

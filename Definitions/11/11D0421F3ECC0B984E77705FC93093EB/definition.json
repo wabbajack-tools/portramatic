@@ -15,27 +15,54 @@
     "",
     "fighter",
     "female",
-    "male"
+    "male",
+    "thor",
+    "blu-ray",
+    "dvd",
+    "loki",
+    "from",
+    "archangels",
+    "dark",
+    "elf",
+    "game",
+    "thrones",
+    "erendil",
+    "davis",
+    "engel",
+    "2020",
+    "living",
+    "card",
+    "artwork",
+    "shield",
+    "maiden",
+    "banjiu",
+    "e\u0027vik",
+    "character",
+    "portraits",
+    "inspiration"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -315,
     "offset_y": -316.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -140,
     "offset_y": -228,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -8,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,43 @@
   "tags": [
     "human",
     "male",
-    "samurai"
+    "samurai",
+    "vampire",
+    "swordsman",
+    "cool",
+    "anime",
+    "guy",
+    "naturomancers",
+    "naturomatons",
+    "helder",
+    "mordimer",
+    "book",
+    "cover",
+    "tomek",
+    "larek"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -312,
     "offset_y": -369,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -73,
     "offset_y": -169,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -58,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

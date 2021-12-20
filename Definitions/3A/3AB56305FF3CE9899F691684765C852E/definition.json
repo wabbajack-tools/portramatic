@@ -5,27 +5,46 @@
     "elf",
     "male",
     "warrior",
-    "prince"
+    "prince",
+    "skull",
+    "ace",
+    "spades",
+    "card",
+    "seok",
+    "jeon",
+    "lol",
+    "league",
+    "legends",
+    "star",
+    "wars",
+    "mikkian",
+    "vs",
+    "zabrak",
+    "calvin",
+    "chua"
   ],
   "small": {
     "scale": 0.5500000000000003,
     "offset_x": -379,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999998,
     "offset_x": -316,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -488,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

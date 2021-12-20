@@ -1,26 +1,51 @@
 {
-  "source": "https://sun9-75.userapi.com/impg/2pWwGvEtB_OgUxaJ3Vg6vtfLV8khDWcw_ujqcQ/3GCi6jy8M7o.jpg?size=1365x2048&quality=96&sign=47eb867d8c0216531f48508bdf57762d&type=album",
+  "source": "https://sun9-75.userapi.com/impg/2pWwGvEtB_OgUxaJ3Vg6vtfLV8khDWcw_ujqcQ/3GCi6jy8M7o.jpg?size=1365x2048\u0026quality=96\u0026sign=47eb867d8c0216531f48508bdf57762d\u0026type=album",
   "md5": "93CD42E59048E3F57BC13032343B00BB",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "lightning",
+    "farron",
+    "sean",
+    "\u0022raiko\u0022",
+    "tay",
+    "kunoichi",
+    "lau",
+    "serpentigena",
+    "league",
+    "legend",
+    "katarina",
+    "kim",
+    "moon-hee"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -251,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -62,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -6,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

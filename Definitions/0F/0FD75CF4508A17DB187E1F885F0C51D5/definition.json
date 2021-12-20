@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/1e/eb/9d/1eeb9d316781cf22de6ec43f117922ab.jpg",
   "md5": "0FD75CF4508A17DB187E1F885F0C51D5",
   "tags": [
-    ""
+    "",
+    "female",
+    "armor",
+    "concept",
+    "warrior",
+    "character",
+    "woman",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "f.e.a.r.",
+    "alen",
+    "rocha",
+    "cyberpunk",
+    ".",
+    "kwimael",
+    "https://www.artstation.com/artwork/doejk",
+    "league",
+    "legends",
+    "katarina",
+    "yoonjoo",
+    "park",
+    "legends.",
+    "pinterest"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -146,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -75,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -18,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

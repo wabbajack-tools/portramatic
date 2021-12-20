@@ -4,27 +4,37 @@
   "tags": [
     "male",
     "human",
-    "spy"
+    "spy",
+    "knowledge",
+    "clip",
+    "free",
+    "power",
+    "black",
+    "is",
+    "drawing"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -592,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -407,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -234,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/yGieE7h.jpg",
   "md5": "96D30561E47F972D614D5FEF7AA8719F",
   "tags": [
-    ""
+    "",
+    "pillars",
+    "eternity",
+    "fan",
+    "female",
+    "character",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "she-eredin",
+    "xi",
+    "zhang",
+    "20181223",
+    "qi",
+    "wu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -248,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -147,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 74,
     "offset_y": 30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

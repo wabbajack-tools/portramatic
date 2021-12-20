@@ -8,27 +8,54 @@
     "wizard",
     "fire",
     "flame",
-    "purple"
+    "purple",
+    "dark",
+    "elf",
+    "spells",
+    "paizo",
+    "assassin",
+    "high",
+    "anime",
+    "characters",
+    "c5",
+    "vladislav",
+    "stepura",
+    "character",
+    "portraits",
+    "playing",
+    "design",
+    "practice",
+    "frei",
+    "chien",
+    "medieval",
+    "woman",
+    "armor",
+    "maoshe",
+    "yang",
+    "inspiration"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -206.06666666666695,
     "offset_y": -63.66666666666654,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7489999999999999,
     "offset_x": -134.79999999999995,
     "offset_y": -65.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9585833333333331,
     "offset_x": -141.3888888888887,
     "offset_y": -59.47222222222206,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

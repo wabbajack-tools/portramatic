@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/36/32/46/363246ccbde728c9deb75b9cc65e79e0.jpg",
   "md5": "2FEE6255A5A8207390545386A507A6D5",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "pirate",
+    "angel",
+    "dragon",
+    "knight",
+    "seunghyun",
+    "hong",
+    "ice",
+    "wizard",
+    "miri",
+    "park",
+    "small",
+    "explorer",
+    "mauro",
+    "alocci",
+    "character"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -275,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -70,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -108,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

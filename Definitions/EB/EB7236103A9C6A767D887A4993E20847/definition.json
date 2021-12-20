@@ -2,27 +2,49 @@
   "source": "https://cdn.discordapp.com/attachments/454765884926459933/902384845559332864/1614824421.png",
   "md5": "EB7236103A9C6A767D887A4993E20847",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "clothing",
+    "under_wear",
+    "panties",
+    "android",
+    "21",
+    "amorntep",
+    "matsarat",
+    "123",
+    "arteslav",
+    "~",
+    "di",
+    "2020",
+    "\u590F\u306E\u6C34\u904A\u3073",
+    "pure",
+    "mage"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -192.00000000000003,
     "offset_y": -15.999999999999943,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -217.99999999999994,
     "offset_y": -16.666666666666657,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -28,
     "offset_y": -22.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

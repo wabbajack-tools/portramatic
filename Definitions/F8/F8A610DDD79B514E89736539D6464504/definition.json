@@ -2,27 +2,49 @@
   "source": "https://i.imgur.com/mrWz5y1.jpeg",
   "md5": "F8A610DDD79B514E89736539D6464504",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "moon",
+    "dragon",
+    "solomon",
+    "kane",
+    "dungeons",
+    "dragons",
+    "aztec",
+    "gods",
+    "fire",
+    "ice",
+    "lord",
+    "rings",
+    "coverartwork",
+    "knight",
+    "secret",
+    "nadine",
+    "sch\u00E4kel"
   ],
   "small": {
     "scale": 1,
     "offset_x": -350,
     "offset_y": -233,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -279,
     "offset_y": -164,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

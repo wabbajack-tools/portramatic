@@ -9,27 +9,48 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "unknown",
+    "paintings",
+    "street",
+    "artists",
+    "babrian",
+    "king",
+    "mansik",
+    "yang",
+    "battle",
+    "erak",
+    "note",
+    "girl",
+    "dark",
+    "souls",
+    "assassin",
+    "areum",
+    "kim",
+    "character"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -221,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -24,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.42,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

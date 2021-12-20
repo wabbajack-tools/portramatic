@@ -2,27 +2,46 @@
   "source": "https://i.imgur.com/xuqfgz6.jpeg",
   "md5": "3191AEA445066BA61CF262CEEA16EEC8",
   "tags": [
-    ""
+    "",
+    "demon",
+    "king",
+    "drawing",
+    "hunter",
+    "concept",
+    "cthulhu",
+    "greek",
+    "gods",
+    "ancient",
+    "world",
+    "eaters",
+    "conan",
+    "barbarian",
+    "parshuram",
+    "kishore",
+    "ghosh"
   ],
   "small": {
     "scale": 2.319999999999994,
     "offset_x": -477,
     "offset_y": -653,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -202,
     "offset_y": -341,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7100000000000006,
     "offset_x": -80,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

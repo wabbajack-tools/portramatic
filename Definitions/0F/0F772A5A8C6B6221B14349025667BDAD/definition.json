@@ -1,28 +1,55 @@
 {
-  "source": "https://steamuserimages-a.akamaihd.net/ugc/919179300263160004/D8A77D4BFE782C4B691062384BA01B34B9B28043/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "source": "https://steamuserimages-a.akamaihd.net/ugc/919179300263160004/D8A77D4BFE782C4B691062384BA01B34B9B28043/?imw=5000\u0026imh=5000\u0026ima=fit\u0026impolicy=Letterbox\u0026imcolor=%23000000\u0026letterbox=false",
   "md5": "0F772A5A8C6B6221B14349025667BDAD",
   "tags": [
-    ""
+    "",
+    "wulfrik",
+    "wanderer",
+    "warhammer",
+    "painting",
+    "lord",
+    "rings",
+    "four",
+    "horsemen",
+    "13th",
+    "warrior",
+    "orc",
+    "gears",
+    "war",
+    "game",
+    "thrones",
+    "hard",
+    "walk",
+    "andrzej",
+    "dybowski",
+    "character",
+    "portraits",
+    "station",
+    "lion",
+    "sculpture"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -464,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -241,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -556,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

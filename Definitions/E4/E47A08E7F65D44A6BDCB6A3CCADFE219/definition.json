@@ -2,27 +2,52 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/015/587/000/large/lisa-buijteweg-16.jpg",
   "md5": "E47A08E7F65D44A6BDCB6A3CCADFE219",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "goddesses",
+    "love",
+    "goddess",
+    "angels",
+    "disney",
+    "princess",
+    "sailor",
+    "moon",
+    "jeanne",
+    "from",
+    "bayonetta",
+    "gabriel",
+    "de",
+    "aguiar",
+    "https://www.artstation.com/artwork",
+    "gemini-3rd",
+    "zodiac",
+    "sign",
+    "el-geron",
+    "lg"
   ],
   "small": {
     "scale": 1,
     "offset_x": -377,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -245,
     "offset_y": -128,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -94,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

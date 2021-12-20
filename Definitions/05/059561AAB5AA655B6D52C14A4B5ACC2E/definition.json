@@ -6,27 +6,42 @@
     "female",
     "mage",
     "priest",
-    "princess"
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "a",
+    "dream",
+    "is",
+    "wish",
+    "dimitris",
+    "karakousis"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -409,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.40999999999999964,
     "offset_x": -232,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6496666666666664,
     "offset_x": -360,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

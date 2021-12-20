@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/6d/21/b0/6d21b08b962e2fa0b52da1d251f4b9ae.jpg",
   "md5": "63595D32EF07A025E4969FF02A95EBBA",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "concept",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "ancient",
+    "samurai",
+    "plate",
+    "armors",
+    "heavy",
+    "mandalorian",
+    "orc",
+    "warrior",
+    "ting",
+    "xu",
+    "characters",
+    "lion",
+    "heart",
+    "ed",
+    "pantera",
+    "blind",
+    "https://www.artstation.com/artwork/xb6l1y"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -453,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -168,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -8,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

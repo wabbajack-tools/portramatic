@@ -6,27 +6,55 @@
     "female",
     "dancer",
     "mage",
-    "rogue"
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "white",
+    "magician",
+    "yoonju",
+    "cho",
+    "https://www",
+    "luthiel",
+    "character",
+    "2017",
+    "jungwon",
+    "park",
+    "high",
+    "archer",
+    "gh",
+    "jang",
+    "concept"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -743,
     "offset_y": -318,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5115833333333326,
     "offset_x": -332,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6019999999999992,
     "offset_x": -230,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

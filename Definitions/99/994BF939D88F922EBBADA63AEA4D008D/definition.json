@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/78/bd/2b/78bd2be049304584e2be55fd92f3a8e3.jpg",
   "md5": "994BF939D88F922EBBADA63AEA4D008D",
   "tags": [
-    ""
+    "",
+    "sniper",
+    "ghost",
+    "warrior",
+    "viking",
+    "queen",
+    "sela",
+    "sviatoslav",
+    "gerasimchuk",
+    "captious",
+    "vampire",
+    "yutthaphong",
+    "kaewsuk",
+    "zhuoxin",
+    "ye",
+    "2020"
   ],
   "small": {
     "scale": 1.789999999999997,
     "offset_x": -425.59999999999945,
     "offset_y": -30.400000000000148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -115.19999999999948,
     "offset_y": -4.799999999999898,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -14.41666666666697,
     "offset_y": -6.407407407407163,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

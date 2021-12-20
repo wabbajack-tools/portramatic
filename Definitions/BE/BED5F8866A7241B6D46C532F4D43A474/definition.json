@@ -24,27 +24,57 @@
     "fleet",
     "vitaliy",
     "ostaschenko",
-    "star"
+    "star",
+    "revenant",
+    "fan",
+    "monster",
+    "doom",
+    "pirates",
+    "caribbean",
+    "female",
+    "assassin",
+    "wraith",
+    "jens",
+    "kuczwara",
+    "https://www.artstation.com/artwork/yayvdp",
+    "#digitalart",
+    "#",
+    "eirys",
+    "hendry",
+    "iwanaga",
+    "artwork",
+    "woman",
+    "dark",
+    "hunter",
+    "\u3147\u3147",
+    "joo",
+    "concept",
+    "characters",
+    "rpg",
+    "character"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -127,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -92,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -34,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

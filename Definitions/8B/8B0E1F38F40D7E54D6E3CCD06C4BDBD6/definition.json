@@ -6,27 +6,36 @@
     "male",
     "rogue",
     "mage",
-    "prince"
+    "prince",
+    "path",
+    "hunter",
+    "felicia",
+    "von",
+    "walkendorff",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -244,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -210,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7696666666666665,
     "offset_x": -144,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,59 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/040/469/222/large/jin-yi-01.jpg?1628948198",
   "md5": "DC55036CB7CE1ECEFF6F549EB7F72297",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "spartan",
+    "warrior",
+    "wood",
+    "elf",
+    "hermes",
+    "woman",
+    "poulsta",
+    "star",
+    "female",
+    "character",
+    "design",
+    "outfits",
+    "\u9EC4\u80F6\u5E26",
+    "\u795D\u83CA\u8273",
+    "zjy",
+    "2021",
+    "sci",
+    "fi",
+    "characters",
+    "conceptual",
+    "persephon\u00EB",
+    "half-elf",
+    "ranger",
+    "david",
+    "d.m.",
+    "cornish",
+    "half"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -942,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -495,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -258,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,50 @@
   "md5": "92C889A1C6C639409977BE98ACC679B3",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "female",
+    "warrior",
+    "photos",
+    "woman",
+    "character",
+    "concept",
+    "athena",
+    "weile",
+    "zhang",
+    "tauren",
+    "building",
+    "world",
+    "warcraft",
+    "legion",
+    "orc",
+    "\u0027n",
+    "elf",
+    "battle",
+    "jason",
+    "rumpff"
   ],
   "small": {
     "scale": 1.13,
     "offset_x": -302,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -56,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999939,
     "offset_x": -2,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

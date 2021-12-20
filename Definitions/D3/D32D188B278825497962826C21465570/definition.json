@@ -8,27 +8,47 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "faerie",
+    "fairies",
+    "fairy",
+    "cards",
+    "sythini",
+    "wiktoria",
+    "drewniak",
+    "urealms",
+    "fanart",
+    "quintara",
+    "lotus",
+    "rigrena",
+    "\u2605",
+    "sanja",
+    "grbic",
+    "pamela",
+    "\u0142uniewska"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -162,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -113,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -110,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

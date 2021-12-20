@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/4a/03/fb/4a03fb44b1b9e44950ba01b9a5667a70.jpg",
   "md5": "2BC6F552EEF5DDE9F6EA54E1D2923E7E",
   "tags": [
-    ""
+    "",
+    "pig",
+    "warrior",
+    "boar",
+    "soldier",
+    "men",
+    "dungeons",
+    "dragons",
+    "black",
+    "dragon",
+    "lotc",
+    "master",
+    "pirate",
+    "juan",
+    "livia",
+    "prima",
+    "wei",
+    "feng",
+    "2020",
+    "monster",
+    "artwork",
+    "molitova",
+    "kyuyong",
+    "eom"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -310,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -109,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -72,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,59 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "assassin",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "heavy",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "luthiel",
+    "donfoo",
+    ".",
+    "character",
+    "portraits",
+    "\uB0A8\uC790",
+    "\uAC70\uB108",
+    "jiyoo",
+    "kim",
+    "wizard",
+    "ji",
+    "ho",
+    "song",
+    "girl"
   ],
   "small": {
     "scale": 1.0200000000000002,
     "offset_x": -874,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -463,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -292,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

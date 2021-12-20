@@ -5,27 +5,39 @@
     "human",
     "female",
     "dancer",
-    "warrior"
+    "warrior",
+    "girl_2",
+    "saisai",
+    "ye",
+    "goddess",
+    "sparkle",
+    "wolfgang",
+    "leblanc",
+    "hideyuki",
+    "ashizawa"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -220.5,
     "offset_y": -175,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2499999999999991,
     "offset_x": -65.5,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3999999999999993,
     "offset_x": -31,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/1f/fc/70/1ffc70cc872130bb4a3a7a516721def5.jpg",
   "md5": "6AAC1B5EAE29CCD48CD892BA23E5F3B9",
   "tags": [
-    ""
+    "",
+    "devil",
+    "may",
+    "cry",
+    "5",
+    "nikki",
+    "j",
+    "novice",
+    "protector",
+    "gunship",
+    "revolution",
+    "alien",
+    "ommander",
+    "daniel",
+    "carrasco",
+    "lion"
   ],
   "small": {
     "scale": 1,
     "offset_x": -217,
     "offset_y": -201,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -119,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 60,
     "offset_y": 70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

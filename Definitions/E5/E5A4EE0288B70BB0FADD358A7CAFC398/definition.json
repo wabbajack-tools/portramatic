@@ -1,28 +1,62 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5a%2F6c%2F6c%2F5a6c6c58460f85c569155106add118c1.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5a%2F6c%2F6c%2F5a6c6c58460f85c569155106add118c1.jpg\u0026f=1\u0026nofb=1",
   "md5": "E5A4EE0288B70BB0FADD358A7CAFC398",
   "tags": [
-    ""
+    "",
+    "elf",
+    "bard",
+    "human",
+    "concept",
+    "warriors",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "head_wear",
+    "hat",
+    "40k",
+    "heresy",
+    "phil",
+    "moss",
+    "https://www",
+    "burning",
+    "teldrassil",
+    "sanjin",
+    "halimic",
+    "card",
+    "game",
+    "illustrations",
+    "2013",
+    "magdalena",
+    "pagowska"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -484,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -135,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -96,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

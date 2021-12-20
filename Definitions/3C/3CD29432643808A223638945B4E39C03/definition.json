@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/ef/a3/fd/efa3fd142a413b3ffaef84b945c727a8.jpg",
   "md5": "3CD29432643808A223638945B4E39C03",
   "tags": [
-    ""
+    "",
+    "paperback",
+    "book",
+    "covers",
+    "creative",
+    "awesome",
+    "witcher",
+    "dawn",
+    "war",
+    "warriors",
+    "romance",
+    "three",
+    "kingdoms",
+    "warhammer",
+    "40k",
+    "game",
+    "thrones",
+    "between",
+    "dog",
+    "wolf",
+    "unofficial",
+    "gwent-card",
+    "otaku",
+    "klaus",
+    "wittmann",
+    "iorveth",
+    "gwent",
+    "card",
+    "anna",
+    "podedworna"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -140,
     "offset_y": -189,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -18,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -32,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

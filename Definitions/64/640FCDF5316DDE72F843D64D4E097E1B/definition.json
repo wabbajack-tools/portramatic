@@ -4,27 +4,50 @@
   "tags": [
     "male",
     "human",
-    "warrior"
+    "warrior",
+    "light",
+    "angel",
+    "wings",
+    "lightworker",
+    "orc",
+    "night",
+    "elf",
+    "dungeons",
+    "dragons",
+    "aftermath",
+    "\u00E2ngelo",
+    "bortolini",
+    "https://www.artstation.com/artwork/b1exo",
+    "lookout",
+    "john",
+    "thacker",
+    "some",
+    "my",
+    "artworks",
+    "way"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -443,
     "offset_y": -150,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -239,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -78,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

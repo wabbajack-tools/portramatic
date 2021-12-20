@@ -6,27 +6,53 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "castlevania",
+    "lords",
+    "shadow",
+    "dark",
+    "elf",
+    "black",
+    "dragon",
+    "forerunner",
+    "pact",
+    "elder",
+    "scrolls",
+    "l.u.c.i.",
+    "lethal",
+    "unified",
+    "cybernetic",
+    "rider",
+    "max",
+    "yenin"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -681.7999999999997,
     "offset_y": -364.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -313.19999999999976,
     "offset_y": -90.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -264.3240740740748,
     "offset_y": -117.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

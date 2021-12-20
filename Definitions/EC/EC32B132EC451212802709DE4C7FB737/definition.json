@@ -7,27 +7,40 @@
     "dancer",
     "mage",
     "priest",
-    "princess"
+    "princess",
+    "pictures",
+    "fairy",
+    "girls",
+    "forest",
+    "dress",
+    "enchanted",
+    "fairies",
+    "oil",
+    "paintings",
+    "frog"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -780,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.851583333333333,
     "offset_x": -754,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.25175,
     "offset_x": -1062,
     "offset_y": -186,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

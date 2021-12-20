@@ -2,27 +2,62 @@
   "source": "https://pbs.twimg.com/media/DzDKCa6XcAEM_Dh.jpg",
   "md5": "10F4EAA5042369A1593449BE7F2C2685",
   "tags": [
-    ""
+    "",
+    "jaina",
+    "proudmoore",
+    "new",
+    "theramore",
+    "artwork",
+    "death",
+    "knight",
+    "dark",
+    "elf",
+    "sniper",
+    "ghost",
+    "warrior",
+    "orcs",
+    "night",
+    "dungeons",
+    "dragons",
+    "souls",
+    "amantia",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "character",
+    "druid",
+    "http://www.artstation.com/artwork/meteor-6e59a933-33d3-486a-b3e6-c70398a3a050",
+    "sci",
+    "fi",
+    "amantian",
+    "rogue",
+    "tom",
+    "bruck",
+    "https://www.artstation.com/artwork/loja5",
+    "creature"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -201,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -74,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -8,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

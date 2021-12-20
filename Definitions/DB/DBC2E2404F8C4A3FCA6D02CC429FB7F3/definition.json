@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/84/22/56/842256a7d59564d4d36e1eccb6daccea.jpg",
   "md5": "DBC2E2404F8C4A3FCA6D02CC429FB7F3",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "concept",
+    "skin",
+    "drow",
+    "\uBE5B",
+    "\uC218\uC815",
+    "lana",
+    "g",
+    "character",
+    "design",
+    "female",
+    "sorcerer",
+    "beautiful",
+    "mamamoo\u300Cwhee",
+    "in\u300D",
+    "wind",
+    "flower",
+    "abdul",
+    "\u0027azim",
+    "rahman",
+    "mamamoo",
+    "kpop",
+    "fanart"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -197,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -94,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.459999999999998,
     "offset_x": -78,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

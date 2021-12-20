@@ -4,27 +4,56 @@
   "tags": [
     "tiefling",
     "male",
-    "mage"
+    "mage",
+    "72",
+    "goetia",
+    "demons",
+    "goetic",
+    "demon",
+    "digital",
+    "chaos",
+    "warrior",
+    "orc",
+    "orcs",
+    "moon",
+    "knight",
+    "nicole",
+    "altenhoff",
+    "heroes",
+    "champion",
+    "marauder",
+    "alex",
+    "boca",
+    "character",
+    "warhammer",
+    "dark",
+    "sea",
+    "monster",
+    "joseph",
+    "c-knight"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -216,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -150,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -46,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

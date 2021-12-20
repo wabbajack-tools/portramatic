@@ -5,27 +5,59 @@
     "human",
     "male",
     "warrior",
-    "prince"
+    "prince",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "heels",
+    "baron",
+    "dong",
+    "zhiwei",
+    "character",
+    "design",
+    "portraits",
+    "concept",
+    "yongwon",
+    "park",
+    "characters",
+    "man",
+    "elves",
+    "hyun",
+    "noh",
+    "https://www.artstation.com/artwork/k8gjd",
+    "elf"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -583,
     "offset_y": -225,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -284,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -236,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

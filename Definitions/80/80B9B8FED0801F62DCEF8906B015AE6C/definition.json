@@ -4,27 +4,48 @@
   "tags": [
     "human",
     "female",
-    "dancer"
+    "dancer",
+    "xiao",
+    "hu",
+    "li",
+    "ling",
+    "huang",
+    "\u7B2C\u4E94\u671F\u7CBE\u54C1\u73ED",
+    "\u5B66\u5458\u4F5C\u4E1A",
+    "star",
+    "cg",
+    "mai",
+    "shuranui",
+    "from",
+    "king",
+    "fighters",
+    "fitaro",
+    "miss",
+    "fortune",
+    "kehdoodle"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -170.5,
     "offset_y": -216,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999992,
     "offset_x": -119.5,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999994,
     "offset_x": -41,
     "offset_y": -23,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

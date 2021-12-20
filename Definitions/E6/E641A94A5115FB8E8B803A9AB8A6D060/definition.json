@@ -2,25 +2,55 @@
   "source": "https://i.pinimg.com/564x/71/f9/df/71f9df54a57041c8bbe377bd590e12ce.jpg",
   "md5": "E641A94A5115FB8E8B803A9AB8A6D060",
   "tags": [
-    ""
+    "",
+    "au",
+    "ra",
+    "ff14",
+    "male",
+    "ffxiv",
+    "cute",
+    "anime",
+    "girl",
+    "avatar",
+    "last",
+    "airbender",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses",
+    "monk",
+    "astro",
+    "burn",
+    "_w",
+    "rpg",
+    "character",
+    "shub",
+    "niggurath",
+    "tong",
+    "tou"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -196,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -118,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -10,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

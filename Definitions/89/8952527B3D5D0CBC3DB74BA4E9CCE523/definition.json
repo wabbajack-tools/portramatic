@@ -2,27 +2,70 @@
   "source": "https://64.media.tumblr.com/64e145b03c5f916b2515ecce19413d0f/tumblr_ptebtb8APt1v4fvg9o1_1280.jpg",
   "md5": "8952527B3D5D0CBC3DB74BA4E9CCE523",
   "tags": [
-    ""
+    "",
+    "total",
+    "war",
+    "three",
+    "kingdoms",
+    "factions",
+    "lu",
+    "bu",
+    "dynasty",
+    "warriors",
+    "knight",
+    "armor",
+    "daedric",
+    "medieval",
+    "knights",
+    "heavy",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "guan",
+    "yinping",
+    "noname",
+    "2021",
+    "pirates",
+    "caribbean",
+    "tides",
+    "hyejin",
+    "jeong",
+    "fireknife",
+    "wolf",
+    "\u738B",
+    "\u741B",
+    "india",
+    "monster",
+    "design",
+    "mythology"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -214,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -166,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -2,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

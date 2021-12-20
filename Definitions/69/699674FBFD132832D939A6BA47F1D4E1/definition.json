@@ -5,27 +5,53 @@
     "human",
     "male",
     "archer",
-    "hunter"
+    "hunter",
+    "chablis",
+    "wine",
+    "vineyards",
+    "white",
+    "legend",
+    "zelda",
+    "warriors",
+    "knights",
+    "yeonhu",
+    ".",
+    "2020",
+    "knight",
+    "character",
+    "cleric",
+    "moon",
+    "fran",
+    "fdez",
+    "2021",
+    "alinaar",
+    "dragon",
+    "wizard",
+    "richard",
+    "sashigane"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -542.7999999999997,
     "offset_y": -360.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -241.19999999999976,
     "offset_y": -219.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -82.32407407407482,
     "offset_y": -81.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

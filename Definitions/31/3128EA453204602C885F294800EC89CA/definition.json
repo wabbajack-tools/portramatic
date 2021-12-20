@@ -11,27 +11,60 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "diablo",
+    "armor",
+    "sets",
+    "reaper",
+    "souls",
+    "female",
+    "assassin",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "daejun",
+    "park",
+    "gae",
+    "go",
+    "league",
+    "angels",
+    "dark",
+    "orcs",
+    "agora",
+    "anatoly",
+    "zelensky",
+    "\uD83D\uDC7E",
+    "\u5F13\u7BAD\u624B",
+    "mao",
+    "chen",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -289.7999999999997,
     "offset_y": -81.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -178.19999999999976,
     "offset_y": -81.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -88.32407407407482,
     "offset_y": -93.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

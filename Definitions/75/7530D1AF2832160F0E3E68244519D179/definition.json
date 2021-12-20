@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/564x/67/e9/e7/67e9e790c0f973263a5525a4c3e47bba.jpg",
   "md5": "7530D1AF2832160F0E3E68244519D179",
   "tags": [
-    ""
+    "",
+    "street",
+    "murals",
+    "graffiti",
+    "designs",
+    "faces"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -70.40000000000083,
     "offset_y": -3.200000000000017,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -2.400000000000091,
     "offset_y": -0.799999999999784,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -12.814814814814554,
     "offset_y": -3.2037037037039227,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

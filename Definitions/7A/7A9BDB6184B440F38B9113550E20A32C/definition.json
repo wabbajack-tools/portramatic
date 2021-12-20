@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/1a/a9/2f/1aa92ff34248575318b3a34314084db4.jpg",
   "md5": "7A9BDB6184B440F38B9113550E20A32C",
   "tags": [
-    ""
+    "",
+    "pirates",
+    "caribbean",
+    "witcher",
+    "league",
+    "legends",
+    "female",
+    "pirate",
+    "lord",
+    "rings",
+    "death",
+    "knight",
+    "a",
+    "soft",
+    "man",
+    "jihwan",
+    "ha",
+    "https://www",
+    "batman",
+    "jin",
+    "roh",
+    "reza",
+    "ilyasa",
+    "execute",
+    "matt",
+    "forsyth"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -238,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -1,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -8,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

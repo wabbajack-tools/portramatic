@@ -6,27 +6,50 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "anime",
+    "girl",
+    "characters",
+    "blue",
+    "magician",
+    "kang",
+    "jihun",
+    "https://www",
+    "archer",
+    "cheolseung",
+    "ok",
+    "kim",
+    "eun",
+    "kyoung"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -854,
     "offset_y": -325,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8615833333333329,
     "offset_x": -490,
     "offset_y": -158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8119999999999994,
     "offset_x": -236,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

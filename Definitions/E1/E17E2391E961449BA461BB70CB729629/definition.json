@@ -26,27 +26,35 @@
     "harder",
     "tiefling",
     "bard",
-    "fan"
+    "fan",
+    "druids",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "paladin",
+    "rogue"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -395,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -210,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -28,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

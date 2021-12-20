@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/YRTxTww.jpeg",
   "md5": "78FA723AA3D8538800F828711FF654F0",
   "tags": [
-    ""
+    "",
+    "male",
+    "dragon",
+    "rider",
+    "knight",
+    "drawing",
+    "armors",
+    "armor",
+    "knights",
+    "roman",
+    "soldier",
+    "heavy",
+    "elder",
+    "scrolls",
+    "online",
+    "old",
+    "robert",
+    "mallinson",
+    "tatiana",
+    "vetrova\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "\u4E00\u4E2A\u9879\u76EE\u7684\u56FE",
+    "ming",
+    "tong"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -405,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -218,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -96,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

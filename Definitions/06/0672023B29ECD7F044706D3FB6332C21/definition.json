@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/ko0W14O.jpeg",
   "md5": "0672023B29ECD7F044706D3FB6332C21",
   "tags": [
-    ""
+    "",
+    "dark",
+    "warrior",
+    "angel",
+    "concept",
+    "black",
+    "panther",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "monkey",
+    "king",
+    "pt",
+    "tacit",
+    "sign",
+    "studio",
+    "hunter",
+    "yuri",
+    "choi",
+    "artwork",
+    "archer",
+    "rodrigo",
+    "a.",
+    "branco"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -303,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2900000000000003,
     "offset_x": -161,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -26,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

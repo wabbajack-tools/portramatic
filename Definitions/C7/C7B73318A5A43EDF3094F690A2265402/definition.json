@@ -2,27 +2,46 @@
   "source": "https://u.livelib.ru/character/1000005264/o/ot8npu0u/o-o.jpeg",
   "md5": "C7B73318A5A43EDF3094F690A2265402",
   "tags": [
-    "necromant"
+    "necromant",
+    "age",
+    "sigmar",
+    "nagash",
+    "wallpaper",
+    "artwork",
+    "league",
+    "legends",
+    "guardians",
+    "galaxy",
+    "prophet",
+    "warlock",
+    "lie",
+    "setiawan",
+    "neutral",
+    "warlocks",
+    "warhammer"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -9,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -56,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -8,
     "offset_y": 106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

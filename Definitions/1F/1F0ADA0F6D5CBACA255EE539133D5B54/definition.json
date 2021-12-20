@@ -11,27 +11,52 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "quicksilver",
+    "scarlet",
+    "witch",
+    "from",
+    "avengers",
+    "vision",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "https://www.artstation.com/artwork/rvnlo",
+    "character",
+    "korean",
+    "d13",
+    "bo",
+    "liu",
+    "raven",
+    "filipe",
+    "emerson"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -349.7999999999997,
     "offset_y": -131.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4100000000000004,
     "offset_x": -258.19999999999976,
     "offset_y": -92.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6800000000000006,
     "offset_x": -20.324074074074815,
     "offset_y": -3.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

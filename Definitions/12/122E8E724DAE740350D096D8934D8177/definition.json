@@ -7,27 +7,47 @@
     "mage",
     "priest",
     "dancer",
-    "queen"
+    "queen",
+    "male",
+    "assassin",
+    "desert",
+    "character",
+    "emperor",
+    "ji",
+    "zhang",
+    "men",
+    "fashion",
+    "\u80E1\u540C\u5B66-yiihuu",
+    "workshop",
+    "yiihuu",
+    "captain",
+    "fortune",
+    "fanart",
+    "valeria",
+    "zagami"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -421,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999925,
     "offset_x": -211,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5493333333333331,
     "offset_x": -222,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

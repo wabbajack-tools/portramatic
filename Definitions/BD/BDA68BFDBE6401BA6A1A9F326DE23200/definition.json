@@ -2,25 +2,66 @@
   "source": "https://i.pinimg.com/originals/e1/d3/db/e1d3db3ae1c701ed01806ecd6d2f3a95.jpg",
   "md5": "BDA68BFDBE6401BA6A1A9F326DE23200",
   "tags": [
-    ""
+    "",
+    "crusader",
+    "knight",
+    "armor",
+    "heavy",
+    "concept",
+    "templar",
+    "lord",
+    "rings",
+    "armors",
+    "two",
+    "towers",
+    "greek",
+    "gods",
+    "medieval",
+    "knights",
+    "conan",
+    "barbarian",
+    "warhammer",
+    "40000",
+    "adeptus",
+    "astartes",
+    "fan",
+    "dmitriy",
+    "mironov",
+    "for",
+    "honor",
+    "highlander",
+    "character",
+    "guillaume",
+    "menuel",
+    "https://www",
+    "harbard",
+    "stonehand",
+    "jackie",
+    "felix",
+    "https://www.artstation.com/artwork/ozb06"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -181,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -170,
     "offset_y": -142,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -2,
     "offset_y": -162,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

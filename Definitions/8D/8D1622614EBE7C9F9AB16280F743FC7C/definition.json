@@ -9,25 +9,37 @@
     "human",
     "graphics",
     "art",
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "fazheng",
+    "cao",
+    "ke"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -1067.1999999999994,
     "offset_y": -408.0000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -303.19999999999993,
     "offset_y": -87.19999999999982,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -171.39814814814713,
     "offset_y": -8.009259259259352,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -5,27 +5,41 @@
     "human",
     "female",
     "samurai",
-    "warrior"
+    "warrior",
+    "nero",
+    "claudius",
+    "caster",
+    "fgo",
+    "saber",
+    "fate",
+    "umu",
+    "anime",
+    "girl",
+    "pin",
+    "up"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -246,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -112,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -48,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

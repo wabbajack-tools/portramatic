@@ -4,27 +4,55 @@
   "tags": [
     "Dragon",
     "sorcerer",
-    "warrior"
+    "warrior",
+    "arc",
+    "angels",
+    "paintings",
+    "archangel",
+    "angel",
+    "sculpture",
+    "archangels",
+    "greek",
+    "gods",
+    "halvard",
+    "naranbaatar",
+    "ganbold",
+    "https://www.artstation.com/artwork/ooyqr4",
+    "sheep",
+    "orcs",
+    "\u6EC4",
+    "\u6D3A",
+    "cthulhu",
+    "dante",
+    "liu",
+    "character",
+    "design",
+    "anime",
+    "dark",
+    "creatures"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -579.9999999999998,
     "offset_y": -317.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -162.66666666666714,
     "offset_y": -68.66666666666683,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -99.99999999999955,
     "offset_y": -25.333333333332803,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

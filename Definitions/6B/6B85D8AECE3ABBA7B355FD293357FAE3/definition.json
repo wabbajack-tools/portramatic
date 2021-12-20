@@ -2,27 +2,35 @@
   "source": "https://i.imgur.com/bXqKCXS.jpeg",
   "md5": "6B85D8AECE3ABBA7B355FD293357FAE3",
   "tags": [
-    ""
+    "",
+    "vikings",
+    "beginning",
+    "journey",
+    "oleg",
+    "kapustin"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -865,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -905,
     "offset_y": -198,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -720,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,45 @@
     "elf",
     "male",
     "warrior",
-    "samurai"
+    "samurai",
+    "inuyasha",
+    "draw",
+    "artwork",
+    "sketches",
+    "angel",
+    "wonjo",
+    "jung",
+    "hex",
+    "elves",
+    "rachel",
+    "weisz",
+    "rework",
+    "from",
+    "bts",
+    "constantine"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -545.7999999999997,
     "offset_y": -30.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2100000000000002,
     "offset_x": -490.1999999999998,
     "offset_y": 0.39999999999957936,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -422.3240740740748,
     "offset_y": -7.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

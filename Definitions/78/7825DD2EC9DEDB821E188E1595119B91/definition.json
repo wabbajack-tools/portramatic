@@ -8,27 +8,32 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "pirates",
+    "caribbean"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -272,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -403,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -368,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

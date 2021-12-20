@@ -4,27 +4,51 @@
   "tags": [
     "dark",
     "dwarf",
-    "wizard"
+    "wizard",
+    "character",
+    "wow",
+    "warrior",
+    "concept",
+    "orc",
+    "pirates",
+    "caribbean",
+    "conan",
+    "barbarian",
+    "barbarians",
+    "scorpion",
+    "peter",
+    "ortiz",
+    "hero",
+    "bretagard",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "quincy",
+    "steven",
+    "shan"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -337.33333333333337,
     "offset_y": -155.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -262,
     "offset_y": -112.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -202.66666666666652,
     "offset_y": -8.666666666666742,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

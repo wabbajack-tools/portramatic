@@ -5,27 +5,56 @@
     "human",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "isabel",
+    "moon",
+    "dog",
+    "full",
+    "goddess",
+    "different",
+    "phases",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "tights",
+    "shoes",
+    "heels",
+    "niefeng",
+    "mingzhu",
+    "yang",
+    "samurai",
+    "artwork",
+    "night",
+    "betrayal",
+    "s",
+    "shan",
+    "jun",
+    "leong"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -752.7999999999997,
     "offset_y": -220.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8101666666666667,
     "offset_x": -322.1999999999998,
     "offset_y": -27.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8214166666666662,
     "offset_x": -208.32407407407482,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

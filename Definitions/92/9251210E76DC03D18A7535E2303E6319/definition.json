@@ -6,27 +6,43 @@
     "female",
     "mage",
     "princess",
-    ""
+    "",
+    "mermaid",
+    "exotic",
+    "paintings",
+    "mythical",
+    "rise",
+    "guardians",
+    "lymara",
+    "christian",
+    "bravery",
+    "arcane",
+    "jungle",
+    "madison",
+    "deboer"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -529,
     "offset_y": -434,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6214166666666661,
     "offset_x": -367,
     "offset_y": -261,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7319166666666659,
     "offset_x": -140,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

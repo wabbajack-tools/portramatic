@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/736x/d5/01/b2/d501b2264fd742ebdcf0d4af685e3d20.jpg",
   "md5": "118F59B21767F1FF1BA3A2865D851D82",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "concept",
+    "character",
+    "warrior",
+    "female",
+    "pirate",
+    "assassin",
+    "pirates",
+    "caribbean",
+    "high",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bighand",
+    "knight",
+    "junq",
+    "jeon",
+    "https://www.artstation.com/artwork/exoea",
+    "archer",
+    "cheolseung",
+    "ok",
+    "rpg",
+    "set",
+    "12",
+    "ernesto",
+    "irawan",
+    "urban",
+    "inspiration",
+    "bard"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -286,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -241,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -4,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

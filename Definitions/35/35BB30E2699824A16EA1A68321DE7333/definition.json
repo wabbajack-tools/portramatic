@@ -4,27 +4,44 @@
   "tags": [
     "halfling",
     "female",
-    "mage"
+    "mage",
+    "dao",
+    "le",
+    "trong",
+    "a2",
+    "nier",
+    "automata",
+    "cute",
+    "mi",
+    "neko",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -119.5,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -80.5,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699166666666664,
     "offset_x": -131,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/1f/ed/38/1fed38f4ecdfcc22c9d6ba79ff33d1f5.jpg",
   "md5": "1041FA75589138FDEB85A1B728DDCD06",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "artwork",
+    "painting",
+    "battle",
+    "orc",
+    "orcs",
+    "warhammer",
+    "40k",
+    "ting",
+    "xu",
+    "2020",
+    "vikings",
+    "zombie",
+    "hunter",
+    "lvl",
+    "filipe",
+    "pagliuso",
+    "https://www.artstation.com/artwork/gd3lz",
+    "dragon",
+    "keeper.",
+    "from",
+    "artstation.com",
+    "character",
+    "dark",
+    "women"
   ],
   "small": {
     "scale": 1,
     "offset_x": -529,
     "offset_y": -493,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -460,
     "offset_y": -374,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -248,
     "offset_y": -344,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

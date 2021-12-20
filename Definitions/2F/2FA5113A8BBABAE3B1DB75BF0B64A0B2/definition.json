@@ -18,27 +18,40 @@
     "dark",
     "knight",
     "jihyeon",
-    "bae"
+    "bae",
+    "wizard",
+    "real",
+    "magic",
+    "spells",
+    "legends",
+    "centaur",
+    "necromancer",
+    "chief",
+    "aaron",
+    "teoh"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -228,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -87,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -18,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

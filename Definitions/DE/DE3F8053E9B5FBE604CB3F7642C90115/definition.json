@@ -2,27 +2,53 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/6/64/Sorin%2C_Vampire_Lord.jpg/revision/latest?cb=20201210175119",
   "md5": "DE3F8053E9B5FBE604CB3F7642C90115",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "vampire",
+    "magic",
+    "gathering",
+    "concept",
+    "lord",
+    "rings",
+    "guardians",
+    "galaxy",
+    "forsaken",
+    "\u0022officer",
+    "warren",
+    "black\u0022",
+    "anthony",
+    "avon",
+    "https://www.artstation.com",
+    "trap",
+    "mikhail",
+    "palamarchuk",
+    "https://www.artstation.com/artwork/lxw5a",
+    "geralt",
+    "witcher",
+    "shoo"
   ],
   "small": {
     "scale": 1,
     "offset_x": -383.9999999999986,
     "offset_y": -29.60000000000113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -319.20000000000175,
     "offset_y": -13.599999999999454,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -184.21296296296396,
-    "offset_y": 6.252776074688882e-13,
-    "size": "full"
+    "offset_y": 6.252776074688882E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

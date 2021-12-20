@@ -10,28 +10,42 @@
     "butterfly",
     "wings",
     "moon",
-    "mage",
-    "fairy"
+    "fairy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "kinsmen",
+    "universe",
+    "luisa",
+    "preissler"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -590.7333333333335,
     "offset_y": -113.99999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -235.13333333333333,
     "offset_y": -38.06666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3285833333333334,
     "offset_x": -347.3888888888887,
     "offset_y": -9.472222222222058,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

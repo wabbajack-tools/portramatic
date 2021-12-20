@@ -4,27 +4,50 @@
   "tags": [
     "outsider",
     "male",
-    "warrior"
+    "warrior",
+    "dark",
+    "souls",
+    "predator",
+    "mortal",
+    "kombat",
+    "fallen",
+    "paladin",
+    "lubomir",
+    "hij",
+    "ahri",
+    "warmics",
+    "mario",
+    "vazquez",
+    "zennar",
+    "zalviit",
+    "lurker",
+    "antonio",
+    "j.",
+    "manzanedo",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.5599999999999998,
     "offset_x": -308,
     "offset_y": -383,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -208,
     "offset_y": -181,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -70,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/15/dc/65/15dc65db263a945c8f1a29c055aff21a.jpg",
   "md5": "5372AF965C05D9D1EEB5D827AA6E280B",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "characters",
+    "character",
+    "creation",
+    "faces",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "yana",
+    "panda",
+    "https://www.artstation.com/artwork/rr1xpo",
+    "2020"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -116,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -81,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -42,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

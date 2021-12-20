@@ -3,27 +3,59 @@
   "md5": "CA36E37446133FF272C86D2D7A3D019A",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "teenage",
+    "wizard",
+    "male",
+    "black",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "valkyrie",
+    "concept",
+    "apetwins",
+    "studio",
+    "viking",
+    "character",
+    "female",
+    "characters",
+    "d\u0026d",
+    "pirate",
+    "audia",
+    "pahlevi",
+    "#characterart",
+    "char",
+    "atanu",
+    "bhuiya"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -385.00000000000006,
     "offset_y": -148.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -183.66666666666663,
     "offset_y": -62.66666666666654,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -320.6666666666663,
     "offset_y": -112.99999999999977,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://www.1zoom.me/big2/874/316717-aliya06.jpg",
   "md5": "D8AE7F25B99D1CE824AA9B8D45FF6E9B",
   "tags": [
-    ""
+    "",
+    "hearthstone",
+    "death",
+    "knight",
+    "jaina",
+    "proudmoore",
+    "dies",
+    "fan",
+    "demon",
+    "hunter",
+    "dark",
+    "elf",
+    "notifications",
+    "concept",
+    "characters",
+    "r.",
+    "carmine",
+    "alex",
+    "albu",
+    "https://www",
+    "ssakimetel_015",
+    "ssaki",
+    "metel",
+    "artwork",
+    "female"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -441,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -283,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1099999999999997,
     "offset_x": -368,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

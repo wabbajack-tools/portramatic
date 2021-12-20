@@ -6,27 +6,58 @@
     "female",
     "archer",
     "rogue",
-    "mage"
+    "mage",
+    "assassin",
+    "pirate",
+    "heavy",
+    "armor",
+    "samurai",
+    "leather",
+    "zombie",
+    "apocalypse",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "005",
+    "eunsil",
+    "song",
+    "character",
+    "design",
+    "210622",
+    "ha",
+    "yul",
+    "lee",
+    "2021",
+    "comic",
+    "girls",
+    "20150115",
+    "namgwon"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -622,
     "offset_y": -247,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.501416666666666,
     "offset_x": -303,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5619999999999992,
     "offset_x": -178,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

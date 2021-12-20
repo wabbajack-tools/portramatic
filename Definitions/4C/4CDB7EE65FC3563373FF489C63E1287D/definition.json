@@ -29,27 +29,34 @@
     "to",
     "east",
     "dom",
-    "lay"
+    "lay",
+    "origins",
+    "alexis",
+    "huiyen",
+    "chen"
   ],
   "small": {
     "scale": 2.000000000000001,
     "offset_x": -307,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7700000000000007,
     "offset_x": -207,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -10,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

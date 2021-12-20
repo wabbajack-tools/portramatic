@@ -5,27 +5,34 @@
     "tiefling",
     "female",
     "mage",
-    "princess"
+    "princess",
+    "severus",
+    "snape",
+    "enze",
+    "fu"
   ],
   "small": {
     "scale": 0.22999999999999932,
     "offset_x": -76,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999915,
     "offset_x": -29,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39933333333333304,
     "offset_x": -18,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

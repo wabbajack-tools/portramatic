@@ -5,27 +5,59 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "anime",
+    "girl",
+    "black",
+    "hair",
+    "with",
+    "mask",
+    "cute",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "witcher",
+    "ciri",
+    "rod",
+    "wong",
+    "grey",
+    "owl",
+    "pawe\u0142",
+    "gruszka",
+    "https://www.artstation.com/artwork/ek1dj",
+    "character",
+    "wanda",
+    "spiderwee",
+    ".",
+    "https://www.artstation.com/artwork/l6rrv",
+    "scarlet",
+    "witch"
   ],
   "small": {
     "scale": 0.9199999999999997,
     "offset_x": -363.5,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999993,
     "offset_x": -116.5,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999996,
     "offset_x": -121,
     "offset_y": -39,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

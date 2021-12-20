@@ -2,25 +2,43 @@
   "source": "https://i.pinimg.com/originals/b5/a2/65/b5a26564853efab5e081136ee5872b70.jpg",
   "md5": "55D5A5DDF21711A92FAD34837A14F8A0",
   "tags": [
-    ""
+    "",
+    "old",
+    "orgrimmar",
+    "wallpaper",
+    "world",
+    "warcraft",
+    "stormwind",
+    "game",
+    "thrones",
+    "chaos",
+    "warrior",
+    "orks",
+    "warhammer",
+    "40k"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -944,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -928,
     "offset_y": -263,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -734,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f1cc1b2-31e1-4488-b6d9-ccb346ec5fb3/d5n587t-759214e3-8042-43c5-91d0-4b1de5380caf.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmMWNjMWIyLTMxZTEtNDQ4OC1iNmQ5LWNjYjM0NmVjNWZiM1wvZDVuNTg3dC03NTkyMTRlMy04MDQyLTQzYzUtOTFkMC00YjFkZTUzODBjYWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k2zanZKZzL3u0SwpxO-4W4WlRXZXdHIkTHB5l4B5cIA",
   "md5": "41B19146E6B69191CA0817BD563B3D6C",
   "tags": [
-    ""
+    "",
+    "female",
+    "warlock",
+    "drawing",
+    "human",
+    "league",
+    "legends",
+    "dragon",
+    "ball",
+    "gt",
+    "defiler",
+    "minds",
+    "yutthaphong",
+    "kaewsuk",
+    "eldrazi-horror",
+    "vasilyna",
+    "holod",
+    "work",
+    "case",
+    "casimir"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -456,
     "offset_y": -382,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -161,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -30,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

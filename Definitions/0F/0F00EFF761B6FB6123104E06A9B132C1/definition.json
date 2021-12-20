@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/ef/62/57/ef625755cf3b73294dc950727ee813b8.jpg",
   "md5": "0F00EFF761B6FB6123104E06A9B132C1",
   "tags": [
-    ""
+    "",
+    "crusader",
+    "knight",
+    "armor",
+    "heavy",
+    "concept",
+    "templar",
+    "samurai",
+    "medieval",
+    "knights",
+    "plate",
+    "warrior",
+    "miniatures",
+    "scale",
+    "sung",
+    "wook",
+    "baik",
+    "https://www.artstation.com/artwork/n20r4",
+    "ottoman",
+    "arquebusier",
+    "gianluca",
+    "rolli",
+    "character",
+    "design",
+    "dark",
+    "chub",
+    "olexandr",
+    "https://www.artstation.com/artwork/dyqaa"
   ],
   "small": {
     "scale": 1,
     "offset_x": -106,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -43,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -18,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

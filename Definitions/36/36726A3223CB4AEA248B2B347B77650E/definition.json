@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/60/b6/65/60b66538e84ddf99ef09bfa4ba6ceecd.jpg",
   "md5": "36726A3223CB4AEA248B2B347B77650E",
   "tags": [
-    ""
+    "",
+    "world",
+    "warcraft",
+    "characters",
+    "thrall",
+    "orcs",
+    "vs",
+    "humans",
+    "orc",
+    "warrior",
+    "spartan",
+    "castlevania",
+    "lords",
+    "shadow",
+    "samurai",
+    "armor",
+    "road",
+    "ivric",
+    "priest",
+    "alejandro",
+    "garc\u00EDa",
+    "https://www.artstation.com/artwork/do9wmq",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "ares",
+    "pirate",
+    "men",
+    "character",
+    "design",
+    "ape",
+    "concept",
+    "anush",
+    "singh",
+    "https://www.artstation.com/artwork/ob8vb"
   ],
   "small": {
     "scale": 1,
     "offset_x": -419,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -350,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -44,
     "offset_y": 42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

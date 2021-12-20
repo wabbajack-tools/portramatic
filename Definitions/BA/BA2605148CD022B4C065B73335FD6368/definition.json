@@ -5,27 +5,48 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "veronica",
+    "jones",
+    "maxime",
+    "delcambre",
+    "2020",
+    "knight",
+    "goo",
+    "jjang",
+    "progress",
+    "muhammad",
+    "aiman",
+    "zubir"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -558,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -297,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -330,
     "offset_y": 28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

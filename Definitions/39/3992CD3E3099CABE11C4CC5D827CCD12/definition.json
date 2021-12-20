@@ -7,27 +7,53 @@
     "red",
     "pencil",
     "lancelot",
-    "concept"
+    "concept",
+    "cyberpunk",
+    "noir",
+    "fan",
+    "neon",
+    "master",
+    "orion",
+    "little",
+    "riding",
+    "hood",
+    "\u9648\u963F\u51F8",
+    "tutu",
+    "https://www.artstation.com/artwork/bmxgwl",
+    "sword",
+    "\u0026",
+    "girl",
+    "kalma",
+    "ghost",
+    "boys",
+    "wenjun",
+    "lin",
+    "boy",
+    "characters",
+    "anime"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -41,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -21,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -1,
     "offset_y": -37,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

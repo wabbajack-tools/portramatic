@@ -2,27 +2,43 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/544/755/large/omer-tunc-asss-copy.jpg?1448308670",
   "md5": "0A2EB679D972A7ECB272943930CA4295",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "warrior",
+    "women",
+    "female",
+    "warriors",
+    "dragons",
+    "slayer",
+    "skyrim",
+    "lana",
+    "arceo",
+    "momori",
+    "68",
+    "https://www"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -635,
     "offset_y": -584,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -239,
     "offset_y": -313,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -20,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,51 @@
   "tags": [
     "female",
     "barbarian",
-    "warrior"
+    "warrior",
+    "dragon",
+    "age",
+    "origins",
+    "pirates",
+    "caribbean",
+    "wrath",
+    "titans",
+    "hobbit",
+    "clash",
+    "\u8EFB\u6BD4\u80FD",
+    "chang",
+    "youl",
+    "park",
+    "vagrant",
+    "jihwan",
+    "ha",
+    "men",
+    "peacemaker",
+    "cover",
+    "ricardo",
+    "padierne"
   ],
   "small": {
     "scale": 0.7999999999999996,
     "offset_x": -344,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -119,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -74,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

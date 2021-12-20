@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/736x/a7/22/c1/a722c1f47655fc04f8e0f8408dd99fe7.jpg",
   "md5": "ECE266B69742005F90B7EF64512AD722",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "artwork",
+    "suit"
   ],
   "small": {
     "scale": 0.2999999999999994,
     "offset_x": -18,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": 0,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

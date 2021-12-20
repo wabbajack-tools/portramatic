@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/18/be/a7/18bea7b216d3002b65bbda46bf87aed8.jpg",
   "md5": "A553DA618044AF41DC2575DBB7607C10",
   "tags": [
-    ""
+    "",
+    "darkness",
+    "character",
+    "knight",
+    "armor",
+    "concept",
+    "angel",
+    "armors",
+    "game",
+    "institute",
+    "creating",
+    "armoured",
+    "characters",
+    "paul",
+    "widelski",
+    "https://www",
+    "water",
+    "boti",
+    "harko",
+    "bloodborne",
+    "choir",
+    "jiwen",
+    "https://www.artstation.com/artwork/ean0lb",
+    "2021"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -135,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -71,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -20,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

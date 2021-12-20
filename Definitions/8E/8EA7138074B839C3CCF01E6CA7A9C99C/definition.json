@@ -1,26 +1,45 @@
 {
-  "source": "https://sun9-39.userapi.com/impg/KUnR3FPze-ed27cPiJBxUmZidWj3ZWO0zkF-Ow/iLrJVipfcus.jpg?size=811x1017&quality=96&sign=83da1898b2daa8789c9533309e670986&type=album",
+  "source": "https://sun9-39.userapi.com/impg/KUnR3FPze-ed27cPiJBxUmZidWj3ZWO0zkF-Ow/iLrJVipfcus.jpg?size=811x1017\u0026quality=96\u0026sign=83da1898b2daa8789c9533309e670986\u0026type=album",
   "md5": "8EA7138074B839C3CCF01E6CA7A9C99C",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "pocahontas",
+    "thierry",
+    "van",
+    "gyseghem",
+    "saint",
+    "jinx",
+    "destruction",
+    "kimono",
+    "outfit",
+    "alejandro",
+    "koi",
+    "ipinza"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -168,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -47,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -84,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

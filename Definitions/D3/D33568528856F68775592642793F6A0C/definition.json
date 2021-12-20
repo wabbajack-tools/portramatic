@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/56/d8/4a/56d84a949ae3c1c6a772370a7f2adac0.jpg",
   "md5": "D33568528856F68775592642793F6A0C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "cg",
+    "poster",
+    "jian",
+    "xu",
+    "character",
+    "illustration",
+    "design",
+    "concept",
+    "effni",
+    "naridia",
+    "bramasta",
+    "aji",
+    "inspiration",
+    "cyborg",
+    "olie",
+    "boldador"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -333,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -13,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -38,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -9,27 +9,36 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "clothing",
-    "bra"
+    "bra",
+    "sci-fi",
+    "character",
+    "concept",
+    "futuristic",
+    "cyberpunk",
+    "under_wear"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -256,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -160,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -58,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

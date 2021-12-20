@@ -6,27 +6,46 @@
     "female",
     "mage",
     "queen",
-    "priest"
+    "priest",
+    "league",
+    "legends",
+    "angels",
+    "coven",
+    "zyra",
+    "jaryn",
+    "chan",
+    "jaina",
+    "\u5409\u5B89\u5A1C",
+    "d",
+    "lx",
+    "trip",
+    "to",
+    "paradise.",
+    "\u4E09",
+    "\u6708"
   ],
   "small": {
     "scale": 1.1700000000000006,
     "offset_x": -1521,
     "offset_y": -199,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98125,
     "offset_x": -1110,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0005833333333334,
     "offset_x": -946,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

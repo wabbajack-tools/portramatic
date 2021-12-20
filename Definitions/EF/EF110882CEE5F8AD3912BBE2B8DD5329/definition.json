@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/originals/70/ee/36/70ee365262dfeee25fd2d66d2d42b000.jpg",
   "md5": "EF110882CEE5F8AD3912BBE2B8DD5329",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "warrior",
+    "cleric",
+    "warhammer",
+    "chaos",
+    "castlevania",
+    "lords",
+    "shadow",
+    "orc",
+    "black",
+    "knight",
+    "40k",
+    "orcs",
+    "dungeons",
+    "dragons",
+    "work",
+    "dong",
+    "mao",
+    "with",
+    "dark",
+    "station",
+    "legend",
+    "cryptids",
+    "virus",
+    "n",
+    "https://www.artstation.com/artwork/legend-of",
+    "tenkatoitsu",
+    "cronicle",
+    "el",
+    "jay",
+    "lee",
+    "character",
+    "cartoon",
+    "anime",
+    "artwork"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -364,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -24,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -12,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://www.worldanvil.com/uploads/images/9282767822ebcdbb0eef89ac1f1f7490.jpg",
   "md5": "02037536D580CE1040504314BC1EE6EC",
   "tags": [
-    ""
+    "",
+    "orc",
+    "race",
+    "half-orc",
+    "character",
+    "plate",
+    "armor",
+    "heavy",
+    "warhammer",
+    "40k",
+    "war",
+    "hammer",
+    "knight",
+    "orcus",
+    "jun",
+    "lee",
+    "https://www.artstation.com/artwork/mwjx1",
+    "warcraft",
+    "dwarves",
+    "barbara",
+    "go\u0142\u0119biewska",
+    "dwarf",
+    "cosplay",
+    "characters"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -139,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -116,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -106,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

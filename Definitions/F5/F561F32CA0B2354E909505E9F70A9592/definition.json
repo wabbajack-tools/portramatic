@@ -4,27 +4,58 @@
   "tags": [
     "male",
     "tengu",
-    "samurai"
+    "samurai",
+    "quetzalcoatl",
+    "dragons",
+    "conquer",
+    "aztec",
+    "dragon",
+    "gears",
+    "war",
+    "league",
+    "legends",
+    "santa",
+    "fung",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "film",
+    "media",
+    "\u0026",
+    "entertainment",
+    "artists",
+    "legend",
+    "cryptids",
+    "kodorfitte",
+    "adv.",
+    "laura",
+    "sava"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -177,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -110,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -96,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

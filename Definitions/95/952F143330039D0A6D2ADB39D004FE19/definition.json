@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/2c/40/89/2c4089a8493150e12058bb870c7fea5a.jpg",
   "md5": "952F143330039D0A6D2ADB39D004FE19",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "ranger",
+    "archer",
+    "tiefling",
+    "bard",
+    "heavy",
+    "armor",
+    "knight",
+    "death",
+    "medieval",
+    "knights",
+    "armors",
+    "dragon",
+    "plate",
+    "vampire",
+    "manga",
+    "creatures",
+    "marcel",
+    "radeck\u00FD",
+    "prisoner",
+    "valera",
+    "lutfullina",
+    "https://www",
+    "cdc",
+    "entry",
+    "trickster",
+    "yan",
+    "kyohara"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -121,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -117,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -74,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

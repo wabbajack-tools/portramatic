@@ -5,27 +5,49 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "fallen",
+    "angels",
+    "book",
+    "old",
+    "lady",
+    "clip",
+    "free",
+    "assassin",
+    "game",
+    "thrones",
+    "pirate",
+    "dark",
+    "elf",
+    "witcher",
+    "daniel",
+    "maldonado",
+    "de",
+    "la",
+    "rosa"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -1179.7999999999997,
     "offset_y": -477.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -793.1999999999998,
     "offset_y": -296.6000000000004,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -344.3240740740748,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

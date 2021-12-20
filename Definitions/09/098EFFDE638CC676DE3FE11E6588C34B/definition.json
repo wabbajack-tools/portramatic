@@ -2,27 +2,40 @@
   "source": "https://i.imgur.com/NQsyApp.jpeg",
   "md5": "098EFFDE638CC676DE3FE11E6588C34B",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "berserker",
+    "horror",
+    "werewolf",
+    "mad",
+    "1984",
+    "dragon",
+    "pictures",
+    "artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -416,
     "offset_y": -289,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -332,
     "offset_y": -282,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -146,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

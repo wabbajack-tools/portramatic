@@ -16,27 +16,66 @@
     "fashion_cosmetics_or_accessories",
     "accessories",
     "jewelry",
-    "necklace"
+    "necklace",
+    "animated",
+    "doctor",
+    "cartoon",
+    "patient",
+    "knight",
+    "armor",
+    "dark",
+    "batman",
+    "statue",
+    "heavy",
+    "metal",
+    "gear",
+    "solid",
+    "western",
+    "shoes",
+    "heels",
+    "ghost",
+    "hunter",
+    "akali",
+    "model",
+    "mist",
+    "xg",
+    "2021",
+    "champions",
+    "league",
+    "legends",
+    "lol",
+    "mythic",
+    "quest",
+    "greg",
+    "semkow",
+    "mythical",
+    "characters",
+    "orc",
+    "pierre",
+    "raveneau"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -149,
     "offset_y": -104,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -94,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000019,
     "offset_x": -54,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

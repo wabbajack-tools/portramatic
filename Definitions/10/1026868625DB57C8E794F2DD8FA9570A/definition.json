@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/E0EBZ_8WQAMkP9_?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/E0EBZ_8WQAMkP9_?format=jpg\u0026name=medium",
   "md5": "1026868625DB57C8E794F2DD8FA9570A",
   "tags": [
     "dragon",
@@ -15,27 +15,59 @@
     "wu",
     "with",
     "sci",
-    "fi"
+    "fi",
+    "elves",
+    "elf",
+    "drawing",
+    "male",
+    "druid",
+    "assassin",
+    "high",
+    "pirate",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "dawn",
+    "stephen",
+    "garrett",
+    "rusk",
+    "character",
+    "portraits",
+    "concept",
+    "characters",
+    "daniel",
+    "comerci",
+    "bash",
+    "rai",
+    "annadel",
+    "cinco",
+    "https://www.artstation.com/artwork/e0mevz"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -382,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -249,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -120,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

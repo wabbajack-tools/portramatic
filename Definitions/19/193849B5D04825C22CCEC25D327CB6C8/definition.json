@@ -5,27 +5,58 @@
     "dwarf",
     "male",
     "warrior",
-    "king"
+    "king",
+    "dwarven",
+    "concept",
+    "artwork",
+    "wow",
+    "undead",
+    "reaper",
+    "blood",
+    "knight",
+    "gawigawen",
+    "elartwyne",
+    "estole",
+    "heroes",
+    "storm",
+    "contest",
+    "2015",
+    "petar",
+    "penev",
+    "dnavenom",
+    "monkey",
+    "goes",
+    "west",
+    "eart",
+    "cg",
+    "journey",
+    "to",
+    "sun",
+    "wukong",
+    "creature"
   ],
   "small": {
     "scale": 1,
     "offset_x": -389.7999999999997,
     "offset_y": -166.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -269.19999999999976,
     "offset_y": -129.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -180.32407407407482,
     "offset_y": -39.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.5AasyMG8_uCU3HYEf3g-7gHaNK%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.5AasyMG8_uCU3HYEf3g-7gHaNK%26pid%3DApi\u0026f=1",
   "md5": "D75BDA2F71AE98BF5A1F487CFE9B1422",
   "tags": [
     "human",
@@ -16,27 +16,43 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "hopi",
+    "sun",
+    "clan",
+    "hidden",
+    "warrior",
+    "cats",
+    "slayer02",
+    "nitro",
+    "mushroom",
+    "carlos",
+    "de",
+    "la",
+    "vega"
   ],
   "small": {
     "scale": 0.8,
     "offset_x": -90.88888888888822,
     "offset_y": -51.11111111111089,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -21.333333333333428,
     "offset_y": -56.444444444444485,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -2.7060839760079034,
     "offset_y": -111.1808054841473,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

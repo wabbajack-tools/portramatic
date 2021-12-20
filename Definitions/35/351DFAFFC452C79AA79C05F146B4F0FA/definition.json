@@ -2,27 +2,61 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921404652073918535/assassina_dai_capelli_rossi_al_cimitero_di_boscotetro.jpg",
   "md5": "351DFAFFC452C79AA79C05F146B4F0FA",
   "tags": [
-    ""
+    "",
+    "creature",
+    "concept",
+    "anime",
+    "sketch",
+    "female",
+    "assassin",
+    "high",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sorin",
+    "vampire",
+    "lord",
+    "chris",
+    "rallis",
+    "2020",
+    "skyrim",
+    "king",
+    "wei",
+    "yi",
+    "zeng",
+    "elves",
+    "ready",
+    "for",
+    "war",
+    "gunship",
+    "revolution",
+    "characters",
+    "warrior"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -479,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -211,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -30,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

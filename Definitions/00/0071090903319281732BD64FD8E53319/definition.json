@@ -1,5 +1,5 @@
 {
-  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/04/Osgir-the-Reconstructor-Strixhaven-MtG-Arts.jpg?q=50&fit=crop&w=1200&dpr=1.5",
+  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/04/Osgir-the-Reconstructor-Strixhaven-MtG-Arts.jpg?q=50\u0026fit=crop\u0026w=1200\u0026dpr=1.5",
   "md5": "0071090903319281732BD64FD8E53319",
   "tags": [
     "iosan",
@@ -8,27 +8,47 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "mtg",
+    "nightmare",
+    "gatewatch",
+    "progenitus",
+    "bunker",
+    "hill",
+    "hamilcar",
+    "jake",
+    "murray",
+    "aeacus",
+    "top",
+    "cats",
+    "cat",
+    "male",
+    "character",
+    "design",
+    "inspiration"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -627.0000000000002,
     "offset_y": -30.333333333333258,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -391.00000000000006,
     "offset_y": -8.666666666666487,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -634.6666666666667,
     "offset_y": -10.666666666666003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

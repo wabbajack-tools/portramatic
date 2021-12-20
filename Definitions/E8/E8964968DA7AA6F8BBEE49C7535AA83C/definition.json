@@ -1,31 +1,52 @@
 {
-  "source": "https://pbs.twimg.com/media/E2os3c4VkAM_mPi?format=jpg&name=orig",
+  "source": "https://pbs.twimg.com/media/E2os3c4VkAM_mPi?format=jpg\u0026name=orig",
   "md5": "E8964968DA7AA6F8BBEE49C7535AA83C",
   "tags": [
     "red",
     "fox",
     "anime",
-    "girl"
+    "girl",
+    "dragon",
+    "age",
+    "origins",
+    "carmilla",
+    "heir",
+    "light",
+    "fan",
+    "cong",
+    "yeo",
+    "yu",
+    "cheng",
+    "hong",
+    "mobius",
+    "final",
+    "training_09",
+    "alex",
+    "alekseenko",
+    "https://www"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -220.00000000000034,
     "offset_y": -46.39999999999989,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -107.20000000000005,
     "offset_y": -43.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -105.46296296296305,
     "offset_y": -34.62962962962945,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

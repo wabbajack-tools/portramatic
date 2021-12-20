@@ -2,25 +2,50 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/037/779/447/large/crimson-clover-dwarf-warrior-fnl-smll.jpg?1621303722",
   "md5": "0CB2B93E393284930684DF8724384E3A",
   "tags": [
-    ""
+    "",
+    "elder",
+    "scrolls",
+    "online",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "blind",
+    "slayer",
+    "nor",
+    "carlos",
+    "cabrera",
+    "mecha",
+    "hive",
+    "phu",
+    "thieu",
+    "bones",
+    "soldier",
+    "lius",
+    "lasahido"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -264,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -186,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -43,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

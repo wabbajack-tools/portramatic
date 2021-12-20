@@ -2,27 +2,59 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/034/130/389/large/jihae-park-swordswoman-full.jpg?1611496355",
   "md5": "858CB7269C5070B9291104106742CA91",
   "tags": [
-    ""
+    "",
+    "elf",
+    "swordswoman",
+    "anime",
+    "drawings",
+    "heavy",
+    "armor",
+    "plate",
+    "g.i.joe",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "boots",
+    "cowgirl",
+    "sss",
+    "yun",
+    "zo",
+    "steampunk",
+    "characters",
+    "character",
+    "design",
+    "woman",
+    "geun",
+    "paint",
+    "casca",
+    "anima",
+    "08",
+    "warrior",
+    "illustration"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -453,
     "offset_y": -206,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -208,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -28,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

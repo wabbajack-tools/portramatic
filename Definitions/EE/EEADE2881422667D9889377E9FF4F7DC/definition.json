@@ -5,27 +5,37 @@
     "goblin",
     "male",
     "rogue",
-    "warrior"
+    "warrior",
+    "demon",
+    "doodle",
+    "taylor",
+    "germain",
+    "ghoul",
+    "xiaodi",
+    "jin"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -194.79999999999973,
     "offset_y": -172.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -77.19999999999982,
     "offset_y": -42.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -68.32407407407482,
     "offset_y": -3.6018518518527003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

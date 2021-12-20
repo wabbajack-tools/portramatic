@@ -7,27 +7,52 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "character",
+    "concept",
+    "girl",
+    "characters",
+    "league",
+    "legends",
+    "assassin",
+    "orcs",
+    "works135",
+    "song",
+    "nan",
+    "li",
+    "warcraft",
+    "warrior",
+    "design",
+    "oh",
+    "noes",
+    "cynthia",
+    "f.g.",
+    "neko",
+    "fahmi",
+    "fauzi"
   ],
   "small": {
     "scale": 0.27999999999999936,
     "offset_x": -192.66666666666694,
     "offset_y": -103.06666666668184,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -158.8666666666644,
     "offset_y": -116.7333333333425,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -108.94444444444537,
     "offset_y": -101.67592592592712,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

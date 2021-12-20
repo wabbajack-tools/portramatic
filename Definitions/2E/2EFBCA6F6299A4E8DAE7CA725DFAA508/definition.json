@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/09/47/80/0947803de58889f31d0e3af9e61b065b.jpg",
   "md5": "2EFBCA6F6299A4E8DAE7CA725DFAA508",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "witcher",
+    "game",
+    "thrones",
+    "skyrim",
+    "pirates",
+    "caribbean",
+    "hansel",
+    "gretel",
+    "iron",
+    "throne",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "dragon",
+    "slayer",
+    "fahmi",
+    "fauzi",
+    "https://www",
+    "ciri",
+    "fanart.",
+    "jes\u00FAs",
+    "gonzalo",
+    "commander",
+    "lukas",
+    "baumgartner",
+    "character"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -173,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -98,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -12,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

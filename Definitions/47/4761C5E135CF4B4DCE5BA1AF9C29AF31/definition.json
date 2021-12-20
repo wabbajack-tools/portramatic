@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/550x/48/73/2e/48732e8570778600dd7c99bd717e0710.jpg",
   "md5": "4761C5E135CF4B4DCE5BA1AF9C29AF31",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "knight",
+    "medieval",
+    "king",
+    "angel",
+    "concept",
+    "armor",
+    "knights",
+    "plate",
+    "death",
+    "dark",
+    "elf",
+    "orc",
+    "heavy",
+    "160906",
+    "san",
+    "mufan",
+    "practice3",
+    "tg",
+    "zhangshuai",
+    "\u043D\u0430\u0442\u0445\u043D\u0435\u043D\u043D\u044F",
+    "hyeyoung",
+    "kim",
+    "2021"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -198,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -1,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -12,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

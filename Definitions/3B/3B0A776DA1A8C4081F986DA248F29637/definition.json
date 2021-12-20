@@ -8,25 +8,53 @@
     "painting",
     "art",
     "samurai",
-    ""
+    "",
+    "male",
+    "elf",
+    "warrior",
+    "drawings",
+    "viking",
+    "iron",
+    "man",
+    "armor",
+    "power",
+    "assassin",
+    "suit",
+    "harold",
+    "godpinson",
+    "tong",
+    "shuai",
+    "night",
+    "rogue",
+    "bramasta",
+    "aji",
+    "https://www",
+    "chaos",
+    "siman",
+    "vlaisavljevi\u0107"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -326,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -187,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -20,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

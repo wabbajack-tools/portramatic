@@ -2,27 +2,53 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/014/178/157/large/mam-ba-2.jpg?1542820897",
   "md5": "0C87AE0AF2C794817AD35BBEA0202671",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "panties",
+    "chandni",
+    "character",
+    "si",
+    "ucil",
+    "chintia",
+    "rd",
+    "elf",
+    "concept",
+    "design",
+    "jihae",
+    "park",
+    "zelda",
+    "fanart",
+    "kevinci"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -579,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -341,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -4,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

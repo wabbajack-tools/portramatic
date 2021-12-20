@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/b9/7b/4b/b97b4bb0e9f8739ae4350720664cdb93.jpg",
   "md5": "BE6E888999A502BFDBE339157FB4FA9C",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "vampire",
+    "mtg",
+    "cards",
+    "masquerade",
+    "death",
+    "knight",
+    "zombie",
+    "apocalypse",
+    "exercise",
+    "p",
+    "xin",
+    "aljideyus",
+    "demon",
+    "capricorn",
+    "ramzi",
+    "firhad"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -704,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -382,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -306,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

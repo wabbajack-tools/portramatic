@@ -4,27 +4,60 @@
   "tags": [
     "viking",
     "character",
-    "design"
+    "design",
+    "orc",
+    "druid",
+    "wizard",
+    "monk",
+    "concept",
+    "dungeons",
+    "dragons",
+    "gears",
+    "war",
+    "wrath",
+    "titans",
+    "death",
+    "knight",
+    "armor",
+    "legend",
+    "zelda",
+    "combat",
+    "rat",
+    "evgeniy",
+    "nesterenko",
+    "smite",
+    "destroyer",
+    "ares",
+    "nathaniel",
+    "himawan",
+    "shrapnel",
+    "marek",
+    "okon",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 2.279999999999995,
     "offset_x": -590.3999999999999,
     "offset_y": -490,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -37.000000000000114,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -62.45370370370324,
     "offset_y": -110.05555555555532,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

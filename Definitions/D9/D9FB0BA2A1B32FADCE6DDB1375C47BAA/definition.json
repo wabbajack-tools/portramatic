@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/33/f6/73/33f67314c448c5204bf7c5479ec0ec6a.jpg",
   "md5": "D9FB0BA2A1B32FADCE6DDB1375C47BAA",
   "tags": [
-    ""
+    "",
+    "guild",
+    "wars",
+    "dragon",
+    "norn",
+    "characters",
+    "orcs",
+    "orc",
+    "warrior",
+    "heavy",
+    "armor",
+    "dungeons",
+    "dragons",
+    "two",
+    "brothers",
+    "jo\u00E3o",
+    "bragato",
+    "https://www",
+    "hit_npc",
+    "bom",
+    "yeon",
+    "concept",
+    "design",
+    "bravo",
+    "dong"
   ],
   "small": {
     "scale": 1.7800000000000007,
     "offset_x": -426,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -103,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -64,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

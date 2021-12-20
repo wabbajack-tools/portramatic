@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/a7/ab/de/a7abde3e9c96ed01a62909496b202f38.jpg",
   "md5": "BF0775F0920FC01E2C2C91B44E3C4F4E",
   "tags": [
-    ""
+    "",
+    "warriors",
+    "legend",
+    "cryptids",
+    "elves",
+    "characters",
+    "beauty",
+    "beast",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "gang",
+    "road",
+    "kyoungmin",
+    "park",
+    "kiyocat"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -203,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -85,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -54,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

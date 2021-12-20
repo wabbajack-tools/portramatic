@@ -1,28 +1,52 @@
 {
-  "source": "https://cdnb.artstation.com/p/assets/images/images/017/147/483/large/sergiy-abramov-tiefling.jpg?1554822375&dl=1",
+  "source": "https://cdnb.artstation.com/p/assets/images/images/017/147/483/large/sergiy-abramov-tiefling.jpg?1554822375\u0026dl=1",
   "md5": "D2544531648B7CE4BBC6A5EC9C82E41C",
   "tags": [
-    ""
+    "",
+    "pointed",
+    "elf",
+    "ears",
+    "born",
+    "with",
+    "human",
+    "anime",
+    "girl",
+    "witch",
+    "colored",
+    "version",
+    "yanal",
+    "sosak",
+    "characters",
+    "character",
+    "attempt",
+    "armours",
+    "caitlin",
+    "fisher",
+    "ahri",
+    "yara"
   ],
   "small": {
     "scale": 0.14999999999999925,
     "offset_x": -16,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -10,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -26,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

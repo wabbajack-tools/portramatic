@@ -11,27 +11,56 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "female",
+    "druid",
+    "character",
+    "noble",
+    "dynasty",
+    "warriors",
+    "knight",
+    "armor",
+    "samurai",
+    "heavy",
+    "plate",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "osprey",
+    "mahea",
+    "rodrigues",
+    "mahealani",
+    "artwork",
+    "vampire",
+    "pirate",
+    "sunshine",
+    "kim"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -295.7999999999997,
     "offset_y": -105.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -101.19999999999976,
     "offset_y": -49.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -32.324074074074815,
     "offset_y": -73.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -17,33 +17,53 @@
     "stars",
     "dimitri",
     "neron",
-    "lo'gosh",
+    "lo\u0027gosh",
     "modeling",
     "victor",
     "hugo",
     "sousa",
     "beast",
-    "friends"
+    "friends",
+    "concept",
+    "design",
+    "steampunk",
+    "cate",
+    "archer",
+    "nokse",
+    "mojo",
+    "2020",
+    "demon",
+    "hunter",
+    "bamuth",
+    "lai",
+    "girl",
+    "eve",
+    "linn",
+    "kristine",
+    "pettersen"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -291.42857142857224,
     "offset_y": -71.57142857142861,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -102.28571428571428,
     "offset_y": -3.142857142857167,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999974,
     "offset_x": -17.142857142857338,
     "offset_y": -6.285714285713993,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

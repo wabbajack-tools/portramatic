@@ -6,27 +6,47 @@
     "rider",
     "female",
     "httyd",
-    "oc"
+    "oc",
+    "castlevania",
+    "lords",
+    "shadow",
+    "league",
+    "legends",
+    "orcs",
+    "star",
+    "wars",
+    "clone",
+    "faeries",
+    "taras",
+    "susak",
+    "2020",
+    "characters",
+    "hunted",
+    "manish",
+    "d3mon"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -413.33333333333303,
     "offset_y": -405.3333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -308.99999999999994,
     "offset_y": -381.9999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -9.333333333333485,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

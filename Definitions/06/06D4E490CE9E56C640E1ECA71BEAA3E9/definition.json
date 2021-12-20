@@ -2,25 +2,47 @@
   "source": "https://i.pinimg.com/564x/08/cb/57/08cb578bee3699c421177bc0c0da53e9.jpg",
   "md5": "06D4E490CE9E56C640E1ECA71BEAA3E9",
   "tags": [
-    ""
+    "",
+    "female",
+    "half",
+    "orc",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "male",
+    "dark",
+    "sad",
+    "chuby",
+    "mi",
+    "gintas",
+    "galvanauskas",
+    "command",
+    "jinho",
+    "lee"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -104,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -10,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.339999999999994,
     "offset_x": -54,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

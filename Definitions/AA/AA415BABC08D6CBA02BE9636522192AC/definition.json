@@ -9,27 +9,63 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "anime",
+    "demon",
+    "vampire",
+    "drawings",
+    "prince",
+    "dark",
+    "souls",
+    "female",
+    "assassin",
+    "rise",
+    "guardians",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "la",
+    "emperatriz",
+    "de",
+    "los",
+    "muertos",
+    "ver.",
+    "nguencuyen",
+    "mitos",
+    "y",
+    "leyendas",
+    "tcg",
+    "sol",
+    "devia",
+    "witch",
+    "crow",
+    "vezonia",
+    "lithium"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -225,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -56,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.54,
     "offset_x": -50,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

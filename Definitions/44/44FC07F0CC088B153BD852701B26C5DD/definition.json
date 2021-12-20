@@ -5,27 +5,40 @@
     "tiefling",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "digital",
+    "demon",
+    "sci-fi",
+    "creatures",
+    "drawing",
+    "robot",
+    "battle",
+    "cloister",
+    "david",
+    "astruga"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -254,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -90,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -24,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

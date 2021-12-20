@@ -6,25 +6,55 @@
     "art",
     "angel",
     "archangel",
-    ""
+    "",
+    "female",
+    "armor",
+    "concept",
+    "body",
+    "anime",
+    "knight",
+    "heavy",
+    "armors",
+    "death",
+    "character",
+    "design",
+    "practice",
+    "jose",
+    "parodi",
+    "https://www.artstation.com",
+    "moon",
+    "charles",
+    "park",
+    "dcr",
+    "king",
+    "crusader",
+    "skyrim",
+    "mod",
+    "justin",
+    "dewey"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -187.20000000000033,
     "offset_y": -50.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -119.00000000000006,
     "offset_y": -45.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -18.009259259258897,
     "offset_y": -80.09259259259295,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

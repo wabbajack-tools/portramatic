@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/69/36/71/693671fb7b7ad6d206d0d170d58a33ea.jpg",
   "md5": "552B30D318E13C0026F429CEE183679C",
   "tags": [
-    ""
+    "",
+    "moon",
+    "elf",
+    "wizard",
+    "dark",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "death",
+    "knight",
+    "league",
+    "legends",
+    "night",
+    "warrior",
+    "xuanhan",
+    "chen",
+    "female",
+    "warlock",
+    "kim",
+    "herbst",
+    "spider",
+    "queen",
+    "tungning",
+    "hsu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -199,
     "offset_y": -174,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -142,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

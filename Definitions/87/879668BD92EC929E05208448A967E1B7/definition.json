@@ -11,27 +11,58 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "dragonborn",
+    "fan",
+    "elder",
+    "scrolls",
+    "female",
+    "knight",
+    "armor",
+    "dungeons",
+    "dragons",
+    "samurai",
+    "dark",
+    "elf",
+    "dragon",
+    "age",
+    "origins",
+    "knights",
+    "templar",
+    "demon",
+    "motise",
+    "s",
+    "http://www.artstation.com/artwork/demon-knight",
+    "skeleton",
+    "koiranuk",
+    "belov",
+    "pavel",
+    "zhihui",
+    "su",
+    "characters"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -274.7999999999997,
     "offset_y": -158.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -134.19999999999976,
     "offset_y": -121.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -100.32407407407482,
     "offset_y": -151.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/10M5JJU.jpeg",
   "md5": "2757ADA50AC8626CB611394C2DFB4F07",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "girl",
+    "drawings",
+    "beautiful",
+    "woman",
+    "female",
+    "warriors",
+    "with",
+    "swords",
+    "zelda",
+    "twilight",
+    "princess",
+    "lord",
+    "rings",
+    "\u738B\u57CE\u4E89\u593A\u6218",
+    "chen",
+    "sihan",
+    "dragon",
+    "ascendant",
+    "v",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "2021",
+    "anime"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -19,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": 0,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

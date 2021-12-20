@@ -8,27 +8,42 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "gisa",
+    "geralf",
+    "stitcher",
+    "game",
+    "thrones",
+    "dragon",
+    "age",
+    "origins",
+    "awakening",
+    "rise",
+    "an",
+    "empire"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -387,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -418,
     "offset_y": -174,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7600000000000007,
     "offset_x": -770,
     "offset_y": -316,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

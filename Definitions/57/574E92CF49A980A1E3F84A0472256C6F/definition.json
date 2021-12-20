@@ -5,27 +5,49 @@
     "human",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "assassin",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "*\u81EA\u7531\u4F63\u5175-\u5251\u58EB",
+    "ley",
+    "bowen",
+    "\u5F20",
+    "https://www",
+    "soldier",
+    "concept",
+    "art\u3010\u8D30\u96F6\u58F9\u8086\u3011",
+    "ares",
+    "areum",
+    "kim",
+    "character"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -587.9333333333334,
     "offset_y": -132.5999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4999999999999998,
     "offset_x": -335.1333333333332,
     "offset_y": -55.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -117.19999999999993,
     "offset_y": -34.399999999999864,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

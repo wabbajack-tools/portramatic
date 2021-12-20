@@ -2,27 +2,51 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ccea808-4109-4af6-a658-a70d2d1c5138/dcqs83q-fb1ac4b8-5159-4486-b9aa-4e4b22467ccc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhjY2VhODA4LTQxMDktNGFmNi1hNjU4LWE3MGQyZDFjNTEzOFwvZGNxczgzcS1mYjFhYzRiOC01MTU5LTQ0ODYtYjlhYS00ZTRiMjI0NjdjY2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bs8W7brKZW11yGRNhUpUvnUl9XOOkQthwpfOgHcxXtY",
   "md5": "FA93D2F86C60FD4181C7A8FEDCDB015C",
   "tags": [
-    ""
+    "",
+    "blood",
+    "angels",
+    "librarian",
+    "sanguinius",
+    "warhammer",
+    "40k",
+    "death",
+    "company",
+    "lord",
+    "rings",
+    "hobbit",
+    "dracula",
+    "angel",
+    "rico",
+    "dump",
+    "astri",
+    "lohne",
+    "warcraft",
+    "character",
+    "design",
+    "concept"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -661.1428571428529,
     "offset_y": -287.9999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -321.14285714285705,
     "offset_y": -126.28571428571422,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -27.42857142857224,
     "offset_y": -13.714285714285666,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

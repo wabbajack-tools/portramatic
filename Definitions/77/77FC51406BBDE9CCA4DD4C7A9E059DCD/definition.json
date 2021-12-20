@@ -2,27 +2,57 @@
   "source": "https://w.wallhaven.cc/full/dg/wallhaven-dgm57l.jpg",
   "md5": "77FC51406BBDE9CCA4DD4C7A9E059DCD",
   "tags": [
-    ""
+    "",
+    "cute",
+    "red",
+    "succubus",
+    "realistic",
+    "babylon",
+    "league",
+    "angels",
+    "black",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "mage",
+    "fighting",
+    "lukas",
+    "baumgartner",
+    "9.5",
+    "radiance",
+    "li",
+    "watercolor",
+    "gem",
+    "roleplay",
+    "miress\u00EB",
+    "tinumiel",
+    "bramasta",
+    "aji"
   ],
   "small": {
     "scale": 1,
     "offset_x": -646,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -607,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -564,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

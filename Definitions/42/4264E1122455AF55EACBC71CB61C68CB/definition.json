@@ -7,27 +7,46 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "tekken",
+    "7",
+    "eliza",
+    "swimsuit",
+    "fan",
+    "league",
+    "legends",
+    "dragon",
+    "rider",
+    "max",
+    "yenin",
+    "character",
+    "kali",
+    "hazem",
+    "ameen",
+    "portraits"
   ],
   "small": {
     "scale": 0.47999999999999965,
     "offset_x": -230.26666666666125,
     "offset_y": -111.06666666668167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -114.06666666666649,
     "offset_y": -83.93333333334158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -41.66666666666754,
     "offset_y": -36.00000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

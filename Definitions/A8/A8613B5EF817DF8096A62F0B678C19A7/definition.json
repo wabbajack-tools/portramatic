@@ -13,27 +13,36 @@
     "marine",
     "hd",
     "abimael",
-    "salazar"
+    "salazar",
+    "horse",
+    "prints",
+    "black",
+    "painting",
+    "wall",
+    "horseheads"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -155,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -50,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -62,
     "offset_y": 54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

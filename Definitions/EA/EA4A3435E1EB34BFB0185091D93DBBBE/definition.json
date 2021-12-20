@@ -9,27 +9,57 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "mystic",
+    "female",
+    "warriors",
+    "horse",
+    "robert",
+    "beltran",
+    "anime",
+    "girl",
+    "guys",
+    "bleach",
+    "night",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "repakuku",
+    "shaman.",
+    "aleksandra",
+    "sergeeva",
+    "halloween",
+    "2020",
+    "johannes",
+    "helgeson",
+    "amelia",
+    "malveda"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -339,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -128,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2799999999999998,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

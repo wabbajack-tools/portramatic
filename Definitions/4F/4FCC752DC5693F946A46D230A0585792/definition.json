@@ -7,27 +7,51 @@
     "warrior",
     "queen",
     "mage",
-    "priest"
+    "priest",
+    "cave",
+    "paintings",
+    "ars",
+    "goetia",
+    "dantalion",
+    "daniel",
+    "kamarudin",
+    "character",
+    "concept",
+    "characters",
+    "fox",
+    "spirit",
+    "ji",
+    "you",
+    "zhong",
+    "\u9694\u58C1\u8001\u6740",
+    "cai",
+    "qiang",
+    "sesshomaru",
+    "inuyasha",
+    "cosplay"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -888,
     "offset_y": -577,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -341,
     "offset_y": -191,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -256,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

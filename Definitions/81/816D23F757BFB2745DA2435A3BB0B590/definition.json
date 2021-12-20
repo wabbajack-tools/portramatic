@@ -5,27 +5,36 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "chris",
+    "chan",
+    "megan",
+    "sonichu",
+    "fan",
+    "artwork"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -194.79999999999973,
     "offset_y": -167.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -97.19999999999982,
     "offset_y": -115.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -2.324074074074815,
     "offset_y": -153.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

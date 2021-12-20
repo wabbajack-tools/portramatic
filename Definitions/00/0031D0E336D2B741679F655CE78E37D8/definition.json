@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/564x/5b/06/ff/5b06ff37b7a7a46ab752760df092b961.jpg",
   "md5": "0031D0E336D2B741679F655CE78E37D8",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "characters",
+    "cards",
+    "albino",
+    "peacock",
+    "sheila",
+    "amajida"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -163,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -83,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.549999999999998,
     "offset_x": -54,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

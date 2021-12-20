@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/b3/5b/cd/b35bcdb37d89aabddf72295d5b363bd1.png",
   "md5": "E98E498F31912F59D9C7D2BCEC180090",
   "tags": [
-    ""
+    "",
+    "robin",
+    "hood",
+    "concept",
+    "male",
+    "ranger",
+    "human",
+    "samurai",
+    "armor",
+    "dynasty",
+    "warriors",
+    "warhammer",
+    "40k",
+    "paladin",
+    "chinese",
+    "symbols",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "connor",
+    "sheehan\u0027s",
+    "submission",
+    "beyond",
+    "alexios",
+    "gabriel",
+    "blain",
+    "wow",
+    "voidelf",
+    "rogue",
+    "will",
+    "morley"
   ],
   "small": {
     "scale": 1,
     "offset_x": -421,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -326,
     "offset_y": -176,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -150,
     "offset_y": -164,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

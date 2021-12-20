@@ -5,27 +5,47 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "claire",
+    "farron",
+    "lightning",
+    "fan",
+    "model",
+    "reaper",
+    "sergey",
+    "olson",
+    "miss",
+    "fortune",
+    "devil",
+    "hunter",
+    "unstable",
+    "anomaly",
+    "\u4E09\u7B20",
+    "yichao",
+    "xu"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -273,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -141,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -208,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

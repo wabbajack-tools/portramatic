@@ -5,27 +5,65 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "dd",
+    "character",
+    "sheet",
+    "spell",
+    "book",
+    "books",
+    "knight",
+    "armor",
+    "necromancer",
+    "assassin",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "concept",
+    "rexxar",
+    "chang",
+    "zombie_spearman",
+    "basic_87",
+    "oh",
+    "ji",
+    "sung",
+    "https://www.artstation.com/artwork",
+    "personal",
+    "work",
+    "1\u00262",
+    "muje",
+    "1234",
+    "characters",
+    "men",
+    "game"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -631.9333333333334,
     "offset_y": -246.5999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999999,
     "offset_x": -372.1333333333332,
     "offset_y": -166.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -237.19999999999993,
     "offset_y": -64.39999999999986,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

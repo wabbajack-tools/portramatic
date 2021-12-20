@@ -2,27 +2,51 @@
   "source": "https://66.media.tumblr.com/7ff753d651260f99ee337d1bb8ce1106/tumblr_oly5n8pj4B1urkl64o1_1280.jpg",
   "md5": "4D66B91FF02DE7DD55270C62C649FE43",
   "tags": [
-    ""
+    "",
+    "dark",
+    "paladin",
+    "holy",
+    "human",
+    "knight",
+    "armor",
+    "dragon",
+    "death",
+    "vampire",
+    "manga",
+    "battle",
+    "mage",
+    "atukam",
+    "72",
+    "shao",
+    "kahn",
+    "targo",
+    "sirol",
+    "sight",
+    "samuel",
+    "couture"
   ],
   "small": {
     "scale": 1,
     "offset_x": -398,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -343,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -268,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,55 @@
     "mage",
     "priest",
     "warrior",
-    "rogue"
+    "rogue",
+    "elf",
+    "hair",
+    "anime",
+    "dark",
+    "snow",
+    "night",
+    "league",
+    "legends",
+    "blood",
+    "lol",
+    "fanart",
+    "aphelios",
+    "painting",
+    "process",
+    "foritis",
+    "wang",
+    "https://www.artstation.com",
+    "succubus",
+    "nessi",
+    "https://www.artstation.com/artwork/oyodwj",
+    "women",
+    "tyrande",
+    "whisperwind",
+    "a",
+    "stas"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -304,
     "offset_y": -184,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -58,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -224,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

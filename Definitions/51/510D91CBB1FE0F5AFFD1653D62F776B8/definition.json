@@ -2,27 +2,56 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/443/809/large/ricardo-herrera-concepto-cabellero-negro-dragon-avatar.jpg?1559399303",
   "md5": "510D91CBB1FE0F5AFFD1653D62F776B8",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "samurai",
+    "heavy",
+    "vampire",
+    "manga",
+    "medieval",
+    "knights",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "dark",
+    "https://www.artstation.com/contests/the-legend-of-king-arthur/challenges/64/submissions/43621",
+    "elf",
+    "bumjin",
+    "kim",
+    "https://www.artstation.com/artwork/lagqy",
+    "elves",
+    "hades",
+    "dongjun",
+    "seo"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

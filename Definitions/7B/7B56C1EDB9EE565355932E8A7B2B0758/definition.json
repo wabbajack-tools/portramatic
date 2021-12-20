@@ -2,27 +2,48 @@
   "source": "https://static1.e621.net/data/7b/56/7b56c1edb9ee565355932e8a7b2b0758.png",
   "md5": "7B56C1EDB9EE565355932E8A7B2B0758",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "lunchi",
+    "sexy",
+    "statue",
+    "dragonball",
+    "anime",
+    "animation",
+    "sailor",
+    "moon",
+    "marat",
+    "latypov",
+    "\u30D2\u30AB\u30EA\u3068\u30DD\u30C3\u30C1\u30E3\u30DE",
+    "usuke",
+    "ninja"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -145,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -83,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -50,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

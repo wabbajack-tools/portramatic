@@ -5,27 +5,47 @@
     "human",
     "male",
     "warrior",
-    "samurai"
+    "samurai",
+    "elf",
+    "drawings",
+    "world",
+    "warcraft",
+    "rogue",
+    "barbarians",
+    "orc",
+    "magician",
+    "nezt",
+    "oss",
+    "character",
+    "quincy",
+    "steven",
+    "shan",
+    "dragon",
+    "beniamino",
+    "bradi"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -210,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -109,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -136,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

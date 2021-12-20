@@ -5,27 +5,47 @@
     "male",
     "human",
     "warrior",
-    "mage"
+    "mage",
+    "elf",
+    "character",
+    "wizard",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
+    "dwaft",
+    "derrick",
+    "song",
+    "https://www.artstation.com/artwork/bg0ba",
+    "dwarf",
+    "horse",
+    "shit",
+    "guard",
+    "martin",
+    "gao"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -305,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -143,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -132,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

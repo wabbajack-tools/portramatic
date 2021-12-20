@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/originals/6e/fd/f9/6efdf9276f4eb4de1617460cdb36442b.png",
   "md5": "AFD0846EAE9900636F171AB7A2981CDC",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "tyrael",
+    "angel",
+    "wings",
+    "armor",
+    "guardian",
+    "angels"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -274,
     "offset_y": -460,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -259,
     "offset_y": -418,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9599999999999995,
     "offset_x": -136,
     "offset_y": -292,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,47 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/960/502/large/alen-rocha-gunship-revolution-01-thunderstone-dwarf-rogue-hero-v5-3.jpg?1532329499",
   "md5": "FA77686EB114633B6BEDAF20E8A46A9E",
   "tags": [
-    ""
+    "",
+    "dwarven",
+    "rogue",
+    "wow",
+    "dwarf",
+    "male",
+    "hyper",
+    "realistic",
+    "low",
+    "poly",
+    "game",
+    "character",
+    "assets",
+    "des",
+    "van\u0027del",
+    "a.e.",
+    "coggon",
+    "https://www.artstation.com/artwork/nldzd"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -261,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -103,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -12,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

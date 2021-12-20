@@ -4,27 +4,53 @@
   "tags": [
     "female",
     "half elf",
-    "mage"
+    "mage",
+    "wolves",
+    "girl",
+    "drawing",
+    "draw",
+    "wolf",
+    "fan",
+    "face",
+    "painting",
+    "lord",
+    "rings",
+    "9",
+    "veronika",
+    "kozlova",
+    "https://www",
+    "creatures",
+    "dongjun",
+    "lu",
+    "creature",
+    "design",
+    "cyberpunk",
+    "people",
+    "aneta",
+    "bielas"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -74,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -56,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -52,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

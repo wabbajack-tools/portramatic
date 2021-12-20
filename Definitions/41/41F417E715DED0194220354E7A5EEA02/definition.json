@@ -1,28 +1,49 @@
 {
-  "source": "https://th.bing.com/th/id/R.41f417e715ded0194220354e7a5eea02?rik=hLbYMUgJWZxOFA&riu=http%3a%2f%2fcoolvibe.com%2fwp-content%2fuploads%2f2014%2f08%2fFantasy-Art-Yuriy-Chemezov-Edelweiss.jpg&ehk=FDq%2fpV7n%2b%2b87B73WBS8qaVnSovVofnqIjD1O6GiP1%2bo%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.41f417e715ded0194220354e7a5eea02?rik=hLbYMUgJWZxOFA\u0026riu=http%3a%2f%2fcoolvibe.com%2fwp-content%2fuploads%2f2014%2f08%2fFantasy-Art-Yuriy-Chemezov-Edelweiss.jpg\u0026ehk=FDq%2fpV7n%2b%2b87B73WBS8qaVnSovVofnqIjD1O6GiP1%2bo%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "41F417E715DED0194220354E7A5EEA02",
   "tags": [
-    "Gnome Mage"
+    "Gnome Mage",
+    "digital",
+    "male",
+    "female",
+    "warrior",
+    "character",
+    "concept",
+    "league",
+    "legends",
+    "pirate",
+    "vengeance",
+    "felipe",
+    "malini",
+    "put",
+    "a",
+    "shape",
+    "yi",
+    "zhen",
+    "women"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -306,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -310,
     "offset_y": -95,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -58,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

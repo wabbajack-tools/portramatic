@@ -4,27 +4,44 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "witch",
+    "concepts",
+    "agnieszka",
+    "antosiewicz",
+    "for",
+    "water",
+    "stacey",
+    "diana",
+    "clark",
+    "jordan",
+    "peoples",
+    "2020",
+    "wonder",
+    "woman"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -738.5,
     "offset_y": -208,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999994,
     "offset_x": -353.5,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999994,
     "offset_x": -177,
     "offset_y": -29,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

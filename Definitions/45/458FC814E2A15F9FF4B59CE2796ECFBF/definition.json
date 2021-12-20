@@ -2,27 +2,34 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/032/483/829/large/peter-antal-night-elf-14-11-20.jpg?1606584330",
   "md5": "458FC814E2A15F9FF4B59CE2796ECFBF",
   "tags": [
-    "night elf druid"
+    "night elf druid",
+    "blue",
+    "dragon",
+    "svetlana",
+    "nurkaeva"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -449,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -457,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -292,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/e4/60/96/e46096a1b998ca81ff4f911abb2846a4.jpg",
   "md5": "A8067A5FBB82DCBDA8D1C56F39CD2FB0",
   "tags": [
-    ""
+    "",
+    "dark",
+    "saber",
+    "fate",
+    "series",
+    "black",
+    "knight",
+    "personal",
+    "work",
+    "aimee",
+    "lynette",
+    "female",
+    "warrior",
+    "elf",
+    "theon",
+    "greyjoy",
+    "pyke",
+    "mike",
+    "hallstein",
+    "https://www.artstation.com/artwork/q2k9b",
+    "rogue",
+    "daniel",
+    "mardale"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -172,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -6,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -60,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

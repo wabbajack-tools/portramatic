@@ -2,27 +2,52 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/026/516/619/large/loles-romero-the-librarian-res.jpg?1588972492",
   "md5": "EEB73152CB5CA757024ACBF266EBDE72",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "female",
+    "assassin",
+    "pirates",
+    "caribbean",
+    "https://meninfantasyart.tumblr.com/post/138153639264/white-elf-by-cesar-rosolino-artstation",
+    "irene",
+    "black",
+    "light",
+    "alexander",
+    "chiveli",
+    "navarro",
+    "knight",
+    "concept",
+    "faeries",
+    "taras",
+    "susak",
+    "characters"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -461,
     "offset_y": -268,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -360,
     "offset_y": -233,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -8,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/005/802/685/large/brian-rivera-elf-archer-copy.jpg?1493874543",
   "md5": "D3E047A9ACB015B27AA0977A356301AE",
   "tags": [
-    ""
+    "",
+    "male",
+    "archer",
+    "medieval",
+    "concept",
+    "legend",
+    "zelda",
+    "anime",
+    "girl",
+    "dark",
+    "elf",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "exorcist",
+    "mansik",
+    "yang",
+    "character",
+    "design",
+    "artist",
+    "grahtwood",
+    "ambusher",
+    "gabriela",
+    "dea",
+    "julia",
+    "cryptids",
+    "rabbit",
+    "tooth"
   ],
   "small": {
     "scale": 1,
     "offset_x": -365,
     "offset_y": -128,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -290,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -72,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

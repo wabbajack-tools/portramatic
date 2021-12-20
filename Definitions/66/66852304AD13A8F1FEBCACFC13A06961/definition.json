@@ -4,27 +4,43 @@
   "tags": [
     "female",
     "tiefling",
-    "mage"
+    "mage",
+    "legend",
+    "cryptids",
+    "warrior",
+    "legends",
+    "paladin",
+    "armors",
+    "metal",
+    "gear",
+    "rising",
+    "poker",
+    "magic",
+    "joey",
+    "zeng"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -360,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -202,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -156,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

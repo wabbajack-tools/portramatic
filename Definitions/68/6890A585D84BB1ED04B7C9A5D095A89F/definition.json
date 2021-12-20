@@ -2,27 +2,56 @@
   "source": "https://i.redd.it/qhnq7hsq83751.jpg",
   "md5": "6890A585D84BB1ED04B7C9A5D095A89F",
   "tags": [
-    ""
+    "",
+    "oc",
+    "drawing",
+    "dm",
+    "male",
+    "female",
+    "assassin",
+    "pirate",
+    "warriors",
+    "armors",
+    "high",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "moarte",
+    "anastasia",
+    "vysotskaya",
+    "wasteland",
+    "blade",
+    "michael",
+    "mueller",
+    "ronin",
+    "andrew",
+    "domachowski",
+    "samurai"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -504,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -325,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -202,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

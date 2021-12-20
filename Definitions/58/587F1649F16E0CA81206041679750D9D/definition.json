@@ -29,27 +29,52 @@
     "tom",
     "bruck",
     "https://www.artstation.com/artwork/loja5",
-    "creature"
+    "creature",
+    "dungeons",
+    "dragons",
+    "warriors",
+    "gears",
+    "war",
+    "vampire",
+    "manga",
+    "pirates",
+    "caribbean",
+    "auron",
+    "necromancer",
+    "reliah",
+    "a.",
+    "szade",
+    "2d",
+    "conceptart",
+    "moky",
+    "lin",
+    "gorod",
+    "manthos",
+    "lappas",
+    "https://www"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -234,
     "offset_y": -132,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -96,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -18,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

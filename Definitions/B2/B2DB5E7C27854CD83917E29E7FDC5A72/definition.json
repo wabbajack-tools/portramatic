@@ -16,27 +16,53 @@
     "weekend",
     "sketches",
     "eric",
-    "persson"
+    "persson",
+    "iron",
+    "man",
+    "knight",
+    "deadpool",
+    "four",
+    "horsemen",
+    "dark",
+    "death",
+    "souls",
+    "warrior\u0027s",
+    "darkening#2",
+    "mansik",
+    "yang",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc",
+    "hunters",
+    "league",
+    "lee",
+    "duck",
+    "su",
+    "2020",
+    "monster"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -369,
     "offset_y": -167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -135,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -84,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

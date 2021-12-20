@@ -4,27 +4,47 @@
   "tags": [
     "female",
     "human",
-    "noble"
+    "noble",
+    "rpg",
+    "character",
+    "design",
+    "concept",
+    "dark",
+    "souls",
+    "girl",
+    "sibyl",
+    "vane",
+    "mortui",
+    "vivos",
+    "docent",
+    "zsofia",
+    "dankova",
+    "vampire",
+    "portraits",
+    "artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -201,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -141,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -6,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

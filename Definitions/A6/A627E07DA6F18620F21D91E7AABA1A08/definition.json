@@ -7,27 +7,64 @@
     "warrior",
     "queen",
     "mage",
-    "priest"
+    "priest",
+    "g",
+    "j",
+    "john",
+    "george",
+    "brown",
+    "jones",
+    "blood",
+    "elf",
+    "wood",
+    "high",
+    "night",
+    "princess",
+    "fenghua",
+    "zhong",
+    "nep\u0027hys",
+    "dark",
+    "god",
+    "souls",
+    "ships.",
+    "paragon",
+    "skin",
+    "concepts",
+    "yang",
+    "egypt",
+    "concept",
+    "jakub",
+    "bazyluk\u0027s",
+    "submission",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "character"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -679,
     "offset_y": -316,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -375,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -254,
     "offset_y": -134,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

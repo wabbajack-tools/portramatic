@@ -9,27 +9,57 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "scorpion",
+    "body",
+    "armor",
+    "concept",
+    "knight",
+    "pin",
+    "up",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "predator",
+    "alex.",
+    "faichan",
+    "https://www",
+    "lady",
+    "raven",
+    "helena",
+    "nikulina",
+    "dabi",
+    "mattieau",
+    "manikk",
+    "st.cyr"
   ],
   "small": {
     "scale": 1.4800000000000004,
     "offset_x": -407,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -18,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3099999999999998,
     "offset_x": -24,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

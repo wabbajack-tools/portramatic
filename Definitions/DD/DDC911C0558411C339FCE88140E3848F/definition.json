@@ -9,27 +9,37 @@
     "elf",
     "ranger",
     "innervalue",
-    "druid"
+    "druid",
+    "demon",
+    "hunter",
+    "jessica",
+    "peterson",
+    "world",
+    "warcraft",
+    "characters"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -173,
     "offset_y": -29.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -94.66666666666669,
     "offset_y": -22.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -1.3333333333332575,
     "offset_y": -10.666666666666572,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

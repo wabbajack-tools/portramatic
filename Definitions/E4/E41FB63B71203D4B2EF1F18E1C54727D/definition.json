@@ -2,27 +2,61 @@
   "source": "https://static.wikia.nocookie.net/mistbank1748/images/2/25/Goblin_rogue.jpg/revision/latest/scale-to-width-down/730?cb=20180115180324",
   "md5": "E41FB63B71203D4B2EF1F18E1C54727D",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "character",
+    "shaman",
+    "concept",
+    "face",
+    "war",
+    "world\u0027s",
+    "dungeons",
+    "dragons",
+    "overwatch",
+    "sombra",
+    "demonhunter",
+    "skin",
+    "piotr",
+    "szlaga",
+    "demon",
+    "hunter",
+    "artwork",
+    "ice_titan",
+    "greg",
+    "danton",
+    "ice",
+    "titan",
+    "design",
+    "creatures",
+    "mage",
+    "decay",
+    "barret",
+    "frymire",
+    "https://www.artstation.com/artwork/or6gg",
+    "2021"
   ],
   "small": {
     "scale": 1,
     "offset_x": -236,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -119,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -164,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

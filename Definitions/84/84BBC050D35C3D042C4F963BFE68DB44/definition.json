@@ -5,27 +5,39 @@
     "tiefling",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "sketch",
+    "li",
+    "wenda",
+    "detroit",
+    "become",
+    "human",
+    "concept",
+    "benoit",
+    "godde"
   ],
   "small": {
     "scale": 0.43999999999999984,
     "offset_x": -627,
     "offset_y": -352,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24124999999999922,
     "offset_x": -133,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2605833333333336,
     "offset_x": -1190,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/e7/40/33/e74033071775d7d6bedd05899d9ae4cd.jpg",
   "md5": "6FD3D361DB4A05A96264990E1E032CA6",
   "tags": [
-    ""
+    "",
+    "witch",
+    "digital",
+    "dark",
+    "witches",
+    "evil",
+    "artwork",
+    "league",
+    "legends",
+    "world",
+    "warcraft",
+    "rogue",
+    "elf",
+    "knight",
+    "lizzy",
+    "wizardress",
+    "sebastian",
+    "horoszko",
+    "smite",
+    "nike",
+    "fallen",
+    "angel",
+    "skin",
+    "forrest",
+    "imel",
+    "ding",
+    "grandia",
+    "lee"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -368,
     "offset_y": -251,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -234,
     "offset_y": -214,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9999999999999996,
     "offset_x": -34,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

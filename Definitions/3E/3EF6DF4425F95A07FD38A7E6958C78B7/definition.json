@@ -5,27 +5,34 @@
     "female",
     "human",
     "princess",
-    "mage"
+    "mage",
+    "ice",
+    "fairy",
+    "disney",
+    "digital"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -243,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -89,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -60,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

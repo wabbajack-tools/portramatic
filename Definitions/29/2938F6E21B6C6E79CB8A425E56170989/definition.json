@@ -22,27 +22,51 @@
     "2020",
     "character",
     "design",
-    "game"
+    "game",
+    "female",
+    "assassin",
+    "dark",
+    "09/13/19",
+    "practice",
+    "banjiu",
+    "e\u0027vik",
+    "with",
+    "vik",
+    "concept",
+    "superhero",
+    "odelina",
+    "templars",
+    "https://www.artstation.com/artwork/xb464l",
+    "rpg",
+    "set",
+    "29",
+    "ernesto",
+    "irawan",
+    "2021",
+    "characters"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -308,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -123,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -64,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,59 @@
   "source": "https://i.imgur.com/ljw0xE3.jpeg",
   "md5": "CDD1D3C60B9A874D4B910B4526DEAAEE",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "death",
+    "dealer",
+    "dawn",
+    "war",
+    "predator",
+    "beast",
+    "ivan",
+    "kashubo",
+    "evoke",
+    "original",
+    "creature",
+    "syu-ichi",
+    "kawata",
+    "inspirational",
+    "digital",
+    "alien",
+    "tales",
+    "from",
+    "beyond",
+    "fringe",
+    "malgrave",
+    "tract",
+    "01",
+    "johnson",
+    "truong"
   ],
   "small": {
     "scale": 1,
     "offset_x": -405,
     "offset_y": -369,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -309,
     "offset_y": -260,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -98,
     "offset_y": -222,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

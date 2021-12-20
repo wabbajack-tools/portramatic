@@ -2,25 +2,64 @@
   "source": "https://i.pinimg.com/564x/2d/77/6a/2d776a894a59a787b71fe6c858341f8c.jpg",
   "md5": "EEE765BE5C5CA037A32040FAF43F10F2",
   "tags": [
-    ""
+    "",
+    "full",
+    "leather",
+    "armor",
+    "dark",
+    "elf",
+    "cool",
+    "knight",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "caleb",
+    "stratton",
+    "gwent",
+    "contest",
+    "nicolas",
+    "camiade",
+    "https://www.artstation.com",
+    "ritual",
+    "returned",
+    "m:tg",
+    "journey",
+    "into",
+    "nyx",
+    "zack",
+    "stella",
+    "https://www",
+    "alsco",
+    "cobbs",
+    "dragonborn",
+    "ted",
+    "thilander",
+    "https://www.artstatio"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -183,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -118,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -16,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -1,26 +1,37 @@
 {
-  "source": "https://pbs.twimg.com/media/EmoqAtKXYAAgVJI?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EmoqAtKXYAAgVJI?format=jpg\u0026name=large",
   "md5": "5C0A8EC81182E14A8E496284BE9046A4",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "conan",
+    "barbarian",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -106,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -15,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -16,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

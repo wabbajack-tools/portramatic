@@ -11,27 +11,50 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "dungeon",
+    "crawl",
+    "warforged",
+    "death",
+    "knight",
+    "oh",
+    "april",
+    "dede",
+    "artstation.",
+    "dragon",
+    "dark",
+    "character",
+    "design",
+    "spearman",
+    "byeongwoo",
+    "song",
+    "tcg",
+    "illust",
+    "k",
+    "ei"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -270.7999999999997,
     "offset_y": -29.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -118.19999999999976,
     "offset_y": -10.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -90.32407407407482,
     "offset_y": -5.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

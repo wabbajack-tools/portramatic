@@ -2,27 +2,55 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921404652614991952/assassina_rossa_che_sa_il_fatto_suo.jpg",
   "md5": "97A917B024A5C25A69F5A142110AB874",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "costume",
+    "clothing",
+    "evil",
+    "league",
+    "legends",
+    "pray",
+    "for",
+    "your",
+    "sins",
+    "alexey",
+    "gorbatov",
+    "13",
+    "tiefling",
+    "blackguard",
+    "alessandro",
+    "rossi",
+    "\u201Cthis",
+    "is",
+    "commander",
+    "shepard",
+    "signing",
+    "off\u2026\u201D",
+    "des"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -397,
     "offset_y": -187,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -139,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -6,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

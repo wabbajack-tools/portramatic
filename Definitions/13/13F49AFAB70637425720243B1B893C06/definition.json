@@ -9,27 +9,59 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "league",
+    "angels",
+    "legends",
+    "anime",
+    "girl",
+    "angel",
+    "pin",
+    "up",
+    "guardian",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "zhuque",
+    "mercy",
+    "logan",
+    "cure",
+    "khazar",
+    "yutthaphong",
+    "kaewsuk",
+    "yuanbin",
+    "hu",
+    "overwatch",
+    "fan",
+    "wallpapers"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -552,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -117,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0499999999999998,
     "offset_x": 0,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

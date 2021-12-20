@@ -15,27 +15,46 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "night",
+    "elf",
+    "female",
+    "assassin",
+    "league",
+    "legends",
+    "ling",
+    "lin",
+    "crossbow",
+    "sniper",
+    "flonna",
+    "adv",
+    "fajareka",
+    "swordswoman",
+    "sikarin",
+    "susirakarn"
   ],
   "small": {
     "scale": 0.49999999999999967,
     "offset_x": -221,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -98,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999978,
     "offset_x": -172,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/originals/71/e9/4e/71e94e0567ea18bbbb07c6ba358a5867.jpg",
   "md5": "9FDA5F3BE384CB1D955F7DAA70B6513E",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "warrior",
+    "armor",
+    "futuristic",
+    "japanese",
+    "knight",
+    "medieval",
+    "knights",
+    "heavy",
+    "armors",
+    "plate",
+    "barbarian",
+    "\uD83D\uDE03nikolay",
+    "naydenov\uD83D\uDE03",
+    "van",
+    "sans",
+    "artstation.",
+    "artworks"
   ],
   "small": {
     "scale": 1,
     "offset_x": -298,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -182,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -118,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

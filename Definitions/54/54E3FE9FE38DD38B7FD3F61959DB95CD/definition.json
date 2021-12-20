@@ -11,27 +11,44 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "destiny",
+    "warlock",
+    "fan",
+    "gun",
+    "female",
+    "guardians",
+    "galaxy",
+    "dark",
+    "souls",
+    "some",
+    "practice",
+    "lexey",
+    "anikin",
+    "https://www.artstation.com/artwork/8aqxg"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -328.7999999999997,
     "offset_y": -57.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -141.19999999999976,
     "offset_y": -30.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -4.324074074074815,
     "offset_y": -9.601851851852643,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

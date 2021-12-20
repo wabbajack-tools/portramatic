@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/ce/38/d8/ce38d81e6509753827c76a5c2a3fac3b.jpg",
   "md5": "2A414B5BB7AA63EA757A4FF0835F46B7",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "anime",
+    "warcraft",
+    "characters",
+    "dungeons",
+    "dragons",
+    "western",
+    "advanced",
+    "cowboys",
+    "aliens",
+    "orcs",
+    "demon",
+    "hunter",
+    "160",
+    "paul",
+    "shut",
+    "berserker",
+    "max",
+    "yenin",
+    "https://www",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -226,
     "offset_y": -165,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -20,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -58,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

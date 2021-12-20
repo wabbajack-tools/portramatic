@@ -9,27 +9,38 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "ocarina",
+    "time",
+    "po",
+    "ping",
+    "fallen",
+    "alchemist",
+    "luka",
+    "brico"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -357,
     "offset_y": -271,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -53,
     "offset_y": -159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7000000000000002,
     "offset_x": 0,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

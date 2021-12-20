@@ -2,27 +2,42 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/425a3ef9-e52b-48c5-a301-ed74471898e1/ddktnln-60d91011-fe86-4b0c-bb85-dbe484e17aa8.jpg/v1/fill/w_1280,h_1921,q_75,strp/angelise_reiter_by_fanfoxy_ddktnln-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMSIsInBhdGgiOiJcL2ZcLzQyNWEzZWY5LWU1MmItNDhjNS1hMzAxLWVkNzQ0NzE4OThlMVwvZGRrdG5sbi02MGQ5MTAxMS1mZTg2LTRiMGMtYmI4NS1kYmU0ODRlMTdhYTguanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wstfjXQgSFRFWlLuF3HMM-H3pQ8Biyiyi4UG1eEBN0I",
   "md5": "733CDD3F879A1F78750AEF53B464EB41",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "masquerade",
+    "female",
+    "assassin",
+    "anime",
+    "guys",
+    "launchpad",
+    "mcquack",
+    "mirko",
+    "failoni",
+    "disney",
+    "fan"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -512.666666666667,
     "offset_y": -54.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -381.6666666666667,
     "offset_y": -48.99999999999986,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -22,
     "offset_y": -14.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

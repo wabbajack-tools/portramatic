@@ -2,25 +2,36 @@
   "source": "https://ih1.redbubble.net/image.1127244876.3371/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
   "md5": "CD56B5C326E0B81CBFB9474938407C5E",
   "tags": [
-    "Solas' Portrait"
+    "Solas\u0027 Portrait",
+    "dragon",
+    "age",
+    "origins",
+    "vikings",
+    "sara",
+    "adanero"
   ],
   "small": {
     "scale": 1,
     "offset_x": -269.3333333333333,
     "offset_y": -77.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -80.66666666666663,
     "offset_y": -45.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -42.66666666666697,
     "offset_y": -42.666666666666686,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

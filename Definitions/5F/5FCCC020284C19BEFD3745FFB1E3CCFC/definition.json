@@ -4,27 +4,40 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "yuki",
+    "onna",
+    "mythology",
+    "anime",
+    "beautiful",
+    "girl",
+    "photo",
+    "study",
+    "mars",
+    "foong"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -389.5,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -150.5,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9499166666666665,
     "offset_x": -51,
     "offset_y": -37,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

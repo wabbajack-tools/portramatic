@@ -9,27 +9,44 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "practice",
+    "vu",
+    "nguyen",
+    "hydestudio",
+    "amnesiac",
+    "body",
+    "double",
+    "adv",
+    "fajareka",
+    "setiawan",
+    "illustration",
+    "character",
+    "don",
+    "arturo"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -273,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -31,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3099999999999998,
     "offset_x": -30,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

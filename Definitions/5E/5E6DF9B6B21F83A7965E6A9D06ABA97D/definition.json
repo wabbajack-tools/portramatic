@@ -17,7 +17,7 @@
     "shoes",
     "heels",
     "tatiana",
-    "vetrova's",
+    "vetrova\u0027s",
     "submission",
     "ancient",
     "horizon",
@@ -29,27 +29,53 @@
     "art_thief",
     "choe",
     "yera",
-    "disney"
+    "disney",
+    "knight",
+    "dark",
+    "futuristic",
+    "assassin",
+    "witcher",
+    "dragon",
+    "dynasty",
+    "warriors",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "practice...",
+    "\u00F6mer",
+    "tun\u00E7",
+    "artwork",
+    "aleksei",
+    "rybnikov"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -258.8000000000002,
     "offset_y": -105.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -98,
     "offset_y": -125.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -126.62037037036998,
     "offset_y": -144.24074074074065,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

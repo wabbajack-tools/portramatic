@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/027/485/553/large/juyoung-ha-untitle-.jpg?1591680923",
   "md5": "613F4C2FFA61F29439DC8EAFD2FF187A",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "crusader",
+    "holy",
+    "pics",
+    "game",
+    "thrones",
+    "tomb",
+    "raider",
+    "death",
+    "knight",
+    "skyrim",
+    "black",
+    "ygritte",
+    "c",
+    "juk",
+    "batch",
+    "maria",
+    "efthymiadou",
+    "elf",
+    "unfinished",
+    "work",
+    "dongho",
+    "kang",
+    "https://www"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -362,
     "offset_y": -559,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -176,
     "offset_y": -419,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -102,
     "offset_y": -542,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

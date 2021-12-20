@@ -6,27 +6,53 @@
     "female",
     "dancer",
     "mage",
-    "priest"
+    "priest",
+    "black",
+    "woman",
+    "paintings",
+    "african",
+    "american",
+    "character",
+    "illustration",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "perfect",
+    "world",
+    "yana",
+    "panda",
+    "dance",
+    "andy",
+    "liong",
+    "baby",
+    "dragon",
+    "ciko",
+    "kholil"
   ],
   "small": {
     "scale": 0.44999999999999957,
     "offset_x": -765,
     "offset_y": -226,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999926,
     "offset_x": -311,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.349583333333333,
     "offset_x": -266,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

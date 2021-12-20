@@ -3,27 +3,36 @@
   "md5": "83EFD9CA50E8856520F542EF8A222E25",
   "tags": [
     "gnome",
-    "girl"
+    "girl",
+    "favorite",
+    "anime",
+    "characters",
+    "stupid",
+    "otaku",
+    "chibi"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -60,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -45,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9700000000000009,
     "offset_x": -140,
     "offset_y": -272,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

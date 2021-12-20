@@ -6,27 +6,58 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "lady",
+    "guinevere",
+    "costume",
+    "dark",
+    "drawing",
+    "pendragon",
+    "elf",
+    "death",
+    "knight",
+    "chaos",
+    "warrior",
+    "assassin",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "necromancer",
+    "jessie",
+    "lam",
+    "green",
+    "konstantinos",
+    "skenteridis",
+    "drowning",
+    "sadko",
+    "kenneth",
+    "solis"
   ],
   "small": {
     "scale": 0.7700000000000005,
     "offset_x": -421,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.67,
     "offset_x": -277,
     "offset_y": -135,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -116,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

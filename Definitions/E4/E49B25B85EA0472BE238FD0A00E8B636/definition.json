@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/29/c4/7c/29c47cf3ae530beade5e926c482376f5.jpg",
   "md5": "E49B25B85EA0472BE238FD0A00E8B636",
   "tags": [
-    ""
+    "",
+    "paladin",
+    "oaths",
+    "character",
+    "sheet",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "black",
+    "dragon",
+    "wonil",
+    "kim",
+    "charakter/inspiration",
+    "pinterest",
+    "characters",
+    "project",
+    "v",
+    "amado",
+    "x",
+    "warrior",
+    "concept",
+    "\uC2B54",
+    "k",
+    "ei",
+    "design"
   ],
   "small": {
     "scale": 1.2899999999999965,
     "offset_x": -182.39999999999932,
     "offset_y": -93.6000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -61.59999999999957,
     "offset_y": -32.7999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": 33.63888888888846,
     "offset_y": -75.28703703703673,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

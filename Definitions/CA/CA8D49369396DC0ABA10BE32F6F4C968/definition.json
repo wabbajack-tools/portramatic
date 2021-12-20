@@ -2,27 +2,43 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/013/875/043/large/chris-rallis-danitha.jpg?1541470063",
   "md5": "CA8D49369396DC0ABA10BE32F6F4C968",
   "tags": [
-    ""
+    "",
+    "holy",
+    "paladin",
+    "female",
+    "concept",
+    "dragon",
+    "mother",
+    "hongqi",
+    "zhang",
+    "https://www.artstation.com/artwork/rv1d5",
+    "game",
+    "alice",
+    "sinoalice",
+    "lufush"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -189.3333333333336,
     "offset_y": -10.000000000000057,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -121.33333333333337,
     "offset_y": -5.3333333333332575,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -204,
     "offset_y": -1.3333333333329733,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/originals/c1/a1/0f/c1a10fbc4c7e573eaf054c419b0cb548.jpg",
   "md5": "10663787EC380FB722B38127EFDF46B1",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "girl",
+    "drawings",
+    "beautiful",
+    "woman",
+    "female",
+    "warriors",
+    "with",
+    "swords",
+    "assassin",
+    "dungeons",
+    "dragons",
+    "skyrim",
+    "dark",
+    "elf",
+    "vampire",
+    "knight",
+    "manga",
+    "high",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "denys",
+    "tsiperko",
+    "http://www.artstation.com/artwork/1-315a082b\u2026",
+    "dracula",
+    "agnieszka",
+    "antosiewicz",
+    "itachi",
+    "uchiha",
+    ".williadara"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -215,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -81,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -12,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,49 @@
     "female",
     "mage",
     "princess",
-    "warrior"
+    "warrior",
+    "aquaman",
+    "superhero",
+    "artwork",
+    "redesign",
+    "guardians",
+    "galaxy",
+    "#2020\u6625\u5B63\u89D2\u8272\u73ED#\u738B\u8005\u8363\u8000\u540C\u4EBA\u4F5C\u54C1",
+    "star",
+    "academy",
+    "sweet",
+    "dreams",
+    "fan",
+    "yang",
+    "gabriel",
+    "flawless",
+    "potency",
+    "st.",
+    "cygnus",
+    "https://www.artstation.com/artwork/xm63n"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -732.7999999999997,
     "offset_y": -395.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -352.1999999999998,
     "offset_y": -139.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -144.32407407407482,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

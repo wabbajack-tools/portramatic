@@ -13,25 +13,48 @@
     "armor",
     "bow",
     "face",
-    ""
+    "",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "knight",
+    "plate",
+    "armors",
+    "osprey",
+    "mahea",
+    "rodrigues",
+    "mahealani",
+    "artwork",
+    "royal",
+    "knights",
+    "ferret",
+    "kim",
+    "ladies"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -288,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -55,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -62,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

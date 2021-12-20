@@ -4,27 +4,41 @@
   "tags": [
     "human",
     "female",
-    "rogue. warrior"
+    "rogue. warrior",
+    "elektra",
+    "from",
+    "marvel",
+    "daredevil",
+    "greg",
+    "horn",
+    "dark",
+    "phoenix",
+    "gavin",
+    "goulden",
+    "2021"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -349,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -123,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -7,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

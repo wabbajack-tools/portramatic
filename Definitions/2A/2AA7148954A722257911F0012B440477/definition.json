@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/41/e9/1e/41e91ec8a5af9a8aa2052aa6f22ae271.jpg",
   "md5": "2AA7148954A722257911F0012B440477",
   "tags": [
-    ""
+    "",
+    "skyrim",
+    "dark",
+    "elf",
+    "mage",
+    "high",
+    "elves",
+    "vampire",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "orc",
+    "warrior",
+    "hobbit",
+    "game",
+    "thrones",
+    "punchy",
+    "angel",
+    "daniel",
+    "kamarudin",
+    "nott",
+    "caleb",
+    "ron",
+    "koza",
+    "another",
+    "character",
+    "yana",
+    "vaseva"
   ],
   "small": {
     "scale": 1,
     "offset_x": -177,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -101,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 74,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

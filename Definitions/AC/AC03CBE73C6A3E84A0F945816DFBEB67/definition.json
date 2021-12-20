@@ -9,27 +9,41 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "dc",
+    "comics",
+    "night",
+    "elf",
+    "gul\u0027dan",
+    "iv\u00E1n",
+    "herranz",
+    "hanako",
+    "ship",
+    "david",
+    "benzal"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -475,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -165,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.17,
     "offset_x": -156,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

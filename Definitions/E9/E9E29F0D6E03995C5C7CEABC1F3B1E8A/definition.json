@@ -5,27 +5,53 @@
     "human",
     "female",
     "warrior",
-    "hunter"
+    "hunter",
+    "demon",
+    "concept",
+    "drawing",
+    "male",
+    "warriors",
+    "witcher",
+    "demons",
+    "armed",
+    "nuns~designed",
+    "for",
+    "statue",
+    "low",
+    "magic",
+    "need",
+    "more",
+    "humanity\u00B7\u00B7\u00B7\u00B7",
+    "wen",
+    "geming",
+    "dark",
+    "nimble",
+    "pilferer",
+    "lie",
+    "setiawan"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -945.5,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999995,
     "offset_x": -426.5,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999997,
     "offset_x": -309,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/b7/6d/6c/b76d6c13f9389b498c5f8c67656f1232.jpg",
   "md5": "4EB908CF39021C995805109C3E5241AB",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "warrior",
+    "woman",
+    "modern",
+    "women",
+    "dark",
+    "league",
+    "legends",
+    "billy",
+    "christian",
+    "digital",
+    "anime",
+    "girl",
+    "artist",
+    "\uAF43\uBBF8\uB0A8",
+    "lana",
+    "g",
+    "https://www.artstation.com/artwork/xz6rly",
+    "elf",
+    "character",
+    "nadyla",
+    "golem",
+    "priestess",
+    "arif",
+    "wijaya",
+    "https://www.artstation.com/artwork/vdmklg"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -265,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -97,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.379999999999998,
     "offset_x": -34,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

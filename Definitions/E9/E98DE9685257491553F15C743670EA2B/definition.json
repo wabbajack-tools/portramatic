@@ -8,27 +8,62 @@
     "throne",
     "undead",
     "death",
-    "knight"
+    "knight",
+    "male",
+    "vampire",
+    "drawing",
+    "characters",
+    "eyes",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "souls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "liliana",
+    "vess",
+    "riccardo",
+    "rullo",
+    "mystical",
+    "iab2",
+    "ichisip",
+    "rr",
+    "women",
+    "concept",
+    "warcraft",
+    "inspired",
+    "dude",
+    "vladimir",
+    "buchyk"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -205.93333333333334,
     "offset_y": -80.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -268.7333333333334,
     "offset_y": -128.19999999999993,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -122.79999999999984,
     "offset_y": -116.00000000000009,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

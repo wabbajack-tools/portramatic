@@ -6,27 +6,61 @@
     "male",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "roman",
+    "costumes",
+    "knight",
+    "halloween",
+    "ninja",
+    "costume",
+    "for",
+    "adults",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "one",
+    "piece",
+    "sabo",
+    "inhyuk",
+    "lee",
+    "https://www.artstation.com/artwork/9ozrl",
+    "orlok",
+    "fan",
+    "adri\u00E1n",
+    "rodr\u00EDguez",
+    "rishiraj",
+    "singh",
+    "shekhawat\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "design",
+    "steampunk"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -692,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8604999999999998,
     "offset_x": -273,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4802500000000005,
     "offset_x": -400,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

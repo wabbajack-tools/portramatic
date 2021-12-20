@@ -4,27 +4,52 @@
   "tags": [
     "orc",
     "female. rogue",
-    "warrior"
+    "warrior",
+    "half-orcs",
+    "cute",
+    "male",
+    "half-orc",
+    "character",
+    "rogue",
+    "chaos",
+    "pirates",
+    "caribbean",
+    "elder",
+    "scrolls",
+    "online",
+    "female",
+    "rafael",
+    "teruel",
+    "at\u2026",
+    "rpg",
+    "portraits",
+    "\u0026",
+    "avatars",
+    "pinterest",
+    "rogues"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -455,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -287,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -194,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

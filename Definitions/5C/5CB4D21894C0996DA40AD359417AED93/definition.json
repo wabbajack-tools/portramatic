@@ -4,27 +4,43 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "ninja",
+    "warrior",
+    "assassin",
+    "character",
+    "armor",
+    "concept",
+    "knight",
+    "free",
+    "darkness",
+    "chris",
+    "mcgrath",
+    "https://www.artstation.com/artwork/onodw",
+    "https://cdna.artstation.com/p/assets/images/images/006/166"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -337,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -99,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -50,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

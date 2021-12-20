@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2b13d6f-0ee1-46aa-bfa4-2c577de5a370/daahsws-75ef8916-7cda-4c58-8ea5-354d045ddead.jpg/v1/fill/w_1024,h_1396,q_75,strp/mtg_chittering_host_jason_felix_by_jason_felix_daahsws-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM5NiIsInBhdGgiOiJcL2ZcL2IyYjEzZDZmLTBlZTEtNDZhYS1iZmE0LTJjNTc3ZGU1YTM3MFwvZGFhaHN3cy03NWVmODkxNi03Y2RhLTRjNTgtOGVhNS0zNTRkMDQ1ZGRlYWQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.jb6XtlNzL2Jzj_j8yvIWDokjQeBlS5QdJUS8prXfW64",
   "md5": "C349F70F109E131F9765744938398F25",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "host",
+    "eldritch",
+    "moon",
+    "chittering",
+    "da",
+    "jinya",
+    "g-host",
+    "lee"
   ],
   "small": {
     "scale": 2.389999999999992,
     "offset_x": -1132,
     "offset_y": -447,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -362,
     "offset_y": -161,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -104,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,64 @@
   "source": "https://i.imgur.com/xR7Fe6v.jpeg",
   "md5": "A162E1B7FDC7FD2F2C8448FABDBDCDBB",
   "tags": [
-    ""
+    "",
+    "african",
+    "warrior",
+    "cartoon",
+    "drawing",
+    "warriors",
+    "drawings",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "orc",
+    "armors",
+    "dungeons",
+    "dragons",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "snake",
+    "gabriel",
+    "blain",
+    "assassins",
+    "creed",
+    "10.10",
+    "liu",
+    "pengcheng",
+    "https://www",
+    "speedpainting",
+    "romain",
+    "leguay"
   ],
   "small": {
     "scale": 1.7200000000000006,
     "offset_x": -406,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4500000000000004,
     "offset_x": -234,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -24,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

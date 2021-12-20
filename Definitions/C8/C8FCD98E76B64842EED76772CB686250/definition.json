@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/69/d7/dd/69d7dda81d6e673be7bb240c3d97a065.png",
   "md5": "C8FCD98E76B64842EED76772CB686250",
   "tags": [
-    ""
+    "",
+    "dark",
+    "anime",
+    "samurai",
+    "warrior",
+    "concept",
+    "drawings",
+    "kratos",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\uB354\uCF70\uC774-\uACE0\uB818\uD329\uD1A0\uB9AC",
+    "\uAC04\uB514",
+    "\uC784",
+    "void",
+    "elf",
+    "c",
+    "oxana",
+    "reshetina",
+    "world",
+    "warcraft",
+    "characters"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -161,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -82,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -38,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,43 @@
   "source": "https://s13.pikabu.ru/post_img/big/2020/03/17/12/1584475486187694233.jpg",
   "md5": "A0061781FD57428EBDACA442BA961A04",
   "tags": [
-    ""
+    "",
+    "evil",
+    "sea",
+    "god",
+    "robin",
+    "ruan",
+    "hidden",
+    "king",
+    "jingpeng",
+    "xu",
+    "queen",
+    "gamma",
+    "mu",
+    "lios"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -636,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -522,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -896,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

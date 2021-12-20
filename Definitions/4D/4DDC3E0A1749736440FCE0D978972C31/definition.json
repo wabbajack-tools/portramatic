@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/bf/6d/03/bf6d03d71fcb64ce5355d6423be2a0b9.png",
   "md5": "4DDC3E0A1749736440FCE0D978972C31",
   "tags": [
-    ""
+    "",
+    "wow",
+    "fox",
+    "mount",
+    "vulpera",
+    "race",
+    "world",
+    "warcraft",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "sdorica",
+    "fanart",
+    "lisasp",
+    "ehdo",
+    "chen",
+    "july",
+    "design",
+    "exercise",
+    "ma",
+    "hui",
+    "impa",
+    "clouds",
+    "kumanz"
   ],
   "small": {
     "scale": 1,
     "offset_x": -354,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -271,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -48,
     "offset_y": 62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

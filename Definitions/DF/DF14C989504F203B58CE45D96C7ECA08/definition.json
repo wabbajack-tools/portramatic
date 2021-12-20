@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/9d/23/7a/9d237a52e0ea4a8945592ca836cd85e1.png",
   "md5": "DF14C989504F203B58CE45D96C7ECA08",
   "tags": [
-    ""
+    "",
+    "batman",
+    "actionfigures",
+    "bane",
+    "dark",
+    "knight",
+    "returns",
+    "mortal",
+    "kombat",
+    "characters",
+    "\u7EC3\u4E60",
+    "xiaochen",
+    "li",
+    "https://www.artstation.com/artwork/0xeyxk",
+    "artwork",
+    "character",
+    "captain",
+    "nemo",
+    "vlad",
+    "ovoy",
+    "lightbox",
+    "expo",
+    "box",
+    "mystery",
+    "design",
+    "entry",
+    "krzysztof",
+    "luzny"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -511,
     "offset_y": -313,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -157,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -76,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

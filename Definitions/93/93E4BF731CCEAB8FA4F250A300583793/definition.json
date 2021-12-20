@@ -6,27 +6,51 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "red",
+    "fairy",
+    "dragon",
+    "guardians",
+    "galaxy",
+    "league",
+    "legends",
+    "legend",
+    "cryptids",
+    "kiyocat",
+    "illust",
+    "ximezci",
+    "warlord",
+    "ricardo",
+    "ow",
+    "dark",
+    "parting",
+    "\u5361\u7279",
+    "carter",
+    "adair",
+    "https://www"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -309,
     "offset_y": -291,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -114,
     "offset_y": -164,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5696666666666663,
     "offset_x": -44,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,27 +10,49 @@
     "edition",
     "polar",
     "legends",
-    "women"
+    "women",
+    "beautiful",
+    "monster",
+    "drawings",
+    "girl",
+    "clip",
+    "anime",
+    "league",
+    "angel",
+    "black",
+    "dragon",
+    "tyrant",
+    "type",
+    "anderson",
+    "chang",
+    "eir",
+    "stegalkin",
+    "guild",
+    "wars",
+    "fan"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -326,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -226,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -253,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

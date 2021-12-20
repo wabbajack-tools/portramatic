@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/originals/28/01/b2/2801b28964499d714c82a9dd3c97f2f6.jpg",
   "md5": "551D79354B8828586B6466B0655501C4",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "man",
+    "face",
+    "lord",
+    "rings",
+    "two",
+    "towers",
+    "age",
+    "war",
+    "vikings",
+    "game",
+    "thrones",
+    "singing",
+    "rain"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -15,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -11,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -56,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

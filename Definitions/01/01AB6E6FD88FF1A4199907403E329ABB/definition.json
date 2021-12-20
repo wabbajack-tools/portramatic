@@ -6,27 +6,54 @@
     "female",
     "mage",
     "dancer",
-    "princess"
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini",
+    "under_wear",
+    "bra",
+    "ghostblade",
+    "fanart",
+    "yuwei",
+    "li",
+    "legend",
+    "ace",
+    "flame",
+    "maiden_hill",
+    "xiaoguang",
+    "sun",
+    "https://www.artstation.com",
+    "bahamut",
+    "sam",
+    "santala",
+    "creature",
+    "concept",
+    "dragon"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -389,
     "offset_y": -320,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6314166666666661,
     "offset_x": -166,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.811916666666666,
     "offset_x": -210,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

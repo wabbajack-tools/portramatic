@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/6c/6d/7f/6c6d7fe8b33d539bf127ba8af72b3ea5.jpg",
   "md5": "6D967736B21EF7344D388986A7E261EC",
   "tags": [
-    ""
+    "",
+    "mythical",
+    "warrior",
+    "dark",
+    "elf",
+    "armor",
+    "cool",
+    "concept",
+    "dawn",
+    "war",
+    "zone",
+    "ender\u0027s",
+    "warhammer",
+    "40k",
+    "heavy",
+    "knight",
+    "egyptian",
+    "pharaoh",
+    "yunhao",
+    "zheng",
+    "\u58EB\u5175\u4E0E\u6D77\u76D7",
+    "lixin",
+    "yin",
+    "archer",
+    "bayard",
+    "wu"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -104,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -123,
     "offset_y": -142,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -32,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

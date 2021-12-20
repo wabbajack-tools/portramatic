@@ -5,27 +5,42 @@
     "human",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "witcher",
+    "card",
+    "gwent",
+    "ciri",
+    "geralt",
+    "kratos",
+    "hansel",
+    "gretel",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -422.7999999999997,
     "offset_y": -196.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -273.19999999999976,
     "offset_y": -113.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -108.32407407407482,
     "offset_y": -29.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

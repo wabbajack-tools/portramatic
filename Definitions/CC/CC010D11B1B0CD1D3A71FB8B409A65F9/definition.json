@@ -5,27 +5,53 @@
     "elf",
     "female",
     "rogue",
-    "archer"
+    "archer",
+    "traxex",
+    "dota",
+    "new",
+    "heroes",
+    "windrunner",
+    "yennefer",
+    "vengerberg",
+    "witcher",
+    "games",
+    "nicky",
+    "geerlings",
+    "tali\u0027zorah",
+    "kristina",
+    "chernyavskaya",
+    "city",
+    "park",
+    "witch",
+    "josh",
+    "black",
+    "characters",
+    "2d",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -345,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -137,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -9,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

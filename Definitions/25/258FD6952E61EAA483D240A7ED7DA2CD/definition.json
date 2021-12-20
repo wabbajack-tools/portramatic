@@ -5,27 +5,56 @@
     "outsider",
     "male",
     "mage",
-    "warrior"
+    "warrior",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "marvel",
+    "comics",
+    "avengers",
+    "devil",
+    "lucia",
+    "livia",
+    "prima",
+    "girl",
+    "digital",
+    "artist",
+    "\uD0DC\uC12D",
+    "\uC2E0",
+    "legends",
+    "artwork",
+    "jack",
+    "o",
+    "lantern",
+    "loc",
+    "christoph",
+    "peters",
+    "horror"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -594.7999999999997,
     "offset_y": -480.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -359.1999999999998,
     "offset_y": -292.6000000000004,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -80.32407407407482,
     "offset_y": -51.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,48 @@
     "battle",
     "queen",
     "katarina",
-    "fanart"
+    "fanart",
+    "league",
+    "legends",
+    "dawn",
+    "sundown",
+    "pink",
+    "https://www.artstation.com/artwork/ralz6m",
+    "character",
+    "count",
+    "kassadin",
+    "sangsoo",
+    "jeong",
+    "star",
+    "guardian",
+    "xayah",
+    "t",
+    "e",
+    "i",
+    "\u6E1F"
   ],
   "small": {
     "scale": 0.31999999999999956,
     "offset_x": -243,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -255,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9800000000000001,
     "offset_x": -728,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

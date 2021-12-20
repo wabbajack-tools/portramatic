@@ -2,32 +2,42 @@
   "source": "https://www.worldanvil.com/media/cache/apollo_preview/uploads/images/10debb6e5496596933614866077b496e.jpg",
   "md5": "14A1EDB7497609FF7BC90BEAD5D9DC34",
   "tags": [
-    "baldur's",
+    "baldur\u0027s",
     "gate",
     "half",
     "orc",
     "female",
-    "portraits"
+    "portraits",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "male",
+    "face",
+    "painting"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -34,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -53,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3099999999999943,
     "offset_x": -78,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

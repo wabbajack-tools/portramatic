@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/20/06/d6/2006d60cef826d575beb6f8c31630163.jpg",
   "md5": "8CF47A86A86E7405D86EA3B5CF56DC57",
   "tags": [
-    ""
+    "",
+    "woman",
+    "warrior",
+    "with",
+    "sword",
+    "female",
+    "character",
+    "concept",
+    "orc",
+    "dark",
+    "elf",
+    "3d",
+    "monsters",
+    "castlevania",
+    "lords",
+    "shadow",
+    "knight",
+    "death",
+    "illust",
+    "u",
+    "danja",
+    "genicool",
+    "https://www.artstation.com/artwork/illust-e20b8552-3eeb",
+    "\u5A75\u7389/chanyu",
+    "liz",
+    "berserker",
+    "oddhouse",
+    "studio"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -604.7999999999988,
     "offset_y": -353.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -352.7999999999999,
     "offset_y": -278.4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -92.90740740740807,
     "offset_y": -140.96296296296293,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

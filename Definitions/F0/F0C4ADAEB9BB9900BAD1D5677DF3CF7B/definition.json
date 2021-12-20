@@ -9,27 +9,52 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "female",
+    "assassin",
+    "anime",
+    "girl",
+    "erak",
+    "note",
+    "blue",
+    "sword",
+    "characters",
+    "knight",
+    "edited",
+    "liz",
+    "son",
+    "https://www.artstation.com/artwork/0xd0pk",
+    "tenkatoitsu",
+    "cronicle",
+    "el",
+    "jay",
+    "lee",
+    "character",
+    "cartoon",
+    "artwork"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -253,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999932,
     "offset_x": -56,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999991,
     "offset_x": -144,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

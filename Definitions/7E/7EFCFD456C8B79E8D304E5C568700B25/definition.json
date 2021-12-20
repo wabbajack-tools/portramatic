@@ -2,25 +2,53 @@
   "source": "https://i.pinimg.com/1200x/b7/d6/ae/b7d6ae52bfbf56c3c17ccb0116ff068a.jpg",
   "md5": "7EFCFD456C8B79E8D304E5C568700B25",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "tabaxi",
+    "character",
+    "druid",
+    "cards",
+    "for",
+    "hearthstone",
+    "konstantin",
+    "porubov",
+    "artwork",
+    "huntmaster",
+    "helenax",
+    "dave",
+    "greco",
+    "2021",
+    "night",
+    "elf",
+    "hunter",
+    "dark",
+    "forest",
+    "warrior",
+    "bart",
+    "tchorzewski"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -212,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -105,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -76,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

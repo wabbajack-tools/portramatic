@@ -6,27 +6,56 @@
     "female",
     "archer",
     "warrior",
-    "hunter"
+    "hunter",
+    "la",
+    "brea",
+    "grant",
+    "cute",
+    "benson",
+    "warriors",
+    "legend",
+    "cryptids",
+    "card",
+    "game",
+    "c",
+    "versions",
+    "wu",
+    "shuang",
+    "https://www.artstation",
+    "wild",
+    "demon",
+    "princesses",
+    "david",
+    "gaillet",
+    "https://www.artstation.com/artwork/znwjq",
+    "livia",
+    "prima",
+    "illustration",
+    "painting",
+    "kai"
   ],
   "small": {
     "scale": 0.30999999999999944,
     "offset_x": -304,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999923,
     "offset_x": -77,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.309583333333333,
     "offset_x": -68,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

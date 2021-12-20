@@ -11,27 +11,54 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "design",
+    "plate",
+    "actionfigures",
+    "samurai",
+    "sets",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "dress_shoes",
+    "dark",
+    "elf",
+    "bumjin",
+    "kim",
+    "https://www",
+    "roderick",
+    "weise",
+    "superhero",
+    "sangmin",
+    "park",
+    "human"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -238.79999999999973,
     "offset_y": -107.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -158.19999999999976,
     "offset_y": -78.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -18.324074074074815,
     "offset_y": -67.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

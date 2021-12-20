@@ -6,27 +6,54 @@
     "male",
     "rogue",
     "samurai",
-    "warrior"
+    "warrior",
+    "one",
+    "piece",
+    "luffy",
+    "zoro",
+    "new",
+    "world",
+    "girls",
+    "roronoa",
+    "inhyuk",
+    "lee",
+    "mad",
+    "scientist",
+    "champion",
+    "dmitry",
+    "bezrodniy",
+    "character",
+    "portraits",
+    "artwork",
+    "characters",
+    "vampire",
+    "hunter",
+    "matt",
+    "demino",
+    "dark"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -285,
     "offset_y": -395,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -74,
     "offset_y": -133,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -126,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

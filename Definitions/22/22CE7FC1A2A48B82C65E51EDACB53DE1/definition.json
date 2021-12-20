@@ -16,27 +16,40 @@
     "moto",
     "hachiya",
     "anime",
-    "image"
+    "image",
+    "\u90AA\u6559\u4E0E\u8C03\u67E5\u5458",
+    "zexi",
+    "guo",
+    "character",
+    "design",
+    "concept",
+    "characters",
+    "\u5149\u5251",
+    "jeremy",
+    "chen"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -455.0000000000002,
     "offset_y": -126.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -340.99999999999994,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -158.66666666666674,
     "offset_y": 24.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

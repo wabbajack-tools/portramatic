@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/8a/65/64/8a656453074908da9e56847841fc5a31.jpg",
   "md5": "49BE4028D8BBCD4A5341E34306161020",
   "tags": [
-    ""
+    "",
+    "amazonian",
+    "female",
+    "warriors",
+    "celtic",
+    "women",
+    "realistic",
+    "amazon",
+    "ultimate",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "0010",
+    "oh",
+    "jinwook",
+    "dark",
+    "hunter",
+    "hwan",
+    "\u7165",
+    "kingmaker",
+    "dwarf",
+    "archer",
+    "akim"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -284,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -48,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.549999999999998,
     "offset_x": -164,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

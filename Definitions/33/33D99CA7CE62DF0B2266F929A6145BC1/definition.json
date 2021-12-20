@@ -2,27 +2,53 @@
   "source": "https://64.media.tumblr.com/327d9e175b3520754d3f79aebbd428df/d7bcb6e20e616d39-8c/s1280x1920/7609e4f72596180e4aa4467e92a50fa99ea420d1.jpg",
   "md5": "33D99CA7CE62DF0B2266F929A6145BC1",
   "tags": [
-    ""
+    "",
+    "pin",
+    "up",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "lingerie",
+    "sorceress",
+    "marco.l",
+    "areana.",
+    "demon",
+    "temptation.",
+    "igor",
+    "grechanyi",
+    "resident",
+    "evil",
+    "ada",
+    "\u0026",
+    "claire",
+    "izhar",
+    "draws"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -207,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -120,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999994,
     "offset_x": -18,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

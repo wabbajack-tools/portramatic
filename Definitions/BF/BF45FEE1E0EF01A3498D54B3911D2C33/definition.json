@@ -2,27 +2,48 @@
   "source": "https://phonoteka.org/uploads/posts/2021-07/1625693568_6-phonoteka-org-p-kitsune-fentezi-art-krasivo-6.jpg",
   "md5": "BF45FEE1E0EF01A3498D54B3911D2C33",
   "tags": [
-    ""
+    "",
+    "anime",
+    "vampire",
+    "girl",
+    "white",
+    "hair",
+    "ninja",
+    "with",
+    "sword",
+    "hlaupa",
+    "thomas",
+    "chamberlain",
+    "keen",
+    "traitor",
+    "who",
+    "become",
+    "hero.",
+    "igorus",
+    "durczakus"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1113.5999999999965,
     "offset_y": -226.39999999999986,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1003.9999999999993,
     "offset_y": -188.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -730.4444444444443,
     "offset_y": -49.657407407407504,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

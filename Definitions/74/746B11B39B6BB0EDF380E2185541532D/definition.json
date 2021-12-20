@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/474x/c0/b4/14/c0b414e4b641f7d2c1731aad15f8f313.jpg",
   "md5": "746B11B39B6BB0EDF380E2185541532D",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "bard",
+    "female",
+    "red"
   ],
   "small": {
     "scale": 1,
     "offset_x": -68,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -31,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 116,
     "offset_y": 184,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

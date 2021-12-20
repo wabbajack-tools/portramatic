@@ -4,27 +4,34 @@
   "tags": [
     "outsider",
     "male",
-    "warrior"
+    "warrior",
+    "reaper",
+    "black",
+    "dragon",
+    "armor"
   ],
   "small": {
     "scale": 1.2700000000000005,
     "offset_x": -1674,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -780,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -738,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

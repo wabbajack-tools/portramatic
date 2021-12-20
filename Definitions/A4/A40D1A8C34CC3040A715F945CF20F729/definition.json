@@ -8,27 +8,48 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "oil",
+    "paintings",
+    "vincent",
+    "van",
+    "gogh",
+    "ogre",
+    "returning",
+    "from",
+    "fishing",
+    "loch",
+    "nico",
+    "kopf",
+    "zerrikanians",
+    "denis",
+    "kornev",
+    "digital",
+    "witcher",
+    "artwork"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -323,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -309,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -402,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,47 @@
     "human",
     "female",
     "dancer",
-    "princess"
+    "princess",
+    "indian",
+    "dance",
+    "bharatanatyam",
+    "belly",
+    "phantom",
+    "opera",
+    "kuchipudi",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\u5916\u5305",
+    "insist",
+    "__",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -538,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.43999999999999934,
     "offset_x": -229,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5493333333333331,
     "offset_x": -180,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

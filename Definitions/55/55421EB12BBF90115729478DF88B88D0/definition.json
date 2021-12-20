@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/52/75/41/52754173ddb61be43ffc8258e1d09fff.jpg",
   "md5": "55421EB12BBF90115729478DF88B88D0",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "knight",
+    "armor",
+    "conan",
+    "barbarian",
+    "body",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "wizard",
+    "jk",
+    "woo",
+    "rpg",
+    "character",
+    "set",
+    "12",
+    "ernesto",
+    "irawan",
+    "characters",
+    "character_design_valkyrie",
+    "lulu",
+    "zhang",
+    "https://www.artstation.com/artwork/ob9dl"
   ],
   "small": {
     "scale": 1.4000000000000004,
     "offset_x": -298,
     "offset_y": -155,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -193,
     "offset_y": -148,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7699999999999982,
     "offset_x": -142,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

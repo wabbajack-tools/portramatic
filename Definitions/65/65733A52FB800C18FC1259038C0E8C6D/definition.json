@@ -2,27 +2,50 @@
   "source": "https://64.media.tumblr.com/ff3aef85869b9ea581c65970a91e121c/tumblr_oywif54NMa1vjjcaco1_1280.jpg",
   "md5": "65733A52FB800C18FC1259038C0E8C6D",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "40k",
+    "lion",
+    "space",
+    "battle",
+    "celestial",
+    "lions",
+    "elder",
+    "scrolls",
+    "online",
+    "blackhand",
+    "svenja",
+    "r",
+    "wow",
+    "ancient\u0027s",
+    "missile",
+    "troop",
+    "todd",
+    "ulrich",
+    "https://www.artstation.com/artwork/35ney"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -357.7142857142851,
     "offset_y": -86.28571428571428,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -124.57142857142861,
     "offset_y": -1.142857142857224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -20.57142857142867,
     "offset_y": -2.2857142857142208,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

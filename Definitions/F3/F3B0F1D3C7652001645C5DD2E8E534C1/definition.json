@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/736x/ba/c3/09/bac30984ca3da32391d0c5fb5683310e.jpg",
   "md5": "F3B0F1D3C7652001645C5DD2E8E534C1",
   "tags": [
-    ""
+    "",
+    "norse",
+    "viking",
+    "warrior",
+    "berserker",
+    "female",
+    "warriors",
+    "concept",
+    "lord",
+    "rings",
+    "shadow",
+    "mordor",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "dump",
+    "astri",
+    "lohne",
+    "warcraft",
+    "character",
+    "design",
+    "executioner",
+    "bogdan",
+    "tomchuk",
+    "characters",
+    "survivors",
+    "richard",
+    "sashigane",
+    "https://www.artstation.com/artwork/dx5y2a",
+    "throne"
   ],
   "small": {
     "scale": 1,
     "offset_x": -324,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -209,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -24,
     "offset_y": 50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

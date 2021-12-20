@@ -12,27 +12,43 @@
     "paladin",
     "lubomir",
     "hij",
-    "https://www"
+    "https://www",
+    "female",
+    "assassin",
+    "moscow",
+    "metro",
+    "brushset",
+    "sephiroth",
+    "rwby",
+    "3.0",
+    "bach",
+    "do",
+    "grimm",
+    "anime",
+    "kiss"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -314.4000000000009,
     "offset_y": -161.6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -62.40000000000009,
     "offset_y": -38.399999999999864,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -68.87962962963024,
     "offset_y": -19.222222222222058,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

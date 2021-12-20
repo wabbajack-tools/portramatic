@@ -4,27 +4,50 @@
   "tags": [
     "Regal",
     "Sorceror",
-    "robe"
+    "robe",
+    "noble",
+    "elf",
+    "male",
+    "dynasty",
+    "warriors",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "gnome",
+    "wizard",
+    "marcin",
+    "kulesza",
+    "https://www.artstation.com/artwork/kyk5d",
+    "dark",
+    "mage",
+    "shi",
+    "qiu"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -274,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -185,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -30,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

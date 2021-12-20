@@ -5,27 +5,44 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    ".",
+    "eyoop",
+    "00",
+    "kamenrider",
+    "kuuga",
+    "ultimate",
+    "form",
+    "ma",
+    "sh",
+    "extreme",
+    "knight",
+    "round",
+    "jeremy",
+    "chong"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -500,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999996,
     "offset_x": -330,
     "offset_y": -149,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7996666666666666,
     "offset_x": -268,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

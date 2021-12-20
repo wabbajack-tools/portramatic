@@ -1,28 +1,46 @@
 {
-  "source": "https://pbs.twimg.com/media/EeWGP8sU8AE4AxH?format=png&name=medium",
+  "source": "https://pbs.twimg.com/media/EeWGP8sU8AE4AxH?format=png\u0026name=medium",
   "md5": "3003EE024DB8863702598CB0890BB184",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "pirate",
+    "warrior",
+    "jang",
+    "jongyeol",
+    "https://www",
+    "flayed",
+    "knight",
+    "max",
+    "filip",
+    "petersson",
+    "4/9/19",
+    "danila",
+    "kalinin"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -287,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -163,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -2,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

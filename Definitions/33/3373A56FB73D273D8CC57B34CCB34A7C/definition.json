@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/0a/0b/53/0a0b533f0031ddf0bc535ba8becb356a.jpg",
   "md5": "3373A56FB73D273D8CC57B34CCB34A7C",
   "tags": [
-    ""
+    "",
+    "trickster",
+    "characters",
+    "anime",
+    "thief",
+    "boy",
+    "dark",
+    "elf",
+    "league",
+    "legends",
+    "catharina",
+    "witch",
+    "guilherme",
+    "batista",
+    "kora",
+    "orin",
+    "yonathan",
+    "stefano",
+    "apex",
+    "nemesis",
+    "frag",
+    "ment",
+    "crypto"
   ],
   "small": {
     "scale": 0.2999999999999994,
     "offset_x": -151,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -303,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -316,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

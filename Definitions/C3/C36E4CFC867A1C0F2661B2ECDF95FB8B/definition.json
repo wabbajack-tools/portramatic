@@ -5,27 +5,50 @@
     "human",
     "druid",
     "dark",
-    ""
+    "",
+    "sterlet",
+    "fish",
+    "jennifer",
+    "rene",
+    "acipenser",
+    "orc",
+    "warrior",
+    "elf",
+    "dogun",
+    "commision",
+    "gordon",
+    "chen",
+    "undead",
+    "karlos",
+    "warlock",
+    "god",
+    "war",
+    "visual",
+    "development",
+    "valkyrie"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -239,
     "offset_y": -206,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -86,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -2,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

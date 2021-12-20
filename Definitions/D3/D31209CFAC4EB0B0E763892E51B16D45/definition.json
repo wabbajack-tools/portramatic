@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/06/56/2d/06562d8801cb3aadf5c483bab9bc637c.jpg",
   "md5": "D31209CFAC4EB0B0E763892E51B16D45",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "slayer",
+    "female",
+    "party",
+    "deaths",
+    "figure",
+    "anime",
+    "girl",
+    "characters",
+    "rock",
+    "king",
+    "fighters",
+    "robbie",
+    "reilly",
+    "dragon",
+    "sorceress",
+    "zyra",
+    "annie",
+    "luu",
+    "raphtalia",
+    "shield",
+    "hero",
+    "timelapse",
+    "ernestas",
+    "tu\u010Dkus",
+    "sinihan"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -280,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -149,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": 0,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

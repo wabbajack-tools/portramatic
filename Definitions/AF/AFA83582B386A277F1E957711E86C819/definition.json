@@ -5,27 +5,50 @@
     "sun",
     "khamunaki",
     "red",
-    "sonja"
+    "sonja",
+    "male",
+    "demon",
+    "hunter",
+    "character",
+    "concept",
+    "warcraft",
+    "ghost",
+    "shell",
+    "old",
+    "work",
+    "fmm",
+    "cat",
+    "reindeer",
+    "queen",
+    "lowpoly",
+    "jorge",
+    "castillo",
+    "astaroth",
+    "emanuele",
+    "desiati"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -97,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -45,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -2,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

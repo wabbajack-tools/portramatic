@@ -2,27 +2,48 @@
   "source": "https://static.displate.com/857x1200/displate/2019-04-16/87532407944edd640ec611c48d8ab026_c860790602734720a036e402af584d87.jpg",
   "md5": "4964576706F33E775279460B6106B5FA",
   "tags": [
-    ""
+    "",
+    "fate",
+    "stay",
+    "night",
+    "anime",
+    "girl",
+    "characters",
+    "afk",
+    "arena",
+    "gwyneth",
+    "aki",
+    "\u70E8\u706B",
+    "science",
+    "fiction",
+    "character",
+    "4",
+    "0",
+    "010",
+    "mm"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -145,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -135,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -36,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

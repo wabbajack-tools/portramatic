@@ -11,27 +11,52 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "knight",
+    "armor",
+    "warrior",
+    "dragon",
+    "heavy",
+    "samurai",
+    "armors",
+    "knights",
+    "plate",
+    "brush",
+    "dog",
+    "https://www.artstation.com/artwork/6gzrn",
+    "blue",
+    "sueng",
+    "hoon",
+    "woo",
+    "5.13",
+    "my",
+    "work",
+    "yuan",
+    "xin",
+    "medieval"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -267.7999999999997,
     "offset_y": -87.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -188.19999999999976,
     "offset_y": -56.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -10.324074074074815,
     "offset_y": -59.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

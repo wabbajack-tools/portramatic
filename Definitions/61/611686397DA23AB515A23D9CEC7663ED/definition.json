@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/08/57/9a/08579af0ed03e38948d5776495fadc51.jpg",
   "md5": "611686397DA23AB515A23D9CEC7663ED",
   "tags": [
-    ""
+    "",
+    "odin",
+    "sleipnir",
+    "horse",
+    "8-legged",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "hobbit",
+    "red",
+    "dragon",
+    "chan",
+    "classical",
+    "molten",
+    "breath",
+    "buishiroad",
+    "dominion",
+    "samwise",
+    "didier"
   ],
   "small": {
     "scale": 1,
     "offset_x": -301,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -194,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 80,
     "offset_y": 166,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

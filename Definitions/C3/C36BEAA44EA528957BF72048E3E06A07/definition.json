@@ -22,27 +22,43 @@
     "shai",
     "daniel",
     "military",
-    "girl"
+    "girl",
+    "female",
+    "pirate",
+    "louisa",
+    "assassin",
+    "concept",
+    "manwook",
+    "kim",
+    "nnoioi",
+    "conan",
+    "barbarian",
+    "eslam",
+    "aboshady",
+    "with"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -233,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -127,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.129999999999998,
     "offset_x": -365,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

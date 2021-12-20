@@ -28,27 +28,37 @@
     "warrior",
     "woman",
     "female",
-    "yeonju"
+    "yeonju",
+    "aion",
+    "6.0_refly",
+    "juyoung",
+    "ha",
+    "untitle",
+    "women",
+    "yoonhwa,choi"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -455,
     "offset_y": -257,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -418,
     "offset_y": -278,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -414,
     "offset_y": -328,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

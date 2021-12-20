@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/aa/2d/cc/aa2dcc2fe211798e2f3dd735d55f9e53.jpg",
   "md5": "514612EB081387F889487257F81517FD",
   "tags": [
-    ""
+    "",
+    "female",
+    "orc",
+    "wow",
+    "classic",
+    "warrrior",
+    "warcraft",
+    "male",
+    "heart",
+    "swarm",
+    "dungeons",
+    "dragons",
+    "plague",
+    "marine",
+    "wh40k",
+    "fanart",
+    "anton",
+    "antonesky",
+    "https://www.artstation.com",
+    "illustrator",
+    "concept",
+    "artist",
+    "j.",
+    "p.",
+    "targete",
+    "magazine",
+    "kin",
+    "gaelnath",
+    "samuel",
+    "bourguignon"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -109,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -23,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -20,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

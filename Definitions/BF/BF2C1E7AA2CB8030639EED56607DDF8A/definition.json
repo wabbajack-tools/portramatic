@@ -5,27 +5,34 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "charisma",
+    "check",
+    "sandra",
+    "duchiewicz"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -1369,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2,
     "offset_x": -1418,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9093333333333334,
     "offset_x": -706,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

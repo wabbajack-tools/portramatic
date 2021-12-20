@@ -8,27 +8,40 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "shaman",
+    "magic",
+    "dragon",
+    "deathrite",
+    "arthas",
+    "vs",
+    "illidan",
+    "tu\u1EA5n",
+    "anh",
+    "th\u00E1i"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -343,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -259,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -458,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

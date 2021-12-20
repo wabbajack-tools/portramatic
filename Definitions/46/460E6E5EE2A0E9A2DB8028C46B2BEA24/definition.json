@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/ec/2c/64/ec2c64fc56fb8f81d4f4a739abaaeb08.jpg",
   "md5": "460E6E5EE2A0E9A2DB8028C46B2BEA24",
   "tags": [
-    "fighter"
+    "fighter",
+    "dwarf",
+    "cleric",
+    "miniature",
+    "dd",
+    "knight",
+    "armor",
+    "plate",
+    "samurai",
+    "armors",
+    "heavy",
+    "dynasty",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses",
+    "warhammer",
+    "online\uFF082009\uFF09",
+    "ji",
+    "zhang",
+    "khazgrin",
+    "fardelver-warriors",
+    "light",
+    "manthos",
+    "chs",
+    "chosen",
+    "vlad",
+    "costin"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -160,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -10,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -50,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

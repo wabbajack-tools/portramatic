@@ -1,30 +1,58 @@
 {
-  "source": "https://static.wikia.nocookie.net/tekken/images/9/93/T7FR_Heihachi.jpeg/revision/latest/scale-to-width-down/1000?cb=20211117030653&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/tekken/images/9/93/T7FR_Heihachi.jpeg/revision/latest/scale-to-width-down/1000?cb=20211117030653\u0026path-prefix=en",
   "md5": "9E4709521D79CD657E0C64B9DD373EDF",
   "tags": [
     "dark",
     "dwarf",
-    "wizard"
+    "wizard",
+    "tekken",
+    "7",
+    "roster",
+    "pc",
+    "miguel",
+    "dynasty",
+    "warriors",
+    "actionfigures",
+    "mortal",
+    "kombat",
+    "characters",
+    "scorpion",
+    "practice",
+    "shuhang",
+    "ye",
+    "https://www",
+    "greengirl",
+    "warrior",
+    "s\u00F8ren",
+    "falske",
+    "character",
+    "zabrak",
+    "smuggler",
+    "aurelien",
+    "baarsch"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -561.3333333333334,
     "offset_y": -92.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -184.00000000000006,
     "offset_y": -16.666666666666657,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -114.66666666666652,
     "offset_y": -20.666666666666742,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

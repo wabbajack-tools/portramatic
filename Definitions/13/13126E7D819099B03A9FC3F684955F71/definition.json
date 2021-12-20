@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/6c/08/71/6c08712594b71209a185fea42989f11b.jpg",
   "md5": "13126E7D819099B03A9FC3F684955F71",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "cavalry",
+    "dwarven",
+    "polar",
+    "bear",
+    "warrior",
+    "space",
+    "wolves",
+    "werewolves",
+    "quezi",
+    "deng",
+    "fighting",
+    "monk",
+    "yi",
+    "chenglong",
+    "demo",
+    "project",
+    "2016",
+    "sungrae",
+    "kim"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -367,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -288,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -374,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

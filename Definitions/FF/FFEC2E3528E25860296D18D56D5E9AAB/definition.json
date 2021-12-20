@@ -12,29 +12,59 @@
     "v",
     "wei",
     "https://www.artstation.com/artwork/bjoxr",
-    "val'kyr",
+    "val\u0027kyr",
     "cazareal",
-    "dövme"
+    "d\uFFFDvme",
+    "mtg",
+    "altered",
+    "cards",
+    "full",
+    "alternate",
+    "radha",
+    "forest",
+    "spirit",
+    "jana",
+    "schirmer",
+    "pictures",
+    "artwork",
+    "witch",
+    "doctor",
+    "aleksei",
+    "vinogradov",
+    "character",
+    "portraits",
+    "total",
+    "war",
+    "three",
+    "kingdoms_",
+    "zheng",
+    "jiang",
+    "agus",
+    "sw",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -214,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -146,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -148,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

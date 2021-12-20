@@ -3,27 +3,59 @@
   "md5": "A54CA49807EB9A99CB6ECA275411ADCE",
   "tags": [
     "brawler",
-    "male"
+    "male",
+    "human",
+    "wizard",
+    "characters",
+    "character",
+    "zombie",
+    "apocalypse",
+    "leather",
+    "armor",
+    "plate",
+    "zombies",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "makorr",
+    "rogue",
+    "ninja",
+    "john",
+    "dimayuga",
+    "https://www.artstation.com/artwork/8lwwxq",
+    "sabrina",
+    "a.",
+    "salazar",
+    "wildwest",
+    "challenge",
+    "vlad",
+    "gheneli",
+    "design"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -152,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -79,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -12,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

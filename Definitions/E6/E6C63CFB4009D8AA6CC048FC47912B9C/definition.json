@@ -5,27 +5,42 @@
     "human",
     "female",
     "mage",
-    "queen"
+    "queen",
+    "worlds",
+    "apart",
+    "jessica",
+    "pelletier",
+    "total",
+    "war",
+    "warhammer",
+    "dark",
+    "elves",
+    "movie",
+    "ren\u00E9e",
+    "chio"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -328,
     "offset_y": -511,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2514166666666666,
     "offset_x": -181,
     "offset_y": -353,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0519166666666662,
     "offset_x": -68,
     "offset_y": -146,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

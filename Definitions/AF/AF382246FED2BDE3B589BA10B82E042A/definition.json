@@ -4,27 +4,49 @@
   "tags": [
     "barbarian",
     "brawler",
-    "monk"
+    "monk",
+    "shaolin",
+    "warrior",
+    "hulk",
+    "league",
+    "legends",
+    "gnoll",
+    "project",
+    "lloyd",
+    "hoshide",
+    "keeper",
+    "thorn",
+    "rita",
+    "fei",
+    "character",
+    "work",
+    "dong",
+    "mao",
+    "with",
+    "dark"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -143,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": 0,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -6,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

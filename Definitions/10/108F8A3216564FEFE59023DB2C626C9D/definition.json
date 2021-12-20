@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/d0/dd/ae/d0ddaeb17815da9986e525a621565a4a.jpg",
   "md5": "108F8A3216564FEFE59023DB2C626C9D",
   "tags": [
-    ""
+    "",
+    "anime",
+    "characters",
+    "superhero",
+    "hero",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "alternate",
+    "future",
+    "soldier",
+    "andrew",
+    "erickson",
+    "space",
+    "opera"
   ],
   "small": {
     "scale": 1,
     "offset_x": -193.33333333333323,
     "offset_y": -25.333333333333485,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -89.33333333333377,
     "offset_y": -20.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 58.666666666666515,
     "offset_y": 74.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,53 @@
   "md5": "984B80B71CDA6300B7B7174E92168B95",
   "tags": [
     "Oread",
-    "Druid"
+    "Druid",
+    "half-orc",
+    "character",
+    "rogue",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "orc",
+    "warrior",
+    "orcs",
+    "high",
+    "priestess",
+    "wonmi",
+    "choi",
+    "https://www",
+    "renegade",
+    "boyan",
+    "petrov",
+    "bride",
+    "kameliya",
+    "minkova"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -256,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -69,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -46,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

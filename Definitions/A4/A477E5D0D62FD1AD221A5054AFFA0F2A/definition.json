@@ -4,27 +4,61 @@
   "tags": [
     "female",
     "tiefling",
-    "paladin"
+    "paladin",
+    "anime",
+    "girl",
+    "characters",
+    "guys",
+    "spider-man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "gloves",
+    "erelmur\u0027ss",
+    "aleksandra",
+    "markaryan",
+    "cirilla",
+    "stormwind",
+    "character",
+    "sheet",
+    "maria",
+    "efthymiadou",
+    "bloodborne",
+    "empress",
+    "emily",
+    "kaldwin",
+    "dishonored",
+    "fanart",
+    "daniela",
+    "guedes"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -215.60000000000002,
     "offset_y": -58.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -154.60000000000002,
     "offset_y": -27.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -201.62962962962933,
     "offset_y": 0.24074074074087548,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

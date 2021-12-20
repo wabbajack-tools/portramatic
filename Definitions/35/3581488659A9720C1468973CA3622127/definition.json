@@ -2,27 +2,53 @@
   "source": "https://64.media.tumblr.com/24650a3b0c03bd742efaa6f241932fe0/980924ab5393a79a-9c/s2048x3072/6d7044de05caac8180f629549f3a1ccf4683ccee.jpg",
   "md5": "3581488659A9720C1468973CA3622127",
   "tags": [
-    ""
+    "",
+    "elf",
+    "paladin",
+    "character",
+    "dark",
+    "elves",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "orc",
+    "warrior",
+    "for",
+    "honor",
+    "concepts",
+    "guillaume",
+    "menuel",
+    "https://www.artstation.com",
+    "guard",
+    "\u3147\u3147",
+    "joo",
+    "design",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -498,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -172,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -30,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

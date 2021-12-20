@@ -2,27 +2,61 @@
   "source": "https://s-media-cache-ak0.pinimg.com/736x/1a/4d/56/1a4d563ea4dcfcd5813c293384638e6e.jpg",
   "md5": "F79ADC563BF664999D338094BADCEA3F",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "hair",
+    "character",
+    "high",
+    "warrior",
+    "dynasty",
+    "warriors",
+    "female",
+    "pirate",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "glasses",
+    "freedom",
+    "andy",
+    "liong",
+    "hercules",
+    "peter",
+    "lumby",
+    "men",
+    "greek",
+    "chronicles",
+    "jegra",
+    "book",
+    "iv",
+    "jackson",
+    "tjota"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -183,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -68,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": 0,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

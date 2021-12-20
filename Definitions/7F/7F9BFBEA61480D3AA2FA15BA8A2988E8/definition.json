@@ -2,27 +2,60 @@
   "source": "https://cutewallpaper.org/21/necromancer-wallpaper/Necromancer-Wallpapers-Wallpaper-Cave.jpg",
   "md5": "7F9BFBEA61480D3AA2FA15BA8A2988E8",
   "tags": [
-    ""
+    "",
+    "modern",
+    "mage",
+    "concept",
+    "dark",
+    "wizard",
+    "world",
+    "warcraft",
+    "rogue",
+    "zombie",
+    "apocalypse",
+    "orcs",
+    "elf",
+    "death",
+    "knight",
+    "krang",
+    "mutant",
+    "comicon",
+    "challenge",
+    "2016",
+    "maxim",
+    "yurchenko",
+    "verminlord",
+    "pasi",
+    "juhola",
+    "2021",
+    "warhammer",
+    "kin",
+    "gaelnath",
+    "samuel",
+    "bourguignon"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -228,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.44999999999999957,
     "offset_x": -195,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -470,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

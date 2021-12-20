@@ -11,27 +11,52 @@
     "contract",
     "worrior",
     "bikini",
-    "armor"
+    "armor",
+    "succubus",
+    "list",
+    "facts",
+    "signs",
+    "vampire",
+    "masquerade",
+    "league",
+    "legends",
+    "skaven",
+    "priest",
+    "karl",
+    "thiart",
+    "https://www",
+    "undead",
+    "sage",
+    "annathenewt",
+    "*",
+    "artwork",
+    "hell",
+    "spawn",
+    "anthony",
+    "pugh"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -694,
     "offset_y": -285,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -297,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -36,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

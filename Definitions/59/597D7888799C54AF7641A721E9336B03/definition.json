@@ -2,27 +2,46 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/016/904/663/large/mam-ba-1553875422916.jpg?1553903832",
   "md5": "597D7888799C54AF7641A721E9336B03",
   "tags": [
-    ""
+    "",
+    "10",
+    "cleavage",
+    "special",
+    "t",
+    "pin",
+    "up",
+    "oriental",
+    "story_02",
+    "gahee",
+    "park",
+    "q\u7248\u4EBA\u8BBE",
+    "bobo",
+    "l",
+    "monday",
+    "yu",
+    "hansol"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -339,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -71,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -18,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

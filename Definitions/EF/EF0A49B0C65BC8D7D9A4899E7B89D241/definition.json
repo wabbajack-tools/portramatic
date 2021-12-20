@@ -2,27 +2,42 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/005/160/056/4k/natalia-romero-nunez-herborista-definitivo.jpg?1488927735",
   "md5": "EF0A49B0C65BC8D7D9A4899E7B89D241",
   "tags": [
-    ""
+    "",
+    "alchemist",
+    "natalia",
+    "romero",
+    "n\u00FA\u00F1ez",
+    "magician",
+    "magicians",
+    "ramadan",
+    "kareem",
+    "\u0631\u0645\u0636\u0627\u0646",
+    "\u0643\u0631\u064A\u0645",
+    "hani",
+    "algamal"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -232,
     "offset_y": -205.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -77,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -198,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

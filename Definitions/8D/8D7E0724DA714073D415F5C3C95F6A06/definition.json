@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/fd/8e/0a/fd8e0ad5721323efd71fbde540adf19c.jpg",
   "md5": "8D7E0724DA714073D415F5C3C95F6A06",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "knight",
+    "templar",
+    "painting",
+    "horse",
+    "game",
+    "thrones",
+    "serpent",
+    "warrior",
+    "i",
+    "asimov",
+    "monster",
+    "helliger",
+    "illustration",
+    "admira",
+    "wijaya",
+    "short",
+    "break",
+    "dante",
+    "liu",
+    "#scifi",
+    "#sci",
+    "#fi",
+    "#sniper",
+    "sci",
+    "fi",
+    "concept",
+    "futuristic"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -112,
     "offset_y": -27,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -51,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -88,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

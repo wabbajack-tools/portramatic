@@ -11,27 +11,53 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "blood",
+    "elf",
+    "fan",
+    "warrior",
+    "mage",
+    "dragon",
+    "fire",
+    "green",
+    "goku",
+    "vs",
+    "majin",
+    "boo",
+    "juan",
+    "carlos",
+    "medina",
+    "raoyenna",
+    "immortal",
+    "princess",
+    "brian",
+    "fajardo",
+    "daggers",
+    "andreas",
+    "flouris"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -400.7999999999997,
     "offset_y": -240.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -119.19999999999976,
     "offset_y": -114.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6.324074074074815,
     "offset_y": -117.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

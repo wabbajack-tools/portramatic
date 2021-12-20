@@ -9,25 +9,52 @@
     "dragon",
     "sword",
     "warrior",
-    "female"
+    "female",
+    "modern",
+    "mage",
+    "concept",
+    "armor",
+    "dark",
+    "anime",
+    "male",
+    "knight",
+    "souls",
+    "black",
+    "assassin\u0027s",
+    "\u84DD\u4EBA",
+    "jia",
+    "cai",
+    "character",
+    "training_09",
+    "alex",
+    "alekseenko",
+    "apocalypse",
+    "dwarves",
+    "barbara",
+    "go\u0142\u0119biewska"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -120.5,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -21.5,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -7,
     "offset_y": -212,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/d6/36/de/d636deca2ab3a85a947ccd97ff3db242.jpg",
   "md5": "2052ADD9D22643769E7F4E4497FC5925",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "armor",
+    "concept",
+    "angel",
+    "character",
+    "male",
+    "sniper",
+    "ghost",
+    "native",
+    "american",
+    "joan",
+    "arc",
+    "conan",
+    "barbarian",
+    "concepts",
+    "for",
+    "bayard",
+    "wu",
+    "characters",
+    "trudvang",
+    "dwarf",
+    "hunter",
+    "daniel",
+    "zrom",
+    "https://www.artstation.com/artwork/kaxe8x",
+    "fury",
+    "young",
+    "june",
+    "choi",
+    "gpzang"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -178,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -35,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

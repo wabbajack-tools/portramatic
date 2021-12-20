@@ -2,27 +2,50 @@
   "source": "https://i.imgur.com/OafbIIX.jpeg",
   "md5": "24564C5D93E34A15DBD77C01EAF46ABB",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "berserker",
+    "death",
+    "dealer",
+    "lord",
+    "rings",
+    "transformers",
+    "revenge",
+    "fallen",
+    "battle",
+    "five",
+    "armies",
+    "warhammer",
+    "40k",
+    "demon",
+    "jp",
+    "targete"
   ],
   "small": {
     "scale": 1,
     "offset_x": -358,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -295,
     "offset_y": -213,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

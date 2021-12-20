@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/564x/36/94/5e/36945e3765799d24712133d4935bc6e7.jpg",
   "md5": "34738F112E088EBD65264B3D37F2DC80",
   "tags": [
-    ""
+    "",
+    "curly",
+    "hair",
+    "brown",
+    "hairstyles"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -2,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

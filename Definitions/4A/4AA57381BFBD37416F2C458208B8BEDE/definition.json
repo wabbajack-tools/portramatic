@@ -2,27 +2,52 @@
   "source": "https://i.imgur.com/7hUR2uO.jpeg",
   "md5": "4AA57381BFBD37416F2C458208B8BEDE",
   "tags": [
-    ""
+    "",
+    "arawn",
+    "celtic",
+    "god",
+    "hades",
+    "underworld",
+    "drawings",
+    "orc",
+    "warrior",
+    "queen",
+    "sean",
+    "fitz",
+    "paragon",
+    "character",
+    "narbash",
+    "design",
+    "herman",
+    "ng",
+    "battletome",
+    "maggotkin",
+    "cover",
+    "mark",
+    "holmes"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -465,
     "offset_y": -495,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -327,
     "offset_y": -384,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -84,
     "offset_y": -200,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

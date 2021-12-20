@@ -5,27 +5,35 @@
     "human",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "geralt",
+    "fan",
+    "rivia",
+    "witcher",
+    "girl"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -188.79999999999973,
     "offset_y": -20.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -123.19999999999982,
     "offset_y": 0.39999999999957936,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -44.324074074074815,
     "offset_y": -35.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

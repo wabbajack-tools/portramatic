@@ -2,27 +2,57 @@
   "source": "https://ih1.redbubble.net/image.788616143.2748/flat,750x,075,f-pad,750x1000,f8f8f8.u8.jpg",
   "md5": "CE0452BC52F96281C351AC6228D82061",
   "tags": [
-    ""
+    "",
+    "demon",
+    "slayer",
+    "weapons",
+    "dragon",
+    "anime",
+    "armor",
+    "hunter",
+    "legend",
+    "zelda",
+    "alien",
+    "general/",
+    "hero",
+    "miguel",
+    "iglesias",
+    "image",
+    "painting",
+    "arifact",
+    "wave",
+    "01",
+    "mike",
+    "azevedo",
+    "https://www.artstation.com/artwork/58bb9w",
+    "krend",
+    "rigrena",
+    "sanja",
+    "grbic",
+    "https://www.artstation.com/artwork/oggmq"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -339,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -227,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -132,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

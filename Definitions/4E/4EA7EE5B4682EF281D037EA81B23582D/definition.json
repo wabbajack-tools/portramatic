@@ -5,27 +5,48 @@
     "outsider",
     "male",
     "warrior",
-    "rogue"
+    "rogue",
+    "last",
+    "guardian",
+    "league",
+    "legends",
+    "dmc",
+    "kyle",
+    "lee",
+    "elf",
+    "drider",
+    "alu\u00EDsio",
+    "cervelle",
+    "santos",
+    "nightfell",
+    "cover",
+    "ritual",
+    "helge",
+    "c.",
+    "balzer"
   ],
   "small": {
     "scale": 1.0500000000000003,
     "offset_x": -965,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7812499999999997,
     "offset_x": -587,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6602499999999998,
     "offset_x": -358,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

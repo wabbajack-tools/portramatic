@@ -5,27 +5,55 @@
     "warm",
     "winds",
     "luis",
-    "royo"
+    "royo",
+    "dead",
+    "moon",
+    "fallen",
+    "angel",
+    "gallery",
+    "graphic",
+    "dungeons",
+    "dragons",
+    "kratos",
+    "greek",
+    "gods",
+    "green",
+    "arrow",
+    "anna",
+    "podedworna",
+    "2020",
+    "creatures",
+    "mythical",
+    "witcher",
+    "inhyuk",
+    "lee",
+    "saitama",
+    "one",
+    "punch",
+    "man"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -403,
     "offset_y": -620,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -219,
     "offset_y": -472,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -226,
     "offset_y": -712,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

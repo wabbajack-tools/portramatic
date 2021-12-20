@@ -10,27 +10,59 @@
     "granbluefantasy",
     "mirco",
     "cabbia",
-    "sexy"
+    "sexy",
+    "marvel",
+    "tf2",
+    "spy",
+    "world",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "ahri",
+    "bo",
+    "xun",
+    "lin",
+    "get",
+    "jinxed",
+    "minnie",
+    "zhou",
+    "jinx",
+    "wonder",
+    "woman",
+    "princess",
+    "zelda",
+    "t2",
+    "yi-zhang",
+    "pan"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -238.3999999999995,
     "offset_y": -61.60000000000025,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -27.19999999999976,
     "offset_y": -7.200000000000159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -30.435185185185446,
     "offset_y": -4.80555555555577,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,53 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "blood",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "succubus",
+    "jaeyoung",
+    "jeong",
+    "women",
+    "simple",
+    "cartoon",
+    "characters",
+    "sorceress",
+    "concept",
+    "redesign",
+    "micha\u0142",
+    "sowa",
+    "razortail",
+    "ranger",
+    "platinum",
+    "yb"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -1011,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -316,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8296666666666666,
     "offset_x": -402,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

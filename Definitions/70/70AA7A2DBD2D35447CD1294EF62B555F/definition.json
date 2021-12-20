@@ -5,27 +5,49 @@
     "human",
     "male",
     "rogue",
-    "warrior"
+    "warrior",
+    "beautiful",
+    "stone",
+    "magic",
+    "chase",
+    "artist",
+    "crash",
+    "titans",
+    "clash",
+    "strategos",
+    "george",
+    "evangelista",
+    "dark",
+    "souls",
+    "biggie",
+    "conan",
+    "cimmerian",
+    "cristian",
+    "meli\u00E1n",
+    "c"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -714.7999999999997,
     "offset_y": -149.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -443.19999999999976,
     "offset_y": -108.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -66.32407407407482,
     "offset_y": -5.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

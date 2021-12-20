@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/d6/51/f6/d651f6bb40f5abfb168a899413ad0192.jpg",
   "md5": "C3717E72C8378370A29542DE6DD7E489",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "armors",
+    "mandalorian",
+    "plate",
+    "armor",
+    "leather",
+    "knight",
+    "power",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "male",
+    "hephaestus",
+    "entertainment",
+    "pikeman",
+    "dmitry",
+    "solonin",
+    "https://www",
+    "father",
+    "personal",
+    "project",
+    "dai",
+    "nguyen"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -233,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -66,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": 0,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

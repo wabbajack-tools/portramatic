@@ -2,27 +2,45 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/002/481/551/large/jungmin-jin-dospi-cgn3jhfu8aehauc.jpg?1462274055",
   "md5": "C75DF8DC7620660DE232650DF6816D60",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "vampire",
+    "masquerade",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "lingerie",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -470,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -176,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -108,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

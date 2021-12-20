@@ -15,27 +15,42 @@
     "queen",
     "flowers",
     "geumsil",
-    "lee"
+    "lee",
+    "league",
+    "legends",
+    "\u9879\u76EE\u56FE",
+    "huazha",
+    "l",
+    "forest",
+    "spirit",
+    "marta",
+    "nael",
+    "\u7981\u5730\u9B54\u738B",
+    "m",
+    "z"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -962,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -657,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -916,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,57 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "vampire",
+    "manga",
+    "samurai",
+    "assassin",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "black",
+    "ornate",
+    "jonghwan",
+    "lee",
+    "https://www.artstation.com/artwork",
+    "dragon",
+    "fang",
+    "woo",
+    "concept",
+    "royal",
+    "hyeon",
+    "gwan",
+    "nam",
+    "https://www.artstation.com/artwork/wvvly"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -619,
     "offset_y": -326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -239,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -116,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

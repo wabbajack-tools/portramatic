@@ -3,27 +3,45 @@
   "md5": "53956DFADA10C40DA786917F0EB77FB4",
   "tags": [
     "warrior",
-    "angel"
+    "angel",
+    "knight",
+    "armor",
+    "concept",
+    "light",
+    "orc",
+    "medieval",
+    "knights",
+    "death",
+    "dark",
+    "elf",
+    "wrath",
+    "righteous.",
+    "lann",
+    "elena",
+    "kononenko"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -315,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -187,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -32,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

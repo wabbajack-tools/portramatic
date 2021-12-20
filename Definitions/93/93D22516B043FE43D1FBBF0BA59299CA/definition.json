@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/0e/4f/a2/0e4fa2dd35ec536e6cf202ae670e7520.jpg",
   "md5": "93D22516B043FE43D1FBBF0BA59299CA",
   "tags": [
-    ""
+    "",
+    "cute",
+    "character",
+    "sheet",
+    "female",
+    "anime",
+    "girl",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "witch",
+    "a",
+    "broomstick",
+    "ekaterina",
+    "belousova",
+    "end",
+    "wasteland",
+    "jia",
+    "cai",
+    "\u7FBD\u7FCE2",
+    "chenbin",
+    "zheng"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -278,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -106,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.59,
     "offset_x": -76,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

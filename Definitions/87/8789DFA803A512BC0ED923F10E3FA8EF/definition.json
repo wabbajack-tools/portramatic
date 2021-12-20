@@ -4,27 +4,58 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "sfv",
+    "chun-li",
+    "battle",
+    "costume",
+    "sf5",
+    "costumes",
+    "street",
+    "fighter",
+    "alpha",
+    "cosplay",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "sexy",
+    "ahri",
+    "bo",
+    "xun",
+    "lin",
+    "bazooka",
+    "mariana",
+    "alves",
+    "sacred",
+    "sword",
+    "janna",
+    "\uB9AC\uB514",
+    "\uC9C4"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -246,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -51,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -25,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

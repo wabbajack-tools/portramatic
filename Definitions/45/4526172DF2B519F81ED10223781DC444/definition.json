@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/67/a3/f7/67a3f7a62a72a806c951aa6e87b885a1.jpg",
   "md5": "4526172DF2B519F81ED10223781DC444",
   "tags": [
-    ""
+    "",
+    "concept",
+    "dungeons",
+    "dragons",
+    "shadow",
+    "over",
+    "mystara",
+    "rpg",
+    "character",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "plate",
+    "samurai",
+    "heavy",
+    "verum",
+    "design",
+    "dongjun",
+    "lu",
+    "orc",
+    "warrior",
+    "ting",
+    "xu",
+    "https://www",
+    "broken",
+    "konstantin",
+    "porubov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -260,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -237,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -30,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,68 @@
   "source": "https://i.pinimg.com/564x/f7/83/dc/f783dca78aabcae093b2311c921b94ac.jpg",
   "md5": "752DB060F3777F635C6B4E3A67A30ECD",
   "tags": [
-    ""
+    "",
+    "black",
+    "mage",
+    "fire",
+    "robe",
+    "concept",
+    "knight",
+    "armor",
+    "armors",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "destiny",
+    "curse",
+    "osiris",
+    "sets",
+    "tyler",
+    "bartley",
+    "game",
+    "jorg",
+    "ancrath",
+    "guga",
+    "lobato",
+    "star",
+    "wars",
+    "characters",
+    "pictures",
+    "warrior",
+    "guard",
+    "john",
+    "grello",
+    "character",
+    "pinterest",
+    "design"
   ],
   "small": {
     "scale": 1,
     "offset_x": -126.66666666666657,
     "offset_y": -49.333333333333485,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -88.66666666666697,
     "offset_y": -50.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 64,
     "offset_y": 104.00000000000006,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,45 @@
   "md5": "A87DEC7C8FBECF56EE2F25C0BA46FC54",
   "tags": [
     "bayek",
-    "senu"
+    "senu",
+    "attack",
+    "titan",
+    "birdman",
+    "dawn",
+    "carlos",
+    "saving",
+    "sally",
+    "jack",
+    "spiderman",
+    "sam",
+    "delatorre",
+    "bastila",
+    "shan",
+    "mironishin",
+    "story"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -313.59999999999985,
     "offset_y": -36.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -218.4000000000001,
     "offset_y": -18.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8500000000000008,
     "offset_x": -277.12037037037067,
     "offset_y": -14.416666666666401,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

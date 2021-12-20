@@ -9,27 +9,46 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "real",
+    "anime",
+    "swords",
+    "red",
+    "sword",
+    "coolest",
+    "marvel",
+    "comics",
+    "spear",
+    "jamie",
+    "mariscal",
+    "sela",
+    "cosplay",
+    "david",
+    "nakayama",
+    "https://www.artstation.com/artwork/vdzne8"
   ],
   "small": {
     "scale": 1.7400000000000007,
     "offset_x": -393,
     "offset_y": -187,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -94,
     "offset_y": -81,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2299999999999998,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

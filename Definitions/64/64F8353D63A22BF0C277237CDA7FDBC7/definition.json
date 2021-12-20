@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/1e/e0/5a/1ee05ae0ea5721bed3dd2d184f6a75ac.jpg",
   "md5": "64F8353D63A22BF0C277237CDA7FDBC7",
   "tags": [
-    ""
+    "",
+    "female",
+    "paladin",
+    "concept",
+    "character",
+    "dynasty",
+    "warriors",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "girl",
+    "sheng",
+    "mai",
+    "design",
+    "woman",
+    "knight",
+    "jacob",
+    "cho",
+    "warrior",
+    "characters",
+    "sparta",
+    "war",
+    "empires",
+    "plarium",
+    "ukraine"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -391.19999999999993,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -168.79999999999995,
     "offset_y": -121.60000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -118.53703703703673,
     "offset_y": -163.38888888888846,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

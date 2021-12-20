@@ -2,27 +2,46 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/427ccca8-fead-4f4a-852b-c85a8893d80b/ddxy37f-8dc1ad7d-0adc-4eaf-afd1-8cc4a6978a01.jpg/v1/fill/w_1280,h_1740,q_75,strp/queen3_by_stepyra_ddxy37f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc0MCIsInBhdGgiOiJcL2ZcLzQyN2NjY2E4LWZlYWQtNGY0YS04NTJiLWM4NWE4ODkzZDgwYlwvZGR4eTM3Zi04ZGMxYWQ3ZC0wYWRjLTRlYWYtYWZkMS04Y2M0YTY5NzhhMDEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._ENOUJhU9dJF3Sxfdtz8mVhJd6gPa4m6wY6QjDFkc2M",
   "md5": "9BFB7E6769C178F4E81C580DB06F9412",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "sorceress",
+    "concept",
+    "micha\u0142",
+    "sowa",
+    "demon",
+    "thabiso",
+    "mhlaba",
+    "2020",
+    "elf",
+    "girl",
+    "hector",
+    "marquez"
   ],
   "small": {
     "scale": 1.079999999999998,
     "offset_x": -607,
     "offset_y": -210,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -221,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -42,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

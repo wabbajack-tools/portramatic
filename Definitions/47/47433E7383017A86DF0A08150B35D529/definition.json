@@ -2,27 +2,53 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/011/418/000/large/thaumazo-_-2.jpg?152958475110",
   "md5": "47433E7383017A86DF0A08150B35D529",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "man",
+    "face",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "woman",
+    "with",
+    "sword",
+    "hela",
+    "magda",
+    "female",
+    "knight",
+    "red",
+    "banner",
+    "aldo",
+    "vicente",
+    "character",
+    "lizard",
+    "alexey",
+    "mazur"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -500,
     "offset_y": -123,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -233,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -50,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

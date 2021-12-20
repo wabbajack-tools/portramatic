@@ -16,27 +16,39 @@
     "weekend",
     "sketches",
     "eric",
-    "persson"
+    "persson",
+    "rogue",
+    "character",
+    "rpg",
+    "assassin",
+    "concept",
+    "06",
+    "ahmad",
+    "hilmi",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -256,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -110,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -78,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

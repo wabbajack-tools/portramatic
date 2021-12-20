@@ -8,27 +8,49 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "tasigur",
+    "golden",
+    "tech",
+    "deck",
+    "villainous",
+    "wealth",
+    "league",
+    "angels",
+    "various_",
+    "king",
+    "dragons",
+    "anirban",
+    "saha",
+    "ambrosio",
+    "marco",
+    "gonz\u00E1lez",
+    "\u74E6\u4E4C\u59C6",
+    "d",
+    "lx"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -157,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -148,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -314,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

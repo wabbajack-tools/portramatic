@@ -2,25 +2,42 @@
   "source": "https://static.wikia.nocookie.net/forgottenrealms/images/2/26/SteelDragon.jpg/revision/latest?cb=20180203173534",
   "md5": "44822D8ECC45A67D5A3E03D0D8FDFD96",
   "tags": [
-    ""
+    "",
+    "pokemon",
+    "as",
+    "dragons",
+    "yellow",
+    "dragon",
+    "blue",
+    "grey",
+    "advanced",
+    "dungeons",
+    "red",
+    "black",
+    "green"
   ],
   "small": {
     "scale": 1,
     "offset_x": -251,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -130,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2999999999999945,
     "offset_x": -344,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

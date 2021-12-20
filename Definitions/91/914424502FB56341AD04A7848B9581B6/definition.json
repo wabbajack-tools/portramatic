@@ -4,27 +4,57 @@
   "tags": [
     "human",
     "male",
-    "warrior"
+    "warrior",
+    "dark",
+    "souls",
+    "shadow",
+    "mordor",
+    "black",
+    "knight",
+    "armor",
+    "samurai",
+    "league",
+    "legends",
+    "vampire",
+    "manga",
+    "sets",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "\uB098\uC774\uD2B8",
+    "\uCD5C\uC815\uB77D",
+    "character",
+    "design",
+    "concept",
+    "robert",
+    "mallinson",
+    "woman",
+    "anna",
+    "jang"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -1225,
     "offset_y": -260,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -709,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -602,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

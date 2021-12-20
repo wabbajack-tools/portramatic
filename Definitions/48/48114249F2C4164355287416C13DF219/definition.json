@@ -4,27 +4,45 @@
   "tags": [
     "human",
     "male",
-    "mage"
+    "mage",
+    "gandalf",
+    "artwork",
+    "fan",
+    "wizard",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "cult",
+    "leader",
+    "yosi",
+    "saputras",
+    "murderpriest",
+    "alina",
+    "fuhrmann"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -560,
     "offset_y": -379,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -378,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -408,
     "offset_y": -152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

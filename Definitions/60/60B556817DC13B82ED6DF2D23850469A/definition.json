@@ -12,25 +12,35 @@
     "sports",
     "art",
     "mage",
-    "female"
+    "female",
+    "anime",
+    "girl",
+    "concept",
+    "seunghee",
+    "lee"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -363,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -136,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -53,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

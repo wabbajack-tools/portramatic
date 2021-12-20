@@ -2,27 +2,57 @@
   "source": "https://www.fantasyartvillage.com/wp-content/uploads/2017/07/black-valkyrie-sangreal-by-hoanglap.jpg",
   "md5": "1454A746D238C13FD0D033AB9E37162C",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "female",
+    "witch",
+    "castlevania",
+    "symphony",
+    "night",
+    "orc",
+    "warrior",
+    "game",
+    "thrones",
+    "black",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\u9ED1\u7FFC\u5929\u4F7F",
+    "rexxar",
+    "chang",
+    "\u5A75\u7389/chanyu",
+    "liz",
+    "frankenstein",
+    "azora",
+    "visuals",
+    "illustration"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -183,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -88,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -34,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

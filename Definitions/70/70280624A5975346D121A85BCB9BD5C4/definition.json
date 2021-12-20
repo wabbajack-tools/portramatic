@@ -3,27 +3,59 @@
   "md5": "70280624A5975346D121A85BCB9BD5C4",
   "tags": [
     "silent",
-    "criminal"
+    "criminal",
+    "male",
+    "elf",
+    "warrior",
+    "drawings",
+    "viking",
+    "knight",
+    "armor",
+    "armors",
+    "medieval",
+    "knights",
+    "plate",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "barbarian",
+    "radoslav",
+    "topalov",
+    "try",
+    "take",
+    "denis",
+    "didenko",
+    "m",
+    "fighter",
+    "axe",
+    "midlvl",
+    "gunnar",
+    "mark"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -397,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -238,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -179,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

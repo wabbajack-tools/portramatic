@@ -9,27 +9,56 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "female",
+    "assassin",
+    "anime",
+    "girl",
+    "angel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "comm",
+    "wow",
+    "archer",
+    "avareon",
+    "windmage",
+    "flora",
+    "jessie",
+    "lam",
+    "dimitri",
+    "fanart",
+    "fire",
+    "emblem",
+    "three",
+    "houses",
+    "timothy",
+    "kong"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -261,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -71,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9699999999999995,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

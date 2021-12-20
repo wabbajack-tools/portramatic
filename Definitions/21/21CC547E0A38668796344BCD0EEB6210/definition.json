@@ -32,27 +32,53 @@
     "viking",
     "mam",
     "ba",
-    "2020"
+    "2020",
+    "legend",
+    "cryptids",
+    "dark",
+    "queen",
+    "female",
+    "characters",
+    "league",
+    "legends",
+    "\u65AC\u5996",
+    "royal",
+    "nine",
+    "world",
+    "spirit",
+    "angel",
+    "gunship",
+    "revolution",
+    "oc_holy",
+    "warrior_male",
+    "mars",
+    "foong",
+    "warrior",
+    "concept",
+    "fictional"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -367.99999999998545,
     "offset_y": -200.39999999999972,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -190.0000000000033,
     "offset_y": -65.00000000000023,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -195.203703703703,
     "offset_y": -169.9999999999983,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

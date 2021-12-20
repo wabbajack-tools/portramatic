@@ -9,27 +9,45 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "summoner",
+    "lan",
+    "zhao",
+    "orchid",
+    "uros",
+    "sljivic",
+    "white",
+    "magician",
+    "taeseung",
+    "kim",
+    "https://www"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -217,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -64,
     "offset_y": -84,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7500000000000002,
     "offset_x": -24,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

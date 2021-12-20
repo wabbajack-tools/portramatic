@@ -24,27 +24,49 @@
     "fleet",
     "vitaliy",
     "ostaschenko",
-    "star"
+    "star",
+    "3d",
+    "nude",
+    "male",
+    "erotic",
+    "shemale",
+    "bondage",
+    "female",
+    "lydia",
+    "van",
+    "bredevoort",
+    "nataliia",
+    "meonika",
+    "firefly",
+    "res",
+    "thoughtless",
+    "https://www",
+    "nefertiti",
+    "oana",
+    "pascari"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -184,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -135,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -34,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

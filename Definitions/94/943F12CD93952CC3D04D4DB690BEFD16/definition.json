@@ -4,27 +4,39 @@
   "tags": [
     "human",
     "female",
-    "mage"
+    "mage",
+    "dota",
+    "fan",
+    "lina",
+    "inverse",
+    "captain",
+    "marvel",
+    "kelvin",
+    "chan",
+    "2020"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -251,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -137,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

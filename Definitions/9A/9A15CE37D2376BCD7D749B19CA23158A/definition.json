@@ -5,27 +5,42 @@
     "tiefling",
     "male",
     "samurai",
-    "mage"
+    "mage",
+    "bishop",
+    "clip",
+    "randy",
+    "fan",
+    "\u822C\u82E5",
+    "mist",
+    "xg",
+    "https://www.artstation.com",
+    "krend",
+    "rigrena",
+    "sanja",
+    "grbic"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -357,
     "offset_y": -157,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -158,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -8,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

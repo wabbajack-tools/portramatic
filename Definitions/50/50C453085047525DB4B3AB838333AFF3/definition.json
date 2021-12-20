@@ -6,27 +6,41 @@
     "male",
     "warrior",
     "hunter",
-    "rogue"
+    "rogue",
+    "\u6DF7\u6C8C",
+    "t",
+    "swck",
+    "minotaur",
+    "rampage",
+    "joseph",
+    "c-knight",
+    "mxr\u0027s",
+    "alexstrasza",
+    "neftali",
+    "hinojosa"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -461.7999999999997,
     "offset_y": -281.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7801666666666667,
     "offset_x": -190.19999999999982,
     "offset_y": -91.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0414166666666664,
     "offset_x": -988.3240740740748,
     "offset_y": 0.3981481481472997,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

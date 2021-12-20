@@ -2,25 +2,60 @@
   "source": "https://loginportal.funnyjunk.com/pictures/D_b160d0_6610316.jpg",
   "md5": "B160D0804E3B6B1279B8F917D1A793D3",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "character",
+    "wow",
+    "warrior",
+    "concept",
+    "space",
+    "marine",
+    "war",
+    "machine",
+    "gears",
+    "ultramarines",
+    "hammer",
+    "warhammer",
+    "40k",
+    "spider-man",
+    "orcs",
+    "201613",
+    "haixiang",
+    "mu",
+    "captain",
+    "ahohako",
+    "dan",
+    "glasl",
+    "https://www",
+    "privateer",
+    "press",
+    "work",
+    "jake",
+    "gumbleton",
+    "robot"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 43,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 138,
     "offset_y": -266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

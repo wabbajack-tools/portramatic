@@ -2,27 +2,50 @@
   "source": "https://yt3.ggpht.com/a/AATXAJx_w3n6f8dO85M5yVlpIvdxOw1fwzMwSeHAFw=s900-c-k-c0xffffffff-no-rj-mo",
   "md5": "5432E2C9D32578473370DD33BF48AAB2",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "character",
+    "rpg",
+    "assassin",
+    "concept",
+    "female",
+    "wood",
+    "elf",
+    "rock",
+    "d",
+    "characters",
+    "fan",
+    "robert",
+    "hoang",
+    "zelda",
+    "bless",
+    "fanart",
+    "yoon",
+    "\u2606",
+    "men"
   ],
   "small": {
     "scale": 1,
     "offset_x": -272,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -187,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -28,
     "offset_y": 34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

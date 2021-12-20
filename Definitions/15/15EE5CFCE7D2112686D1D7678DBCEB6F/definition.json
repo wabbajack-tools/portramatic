@@ -11,27 +11,60 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "battle",
+    "dwarf",
+    "cleric",
+    "gnome",
+    "wizard",
+    "dungeons",
+    "dragons",
+    "plate",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "ancient",
+    "nature",
+    "warrior",
+    "rudy",
+    "siswanto",
+    "https://www.artstation.com/artwork/1nkwee",
+    "black",
+    "sailors",
+    "traders",
+    "kobberland",
+    "even",
+    "amundsen",
+    "characters",
+    "emanuele",
+    "desiati",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -89.59999999999982,
     "offset_y": -171.2000000000012,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -71.19999999999993,
     "offset_y": -45.60000000000008,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -28.833333333333258,
     "offset_y": -4.805555555555884,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

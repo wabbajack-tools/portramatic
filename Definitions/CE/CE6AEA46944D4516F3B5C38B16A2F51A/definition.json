@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/c3/be/3a/c3be3a253ca6645c9962bf6303424ce3.jpg",
   "md5": "CE6AEA46944D4516F3B5C38B16A2F51A",
   "tags": [
-    ""
+    "",
+    "anime",
+    "character",
+    "inspiration",
+    "female",
+    "hero",
+    "characters",
+    "armor",
+    "designs",
+    "assassin",
+    "pirate",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "heels",
+    "overwatch",
+    "fan",
+    "pernlit",
+    "luthiel_character",
+    "concept",
+    "kim",
+    "ssang",
+    "thief",
+    "sonacia",
+    "youngmin",
+    "suh"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -422,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -199,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2199999999999978,
     "offset_x": -272,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://static.wikia.nocookie.net/wowpedia/images/a/a2/Lich_King_by_Raneman.jpg/revision/latest?cb=20210415161401",
   "md5": "4B3D72C3E02E1D94BF8F49C5DE6668F8",
   "tags": [
-    "Arthas. Lich-King"
+    "Arthas. Lich-King",
+    "lich",
+    "king",
+    "cinematic",
+    "concept",
+    "death",
+    "knight",
+    "witch",
+    "angmar",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "lord",
+    "rings",
+    "female",
+    "warlock",
+    "kim",
+    "herbst"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -447,
     "offset_y": -202,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -411,
     "offset_y": -156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -96,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

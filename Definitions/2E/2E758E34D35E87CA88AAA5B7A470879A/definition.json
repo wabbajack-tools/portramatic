@@ -2,27 +2,58 @@
   "source": "https://i.imgur.com/HZVMbnR.jpeg",
   "md5": "2E758E34D35E87CA88AAA5B7A470879A",
   "tags": [
-    ""
+    "",
+    "black",
+    "inspiration",
+    "male",
+    "character",
+    "anime",
+    "league",
+    "legends",
+    "devil",
+    "may",
+    "cry",
+    "witch",
+    "king",
+    "angmar",
+    "wrath",
+    "titans",
+    "game",
+    "thrones",
+    "\u6B66\u50E7",
+    "fanqin",
+    "xu",
+    "ryu",
+    "vs",
+    "akuma",
+    "alonso",
+    "alatriste",
+    "belial",
+    "hh.",
+    "lotus"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -84,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -30,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -14,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

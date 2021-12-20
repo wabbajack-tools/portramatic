@@ -2,25 +2,54 @@
   "source": "https://i.pinimg.com/564x/0e/22/44/0e22443e4f17679d97537bde6cb9b916.jpg",
   "md5": "F1999796A33DB44CFF036848DAC282EE",
   "tags": [
-    ""
+    "",
+    "eladrin",
+    "warlock",
+    "elf",
+    "dark",
+    "night",
+    "demons",
+    "dynasty",
+    "warriors",
+    "death",
+    "knight",
+    "female",
+    "assassin",
+    "netease",
+    "games",
+    "woo",
+    "chul",
+    "lee",
+    "zor",
+    "ergaravon",
+    "bannidulles",
+    "zhentarim",
+    "sergeant",
+    "olie",
+    "boldador"
   ],
   "small": {
     "scale": 1.9800000000000009,
     "offset_x": -404.0000000000007,
     "offset_y": -123.20000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -115.99999999999989,
     "offset_y": -47.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -54.46296296296305,
     "offset_y": -4.805555555555543,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

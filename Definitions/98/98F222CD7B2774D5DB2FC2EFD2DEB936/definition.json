@@ -3,27 +3,53 @@
   "md5": "98F222CD7B2774D5DB2FC2EFD2DEB936",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "anime",
+    "sun",
+    "god",
+    "girl",
+    "goddesses",
+    "goddess",
+    "drawing",
+    "legend",
+    "korra",
+    "captive",
+    "fighter",
+    "lv2",
+    "neoartcore",
+    "thongmai",
+    "onmyoji-ibaraki",
+    "doji",
+    "k",
+    "sager",
+    "critical",
+    "role",
+    "vax",
+    "linda",
+    "lith\u00E9n"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -375,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -47,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -48,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

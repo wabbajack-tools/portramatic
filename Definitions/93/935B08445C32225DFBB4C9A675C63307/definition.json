@@ -2,25 +2,48 @@
   "source": "https://i.pinimg.com/564x/a3/de/f1/a3def11eca00ddccd9f3d8cb57f6a022.jpg",
   "md5": "935B08445C32225DFBB4C9A675C63307",
   "tags": [
-    ""
+    "",
+    "devil",
+    "may",
+    "cry",
+    "dark",
+    "knight",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "string_instrument",
+    "guitar",
+    "\u3145\u3147\u3141",
+    "morry",
+    "\u2660",
+    "new",
+    "vistas",
+    "ana",
+    "rone",
+    "https://www"
   ],
   "small": {
     "scale": 1.6700000000000006,
     "offset_x": -239.20000000000087,
     "offset_y": -210.40000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -17.59999999999991,
     "offset_y": -87.20000000000005,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -8.009259259259125,
     "offset_y": -24.027777777777715,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

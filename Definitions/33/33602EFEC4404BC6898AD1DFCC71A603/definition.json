@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/00/83/9c/00839c455b57e679b67e3fc80085ddb7.jpg",
   "md5": "33602EFEC4404BC6898AD1DFCC71A603",
   "tags": [
-    ""
+    "",
+    "female",
+    "half",
+    "orc",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "male",
+    "assassin",
+    "pirate",
+    "knight",
+    "armor",
+    "gladiators",
+    "demon",
+    "hunter",
+    "berserker",
+    "max",
+    "yenin",
+    "https://www",
+    "gladiator",
+    "roland",
+    "sanchez",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -218,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -2,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -12,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

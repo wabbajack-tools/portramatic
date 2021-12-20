@@ -6,27 +6,40 @@
     "male",
     "prince",
     "mage",
-    "rogue"
+    "rogue",
+    "natural",
+    "blonde",
+    "hair",
+    "color",
+    "mae",
+    "west",
+    "death",
+    "whitman",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -385.7999999999997,
     "offset_y": -46.600000000000136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4801666666666664,
     "offset_x": -256.1999999999998,
     "offset_y": -18.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9314166666666663,
     "offset_x": -472.3240740740748,
     "offset_y": -13.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,53 @@
   "md5": "39ACF08418F6C3C35CF50CC6D9962E37",
   "tags": [
     "Angel",
-    "Angelkin"
+    "Angelkin",
+    "mtg",
+    "angel",
+    "token",
+    "paintings",
+    "angels",
+    "coin",
+    "fallen",
+    "anime",
+    "guardian",
+    "death",
+    "knight",
+    "medea",
+    "inrainn",
+    "chan",
+    "women",
+    "l",
+    "rupid79",
+    "lee",
+    "jung-myung",
+    "seraphim",
+    "evgeny",
+    "zakharov",
+    "artwork"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -786,
     "offset_y": -285,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -354,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -346,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

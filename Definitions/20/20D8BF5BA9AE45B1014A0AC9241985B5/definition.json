@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/92/7a/fb/927afbd6fa1af20c916cabef8ccecdd1.png",
   "md5": "20D8BF5BA9AE45B1014A0AC9241985B5",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "wild",
+    "hunt",
+    "eredin",
+    "armor",
+    "pirates",
+    "caribbean",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "female",
+    "pirate",
+    "knight",
+    "https://cdn3.artstation.com/p/assets/images/images/002/271/215/large/cal-santiago-siliathvorgan",
+    "critical",
+    "role",
+    "level",
+    "10",
+    "outfit",
+    "redesign",
+    "anna",
+    "veltkamp",
+    "characters",
+    "wastelander",
+    "vladimir",
+    "kiselev",
+    "https://www.artstation.com/artwork/\u2026"
   ],
   "small": {
     "scale": 2.0300000000000002,
     "offset_x": -415,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -166,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7700000000000007,
     "offset_x": -100,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

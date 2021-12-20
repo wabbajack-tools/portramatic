@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/fc/52/e5/fc52e5fa3ad00f767f5657f77e6a5f98.jpg",
   "md5": "5BFBD7FE9C157CE6E8E4351DD54477F3",
   "tags": [
-    ""
+    "",
+    "rising",
+    "sun",
+    "flag",
+    "ww2",
+    "japanese",
+    "tattoo",
+    "design",
+    "orc",
+    "warrior",
+    "bloodstain",
+    "gui",
+    "guimaraes",
+    "draven",
+    "nik",
+    "hagialas",
+    "https://www",
+    "oni",
+    "shaman",
+    "gold",
+    "can",
+    "samurai",
+    "mask"
   ],
   "small": {
     "scale": 1,
     "offset_x": -445,
     "offset_y": -277,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -354,
     "offset_y": -255,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -220,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

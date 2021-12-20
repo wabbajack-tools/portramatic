@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/ba/6a/e6/ba6ae67a26f73ad8d054969f8c5e147f.jpg",
   "md5": "9B22ABCBDA06644A726F1A3B72DFB208",
   "tags": [
-    ""
+    "",
+    "overlord",
+    "fanfiction",
+    "adult",
+    "mare",
+    "male",
+    "ddlc",
+    "x",
+    "reader",
+    "league",
+    "legends",
+    "rock",
+    "https://www.artstation.com/artwork/ny08qk",
+    "lol",
+    "syndra",
+    ".",
+    "chern",
+    "\u0022death",
+    "vapor",
+    "wynona\u0022",
+    "max",
+    "yenin"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -95,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -64,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7600000000000007,
     "offset_x": -2,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

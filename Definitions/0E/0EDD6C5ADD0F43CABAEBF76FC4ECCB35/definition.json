@@ -6,27 +6,58 @@
     "male",
     "warrior",
     "prince",
-    "rogue"
+    "rogue",
+    "armor",
+    "class",
+    "ranger",
+    "character",
+    "concept",
+    "knight",
+    "samurai",
+    "dragon",
+    "armors",
+    "medieval",
+    "knights",
+    "ottoman",
+    "janissary",
+    "gianluca",
+    "rolli",
+    "characters",
+    "dark",
+    "first",
+    "fury",
+    "reliah",
+    "a.",
+    "szade",
+    "design",
+    "souls",
+    "pirate",
+    "dimitri",
+    "neron",
+    "inspiration"
   ],
   "small": {
     "scale": 0.6000000000000002,
     "offset_x": -392,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999997,
     "offset_x": -246,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -108,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

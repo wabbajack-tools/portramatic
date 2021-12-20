@@ -8,27 +8,56 @@
     "skiorh",
     "old",
     "elf",
-    "wizard"
+    "wizard",
+    "tribal",
+    "ryze",
+    "runes",
+    "human",
+    "league",
+    "legends",
+    "warhammer",
+    "40k",
+    "zombies",
+    "jhin",
+    "maoshan",
+    "zhan",
+    "fanart_dota2_ganking",
+    "yshing",
+    "yip",
+    "nefarian",
+    "lord",
+    "blackrock",
+    "xi",
+    "zhang",
+    "illustration",
+    "fun",
+    "to",
+    "be",
+    "one",
+    "new"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -702.0000000000002,
     "offset_y": -73.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -454.00000000000006,
     "offset_y": -32.66666666666649,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -670.6666666666667,
     "offset_y": -24.666666666666003,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

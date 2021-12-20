@@ -2,27 +2,42 @@
   "source": "https://i.imgur.com/2HuUkvE.jpeg",
   "md5": "8757A9AE4064C30A5898E6D79DCD8452",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "berserker",
+    "death",
+    "dealer",
+    "paul",
+    "gauguin",
+    "famous",
+    "paintings",
+    "cezanne"
   ],
   "small": {
     "scale": 1,
     "offset_x": -162,
     "offset_y": -383,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -357,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -6,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

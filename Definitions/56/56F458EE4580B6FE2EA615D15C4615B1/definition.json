@@ -5,27 +5,35 @@
     "human",
     "druid",
     "dark",
-    ""
+    "",
+    "clothing",
+    "armor",
+    "sailors\u2026yummy",
+    "roc\u00EDo",
+    "garc\u00EDa"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -585,
     "offset_y": -225,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -347,
     "offset_y": -182,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -144,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

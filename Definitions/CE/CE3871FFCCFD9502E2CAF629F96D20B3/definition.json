@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/736x/14/4c/cb/144ccb4defac4ecbba9955f1efb57e72.jpg",
   "md5": "CE3871FFCCFD9502E2CAF629F96D20B3",
   "tags": [
-    "222"
+    "222",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "warrior",
+    "female",
+    "assassin",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "chronicles",
+    "narnia",
+    "prince",
+    "caspian",
+    "witcher",
+    "vampire",
+    "knight",
+    "manga",
+    "samurai",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -138,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -4,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -5,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

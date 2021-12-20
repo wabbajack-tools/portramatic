@@ -7,27 +7,38 @@
     "red",
     "pencil",
     "lancelot",
-    "concept"
+    "concept",
+    "fate",
+    "series",
+    "servants",
+    "zero",
+    "victorian",
+    "anime",
+    "girl",
+    "servant"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -266,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -113,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8700000000000008,
     "offset_x": -335,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

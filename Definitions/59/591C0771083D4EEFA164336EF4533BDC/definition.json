@@ -2,27 +2,58 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d37db895-67c2-46a1-8e90-92ec1f0a63cc/d4bps8b-fc6c282d-0742-497c-9ed6-0a608f9f8a0a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzN2RiODk1LTY3YzItNDZhMS04ZTkwLTkyZWMxZjBhNjNjY1wvZDRicHM4Yi1mYzZjMjgyZC0wNzQyLTQ5N2MtOWVkNi0wYTYwOGY5ZjhhMGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j7lYGe4ZopumDBYubirB9HvNOSzcX6y76YD6g13xuPE",
   "md5": "591C0771083D4EEFA164336EF4533BDC",
   "tags": [
-    ""
+    "",
+    "steampunk",
+    "cyborg",
+    "character",
+    "ideas",
+    "male",
+    "warhammer",
+    "40k",
+    "orc",
+    "warrior",
+    "space",
+    "marine",
+    "chaos",
+    "marines",
+    "war",
+    "hammer",
+    "dungeons",
+    "dragons",
+    "grimgor",
+    "ironhide",
+    "liberation",
+    "ruben",
+    "perez",
+    "milan",
+    "nikolic",
+    "cannonbrave",
+    "sonacia",
+    "youngmin",
+    "suh"
   ],
   "small": {
     "scale": 2.0300000000000002,
     "offset_x": -577,
     "offset_y": -642,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -195,
     "offset_y": -269,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -178,
     "offset_y": -270,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

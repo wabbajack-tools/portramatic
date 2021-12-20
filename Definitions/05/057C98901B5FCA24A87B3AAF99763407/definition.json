@@ -2,27 +2,48 @@
   "source": "https://i.imgur.com/ksi84wc.jpeg",
   "md5": "057C98901B5FCA24A87B3AAF99763407",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "berserker",
+    "death",
+    "dealer",
+    "black",
+    "cauldron",
+    "greek",
+    "gods",
+    "oil",
+    "paintings",
+    "gnoll",
+    "paladin",
+    "stephen",
+    "nickel",
+    "creature"
   ],
   "small": {
     "scale": 1,
     "offset_x": -388,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -305,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -102,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

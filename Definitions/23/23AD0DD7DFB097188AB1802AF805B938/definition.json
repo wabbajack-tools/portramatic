@@ -1,28 +1,55 @@
 {
-  "source": "https://external-preview.redd.it/q3_1VyIuPvvOke_ciVaIXvQFl_DXKsqqbxfzlRMKWDg.jpg?auto=webp&s=6bc8abdf1375d7411985827b7195c5f1e3f8be80",
+  "source": "https://external-preview.redd.it/q3_1VyIuPvvOke_ciVaIXvQFl_DXKsqqbxfzlRMKWDg.jpg?auto=webp\u0026s=6bc8abdf1375d7411985827b7195c5f1e3f8be80",
   "md5": "23AD0DD7DFB097188AB1802AF805B938",
   "tags": [
-    ""
+    "",
+    "witch",
+    "shadow",
+    "armor",
+    "blood",
+    "moon",
+    "league",
+    "legends",
+    "smite",
+    "izanami",
+    "chris",
+    "kuhner",
+    "goddess",
+    "dark",
+    "races",
+    "centurio",
+    "germ\u00E1n",
+    "reina",
+    "carmona",
+    "character",
+    "creatures",
+    "monster",
+    "\u4E00\u6B21\u7EC3\u4E60",
+    "yuda",
+    "li"
   ],
   "small": {
     "scale": 0.27999999999999936,
     "offset_x": -275,
     "offset_y": -188,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -665,
     "offset_y": -479,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -158,
     "offset_y": -212,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

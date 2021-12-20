@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/originals/87/5f/d3/875fd39371db209b600e9edaf9354ec5.png",
   "md5": "2E2E5E23FD8B23DF8A606C887FF3CEAA",
   "tags": [
-    "222"
+    "222",
+    "digital",
+    "face",
+    "anime",
+    "girl",
+    "hair",
+    "female",
+    "blue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "ring"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -65,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -4,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -45,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

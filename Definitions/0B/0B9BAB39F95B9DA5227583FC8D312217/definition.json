@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/1200x/a0/ee/e1/a0eee1f0da75b9e5fdec46ee886bfae4.jpg",
   "md5": "0B9BAB39F95B9DA5227583FC8D312217",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "medieval",
+    "knights",
+    "armors",
+    "plate",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "elven",
+    "skirmisher",
+    "un",
+    "lee",
+    "https://www",
+    "lizard",
+    "alexey",
+    "mazur",
+    "female",
+    "dragonborn",
+    "matias",
+    "trabold",
+    "rehren"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -573,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -185,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

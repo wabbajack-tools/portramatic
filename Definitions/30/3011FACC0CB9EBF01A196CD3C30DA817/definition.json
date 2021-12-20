@@ -8,27 +8,43 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "goblin",
+    "electromancer",
+    "anime",
+    "pyromancer",
+    "shadow",
+    "fear",
+    "kerem",
+    "beyit",
+    "clea",
+    "concept",
+    "ii",
+    "madison",
+    "thames"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -404,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -164,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -156,
     "offset_y": -146,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

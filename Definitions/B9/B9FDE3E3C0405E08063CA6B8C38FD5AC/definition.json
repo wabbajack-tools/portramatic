@@ -43,27 +43,48 @@
     "koval",
     "sonya",
     "kayuda",
-    "victorian"
+    "victorian",
+    "baphomet",
+    "horns",
+    "minotaur",
+    "demon",
+    "lord",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "archer",
+    "karina",
+    "khudiakova",
+    "women",
+    "\uC804\uAE30\uD1B1",
+    "soonbu",
+    "ryang",
+    "kkkkkk",
+    "ni",
+    "yipeng"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -249.99999999999704,
     "offset_y": -123.33333333334821,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -87.66666666666652,
     "offset_y": -66.33333333334122,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -56.333333333333485,
     "offset_y": -12.666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

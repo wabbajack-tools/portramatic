@@ -2,27 +2,38 @@
   "source": "https://64.media.tumblr.com/a8b5d6c7f686d429875f15d887846ced/tumblr_onabx7rhr01rrm90jo8_1280.png",
   "md5": "BEE5CF56666D39FD407455D4EC690E73",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "anime",
+    "characters"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -285,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -195,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -94,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

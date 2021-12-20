@@ -3,27 +3,58 @@
   "md5": "743CEBF96C63F54ED1948DE972585028",
   "tags": [
     "jin",
-    "sakai"
+    "sakai",
+    "dragon",
+    "armor",
+    "concept",
+    "female",
+    "dark",
+    "knight",
+    "sword",
+    "armors",
+    "death",
+    "samurai",
+    "plate",
+    "for",
+    "honor",
+    "highlander",
+    "character",
+    "guillaume",
+    "menuel",
+    "guerrero",
+    "vikingo",
+    "ra\u0027s",
+    "al",
+    "ghul",
+    "zhai",
+    "rui",
+    "ras",
+    "dc",
+    "comics",
+    "comic"
   ],
   "small": {
     "scale": 1,
     "offset_x": -177,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -131,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 40,
     "offset_y": 44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,36 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "stanley",
+    "artgerm",
+    "line",
+    "artwork",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -277,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -73,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -1,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

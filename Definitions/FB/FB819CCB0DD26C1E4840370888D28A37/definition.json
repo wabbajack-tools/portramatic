@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/8c/50/c7/8c50c79cd22fc570752de72e385452ab.jpg",
   "md5": "FB819CCB0DD26C1E4840370888D28A37",
   "tags": [
-    ""
+    "",
+    "native",
+    "american",
+    "artwork",
+    "shaman",
+    "spiritual",
+    "medicine",
+    "man",
+    "dark",
+    "elf",
+    "night",
+    "game",
+    "thrones",
+    "wwe",
+    "immortals",
+    "shamus",
+    "druid",
+    "01",
+    "zhao",
+    "yan",
+    "\u256E(\uFFE3",
+    "\uFFE3\u0022)\u256D",
+    "dungeons",
+    "dragons",
+    "watch",
+    "judash",
+    "137",
+    "2020",
+    "nights",
+    "shooter",
+    "eart",
+    "cg"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -450,
     "offset_y": -288,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -107,
     "offset_y": -122,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

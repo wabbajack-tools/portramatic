@@ -3,27 +3,40 @@
   "md5": "8BB8C3DECDBDB6B4495F6D7B7E0712BE",
   "tags": [
     "human",
-    "adventurer"
+    "adventurer",
+    "elf",
+    "wizard",
+    "male",
+    "character",
+    "sorcerer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -72.00000000000006,
     "offset_y": -31.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -8.666666666666629,
     "offset_y": 0.3333333333334565,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": 3.3333333333337123,
     "offset_y": 3.0000000000002274,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

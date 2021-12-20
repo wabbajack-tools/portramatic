@@ -27,27 +27,35 @@
     "soraka",
     "anna",
     "lee",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "splendid",
+    "staff",
+    "nami",
+    "david",
+    "pan"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -33,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -38,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -24,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

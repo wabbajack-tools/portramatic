@@ -6,27 +6,58 @@
     "female",
     "warrior",
     "hunter",
-    "archer"
+    "archer",
+    "dark",
+    "knight",
+    "concept",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "ancient",
+    "pirates",
+    "caribbean",
+    "stranger",
+    "tides",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\u8352",
+    "onmyoji",
+    "susabi",
+    "\u856D",
+    "\u4F2F\u540C",
+    "https://www.artstation.com/artwork/ek4l4",
+    "character",
+    "prince",
+    "persia",
+    "fan",
+    "kobe",
+    "sek"
   ],
   "small": {
     "scale": 1.8900000000000008,
     "offset_x": -702.7999999999997,
     "offset_y": -212.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.0496666666666667,
     "offset_x": -293.19999999999976,
     "offset_y": -33.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1291666666666669,
     "offset_x": -48.324074074074815,
     "offset_y": -45.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

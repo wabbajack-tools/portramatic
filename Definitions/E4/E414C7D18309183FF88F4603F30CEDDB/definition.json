@@ -6,27 +6,43 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "miss",
+    "fortune",
+    "pirate",
+    "character",
+    "chinese",
+    "camilla",
+    "ilse",
+    "harting",
+    "girl",
+    "\u8001",
+    "\u53F8\u673A",
+    "oxana",
+    "reshetina"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -296.7999999999997,
     "offset_y": -166.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -123.19999999999976,
     "offset_y": -54.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -208.32407407407482,
     "offset_y": -11.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/bb/6a/d4/bb6ad46fdca542f059f4afc01f09dfe8.jpg",
   "md5": "9A9B1044AFF3E19E7D6E3A3B18A166E7",
   "tags": [
-    ""
+    "",
+    "female",
+    "guardian",
+    "angel",
+    "with",
+    "sword",
+    "warrior",
+    "concept",
+    "anime",
+    "prince",
+    "persia",
+    "sands",
+    "time",
+    "wisnu",
+    "tan",
+    "indonesia",
+    "2019",
+    "illustration",
+    "hand",
+    "it",
+    "over",
+    "gunship",
+    "revolution",
+    "juyoung",
+    "ha",
+    "untitle",
+    "2020",
+    "woman"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -148,
     "offset_y": -132,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -25,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -40,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

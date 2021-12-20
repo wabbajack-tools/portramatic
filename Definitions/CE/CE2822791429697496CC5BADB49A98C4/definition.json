@@ -4,27 +4,57 @@
   "tags": [
     "fey",
     "female",
-    "mage"
+    "mage",
+    "dark",
+    "faerie",
+    "villa",
+    "livia",
+    "vraska",
+    "mtg",
+    "archangels",
+    "dawn",
+    "war",
+    "league",
+    "legends",
+    "radha",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "rachel",
+    "grimoire",
+    "heiress",
+    "shuichi",
+    "wada",
+    "characters",
+    "girl",
+    "anime"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -422,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -348,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -134,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

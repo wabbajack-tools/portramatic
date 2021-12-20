@@ -3,27 +3,65 @@
   "md5": "415991576056B5C89A7E8D6BFF31FA1A",
   "tags": [
     "Beard",
-    "Tattoo"
+    "Tattoo",
+    "character",
+    "concept",
+    "girl",
+    "characters",
+    "samurai",
+    "armor",
+    "suit",
+    "heavy",
+    "plate",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "horizon",
+    "zero",
+    "dawn",
+    "story",
+    "luc",
+    "de",
+    "rpg",
+    "set",
+    "29",
+    "ernesto",
+    "irawan",
+    "2021",
+    "monster",
+    "slayer",
+    "no.",
+    "01",
+    "un",
+    "lee"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -457,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -218,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -14,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

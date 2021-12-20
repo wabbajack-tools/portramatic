@@ -29,25 +29,38 @@
     "male",
     "ranger",
     "sword",
-    "ax"
+    "ax",
+    "lord",
+    "rings",
+    "clash",
+    "titans",
+    "warcraft",
+    "orcs",
+    "humans",
+    "hobbit"
   ],
   "small": {
     "scale": 1.7099999999999995,
     "offset_x": -598.4999999999983,
     "offset_y": -118.33333333333303,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -222.83333333333354,
     "offset_y": -36.33333333333292,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7999999999999996,
     "offset_x": -306.66666666666674,
     "offset_y": -19.666666666668334,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

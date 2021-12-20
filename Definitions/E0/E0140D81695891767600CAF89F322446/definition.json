@@ -2,25 +2,54 @@
   "source": "https://i.pinimg.com/564x/a5/ac/92/a5ac928a3f4bb4bd16b6e3941b349121.jpg",
   "md5": "E0140D81695891767600CAF89F322446",
   "tags": [
-    ""
+    "",
+    "duergar",
+    "fighter",
+    "dwarf",
+    "gnome",
+    "female",
+    "pirate",
+    "character",
+    "for",
+    "deepdark",
+    "designs",
+    "uk",
+    "gaston",
+    "s.",
+    "garcia",
+    "crossbow",
+    "chun",
+    "park",
+    "https://www.artstation.com/artwork/rqade",
+    "nordic",
+    "fellow",
+    "vladimir",
+    "kafanov",
+    "dark",
+    "heroes"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -332,
     "offset_y": -203,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -180,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -99,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

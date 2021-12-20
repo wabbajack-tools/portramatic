@@ -5,27 +5,54 @@
     "human",
     "female",
     "rogue",
-    "mage"
+    "mage",
+    "real",
+    "life",
+    "looking",
+    "anime",
+    "girl",
+    "characters",
+    "with",
+    "short",
+    "hair",
+    "eyes",
+    "naruto",
+    "hinata",
+    "power",
+    "sakura",
+    "\u78A7\u84DD\u822A\u7EBFazur",
+    "lane/\u30A2\u30BA\u30FC\u30EB\u30EC\u30FC\u30F3",
+    "\u7231\u5B95",
+    "chunwhei",
+    "lee",
+    "k-da",
+    "baddest",
+    "akali",
+    "witchzz",
+    "bearwitch"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -145,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -29,
     "offset_y": 1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -5,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

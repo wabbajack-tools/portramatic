@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/originals/1c/d3/0c/1cd30c2693b36d82f10cf22d60e19620.jpg",
   "md5": "04103028018FBE534D91A87DBEB1BDDD",
   "tags": [
-    "Powerful Dumbledore"
+    "Powerful Dumbledore",
+    "dumbledore",
+    "from",
+    "harry",
+    "potter",
+    "x",
+    "old",
+    "gellert",
+    "grindelwald",
+    "alexander",
+    "trufanov",
+    "artwork",
+    "dungeons",
+    "dragons",
+    "homebrew",
+    "dieselpunk",
+    "poxnora",
+    "illustration",
+    "bartlomiej",
+    "gawel",
+    "character",
+    "design",
+    "dwarf"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -666.0000000000002,
     "offset_y": -258.6666666666665,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -128.66666666666663,
     "offset_y": -18.000000000000114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -304,
     "offset_y": -2.66666666666697,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

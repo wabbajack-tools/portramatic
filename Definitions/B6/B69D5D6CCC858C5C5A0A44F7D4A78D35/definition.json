@@ -7,27 +7,41 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "dark",
+    "elf",
+    "maelyndra",
+    "svetlana",
+    "nurkaeva",
+    "\u738B\u8005\u8363\u8000-\u9732\u5A1C",
+    "\u767D\u9E44",
+    "blue",
+    "liquid",
+    "anna",
+    "shulgina"
   ],
   "small": {
     "scale": 0.7299999999999999,
     "offset_x": -487.06666666666143,
     "offset_y": -92.66666666668169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -310.06666666666644,
     "offset_y": -49.5333333333416,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -72.10185185185253,
     "offset_y": -11.972222222223422,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

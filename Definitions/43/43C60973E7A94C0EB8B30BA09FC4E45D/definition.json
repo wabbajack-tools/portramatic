@@ -3,27 +3,53 @@
   "md5": "43C60973E7A94C0EB8B30BA09FC4E45D",
   "tags": [
     "tiefling",
-    "barbarian"
+    "barbarian",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "warrior",
+    "death",
+    "superman",
+    "alien",
+    "demon",
+    "hunter",
+    "man",
+    "steel",
+    "illust",
+    "mook",
+    "eun",
+    "enrage",
+    "dmitry",
+    "desyatov",
+    "https://www",
+    "warrior\u0027s",
+    "darkening#2",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -233,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -80,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

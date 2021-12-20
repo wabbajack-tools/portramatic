@@ -3,27 +3,54 @@
   "md5": "6981667F33583A304453BACBE9D57A94",
   "tags": [
     "tyrande",
-    "whisperwind"
+    "whisperwind",
+    "warcraft",
+    "night",
+    "elf",
+    "world",
+    "malfurion",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "dawnbringer",
+    "riven",
+    "tony",
+    "maverick",
+    "furcas",
+    "yutthaphong",
+    "kaewsuk",
+    "archeage",
+    "characters",
+    "#26",
+    "artyom",
+    "smirnov"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -324,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -291.5,
     "offset_y": -45.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -239,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,30 +1,54 @@
 {
-  "source": "https://preview.redd.it/79sd4hq4gg541.jpg?width=1920&format=pjpg&auto=webp&s=2168edbee052ce3aeee2106ae8466b0d4cdab510",
+  "source": "https://preview.redd.it/79sd4hq4gg541.jpg?width=1920\u0026format=pjpg\u0026auto=webp\u0026s=2168edbee052ce3aeee2106ae8466b0d4cdab510",
   "md5": "993AD20BEEE3B59C0C56E9AAE87B6619",
   "tags": [
     "elf",
     "half-elf",
-    "rogue"
+    "rogue",
+    "assassin",
+    "female",
+    "pirate",
+    "green",
+    "arrow",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\u6885",
+    "mei",
+    "\u51CF\u635F",
+    "2021",
+    "character",
+    "design",
+    "scarred",
+    "woman",
+    "giacomo",
+    "marzona"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

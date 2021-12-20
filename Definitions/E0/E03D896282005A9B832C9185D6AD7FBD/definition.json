@@ -2,27 +2,47 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/604f3ff3-78c2-4b2c-aeff-ce26726d4689/dcalvgq-09c2491a-2fae-4619-8770-e0a0d92b217d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwNGYzZmYzLTc4YzItNGIyYy1hZWZmLWNlMjY3MjZkNDY4OVwvZGNhbHZncS0wOWMyNDkxYS0yZmFlLTQ2MTktODc3MC1lMGEwZDkyYjIxN2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.drGXznPg07-Itv2xZvYd16XyBZEySvDxhCkA2eSk6Lc",
   "md5": "E03D896282005A9B832C9185D6AD7FBD",
   "tags": [
-    "vampire"
+    "vampire",
+    "white",
+    "hair",
+    "woman",
+    "model",
+    "ladies",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "lucy",
+    "thorne",
+    "assassin\u0027s",
+    "creed",
+    "syndicate",
+    "sabin",
+    "lalancette"
   ],
   "small": {
     "scale": 1,
     "offset_x": -15,
     "offset_y": 4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -303,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -76,
     "offset_y": 186,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

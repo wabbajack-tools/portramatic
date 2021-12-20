@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/564x/04/7a/61/047a61792b022d0cd9b5597f35c30ae0.jpg",
   "md5": "9DC4D66B79D421A14F3BA3FC2A11EF85",
   "tags": [
-    ""
+    "",
+    "russian",
+    "cubans",
+    "cuba",
+    "ussr",
+    "china",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "lingerie",
+    "bra",
+    "panties"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -163,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -23,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

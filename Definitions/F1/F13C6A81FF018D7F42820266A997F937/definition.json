@@ -3,27 +3,54 @@
   "md5": "F13C6A81FF018D7F42820266A997F937",
   "tags": [
     "tiefling",
-    "barbarian"
+    "barbarian",
+    "dragon",
+    "god",
+    "dungeons",
+    "dragons",
+    "deities",
+    "demigods",
+    "kratos",
+    "war",
+    "ghost",
+    "sparta",
+    "chaos",
+    "warrior",
+    "deck-heroes\u9879\u76EE\u56FE\u516D\u5F20",
+    "shan",
+    "dark",
+    "character",
+    "creatures",
+    "witch",
+    "with",
+    "wetlands",
+    "tatyana",
+    "kupriyanova",
+    "\u54C8\u8FEA\u65AF",
+    "open"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -229,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -177,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -20,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

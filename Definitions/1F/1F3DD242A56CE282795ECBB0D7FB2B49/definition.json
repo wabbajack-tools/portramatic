@@ -15,27 +15,61 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "demon",
+    "warrior",
+    "drawings",
+    "demonic",
+    "sniper",
+    "ghost",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "hunter",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "moon",
+    "witch",
+    "jeongseok",
+    "lee",
+    "insane",
+    "puck",
+    "reg",
+    "randy",
+    "vargas",
+    "vargasni",
+    "ranger",
+    "forest",
+    "jin-woong",
+    "kim"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -238,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -114,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -62,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

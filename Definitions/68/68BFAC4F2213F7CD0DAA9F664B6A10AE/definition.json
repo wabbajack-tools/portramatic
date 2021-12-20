@@ -2,25 +2,54 @@
   "source": "https://kartinkin.net/uploads/posts/2021-07/1627111634_25-kartinkin-com-p-assasin-voin-art-art-krasivo-28.jpg",
   "md5": "68BFAC4F2213F7CD0DAA9F664B6A10AE",
   "tags": [
-    ""
+    "",
+    "ninja",
+    "sword",
+    "concept",
+    "shinobi",
+    "assassin",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "genghis",
+    "khan",
+    "character",
+    "practice",
+    "abandoned",
+    "work",
+    "picture\u300A\u5200\u950B\u94C1\u9A91\u300B\u89D2\u8272",
+    "xianci",
+    "liu",
+    "game",
+    "thrones(john",
+    "snow",
+    "hwan",
+    "jang"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -492,
     "offset_y": -350,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -223,
     "offset_y": -239,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -254,
     "offset_y": -268,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

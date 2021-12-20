@@ -5,27 +5,51 @@
     "elf",
     "female. mage",
     "rogue",
-    "princess"
+    "princess",
+    "girl",
+    "elves",
+    "shelves",
+    "dark",
+    "captured",
+    "white",
+    "hair",
+    "league",
+    "legends",
+    "fortuna",
+    "mj",
+    "pajaron",
+    "https://www",
+    "catgirl",
+    "oliver",
+    "liu",
+    "\u9670\u967D\u5E2B",
+    "s",
+    "p\u5FA1\u6028\u822C\u82E5(\u0942\uFF61\u2022\u03C9\u2022\uFF61",
+    "\u856D",
+    "\u4F2F\u540C"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -485,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -338,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -452,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

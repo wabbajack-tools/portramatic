@@ -5,27 +5,49 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "gae",
+    "bolg",
+    "fate",
+    "spear",
+    "ffxiv",
+    "necromancer",
+    "maryna",
+    "shcherbakova",
+    "women",
+    "characters",
+    "qop",
+    "eminence",
+    "ristul",
+    "elmon",
+    "villena",
+    "luthiel_character",
+    "concept",
+    "kim",
+    "ssang"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -378.5,
     "offset_y": -150,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -208.5,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.42991666666666606,
     "offset_x": -111,
     "offset_y": -69,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

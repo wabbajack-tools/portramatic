@@ -1,28 +1,47 @@
 {
-  "source": "https://tcgplayer-marketing.s3.amazonaws.com/content/opengraph/MTG-Legion-Lieutenant-RIX.jpg?anchor=center&mode=crop&width=1540&height=868&rnd=131455721710000000",
+  "source": "https://tcgplayer-marketing.s3.amazonaws.com/content/opengraph/MTG-Legion-Lieutenant-RIX.jpg?anchor=center\u0026mode=crop\u0026width=1540\u0026height=868\u0026rnd=131455721710000000",
   "md5": "B341B1C5B726002A598B39B5857512FA",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "vampire",
+    "magic",
+    "gathering",
+    "concept",
+    "lord",
+    "hex",
+    "exalted",
+    "commander",
+    "mateus",
+    "lins",
+    "thanos",
+    "black",
+    "order",
+    "alexander",
+    "tyne"
   ],
   "small": {
     "scale": 1.8400000000000007,
     "offset_x": -708,
     "offset_y": -198,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -356,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -384,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

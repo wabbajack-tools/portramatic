@@ -6,27 +6,49 @@
     "girl",
     "short",
     "hair",
-    "fighter"
+    "fighter",
+    "digital",
+    "male",
+    "female",
+    "warrior",
+    "character",
+    "concept",
+    "archer",
+    "yekaterina",
+    "chibisova",
+    "snow",
+    "white",
+    "laurie-anne",
+    "c\u00F4t\u00E9",
+    "https://www.artstation",
+    "sylvanas",
+    "windrunner",
+    "fan",
+    "3d",
+    "vimal"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -71,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -32,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -49,
     "offset_y": -101,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

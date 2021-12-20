@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/VLDfaWj.jpeg",
   "md5": "DBDEAFC710AD654F47F062439EE9C396",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "fan",
+    "iconics",
+    "plate",
+    "armor",
+    "assassin",
+    "armors",
+    "horror",
+    "adventures",
+    "characters",
+    "hazem",
+    "ameen",
+    "character",
+    "portraits",
+    "female",
+    "ii",
+    "javier",
+    "charro",
+    "concept",
+    "illustration",
+    "_",
+    "kaiser",
+    "kim",
+    "ki",
+    "woong",
+    "warrior"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -439,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -233,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -48,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

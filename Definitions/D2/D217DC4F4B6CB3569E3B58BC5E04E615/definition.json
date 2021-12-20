@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.1lkJDTx-ZiEyqc0MCv2dbQHaKe%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.1lkJDTx-ZiEyqc0MCv2dbQHaKe%26pid%3DApi\u0026f=1",
   "md5": "D217DC4F4B6CB3569E3B58BC5E04E615",
   "tags": [
     "human",
@@ -16,27 +16,48 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "male",
+    "vampire",
+    "wallpaper",
+    "drawing",
+    "anime",
+    "dark",
+    "elf",
+    "clark",
+    "ocleasa",
+    "https://www.artstation.com/artwork/481z4q",
+    "2020",
+    "thorin",
+    "oakenshield",
+    "hobbit",
+    "fanart",
+    "doejo",
+    "=^.^=",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.44999999999999973,
     "offset_x": -17.999999999999417,
     "offset_y": -10.222222222222143,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -23.111111111111086,
     "offset_y": -29.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7000000000000006,
     "offset_x": -39.17395029991485,
     "offset_y": -24.013710368465752,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

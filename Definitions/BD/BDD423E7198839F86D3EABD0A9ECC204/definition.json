@@ -23,25 +23,52 @@
     "apparel",
     "hood",
     "cleric",
-    "knight"
+    "knight",
+    "female",
+    "tiefling",
+    "warrior",
+    "elf",
+    "paladin",
+    "dd",
+    "dungeons",
+    "dragons",
+    "high",
+    "noble",
+    "younghun",
+    "byun",
+    "character",
+    "inspiration",
+    "characters",
+    "sangsoon",
+    "lim",
+    "humanoid",
+    "sketch",
+    "fictional",
+    "caleb",
+    "arredondo"
   ],
   "small": {
     "scale": 1.5300000000000005,
     "offset_x": -167.8999999999998,
     "offset_y": -14.799999999999926,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4900000000000004,
     "offset_x": -101.29999999999995,
     "offset_y": -14.999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9600000000000009,
     "offset_x": -1.120370370369983,
     "offset_y": -4.98148148148141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

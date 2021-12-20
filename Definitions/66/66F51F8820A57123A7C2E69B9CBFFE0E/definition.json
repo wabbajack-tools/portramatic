@@ -11,27 +11,56 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "archangel",
+    "knight",
+    "fallen",
+    "angel",
+    "armor",
+    "death",
+    "sniper",
+    "ghost",
+    "warrior",
+    "dark",
+    "castlevania",
+    "lords",
+    "shadow",
+    "souls",
+    "demons",
+    "black",
+    "knights",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "draft",
+    "\u53EF",
+    "\u6D41\u5DDD",
+    "satan",
+    "frei",
+    "chien"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -349.7999999999997,
     "offset_y": -124.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -143.19999999999976,
     "offset_y": -80.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -40.324074074074815,
     "offset_y": -3.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

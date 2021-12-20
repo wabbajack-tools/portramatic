@@ -6,27 +6,42 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "psylocke",
+    "x-men",
+    "last",
+    "stand",
+    "greg",
+    "land",
+    "x-23",
+    "mileena",
+    "evelynn.exe",
+    "v3",
+    "henrique",
+    "sales"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -375,
     "offset_y": -324,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7304999999999997,
     "offset_x": -120,
     "offset_y": -130,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0802500000000002,
     "offset_x": -14,
     "offset_y": -170,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

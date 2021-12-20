@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/58/a1/dd/58a1dd8a34ce342905faa563c99782c5.jpg",
   "md5": "FD67D1ACEC9F78AAABB5F6EF3CE2226F",
   "tags": [
-    ""
+    "",
+    "paizo",
+    "shelyn",
+    "cheliax",
+    "knight",
+    "armor",
+    "armors",
+    "heavy",
+    "dragon",
+    "chaos",
+    "warrior",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "concept",
+    "rexxar",
+    "chang",
+    "archeage",
+    "bigins",
+    "2015~2016",
+    "beast",
+    "min",
+    "project",
+    "ebon",
+    "blade",
+    "zach",
+    "fischer",
+    "2020",
+    "world",
+    "warcraft"
   ],
   "small": {
     "scale": 1.6400000000000006,
     "offset_x": -220,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -37,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -38,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

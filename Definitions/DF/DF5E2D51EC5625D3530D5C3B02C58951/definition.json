@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/564x/13/b5/da/13b5dac22c230e2b88eb0cd8b980db9e.jpg",
   "md5": "DF5E2D51EC5625D3530D5C3B02C58951",
   "tags": [
-    ""
+    "",
+    "female",
+    "armor",
+    "concept",
+    "warrior",
+    "character",
+    "woman",
+    "medieval",
+    "knights",
+    "assassin",
+    "vampire",
+    "knight",
+    "manga",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sangmin",
+    "park",
+    "human",
+    "pictures",
+    "half-elf",
+    "barbarians",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "2021",
+    "barbarian",
+    "dungeons",
+    "lone",
+    "wolf",
+    "owl",
+    "studio"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -257,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -2,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

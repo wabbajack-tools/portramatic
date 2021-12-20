@@ -2,27 +2,59 @@
   "source": "https://i.imgur.com/ZcvBjeg.jpeg",
   "md5": "A561486B2BFE2121A98119DDF6AD8069",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "random",
+    "stuff",
+    "alexander",
+    "trufanov",
+    "illustration",
+    "warden",
+    "for",
+    "honor",
+    "erik",
+    "ly",
+    "concept",
+    "characters",
+    "warlord",
+    "mauro",
+    "belfiore",
+    "https://www.artstation.com/artwork/xrkdl",
+    "artwork"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -425,
     "offset_y": -393,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -165,
     "offset_y": -269,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -6,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

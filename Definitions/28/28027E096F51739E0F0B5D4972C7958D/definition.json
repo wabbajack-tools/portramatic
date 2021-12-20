@@ -2,27 +2,55 @@
   "source": "https://cdn.discordapp.com/attachments/908409389810073671/910606801752424528/unknown.jpeg",
   "md5": "28027E096F51739E0F0B5D4972C7958D",
   "tags": [
-    ""
+    "",
+    "demon",
+    "king",
+    "drawing",
+    "legend",
+    "cryptids",
+    "female",
+    "lich",
+    "orcs",
+    "demons",
+    "blood",
+    "elf",
+    "prometheus",
+    "billy",
+    "christian",
+    "https://www.artstation.com/artwork/e4pe4",
+    "mobius",
+    "abyss",
+    "voice",
+    "guilherme",
+    "batista",
+    "zhi",
+    "ying",
+    "lung",
+    "hsiang",
+    "tai"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -304,
     "offset_y": -156,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -116,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -52,
     "offset_y": -174,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

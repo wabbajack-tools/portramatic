@@ -2,27 +2,55 @@
   "source": "https://i.imgur.com/mCxQlto.jpeg",
   "md5": "492271BED6F2A1C48A19422EAC313899",
   "tags": [
-    ""
+    "",
+    "adventurer",
+    "drawing",
+    "female",
+    "knight",
+    "armor",
+    "black",
+    "dragon",
+    "death",
+    "dark",
+    "souls",
+    "monsters",
+    "tony",
+    "sart",
+    "creature",
+    "monster",
+    "joshua",
+    "rust",
+    "mage",
+    "xib",
+    "vaine",
+    "concept",
+    "challenge",
+    "moritz",
+    "cremer",
+    "2020"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -334,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -161,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -72,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

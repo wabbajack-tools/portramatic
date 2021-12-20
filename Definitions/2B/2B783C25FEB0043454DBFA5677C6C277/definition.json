@@ -26,27 +26,60 @@
     "harder",
     "tiefling",
     "bard",
-    "fan"
+    "fan",
+    "dragon",
+    "age",
+    "origins",
+    "samurai",
+    "female",
+    "assassin",
+    "dungeons",
+    "dragons",
+    "dark",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "wow",
+    "voidelf",
+    "rogue",
+    "will",
+    "morley",
+    "d\u0026d",
+    "shadow",
+    "luca",
+    "mosqa",
+    "2021",
+    "mentorship",
+    "design",
+    "4",
+    "cosmin",
+    "gligor"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -353,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -301,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -26,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

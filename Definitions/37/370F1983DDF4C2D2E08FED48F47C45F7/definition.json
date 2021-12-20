@@ -5,27 +5,58 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "wizard",
+    "seol",
+    "hee",
+    "choi",
+    "concept",
+    "characters",
+    "character",
+    "design",
+    "girl",
+    "butterfly",
+    "yunpong",
+    "yoonhwa,choi",
+    "inspiration",
+    "comic",
+    "pictures",
+    "\uC5D8\uD504",
+    "elf",
+    "taak",
+    "2020",
+    "women",
+    "artwork"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -1106,
     "offset_y": -358,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7214166666666662,
     "offset_x": -509,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8319999999999994,
     "offset_x": -454,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

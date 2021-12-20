@@ -11,27 +11,61 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "imaginary",
+    "landscapes",
+    "paintings",
+    "other",
+    "world",
+    "iron",
+    "man",
+    "armor",
+    "attack",
+    "titan",
+    "spider-man",
+    "he-man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "kishido",
+    "card",
+    "illustration",
+    "jin-hong",
+    "park",
+    "yasuo",
+    "zed",
+    "song",
+    "nan",
+    "li",
+    "https://www",
+    "katya",
+    "cyan",
+    "female",
+    "warrior"
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -298.7999999999997,
     "offset_y": -161.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -99.19999999999976,
     "offset_y": -97.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -0.32407407407481514,
     "offset_y": -1.6018518518526434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

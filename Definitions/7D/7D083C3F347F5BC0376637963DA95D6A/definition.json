@@ -2,27 +2,39 @@
   "source": "https://i.imgur.com/yWbaZv6.jpeg",
   "md5": "7D083C3F347F5BC0376637963DA95D6A",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "character",
+    "dwarves",
+    "tolkien",
+    "skyrim",
+    "dennis",
+    "fr\u00F6hlich",
+    "portraits",
+    "design"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -572,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -354,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -300,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

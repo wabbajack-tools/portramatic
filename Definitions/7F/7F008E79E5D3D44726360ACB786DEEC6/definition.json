@@ -3,27 +3,46 @@
   "md5": "7F008E79E5D3D44726360ACB786DEEC6",
   "tags": [
     "selene",
-    "underworld"
+    "underworld",
+    "blonde",
+    "warrior",
+    "woman",
+    "with",
+    "sword",
+    "elves",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "chuby",
+    "mi",
+    "https://www.artstation.com/artwork/2xyomx",
+    "girl"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -110,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -98,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -250,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

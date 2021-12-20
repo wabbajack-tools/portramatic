@@ -2,27 +2,40 @@
   "source": "https://i.imgur.com/FYUKrxv.png",
   "md5": "90158C99B8512BACF5E04C65933FCEC9",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "rogue",
+    "character",
+    "portraits",
+    "purple",
+    "female",
+    "varg",
+    "mystic",
+    "francis",
+    "brunet"
   ],
   "small": {
     "scale": 1,
     "offset_x": -173,
     "offset_y": -168.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -3.5,
     "offset_y": -48.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": 0,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

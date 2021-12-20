@@ -6,27 +6,40 @@
     "female",
     "dancer",
     "mage",
-    "priest"
+    "priest",
+    "tomb",
+    "raider",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\u5510\u95E8",
+    "dc",
+    "chris"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -115,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3715833333333326,
     "offset_x": -23,
     "offset_y": 1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6217499999999995,
     "offset_x": -2,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

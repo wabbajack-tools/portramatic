@@ -6,27 +6,46 @@
     "female",
     "warrior",
     "samurai",
-    "rogue"
+    "rogue",
+    "darkstar",
+    "skins",
+    "star",
+    "wars",
+    "dark",
+    "lol",
+    "jill",
+    "valentine",
+    "nikita",
+    "volobuev",
+    "resident",
+    "damacia",
+    "man",
+    "eater",
+    "ricardo",
+    "rivera"
   ],
   "small": {
     "scale": 0.5699999999999998,
     "offset_x": -473,
     "offset_y": -390,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.41124999999999934,
     "offset_x": -194,
     "offset_y": -205,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5102499999999996,
     "offset_x": -144,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

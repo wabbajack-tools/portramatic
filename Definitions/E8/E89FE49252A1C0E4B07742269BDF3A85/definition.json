@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/9e/db/9f/9edb9fdc4676cb71acb28644da47683c.jpg",
   "md5": "E89FE49252A1C0E4B07742269BDF3A85",
   "tags": [
-    ""
+    "",
+    "female",
+    "bard",
+    "gnome",
+    "orc",
+    "warrior",
+    "spartan",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sandals",
+    "halberdier",
+    "jackie",
+    "felix",
+    "character",
+    "raluca",
+    "marinescu",
+    "warhammer",
+    "age",
+    "reckoning",
+    "shield",
+    "michael"
   ],
   "small": {
     "scale": 1.4800000000000004,
     "offset_x": -327,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -149,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

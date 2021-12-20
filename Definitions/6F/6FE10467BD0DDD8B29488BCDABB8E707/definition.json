@@ -2,27 +2,43 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/036/823/927/large/insist-__-3.jpg?1618735115",
   "md5": "6FE10467BD0DDD8B29488BCDABB8E707",
   "tags": [
-    ""
+    "",
+    "fairy",
+    "dolls",
+    "porcelain",
+    "white",
+    "queen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -303,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -173,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -184,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

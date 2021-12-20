@@ -2,27 +2,35 @@
   "source": "https://i.imgur.com/xC6Tlhg.jpeg",
   "md5": "99F56461D6496868253ECBF699F37E87",
   "tags": [
-    ""
+    "",
+    "mythical",
+    "birds",
+    "firat",
+    "solhan",
+    "https://www"
   ],
   "small": {
     "scale": 2.3899999999999926,
     "offset_x": -845,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8800000000000008,
     "offset_x": -615,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.329999999999994,
     "offset_x": -470,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

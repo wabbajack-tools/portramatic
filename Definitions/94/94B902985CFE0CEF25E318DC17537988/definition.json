@@ -2,25 +2,34 @@
   "source": "https://static.wikia.nocookie.net/genjitsushugisha/images/6/6d/Georg_Carmine_%28Anime%29.png/revision/latest?cb=20210703211540",
   "md5": "94B902985CFE0CEF25E318DC17537988",
   "tags": [
-    "Georg Carmine II"
+    "Georg Carmine II",
+    "anime",
+    "characters",
+    "naruto",
+    "hinata"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -742.6666666666649,
     "offset_y": -75.33333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -702.6666666666674,
     "offset_y": -14.666666666666714,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -973.3333333333321,
     "offset_y": -5.333333333332689,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

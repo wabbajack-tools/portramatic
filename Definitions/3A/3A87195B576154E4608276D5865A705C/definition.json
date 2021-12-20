@@ -6,27 +6,57 @@
     "female",
     "mage",
     "rogue",
-    "warrior"
+    "warrior",
+    "senna",
+    "league",
+    "legends",
+    "gun",
+    "loading",
+    "screen",
+    "champion",
+    "spider-man",
+    "anime",
+    "girl",
+    "shredder",
+    "pin",
+    "up",
+    "night",
+    "bramasta",
+    "aji",
+    "https://www",
+    "temerian",
+    "scout",
+    "maureen",
+    "\u0027ibealia\u0027",
+    "caudron",
+    "mask",
+    "marco",
+    "silvart",
+    "oni",
+    "digital"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -137,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -70,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -22,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

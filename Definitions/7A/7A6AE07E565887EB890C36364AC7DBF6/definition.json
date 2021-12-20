@@ -16,27 +16,40 @@
     "knights",
     "nikolay",
     "naydenov",
-    "characters"
+    "characters",
+    "topless",
+    "women",
+    "naked",
+    "woman",
+    "nude",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.9500000000000002,
     "offset_x": -166.4444444444439,
     "offset_y": -57.333333333333286,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -54.66666666666674,
     "offset_y": -51.11111111111117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -56.963153384747784,
     "offset_y": -94.28106255355601,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

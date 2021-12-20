@@ -2,27 +2,60 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/002/306/871/medium/jiyeon-ryu-re-d.jpg?1460048326",
   "md5": "158E1C09D61EDC16084CEED813A7BA99",
   "tags": [
-    ""
+    "",
+    "korean",
+    "kumiho",
+    "kitsune",
+    "vs",
+    "mythology",
+    "wonder",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "cleric",
+    "shovel",
+    "kim",
+    "3d",
+    "characters",
+    "nords",
+    "heroes",
+    "north",
+    "plarium",
+    "ukraine",
+    "https://www.artstation.com/artwork",
+    "fanart",
+    "zarya",
+    "overwatch",
+    "chloe",
+    "veillard",
+    "fan",
+    "heroic",
+    "women"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -785,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -361,
     "offset_y": -73,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -148,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

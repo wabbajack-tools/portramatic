@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/c2/37/ac/c237ac5784a94b3304fc3052b0b17cbf.jpg",
   "md5": "6E732FCCF6D788C9F2F78D15F67C2CFF",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "female",
+    "fan",
+    "modern",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "demon",
+    "fabricator",
+    "nirehze[evolves",
+    "shuichi",
+    "medivh",
+    "worgen",
+    "hearthstone",
+    "fanart"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -210,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -280,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -102,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/bd/86/53/bd8653a20dda514ac9b4f86276d6d5eb.jpg",
   "md5": "42AAE45B8055BD6F2B4AD004F5E4A2C6",
   "tags": [
-    "#Barbarian #knight"
+    "#Barbarian #knight",
+    "dark",
+    "anime",
+    "warrior",
+    "knight",
+    "angel",
+    "concept",
+    "game",
+    "thrones",
+    "souls",
+    "dungeons",
+    "dragons",
+    "hjk34",
+    "marina",
+    "krivenko",
+    "character",
+    "space",
+    "gangster",
+    "kircell",
+    "."
   ],
   "small": {
     "scale": 0.9899999999999989,
     "offset_x": -184.0000000000015,
     "offset_y": -121.6000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3900000000000003,
     "offset_x": -232.00000000000028,
     "offset_y": -169.60000000000036,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000007,
     "offset_x": -20.82407407407436,
     "offset_y": -65.67592592592632,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

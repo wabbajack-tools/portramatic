@@ -2,27 +2,50 @@
   "source": "https://images6.alphacoders.com/974/thumb-1920-974337.jpg",
   "md5": "856F706F65AF5818B5860FF9A8E62EE5",
   "tags": [
-    ""
+    "",
+    "vi",
+    "splash",
+    "ezreal",
+    "shen",
+    "league",
+    "legends",
+    "eclipse",
+    "leona",
+    "copy",
+    "for",
+    "my",
+    "practice",
+    "haein",
+    "seo",
+    "kun",
+    "qin",
+    "solar",
+    "sleepy",
+    "sheep",
+    "lol"
   ],
   "small": {
     "scale": 1,
     "offset_x": -854,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -796,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -608,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,45 @@
   "tags": [
     "gnome",
     "female",
-    "mage"
+    "mage",
+    "ahmed",
+    "aldoori",
+    "sketches",
+    "sketchbook",
+    "card",
+    "illustration",
+    "\u6D69",
+    "\u90ED",
+    "https://www",
+    "izanami",
+    "vito",
+    "vivodka",
+    "svarog",
+    "karolina",
+    "nakazato"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -363.7999999999997,
     "offset_y": -82.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -261.1999999999998,
     "offset_y": -10.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -366.3240740740748,
     "offset_y": -13.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

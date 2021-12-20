@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/736x/f0/c1/6d/f0c16d443bfa850b23af8b916a552c44.jpg",
   "md5": "97A319AC2B5F4431F8993AEA289024CD",
   "tags": [
-    ""
+    "",
+    "wow",
+    "orc",
+    "horde",
+    "world",
+    "warcraft",
+    "tauren",
+    "concept",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "heavy",
+    "armor",
+    "barbarians",
+    "goblin",
+    "gears",
+    "war",
+    "rhino",
+    "davi",
+    "blight",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -226,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -146,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 32,
     "offset_y": 40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

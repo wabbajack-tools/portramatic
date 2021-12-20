@@ -20,30 +20,56 @@
     "laylton",
     "sousa",
     "lana",
-    "\"cave",
-    "entrance\"",
+    "\u0022cave",
+    "entrance\u0022",
     "aleksei",
-    "vinogradov"
+    "vinogradov",
+    "hair",
+    "red",
+    "white",
+    "interview",
+    "with",
+    "vampire",
+    "evil",
+    "queen",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "clark",
+    "ocleasa",
+    "https://www.artstation.com/artwork/481z4q",
+    "2020",
+    "challenge",
+    "anna",
+    "helme",
+    "drow",
+    "men"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -256.1428571428569,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -128.28571428571428,
     "offset_y": -27.28571428571422,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -88.71428571428578,
     "offset_y": -2.428571428571445,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,39 @@
   "source": "https://i.imgur.com/X4BXl6S.jpeg",
   "md5": "CC5F4D8331AAEA558C22036942CBB85D",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "berserker",
+    "death",
+    "dealer",
+    "original",
+    "paintings"
   ],
   "small": {
     "scale": 1,
     "offset_x": -243,
     "offset_y": -207,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -186,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -52,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

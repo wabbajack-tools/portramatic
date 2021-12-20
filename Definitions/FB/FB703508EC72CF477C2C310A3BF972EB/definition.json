@@ -14,27 +14,35 @@
     "jazmin",
     "castillo",
     "artwork",
-    "fan"
+    "fan",
+    "overlord",
+    "albedo",
+    "girl",
+    "character",
+    "list"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -481.59999999999985,
     "offset_y": -34.80000000000004,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -370.40000000000003,
     "offset_y": -31.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -579.8703703703695,
     "offset_y": -9.611111111110972,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

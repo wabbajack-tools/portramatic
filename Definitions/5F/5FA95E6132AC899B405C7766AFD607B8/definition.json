@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/3b/53/49/3b534931aba2cede6053f193d6c1c0ec.jpg",
   "md5": "5FA95E6132AC899B405C7766AFD607B8",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "stormtrooper",
+    "costume",
+    "actionfigures",
+    "iron",
+    "man",
+    "plate",
+    "star",
+    "wars",
+    "toys",
+    "suit",
+    "mage",
+    "mikhail",
+    "palamarchuk",
+    "artstation.",
+    "another",
+    "concept.",
+    "victor",
+    "lozada",
+    "\u521B\u4F5C",
+    "\u59DA",
+    "\u8FDC",
+    "with",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1,
     "offset_x": -832,
     "offset_y": -451,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -737,
     "offset_y": -394,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -572,
     "offset_y": -218,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

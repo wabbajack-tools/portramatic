@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/564x/5a/c9/e0/5ac9e0b79835d9c624b4ef7ab3351dcc.jpg",
   "md5": "42331EFCBB385B6C944B66F4C199ED19",
   "tags": [
-    ""
+    "",
+    "pirate",
+    "barbarian",
+    "female",
+    "archer",
+    "human",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shaman",
+    "thea",
+    "kent",
+    "kah",
+    "yan",
+    "choong",
+    "face",
+    "chan",
+    "kang"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -65,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

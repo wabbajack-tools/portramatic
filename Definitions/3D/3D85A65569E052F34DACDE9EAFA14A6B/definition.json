@@ -11,27 +11,53 @@
     "concept",
     "elena",
     "bespalova",
-    "godfist"
+    "godfist",
+    "barbarian",
+    "fan",
+    "diablo",
+    "artwork",
+    "orc",
+    "warrior",
+    "demons",
+    "death",
+    "knight",
+    "darkest",
+    "dungeon",
+    "fallen",
+    "crusader",
+    "grayboxx",
+    "alkrom",
+    "antonio",
+    "j.",
+    "manzanedo",
+    "demon",
+    "burn",
+    "heretic",
+    "bal\u00E1zs",
+    "pir\u00F3k"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -289.7999999999997,
     "offset_y": -276.6000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -76.19999999999976,
     "offset_y": -116.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -44.324074074074815,
     "offset_y": -53.60185185185264,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

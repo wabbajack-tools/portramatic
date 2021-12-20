@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/0b/92/02/0b9202c6cc99cb3fb5918a38a3ec5483.jpg",
   "md5": "137FD908AD2D9E40E314368B36E48FD3",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "female",
+    "unique",
+    "dungeons",
+    "dragons",
+    "orc",
+    "warrior",
+    "orcs",
+    "lord",
+    "rings",
+    "ghired",
+    "conclave",
+    "exile",
+    "magic",
+    "gathering",
+    "yongjae",
+    "choi",
+    "https://www",
+    "gladiators",
+    "tomek",
+    "larek",
+    "dwarf",
+    "cressida",
+    "victor",
+    "quaresma",
+    "heroes",
+    "geek",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -238,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -61,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -98,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

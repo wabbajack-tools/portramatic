@@ -9,27 +9,55 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "hindu",
+    "gods",
+    "greek",
+    "moon",
+    "goddess",
+    "digital",
+    "orc",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "conquers",
+    "another",
+    "world.",
+    "mansik",
+    "yang",
+    "monks",
+    "rui",
+    "jin",
+    "https://www.artstation.com/artwork/vzwb6",
+    "male",
+    "character",
+    "knight",
+    "again",
+    "akha"
   ],
   "small": {
     "scale": 1.7800000000000007,
     "offset_x": -349,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -91,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000003,
     "offset_x": -32,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

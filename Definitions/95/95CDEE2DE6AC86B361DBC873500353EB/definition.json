@@ -17,25 +17,52 @@
     "armor",
     "bronze",
     "male",
-    "bard"
+    "bard",
+    "varangian",
+    "guard",
+    "weapons",
+    "medieval",
+    "helmets",
+    "knight",
+    "heavy",
+    "crusader",
+    "knights",
+    "plate",
+    "toy",
+    "soldiers",
+    "https://www.artstation.com/artwork/oni-3abfa263-5d6a-4dc2",
+    "tome",
+    "holy",
+    "fire",
+    "bartosz",
+    "winkler",
+    "red",
+    "lienum",
+    "thiago",
+    "reis"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -435,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -319,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -228,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/originals/0b/65/b7/0b65b779ad525c7f715fdd285add22dc.jpg",
   "md5": "288149E15E04881B73C4AA9244A784A6",
   "tags": [
-    ""
+    "",
+    "holy",
+    "symbol",
+    "cleric",
+    "symbols",
+    "artstation.com",
+    "twitter",
+    "concept",
+    "characters",
+    "character",
+    "portraits",
+    "skull",
+    "zak",
+    "foreman",
+    "yonghae",
+    "kim"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -455,
     "offset_y": -237,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -178,
     "offset_y": -173,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -166,
     "offset_y": -210,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

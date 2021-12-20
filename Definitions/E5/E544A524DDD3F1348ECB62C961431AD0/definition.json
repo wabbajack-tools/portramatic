@@ -3,25 +3,58 @@
   "md5": "E544A524DDD3F1348ECB62C961431AD0",
   "tags": [
     "Boar",
-    "Rider"
+    "Rider",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "alien",
+    "vs",
+    "predator",
+    "tmnt",
+    "casey",
+    "jones",
+    "alex",
+    "borsuk",
+    "teenage",
+    "mutant",
+    "ninja",
+    "turtles",
+    "artwork",
+    "total",
+    "war",
+    "three",
+    "kingdoms-character",
+    "design_kingdom",
+    "wu\u0026",
+    "taishi",
+    "ci",
+    "lulu",
+    "zhang"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -382,
     "offset_y": -128,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -163,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -286,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

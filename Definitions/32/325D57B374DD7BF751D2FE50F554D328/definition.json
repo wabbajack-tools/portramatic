@@ -2,25 +2,34 @@
   "source": "https://i.pinimg.com/564x/5d/9f/50/5d9f509160e302f51f33865e1c6b04a6.jpg",
   "md5": "325D57B374DD7BF751D2FE50F554D328",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "masquerade",
+    "modern",
+    "male"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -194.40000000000003,
     "offset_y": -11.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -114.39999999999998,
     "offset_y": -14.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -81.6944444444448,
     "offset_y": -8.009259259259125,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

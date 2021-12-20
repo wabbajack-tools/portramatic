@@ -9,27 +9,42 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "legends",
+    "cryptids",
+    "legend",
+    "characters",
+    "panther",
+    "female",
+    "assassin",
+    "blood_sucker_reg",
+    "azora",
+    "studio",
+    "seohee",
+    "rho"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -276,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -80,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000002,
     "offset_x": -82,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

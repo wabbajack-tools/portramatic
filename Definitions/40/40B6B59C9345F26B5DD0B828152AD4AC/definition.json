@@ -9,27 +9,40 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "wuxia",
+    "xianxia",
+    "female",
+    "wallpaper",
+    "anime",
+    "girl",
+    "blood",
+    "elf",
+    "batgirl",
+    "dark"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -285,
     "offset_y": -223,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -109,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3699999999999999,
     "offset_x": -70,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

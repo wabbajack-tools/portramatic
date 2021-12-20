@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/550x/d3/d5/e4/d3d5e4d9d8c0c928ae40d50f9531752d.jpg",
   "md5": "B5B47282631AA35E9A626EA09A4A7C25",
   "tags": [
-    ""
+    "",
+    "aasimar",
+    "male",
+    "portraits",
+    "sorcerer",
+    "death",
+    "knight",
+    "lord",
+    "rings",
+    "reaper",
+    "dark",
+    "elf",
+    "godsaint_hemiteou_reg",
+    "justice",
+    "wong",
+    "king",
+    "thunder_adv",
+    "2019",
+    "a",
+    "soft",
+    "man",
+    "jihwan",
+    "ha"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -10,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

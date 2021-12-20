@@ -4,27 +4,42 @@
   "tags": [
     "outsider",
     "female",
-    "warrior"
+    "warrior",
+    "elf",
+    "girl",
+    "game",
+    "assets",
+    "king",
+    "varian",
+    "wrynn",
+    "farhad",
+    "nojumi",
+    "\u91CE\u732A\u4F69\u5947\u8D34\u56FE",
+    "hao",
+    "lu"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -792.5,
     "offset_y": -156,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999996,
     "offset_x": -606.5,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9399999999999997,
     "offset_x": -613,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

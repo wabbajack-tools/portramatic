@@ -2,27 +2,51 @@
   "source": "https://static.wikia.nocookie.net/elysiumrp/images/0/05/High_Elf_Mage.png/revision/latest?cb=20170331165201",
   "md5": "71F5256C20589B961AA0A23A89831BCA",
   "tags": [
-    ""
+    "",
+    "elf",
+    "wizard",
+    "high",
+    "mage",
+    "names",
+    "dark",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "half-elf",
+    "monks",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "warrior",
+    "jello",
+    "san",
+    "queen",
+    "\uC5EC\uC655",
+    "somi",
+    "kim"
   ],
   "small": {
     "scale": 1,
     "offset_x": -199,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -129,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 58,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

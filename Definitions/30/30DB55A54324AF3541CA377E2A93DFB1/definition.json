@@ -4,27 +4,44 @@
   "tags": [
     "human",
     "fighter",
-    "artstation"
+    "artstation",
+    "red",
+    "haired",
+    "elves",
+    "elf",
+    "girl",
+    "anime",
+    "warrior",
+    "with",
+    "hair",
+    "dark",
+    "garruk",
+    "unleashed",
+    "cristi",
+    "balanescu"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -277.66666666666697,
     "offset_y": -297.6666666666665,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -144.99999999999994,
     "offset_y": -214.33333333333343,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999988,
     "offset_x": -50.6666666666672,
     "offset_y": -13.33333333333377,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

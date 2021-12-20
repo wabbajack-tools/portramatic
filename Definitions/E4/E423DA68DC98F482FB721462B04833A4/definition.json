@@ -2,27 +2,41 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/013/281/715/medium/san-tez-.jpg?1538911759",
   "md5": "E423DA68DC98F482FB721462B04833A4",
   "tags": [
-    ""
+    "",
+    "viking",
+    "girl",
+    "omri",
+    "gilkis",
+    "goblin",
+    "hermit",
+    "david",
+    "ceballos",
+    "l\u00F3pez",
+    "artwork",
+    "character"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -618,
     "offset_y": -295,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -198,
     "offset_y": -171,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -376,
     "offset_y": -216,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

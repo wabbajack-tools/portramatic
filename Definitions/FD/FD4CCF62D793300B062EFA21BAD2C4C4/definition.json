@@ -6,27 +6,37 @@
     "female",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "anime",
+    "girl",
+    "with",
+    "white",
+    "hair",
+    "characters",
+    "disney"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -70,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -51,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -1,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,53 @@
     "female",
     "mage",
     "priest",
-    "dancer"
+    "dancer",
+    "mermaids",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "string_instrument",
+    "harp",
+    "loc",
+    "north",
+    "void",
+    "star",
+    "livia",
+    "prima",
+    "red",
+    "line",
+    "mist",
+    "xg",
+    "japanese",
+    "warrior",
+    "witch",
+    "girl",
+    "\u5149\u7FFC\u5B66\u56ED\u7B2C\u5341\u671F\u7CBE\u54C1\u73ED\u4F18\u79C0\u6BD5\u4E1A\u4F5C\u54C1",
+    "lightwing",
+    "academy"
   ],
   "small": {
     "scale": 0.83,
     "offset_x": -595,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999997,
     "offset_x": -324,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999997,
     "offset_x": -110,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

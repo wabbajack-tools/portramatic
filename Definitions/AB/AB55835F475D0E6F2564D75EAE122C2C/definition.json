@@ -1,28 +1,59 @@
 {
-  "source": "https://external-preview.redd.it/rRf5BOycZ9VdXPQKwE9iXW1TnAKll_JUKc8WlLf_YH8.jpg?auto=webp&s=0c4f58b256af16e70032a7c400774c4b7c6b723b",
+  "source": "https://external-preview.redd.it/rRf5BOycZ9VdXPQKwE9iXW1TnAKll_JUKc8WlLf_YH8.jpg?auto=webp\u0026s=0c4f58b256af16e70032a7c400774c4b7c6b723b",
   "md5": "AB55835F475D0E6F2564D75EAE122C2C",
   "tags": [
-    ""
+    "",
+    "wow",
+    "human",
+    "paladin",
+    "blood",
+    "elf",
+    "fan",
+    "four",
+    "horsemen",
+    "dawn",
+    "war",
+    "legend",
+    "zelda",
+    "chaos",
+    "drive",
+    "mansik",
+    "yang",
+    "an",
+    "avengers",
+    "battle",
+    "daniele",
+    "afferni",
+    "avenger",
+    "hex",
+    "tcg",
+    "changling",
+    "cuties",
+    "eleonora",
+    "\u0022noura"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -336,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -16,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -12,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

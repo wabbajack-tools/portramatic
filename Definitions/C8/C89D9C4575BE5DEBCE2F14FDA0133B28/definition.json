@@ -2,27 +2,55 @@
   "source": "https://64.media.tumblr.com/38e58fbd6a4e22c1bd4ba9cf2f973b1b/f233687e06c78c70-ef/s1280x1920/4ed05bcfd66e8cdbf4a8df20789de45a0093247e.jpg",
   "md5": "C89D9C4575BE5DEBCE2F14FDA0133B28",
   "tags": [
-    ""
+    "",
+    "women",
+    "bikini",
+    "armor",
+    "swimsuit",
+    "elf",
+    "dark",
+    "female",
+    "assassin",
+    "medieval",
+    "knights",
+    "empire",
+    "destruction",
+    "xing",
+    "zhang",
+    "\u7EC3\u4E60",
+    "\u74DC",
+    "\u514B\u6797",
+    "war",
+    "woojae",
+    "choi",
+    "scifi",
+    "concept",
+    "characters",
+    "character",
+    "portraits"
   ],
   "small": {
     "scale": 0.16999999999999926,
     "offset_x": -17,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -10,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -56,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -11,7 +11,7 @@
     "assassin",
     "armor",
     "aftermath",
-    "ângelo",
+    "\uFFFDngelo",
     "bortolini",
     "artifact",
     "stepan",
@@ -20,27 +20,60 @@
     "lady",
     "aleite",
     "david",
-    "sondered"
+    "sondered",
+    "morrowind",
+    "characters",
+    "elder",
+    "scrolls",
+    "online",
+    "skyrim",
+    "barbarians",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "film",
+    "media",
+    "\u0026",
+    "entertainment",
+    "artists",
+    "https://www.artstation.com/artwork/8awpq",
+    "warrior",
+    "artist",
+    "anna",
+    "kharitonova",
+    "https://www.artstation.com/artwork/jqwzv",
+    "character"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -78,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -1,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.329999999999994,
     "offset_x": -12,
     "offset_y": -117,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

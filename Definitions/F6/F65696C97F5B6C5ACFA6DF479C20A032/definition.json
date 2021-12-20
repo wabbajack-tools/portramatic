@@ -4,27 +4,52 @@
   "tags": [
     "female",
     "elf",
-    "mage"
+    "mage",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "league",
+    "legends",
+    "dragon",
+    "wizard",
+    "maxi",
+    "hoy",
+    "warrior",
+    "sun",
+    "shangxiang",
+    "chang",
+    "qing",
+    "gwent",
+    "vernossiel",
+    "competition",
+    "entry",
+    "joe",
+    "horne"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -186,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -119,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -144,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

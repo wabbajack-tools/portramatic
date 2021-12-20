@@ -3,27 +3,57 @@
   "md5": "7E0CAD61BF918DFB26962A1DB4CAF5BA",
   "tags": [
     "female",
-    "wizard"
+    "wizard",
+    "kingmaker",
+    "black",
+    "portraits",
+    "fighter",
+    "assassin",
+    "witcher",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "3\uFF1Aciri",
+    "tao",
+    "yi",
+    "https://www.artstation.com/artwork/the-witcher-3",
+    "nika",
+    "kuznetsova",
+    "https://www.artstation.com/artwork/qa6vea",
+    "dungeons",
+    "spy",
+    "inna",
+    "kozak",
+    "rogues",
+    "artwork",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -281,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9500000000000001,
     "offset_x": -97,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -49,
     "offset_y": -49,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,49 @@
     "female",
     "mage",
     "warrior",
-    "priest"
+    "priest",
+    "lol",
+    "blood",
+    "moon",
+    "diana",
+    "cosplay",
+    "skin",
+    "league",
+    "legends",
+    "for",
+    "cheng\u2026",
+    "flickr",
+    "fan",
+    "repainting",
+    "practice",
+    "genevieve",
+    "g",
+    "ootengu",
+    "ye",
+    "yuan"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -1383,
     "offset_y": -205,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999995,
     "offset_x": -740,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999964,
     "offset_x": -890,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

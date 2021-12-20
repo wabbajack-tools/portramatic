@@ -4,27 +4,50 @@
   "tags": [
     "tiefling",
     "female",
-    "warrior"
+    "warrior",
+    "saxon",
+    "helmet",
+    "9th",
+    "century",
+    "armor",
+    "weapons",
+    "dephanie",
+    "full",
+    "video",
+    "process",
+    "brushes",
+    "yoda",
+    "michael",
+    "peter",
+    "artwork",
+    "black",
+    "death",
+    "apostle",
+    "chris",
+    "cold"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -122.5,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9899999999999998,
     "offset_x": -124.5,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7899166666666673,
     "offset_x": -261,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

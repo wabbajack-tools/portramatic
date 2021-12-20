@@ -22,27 +22,52 @@
     "2020",
     "character",
     "design",
-    "game"
+    "game",
+    "armors",
+    "knight",
+    "armor",
+    "power",
+    "war",
+    "hammer",
+    "\u0027o.n.e.\u0027",
+    "work",
+    "team",
+    "couscous",
+    "https://www.artstation.com/artwork/y6e5k",
+    "3/4",
+    "guard",
+    "john",
+    "tedrick",
+    "psychedelic",
+    "illustration",
+    "portfolio4",
+    "stella",
+    "yeo",
+    "aka",
+    "oroxy"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -778,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -565,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -788,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

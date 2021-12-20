@@ -5,27 +5,35 @@
     "gnome",
     "male",
     "prince",
-    "mage"
+    "mage",
+    "wizard",
+    "boy",
+    "dietz",
+    "little",
+    "lantern"
   ],
   "small": {
     "scale": 0.30999999999999944,
     "offset_x": -467,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999995,
     "offset_x": -368,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5996666666666663,
     "offset_x": -674,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

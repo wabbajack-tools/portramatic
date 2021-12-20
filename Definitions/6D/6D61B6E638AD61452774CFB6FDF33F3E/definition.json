@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/736x/e6/5b/d8/e65bd891ed10764a9dbd187e88857ce4.jpg",
   "md5": "6D61B6E638AD61452774CFB6FDF33F3E",
   "tags": [
-    ""
+    "",
+    "edward",
+    "iii",
+    "tudors",
+    "queen",
+    "england",
+    "accolade",
+    "edmund",
+    "leighton",
+    "moe",
+    "balinger"
   ],
   "small": {
     "scale": 1.150000000000001,
     "offset_x": -393,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -162,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -60,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

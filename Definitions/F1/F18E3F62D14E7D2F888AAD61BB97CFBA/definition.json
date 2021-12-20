@@ -11,27 +11,35 @@
     "rivia",
     "skellige",
     "undvik",
-    "armor"
+    "armor",
+    "digital",
+    "girl",
+    "hair",
+    "female",
+    "blue"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -93.59999999999982,
     "offset_y": -37.600000000001245,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -26.399999999999864,
     "offset_y": -36.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -11.21296296296282,
     "offset_y": -3.2037037037040363,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

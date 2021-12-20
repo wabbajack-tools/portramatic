@@ -1,5 +1,5 @@
 {
-  "source": "https://sun9-59.userapi.com/impf/c855536/v855536920/51026/U9syUrCUD4s.jpg?size=1280x720&quality=96&sign=6cfb00b9084e3d2a17a4667203c5c999&type=album",
+  "source": "https://sun9-59.userapi.com/impf/c855536/v855536920/51026/U9syUrCUD4s.jpg?size=1280x720\u0026quality=96\u0026sign=6cfb00b9084e3d2a17a4667203c5c999\u0026type=album",
   "md5": "03260232B671AF344BFD28B6EB89287C",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 0.46999999999999953,
     "offset_x": -226,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -273,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -636,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

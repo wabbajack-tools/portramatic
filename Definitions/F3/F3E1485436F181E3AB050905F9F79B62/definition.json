@@ -5,27 +5,55 @@
     "tiefling",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "wow",
+    "draenei",
+    "shaman",
+    "paladin",
+    "fan",
+    "world",
+    "warcraft",
+    "league",
+    "legends",
+    "dota",
+    "vengeful",
+    "spirit",
+    "andrea",
+    "orioli",
+    "\u7149\u9B54",
+    "doru",
+    "li",
+    "gwen",
+    "hallowed",
+    "seamstress",
+    "karolina",
+    "nakazato",
+    "2021",
+    "lol",
+    "champions"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -492,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -526,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -528,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

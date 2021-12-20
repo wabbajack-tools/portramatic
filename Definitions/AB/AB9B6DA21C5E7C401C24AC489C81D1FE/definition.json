@@ -5,27 +5,50 @@
     "lord",
     "rings",
     "aragorn",
-    "tavern"
+    "tavern",
+    "wizard",
+    "character",
+    "concept",
+    "steampunk",
+    "male",
+    "staff",
+    "asiritta",
+    "katya",
+    "gudkina",
+    "2021",
+    "myoung",
+    "hwan",
+    "kim",
+    "artstation.",
+    "imagens",
+    "sci-fi",
+    "design",
+    "dmitry",
+    "lyapin",
+    "sci"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -462.20000000000016,
     "offset_y": -265.2000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -185.60000000000008,
     "offset_y": -132.60000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -44.85185185185219,
     "offset_y": -95.68518518518545,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

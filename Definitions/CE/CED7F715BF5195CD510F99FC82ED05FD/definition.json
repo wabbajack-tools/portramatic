@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/736x/4c/7d/95/4c7d9584930baab480e6f5f235f4ca3a.jpg",
   "md5": "CED7F715BF5195CD510F99FC82ED05FD",
   "tags": [
-    ""
+    "",
+    "dark",
+    "demon",
+    "anime",
+    "half",
+    "angel",
+    "boy",
+    "names",
+    "predator",
+    "souls",
+    "armored",
+    "archangel",
+    "aaron",
+    "lin",
+    "asmoday",
+    "francine",
+    "bridge",
+    "ajani",
+    "goldmane",
+    "victor",
+    "fern\u00E1ndez",
+    "https://www.artstation.com/artwork/kld8b"
   ],
   "small": {
     "scale": 0.9583333333333333,
     "offset_x": -252,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6766666666666666,
     "offset_x": -66,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9908333333333333,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

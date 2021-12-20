@@ -15,27 +15,59 @@
     "iray",
     "3dgirl",
     "dazstudio",
-    "beautifulsexy"
+    "beautifulsexy",
+    "female",
+    "knight",
+    "warrior",
+    "digital",
+    "character",
+    "assassin",
+    "death",
+    "world",
+    "warcraft",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "demonic",
+    "seok",
+    "jeon",
+    "kaiser_acher_01",
+    "kim",
+    "seung",
+    "uk",
+    "3d",
+    "girl",
+    "concept",
+    "b.elin",
+    "."
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -143,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -62,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -52,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

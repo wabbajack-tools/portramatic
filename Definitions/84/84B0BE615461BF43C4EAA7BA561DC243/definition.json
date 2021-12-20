@@ -5,27 +5,57 @@
     "human",
     "female",
     "rogue",
-    "mage"
+    "mage",
+    "adult",
+    "fairy",
+    "tale",
+    "red",
+    "riding",
+    "hood",
+    "brothers",
+    "grimm",
+    "little",
+    "panty",
+    "stocking",
+    "swimsuits",
+    "cosplay",
+    "girls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "glasses",
+    "aerith",
+    "sakimi",
+    "chan",
+    "bazooka",
+    "mariana",
+    "alves"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -231,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -59,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -7,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

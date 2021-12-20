@@ -3,27 +3,47 @@
   "md5": "6D55CE6800470A70F321CD900DEAE216",
   "tags": [
     "rey",
-    "d&amp;d"
+    "d\u0026amp;d",
+    "girl",
+    "with",
+    "red",
+    "hair",
+    "drawing",
+    "woman",
+    "pink",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "vampire",
+    "masquerade",
+    "kathy",
+    "glens",
+    "amy"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -30,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -19,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -28,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

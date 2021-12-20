@@ -6,27 +6,55 @@
     "male",
     "warrior",
     "rogue",
-    "hunter"
+    "hunter",
+    "anime",
+    "man",
+    "with",
+    "sword",
+    "guy",
+    "people",
+    "swords",
+    "dynasty",
+    "warriors",
+    "knight",
+    "armor",
+    "female",
+    "pirate",
+    "assassin",
+    "samurai",
+    "spartan",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "ares",
+    "\u738B\u5609\u71DA",
+    "character",
+    "woman",
+    "prince",
+    "du",
+    "hugh.",
+    "y"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -1017,
     "offset_y": -343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6015833333333327,
     "offset_x": -487,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5819999999999992,
     "offset_x": -296,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

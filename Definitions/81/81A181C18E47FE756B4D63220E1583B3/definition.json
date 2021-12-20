@@ -7,27 +7,53 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "morrigan",
+    "feixiong",
+    "fan",
+    "2021",
+    "character",
+    "artwork",
+    "necromancer",
+    "anna",
+    "tsvir",
+    "roleplay",
+    "characters",
+    "women",
+    "\u0022you",
+    "think",
+    "i\u0027m",
+    "crazy",
+    "you",
+    "should",
+    "see",
+    "my",
+    "sister!\u0022",
+    "nixri",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -339.0666666666651,
     "offset_y": -73.46666666668182,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -235.6666666666644,
     "offset_y": -78.33333333334247,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -72.10185185185253,
     "offset_y": -11.972222222223422,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

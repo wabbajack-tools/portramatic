@@ -7,27 +7,51 @@
     "mad1984",
     "mad",
     "1984",
-    "female"
+    "female",
+    "drow",
+    "knight",
+    "monk",
+    "rogue",
+    "actionfigures",
+    "irene",
+    "black",
+    "light",
+    "alexander",
+    "chiveli",
+    "navarro",
+    "concept",
+    "dungeons",
+    "dragons",
+    "heroes",
+    "xi",
+    "hazmi",
+    "thariq",
+    "2021",
+    "character",
+    "portraits"
   ],
   "small": {
     "scale": 0.5999999999999998,
     "offset_x": -556.6666666666611,
     "offset_y": -111.06666666668167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -210.86666666666645,
     "offset_y": -83.93333333334158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -107.3425925925934,
     "offset_y": -55.22222222222331,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

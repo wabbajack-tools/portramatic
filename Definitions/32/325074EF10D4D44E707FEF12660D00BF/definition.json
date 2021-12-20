@@ -5,27 +5,50 @@
     "human",
     "female",
     "warrior",
-    "priest"
+    "priest",
+    "valkyrie",
+    "armour",
+    "norse",
+    "armor",
+    "mythology",
+    "dynasty",
+    "warriors",
+    "princess",
+    "ilia",
+    "east",
+    "river",
+    "character",
+    "half",
+    "oni",
+    "bugeon",
+    "choi",
+    "girl",
+    "concept",
+    "wgdan",
+    "tawfik"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -1015.7999999999997,
     "offset_y": -580.6000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.43016666666666636,
     "offset_x": -271.1999999999998,
     "offset_y": -173.60000000000042,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.611416666666666,
     "offset_x": -266.3240740740748,
     "offset_y": -181.6018518518527,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

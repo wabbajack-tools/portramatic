@@ -4,27 +4,57 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "stanley",
+    "artgerm",
+    "wonder",
+    "woman",
+    "magazine",
+    "cover",
+    "lau",
+    "gallery",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "marcela",
+    "medeiros",
+    "critical",
+    "role",
+    "fan",
+    "legend",
+    "cryptids",
+    "kiyocat",
+    "illust",
+    "watercolor",
+    "feat.",
+    "photoshop",
+    "rd",
+    "owens"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -169,
     "offset_y": -226,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -73,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -45,
     "offset_y": -75,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

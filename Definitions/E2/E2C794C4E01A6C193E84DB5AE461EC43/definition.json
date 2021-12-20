@@ -4,27 +4,60 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "wizard",
+    "sorcerer",
+    "dark",
+    "oz",
+    "staff",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "league",
+    "legends",
+    "banshee",
+    "juyoung",
+    "ha",
+    "untitle",
+    "2020",
+    "digital",
+    "a",
+    "hunter",
+    "must",
+    "hunt",
+    "pavl\u00EDna",
+    "chrastn\u00E1",
+    "aira__c",
+    "christmas",
+    "carol",
+    "nicholas",
+    "kole",
+    "ghost",
+    "past"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -220,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4799999999999996,
     "offset_x": -199,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -328,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

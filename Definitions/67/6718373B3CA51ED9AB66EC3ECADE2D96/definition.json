@@ -5,27 +5,63 @@
     "human",
     "male",
     "monk",
-    "warrior"
+    "warrior",
+    "drawing",
+    "dungeons",
+    "dragons",
+    "character",
+    "dd",
+    "scarlet",
+    "witch",
+    "game",
+    "thrones",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "dragon",
+    "age",
+    "origins",
+    "usun",
+    "master",
+    "david",
+    "gaillet",
+    "2020",
+    "lucan",
+    "alabaster",
+    "company",
+    "brian",
+    "valeza",
+    "artstation.",
+    "#4",
+    "avengers",
+    "endgame",
+    "valkyrie",
+    "melvin",
+    "quito"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -573,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -340,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -316,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

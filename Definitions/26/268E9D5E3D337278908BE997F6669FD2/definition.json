@@ -2,27 +2,55 @@
   "source": "https://pm1.narvii.com/7738/735577ffb7888ffbbc7bc832884b7e0be338591br1-750-1331v2_hq.jpg",
   "md5": "268E9D5E3D337278908BE997F6669FD2",
   "tags": [
-    ""
+    "",
+    "monk",
+    "concept",
+    "fighter",
+    "rogue",
+    "character",
+    "night",
+    "elf",
+    "female",
+    "assassin",
+    "dark",
+    "nina",
+    "galinska",
+    "https://www.artstation.com/artwork/b8wwk",
+    "ars",
+    "goetia",
+    "demons",
+    "le",
+    "vuong",
+    "drawing",
+    "poses",
+    "characters",
+    "young",
+    "archmage",
+    "sohee",
+    "kim"
   ],
   "small": {
     "scale": 1,
     "offset_x": -203,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 64,
     "offset_y": 28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

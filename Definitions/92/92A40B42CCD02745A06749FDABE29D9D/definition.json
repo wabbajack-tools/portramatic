@@ -2,27 +2,52 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7877bcc-d974-48a0-8f76-8183f74a620e/delianb-a19ea51d-55c7-42d3-b8f7-762ed6cf87ca.jpg/v1/fill/w_1024,h_1449,q_75,strp/cyrus_thorngage_by_iromonik_delianb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcL2U3ODc3YmNjLWQ5NzQtNDhhMC04Zjc2LTgxODNmNzRhNjIwZVwvZGVsaWFuYi1hMTllYTUxZC01NWM3LTQyZDMtYjhmNy03NjJlZDZjZjg3Y2EuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.xk8mjfYM7UTp-_x_TzrPuNiX_-g92aT9oYkFnlZc8ek",
   "md5": "92A40B42CCD02745A06749FDABE29D9D",
   "tags": [
-    ""
+    "",
+    "ocarina",
+    "time",
+    "orc",
+    "warrior",
+    "world",
+    "warcraft",
+    "rogue",
+    "legend",
+    "zelda",
+    "wounded",
+    "gui",
+    "guimaraes",
+    "female",
+    "knight",
+    "kael\u0027thrimar",
+    "ina",
+    "wong",
+    "memento",
+    "mori",
+    "anarchic",
+    "fox",
+    "https://www"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -398,
     "offset_y": -213,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -163,
     "offset_y": -109,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -24,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

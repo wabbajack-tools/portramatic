@@ -2,27 +2,46 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ac9e42a-dfc6-41e9-b0de-ab58337bdd1b/ddvj69j-462c044f-89bc-4537-a25c-fe64ca1b12df.jpg/v1/fill/w_1280,h_1670,q_75,strp/viking_by_shredderdima_ddvj69j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY3MCIsInBhdGgiOiJcL2ZcLzZhYzllNDJhLWRmYzYtNDFlOS1iMGRlLWFiNTgzMzdiZGQxYlwvZGR2ajY5ai00NjJjMDQ0Zi04OWJjLTQ1MzctYTI1Yy1mZTY0Y2ExYjEyZGYuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PszYT-4jvn0e_bF6mK08KB6jeV5es0k82lC0JQG0hf4",
   "md5": "5EBEAF2299EA4335D8D723CD4EB1D648",
   "tags": [
-    ""
+    "",
+    "skyrim",
+    "helen",
+    "magician",
+    "zelei",
+    "guo",
+    "jury",
+    "exiled",
+    "paladin",
+    "@commandeer",
+    "tcg",
+    "lonwa",
+    "a",
+    "bard",
+    "henrique",
+    "dld",
+    "character"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -640,
     "offset_y": -366,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -215,
     "offset_y": -172,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -42,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

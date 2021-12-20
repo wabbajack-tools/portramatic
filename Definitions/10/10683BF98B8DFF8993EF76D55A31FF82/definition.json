@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/a6/46/24/a646245c5fb0c0d262b8091c1b75376f.jpg",
   "md5": "10683BF98B8DFF8993EF76D55A31FF82",
   "tags": [
-    ""
+    "",
+    "katelin",
+    "chesna",
+    "anthony",
+    "meindl",
+    "kiddyzuzaa",
+    "characters",
+    "lord",
+    "rings",
+    "witcher",
+    "fan",
+    "aleksey",
+    "zhukov",
+    "fellwater",
+    "troggoths",
+    "catherine",
+    "o\u0027connor",
+    "warhammer",
+    "miniatures",
+    "ves",
+    "gwent",
+    "fanart",
+    "oksana",
+    "kerro",
+    "character",
+    "skins"
   ],
   "small": {
     "scale": 1,
     "offset_x": -238,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -183,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 20,
     "offset_y": 44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

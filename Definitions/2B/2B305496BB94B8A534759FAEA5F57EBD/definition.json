@@ -44,27 +44,57 @@
     "psychic",
     "bri",
     "sky",
-    "https://www.artstation.com/artwork/psychic-0c59b009"
+    "https://www.artstation.com/artwork/psychic-0c59b009",
+    "druid",
+    "wizard",
+    "armors",
+    "dark",
+    "elf",
+    "wood",
+    "dawn",
+    "war",
+    "crusade",
+    "spartan",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "sandals",
+    "fireblind",
+    "cleric",
+    "a.e.",
+    "coggon",
+    "firbolg",
+    "bastien",
+    "aufrere",
+    "girl",
+    "with",
+    "pride",
+    "vahid",
+    "ahmadi",
+    "including"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -233,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -263,
     "offset_y": -84,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -92,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

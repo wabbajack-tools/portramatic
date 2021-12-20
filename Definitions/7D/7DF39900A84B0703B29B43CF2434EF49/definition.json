@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/originals/4d/76/5f/4d765fd6f47a59866f69ed1cf21388f7.png",
   "md5": "7DF39900A84B0703B29B43CF2434EF49",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "bard",
+    "drow",
+    "female",
+    "short",
+    "haircut",
+    "braided",
+    "hairstyles",
+    "red",
+    "hair"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -17,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": 0,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -76,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

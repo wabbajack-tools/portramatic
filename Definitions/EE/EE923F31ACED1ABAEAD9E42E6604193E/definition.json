@@ -2,25 +2,45 @@
   "source": "https://img-9gag-fun.9cache.com/photo/aV7VbXP_700bwp.webp",
   "md5": "EE923F31ACED1ABAEAD9E42E6604193E",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "desktop",
+    "black",
+    "wallpaper",
+    "knight",
+    "saproling",
+    "token/playmat",
+    "david",
+    "su",
+    "lady",
+    "butterfly",
+    "n\u014Dhime",
+    "agus",
+    "sw",
+    "artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -273,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -250,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9600000000000009,
     "offset_x": -440,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

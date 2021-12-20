@@ -14,27 +14,50 @@
     "jazmin",
     "castillo",
     "artwork",
-    "fan"
+    "fan",
+    "queen",
+    "devil",
+    "dungeons",
+    "dragons",
+    "chaos",
+    "dragon",
+    "knight",
+    "order",
+    "dix",
+    "shou",
+    "\u795E\u7344\u306E\u30F4\u30A1\u30EB\u30CF\u30E9\u30B2\u30FC\u30C8",
+    "k",
+    "ei",
+    "character",
+    "design",
+    "male",
+    "oh",
+    "april",
+    "dede",
+    "artstation."
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -109,
     "offset_y": -253,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -144,
     "offset_y": -353,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -158,
     "offset_y": -556,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

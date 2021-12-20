@@ -6,27 +6,48 @@
     "female",
     "mage",
     "rogue",
-    "archer"
+    "archer",
+    "league",
+    "legends",
+    "night",
+    "blood",
+    "dark",
+    "anime",
+    "girl",
+    "damacia",
+    "man",
+    "eater",
+    "ricardo",
+    "rivera",
+    "sylvanas",
+    "windrunner",
+    "\u5B8C\u5168\u611F\u899A",
+    "dreamer",
+    "matt",
+    "demino"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -198,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -66,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -32,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

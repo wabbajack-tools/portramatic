@@ -1,26 +1,40 @@
 {
-  "source": "https://preview.redd.it/ef4dak54pn271.jpg?width=640&crop=smart&auto=webp&s=796dc41544df29ac86305232874e4636239bf12a",
+  "source": "https://preview.redd.it/ef4dak54pn271.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=796dc41544df29ac86305232874e4636239bf12a",
   "md5": "2E1FAE4A905E101852032EE01B4FDC30",
   "tags": [
-    ""
+    "",
+    "orc",
+    "cyborg",
+    "course",
+    "\uD83D\uDE03nikolay",
+    "naydenov\uD83D\uDE03",
+    "kargath",
+    "bladefist",
+    "vladislav",
+    "nutfullin"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -54,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -28,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": 16,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

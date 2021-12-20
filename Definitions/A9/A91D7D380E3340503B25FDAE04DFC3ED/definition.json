@@ -8,27 +8,52 @@
     "nissa",
     "revane",
     "mtg",
-    "fan"
+    "fan",
+    "nyx",
+    "gods",
+    "gorgon",
+    "kruphix",
+    "ciri",
+    "alex",
+    "oksana",
+    "witcher",
+    "dark",
+    "battle",
+    "sedrik",
+    "vs",
+    "count",
+    "blake",
+    "guilherme",
+    "batista",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -472,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -373,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6900000000000006,
     "offset_x": -692,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -22,27 +22,50 @@
     "durga",
     "kevin",
     "sidharta",
-    "https://www.artstation.com/artwork/x0moe"
+    "https://www.artstation.com/artwork/x0moe",
+    "kingmaker",
+    "characters",
+    "portraits",
+    "custom",
+    "witcher",
+    "knight",
+    "armor",
+    "game",
+    "thrones",
+    "paladin",
+    "butcher",
+    "tomas",
+    "duchek",
+    "https://www",
+    "fallen",
+    "assets",
+    "archer",
+    "warrior",
+    "sam",
+    "leung"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -375,
     "offset_y": -152.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -223.5,
     "offset_y": -121.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999972,
     "offset_x": -63,
     "offset_y": -93.5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

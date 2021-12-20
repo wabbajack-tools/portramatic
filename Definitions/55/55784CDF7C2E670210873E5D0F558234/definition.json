@@ -5,27 +5,56 @@
     "pathfinder",
     "kingmaker",
     "romance",
-    "options"
+    "options",
+    "knight",
+    "armor",
+    "elder",
+    "scrolls",
+    "online",
+    "auroponte",
+    "dii",
+    "m.",
+    "lucy",
+    "zhu",
+    "a",
+    "character",
+    "for",
+    "project",
+    "\u201Ethrone",
+    "kingdom",
+    "war\u201C",
+    "oleg",
+    "lychagin",
+    "bounty",
+    "hunter",
+    "koowa",
+    "_",
+    "king",
+    "warrior",
+    "dark"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -259.8000000000008,
     "offset_y": -38.7999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -114.19999999999999,
     "offset_y": -4.7999999999999545,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -0.13888888888868678,
     "offset_y": -22.916666666667084,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

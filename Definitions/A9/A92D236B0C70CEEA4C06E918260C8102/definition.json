@@ -5,27 +5,47 @@
     "human",
     "female",
     "warrior",
-    "mage"
+    "mage",
+    "anime",
+    "girl",
+    "an",
+    "assassin",
+    "with",
+    "two",
+    "blades",
+    "han",
+    "park",
+    "attack",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "2020",
+    "dragon_sword_red_oriental",
+    "jin",
+    "jurin"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -1109,
     "offset_y": -429,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -675,
     "offset_y": -208,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -492,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

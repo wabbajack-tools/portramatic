@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/originals/d4/8b/42/d48b429faa8394a4d04f561d9f584e7d.jpg",
   "md5": "AD3F4A5310E16CE9444DAF8906B93C2A",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "character",
+    "human",
+    "male",
+    "walking",
+    "dead",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -36,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -55,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -50,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

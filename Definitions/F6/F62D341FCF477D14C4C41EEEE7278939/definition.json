@@ -6,27 +6,42 @@
     "female",
     "warrior",
     "mage",
-    "priest"
+    "priest",
+    "sadi",
+    "\u0026",
+    "kairora",
+    "tina",
+    "yeh",
+    "work",
+    "\u5355",
+    "jason",
+    "nuzhat",
+    "al-zaman",
+    "wei",
+    "chen"
   ],
   "small": {
     "scale": 0.42999999999999994,
     "offset_x": -417,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3712499999999994,
     "offset_x": -211,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4405833333333329,
     "offset_x": -102,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

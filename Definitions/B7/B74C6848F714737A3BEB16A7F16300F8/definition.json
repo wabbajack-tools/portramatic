@@ -5,27 +5,51 @@
     "human",
     "male",
     "warrior",
-    "king"
+    "king",
+    "steampunk",
+    "character",
+    "concept",
+    "cyberpunk",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "practice",
+    "20160724",
+    "guang-shang",
+    "fu",
+    "guangshang",
+    "bounty",
+    "hunter",
+    "daniele",
+    "solimene",
+    "knight",
+    "chang",
+    "jae",
+    "lee"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -651,
     "offset_y": -344,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -408,
     "offset_y": -209,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -104,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/42/13/35/42133578e84a0a4bb9a4249f167b732c.jpg",
   "md5": "09CC3884DFBACB34E9B16F8FB3C7AF8C",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "warrior",
+    "drawing",
+    "dark",
+    "wood",
+    "night",
+    "elves",
+    "high",
+    "lord",
+    "rings",
+    "gwent",
+    "vernossiel",
+    "competition",
+    "entry",
+    "joe",
+    "horne",
+    "forest",
+    "keeper",
+    "surya",
+    "prasetya",
+    "prila",
+    "nissa",
+    "roy",
+    "ugang"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -172,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": 0,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -2,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,46 @@
   "source": "https://gal.cdn.renderosity.com/images/image_2716079/24935d81d5e31c75a0dc30aba1bd3250_original.jpg?v=1478551042",
   "md5": "101D7A0048654769F138D56BDE79D256",
   "tags": [
-    "Half-elf-female"
+    "Half-elf-female",
+    "female",
+    "mage",
+    "concept",
+    "red",
+    "drawings",
+    "widowmaker",
+    "alice",
+    "hamel",
+    "ellie",
+    "stephen",
+    "miller",
+    "battle",
+    "angle",
+    "shai",
+    "daniel",
+    "anime"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -153,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -133,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -116,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

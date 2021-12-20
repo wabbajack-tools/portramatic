@@ -5,27 +5,53 @@
     "human",
     "male",
     "warrior",
-    "prince"
+    "prince",
+    "deadlands",
+    "characters",
+    "rpg",
+    "artwork",
+    "roman",
+    "emperors",
+    "ancient",
+    "greek",
+    "gladiators",
+    "egypt",
+    "insane",
+    "general",
+    "regular",
+    "version",
+    "reynan",
+    "sanchez",
+    "http://www.artstation.com",
+    "erik",
+    "ly",
+    "character",
+    "design",
+    "samurai",
+    "centurion"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -439,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9400000000000001,
     "offset_x": -276,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0296666666666667,
     "offset_x": -176,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

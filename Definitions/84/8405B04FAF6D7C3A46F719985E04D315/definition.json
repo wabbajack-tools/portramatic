@@ -2,27 +2,55 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7af88dfc-1056-4b79-9572-04ef3fdbba49/dan9ga2-58375880-f8e9-4905-ba6e-e346146f69ca.jpg/v1/fill/w_1024,h_1449,q_75,strp/inquisitor_by_thedurrrrian_dan9ga2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcLzdhZjg4ZGZjLTEwNTYtNGI3OS05NTcyLTA0ZWYzZmRiYmE0OVwvZGFuOWdhMi01ODM3NTg4MC1mOGU5LTQ5MDUtYmE2ZS1lMzQ2MTQ2ZjY5Y2EuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.VZQSHew5onYkbz8GI00OGXnJ3EK2QyBFA6kdwt8BhuY",
   "md5": "8405B04FAF6D7C3A46F719985E04D315",
   "tags": [
-    ""
+    "",
+    "female",
+    "knight",
+    "digital",
+    "warrior",
+    "paladin",
+    "concept",
+    "skyrim",
+    "witcher",
+    "elder",
+    "scrolls",
+    "online",
+    "pirates",
+    "caribbean",
+    "pirate",
+    "zombies",
+    "3:wild",
+    "hunt_the",
+    "wolf",
+    "\u0026",
+    "swallow",
+    "agus",
+    "sw",
+    "inspiration",
+    "emilian",
+    "enache"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -615,
     "offset_y": -405,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -370,
     "offset_y": -307,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -2,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

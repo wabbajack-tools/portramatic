@@ -1,5 +1,5 @@
 {
-  "source": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0139f95544f1dd0000019ae9364339.jpg%40900w_1l_2o_100sh.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636635352&t=d3495e105e3a685c8322432479253fe0",
+  "source": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0139f95544f1dd0000019ae9364339.jpg%40900w_1l_2o_100sh.jpg\u0026refer=http%3A%2F%2Fimg.zcool.cn\u0026app=2002\u0026size=f9999,10000\u0026q=a80\u0026n=0\u0026g=0n\u0026fmt=jpeg?sec=1636635352\u0026t=d3495e105e3a685c8322432479253fe0",
   "md5": "2B9CF8B582C8A80B7F48D5B0BF02362D",
   "tags": [
     "painting",
@@ -15,25 +15,46 @@
     "photography",
     "photo",
     "female",
-    ""
+    "",
+    "castlevania",
+    "lords",
+    "shadow",
+    "dark",
+    "souls",
+    "elf",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "rui",
+    "li",
+    "warrior",
+    "update",
+    "marishka",
+    "kleyman"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -260.99999999999784,
     "offset_y": -100.39999999999992,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -112.00000000000023,
     "offset_y": -9.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -32.037037037037635,
     "offset_y": -20.82407407407402,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

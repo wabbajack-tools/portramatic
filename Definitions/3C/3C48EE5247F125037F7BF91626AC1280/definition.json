@@ -2,27 +2,65 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/008/333/039/large/todor-hristov-17fpost.jpg",
   "md5": "3C48EE5247F125037F7BF91626AC1280",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "fan",
+    "male",
+    "paladin",
+    "warlock",
+    "wow",
+    "dungeons",
+    "dragons",
+    "night",
+    "demon",
+    "hunter",
+    "freelance",
+    "for",
+    "hex",
+    "dmitry",
+    "klyushkin",
+    "character",
+    "design",
+    "artwork",
+    "characters",
+    "world",
+    "warcraft",
+    "grommash",
+    "hellscream",
+    "alberto",
+    "chuqui",
+    "diablo",
+    "3d",
+    "lowpoly",
+    "handpainted",
+    "joker",
+    "y",
+    "hand",
+    "painted"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -300,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -21,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -34,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

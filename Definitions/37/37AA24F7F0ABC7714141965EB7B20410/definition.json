@@ -33,27 +33,53 @@
     "design",
     "hanoman",
     "ari",
-    "yanto"
+    "yanto",
+    "knight",
+    "black",
+    "paintings",
+    "warhammer",
+    "40k",
+    "orcs",
+    "mad",
+    "1984",
+    "dragon",
+    "pictures",
+    "artwork",
+    "caessol_lion",
+    "luca",
+    "xu",
+    "https://www.artstation.com/artwork/1nb8qx",
+    "prince",
+    "persia",
+    "revenge",
+    "fate",
+    "concept",
+    "04",
+    "aboy",
+    "ningthouja"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -319,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -60,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -37,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

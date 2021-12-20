@@ -5,27 +5,44 @@
     "human",
     "priest",
     "female",
-    "mtg"
+    "mtg",
+    "virgen",
+    "de",
+    "guadalupe",
+    "pictures",
+    "jesus",
+    "nativity",
+    "judith",
+    "holofernes",
+    "oil",
+    "paintings",
+    "strife\u0027s",
+    "jinshe",
+    "stuart",
+    "harrington"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -533,
     "offset_y": -139,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -399,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -262,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

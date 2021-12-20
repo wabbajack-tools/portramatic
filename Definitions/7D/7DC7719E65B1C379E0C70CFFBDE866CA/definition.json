@@ -5,27 +5,61 @@
     "human",
     "female",
     "priest",
-    "mage"
+    "mage",
+    "woman",
+    "digital",
+    "wallpapers",
+    "beautiful",
+    "angel",
+    "hot",
+    "women",
+    "paintings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "freya\u0027s",
+    "basebody",
+    "shin",
+    "jeongho",
+    "gucci",
+    "gwenpool",
+    "greamy",
+    "comic",
+    "girl",
+    "steampunk",
+    "characters",
+    "character",
+    "design",
+    "hathor",
+    "shumolly",
+    ".",
+    "https://www.artstation.com/artwork/lvbdvo",
+    "artwork"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -345,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -177,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -152,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

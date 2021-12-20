@@ -17,25 +17,54 @@
     "armor",
     "bronze",
     "male",
-    "bard"
+    "bard",
+    "varangian",
+    "helmets",
+    "warrior",
+    "world",
+    "warcraft",
+    "rogue",
+    "game",
+    "thrones",
+    "viking",
+    "sea",
+    "wolf.",
+    "dedicated",
+    "to",
+    "my",
+    "friend",
+    "poseidon",
+    "character",
+    "card",
+    "alexander",
+    "levett",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -131,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -18,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -2,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -5,27 +5,48 @@
     "human",
     "female",
     "mage",
-    "rogue"
+    "rogue",
+    "dd",
+    "dancer",
+    "shadow",
+    "blade",
+    "psp",
+    "pirate",
+    "faeries",
+    "taras",
+    "susak",
+    "characters",
+    "lady",
+    "aleite",
+    "david",
+    "sondered",
+    "reptas",
+    "ana\u00EFs",
+    "lehoux",
+    "concept"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -680,
     "offset_y": -304,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -347,
     "offset_y": -183,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999997,
     "offset_x": -218,
     "offset_y": -178,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

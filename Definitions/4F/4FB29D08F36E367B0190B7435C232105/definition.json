@@ -2,27 +2,48 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921351127176454154/md_umo_figo_con_spallaccio_leonino.jpg",
   "md5": "4FB29D08F36E367B0190B7435C232105",
   "tags": [
-    ""
+    "",
+    "mermaid",
+    "exotic",
+    "paintings",
+    "mythical",
+    "cyberpunk",
+    "samurai",
+    "real",
+    "time",
+    "allen",
+    "germinal",
+    "goliath",
+    "gladiator",
+    "kevin",
+    "webb",
+    "odin",
+    "simon",
+    "zhong",
+    "cartoon"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -322.5,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -166.5,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -61,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

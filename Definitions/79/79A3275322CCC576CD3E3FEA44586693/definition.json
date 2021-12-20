@@ -5,27 +5,38 @@
     "whisp",
     "gnome",
     "wizard",
-    "mattforsyth"
+    "mattforsyth",
+    "anime",
+    "girl",
+    "with",
+    "armor",
+    "guy",
+    "armorsuit",
+    "guys",
+    "characters"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -764.6666666666581,
     "offset_y": -606.3333333333287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -595.6666666666665,
     "offset_y": -345.0000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -769.9999999999994,
     "offset_y": -304.6666666666666,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,49 @@
   "source": "https://i.pinimg.com/originals/63/8e/24/638e24da43f71ecfc49eb96bb89eb543.jpg",
   "md5": "99576A342A6DD207F43564EF910D3857",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "girl",
+    "drawings",
+    "beautiful",
+    "woman",
+    "female",
+    "warriors",
+    "with",
+    "swords",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "characters",
+    "for",
+    "advertising",
+    "banners"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -124,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -62,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -2,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -6,27 +6,50 @@
     "female",
     "warrior",
     "rogue",
-    "mage"
+    "mage",
+    "dark",
+    "dragon",
+    "demon",
+    "armor",
+    "concept",
+    "assassin",
+    "xena",
+    "demeter",
+    "guilherme",
+    "motta",
+    "green",
+    "goblin",
+    "halloween",
+    "2018",
+    "jay",
+    "doherty",
+    "autumn",
+    "stroll",
+    "ed",
+    "rogers"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -306,
     "offset_y": -229,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -67,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -14,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,63 @@
   "source": "https://images6.alphacoders.com/115/thumb-1920-1159915.jpg",
   "md5": "20CB310DD2B37023424FDB2868B461F1",
   "tags": [
-    ""
+    "",
+    "reportage",
+    "drawing",
+    "cabin",
+    "restaurant",
+    "rubrik",
+    "logo",
+    "league",
+    "legends",
+    "archangels",
+    "red",
+    "dragon",
+    "fallen",
+    "paladin",
+    "lubomir",
+    "hij",
+    "freelance",
+    "for",
+    "hex",
+    "dmitry",
+    "klyushkin",
+    "artstation.",
+    "illustration",
+    "character",
+    "design",
+    "d\u0026d",
+    "showdown",
+    "with",
+    "count",
+    "strahd",
+    "caravan",
+    "2021",
+    "male",
+    "vampire"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -725,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -466,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -592,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

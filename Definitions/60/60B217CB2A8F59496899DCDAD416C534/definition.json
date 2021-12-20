@@ -2,27 +2,35 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6871ec28-a448-4d06-9bb4-099933fa1493/dcqq1g-c5fb29eb-606f-45dd-936a-d861cc485e12.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4NzFlYzI4LWE0NDgtNGQwNi05YmI0LTA5OTkzM2ZhMTQ5M1wvZGNxcTFnLWM1ZmIyOWViLTYwNmYtNDVkZC05MzZhLWQ4NjFjYzQ4NWUxMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.4940WV7az-fgwENcRawF_RZkGfMD2FXWekVCePw9qI0",
   "md5": "60B217CB2A8F59496899DCDAD416C534",
   "tags": [
-    ""
+    "",
+    "super",
+    "princess",
+    "peach",
+    "legend",
+    "zelda"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -549,
     "offset_y": -219,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -243,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -2,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

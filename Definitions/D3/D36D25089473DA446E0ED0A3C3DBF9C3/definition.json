@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/ed/1b/32/ed1b32fdd1e5d4cb3166d10305a69f5a.jpg",
   "md5": "D36D25089473DA446E0ED0A3C3DBF9C3",
   "tags": [
-    ""
+    "",
+    "krys",
+    "decker",
+    "dc",
+    "krysdecker",
+    "krystopher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "lol",
+    "kda",
+    "kaisa",
+    "shenshen",
+    "lin",
+    "bewitching",
+    "janna",
+    "fanart",
+    "camilla",
+    "ferrari",
+    "happy",
+    "shedding",
+    "season",
+    "rain",
+    "wzq"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -202,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -93,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

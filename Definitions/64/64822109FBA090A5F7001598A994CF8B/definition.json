@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/0f/cc/65/0fcc6542d684e7b33bced7564e5911d9.jpg",
   "md5": "64822109FBA090A5F7001598A994CF8B",
   "tags": [
-    ""
+    "",
+    "fate",
+    "grand",
+    "order",
+    "alter",
+    "fan",
+    "anime",
+    "girl",
+    "demons",
+    "jace",
+    "beleren",
+    "fanart1",
+    "li",
+    "feng",
+    "https://youngforever.artstation.com/projects",
+    "cm",
+    "moon",
+    "goddess",
+    "kasu",
+    "cat",
+    "dg",
+    "flaze",
+    "chen"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -234,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -185,
     "offset_y": -133,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6900000000000006,
     "offset_x": -246,
     "offset_y": -208,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,63 @@
 {
-  "source": "https://external-preview.redd.it/-Bq_txqCEYcEn58Usq7QMTxR2y15ujvCOc-v_kSyJNI.jpg?auto=webp&s=16ebfc8054a8e1fe4b403dc7d44f45f99ce6545d",
+  "source": "https://external-preview.redd.it/-Bq_txqCEYcEn58Usq7QMTxR2y15ujvCOc-v_kSyJNI.jpg?auto=webp\u0026s=16ebfc8054a8e1fe4b403dc7d44f45f99ce6545d",
   "md5": "F9BD4D9745B664EA79C70A3FCB21A3D6",
   "tags": [
-    ""
+    "",
+    "kingkiller",
+    "chronicles",
+    "kvothe",
+    "fan",
+    "characters",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
+    "witcher",
+    "st.",
+    "michael",
+    "wrath",
+    "titans",
+    "some",
+    "study",
+    "marina",
+    "mosolova",
+    "character",
+    "design",
+    "ranger",
+    "dragon",
+    "hunter",
+    "ruben",
+    "kaae",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "knight",
+    "horse"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -282,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -12,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -16,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

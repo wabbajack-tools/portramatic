@@ -2,27 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/010/495/677/large/matias-habert-goblin-slayer.jpg?1524726455",
   "md5": "6184F355A123C03EAEAD42B1AF66A2A1",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "slayer",
+    "novel",
+    "full",
+    "body",
+    "orc",
+    "warrior",
+    "orcs",
+    "captain",
+    "nuare",
+    "studio",
+    "https://www.artstation.com/artwork/966eo",
+    "skyrim",
+    "li",
+    "xingchi",
+    "https://www.artstation.com/artwork/5dvzp",
+    "character",
+    "maciej",
+    "janaszek",
+    "mythical",
+    "creatures"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -308,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -172,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

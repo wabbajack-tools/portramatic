@@ -2,27 +2,39 @@
   "source": "https://cdn.discordapp.com/attachments/644266106994819103/921358898097713182/nano_ciozzo_con_pipa_e_cinghiale_nella_neve.jpg",
   "md5": "BE903F24C1823CEBD2AB3D8014AC731E",
   "tags": [
-    "barbarian"
+    "barbarian",
+    "concept",
+    "dwarves",
+    "dwarf",
+    "character",
+    "portraits",
+    "warrior",
+    "lightning",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -605.5,
     "offset_y": -347,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -396.5,
     "offset_y": -227,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -207,
     "offset_y": -35,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

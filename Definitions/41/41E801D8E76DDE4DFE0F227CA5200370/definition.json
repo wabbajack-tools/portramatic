@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/564x/78/0e/76/780e76ad0597366352e84ed5955bf26a.jpg",
   "md5": "41E801D8E76DDE4DFE0F227CA5200370",
   "tags": [
-    ""
+    "",
+    "divinity",
+    "original",
+    "sin",
+    "elf",
+    "female",
+    "armor",
+    "lizard",
+    "knight",
+    "death",
+    "armors",
+    "medieval",
+    "knights",
+    "witch",
+    "king",
+    "angmar",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "darth",
+    "revan",
+    "raph",
+    "lomotan",
+    "https://www",
+    "nomad",
+    "warrior",
+    "meros",
+    "will",
+    "samurai",
+    "takeshi",
+    "yoshida",
+    "concept"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -232,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -89,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

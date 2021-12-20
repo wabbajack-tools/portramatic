@@ -9,27 +9,54 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "girl",
+    "elf",
+    "red",
+    "hair",
+    "female",
+    "brown",
+    "haired",
+    "assassin",
+    "attack",
+    "titan",
+    "jeanne",
+    "d\u0027arc",
+    "alter",
+    "fate",
+    "lera",
+    "pi",
+    "2020",
+    "astrid",
+    "arena",
+    "valor",
+    "tdark135",
+    "swordswoman",
+    "sikarin",
+    "susirakarn"
   ],
   "small": {
     "scale": 1,
     "offset_x": -192,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": 0,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2999999999999998,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

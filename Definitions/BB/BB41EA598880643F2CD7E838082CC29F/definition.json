@@ -6,25 +6,36 @@
     "person",
     "human",
     "knight",
-    ""
+    "",
+    "kratos",
+    "marvel",
+    "comics",
+    "western",
+    "conan",
+    "barbarian"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -263,
     "offset_y": -170,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -100,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -214,
     "offset_y": -197,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

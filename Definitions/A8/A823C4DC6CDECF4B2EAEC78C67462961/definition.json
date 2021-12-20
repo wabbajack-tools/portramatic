@@ -2,27 +2,52 @@
   "source": "https://www.artofmtg.com/wp-content/uploads/2017/12/Zealous-Persecution-MtG-Art.jpg",
   "md5": "A823C4DC6CDECF4B2EAEC78C67462961",
   "tags": [
-    "Vampire"
+    "Vampire",
+    "mtg",
+    "vampire",
+    "magic",
+    "gathering",
+    "concept",
+    "lord",
+    "rings",
+    "bluezima",
+    "dong-wook",
+    "shin",
+    "princess",
+    "zelda",
+    "character",
+    "dong",
+    "tainted",
+    "hearts",
+    "johan",
+    "grenier",
+    "seker",
+    "ignacio",
+    "fern\u00E1ndez",
+    "r\u00EDos"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -185,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -228,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -314,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

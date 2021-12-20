@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/53/9e/7e/539e7e1049233f7f3dff91f4c7fe7a04.jpg",
   "md5": "C09CABC89FDBDD383AE52F3E81A630AA",
   "tags": [
-    ""
+    "",
+    "demon",
+    "samurai",
+    "concept",
+    "warrior",
+    "anime",
+    "oni",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "castlevania",
+    "lords",
+    "shadow",
+    "darksiders",
+    "genesis",
+    "coloring",
+    "grace",
+    "liu",
+    "2021",
+    "dark",
+    "character",
+    "barbarian",
+    "people",
+    "strange",
+    "characters",
+    "\u5173\u7075\u6770\u4F5C\u4E1A\u5B8C\u6210\u56FE",
+    "\u7FFC\u6B21\u65B9",
+    "\u5B66\u9662",
+    "creature",
+    "japanese"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -398,
     "offset_y": -335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -226,
     "offset_y": -193,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -64,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

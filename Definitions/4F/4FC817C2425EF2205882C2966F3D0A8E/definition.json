@@ -1,0 +1,31 @@
+{
+  "source": "https://www.epicpath.org/images/thumb/3/3d/Tiefling2.png/500px-Tiefling2.png",
+  "md5": "4FC817C2425EF2205882C2966F3D0A8E",
+  "tags": [
+    "male",
+    "tiefling",
+    "wizard",
+    "purple"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -155,
+    "offset_y": -1,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.9099999999999999,
+    "offset_x": -117,
+    "offset_y": -7,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.5800000000000005,
+    "offset_x": -94,
+    "offset_y": -11,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

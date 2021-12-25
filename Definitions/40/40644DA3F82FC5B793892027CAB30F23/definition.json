@@ -1,0 +1,28 @@
+{
+  "source": "https://i.redd.it/5dytkkyekhg21.png",
+  "md5": "40644DA3F82FC5B793892027CAB30F23",
+  "tags": [
+    "NSFW"
+  ],
+  "small": {
+    "scale": 0.2099999999999993,
+    "offset_x": -47,
+    "offset_y": 0,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.24999999999999933,
+    "offset_x": -2,
+    "offset_y": -4,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.5099999999999996,
+    "offset_x": 0,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

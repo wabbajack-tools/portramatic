@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/564x/9b/40/2b/9b402baf8d8dbaa013ab1291f4bcedf8.jpg",
+  "md5": "4F29F304B186F97CEEB0CDF66E6D7D9F",
+  "tags": [
+    "cleric",
+    "White mage",
+    "healer"
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -189,
+    "offset_y": -129,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.2200000000000002,
+    "offset_x": -105,
+    "offset_y": -117,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.5400000000000005,
+    "offset_x": -24,
+    "offset_y": -166,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

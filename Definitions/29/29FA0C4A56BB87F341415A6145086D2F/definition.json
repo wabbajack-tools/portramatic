@@ -1,0 +1,28 @@
+{
+  "source": "https://tbib.org//samples/8109/sample_0c0479dcff3611d2a8413052695386e6ebb196d6.jpg?8862087",
+  "md5": "29FA0C4A56BB87F341415A6145086D2F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -144,
+    "offset_y": -59,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -49,
+    "offset_y": -38,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.9299999999999999,
+    "offset_x": -90,
+    "offset_y": -70,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

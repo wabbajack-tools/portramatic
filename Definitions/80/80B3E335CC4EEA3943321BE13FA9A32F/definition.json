@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/0f/e3/9a/0fe39a3df493d039054c80ba000f5cf5.jpg",
+  "md5": "80B3E335CC4EEA3943321BE13FA9A32F",
+  "tags": [
+    "sword",
+    "elegant",
+    "fighter",
+    "magus"
+  ],
+  "small": {
+    "scale": 1.1300000000000001,
+    "offset_x": -220.0000000000002,
+    "offset_y": -144.66666666666677,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -90.66666666666663,
+    "offset_y": -69.33333333333337,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": 0,
+    "offset_y": -17.3333333333336,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

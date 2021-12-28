@@ -1,0 +1,30 @@
+{
+  "source": "https://i.redd.it/x4o39y95zq081.jpg",
+  "md5": "E85F3649FD43F2CB878E7AA33C7531C1",
+  "tags": [
+    "female",
+    "ice",
+    "mage"
+  ],
+  "small": {
+    "scale": 0.6999999999999997,
+    "offset_x": -123,
+    "offset_y": -41,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.6999999999999997,
+    "offset_x": -59,
+    "offset_y": -63,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.97,
+    "offset_x": -6,
+    "offset_y": -22,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,44 @@
+{
+  "source": "https://cdn.donmai.us/sample/28/82/sample-2882de94b1166154d68ddd013f4823c9.jpg",
+  "md5": "3275B6996B30FF1ACC014382E7F62116",
+  "tags": [
+    "anime",
+    "warrior",
+    "girl",
+    "dragon",
+    "princess",
+    "angel",
+    "death",
+    "knight",
+    "gears",
+    "war",
+    "black",
+    "man",
+    "steel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -590,
+    "offset_y": -190,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -362,
+    "offset_y": -90,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -40,
+    "offset_y": -12,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

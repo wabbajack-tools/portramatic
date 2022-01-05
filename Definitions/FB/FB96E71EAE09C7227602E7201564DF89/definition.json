@@ -5,27 +5,44 @@
     "female",
     "fairy",
     "human",
-    "amber ye"
+    "amber ye",
+    "dark",
+    "age",
+    "artur",
+    "nakhodkin",
+    "lament",
+    "lessdraws",
+    "https://www.artstation.com/artwork/0xw30v",
+    "2020",
+    "ars",
+    "goetia",
+    "king",
+    "amdusias",
+    "daniel",
+    "kamarudin"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -768,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -915,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -678,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

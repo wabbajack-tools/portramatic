@@ -4,27 +4,52 @@
   "tags": [
     "Rogue",
     "assasion",
-    "mask"
+    "mask",
+    "monk",
+    "concept",
+    "fighter",
+    "rogue",
+    "character",
+    "ars",
+    "goetia",
+    "demons",
+    "le",
+    "vuong",
+    "dark",
+    "drawing",
+    "poses",
+    "characters",
+    "young",
+    "archmage",
+    "sohee",
+    "kim",
+    "tentacle",
+    "girl",
+    "anna",
+    "pyzhik"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -288,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -187,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -50,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

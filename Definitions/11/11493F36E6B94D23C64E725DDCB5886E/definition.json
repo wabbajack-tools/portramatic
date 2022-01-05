@@ -6,27 +6,50 @@
     "kingmaker",
     "valerie",
     "long",
-    "hair"
+    "hair",
+    "old",
+    "knight",
+    "halberd",
+    "pics",
+    "medieval",
+    "knights",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "ww2",
+    "alternate",
+    "universe",
+    "eddy",
+    "shinjuku"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -447,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -205,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -11,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

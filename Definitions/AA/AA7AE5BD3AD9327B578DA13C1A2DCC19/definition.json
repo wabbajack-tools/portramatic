@@ -7,27 +7,45 @@
     "series",
     "hyuk",
     "lee",
-    "suits"
+    "suits",
+    "kyu-yong",
+    "eom",
+    "print",
+    "artist",
+    "sci",
+    "fi",
+    "girl",
+    "game",
+    "assets",
+    "lyn",
+    "sevi",
+    "ko",
+    "blade",
+    "soul",
+    "anime"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -449,
     "offset_y": -167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -118,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -14,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

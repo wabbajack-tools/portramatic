@@ -5,27 +5,44 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "gothic",
+    "bitch",
+    "ken",
+    "wong",
+    "liliana",
+    "demonic",
+    "queen",
+    "bryan",
+    "foga\u00E7a",
+    "rosado",
+    "https://www.artstation.com/ar",
+    "\u771F\u7406",
+    "allen",
+    "hsieh(\u5E25\u7834"
   ],
   "small": {
     "scale": 1,
     "offset_x": -879.5,
     "offset_y": -312,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -320.5,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6006666666666662,
     "offset_x": -240,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,27 +6,49 @@
     "kitsune",
     "mask",
     "fox",
-    "tails"
+    "tails",
+    "rogue",
+    "male",
+    "characters",
+    "anime",
+    "girl",
+    "beerus",
+    "concept",
+    "geoffrey",
+    "daigon",
+    "2021",
+    "dragon",
+    "ball",
+    "image",
+    "character",
+    "design",
+    "cleric",
+    "gayeon",
+    "kim",
+    "illustration"
   ],
   "small": {
     "scale": 1.9300000000000008,
     "offset_x": -378.6666666666669,
     "offset_y": -378.66666666666646,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -123.66666666666674,
     "offset_y": -144.33333333333346,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -21.333333333333485,
     "offset_y": -66.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

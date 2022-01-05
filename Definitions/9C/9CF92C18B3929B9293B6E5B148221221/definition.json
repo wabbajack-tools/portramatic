@@ -2,27 +2,57 @@
   "source": "https://i.redd.it/jt3noamafbi61.jpg",
   "md5": "9CF92C18B3929B9293B6E5B148221221",
   "tags": [
-    ""
+    "",
+    "female",
+    "cleric",
+    "armor",
+    "light",
+    "elf",
+    "eyes",
+    "greek",
+    "goddess",
+    "gods",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "atma",
+    "archangel",
+    "flame",
+    "andrew",
+    "avvakoumides",
+    "angel",
+    "daniel",
+    "s.",
+    "alessi",
+    "big",
+    "teeth",
+    "monster",
+    "funky",
+    "boy"
   ],
   "small": {
     "scale": 1,
     "offset_x": -666,
     "offset_y": -249,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -353,
     "offset_y": -176,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -58,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

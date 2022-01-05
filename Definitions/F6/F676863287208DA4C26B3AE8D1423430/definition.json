@@ -24,27 +24,41 @@
     "old",
     "tris",
     "baybayan",
-    "warrior"
+    "warrior",
+    "nedaieru",
+    "who",
+    "leads",
+    "dead",
+    "ignacio",
+    "bazan-lazcano",
+    "character",
+    "design",
+    "196",
+    "paul",
+    "shut"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -265,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -211,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -128,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

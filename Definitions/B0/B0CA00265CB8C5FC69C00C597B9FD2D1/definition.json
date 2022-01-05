@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/XkrIwhxTa-tkvcqmEqDPG_JKI89B2BaM80jzH4p89H4.jpg?auto=webp&s=cc15d84e0c6a05420a33fa50245ea8224769f679",
+  "source": "https://external-preview.redd.it/XkrIwhxTa-tkvcqmEqDPG_JKI89B2BaM80jzH4p89H4.jpg?auto=webp\u0026s=cc15d84e0c6a05420a33fa50245ea8224769f679",
   "md5": "B0CA00265CB8C5FC69C00C597B9FD2D1",
   "tags": [
     "sindragosa",
@@ -31,21 +31,24 @@
     "scale": 0.6899999999999997,
     "offset_x": -352,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -308,
     "offset_y": -135,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -190,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

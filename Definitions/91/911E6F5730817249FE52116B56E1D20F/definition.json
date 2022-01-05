@@ -20,25 +20,40 @@
     "good",
     "angel",
     "azata",
-    "aeon"
+    "aeon",
+    "female",
+    "black",
+    "panther",
+    "costume",
+    "concept",
+    "suit",
+    "marvel",
+    "merrow",
+    "lolra",
+    "king"
   ],
   "small": {
     "scale": 1.7900000000000007,
     "offset_x": -323.33333333333155,
     "offset_y": -76.00000000001492,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -26.999999999999716,
     "offset_y": -23.0000000000079,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9700000000000009,
     "offset_x": -20.3333333333336,
     "offset_y": -26.66666666666714,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

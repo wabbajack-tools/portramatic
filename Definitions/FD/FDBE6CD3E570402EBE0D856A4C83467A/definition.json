@@ -38,27 +38,52 @@
     "junsu",
     "shin",
     "good",
-    "water"
+    "water",
+    "journey",
+    "concept",
+    "cloak",
+    "hooded",
+    "figure",
+    "black",
+    "blue",
+    "demon",
+    "army",
+    "amanda",
+    "kihlstr\u00F6m",
+    "legendary",
+    "polar",
+    "engine",
+    "2021",
+    "artwork",
+    "war",
+    "prophet",
+    "tomasz",
+    "ryger",
+    "lion",
+    "sculpture"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -296.79999999998773,
     "offset_y": -82.6000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -205.99999999999227,
     "offset_y": -53.2000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -101.90740740740762,
     "offset_y": -24.944444444444116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

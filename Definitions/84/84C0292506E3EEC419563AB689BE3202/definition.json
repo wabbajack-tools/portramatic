@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/a4/a9/dd/a4a9dd6fcb76e83a1523c49eb5e66466.jpg",
   "md5": "84C0292506E3EEC419563AB689BE3202",
   "tags": [
-    ""
+    "",
+    "norse",
+    "viking",
+    "armor",
+    "warrior",
+    "drawings",
+    "barbarian",
+    "medieval",
+    "knights",
+    "armors",
+    "eagle",
+    "knight",
+    "kyle",
+    "hall",
+    "thor",
+    "god",
+    "sky",
+    "thunder",
+    "li",
+    "hao",
+    "masha",
+    "kuravcova"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -295,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -55,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

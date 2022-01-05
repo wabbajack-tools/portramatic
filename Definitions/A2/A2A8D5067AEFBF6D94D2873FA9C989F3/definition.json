@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/50/c2/f5/50c2f570c5e9cc7d82bc620398b5f6b7.jpg",
   "md5": "A2A8D5067AEFBF6D94D2873FA9C989F3",
   "tags": [
-    "Inquisitor"
+    "Inquisitor",
+    "warforged",
+    "nightmare",
+    "elf",
+    "blood",
+    "hunter",
+    "unsung",
+    "hero",
+    "souls",
+    "sun",
+    "king",
+    "03",
+    "ekko",
+    "kelvin",
+    "otu",
+    "sketch",
+    "a",
+    "pirate.",
+    "anastasiya",
+    "hurtina"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -131,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -6,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -58,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

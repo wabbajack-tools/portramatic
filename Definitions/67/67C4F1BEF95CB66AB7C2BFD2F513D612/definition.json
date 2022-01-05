@@ -2,27 +2,40 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0721cc52-3f87-41e3-9c51-16b4cac6dd58/ded5cr2-aba43ed1-a3a8-48dc-9828-f51ce747a616.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3MjFjYzUyLTNmODctNDFlMy05YzUxLTE2YjRjYWM2ZGQ1OFwvZGVkNWNyMi1hYmE0M2VkMS1hM2E4LTQ4ZGMtOTgyOC1mNTFjZTc0N2E2MTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Paa3fj_vMcx-UVrJm2Ae4BKLxmRlIpXes3jwFNZxt5A",
   "md5": "67C4F1BEF95CB66AB7C2BFD2F513D612",
   "tags": [
-    ""
+    "",
+    "elf",
+    "druid",
+    "bill",
+    "washington",
+    "restauration",
+    "romain",
+    "leguay",
+    "swampthing",
+    "andreas",
+    "adamek"
   ],
   "small": {
     "scale": 0.5999999999999988,
     "offset_x": -620,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.31999999999999945,
     "offset_x": -192,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3499999999999994,
     "offset_x": -14,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

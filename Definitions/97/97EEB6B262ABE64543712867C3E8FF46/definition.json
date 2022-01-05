@@ -39,27 +39,39 @@
     "iron",
     "throne",
     "hans",
-    "park"
+    "park",
+    "warriors",
+    "elder",
+    "scrolls",
+    "online",
+    "prometheus",
+    "billy",
+    "christian",
+    "mobius",
+    "final"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -410,
     "offset_y": -349,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -226,
     "offset_y": -219,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -206,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

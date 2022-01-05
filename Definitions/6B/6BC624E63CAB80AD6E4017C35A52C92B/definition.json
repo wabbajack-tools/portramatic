@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c5201f8-5ebf-4487-a511-c2c643ee8ebd/dc1c0li-0a4e782b-4dea-481b-8abc-4535a00bd4f6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjNTIwMWY4LTVlYmYtNDQ4Ny1hNTExLWMyYzY0M2VlOGViZFwvZGMxYzBsaS0wYTRlNzgyYi00ZGVhLTQ4MWItOGFiYy00NTM1YTAwYmQ0ZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KBIv4od9rupgTG-zi_ZAd1wNtr5fVXq5IKF36GMeBOA",
   "md5": "6BC624E63CAB80AD6E4017C35A52C92B",
   "tags": [
-    ""
+    "",
+    "two",
+    "guns",
+    "gancheng",
+    "li",
+    "austin-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -212,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -31,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -42,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

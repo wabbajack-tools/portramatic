@@ -23,27 +23,56 @@
     "2020",
     "lady",
     "tate",
-    "s"
+    "s",
+    "armor",
+    "concept",
+    "warrior",
+    "character",
+    "woman",
+    "dynasty",
+    "warriors",
+    "knight",
+    "miniatures",
+    "plate",
+    "samurai",
+    "medieval",
+    "knights",
+    "beatrix",
+    "valentin",
+    "demchenko",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "characters",
+    "assassin",
+    "areum",
+    "kim",
+    "design",
+    "women"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -421,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -304,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -60,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

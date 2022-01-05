@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/FbHFhVU.png",
   "md5": "B517F32A557172468A30F2CB6B90F774",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "dark",
+    "elf",
+    "night",
+    "anime",
+    "girl",
+    "black",
+    "dragon",
+    "age",
+    "origins",
+    "shadows",
+    "maelstrom",
+    "lee",
+    "kent",
+    "https://cdnb.artstation.com/p/assets/images/images/020/043",
+    "lord",
+    "\u00B7",
+    "axsens",
+    "https://www"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -65,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -42,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -44,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

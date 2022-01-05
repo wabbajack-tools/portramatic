@@ -2,27 +2,39 @@
   "source": "https://static.zerochan.net/Dragon.Age%3A.Inquisition.full.2138024.png",
   "md5": "4EA4CA9CE8A0573FD585D4BCDAAC0A64",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "inquisition",
+    "characters",
+    "alistair",
+    "female",
+    "hobbit",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -400,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -302,
     "offset_y": -211,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -388,
     "offset_y": -322,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

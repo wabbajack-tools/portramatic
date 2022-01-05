@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/bf/59/64/bf5964b2a89819982205eb12380405a2.jpg",
   "md5": "FE34D6C6C5778010F4AFF6BACE9BA2F8",
   "tags": [
-    ""
+    "",
+    "witch",
+    "doctor",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "anime",
+    "angel",
+    "a",
+    "gathering",
+    "crows",
+    "fariba",
+    "khamseh",
+    "character",
+    "design",
+    "https://cdnb.artstation.com/p/assets/images/images/020/043/979/large/anna-tutova-ravenprincess",
+    "girl",
+    "liu",
+    "fei"
   ],
   "small": {
     "scale": 1,
     "offset_x": -138,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -77,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -22,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

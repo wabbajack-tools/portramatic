@@ -25,27 +25,52 @@
     "jackie",
     "felix",
     "girl",
-    "fantastic"
+    "fantastic",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u0022what",
+    "is",
+    "broken",
+    "can",
+    "be",
+    "reforged!\u0022",
+    "subin",
+    "you",
+    "champion",
+    "dmitry",
+    "bezrodniy",
+    "character",
+    "mythal",
+    "dragon",
+    "age",
+    "sonya",
+    "kayuda"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -334,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -184,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -72,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

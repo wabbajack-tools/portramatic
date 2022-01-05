@@ -2,25 +2,52 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/95/Crimson_Vow_Key_art.jpg/revision/latest?cb=20210929222249",
   "md5": "CAAFAD492F7D19D85AEEBC189B71564A",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "castlevania",
+    "lords",
+    "shadow",
+    "witcher",
+    "die",
+    "beschw\u00F6rer",
+    "tag",
+    "der",
+    "geister",
+    "kevin",
+    "sidharta",
+    "2020",
+    "warrior",
+    "dead",
+    "marching",
+    "ben",
+    "zweifel",
+    "undead",
+    "monster",
+    "creatures"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -1113,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -938,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8200000000000007,
     "offset_x": -1392,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

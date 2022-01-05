@@ -2,27 +2,67 @@
   "source": "https://static.wikia.nocookie.net/forgottentraitors/images/9/9f/Tieflingcler.jpg/revision/latest/scale-to-width-down/259?cb=20130612121044",
   "md5": "19E7304BC29E05B06EA60E39DF28CA8D",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "wizard",
+    "armor",
+    "concept",
+    "character",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "wendigo",
+    "warrior",
+    "alex",
+    "charleux",
+    "creatures",
+    "gaming",
+    "pinwire",
+    "tinlef",
+    "elharil",
+    "monica",
+    "doss",
+    "bada",
+    "2018",
+    "pinterest",
+    "32",
+    "mins",
+    "personal",
+    "work",
+    "jinhoon",
+    "jeong",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

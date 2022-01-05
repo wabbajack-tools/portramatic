@@ -8,27 +8,56 @@
     "race",
     "guide",
     "demon",
-    "races"
+    "races",
+    "mortal",
+    "kombat",
+    "x",
+    "fatalities",
+    "logo",
+    "scorpion",
+    "mask",
+    "kratos",
+    "league",
+    "legends",
+    "conan",
+    "barbarian",
+    "dc",
+    "comics",
+    "\u00B7",
+    "liu",
+    "tao",
+    "warp",
+    "lightning",
+    "skaven",
+    "diego",
+    "vila",
+    "knight",
+    "pal",
+    "gyorgy",
+    "berszan"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -402,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -158,
     "offset_y": -101,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -92,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

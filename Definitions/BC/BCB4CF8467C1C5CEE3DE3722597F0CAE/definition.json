@@ -12,27 +12,36 @@
     "bra",
     "accessories",
     "jewelry",
-    "bracelet"
+    "bracelet",
+    "digital",
+    "face",
+    "wallpaper",
+    "hair",
+    "black",
+    "hairstyle"
   ],
   "small": {
     "scale": 0.13999999999999924,
     "offset_x": -1.3333333333337123,
     "offset_y": -4.666666666666771,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -6.999999999999943,
     "offset_y": -5.66666666666643,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -4.000000000000455,
     "offset_y": -2.666666666666572,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

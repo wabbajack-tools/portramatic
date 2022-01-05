@@ -2,27 +2,43 @@
   "source": "https://i.imgur.com/eC94Wwg.jpeg",
   "md5": "C87145D5D31E9AAABF53DA96326EBEA3",
   "tags": [
-    ""
+    "",
+    "jester",
+    "critical",
+    "role",
+    "season",
+    "fan",
+    "anime",
+    "girl",
+    "characters",
+    "legend",
+    "zelda",
+    "commissions",
+    "eric",
+    "grimoire"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -121,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -111,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6900000000000006,
     "offset_x": -146,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

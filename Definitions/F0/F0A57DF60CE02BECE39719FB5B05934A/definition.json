@@ -21,27 +21,39 @@
     "barbarian",
     "jiwon",
     "warrior",
-    "portraits"
+    "portraits",
+    "untitle",
+    "\uC19C\uC0AC\uD0D5\uC53B\uB294",
+    "\uBB3C\uACF0",
+    "exercise",
+    "01",
+    "wang",
+    "hao",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -349,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999943,
     "offset_x": -91,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -192,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

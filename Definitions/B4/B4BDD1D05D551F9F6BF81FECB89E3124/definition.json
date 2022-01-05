@@ -19,27 +19,46 @@
     "potter",
     "order",
     "phoenix",
-    "mummy"
+    "mummy",
+    "weapons",
+    "armor",
+    "knight",
+    "arm",
+    "vampire",
+    "masquerade",
+    "myrddraal",
+    "dane",
+    "goulter",
+    "a",
+    "stark",
+    "smiling",
+    "down",
+    "you",
+    "inna",
+    "vjuzhanina"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -356,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -237,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -322,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

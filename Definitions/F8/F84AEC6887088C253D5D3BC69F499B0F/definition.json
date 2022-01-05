@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/564x/06/50/ae/0650aeb98ef5239b4b42f61f878e0445.jpg",
   "md5": "F84AEC6887088C253D5D3BC69F499B0F",
   "tags": [
-    ""
+    "",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "game",
+    "thrones",
+    "joan",
+    "arc",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "jacket",
+    "personal",
+    "work",
+    "hyunjoong",
+    ".",
+    "concept",
+    "characters",
+    "woman",
+    "beach",
+    "guardian",
+    "julio",
+    "del",
+    "rio",
+    "character",
+    "portraits",
+    "fallout",
+    "4",
+    "niko",
+    "mets\u00E4l\u00E4"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -417,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -210,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -26,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/06/sephiroth.jpg?q=50&fit=crop&w=740&dpr=1.5",
+  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/06/sephiroth.jpg?q=50\u0026fit=crop\u0026w=740\u0026dpr=1.5",
   "md5": "FEA7F407DAA491E23C647F5925332BAD",
   "tags": [
     "dark",
@@ -12,7 +12,7 @@
     "vampire",
     "manga",
     "souls",
-    "'yeopo'",
+    "\u0027yeopo\u0027",
     "three",
     "kingdoms",
     "reincarnates",
@@ -20,27 +20,39 @@
     "li",
     "update",
     "marishka",
-    "kleyman"
+    "kleyman",
+    "sephiroth",
+    "character",
+    "angel",
+    "snow",
+    "antonio",
+    "j.",
+    "manzanedo",
+    "creatures",
+    "mythical"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -404.49999999999784,
     "offset_y": -438.8999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -31.000000000000227,
     "offset_y": -121.09999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -32.037037037037635,
     "offset_y": -63.82407407407402,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,44 @@
     "tiefling",
     "female",
     "rogue",
-    "warrior"
+    "warrior",
+    "necromancer",
+    "geoffrey",
+    "chan",
+    "high",
+    "noon",
+    "kayn",
+    "noah",
+    "thatcher",
+    "league",
+    "legends",
+    "game",
+    "fashion",
+    "ksenia",
+    "manuylova"
   ],
   "small": {
     "scale": 0.33000000000000007,
     "offset_x": -264.5,
     "offset_y": -219,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999943,
     "offset_x": -70.5,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.40066666666666606,
     "offset_x": -20,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

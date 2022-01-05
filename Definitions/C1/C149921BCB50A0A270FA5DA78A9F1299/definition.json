@@ -2,25 +2,59 @@
   "source": "https://d.furaffinity.net/art/cyberium/1597589948/1597589948.cyberium_366_druid_com__1280_.png",
   "md5": "C149921BCB50A0A270FA5DA78A9F1299",
   "tags": [
-    ""
+    "",
+    "dc",
+    "comics",
+    "marvel",
+    "he-man",
+    "superman",
+    "comic",
+    "captin",
+    "america",
+    "book",
+    "super",
+    "heroes",
+    "...druid",
+    "claw",
+    "ideas...",
+    "oscar",
+    "shadowpriest",
+    "lazo",
+    "druid",
+    "night",
+    "elf",
+    "witch",
+    "\uC601\uC7AC",
+    "\uC870",
+    "https://www.artstation.com/artwork/4dgq1",
+    "cute",
+    "repakuku",
+    "shaman.",
+    "aleksandra",
+    "sergeeva"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -357,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -132,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -116,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

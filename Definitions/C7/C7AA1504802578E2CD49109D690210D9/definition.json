@@ -33,7 +33,7 @@
     "mtg",
     "dark",
     "black",
-    "assassin's",
+    "assassin\u0027s",
     "alien",
     "vs",
     "predator",
@@ -45,30 +45,47 @@
     "yutthaphong",
     "kaewsuk",
     "https://www.artstation.com/artwork/a9yzaw",
-    "witches'",
+    "witches\u0027",
     "nightmare",
     "https://tonysart.artstation.com/projects/l6rzy",
-    "artwork"
+    "artwork",
+    "death",
+    "knight",
+    "orc",
+    "boissb",
+    "b.j",
+    "dungeons",
+    "dragons",
+    "characters",
+    "tezzeret",
+    "seeker",
+    "victor",
+    "adame",
+    "magic",
+    "character"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -186,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -179,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": 0,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

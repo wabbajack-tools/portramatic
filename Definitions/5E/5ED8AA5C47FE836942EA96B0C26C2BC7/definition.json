@@ -2,27 +2,47 @@
   "source": "https://64.media.tumblr.com/a3ea6ab6496e29e29ea20a4ab82d2c17/tumblr_ol0zws1LEo1rcb6ldo1_r1_1280.jpg",
   "md5": "5ED8AA5C47FE836942EA96B0C26C2BC7",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "concept",
+    "male",
+    "character",
+    "portraits",
+    "anime",
+    "girl",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "mountain",
+    "princess",
+    "alesia",
+    "halota"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -254,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -159,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -16,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

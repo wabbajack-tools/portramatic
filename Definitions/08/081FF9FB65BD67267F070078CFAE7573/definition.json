@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/550x/6b/b7/9d/6bb79d5cc8f4ba53895ec4650dce4e10.jpg",
   "md5": "081FF9FB65BD67267F070078CFAE7573",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "sun",
+    "wukong",
+    "huifeng",
+    "huang",
+    "https://www",
+    "dwarf",
+    "danny",
+    "mak",
+    "talion",
+    "emilio",
+    "grasso"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -231,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -195,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -82,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,41 @@
   "tags": [
     "female",
     "tiefling",
-    "sword"
+    "sword",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "hokusai",
+    "ang",
+    "ruo",
+    "xin"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -244.39999999999992,
     "offset_y": -69.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -136.5999999999999,
     "offset_y": -44.40000000000009,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -125.2314814814813,
     "offset_y": -56.796296296295964,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

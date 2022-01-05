@@ -2,27 +2,53 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f03e96e-af27-444e-835c-3a1de2b5abee/dcsdwjd-f35fc9d2-8be9-4ed8-b2d2-ddfe53d02808.jpg/v1/fill/w_1024,h_1472,q_75,strp/halani_lavellan_by_annahelme_dcsdwjd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ3MiIsInBhdGgiOiJcL2ZcLzNmMDNlOTZlLWFmMjctNDQ0ZS04MzVjLTNhMWRlMmI1YWJlZVwvZGNzZHdqZC1mMzVmYzlkMi04YmU5LTRlZDgtYjJkMi1kZGZlNTNkMDI4MDguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.QGLCmPUOhxkorvm28kDd0qwgokcKUpstDipU0r6esF4",
   "md5": "60F3B1A7AF204046E3568131815BB66A",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "female",
+    "dark",
+    "ranger",
+    "halloween",
+    "costumes",
+    "lowanel",
+    "reliah",
+    "a.",
+    "szade",
+    "2020",
+    "druid",
+    "wonder",
+    "woman",
+    "larp",
+    "wood",
+    "nymph",
+    "one",
+    "wish",
+    "olga",
+    "dubrovskaya",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -204,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -101,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -38,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

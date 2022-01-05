@@ -4,27 +4,62 @@
   "tags": [
     "knight",
     "with",
-    "beard"
+    "beard",
+    "female",
+    "digital",
+    "warrior",
+    "dark",
+    "concept",
+    "souls",
+    "death",
+    "black",
+    "hobbit",
+    "tmnt",
+    "casey",
+    "jones",
+    "alex",
+    "borsuk",
+    "teenage",
+    "mutant",
+    "ninja",
+    "turtles",
+    "artwork",
+    "hercules",
+    "golden",
+    "apples",
+    "tutorial",
+    "klaus",
+    "pillon",
+    "https://www.artstation",
+    "legend",
+    "cryptids",
+    "dong",
+    "geon",
+    "son",
+    "demon"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -203,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6500000000000006,
     "offset_x": -199,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.7599999999999847,
     "offset_x": -218,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

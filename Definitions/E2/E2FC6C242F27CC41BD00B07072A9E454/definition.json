@@ -5,27 +5,54 @@
     "gold",
     "knight",
     "paladin",
-    "horse"
+    "horse",
+    "undead",
+    "death",
+    "armor",
+    "demon",
+    "concept",
+    "medieval",
+    "knights",
+    "anime",
+    "characters",
+    "wonder",
+    "woman",
+    "yin",
+    "yuming",
+    "https://www",
+    "fengfa",
+    "exia",
+    "xiaotong",
+    "mobile",
+    "legends",
+    "vale",
+    "draenei",
+    "anastasia",
+    "chibunina",
+    "world"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -221.40000000000055,
     "offset_y": -20.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -29.59999999999991,
     "offset_y": 0.3999999999996362,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -70.00000000000011,
     "offset_y": -1.2000000000001307,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -29,27 +29,38 @@
     "arthur",
     "challenge",
     "connor",
-    "gartland"
+    "gartland",
+    "online",
+    "vampires",
+    "jairo",
+    "sanchez",
+    "character",
+    "inspiration",
+    "diablo",
+    "4"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -605.4999999999978,
     "offset_y": -212.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -271.09999999999997,
     "offset_y": -118.40000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -266.5999999999999,
     "offset_y": -43.799999999999955,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

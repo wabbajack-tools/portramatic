@@ -21,27 +21,41 @@
     "01",
     "kazuhiro",
     "oya",
-    "https://www.artstation.com/artwork/meglia-01"
+    "https://www.artstation.com/artwork/meglia-01",
+    "winter",
+    "eladrin",
+    "spring",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "wormworld",
+    "saga",
+    "mihai",
+    "radu"
   ],
   "small": {
     "scale": 0.7100000000000003,
     "offset_x": -620.3999999999912,
     "offset_y": -187.99999999999727,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48,
     "offset_x": -350.60000000000207,
     "offset_y": -101.59999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6600000000000003,
     "offset_x": -263.7500000000007,
     "offset_y": -131.39814814814827,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

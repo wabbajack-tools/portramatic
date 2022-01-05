@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/564x/03/e5/8a/03e58a5516a6a74f83a2e4b2979b5c83.jpg",
   "md5": "45F80C91B3FD160E07A85BC53206BA4B",
   "tags": [
-    ""
+    "",
+    "female",
+    "dwarf",
+    "armor",
+    "monk",
+    "warriors",
+    "knights",
+    "armors",
+    "death",
+    "knight",
+    "dragon",
+    "age",
+    "origins",
+    "fighters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "characters",
+    "emanuele",
+    "desiati",
+    "https://www.artstation.com/artwork",
+    "northman",
+    "dio",
+    "mahesa"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -347,
     "offset_y": -96,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -70,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -12,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

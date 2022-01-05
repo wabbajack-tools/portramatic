@@ -3,25 +3,63 @@
   "md5": "45C5A843ED34B496729BF3C955A6BE05",
   "tags": [
     "dragon",
-    ""
+    "",
+    "pendragon",
+    "map",
+    "book",
+    "9",
+    "king",
+    "arthur",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "accessories",
+    "belt",
+    "jewelry",
+    "bracelet",
+    "necklace",
+    "characters",
+    "laura",
+    "gomez",
+    "valencia",
+    "aaron",
+    "qiang",
+    "chen",
+    "star",
+    "wars",
+    "pictures",
+    "reaper",
+    "hyeong",
+    "bin",
+    "jeon"
   ],
   "small": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -193,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -8,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

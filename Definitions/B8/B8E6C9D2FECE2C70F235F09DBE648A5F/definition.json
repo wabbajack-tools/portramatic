@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/736x/58/c9/31/58c931ba7c5a01771bdd40e105757022--fantasy-warrior-warriors.jpg",
   "md5": "B8E6C9D2FECE2C70F235F09DBE648A5F",
   "tags": [
-    ""
+    "",
+    "modern",
+    "mage",
+    "concept",
+    "armor",
+    "dark",
+    "anime",
+    "male",
+    "heavy",
+    "death",
+    "knight",
+    "mandalorian",
+    "conan",
+    "barbarian",
+    "\u84DD\u4EBA",
+    "jia",
+    "cai",
+    "character",
+    "warrior",
+    "vadim",
+    "galuza",
+    "https://www",
+    "dwarves",
+    "barbara",
+    "go\u0142\u0119biewska"
   ],
   "small": {
     "scale": 1,
     "offset_x": -175,
     "offset_y": -187,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -68,
     "offset_y": -205,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 40,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

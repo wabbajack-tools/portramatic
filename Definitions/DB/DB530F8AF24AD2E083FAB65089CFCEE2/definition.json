@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/88/53/99/8853990fa7127ae03ff16df5f548e1d4.jpg",
   "md5": "DB530F8AF24AD2E083FAB65089CFCEE2",
   "tags": [
-    ""
+    "",
+    "darkest",
+    "dungeon",
+    "virtue",
+    "heroes",
+    "occultist",
+    "female",
+    "assassin",
+    "death",
+    "knight",
+    "dark",
+    "dragon",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "boots",
+    "fullbody",
+    "character",
+    "joma",
+    "cueto",
+    "asura_11",
+    "yang",
+    "qi917",
+    "monkey",
+    "league",
+    "legends",
+    "fan",
+    "art-vi",
+    "marvin",
+    "seo"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -288,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -37,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -114,
     "offset_y": -122,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

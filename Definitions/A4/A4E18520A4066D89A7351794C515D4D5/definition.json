@@ -2,25 +2,56 @@
   "source": "https://i.imgur.com/yA3zKy8.png",
   "md5": "A4E18520A4066D89A7351794C515D4D5",
   "tags": [
-    ""
+    "",
+    "character",
+    "male",
+    "human",
+    "wizard",
+    "sorcerer",
+    "dragon",
+    "armor",
+    "dark",
+    "elf",
+    "anime",
+    "girl",
+    "female",
+    "pirate",
+    "paladin",
+    "pirates",
+    "caribbean",
+    "assassin",
+    "hyunji",
+    "yi",
+    "\u4E1C\u65B9\u6218\u58EB",
+    "cat",
+    "onmoon",
+    "https://www.artstation",
+    "20181009",
+    "qi",
+    "wu"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -179,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -51,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -2,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

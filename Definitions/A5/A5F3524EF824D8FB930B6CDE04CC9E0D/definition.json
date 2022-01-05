@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/564x/5d/92/d1/5d92d1636a628dc73575591fe7da94f2.jpg",
   "md5": "A5F3524EF824D8FB930B6CDE04CC9E0D",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "armor",
+    "concept",
+    "angel",
+    "character",
+    "male",
+    "knight",
+    "plate",
+    "samurai",
+    "black",
+    "heavy",
+    "viking_m",
+    "y",
+    "metro",
+    "exodus",
+    "children",
+    "forest",
+    "game",
+    "rich",
+    "lee"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -400,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -93,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3199999999999998,
     "offset_x": -19,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

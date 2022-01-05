@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/736x/19/64/06/196406f74d8b0ce04a948dabd4925ce8.jpg",
   "md5": "C513C9A75F361608519E1E6CEBA55C00",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warrior",
+    "drawing",
+    "digital",
+    "vampire",
+    "costumes",
+    "victorian",
+    "goth",
+    "gothic",
+    "corset",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -274,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -1,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -16,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

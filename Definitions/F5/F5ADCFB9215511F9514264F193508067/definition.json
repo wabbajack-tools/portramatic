@@ -21,27 +21,35 @@
     "2b",
     "nier",
     "automata",
-    "imguss"
+    "imguss",
+    "drawing",
+    "sorcerer",
+    "purple",
+    "male",
+    "bard"
   ],
   "small": {
     "scale": 0.7099999999999964,
     "offset_x": -41,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999993,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2999999999999985,
     "offset_x": -10,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

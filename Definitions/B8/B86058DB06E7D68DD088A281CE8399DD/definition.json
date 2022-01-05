@@ -4,27 +4,46 @@
   "tags": [
     "druid",
     "human",
-    "female"
+    "female",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "nithfaris",
+    "thiefling",
+    "rayhe",
+    "mirpal",
+    "velena",
+    "martynova",
+    "war",
+    "lord",
+    "\u0022f\u00E9nix\u0022",
+    "lorenn",
+    "tyr"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -206,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999946,
     "offset_x": -140,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3399999999999994,
     "offset_x": -156,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

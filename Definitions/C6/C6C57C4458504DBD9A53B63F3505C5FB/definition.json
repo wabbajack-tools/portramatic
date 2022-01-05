@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/52/8a/ae/528aaeece509ed62e33bcb737df92d60.png",
   "md5": "C6C57C4458504DBD9A53B63F3505C5FB",
   "tags": [
-    ""
+    "",
+    "dd",
+    "half-orc",
+    "character",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "orcs",
+    "33",
+    "veronika",
+    "kozlova",
+    "dungeons",
+    "dragons",
+    "concept",
+    "demon",
+    "runner",
+    "xavier",
+    "\u0022lozano\u0022",
+    "ribeiro",
+    "races",
+    "28",
+    "classic",
+    "horror",
+    "movies",
+    "monsters",
+    "characters"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -133,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -222,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -62,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

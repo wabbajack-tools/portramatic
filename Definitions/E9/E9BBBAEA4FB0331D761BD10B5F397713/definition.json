@@ -2,27 +2,56 @@
   "source": "https://41.media.tumblr.com/e86727544fd8ba658cd8d238708f06ca/tumblr_ns3x3ofCml1uufoudo1_1280.png",
   "md5": "E9BBBAEA4FB0331D761BD10B5F397713",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "knight",
+    "warrior",
+    "female",
+    "armor",
+    "concept",
+    "woman",
+    "orc",
+    "assassin",
+    "dark",
+    "elf",
+    "knights",
+    "burning",
+    "ann",
+    "jean",
+    "girl",
+    "digital",
+    "artists",
+    "character",
+    "boy",
+    "dragon",
+    "manthos",
+    "lappas",
+    "archer",
+    "hejun",
+    "mao"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -286,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -54,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

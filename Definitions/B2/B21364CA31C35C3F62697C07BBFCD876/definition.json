@@ -2,27 +2,45 @@
   "source": "https://i.imgur.com/XGU9Bnv.jpeg",
   "md5": "B21364CA31C35C3F62697C07BBFCD876",
   "tags": [
-    ""
+    "",
+    "black",
+    "wizard",
+    "sorcerer",
+    "concept",
+    "old",
+    "darth",
+    "maul",
+    "olya",
+    "bossak",
+    "dark",
+    "cool",
+    "draug",
+    "julio",
+    "bencid",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -228,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -160,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -78,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

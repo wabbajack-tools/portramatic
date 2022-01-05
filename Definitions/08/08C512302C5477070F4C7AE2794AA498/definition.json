@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/736x/5e/7b/09/5e7b0948842667a1c4590e9c501bbfaa--lagertha-lothbrok-vikings-lagertha.jpg",
   "md5": "08C512302C5477070F4C7AE2794AA498",
   "tags": [
-    ""
+    "",
+    "woman",
+    "warrior",
+    "costume",
+    "viking",
+    "ideas",
+    "princess",
+    "katheryn",
+    "winnick",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -213,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999998,
     "offset_x": -3,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -92,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

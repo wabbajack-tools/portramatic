@@ -2,27 +2,40 @@
   "source": "https://64.media.tumblr.com/1be12716ce5cc7680aa8633d3fa279cd/35d9ea8a12063fa8-3f/s500x750/e4dc2537617b424ecb0ddf826fa0c6aa7a53faf9.png",
   "md5": "D67773659666D9DACB60E31B2AE2B13C",
   "tags": [
-    ""
+    "",
+    "anime",
+    "characters",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "blazer",
+    "accessories",
+    "tie"
   ],
   "small": {
     "scale": 1,
     "offset_x": -116,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -39,
     "offset_y": 9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -112,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

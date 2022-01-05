@@ -2,27 +2,37 @@
   "source": "https://static1.e621.net/data/ab/fd/abfd8ff4475622584c60044995f6da23.png",
   "md5": "ABFD8FF4475622584C60044995F6DA23",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "dark",
+    "cosmic",
+    "lux",
+    "jhin",
+    "axyachan"
   ],
   "small": {
     "scale": 1,
     "offset_x": -590,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -211,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -88,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

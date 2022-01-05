@@ -2,25 +2,56 @@
   "source": "https://i.pinimg.com/564x/cf/1a/67/cf1a6702fbe71fdf324aa572b6b205dc.jpg",
   "md5": "317873B533BBA3680906B5E17E68071C",
   "tags": [
-    ""
+    "",
+    "illumina",
+    "e",
+    "characters",
+    "book",
+    "fan",
+    "female",
+    "assassin",
+    "wizard",
+    "costume",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "shaman",
+    "minju",
+    "choi",
+    "personal",
+    "project",
+    "duong",
+    "thai",
+    "quyen",
+    "person",
+    "seraphinus",
+    "calvin"
   ],
   "small": {
     "scale": 1.7200000000000006,
     "offset_x": -402,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2100000000000002,
     "offset_x": -155,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -5,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

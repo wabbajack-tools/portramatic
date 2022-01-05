@@ -2,27 +2,38 @@
   "source": "https://64.media.tumblr.com/291095ec717adf24e6045b7bf474d895/tumblr_nj43oryGdJ1tjrwu3o3_r1_640.jpg",
   "md5": "45B84BE4308F8D4A413E831C866E83F3",
   "tags": [
-    ""
+    "",
+    "all",
+    "green",
+    "lanterns",
+    "lantern",
+    "comic",
+    "book",
+    "corps",
+    "rings"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -132,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -48,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -48,
     "offset_y": -188,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

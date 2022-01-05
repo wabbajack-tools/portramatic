@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/53/2b/48/532b48754a347164da4364507a6bd034.jpg",
   "md5": "975EC55E6E06AB45E8E3415D612B78AD",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "girl",
+    "drawings",
+    "beautiful",
+    "woman",
+    "female",
+    "warriors",
+    "with",
+    "swords",
+    "curly",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -46,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -31,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -20,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

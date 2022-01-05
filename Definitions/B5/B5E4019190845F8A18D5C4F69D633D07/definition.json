@@ -3,27 +3,49 @@
   "md5": "B5E4019190845F8A18D5C4F69D633D07",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "race",
+    "dark",
+    "elf",
+    "vampire",
+    "knight",
+    "manga",
+    "masquerade",
+    "assassin",
+    "petra",
+    "kelsey",
+    "roberts",
+    "grave",
+    "reaper",
+    "\uBF08\uC8FD",
+    "bonesoup",
+    "concept",
+    "iveta",
+    "peter",
+    "ortiz"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -259,
     "offset_y": -214.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -43,
     "offset_y": -58.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -18,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

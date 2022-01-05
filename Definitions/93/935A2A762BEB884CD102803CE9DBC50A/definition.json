@@ -1,5 +1,5 @@
 {
-  "source": "https://i.imgur.com/7BFJq8w_d.webp?maxwidth=760&fidelity=grand",
+  "source": "https://i.imgur.com/7BFJq8w_d.webp?maxwidth=760\u0026fidelity=grand",
   "md5": "935A2A762BEB884CD102803CE9DBC50A",
   "tags": [
     "male",
@@ -35,27 +35,55 @@
     "witch",
     "guilherme",
     "batista",
-    "wolf"
+    "wolf",
+    "elf",
+    "princess",
+    "drawing",
+    "fairy",
+    "elven",
+    "league",
+    "legends",
+    "legend",
+    "zelda",
+    "samurai",
+    "girls",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "bracelet",
+    "silver",
+    "puppet",
+    "wj",
+    "disco",
+    "ahri.",
+    "miss",
+    "ti",
+    "qqhuanxiang",
+    "yulin",
+    "ma"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -282,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -137,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -119,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

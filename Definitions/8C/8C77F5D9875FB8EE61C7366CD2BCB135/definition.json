@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/73/09/ec/7309ecf73a4c20f206eaaa6de0b12fdf.jpg",
   "md5": "8C77F5D9875FB8EE61C7366CD2BCB135",
   "tags": [
-    "Antipaladin"
+    "Antipaladin",
+    "armor",
+    "concept",
+    "knight",
+    "evil",
+    "anime",
+    "dark",
+    "elf",
+    "witch",
+    "hunter",
+    "anton",
+    "fort",
+    "https://www.artstation.com/artwork/dovp83",
+    "goatman",
+    "clan",
+    "ariel",
+    "perez",
+    "monster",
+    "race",
+    "design",
+    "goat",
+    "character",
+    "warhammer",
+    "40000",
+    "adeptus",
+    "astartes",
+    "fan",
+    "dmitriy",
+    "mironov"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -529,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -170,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -216,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

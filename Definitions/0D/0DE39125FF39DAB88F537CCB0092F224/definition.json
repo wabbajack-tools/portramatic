@@ -4,27 +4,34 @@
   "tags": [
     "pathfinder",
     "tiefling",
-    "portrait"
+    "portrait",
+    "\u79D8\u5883\u5BF9\u51B3",
+    "jg",
+    "yoon",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -489,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -328,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -328,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

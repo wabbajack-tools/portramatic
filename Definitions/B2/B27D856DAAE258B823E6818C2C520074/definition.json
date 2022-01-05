@@ -17,27 +17,35 @@
     "sonoda",
     "corn",
     "spice",
-    "wolf"
+    "wolf",
+    "demon",
+    "manga",
+    "cat",
+    "neko",
+    "male"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -229.00000000000006,
     "offset_y": -14.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -117.80000000000001,
     "offset_y": -7.800000000000011,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -10.861111111110858,
     "offset_y": -14.601851851851961,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

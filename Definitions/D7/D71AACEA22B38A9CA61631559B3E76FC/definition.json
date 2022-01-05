@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/0d/80/be/0d80be0b2be3c2869f658cd37a0d14ae.png",
   "md5": "D71AACEA22B38A9CA61631559B3E76FC",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warrior",
+    "female",
+    "pencil",
+    "drawings",
+    "names",
+    "assassin",
+    "witcher",
+    "dark",
+    "orc",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "character",
+    "concept",
+    "kim",
+    "ssang",
+    "https://www",
+    "https://www.artstation.com/artwork/0xgwxv",
+    "blind",
+    "ting",
+    "xu"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -162,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999932,
     "offset_x": 0,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": 0,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

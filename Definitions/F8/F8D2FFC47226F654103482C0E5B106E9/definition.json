@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/45/25/d3/4525d3fadd615bf8e2e1c21d768d43ae.jpg",
   "md5": "F8D2FFC47226F654103482C0E5B106E9",
   "tags": [
-    ""
+    "",
+    "hooded",
+    "female",
+    "archer",
+    "warrior",
+    "character",
+    "concept",
+    "knight",
+    "armor",
+    "samurai",
+    "pirate",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "a",
+    "woman",
+    "concept.",
+    "byun",
+    "ari",
+    "https://www.artstation.com/artwork/nza9o",
+    "https://cdnb.artstation.com/p/assets/images/images/006/445/679/large/b-elin-w.jpg?1498648691",
+    "c5",
+    "vladislav",
+    "stepura",
+    "portraits",
+    "playing",
+    "design"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -413.3333333333335,
     "offset_y": -216.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -168,
     "offset_y": -102.00000000000011,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": -69.33333333333348,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

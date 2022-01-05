@@ -2,27 +2,45 @@
   "source": "https://pictures.hentai-foundry.com/p/personalami/543006/personalami-543006-Inquisitor_Zayel.jpg",
   "md5": "52992094896D6576044842EFED233F99",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "40k",
+    "sororitas",
+    "eldar",
+    "farseer",
+    "tau",
+    "fire",
+    "warrior",
+    "anime",
+    "girl",
+    "daenerys",
+    "targaryen",
+    "akihiro",
+    "fukuda",
+    "https://www.artstation.com/artwork/3yq3"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -662,
     "offset_y": -372,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -283,
     "offset_y": -200,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -44,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

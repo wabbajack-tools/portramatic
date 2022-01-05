@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/fe/bf/50/febf508ffe5d42b6b73672c2b8ec3b15.jpg",
   "md5": "147E0D2691321AD51FE0085DBB75A01E",
   "tags": [
-    ""
+    "",
+    "fate",
+    "cu",
+    "chulainn",
+    "alter",
+    "lancer",
+    "stay",
+    "night",
+    "yugio",
+    "yu-gi-oh",
+    "gx",
+    "anime",
+    "angel",
+    "girl",
+    "yu",
+    "gi",
+    "oh",
+    "zexal",
+    "\u9634\u9633\u5E08\u540C\u4EBA-\u96EA\u7AE5\u5B50",
+    "tao",
+    "chen"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -239,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -266,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -104,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

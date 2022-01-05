@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/fe/f3/f9/fef3f93def1f2478f67d7bdf40c22680.jpg",
   "md5": "0D1C4C9758C0F7F055FA24EA7497F8C1",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "characters",
+    "warrior",
+    "character",
+    "cartoon",
+    "female",
+    "assassin",
+    "armors",
+    "knight",
+    "armor",
+    "leather",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "thief",
+    "pickpocket.",
+    "\u0432\u043E\u0440",
+    "\u043A\u0430\u0440\u043C\u0430\u043D\u043D\u0438\u043A.",
+    "edikt",
+    "serim",
+    "hwang",
+    "male",
+    "jedi",
+    "jack",
+    "wilson",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -369,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -60,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -30,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

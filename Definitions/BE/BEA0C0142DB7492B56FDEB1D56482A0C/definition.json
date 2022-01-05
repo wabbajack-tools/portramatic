@@ -2,25 +2,40 @@
   "source": "https://i.pinimg.com/originals/50/0a/9e/500a9e71b7cfd65748ff301bb29eaea5.jpg",
   "md5": "BEA0C0142DB7492B56FDEB1D56482A0C",
   "tags": [
-    ""
+    "",
+    "odysseus",
+    "fate",
+    "grand",
+    "order",
+    "horns",
+    "purple",
+    "hair",
+    "anime",
+    "girl",
+    "characters"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -122,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -3,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

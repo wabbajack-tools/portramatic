@@ -2,27 +2,49 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/000/602/136/large/efflam-mercier-elf.jpg?1443927409",
   "md5": "3E01AFD725265B30826F5322B4FBB4AA",
   "tags": [
-    ""
+    "",
+    "female",
+    "moon",
+    "elf",
+    "ranger",
+    "artwork",
+    "character",
+    "concept",
+    "hobbit",
+    "witcher",
+    "assassin",
+    "game",
+    "thrones",
+    "walking",
+    "dead",
+    "post",
+    "apocalyptic",
+    "pat",
+    "suchatsirikul",
+    "https://www.artstation.com/artwork/eaojw"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -344,
     "offset_y": -188,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -194,
     "offset_y": -133,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -1,
     "offset_y": -45,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

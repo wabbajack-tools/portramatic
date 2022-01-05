@@ -6,7 +6,7 @@
     "demon",
     "costume",
     "concept",
-    "demon's",
+    "demon\u0027s",
     "souls",
     "characters",
     "dark",
@@ -23,27 +23,41 @@
     "dungeons",
     "artworks",
     "anime",
-    "inspired"
+    "inspired",
+    "superhero",
+    "assassin",
+    "shadow",
+    "league",
+    "angels",
+    "legends",
+    "character",
+    "portraits",
+    "s\u00FArtr",
+    "vojtech",
+    "camfrla"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -734.5999999999971,
     "offset_y": -136.80000000000564,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.34999999999999953,
     "offset_x": -223.40000000000208,
     "offset_y": -22.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -92.5555555555552,
     "offset_y": -1.7870370370368391,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

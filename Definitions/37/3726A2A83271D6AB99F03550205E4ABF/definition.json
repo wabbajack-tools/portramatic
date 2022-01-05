@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/originals/0a/c3/01/0ac30155b35ce8500085009c0ec04dae.jpg",
   "md5": "3726A2A83271D6AB99F03550205E4ABF",
   "tags": [
-    ""
+    "",
+    "beautiful",
+    "elf",
+    "woman",
+    "dark",
+    "elves",
+    "fairy",
+    "female",
+    "hairstyle"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -33,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -7,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -30,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

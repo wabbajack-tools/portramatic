@@ -2,27 +2,48 @@
   "source": "https://i.imgur.com/8BdDbwK.jpeg",
   "md5": "F559331D4E06DC3A0F8A2F2CC55C3660",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "man",
+    "character",
+    "dynasty",
+    "warriors",
+    "samurai",
+    "orochi",
+    "goblin",
+    "king",
+    "xelhua",
+    "architect",
+    "yashaswi",
+    "karthik",
+    "https://cdna.artstation.com/p/assets/images/images/024/481/834/4k/manuel-castanon-jaguar-knight",
+    "gaelic",
+    "warlord",
+    "ario",
+    "baskoro"
   ],
   "small": {
     "scale": 0.3899999999999995,
     "offset_x": -319.1111111111114,
     "offset_y": -184.88888888888894,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -523.5555555555552,
     "offset_y": -310.2222222222218,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -328.21079691516707,
     "offset_y": -231.25964010282792,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

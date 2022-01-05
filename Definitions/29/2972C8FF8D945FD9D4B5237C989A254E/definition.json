@@ -2,27 +2,58 @@
   "source": "https://artfiles.alphacoders.com/110/110295.jpg",
   "md5": "2972C8FF8D945FD9D4B5237C989A254E",
   "tags": [
-    ""
+    "",
+    "digital",
+    "male",
+    "female",
+    "warrior",
+    "character",
+    "concept",
+    "dark",
+    "elf",
+    "lord",
+    "rings",
+    "anatomy",
+    "studies",
+    "#07-09",
+    "torso",
+    "andres",
+    "jase",
+    "salvatierra",
+    "2020",
+    "cyberpunk",
+    "mechagirl",
+    "jeong",
+    "pil",
+    "jp",
+    "7",
+    "veronika",
+    "kozlova",
+    "https://www.artstation.com/artwork/nvyj6",
+    "mythical"
   ],
   "small": {
     "scale": 0.12999999999999923,
     "offset_x": -28,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -3,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

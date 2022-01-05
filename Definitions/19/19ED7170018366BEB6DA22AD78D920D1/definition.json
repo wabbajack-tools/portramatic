@@ -3,27 +3,56 @@
   "md5": "19ED7170018366BEB6DA22AD78D920D1",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "draenei",
+    "artwork",
+    "wow",
+    "eyes",
+    "making",
+    "kitana",
+    "mkx-fanart",
+    "brizeyda",
+    "romero",
+    "star",
+    "guardian",
+    "kayle",
+    "vincent",
+    "tran",
+    "2021",
+    "skins",
+    "character",
+    "pulsefire",
+    "thresh",
+    "league",
+    "legends",
+    "splash",
+    "deiv",
+    "calviz",
+    "david",
+    "villegas"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -146,
     "offset_y": -17.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -53,
     "offset_y": -5.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -112,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

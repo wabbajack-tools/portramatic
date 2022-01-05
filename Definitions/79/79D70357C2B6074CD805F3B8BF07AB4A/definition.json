@@ -2,25 +2,54 @@
   "source": "http://1.bp.blogspot.com/-B5Kmjx6Wp9w/Ublyig19zaI/AAAAAAAAHLU/kmuYbWmxGvQ/s1600/Arishok.jpg",
   "md5": "79D70357C2B6074CD805F3B8BF07AB4A",
   "tags": [
-    "Qunari I"
+    "Qunari I",
+    "dragon",
+    "age",
+    "female",
+    "dwarves",
+    "dwarf",
+    "concept",
+    "origins",
+    "elder",
+    "scrolls",
+    "online",
+    "lord",
+    "rings",
+    "knight",
+    "fred",
+    "alm\u00E9n",
+    "for",
+    "honor\u2014\u2014tiandi",
+    "hunter",
+    "choir",
+    "victorious",
+    "lucian",
+    "league",
+    "legends",
+    "splash"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -290.66666666666674,
     "offset_y": -72.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -122.66666666666663,
     "offset_y": -5.999999999999915,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -8.000000000000227,
     "offset_y": 166.66666666666646,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

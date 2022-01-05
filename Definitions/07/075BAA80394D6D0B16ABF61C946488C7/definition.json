@@ -17,27 +17,49 @@
     "venom",
     "dante_reg",
     "mansik",
-    "yang"
+    "yang",
+    "rule",
+    "34",
+    "43",
+    "meme",
+    "icon",
+    "008",
+    "lnk",
+    "li",
+    "https://www.artstation.com/artwork/b1ko94",
+    "2020",
+    "nier",
+    "automata",
+    "infinity",
+    "ns3",
+    "human",
+    "sphere",
+    "aleksi",
+    "briclot",
+    "artwork"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -391.88607594936354,
     "offset_y": -371.6455696202521,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -312,
     "offset_y": -360,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -1.1349691886721303,
     "offset_y": -206.7576694623035,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

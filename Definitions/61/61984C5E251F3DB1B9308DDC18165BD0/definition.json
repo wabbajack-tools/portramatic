@@ -23,27 +23,54 @@
     "2020",
     "lady",
     "tate",
-    "s"
+    "s",
+    "yuri",
+    "sketch",
+    "cute",
+    "pics",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "assassin",
+    "jacket",
+    "viking-9",
+    "wang",
+    "junqu",
+    "geralt",
+    "rivia",
+    "x",
+    "vikings",
+    "remi",
+    "luizy",
+    "witcher",
+    "crazy",
+    "old",
+    "luke",
+    "kendall"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -410,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -201,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -8,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

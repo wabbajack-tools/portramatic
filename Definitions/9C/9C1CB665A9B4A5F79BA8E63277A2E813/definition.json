@@ -12,27 +12,52 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "outer_wear",
-    "coat"
+    "coat",
+    "wow",
+    "human",
+    "paladin",
+    "blood",
+    "elf",
+    "fan",
+    "night",
+    "legend",
+    "zelda",
+    "undead",
+    "dwarf",
+    "vasiliy",
+    "shturbabin",
+    "2020",
+    "ethereal",
+    "ben",
+    "zhang",
+    "steampunk",
+    "tony",
+    "splash",
+    "jonathan",
+    "aguillon"
   ],
   "small": {
     "scale": 1,
     "offset_x": -606,
     "offset_y": -123,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -380,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -379,
     "offset_y": -103,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

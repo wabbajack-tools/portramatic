@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/b8/40/f7/b840f7e57327e595815b24139c2f2c71.jpg",
   "md5": "7A6C89B0EF8B5B420264AD56C5050503",
   "tags": [
-    ""
+    "",
+    "aasimar",
+    "fighter",
+    "character",
+    "lich",
+    "king",
+    "ghost",
+    "boys",
+    "wenjun",
+    "lin",
+    "boy",
+    "concept"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -274,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -2,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -10,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

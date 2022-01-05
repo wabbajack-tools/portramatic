@@ -20,27 +20,46 @@
     "tiefling",
     "anthony",
     "dipaolo",
-    "https://www.artstation.com/artwork/g1zkm"
+    "https://www.artstation.com/artwork/g1zkm",
+    "character",
+    "portraits",
+    "planescape",
+    "female",
+    "samurai",
+    "armor",
+    "dark",
+    "elf",
+    "guardians",
+    "galaxy",
+    "sci",
+    "fi",
+    "drow",
+    "warlock",
+    "machine",
+    "lucas"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -196,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -123,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -116,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

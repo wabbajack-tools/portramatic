@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/FDIzGYIWYAkcjvr?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/FDIzGYIWYAkcjvr?format=jpg\u0026name=large",
   "md5": "52F41C13CDFA393D259956E65F6DD563",
   "tags": [
     "halfing",
@@ -9,27 +9,43 @@
     "holy",
     "magic",
     "rain",
-    "female"
+    "female",
+    "forward",
+    "sergey",
+    "musin",
+    "concept",
+    "characters",
+    "artwork",
+    "inspiration",
+    "medusa",
+    "wizard",
+    "selena",
+    "neault",
+    "https://www.artstation.com/artwork/68wnzo",
+    "2020"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -351.99999999999994,
     "offset_y": -7.999999999999972,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -219.33333333333343,
     "offset_y": -10.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -129.33333333333303,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,57 @@
   "md5": "8519D723CAB444B1971DF63EB3723501",
   "tags": [
     "dhampir",
-    "female"
+    "female",
+    "vampire",
+    "hunter",
+    "character",
+    "concept",
+    "d",
+    "knight",
+    "manga",
+    "black",
+    "assassin\u0027s",
+    "assassin",
+    "leather",
+    "armor",
+    "medieval",
+    "knights",
+    "dark",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "red",
+    "dead",
+    "ni",
+    "yipeng"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -203.99999999999997,
     "offset_y": -14.399999999999977,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -133.5999999999999,
     "offset_y": -12.799999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -11.212962962963047,
     "offset_y": -17.62037037037055,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

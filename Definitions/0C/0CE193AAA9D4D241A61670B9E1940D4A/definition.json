@@ -34,27 +34,39 @@
     "fate",
     "tom",
     "tran",
-    "https://www.artstation.com/artwork"
+    "https://www.artstation.com/artwork",
+    "wrath",
+    "titans",
+    "choi",
+    "tae",
+    "hyun",
+    "2020",
+    "minotaurus",
+    "deryl",
+    "braun"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -151.66666666666663,
     "offset_y": -31.999999999999943,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -78,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -133.99999999999972,
     "offset_y": -9.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

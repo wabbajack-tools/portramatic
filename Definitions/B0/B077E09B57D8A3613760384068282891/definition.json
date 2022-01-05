@@ -9,27 +9,49 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u6CD5\u5E08",
+    "lei",
+    "banner",
+    "fighter",
+    "r",
+    "k",
+    "girl",
+    "anime",
+    "character",
+    "so",
+    "sun-hwa",
+    "concept",
+    "liebe",
+    "loss"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -948,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -545,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -430,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

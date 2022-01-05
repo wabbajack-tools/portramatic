@@ -2,29 +2,56 @@
   "source": "https://i.pinimg.com/550x/d8/db/30/d8db30966792b7b0ad8a0f68ffd72b85.jpg",
   "md5": "E6B7BA57996501BCD5E53F8E4DA1AE94",
   "tags": [
-    "d&amp;d",
+    "d\u0026amp;d",
     "halfling",
-    "warlock"
+    "warlock",
+    "miniatures",
+    "male",
+    "female",
+    "pirate",
+    "assassin",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "forest",
+    "scout",
+    "xelgot",
+    ".",
+    "warrior",
+    "flamberge",
+    "kim",
+    "kovaleva",
+    "artstation.",
+    "men",
+    "aphrodite_pirate",
+    "roman",
+    "cherepov"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -278,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -141,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

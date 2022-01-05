@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/9c/f0/66/9cf066ef058782a36843bac091a560a5.jpg",
   "md5": "1BEA0E0919396FAA596E04681695E5AA",
   "tags": [
-    "Alchemist"
+    "Alchemist",
+    "superhero",
+    "mask",
+    "concept",
+    "hero",
+    "costume",
+    "medieval",
+    "princess",
+    "knights",
+    "orc",
+    "warrior",
+    "miniatures",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "belt",
+    "shoes",
+    "boots",
+    "nuxia",
+    "for",
+    "honor\uFF0Cremko",
+    "troost",
+    "honor",
+    "characters",
+    "character",
+    "design",
+    "zhihui",
+    "su",
+    "kratos",
+    "ricardo",
+    "barcellos"
   ],
   "small": {
     "scale": 1,
     "offset_x": -125,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -61,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -26,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

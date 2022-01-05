@@ -4,27 +4,41 @@
   "tags": [
     "girl",
     "wizard",
-    "mage"
+    "mage",
+    "mtg",
+    "mikaeus",
+    "myr",
+    "kor",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "sofia",
+    "stanislav",
+    "novarenko"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -474.4000000000003,
     "offset_y": -124.8000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -171.9999999999999,
     "offset_y": -63.20000000000044,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -166.59259259259238,
     "offset_y": -72.08333333333394,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

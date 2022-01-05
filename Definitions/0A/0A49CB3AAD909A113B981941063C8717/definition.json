@@ -2,27 +2,51 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/022/779/859/large/christ-adiel-then-1.jpg?1576664585",
   "md5": "0A49CB3AAD909A113B981941063C8717",
   "tags": [
-    "orc female axe"
+    "orc female axe",
+    "female",
+    "orc",
+    "picture",
+    "half",
+    "character",
+    "realistic",
+    "world",
+    "warcraft",
+    "rogue",
+    "elf",
+    "assassin",
+    "martial",
+    "race",
+    "\u3147\u3147",
+    "joo",
+    "https://www",
+    "kaichen",
+    "yan\u0027s",
+    "submission",
+    "ancient",
+    "barbarian"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -471.9999999999962,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -280.00000000000006,
     "offset_y": -69.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -71.99999999999955,
     "offset_y": -30.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

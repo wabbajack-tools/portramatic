@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/564x/13/d1/1c/13d11cf16464b93971834cbd0a8f3b81.jpg",
   "md5": "DCA4F8E32D61F1CEFB64160089132A03",
   "tags": [
-    "Druid"
+    "Druid",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "pan",
+    "plutus",
+    "su",
+    "forest",
+    "tomek",
+    "panek"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -369,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5500000000000005,
     "offset_x": -298,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.219999999999996,
     "offset_x": -328,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

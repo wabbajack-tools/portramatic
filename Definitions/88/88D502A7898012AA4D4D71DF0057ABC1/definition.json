@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/fd/54/79/fd5479ae38009f7fb18239511cf1044e.jpg",
   "md5": "88D502A7898012AA4D4D71DF0057ABC1",
   "tags": [
-    ""
+    "",
+    "paladin",
+    "knight",
+    "human",
+    "male",
+    "armor",
+    "medieval",
+    "knights",
+    "armors",
+    "warriors",
+    "orc",
+    "warrior",
+    "heavy",
+    "daedric",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "keonhee",
+    "han",
+    "https://www",
+    "concept",
+    "study",
+    "works",
+    "kyoung",
+    "hwan",
+    "kim",
+    "vitaliy",
+    "tyukin\u0027s",
+    "submission",
+    "ancient"
   ],
   "small": {
     "scale": 1,
     "offset_x": -344,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -290,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

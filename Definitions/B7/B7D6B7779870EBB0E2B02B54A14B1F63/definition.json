@@ -1,28 +1,55 @@
 {
-  "source": "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/11313733/f51aa16c54754291a28e4226978fc47a/1.jpg?token-time=1641686400&token-hash=DnbLH7D76VOeutM8PnuG8OxsBhvR3B3o84tLiOleR40%3D",
+  "source": "https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/11313733/f51aa16c54754291a28e4226978fc47a/1.jpg?token-time=1641686400\u0026token-hash=DnbLH7D76VOeutM8PnuG8OxsBhvR3B3o84tLiOleR40%3D",
   "md5": "B7D6B7779870EBB0E2B02B54A14B1F63",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "hair",
+    "character",
+    "high",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "link",
+    "navi",
+    "legend",
+    "zelda",
+    "raquel",
+    "armored",
+    "sky",
+    "kumanz",
+    "silver",
+    "crow",
+    "hyungwoo",
+    "kim",
+    "female"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

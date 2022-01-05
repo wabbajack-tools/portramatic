@@ -1,28 +1,36 @@
 {
-  "source": "https://preview.redd.it/ukz9rlcoqdu41.jpg?auto=webp&s=5bb99f51f2e41be025f998dbb46d17719bd6a57a",
+  "source": "https://preview.redd.it/ukz9rlcoqdu41.jpg?auto=webp\u0026s=5bb99f51f2e41be025f998dbb46d17719bd6a57a",
   "md5": "2CBFBC6A512FF0F03DB0D1F484073B1F",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "watch"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -75,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -98,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -66,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

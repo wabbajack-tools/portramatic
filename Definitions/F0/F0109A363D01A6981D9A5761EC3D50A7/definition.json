@@ -2,27 +2,46 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/705b1c70-b724-447d-9eea-4f3e76650a75/dcdq0hf-441d79db-42b1-4be6-a6f0-108d78736102.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwNWIxYzcwLWI3MjQtNDQ3ZC05ZWVhLTRmM2U3NjY1MGE3NVwvZGNkcTBoZi00NDFkNzlkYi00MmIxLTRiZTYtYTZmMC0xMDhkNzg3MzYxMDIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.k5uM3Ms3uGj97LTLaulJMXZ8BqYPbnh1XZlHlTfifNc",
   "md5": "F0109A363D01A6981D9A5761EC3D50A7",
   "tags": [
-    ""
+    "",
+    "legends",
+    "cryptids",
+    "warrior",
+    "legend",
+    "characters",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -366,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -276,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -222,
     "offset_y": -186,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,30 +1,36 @@
 {
-  "source": "https://external-preview.redd.it/BZN3W8vRo7N5RIfC2l0fErohciHH2uY9lDL7w2qn2xM.png?auto=webp&s=8965994d47e54cb8817dea06877bb8a30daa3e87",
+  "source": "https://external-preview.redd.it/BZN3W8vRo7N5RIfC2l0fErohciHH2uY9lDL7w2qn2xM.png?auto=webp\u0026s=8965994d47e54cb8817dea06877bb8a30daa3e87",
   "md5": "1BEE1BE8589673AA49FBE9D5029D06DB",
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "velkhana",
+    "jinnie",
+    "to"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -867,
     "offset_y": -196,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -578,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -588,
     "offset_y": -164,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

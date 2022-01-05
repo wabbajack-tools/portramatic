@@ -2,25 +2,39 @@
   "source": "https://i.pinimg.com/originals/8e/b1/09/8eb1091261cabf116336c621541c6915.png",
   "md5": "3B171171C2AF0E57F5CCDF9EFE625BF0",
   "tags": [
-    ""
+    "",
+    "bestiary",
+    "quasit",
+    "demon",
+    "devil",
+    "black",
+    "dragon",
+    "statues",
+    "green",
+    "fire"
   ],
   "small": {
     "scale": 1.7300000000000006,
     "offset_x": -754,
     "offset_y": -562,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -279,
     "offset_y": -151,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -510,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

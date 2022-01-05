@@ -2,27 +2,46 @@
   "source": "https://pictures.hentai-foundry.com/l/LeraPI/882358/LeraPI-882358-stream_comm_OC_Fillia_Einhart.jpg",
   "md5": "89D4A792E431F50AA1298778FE02779E",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "dryad.",
+    "\u043D\u0430\u0442\u0430\u043B\u044C\u044F",
+    "\u0434\u043E\u043B\u0433\u0438\u0445",
+    "lightforged",
+    "draenei",
+    "valentina",
+    "feshina",
+    "zelda",
+    "redesign",
+    "brandon",
+    "p\u00E9rez"
   ],
   "small": {
     "scale": 1,
     "offset_x": -356,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -101,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -68,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

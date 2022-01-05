@@ -1,5 +1,5 @@
 {
-  "source": "https://f8n-ipfs-production.imgix.net/QmRWAGFuaGZ9sZVoH4eFXy4bn8b7tBhDNNTsvQbUNSoNq9/nft.png?q=80&auto=format%2Ccompress&cs=srgb&max-w=1680&max-h=1680",
+  "source": "https://f8n-ipfs-production.imgix.net/QmRWAGFuaGZ9sZVoH4eFXy4bn8b7tBhDNNTsvQbUNSoNq9/nft.png?q=80\u0026auto=format%2Ccompress\u0026cs=srgb\u0026max-w=1680\u0026max-h=1680",
   "md5": "361E41E41D1BD941853FCB6621BB47DE",
   "tags": [
     "legend",
@@ -12,21 +12,24 @@
     "scale": 0.26999999999999946,
     "offset_x": -473,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.1599999999999993,
     "offset_x": -150,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.1699999999999993,
     "offset_x": 0,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

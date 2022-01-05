@@ -14,27 +14,36 @@
     "pandalette",
     "damien",
     "levaufre",
-    "https://www"
+    "https://www",
+    "baldur\u0027s",
+    "gate",
+    "characters",
+    "series",
+    "enhanced",
+    "edition"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -104,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -180,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -260,
     "offset_y": -140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

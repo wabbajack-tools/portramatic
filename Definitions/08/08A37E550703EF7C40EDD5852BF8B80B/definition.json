@@ -2,27 +2,68 @@
   "source": "https://i.pinimg.com/originals/d3/c3/ba/d3c3ba3c6c857debc7dcce88b743dea0.jpg",
   "md5": "08A37E550703EF7C40EDD5852BF8B80B",
   "tags": [
-    ""
+    "",
+    "male",
+    "halfling",
+    "fighter",
+    "female",
+    "thief",
+    "warrior",
+    "costume",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "orc",
+    "dragon",
+    "age",
+    "origins",
+    "conan",
+    "barbarian",
+    "kingdoms",
+    "amalur",
+    "reckoning",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "yan",
+    "stark",
+    "kyohara",
+    "https://www",
+    "haze",
+    "black",
+    "flame",
+    "caller",
+    "knight",
+    "ruan",
+    "jia",
+    "free",
+    "liebe",
+    "loss"
   ],
   "small": {
     "scale": 1,
     "offset_x": -138,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -60,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 44,
     "offset_y": 106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

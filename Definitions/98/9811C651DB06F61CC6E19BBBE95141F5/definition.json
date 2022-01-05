@@ -5,27 +5,57 @@
     "female",
     "tiefling",
     "rogue",
-    "sword"
+    "sword",
+    "assassin",
+    "anime",
+    "characters",
+    "girl",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "liz",
+    "son",
+    "warrior",
+    "hunter",
+    "sangmin",
+    "park",
+    "knight",
+    "kim",
+    "seung",
+    "hwan",
+    "concept"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -241.99999999999991,
     "offset_y": -25.399999999999977,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -130.9999999999999,
     "offset_y": -26.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7300000000000006,
     "offset_x": -133.24074074074065,
     "offset_y": -37.57407407407379,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

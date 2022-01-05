@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/originals/69/c0/8e/69c08ed8821fc17f0fa2c51ddb699be8.jpg",
   "md5": "75708CE6A90F0AD884BDA688093E7A1B",
   "tags": [
-    "Antipaladin"
+    "Antipaladin",
+    "female",
+    "tiefling",
+    "warrior",
+    "elf",
+    "paladin",
+    "dd",
+    "star",
+    "wars",
+    "bounty",
+    "hunter",
+    "clone",
+    "mandalorian",
+    "assassin",
+    "power",
+    "armor",
+    "knight",
+    "old",
+    "republic",
+    "immortals",
+    "yurii",
+    "nikolaiko",
+    "https://www.artstation.com/artwork/xdlq0",
+    "knoll",
+    "warlord",
+    "b",
+    "r",
+    "a",
+    "n",
+    "tek",
+    "wych",
+    "sam",
+    "lamont",
+    "concept",
+    "world"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -199,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -31,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -48,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

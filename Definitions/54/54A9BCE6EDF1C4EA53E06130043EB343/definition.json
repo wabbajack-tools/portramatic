@@ -2,27 +2,40 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc2b7c92-acfb-48f7-a13f-56d62d3dd4ef/de0dawr-d96aaa85-68d2-4fc3-983b-c01e402595bc.jpg/v1/fill/w_900,h_1228,q_75,strp/cm__aisha_by_shizen1102_de0dawr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyOCIsInBhdGgiOiJcL2ZcL2RjMmI3YzkyLWFjZmItNDhmNy1hMTNmLTU2ZDYyZDNkZDRlZlwvZGUwZGF3ci1kOTZhYWE4NS02OGQyLTRmYzMtOTgzYi1jMDFlNDAyNTk1YmMuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jcyI7yeeIHKPx88cQkJrt0CMz2TCqJKof1I7QK9aLc0",
   "md5": "54A9BCE6EDF1C4EA53E06130043EB343",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots",
+    "heels",
+    "don",
+    "arturo"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -301,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -102,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -62,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/b3/df/a4/b3dfa4c18d6bc4d5240f64fcc62945e9.jpg",
   "md5": "9BACEB135EFBDAE8C1524CEC84B00B28",
   "tags": [
-    ""
+    "",
+    "zorro",
+    "drawings",
+    "artwork",
+    "fan",
+    "game",
+    "thrones",
+    "hobbit",
+    "witcher",
+    "knight",
+    "armor",
+    "orc",
+    "warrior",
+    "arbiter",
+    "castlevania",
+    "lords",
+    "shadow",
+    "gears",
+    "war",
+    "paintings",
+    "process",
+    "hypnus",
+    "l",
+    "painting",
+    "bounty",
+    "hunter",
+    "xavier",
+    "allen",
+    "osman",
+    "empire",
+    "sunwoo",
+    "lee",
+    "persian"
   ],
   "small": {
     "scale": 0.5099999999999993,
     "offset_x": -238,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.1999999999999996,
     "offset_x": -14,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999999,
     "offset_x": -92,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

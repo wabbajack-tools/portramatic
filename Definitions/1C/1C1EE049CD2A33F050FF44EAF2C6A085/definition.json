@@ -2,27 +2,49 @@
   "source": "https://i.redd.it/z267yumjc6m31.jpg",
   "md5": "1C1EE049CD2A33F050FF44EAF2C6A085",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "jace",
+    "beleren",
+    "card",
+    "fan",
+    "death",
+    "knight",
+    "lich",
+    "king",
+    "skyrim",
+    "alien",
+    "vs",
+    "predator",
+    "dungeons",
+    "dragons",
+    "hela",
+    "goddess",
+    "c\u00E9line",
+    "martin"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -573,
     "offset_y": -246,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -258,
     "offset_y": -151,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -470,
     "offset_y": -272,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

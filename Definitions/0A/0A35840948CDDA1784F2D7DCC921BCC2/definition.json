@@ -5,27 +5,44 @@
     "male",
     "tiefling",
     "wizard",
-    "purple"
+    "purple",
+    "elf",
+    "character",
+    "bard",
+    "concept",
+    "scarlet",
+    "color",
+    "wip",
+    "auriane",
+    "dubois",
+    "angel",
+    "ganev",
+    "2021",
+    "digital",
+    "girl"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -47,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -5,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -12,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

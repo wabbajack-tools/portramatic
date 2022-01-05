@@ -6,27 +6,52 @@
     "elf",
     "arbalest",
     "bageumi",
-    "."
+    ".",
+    "female",
+    "warrior",
+    "ranger",
+    "character",
+    "design",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "beginer",
+    "sword",
+    "girl",
+    "junq",
+    "jeon",
+    "with",
+    "viking",
+    "final",
+    "kate",
+    "voynova",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "ares\u738B\u9890\u58A8"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -1027.0000000000014,
     "offset_y": -587.7999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -211.3999999999998,
     "offset_y": -181.39999999999952,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -121.31481481481319,
     "offset_y": -198.1574074074066,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

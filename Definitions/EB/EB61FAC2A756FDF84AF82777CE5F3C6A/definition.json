@@ -2,27 +2,49 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/705b1c70-b724-447d-9eea-4f3e76650a75/d782fb6-1d52429c-1c9d-42ba-996c-426c4b7281d7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwNWIxYzcwLWI3MjQtNDQ3ZC05ZWVhLTRmM2U3NjY1MGE3NVwvZDc4MmZiNi0xZDUyNDI5Yy0xYzlkLTQyYmEtOTk2Yy00MjZjNGI3MjgxZDcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1JoZI3E3IIN9j4SXkYC4xglHMRV2X7BNXzcxWMZCz9w",
   "md5": "EB61FAC2A756FDF84AF82777CE5F3C6A",
   "tags": [
-    ""
+    "",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "juliet",
+    "ice",
+    "sorceress",
+    "guilherme",
+    "batista",
+    "mau",
+    "alice\u0027s",
+    "revenge",
+    "lonnie",
+    "harrison"
   ],
   "small": {
     "scale": 1.4500000000000004,
     "offset_x": -464,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -304,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -68,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

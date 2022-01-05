@@ -2,27 +2,48 @@
   "source": "http://tiebapic.baidu.com/forum/pic/item/4794e4084b36acaf1b0b64e421d98d1000e99cb8.jpg",
   "md5": "8B5B0AC19E04F8CD98FAA12317C35C13",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "skins",
+    "maxwell-tyrell",
+    "light\u0027s",
+    "hope",
+    "dayton",
+    "myers",
+    "2020",
+    "world",
+    "warcraft",
+    "alucard",
+    "viscount",
+    "lasso",
+    "mobile",
+    "kagome",
+    "darlee",
+    "urbiztondo"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -211.20000000000027,
     "offset_y": -38.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -149.60000000000002,
     "offset_y": -32.000000000000114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

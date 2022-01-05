@@ -2,27 +2,41 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1db88b3d-6af5-4d4e-b0e4-688c957e07e2/dcmty1f-4c2a85c7-27d6-4aa6-878a-790c548f6e46.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYjg4YjNkLTZhZjUtNGQ0ZS1iMGU0LTY4OGM5NTdlMDdlMlwvZGNtdHkxZi00YzJhODVjNy0yN2Q2LTRhYTYtODc4YS03OTBjNTQ4ZjZlNDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LOyZ1DVdJ4RhrjYrieBm3zsaVrF1e5IFsjOQVv1VfCM",
   "md5": "006C14969DC569959C2A6CF2DFF217F9",
   "tags": [
-    ""
+    "",
+    "comic",
+    "book",
+    "fgo",
+    "frankenstein",
+    "jisun",
+    "baek",
+    "fate",
+    "stay",
+    "night",
+    "anime",
+    "series"
   ],
   "small": {
     "scale": 0.7399999999999989,
     "offset_x": -436,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -181,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -2,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

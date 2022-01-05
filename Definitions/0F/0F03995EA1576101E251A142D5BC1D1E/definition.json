@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/73/d1/a5/73d1a5a4ff7d1796be23f72567b2b571.jpg",
   "md5": "0F03995EA1576101E251A142D5BC1D1E",
   "tags": [
-    "Slayer"
+    "Slayer",
+    "mandalorian",
+    "batman",
+    "costume",
+    "heavy",
+    "armor",
+    "dark",
+    "knight",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "rises",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "assassin",
+    "\u5F6D\u4E00\u5CF0",
+    "\u540C\u5B66\u4F5C\u54C1",
+    "aboutcg",
+    "education",
+    "robb",
+    "stark",
+    "yuehong",
+    "he",
+    "character",
+    "praxis",
+    "ningbo",
+    "jiang",
+    "#artstation",
+    "#jiang",
+    "#"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -2,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -7,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -74,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

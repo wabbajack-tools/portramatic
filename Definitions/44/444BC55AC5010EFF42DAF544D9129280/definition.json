@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/28/32/bd/2832bd93715100648d90c7a0b20e749e.jpg",
   "md5": "444BC55AC5010EFF42DAF544D9129280",
   "tags": [
-    ""
+    "",
+    "demonic",
+    "imps",
+    "anime",
+    "imp",
+    "demon",
+    "cute",
+    "dark",
+    "elf",
+    "vampire",
+    "knight",
+    "manga",
+    "juliana",
+    "wilhelm",
+    "character",
+    "concept",
+    "characters",
+    "targaryen-1",
+    "yunhao",
+    "zheng",
+    "2020",
+    "girl",
+    "epic",
+    "souls",
+    "sibyl",
+    "vane"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -516,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -163,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -268,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

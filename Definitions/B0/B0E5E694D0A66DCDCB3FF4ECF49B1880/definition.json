@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/db/cd/b9/dbcdb9f5c84da6c3c62832aadc0c6e4c.jpg",
   "md5": "B0E5E694D0A66DCDCB3FF4ECF49B1880",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "chaos",
+    "warrior",
+    "warhammer",
+    "40k",
+    "demon",
+    "hunter",
+    "applibot",
+    "maciej",
+    "kuciara",
+    "women",
+    "three",
+    "heroes",
+    "combating",
+    "with",
+    "lv",
+    "bu(\u4E09\u82F1\u6218\u5415\u5E03",
+    "shin",
+    "mad",
+    "dragon",
+    "martial",
+    "style"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -228,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -153,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -130,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

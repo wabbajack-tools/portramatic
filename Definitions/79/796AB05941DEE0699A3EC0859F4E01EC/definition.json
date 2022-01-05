@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/49/30/ad/4930ad61810bf77cc8379be4e10a02d2.jpg",
   "md5": "796AB05941DEE0699A3EC0859F4E01EC",
   "tags": [
-    ""
+    "",
+    "knight",
+    "body",
+    "armor",
+    "costume",
+    "black",
+    "crusader",
+    "knights",
+    "dragon",
+    "armors",
+    "heavy",
+    "daedric",
+    "medieval",
+    "k-811",
+    "yuriy",
+    "chemezov",
+    "dark",
+    "francis",
+    "lafleche",
+    "superhero",
+    "archeage",
+    "bigins",
+    "2015~2016",
+    "beast",
+    "min"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -53,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -16,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": 0,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,27 +10,45 @@
     "character",
     "redesign",
     "supernatural",
-    "creature"
+    "creature",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "battle",
+    "mage",
+    "jinha",
+    "kim",
+    "https://www",
+    "ew",
+    "blake",
+    "yuan",
+    "sorceress",
+    "son",
+    "yumin"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -813,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -521,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9499999999999971,
     "offset_x": -624,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

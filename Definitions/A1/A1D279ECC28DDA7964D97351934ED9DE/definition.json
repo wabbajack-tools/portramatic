@@ -13,27 +13,50 @@
     "joan",
     "arc",
     "ancient",
-    "egypt"
+    "egypt",
+    "knight",
+    "warrior",
+    "character",
+    "armor",
+    "medieval",
+    "portraits",
+    "assassin",
+    "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25artstation",
+    "hela",
+    "dyana",
+    "wang",
+    "marvel",
+    "faracy",
+    "stephanie",
+    "brown",
+    "war",
+    "mage",
+    "harbinger",
+    "bogna",
+    "gawro\u0144ska"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -181.40000000000202,
     "offset_y": -58.599999999999454,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -183.59999999999957,
     "offset_y": -65.99999999999932,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -119.22222222222058,
     "offset_y": -98.02777777777737,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

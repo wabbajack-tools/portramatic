@@ -12,32 +12,43 @@
     "elf",
     "wood",
     "siegfried",
-    "josé-patricio",
+    "jos\uFFFD-patricio",
     "aguirre",
     "just",
     "picture",
     "ilya",
-    "kalugin"
+    "kalugin",
+    "creature",
+    "from",
+    "black",
+    "lagoon",
+    "jos\u00E9-patricio",
+    "forest",
+    "ga\u00E9tan",
+    "weltzer"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -443,
     "offset_y": -184,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -453,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5899999999999963,
     "offset_x": -728,
     "offset_y": -140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

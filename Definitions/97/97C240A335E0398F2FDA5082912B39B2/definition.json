@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/ef/9d/18/ef9d182e9e19f6e47f48946590ba722e.jpg",
   "md5": "97C240A335E0398F2FDA5082912B39B2",
   "tags": [
-    ""
+    "",
+    "steampunk",
+    "male",
+    "pirate",
+    "famous",
+    "drawings",
+    "knight",
+    "armor",
+    "assassin",
+    "dungeons",
+    "dragons",
+    "medieval",
+    "knights",
+    "warriors",
+    "alien",
+    "warrior",
+    "heavy",
+    "eldritch",
+    "guard",
+    "ronnie",
+    "price",
+    "ii",
+    "hadrian",
+    "blackwater",
+    "alina",
+    "fuhrmann",
+    "whole",
+    "bunch",
+    "sketches",
+    "v.01",
+    "borislav",
+    "mitkov"
   ],
   "small": {
     "scale": 1.9200000000000008,
     "offset_x": -440,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -11,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -16,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

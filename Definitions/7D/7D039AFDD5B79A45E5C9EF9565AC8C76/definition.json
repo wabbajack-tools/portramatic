@@ -7,25 +7,38 @@
     "final fantasy",
     "fish",
     "animal",
-    ""
+    "",
+    "incubus",
+    "demon",
+    "dark",
+    "hunter",
+    "concept",
+    "black",
+    "spider-man",
+    "costumes"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -182.39999999999998,
     "offset_y": -101.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -57.39999999999998,
     "offset_y": -34.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -22,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

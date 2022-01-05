@@ -6,27 +6,55 @@
     "dwarf",
     "alexanderexorcist",
     "oleksandr",
-    "kozachenko"
+    "kozachenko",
+    "dwarf-lord",
+    "painting",
+    "dwarves",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "huang",
+    "guangjian",
+    "badass",
+    "fantastic",
+    "artwork",
+    "warchanter",
+    "mogis",
+    "magic",
+    "gathering",
+    "michael",
+    "bierek",
+    "https://www",
+    "marisi",
+    "breaker",
+    "coil",
+    "rudy",
+    "siswanto",
+    "https://www.artstat\u2026"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -660,
     "offset_y": -232,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -174,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -149,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,41 @@
   "source": "https://w.wallhaven.cc/full/8x/wallhaven-8xo1wj.jpg",
   "md5": "FD7AA0EBA930E649D314925F6E5DED0B",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "armor",
+    "concept",
+    "female",
+    "dark",
+    "knight",
+    "sword",
+    "demons",
+    "guardians",
+    "galaxy",
+    "black"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -557,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -401,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -521,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

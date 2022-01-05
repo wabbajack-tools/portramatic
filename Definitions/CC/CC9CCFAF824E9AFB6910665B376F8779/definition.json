@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/9a/c7/01/9ac701afeb89f45188787fb6254a700e.jpg",
   "md5": "CC9CCFAF824E9AFB6910665B376F8779",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "dark",
+    "knight",
+    "dungeons",
+    "dragons",
+    "armor",
+    "armors",
+    "demons",
+    "elf",
+    "imitation",
+    "2012",
+    "jinok",
+    "lee",
+    "concept",
+    "ranger",
+    "characters",
+    "blackman",
+    "jincheng",
+    "ding",
+    "https://www.artstation.com/artwork/40bq8",
+    "gears",
+    "war",
+    "4",
+    "scion",
+    "designs",
+    "jerad",
+    "marantz"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -337,
     "offset_y": -123,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -213,
     "offset_y": -77,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -14,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

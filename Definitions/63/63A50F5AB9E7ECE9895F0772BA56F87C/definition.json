@@ -8,27 +8,54 @@
     "pathfinder",
     "rpg",
     "nicholas",
-    "&quot;rookzer0&quot"
+    "\u0026quot;rookzer0\u0026quot",
+    "animes",
+    "with",
+    "black",
+    "characters",
+    "anime",
+    "fan",
+    "inspiration",
+    "female",
+    "pirate",
+    "predator",
+    "knight",
+    "armor",
+    "samurai",
+    "wasteland",
+    "gladiator",
+    "tj",
+    "foo",
+    "jaynorn",
+    "lin",
+    "fighter",
+    "gear",
+    "https://www.artstation.com/artwork/qvmxa",
+    "soldado",
+    "romano"
   ],
   "small": {
     "scale": 0.6999999999999998,
     "offset_x": -321.6000000000005,
     "offset_y": -24.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999997,
     "offset_x": -152.80000000000024,
     "offset_y": -4.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -57.398148148148266,
     "offset_y": -0.8888888888889142,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

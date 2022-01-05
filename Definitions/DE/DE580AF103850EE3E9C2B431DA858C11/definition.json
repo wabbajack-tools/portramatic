@@ -2,27 +2,69 @@
   "source": "https://i.pinimg.com/564x/f2/62/63/f26263a27c33ba78e8b7801060596dd1.jpg",
   "md5": "DE580AF103850EE3E9C2B431DA858C11",
   "tags": [
-    ""
+    "",
+    "human",
+    "druid",
+    "elf",
+    "male",
+    "medieval",
+    "knights",
+    "armors",
+    "actionfigures",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
+    "soldier",
+    "leather",
+    "armor",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "wild",
+    "west",
+    "challenge",
+    "marco",
+    "hasmann",
+    "path",
+    "exile",
+    "npc",
+    "pack",
+    "boss",
+    "roman",
+    "alchemist",
+    "damian",
+    "audino",
+    "https://www"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -303,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -72,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -80,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

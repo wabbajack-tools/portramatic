@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/0b/cc/61/0bcc61367e4d69a8ce150e3f97e96df4.jpg",
   "md5": "30B36BE2D9A2C16FAFF609A3C9B2B58F",
   "tags": [
-    ""
+    "",
+    "full",
+    "body",
+    "knight",
+    "armor",
+    "black",
+    "medieval",
+    "plate",
+    "authentic",
+    "armors",
+    "power",
+    "war",
+    "hammer",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "eunyoung",
+    "2021",
+    "warrior",
+    "concept",
+    "conan",
+    "sketch",
+    "borislav",
+    "mitkov",
+    "https://www",
+    "centaur",
+    "quick",
+    "julian",
+    "calle"
   ],
   "small": {
     "scale": 1,
     "offset_x": -209,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -108,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 50,
     "offset_y": 22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

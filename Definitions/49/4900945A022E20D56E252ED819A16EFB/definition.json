@@ -1,28 +1,48 @@
 {
-  "source": "https://img.wattpad.com/b5e9950cd4d3a0607c09a2cc7c772eaf3426a456/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5570617a57736e684c6c705242673d3d2d3936343638373137392e313633643536386431363036353263633639303738353736313639342e6a7067?s=fit&w=720&h=720",
+  "source": "https://img.wattpad.com/b5e9950cd4d3a0607c09a2cc7c772eaf3426a456/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5570617a57736e684c6c705242673d3d2d3936343638373137392e313633643536386431363036353263633639303738353736313639342e6a7067?s=fit\u0026w=720\u0026h=720",
   "md5": "4900945A022E20D56E252ED819A16EFB",
   "tags": [
-    ""
+    "",
+    "anime",
+    "male",
+    "dark",
+    "elf",
+    "elves",
+    "boy",
+    "high",
+    "warrior",
+    "girl",
+    "characters",
+    "guys",
+    "bleach",
+    "\u65E0\u540D\u540D\u540D~",
+    "tianlong",
+    "zheng",
+    "sword",
+    "stranger"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

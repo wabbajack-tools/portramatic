@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/6a/fd/0c/6afd0ca9b719e98403c350eba10da4e0.jpg",
   "md5": "9C6CCB87DE816FA96581F90FC0CD036F",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "drawing",
+    "thief",
+    "character",
+    "concept",
+    "assassin",
+    "green",
+    "arrow",
+    "armors",
+    "suit",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "dragon",
+    "knight",
+    "yunhee",
+    "lee",
+    "ghost",
+    "tsushima",
+    "yuna",
+    "mitch",
+    "mohrhauser",
+    "golden",
+    "eyes",
+    "yang",
+    "liu",
+    "urban"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -185,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -45,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -6,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

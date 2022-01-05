@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/19/bd/fb/19bdfb6cec55c889584040651a919b5e.jpg",
   "md5": "2EF9F25B8C4F0E2EB37A83908D7B74D7",
   "tags": [
-    ""
+    "",
+    "favorite",
+    "female",
+    "characters",
+    "popular",
+    "from",
+    "movies",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bracelet",
+    "fire",
+    "eyes",
+    "fanart",
+    "ashley",
+    "feemster",
+    "wallpaper",
+    "scarlet",
+    "witch",
+    "artwork",
+    "digital",
+    "sohyun",
+    "park"
   ],
   "small": {
     "scale": 1,
     "offset_x": -513,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -451.8,
     "offset_y": -269.4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -268,
     "offset_y": -226,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

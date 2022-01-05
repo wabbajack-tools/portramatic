@@ -18,27 +18,49 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "dwarf",
+    "character",
+    "portraits",
+    "cleric",
+    "greek",
+    "gods",
+    "loc",
+    "mansik",
+    "yang",
+    "artwork",
+    "legend",
+    "cryptids",
+    "work",
+    "hoy",
+    "ohla",
+    "characters",
+    "order",
+    "dix",
+    "shou"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -458,
     "offset_y": -275,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -226,
     "offset_y": -148,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -106,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

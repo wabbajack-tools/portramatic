@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/3c/f4/be/3cf4becf099adf61e95ce23096d0cf87.jpg",
   "md5": "5490BAC4C09FF474EB144EF191CCF414",
   "tags": [
-    ""
+    "",
+    "red",
+    "wizard",
+    "robe",
+    "robes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "baron",
+    "hastif",
+    "character",
+    "concept",
+    "nikola",
+    "matkovic",
+    "https://www.artstation.com",
+    "elena",
+    "kononenko",
+    "design",
+    "swordsman",
+    "male",
+    "elf",
+    "sasha",
+    "vilen"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -214,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -24,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

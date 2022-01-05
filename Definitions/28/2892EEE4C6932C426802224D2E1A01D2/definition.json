@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/05/5e/d4/055ed44b7db61fe23eda6f7c00c3d9b4.jpg",
   "md5": "2892EEE4C6932C426802224D2E1A01D2",
   "tags": [
-    ""
+    "",
+    "roman",
+    "soldier",
+    "snow",
+    "white",
+    "huntsman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -205,
     "offset_y": -104,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -36,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -12,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

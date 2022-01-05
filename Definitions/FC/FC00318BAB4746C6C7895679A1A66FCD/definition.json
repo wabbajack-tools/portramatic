@@ -7,27 +7,49 @@
     "mage",
     "wizard",
     "necromancer",
-    "illusion"
+    "illusion",
+    "female",
+    "warrior",
+    "character",
+    "evil",
+    "concept",
+    "queen",
+    "kingdom",
+    "realms",
+    "conquest",
+    "abraham",
+    "leal",
+    "sorcerer",
+    "shuri",
+    "cat",
+    "practice",
+    "ria",
+    "chen",
+    "women",
+    "girl"
   ],
   "small": {
     "scale": 0.47,
     "offset_x": -359.9333333333334,
     "offset_y": -102.5333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.33999999999999975,
     "offset_x": -128.06666666666683,
     "offset_y": -62.733333333333064,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999986,
     "offset_x": -74.01851851851848,
     "offset_y": -90.1759259259261,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

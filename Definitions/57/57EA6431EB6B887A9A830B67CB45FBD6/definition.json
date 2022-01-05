@@ -2,27 +2,50 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/008/601/328/large/miao-miao-1.jpg?1513831697",
   "md5": "57EA6431EB6B887A9A830B67CB45FBD6",
   "tags": [
-    ""
+    "",
+    "miao",
+    "girl",
+    "china",
+    "village",
+    "ekko",
+    "league",
+    "legends\u3002\u3002\u3002\u3002",
+    "mystery",
+    "loser",
+    "water",
+    "druid",
+    "male",
+    "leksa",
+    "witch",
+    "characters",
+    "adventure",
+    "aztec",
+    "warden",
+    "linn",
+    "d"
   ],
   "small": {
     "scale": 1,
     "offset_x": -641,
     "offset_y": -195,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -484,
     "offset_y": -189,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -266,
     "offset_y": -106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

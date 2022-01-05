@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/feac120a-4482-4a91-9cee-fce7fbde0dbe/dd7z1f7-7ed0f64e-03b0-4769-97fc-1c5a3e510fb8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlYWMxMjBhLTQ0ODItNGE5MS05Y2VlLWZjZTdmYmRlMGRiZVwvZGQ3ejFmNy03ZWQwZjY0ZS0wM2IwLTQ3NjktOTdmYy0xYzVhM2U1MTBmYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HL47ePfOX5XFpCr2X3_gEvo2NlyCwB9lcD31qKxt66E",
   "md5": "68FF8BFF8F725D6C69B70346BD3D2454",
   "tags": [
-    "paladin"
+    "paladin",
+    "leanne",
+    "ford",
+    "bio",
+    "brown",
+    "barrette",
+    "star",
+    "wars",
+    "clone",
+    "kratos"
   ],
   "small": {
     "scale": 1,
     "offset_x": -595,
     "offset_y": -157,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -504,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -368,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

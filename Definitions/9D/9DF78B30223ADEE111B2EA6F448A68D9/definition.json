@@ -2,25 +2,51 @@
   "source": "https://i.pinimg.com/564x/e7/fd/84/e7fd842d4537325c32d336726954522d.jpg",
   "md5": "9DF78B30223ADEE111B2EA6F448A68D9",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "orcs",
+    "battle",
+    "axe",
+    "illustration",
+    "for",
+    "three",
+    "kingdom",
+    "war",
+    "tcg",
+    "chiron",
+    "smite",
+    "fanart",
+    "dhaniels",
+    "castillo",
+    "kabal",
+    "juan",
+    "diego",
+    "leon",
+    "https://www"
   ],
   "small": {
     "scale": 0.6999999999999998,
     "offset_x": -99,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999998,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -5,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

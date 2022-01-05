@@ -2,27 +2,42 @@
   "source": "https://64.media.tumblr.com/8289d49cb389ca80ea2a4b99c984ba5e/92c853e2b5662f6b-73/s640x960/707bbd9a7b6c46f84899058ec5cc9e92597abf02.jpg",
   "md5": "1F08A74222431EC43A602973C6872395",
   "tags": [
-    ""
+    "",
+    "teysa",
+    "karlov",
+    "mtg",
+    "fan",
+    "knight",
+    "armor",
+    "reaper",
+    "warriors",
+    "game",
+    "thrones",
+    "dark",
+    "\u919C"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -359.9999999999998,
     "offset_y": -73.60000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -140.79999999999995,
     "offset_y": -36.799999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -22.425925925925867,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

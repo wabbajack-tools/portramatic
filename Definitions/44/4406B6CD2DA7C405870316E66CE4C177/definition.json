@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/eb/7e/57/eb7e57f12865d996e5ab1d01f8b2d493.jpg",
   "md5": "4406B6CD2DA7C405870316E66CE4C177",
   "tags": [
-    ""
+    "",
+    "female",
+    "superheroes",
+    "oc",
+    "dc",
+    "comics",
+    "kryptonian",
+    "league",
+    "legends",
+    "zaiza",
+    "alina",
+    "fuhrmann",
+    "characters",
+    "tiefling",
+    "character",
+    "portraits",
+    "rome",
+    "cho",
+    "youngjae",
+    "\u65E5\u5E38\u6478\u9C7C",
+    "peirong",
+    "huang"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -279,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -255,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -38,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

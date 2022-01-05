@@ -22,27 +22,45 @@
     "2012work",
     "keun",
     "hoon",
-    "choi"
+    "choi",
+    "loch",
+    "ness",
+    "nessie",
+    "cryptozoology",
+    "monster",
+    "magda",
+    "nessi",
+    "assassin",
+    "anime",
+    "girl",
+    "priest",
+    "minju",
+    "shim",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -355,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -265,
     "offset_y": -166,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -234,
     "offset_y": -230,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

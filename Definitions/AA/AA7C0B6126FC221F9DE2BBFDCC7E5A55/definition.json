@@ -22,27 +22,36 @@
     "father",
     "gascoigne",
     "samuel",
-    "braz"
+    "braz",
+    "vader",
+    "star",
+    "wars",
+    "clone",
+    "revan",
+    "vissegerd"
   ],
   "small": {
     "scale": 0.8699999999999997,
     "offset_x": -604.4000000000035,
     "offset_y": -119.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -183.79999999999984,
     "offset_y": -58.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -75.62962962962933,
     "offset_y": -1.1759259259259807,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

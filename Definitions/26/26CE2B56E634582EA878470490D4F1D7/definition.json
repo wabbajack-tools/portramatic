@@ -2,27 +2,42 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/025/191/003/4k/billy-christian-demonbane-merlin.jpg?1584967633",
   "md5": "26CE2B56E634582EA878470490D4F1D7",
   "tags": [
-    ""
+    "",
+    "merlin",
+    "toy",
+    "fan",
+    "electronic",
+    "league",
+    "legends",
+    "old",
+    "work",
+    "noodle",
+    "li",
+    "https://www.artstation.com/artwork/bav0am",
+    "creature"
   ],
   "small": {
     "scale": 0.5099999999999998,
     "offset_x": -1071,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -620,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999997,
     "offset_x": -702,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,52 @@
   "source": "https://neotokyoproject.com/wp-content/uploads/2021/09/ehlo6vteoi_icon.jpg",
   "md5": "02F1DD8C4299D56B2AD0DDCF292B4C6A",
   "tags": [
-    ""
+    "",
+    "werewolf",
+    "curse",
+    "spell",
+    "book",
+    "spells",
+    "that",
+    "work",
+    "world",
+    "warcraft",
+    "rogue",
+    "league",
+    "legends",
+    "kratos",
+    "black",
+    "dragon",
+    "demons",
+    "coverartwork",
+    "dragons",
+    "knight",
+    "secret",
+    "nadine",
+    "sch\u00E4kel"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -417.3333333333334,
     "offset_y": -98.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -282,
     "offset_y": -1.3333333333333712,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.369999999999993,
     "offset_x": -702.6666666666667,
-    "offset_y": 1.1368683772161603e-13,
-    "size": "full"
+    "offset_y": 1.1368683772161603E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

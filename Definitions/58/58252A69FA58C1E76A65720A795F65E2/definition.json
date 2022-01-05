@@ -2,27 +2,49 @@
   "source": "https://wallpapercave.com/wp/wp6151954.jpg",
   "md5": "58252A69FA58C1E76A65720A795F65E2",
   "tags": [
-    ""
+    "",
+    "demon",
+    "slayer",
+    "manga",
+    "pictures",
+    "anime",
+    "rongoku",
+    "league",
+    "legends",
+    "flames",
+    "astaroth",
+    "igor",
+    "kosinov",
+    "aka",
+    "goramitrio",
+    "https://www.artstation.com/artwork/8qa3n",
+    "fox",
+    "god",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -575.3333333333329,
     "offset_y": -610.6666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -242,
     "offset_y": -184.66666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -6.6666666666667425,
     "offset_y": -53.333333333333314,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

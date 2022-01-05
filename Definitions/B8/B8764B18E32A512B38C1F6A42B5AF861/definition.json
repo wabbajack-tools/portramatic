@@ -2,27 +2,64 @@
   "source": "https://64.media.tumblr.com/18fb089495947b5bcda633f27562677c/tumblr_mzhv8o2H7X1s489wio1_1280.jpg",
   "md5": "B8764B18E32A512B38C1F6A42B5AF861",
   "tags": [
-    ""
+    "",
+    "female",
+    "rogue",
+    "character",
+    "blood",
+    "elf",
+    "dark",
+    "assassin",
+    "spider-man",
+    "iron",
+    "man",
+    "suit",
+    "darth",
+    "vader",
+    "actionfigures",
+    "maul",
+    "hot",
+    "toys",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "project",
+    "v",
+    "_",
+    "vampire",
+    "changyup",
+    "lee",
+    "rose",
+    "bageumi",
+    ".",
+    "concept",
+    "junk2",
+    "yeonjun",
+    "park"
   ],
   "small": {
     "scale": 1,
     "offset_x": -357,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -273,
     "offset_y": -148,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -56,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

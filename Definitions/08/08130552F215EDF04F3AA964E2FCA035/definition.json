@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/97/ee/fe/97eefeed2f6da954a47a2e3d176c8bdb.jpg",
   "md5": "08130552F215EDF04F3AA964E2FCA035",
   "tags": [
-    "Alchemist"
+    "Alchemist",
+    "gnome",
+    "fighter",
+    "paladin",
+    "warlock",
+    "zelda",
+    "twilight",
+    "princess",
+    "dungeons",
+    "dragons",
+    "legend",
+    "devil",
+    "yarisha",
+    "sword",
+    "cursed",
+    "eastern",
+    "elf",
+    "evgeniya",
+    "zelenskaya",
+    "transcended",
+    "kayle",
+    "are",
+    "jay",
+    "peralta"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -117,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -120,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -148,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

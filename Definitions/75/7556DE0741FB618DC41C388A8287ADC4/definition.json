@@ -4,27 +4,59 @@
   "tags": [
     "staff",
     "woman",
-    "warrior"
+    "warrior",
+    "dungeons",
+    "\u0026",
+    "dragons",
+    "dungeon",
+    "master",
+    "cartoon",
+    "tv",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "diana",
+    "acrobat",
+    "redesign",
+    "robson",
+    "michel",
+    "aria",
+    "josh",
+    "corpuz",
+    "artwork",
+    "rpg",
+    "character",
+    "mage",
+    "shui",
+    "ji",
+    "kan",
+    "liu(666k\u4FE1\u8B5E",
+    "2021",
+    "design"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -300.666666666667,
     "offset_y": -84.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -155.33333333333337,
     "offset_y": -54.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -32.00000000000023,
     "offset_y": -28.000000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

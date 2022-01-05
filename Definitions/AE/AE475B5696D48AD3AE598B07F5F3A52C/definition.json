@@ -5,27 +5,66 @@
     "gold",
     "knight",
     "paladin",
-    "horse"
+    "horse",
+    "angel",
+    "armor",
+    "concept",
+    "heavy",
+    "medieval",
+    "knights",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "flats",
+    "total",
+    "war",
+    "warhammer",
+    "shadow",
+    "\u0026",
+    "blade",
+    "old",
+    "character",
+    "sketches",
+    "b",
+    "r",
+    "a",
+    "n",
+    "\u72C2\u87D2\uFF1A\u67E5\u514B",
+    "rs",
+    "\u5DE5",
+    "\u4F5C",
+    "\u5BA4",
+    "sci",
+    "fi",
+    "design"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -276.40000000000055,
     "offset_y": -57.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -111.59999999999991,
     "offset_y": -10.600000000000364,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -6.000000000000114,
     "offset_y": -3.200000000000159,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

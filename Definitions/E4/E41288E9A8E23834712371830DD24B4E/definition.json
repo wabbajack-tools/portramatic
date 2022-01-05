@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/811a2908-404c-4d71-b6d2-0b4e737898e1/d5uwve9-4212f7e4-70d9-4dd8-a72e-a5aa7b3ae3e4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgxMWEyOTA4LTQwNGMtNGQ3MS1iNmQyLTBiNGU3Mzc4OThlMVwvZDV1d3ZlOS00MjEyZjdlNC03MGQ5LTRkZDgtYTcyZS1hNWFhN2IzYWUzZTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i8nSOmjzquu-o0CzMcYvlwegiopXY-z1PjVPQDsw69w",
   "md5": "E41288E9A8E23834712371830DD24B4E",
   "tags": [
-    ""
+    "",
+    "mobius",
+    "mtg",
+    "monk",
+    "merfolk",
+    "anime",
+    "girl",
+    "valentin",
+    "rzheusski",
+    "concepts",
+    "for",
+    "joan",
+    "arc",
+    "bayard",
+    "wu",
+    "dwarf",
+    "michael",
+    "bridge",
+    "https://www"
   ],
   "small": {
     "scale": 1.4799999999999995,
     "offset_x": -388,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -103,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

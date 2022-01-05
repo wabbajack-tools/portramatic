@@ -11,27 +11,48 @@
     "yule",
     "lalanoel",
     "reg.",
-    "subway"
+    "subway",
+    "dark",
+    "elf",
+    "female",
+    "zelda",
+    "joan",
+    "arc",
+    "ocarina",
+    "time",
+    "michael",
+    "black",
+    "artist",
+    "artstation).",
+    ".",
+    "#traditional3d",
+    "#",
+    "haracters",
+    "#environments",
+    "#illustration"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -604,
     "offset_y": -391,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -267,
     "offset_y": -169,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -179,
     "offset_y": -143,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

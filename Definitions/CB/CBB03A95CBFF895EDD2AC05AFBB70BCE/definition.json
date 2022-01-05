@@ -5,27 +5,45 @@
     "grant",
     "griffin",
     "child",
-    "maul"
+    "maul",
+    "pirates",
+    "caribbean",
+    "bard_concept",
+    "na",
+    "ri",
+    "shin",
+    "mage",
+    "jingjing",
+    "cao",
+    "thief",
+    "four",
+    "skillful",
+    "siblings",
+    "jesus",
+    "blones"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -566,
     "offset_y": -183,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -120,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.35999999999999943,
     "offset_x": -44,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

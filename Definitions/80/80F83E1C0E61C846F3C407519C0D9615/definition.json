@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/736x/58/a7/e8/58a7e878f16dc72c94a3f3a6d3a538d6.jpg",
   "md5": "80F83E1C0E61C846F3C407519C0D9615",
   "tags": [
-    "cassandra pendergast3"
+    "cassandra pendergast3",
+    "aasimar",
+    "pictures",
+    "ranger",
+    "race",
+    "marvel",
+    "comics",
+    "sidious",
+    "gladiators",
+    "dragon",
+    "isle",
+    "manthos",
+    "valkirie",
+    "dr.bono",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -133.4,
     "offset_y": -79.99999999999989,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -0.7999999999998977,
     "offset_y": -29.59999999999991,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": 0.02777777777805568,
     "offset_y": -19.20370370370381,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,53 @@
   "source": "https://i.pinimg.com/originals/b0/10/2e/b0102e6d4088a41479488e0fefebb0c0.jpg",
   "md5": "C3E3C7A4E8766C1C7F3592E0B0DD598B",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "concept",
+    "warrior",
+    "dragon",
+    "medieval",
+    "knights",
+    "heavy",
+    "armors",
+    "plate",
+    "spellforce",
+    "concepts",
+    "moritz",
+    "lacusteanu",
+    "160906",
+    "san",
+    "mufan",
+    "character",
+    "wilhelm",
+    "captain",
+    "black",
+    "teresa",
+    "ramos"
   ],
   "small": {
     "scale": 1,
     "offset_x": -412,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -351,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -294,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

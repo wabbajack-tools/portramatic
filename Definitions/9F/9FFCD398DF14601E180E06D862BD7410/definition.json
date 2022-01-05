@@ -2,27 +2,45 @@
   "source": "https://www.dhresource.com/0x0/f2/albu/g10/M01/07/F3/rBVaVlwfUHiABjpHAACxk0_xsVU478.jpg/comics-hellboy-art-silk-print-poster-24x36inch.jpg",
   "md5": "9FFCD398DF14601E180E06D862BD7410",
   "tags": [
-    ""
+    "",
+    "hellboy",
+    "pictures",
+    "tattoo",
+    "artist",
+    "\uD83D\uDC8Eflashpool",
+    "\uD83D\uDC8E",
+    "mac",
+    "fpfx",
+    "queen",
+    "pain",
+    "kostya",
+    "che",
+    "anubis",
+    "sangeetha",
+    "sudhakaran"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -279,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3099999999999943,
     "offset_x": -326,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

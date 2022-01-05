@@ -39,27 +39,43 @@
     "borges",
     "adv",
     "billy",
-    "christian"
+    "christian",
+    "witcher",
+    "female",
+    "assassin",
+    "souls",
+    "loc",
+    "mansik",
+    "yang",
+    "\u03C0\u03BF\u03BB\u03B5\u03BC\u03B9\u03C3\u03C4\u03AD\u03C2",
+    "ghost",
+    "rider",
+    "jaron",
+    "zheng",
+    "https://www.artstation.com/artwork/dkqlq"
   ],
   "small": {
     "scale": 1.4800000000000004,
     "offset_x": -327,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -86,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -111,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

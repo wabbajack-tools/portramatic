@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/037adefb-a313-429b-91a1-07e12f00553c/db4kp4v-487fbb08-33c7-4182-a3a2-1add47932de1.png/v1/fill/w_1024,h_1534,q_75,strp/elven_princess_original_character_by_artcorecosplay-db4kp4v.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wMzdhZGVmYi1hMzEzLTQyOWItOTFhMS0wN2UxMmYwMDU1M2MvZGI0a3A0di00ODdmYmIwOC0zM2M3LTQxODItYTNhMi0xYWRkNDc5MzJkZTEucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTE1MzQifV1dfQ.8dbgB-xbQhJ2AXvEWMujCFiJL6zMWePn0u3DU9BAdlY",
   "md5": "4EF968DBE168F718D401EE581517EE08",
   "tags": [
-    ""
+    "",
+    "anime",
+    "female",
+    "elves",
+    "princess",
+    "forest",
+    "elf",
+    "dragon",
+    "black",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -65,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -3,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -26,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

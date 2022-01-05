@@ -15,27 +15,38 @@
     "jedi",
     "witcher",
     "female",
-    "pirate"
+    "pirate",
+    "captain",
+    "jack",
+    "sparrow",
+    "legend",
+    "cryptids",
+    "christina",
+    "tatiana",
+    "kirgetova"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -429,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -202,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -127,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

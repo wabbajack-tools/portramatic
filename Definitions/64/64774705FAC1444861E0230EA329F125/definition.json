@@ -22,25 +22,58 @@
     "wood",
     "text",
     "pants",
-    ""
+    "",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "dark",
+    "knight",
+    "souls",
+    "night",
+    "elf",
+    "vampire",
+    "manga",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "big",
+    "g",
+    "zhihui",
+    "su",
+    "design",
+    "artwork",
+    "chemtech",
+    "swain",
+    "fanart",
+    "joonho",
+    "ko"
   ],
   "small": {
     "scale": 2.559999999999989,
     "offset_x": -407.5,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4500000000000004,
     "offset_x": -186.5,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1999999999999966,
     "offset_x": -248,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

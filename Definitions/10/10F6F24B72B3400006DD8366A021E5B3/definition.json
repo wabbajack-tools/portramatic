@@ -2,25 +2,45 @@
   "source": "http://2.bp.blogspot.com/-DpmPzlJGCDo/UynSJMqS8WI/AAAAAAAABMM/gZB08sY0s6Q/s1600/PZO8500-CaptainTorius.jpg",
   "md5": "10F6F24B72B3400006DD8366A021E5B3",
   "tags": [
-    ""
+    "",
+    "pirate",
+    "character",
+    "concept",
+    "female",
+    "rogue",
+    "costumes",
+    "kratos",
+    "assassin",
+    "hansel",
+    "gretel",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -293,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -57,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -16,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

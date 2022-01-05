@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/2d/d2/19/2dd21953eb379d4f94c87f6d8c3f1cdf.jpg",
   "md5": "A5C4D743BC3ECF3F2241207FB89F15DA",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "armor",
+    "anime",
+    "shadow",
+    "drawings",
+    "plate",
+    "medieval",
+    "knights",
+    "full",
+    "yeajin",
+    "heo",
+    "https://www",
+    "warrior",
+    "yunpong",
+    "yoonhwa,choi",
+    "assault",
+    "bxb",
+    "."
   ],
   "small": {
     "scale": 1,
     "offset_x": -528,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -431,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -268,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

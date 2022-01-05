@@ -14,27 +14,60 @@
     "rim",
     "uprising",
     "miscellaneous",
-    "designs"
+    "designs",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "armors",
+    "power",
+    "armor",
+    "heavy",
+    "gears",
+    "war",
+    "warhammer",
+    "40k",
+    "german",
+    "soldiers",
+    "knight",
+    "koowa",
+    "_",
+    "king",
+    "https://www.artstation.com/artwork/ydqzb",
+    "scorch",
+    "eater",
+    "young",
+    "kim",
+    "bogdan",
+    "rezunenko",
+    "horror",
+    "artwork",
+    "characters",
+    "design"
   ],
   "small": {
     "scale": 1.0199999999999998,
     "offset_x": -588,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -201,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -64,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

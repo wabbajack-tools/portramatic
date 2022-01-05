@@ -5,27 +5,63 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "egg",
+    "fry",
+    "pan",
+    "bread",
+    "de",
+    "leche",
+    "black",
+    "knight",
+    "dark",
+    "elf",
+    "necromancer",
+    "armor",
+    "souls",
+    "adam",
+    "suit",
+    "concept",
+    "jarold",
+    "sng",
+    "2021",
+    "superhero",
+    "design",
+    "les",
+    "chroniques",
+    "l\u0027ombre",
+    "golems",
+    "thomas",
+    "dumey",
+    "futuristic",
+    "cyberpunk",
+    "highkess",
+    "fanfoxy",
+    "a",
+    "https://www.artstation.com/artwork/w2k0mg"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -586,
     "offset_y": -334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4300833333333328,
     "offset_x": -265,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4897499999999996,
     "offset_x": -196,
     "offset_y": -144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

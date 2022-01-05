@@ -5,27 +5,64 @@
     "Human",
     "Female",
     "Armor",
-    "Warden"
+    "Warden",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "skyrim",
+    "heavy",
+    "dragon",
+    "game",
+    "thrones",
+    "orcs",
+    "haracter",
+    "concept",
+    "for",
+    "\u0027iron",
+    "throne\u0027,mmo",
+    "strategy",
+    "hans",
+    "park",
+    "ves",
+    "gwent",
+    "fanart",
+    "oksana",
+    "kerro",
+    "witcher",
+    "character",
+    "skins",
+    "characters",
+    "viking",
+    "zhuoxin",
+    "ye",
+    "2020"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -239,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -39,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": 0,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,57 @@
   "source": "https://64.media.tumblr.com/a989118f41fd802b673760ccccd1f0ec/tumblr_pmvzquGbA01ujy76io2_r1_1280.jpg",
   "md5": "22AF7DF932B73EC021FC8C6EC188F33B",
   "tags": [
-    ""
+    "",
+    "female",
+    "angel",
+    "demon",
+    "drawing",
+    "dark",
+    "knight",
+    "j.",
+    "scott",
+    "campbell",
+    "scarlet",
+    "witch",
+    "league",
+    "legends",
+    "vampire",
+    "girl",
+    "zephyr",
+    "zheng",
+    "oksana",
+    "olga",
+    "ivanova",
+    "raphtalia",
+    "saige",
+    "baker",
+    "anime",
+    "i",
+    "love",
+    "real"
   ],
   "small": {
     "scale": 0.30999999999999944,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

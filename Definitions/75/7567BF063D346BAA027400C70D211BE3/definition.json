@@ -25,27 +25,39 @@
     "for",
     "honor",
     "valkyrie",
-    "fragment"
+    "fragment",
+    "love",
+    "jon",
+    "snow",
+    "daenerys",
+    "scene",
+    "dany",
+    "targaryen",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -191,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -188,
     "offset_y": -35.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -285,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

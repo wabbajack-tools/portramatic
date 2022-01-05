@@ -21,27 +21,46 @@
     "2b",
     "nier",
     "automata",
-    "imguss"
+    "imguss",
+    "male",
+    "face",
+    "rpg",
+    "portraits",
+    "widowmaker",
+    "mateus",
+    "gonzaga",
+    "alien",
+    "luiz",
+    "cold",
+    "never",
+    "bothered",
+    "me",
+    "anyway",
+    "umi",
+    "taro"
   ],
   "small": {
     "scale": 0.14999999999999591,
     "offset_x": -37,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999888,
     "offset_x": -39,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999979,
     "offset_x": -126,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,40 @@
     "gnome",
     "female",
     "mage",
-    "bard"
+    "bard",
+    "elven",
+    "witch",
+    "elves",
+    "evil",
+    "artwork",
+    "2016(2",
+    "genfo",
+    "adelpha",
+    "maria",
+    "dimova"
   ],
   "small": {
     "scale": 0.3200000000000005,
     "offset_x": -227.5,
     "offset_y": -263,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.20999999999999952,
     "offset_x": -3.5,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4206666666666663,
     "offset_x": -8,
     "offset_y": -93,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

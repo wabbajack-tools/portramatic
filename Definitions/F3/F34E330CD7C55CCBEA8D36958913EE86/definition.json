@@ -2,27 +2,35 @@
   "source": "https://cdn.discordapp.com/attachments/757014033067933716/926986976949850152/Ranger.jpg",
   "md5": "F34E330CD7C55CCBEA8D36958913EE86",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones",
+    "punisher",
+    "daton",
+    "barrett"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -96.80000000000001,
     "offset_y": -65.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -33.59999999999991,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -1.6018518518510518,
     "offset_y": -132.9537037037038,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

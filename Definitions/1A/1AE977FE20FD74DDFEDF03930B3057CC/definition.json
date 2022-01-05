@@ -2,27 +2,70 @@
   "source": "https://i.pinimg.com/564x/02/59/6c/02596c9570869ac2adc9f4bda5965775.jpg",
   "md5": "1AE977FE20FD74DDFEDF03930B3057CC",
   "tags": [
-    ""
+    "",
+    "assassin",
+    "character",
+    "female",
+    "rogue",
+    "steampunk",
+    "concept",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "knight",
+    "armor",
+    "terminator",
+    "g.i.joe",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "ryder",
+    "gildia",
+    "guild",
+    "https://www.artstation.com/artwork/ryder-5f01b1b9-dadc",
+    "alternate",
+    "future",
+    "andrew",
+    "erickson",
+    "space",
+    "opera",
+    "huntress",
+    "i",
+    "asimov",
+    "design",
+    "portraits"
   ],
   "small": {
     "scale": 2.129999999999998,
     "offset_x": -483,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -130,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,27 +10,51 @@
     "character",
     "redesign",
     "supernatural",
-    "creature"
+    "creature",
+    "female",
+    "armor",
+    "concept",
+    "warrior",
+    "woman",
+    "dark",
+    "knight",
+    "assassin",
+    "dragoon",
+    "forte",
+    "rage",
+    "bahamut",
+    "fan",
+    "\u738B\u4E3D\u82F1-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "personal",
+    "project",
+    "john",
+    "koo"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -1032,
     "offset_y": -217,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -661,
     "offset_y": -139,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0299999999999971,
     "offset_x": -848,
     "offset_y": -198,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

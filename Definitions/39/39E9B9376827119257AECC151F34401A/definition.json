@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/originals/4f/c7/78/4fc778703c6fc732ecfcd069b00905be.jpg",
   "md5": "39E9B9376827119257AECC151F34401A",
   "tags": [
-    "Arcanist"
+    "Arcanist",
+    "half-elf",
+    "warlock",
+    "human",
+    "female",
+    "sorceress",
+    "castor",
+    "heratic",
+    "sketch",
+    "rin",
+    ".",
+    "https://www.artstation.com/artwork/nqbkm9",
+    "beyond",
+    "basics",
+    "creature",
+    "designs",
+    "eric",
+    "grimoire",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -644,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -276,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -120,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

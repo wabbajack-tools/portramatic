@@ -3,27 +3,50 @@
   "md5": "2B8E4C4BDC6365C55F12CF8CC7DA22BA",
   "tags": [
     "blonde",
-    "paladin"
+    "paladin",
+    "guilty",
+    "gear",
+    "anime",
+    "ky",
+    "kiske",
+    "sol",
+    "badguy",
+    "sword",
+    "characters",
+    "girl",
+    "girl-1",
+    "dmitri",
+    "dimas-ch",
+    "cyberpunk",
+    "character",
+    "concept",
+    "work",
+    "wang",
+    "ke",
+    "borderlands"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -529,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -164,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -142,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

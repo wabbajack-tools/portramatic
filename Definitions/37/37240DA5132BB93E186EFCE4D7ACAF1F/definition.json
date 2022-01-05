@@ -4,27 +4,46 @@
   "tags": [
     "female",
     "elf",
-    "demon"
+    "demon",
+    "pin",
+    "up",
+    "korean",
+    "armor(dujeong-gab",
+    "x",
+    "knight",
+    "\uC6A9\uADE0",
+    "\uB098",
+    "https://www.artstation.com/artwork",
+    "\u5973\u6218\u58EB",
+    "lcy.chuyang",
+    "lee",
+    "ake",
+    "statues",
+    "jian",
+    "xu"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -348,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -298,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -16,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

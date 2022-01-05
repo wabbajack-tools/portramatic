@@ -1,28 +1,39 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2F-t6YqqvRN5cOQbdoTo0OD2ipJegynpsp-KlgQryem_E.jpg%3Fauto%3Dwebp%26s%3D58f90e062f362481843bca7144d0f6e138d51a45&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2F-t6YqqvRN5cOQbdoTo0OD2ipJegynpsp-KlgQryem_E.jpg%3Fauto%3Dwebp%26s%3D58f90e062f362481843bca7144d0f6e138d51a45\u0026f=1\u0026nofb=1",
   "md5": "E366D52C3BFA6561B6F0804838176B5C",
   "tags": [
-    ""
+    "",
+    "elf",
+    "princess",
+    "costume",
+    "plus",
+    "size",
+    "fairy",
+    "queen",
+    "drawing"
   ],
   "small": {
     "scale": 0.2199999999999993,
     "offset_x": -14,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -38,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -20,27 +20,46 @@
     "one",
     "goddess",
     "ina",
-    "wong"
+    "wong",
+    "lich",
+    "king",
+    "kratos",
+    "bioshock",
+    "wallpaper",
+    "wargames",
+    "game",
+    "thrones",
+    "charro",
+    "monster",
+    "queen",
+    "undeath",
+    "selfissk",
+    "jim",
+    "\u0022dreadjim\u0022",
+    "ling"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -1220,
     "offset_y": -211,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -783,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -1059,
     "offset_y": -127,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

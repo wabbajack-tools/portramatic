@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/92/c9/92/92c992829f0447c6ea66b2d5fb4091da.jpg",
   "md5": "A6C991E8C47BDE3F53D2384C4467B43A",
   "tags": [
-    ""
+    "",
+    "middle",
+    "ages",
+    "peasant",
+    "women",
+    "woman",
+    "painting",
+    "medieval",
+    "costume",
+    "inquisitor",
+    "lavellan",
+    "emily",
+    "kruger",
+    "dragon",
+    "red",
+    "lips",
+    "ryeowon",
+    "kwon"
   ],
   "small": {
     "scale": 1,
     "offset_x": -80,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -25,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9900000000000009,
     "offset_x": -30,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

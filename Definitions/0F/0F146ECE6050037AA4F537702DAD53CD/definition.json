@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/736x/dc/2d/9b/dc2d9b4b3e7830318d61039267b2177f.jpg",
   "md5": "0F146ECE6050037AA4F537702DAD53CD",
   "tags": [
-    ""
+    "",
+    "cyber",
+    "knight",
+    "armor",
+    "female",
+    "fallen",
+    "death",
+    "league",
+    "legends",
+    "dark",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "warlock",
+    "concept",
+    "sergey",
+    "kondratovich",
+    "\u6697\u9ED1\u9ECE\u660E",
+    "sheng",
+    "liu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -267,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -216,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 30,
     "offset_y": 100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

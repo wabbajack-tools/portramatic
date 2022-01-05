@@ -4,27 +4,52 @@
   "tags": [
     "female",
     "vampire",
-    "warrior"
+    "warrior",
+    "scantily",
+    "clad",
+    "women",
+    "photos",
+    "dress",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "character",
+    "design",
+    "soo",
+    "joop",
+    "anime",
+    "summoner",
+    "girl",
+    "my",
+    "practice",
+    "paint",
+    "copy",
+    "https://www.artstation.com/artwork/gxoxr1"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -668,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -552,
     "offset_y": -168,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -326,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

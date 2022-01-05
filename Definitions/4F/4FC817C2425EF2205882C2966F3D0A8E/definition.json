@@ -5,27 +5,50 @@
     "male",
     "tiefling",
     "wizard",
-    "purple"
+    "purple",
+    "ranger",
+    "rogue",
+    "orc",
+    "warrior",
+    "conan",
+    "barbarian",
+    "wrath",
+    "titans",
+    "dmitry",
+    "skvortsov",
+    "lucifer1",
+    "crow",
+    "god",
+    "artstation.",
+    "alexander",
+    "lozano",
+    "wonder",
+    "woman",
+    "artwork",
+    "dc"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -155,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -117,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -94,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

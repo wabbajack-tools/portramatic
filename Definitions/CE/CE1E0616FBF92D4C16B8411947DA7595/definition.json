@@ -22,7 +22,7 @@
     "random",
     "sketch",
     "und",
-    "unveröffentlichte",
+    "unver\uFFFDffentlichte",
     "art.",
     "jeremy",
     "chong",
@@ -42,27 +42,38 @@
     "zack",
     "stella",
     "mtg",
-    "magic"
+    "magic",
+    "gretel",
+    "lusky",
+    "teen",
+    "titans",
+    "raven",
+    "cat",
+    "skyrim",
+    "mummy"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -352,
     "offset_y": -123,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -223,
     "offset_y": -110,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -248,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

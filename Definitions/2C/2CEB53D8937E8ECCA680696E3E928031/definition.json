@@ -21,30 +21,47 @@
     "sorceress",
     "fiend",
     "victor",
-    "fernández",
+    "fern\uFFFDndez",
     "iorveth",
     "luciferys",
-    "alex"
+    "alex",
+    "wolf",
+    "princess",
+    "anime",
+    "girl",
+    "warrior",
+    "girls",
+    "with",
+    "wolves",
+    "lion",
+    "king",
+    "pack",
+    "howling",
+    "ni",
+    "li"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -409.6666666666665,
     "offset_y": -94.00000000000009,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -36.666666666666686,
     "offset_y": -5.333333333333371,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -17.333333333333258,
     "offset_y": -2.6666666666664014,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

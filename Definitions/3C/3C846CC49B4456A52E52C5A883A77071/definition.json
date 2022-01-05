@@ -3,27 +3,51 @@
   "md5": "3C846CC49B4456A52E52C5A883A77071",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "race",
+    "league",
+    "legends",
+    "castlevania",
+    "lords",
+    "shadow",
+    "g.i.joe",
+    "rise",
+    "guardians",
+    "marvel",
+    "comics",
+    "\u6E21\u9E26",
+    "n",
+    "x",
+    "beauty",
+    "beast",
+    "\u00E1lvaro",
+    "jim\u00E9nez",
+    "jianniang",
+    "exia",
+    "xiaotong"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -235,
     "offset_y": -42.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -141,
     "offset_y": -8.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -268,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,54 @@
   "md5": "829322FAFC3ED04E811B6B4AC4E458CF",
   "tags": [
     "halfling",
-    "ranger"
+    "ranger",
+    "soul",
+    "calibur",
+    "ashlotte",
+    "angol",
+    "fear",
+    "4",
+    "league",
+    "legends",
+    "witcher",
+    "night",
+    "elf",
+    "dark",
+    "mareida",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "an",
+    "archer",
+    "lilia",
+    "anisimova",
+    "elderwood\u002B1s",
+    "yuanbin",
+    "hu",
+    "https://www"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -603.4000000000008,
     "offset_y": -254.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -344.2666666666669,
     "offset_y": -100.46666666666636,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -49.444444444445026,
     "offset_y": -2.222222222222115,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

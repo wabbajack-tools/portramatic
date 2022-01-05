@@ -2,27 +2,42 @@
   "source": "https://static.zerochan.net/The.Inquisitor.full.2561617.jpg",
   "md5": "7449B1EC00967BB67AB226D31472B200",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "concept",
+    "male",
+    "character",
+    "portraits",
+    "glanmor",
+    "arnaerr",
+    "\u0060",
+    "dungeons",
+    "dragons",
+    "characters",
+    "elf"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -177,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -92,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -80,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

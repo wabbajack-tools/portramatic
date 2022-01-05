@@ -1,5 +1,5 @@
 {
-  "source": "https://cdnb.artstation.com/p/assets/images/images/007/644/169/large/ian-loginov-ciri.jpg?1507570558&dl=1",
+  "source": "https://cdnb.artstation.com/p/assets/images/images/007/644/169/large/ian-loginov-ciri.jpg?1507570558\u0026dl=1",
   "md5": "0E06FFD21D02DE88A48078F4943ACDE6",
   "tags": [
     "witcher",
@@ -25,27 +25,41 @@
     "orc",
     "shaman",
     "alejandro",
-    "hurtado"
+    "hurtado",
+    "geralt",
+    "fan",
+    "rivia",
+    "girl",
+    "league",
+    "legends",
+    "king",
+    "diane",
+    "seven",
+    "deadly",
+    "sins"
   ],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -226.20000000000405,
     "offset_y": -154.80000000000013,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -83.99999999999983,
     "offset_y": -111.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -50.46296296296282,
     "offset_y": -0.4166666666665151,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://sun9-75.userapi.com/impg/jPPZHkB1VsQlqPdRu-JLrvhuJ4vcJks-ZVnyDw/ivXECBy33JY.jpg?size=1280x1473&quality=96&sign=12ab37edc11dda25f96aadd91470803c&type=album",
+  "source": "https://sun9-75.userapi.com/impg/jPPZHkB1VsQlqPdRu-JLrvhuJ4vcJks-ZVnyDw/ivXECBy33JY.jpg?size=1280x1473\u0026quality=96\u0026sign=12ab37edc11dda25f96aadd91470803c\u0026type=album",
   "md5": "71181299899324CF9369631E0A5F60D2",
   "tags": [
     "person",
@@ -22,25 +22,42 @@
     "archery",
     "bow",
     "angel",
-    "aasimar"
+    "aasimar",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "archers",
+    "hong",
+    "vuviet",
+    "arte",
+    "guerreros",
+    "robert",
+    "pattinson",
+    "batman",
+    "spdrmnky",
+    "xxiii"
   ],
   "small": {
     "scale": 0.24999999999999933,
     "offset_x": -78,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -49,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -165,
     "offset_y": -107,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

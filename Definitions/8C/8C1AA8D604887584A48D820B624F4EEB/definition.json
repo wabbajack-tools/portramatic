@@ -11,25 +11,59 @@
     "beard",
     "furniture",
     "moss",
-    ""
+    "",
+    "tony",
+    "stark",
+    "avengers",
+    "fey",
+    "surreal",
+    "robert",
+    "downey",
+    "jr",
+    "movies",
+    "four",
+    "horsemen",
+    "death",
+    "knight",
+    "orc",
+    "warrior",
+    "lord",
+    "rings",
+    "dark",
+    "undead",
+    "karlos",
+    "warlock",
+    "cleric",
+    "sart",
+    "https://www.artstation.com/artwork/qbxqn",
+    "project",
+    "77",
+    "concept",
+    "martin",
+    "deschambault"
   ],
   "small": {
     "scale": 0.44999999999999907,
     "offset_x": -102,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -22,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -67,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

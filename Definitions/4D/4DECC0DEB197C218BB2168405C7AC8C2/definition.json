@@ -5,27 +5,52 @@
     "tiefling",
     "blue",
     "skin",
-    "female"
+    "female",
+    "drawing",
+    "bard",
+    "character",
+    "sheet",
+    "legend",
+    "zelda",
+    "league",
+    "legends",
+    "night",
+    "elf",
+    "lord",
+    "rings",
+    "queen",
+    "rats",
+    "rebecca",
+    "larst",
+    "pom",
+    "heather",
+    "uebel",
+    "patreon",
+    "facebook",
+    "\u0026nbs\u2026"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -204,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -89,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -66,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

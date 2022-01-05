@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/cf/3d/df/cf3ddf287aa52762bb8cb053f89d27a7.jpg",
   "md5": "8C091F40FF7C73CACD53256D440B3271",
   "tags": [
-    ""
+    "",
+    "chinese",
+    "monkey",
+    "king",
+    "creature",
+    "concept",
+    "face",
+    "sketch",
+    "lemur",
+    "samurai",
+    "lu",
+    "rojas",
+    "god",
+    "thunder",
+    "saad",
+    "irfan",
+    "oni",
+    "bogdan",
+    "rezunenko",
+    "horror",
+    "artwork",
+    "characters",
+    "dark"
   ],
   "small": {
     "scale": 2.0999999999999988,
     "offset_x": -470,
     "offset_y": -479,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -24,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -10,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

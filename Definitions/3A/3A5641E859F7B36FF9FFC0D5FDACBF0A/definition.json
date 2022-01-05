@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/2f/45/a0/2f45a0b3c061c5b9b72ba4fca1b2fba8.jpg",
   "md5": "3A5641E859F7B36FF9FFC0D5FDACBF0A",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "anime",
+    "armor",
+    "male",
+    "statue",
+    "orc",
+    "guardian",
+    "angels",
+    "elf",
+    "ranger",
+    "kieran",
+    "yanner",
+    "victory",
+    "lucas",
+    "torquato",
+    "character",
+    "inspiration",
+    "portraits",
+    "god",
+    "king",
+    "garen",
+    "chengwei",
+    "pan",
+    "https://www.artstation.com/artwork/z5zd50",
+    "lol"
   ],
   "small": {
     "scale": 1,
     "offset_x": -606,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -513,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -350,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

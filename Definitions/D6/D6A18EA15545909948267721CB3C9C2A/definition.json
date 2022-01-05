@@ -1,5 +1,5 @@
 {
-  "source": "https://static.wikia.nocookie.net/incantesimibellibelli/images/f/fe/2b026b416793b431a2bb86e45877c8de.jpg/revision/latest/scale-to-width-down/707?cb=20210223214022&path-prefix=it",
+  "source": "https://static.wikia.nocookie.net/incantesimibellibelli/images/f/fe/2b026b416793b431a2bb86e45877c8de.jpg/revision/latest/scale-to-width-down/707?cb=20210223214022\u0026path-prefix=it",
   "md5": "D6A18EA15545909948267721CB3C9C2A",
   "tags": [
     "elf",
@@ -7,27 +7,52 @@
     "tiefling",
     "blonde",
     "tan",
-    "light_armor"
+    "light_armor",
+    "assassin",
+    "character",
+    "rogue",
+    "steampunk",
+    "concept",
+    "dark",
+    "suit",
+    "armor",
+    "lord",
+    "rings",
+    "\u89D2\u8272\u8A2D\u8A08",
+    "\u6BD3\u58EB",
+    "\u674E",
+    "https://www.artstation.com",
+    "light",
+    "source",
+    "konstantin",
+    "porubov",
+    "cecill",
+    "goo",
+    "jjang",
+    "portraits"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -210,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -128,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -10,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

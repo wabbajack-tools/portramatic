@@ -26,27 +26,49 @@
     "magus",
     "gabriel",
     "bulik",
-    "xix"
+    "xix",
+    "lodoss",
+    "war",
+    "characters",
+    "record",
+    "dragon",
+    "wizards",
+    "warriors",
+    "anime",
+    "girl",
+    "greek",
+    "gods",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "homelander",
+    "evgeny",
+    "yurichev"
   ],
   "small": {
     "scale": 1,
     "offset_x": -207,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -110,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

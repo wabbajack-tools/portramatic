@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/4b/99/6a/4b996a692bd072bc8b9a76f390aa6e32.jpg",
   "md5": "D9E47CE29D796611DFF90AFA59C6CDBE",
   "tags": [
-    ""
+    "",
+    "gauntlet",
+    "valkyrie",
+    "bloodbraid",
+    "elf",
+    "dark",
+    "drawings",
+    "guardian",
+    "angels",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u5251\u4FA0\u60C5\u7F18\u8D75\u4E3D\u9896",
+    "\u53C1\u4E54\u5C45",
+    "3qstudio",
+    "\u5B66\u751F\u4F5C\u54C1",
+    "\u4E09\u53E0\u8272",
+    "size",
+    "with",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -252,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -180,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8400000000000007,
     "offset_x": -258,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

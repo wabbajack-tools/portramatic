@@ -3,27 +3,55 @@
   "md5": "4E0C433D1B7FFD3D32528B5BEFFDD7F6",
   "tags": [
     "Dwarf",
-    ""
+    "",
+    "male",
+    "dwarf",
+    "fighter",
+    "mountain",
+    "warriors",
+    "warhammer",
+    "40k",
+    "dungeons",
+    "dragons",
+    "steampunk",
+    "lord",
+    "rings",
+    "worrior",
+    "matthew",
+    "park",
+    "at\u2026",
+    "king",
+    "jang",
+    "minho",
+    "anime",
+    "alsco",
+    "cobbs",
+    "dragonborn",
+    "paladin",
+    "ted"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -313,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -205,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.219999999999996,
     "offset_x": -264,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

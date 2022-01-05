@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/e4/00/54/e400543a0f1ea30f8aafb94eae2d0370.png",
   "md5": "0D4C5CBA62328CE79A4E74CD7D62588A",
   "tags": [
-    ""
+    "",
+    "dwarven",
+    "beard",
+    "rpg",
+    "female",
+    "dwarf",
+    "armor",
+    "minotaur",
+    "legend",
+    "zelda",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "girl",
+    "su",
+    "jian.",
+    "concepts",
+    "concept",
+    "\u86EE\u65CF\u6218\u58EB",
+    "feng",
+    "cao",
+    "grizzlies",
+    "yanque",
+    "shi"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -199.20000000000005,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -143.2,
     "offset_y": -52.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
-    "offset_x": -2.2737367544323206e-13,
+    "offset_x": -2.2737367544323206E-13,
     "offset_y": -3.2037037037036953,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

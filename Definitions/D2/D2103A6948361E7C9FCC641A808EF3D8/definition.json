@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/90/6c/c0/906cc0fa86528e45bdce665990bd903e.png",
   "md5": "D2103A6948361E7C9FCC641A808EF3D8",
   "tags": [
-    ""
+    "",
+    "girl",
+    "viking",
+    "cartoon",
+    "character",
+    "warrior",
+    "design",
+    "female",
+    "knight",
+    "armor",
+    "daedric",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "rabbit",
+    "tooth",
+    "diego",
+    "vila",
+    "exiled",
+    "christian",
+    "auer"
   ],
   "small": {
     "scale": 1,
     "offset_x": -393,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -327,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -138,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

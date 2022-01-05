@@ -21,27 +21,40 @@
     "forger",
     "jens",
     "kuczwara",
-    "artist"
+    "artist",
+    "st.",
+    "michael",
+    "archangels",
+    "dragon",
+    "age",
+    "origins",
+    "goblin",
+    "knight",
+    "artstudio0618",
+    "gzbc"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -272,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -368,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -462,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

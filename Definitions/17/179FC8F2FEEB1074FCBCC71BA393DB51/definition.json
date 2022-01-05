@@ -1,28 +1,48 @@
 {
-  "source": "https://pbs.twimg.com/media/E0p8IMLVcAMiz16?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/E0p8IMLVcAMiz16?format=jpg\u0026name=4096x4096",
   "md5": "179FC8F2FEEB1074FCBCC71BA393DB51",
   "tags": [
-    ""
+    "",
+    "heavy",
+    "armor",
+    "samurai",
+    "plate",
+    "warhammer",
+    "40k",
+    "knight",
+    "robin",
+    "ruan",
+    "mystical",
+    "jason",
+    "nguyen",
+    "darren",
+    "bartley",
+    "fightpunch",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -460.00000000000193,
     "offset_y": -257.14285714285694,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -333.14285714285705,
     "offset_y": -173.14285714285705,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -3.4285714285715585,
     "offset_y": -4.571428571428669,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

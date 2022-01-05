@@ -7,27 +7,53 @@
     "sword",
     "anna",
     "podedworna",
-    "akreon"
+    "akreon",
+    "geralt",
+    "gwent",
+    "card",
+    "ciri",
+    "roach",
+    "g.i.joe",
+    "217",
+    "su",
+    "jian",
+    "https://www.artstation.com/artwork/rrwzxg",
+    "samurai",
+    "games",
+    "workshop",
+    "paul",
+    "dainton",
+    "brigg",
+    "resentful",
+    "rival",
+    "loc",
+    "regular",
+    "randy",
+    "vargas",
+    "vargasni"
   ],
   "small": {
     "scale": 1.0799999999999998,
     "offset_x": -459,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -114,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -58,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

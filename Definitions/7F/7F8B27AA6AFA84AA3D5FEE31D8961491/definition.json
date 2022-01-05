@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/originals/d6/e8/ac/d6e8acb2420dc6cb602da6af864962af.jpg",
   "md5": "7F8B27AA6AFA84AA3D5FEE31D8961491",
   "tags": [
-    ""
+    "",
+    "lich",
+    "king",
+    "has",
+    "pirates",
+    "caribbean",
+    "death",
+    "knight",
+    "#batmanday",
+    "2k17",
+    "aiko",
+    "aiham",
+    "we",
+    "are",
+    "venom",
+    "aj",
+    "designs",
+    "2020",
+    "marvel"
   ],
   "small": {
     "scale": 0.5213333333333333,
     "offset_x": -195,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3346666666666673,
     "offset_x": -17,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.759166666666667,
     "offset_x": -66,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

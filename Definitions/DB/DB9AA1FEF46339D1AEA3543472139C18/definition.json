@@ -13,27 +13,35 @@
     "suit",
     "hanwool",
     "lee",
-    "https://www"
+    "https://www",
+    "hansel",
+    "gretel",
+    "\u706B\u00B7\u519B\u8336\u5229\u660E\u738B\u5C0A",
+    "hua",
+    "lu"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -367,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -251,
     "offset_y": -150,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -14,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

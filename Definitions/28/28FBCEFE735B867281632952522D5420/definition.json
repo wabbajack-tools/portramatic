@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/736x/69/17/f4/6917f4add57498057d49e923f364cb91.jpg",
   "md5": "28FBCEFE735B867281632952522D5420",
   "tags": [
-    ""
+    "",
+    "evil",
+    "samurai",
+    "black",
+    "demon",
+    "witch",
+    "michael",
+    "wang",
+    "skull",
+    "wenjie",
+    "ge",
+    "cyberpunk",
+    "sniper",
+    "concept",
+    "characters",
+    "untitled",
+    "kim",
+    "mal"
   ],
   "small": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -168,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 36,
     "offset_y": 66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

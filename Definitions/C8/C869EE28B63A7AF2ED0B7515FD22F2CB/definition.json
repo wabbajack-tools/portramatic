@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/e6/35/76/e63576f4655e41801fd7e49f1974c450.jpg",
   "md5": "C869EE28B63A7AF2ED0B7515FD22F2CB",
   "tags": [
-    ""
+    "",
+    "real",
+    "crusader",
+    "knight",
+    "armor",
+    "drawing",
+    "templar",
+    "medieval",
+    "knights",
+    "dragon",
+    "heavy",
+    "dark",
+    "elf",
+    "power",
+    "paladin",
+    "death",
+    "aztec",
+    "spearknight",
+    "daeyoung",
+    "park",
+    "\u9B54\u5BB6\u56DB\u5C06",
+    "gui",
+    "yuan",
+    "bolivar",
+    "concept",
+    "thomas",
+    "randby",
+    "dungeons",
+    "dragons",
+    "characters",
+    "character"
   ],
   "small": {
     "scale": 1,
     "offset_x": -466,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -379,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

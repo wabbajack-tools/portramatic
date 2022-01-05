@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/2d/b5/46/2db546122788adc34100cb3087fcce40.jpg",
   "md5": "8492C7C376CDE9888E9E8A95E631B04A",
   "tags": [
-    ""
+    "",
+    "archangel",
+    "knight",
+    "fallen",
+    "angel",
+    "armor",
+    "heavy",
+    "dark",
+    "souls",
+    "demon",
+    "hunter",
+    "death",
+    "elf",
+    "dragon",
+    "knights",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "reptile",
+    "warrior",
+    "ariel",
+    "perez",
+    "https://www",
+    "creatures",
+    "marcel",
+    "radeck\u00FD"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -217,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -78,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -37,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

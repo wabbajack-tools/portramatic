@@ -1,5 +1,5 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/039/420/196/large/mariya-negoduet-ciri-render-finish2.jpg?1625843922&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/039/420/196/large/mariya-negoduet-ciri-render-finish2.jpg?1625843922\u0026dl=1",
   "md5": "74C243B409DD86062FB3948F745C441D",
   "tags": [
     "witcher",
@@ -9,27 +9,60 @@
     "fanart",
     "mariya",
     "negoduet",
-    "empress"
+    "empress",
+    "game",
+    "pc",
+    "league",
+    "legends",
+    "female",
+    "assassin",
+    "death",
+    "knight",
+    "armor",
+    "star",
+    "wars",
+    "revenge",
+    "sith",
+    "old",
+    "republic",
+    "terry",
+    "wei",
+    "2021",
+    "warrior",
+    "woman",
+    "bounty",
+    "hunter",
+    "shiqi",
+    "huang",
+    "https://www.artstation.com/artwork/jlorkm",
+    "\u89D2\u8272\u4F10\u6728\u5DE5",
+    "\u5468",
+    "\u4EAE",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -328.40000000000066,
     "offset_y": -231.2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -101.40000000000089,
     "offset_y": -143.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -12.814814814815009,
     "offset_y": -86.44444444444434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/originals/95/30/96/953096258da2df6e557b739fd675e672.jpg",
   "md5": "203EFAA0E57342C3B73FA643AA9AD123",
   "tags": [
-    ""
+    "",
+    "female",
+    "pirate",
+    "queen",
+    "assassin",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -113,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -29,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6700000000000006,
     "offset_x": -106,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

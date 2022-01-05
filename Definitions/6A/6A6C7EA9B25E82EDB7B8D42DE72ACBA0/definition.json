@@ -2,25 +2,70 @@
   "source": "https://i.pinimg.com/564x/c6/17/f7/c617f760aabb5094e90c54ef46b7f140.jpg",
   "md5": "6A6C7EA9B25E82EDB7B8D42DE72ACBA0",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "rogue",
+    "character",
+    "armor",
+    "assassin",
+    "witcher",
+    "pirate",
+    "game",
+    "thrones",
+    "dark",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sarcasm",
+    "is",
+    "magic",
+    "alex",
+    "de",
+    "bernardis",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend",
+    "cryptids",
+    "applibot",
+    "inc",
+    "marat",
+    "ars",
+    "dwarf",
+    "demon",
+    "hunter",
+    "ren",
+    "beili",
+    "design"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -435.20000000000016,
     "offset_y": -166.4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -162.39999999999998,
     "offset_y": -72.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -67.27777777777783,
-    "offset_y": -1.1368683772161603e-13,
-    "size": "full"
+    "offset_y": -1.1368683772161603E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,69 @@
   "source": "https://i.pinimg.com/564x/62/54/92/625492dae8eda56e572b8026dd601c42.jpg",
   "md5": "CB309C382EF659CF99257741836BEB4B",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warlock",
+    "female",
+    "male",
+    "assassin",
+    "dark",
+    "knight",
+    "armor",
+    "vampire",
+    "manga",
+    "star",
+    "wars",
+    "clone",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "assassin\u0027s",
+    "creed",
+    "brotherhood",
+    "venice",
+    "crows",
+    "portraits",
+    "tatiana",
+    "vetrova",
+    "futuristic",
+    "cyber",
+    "girl",
+    "ivor",
+    "tosic",
+    "guardian",
+    "lourdes",
+    "padial",
+    "barbarian",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -263,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -60,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -12,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

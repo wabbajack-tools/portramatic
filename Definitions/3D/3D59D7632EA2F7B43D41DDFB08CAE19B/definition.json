@@ -2,25 +2,37 @@
   "source": "https://i.pinimg.com/564x/b9/59/1b/b9591b041744fafb836abb6b20fcc668.jpg",
   "md5": "3D59D7632EA2F7B43D41DDFB08CAE19B",
   "tags": [
-    ""
+    "",
+    "dwarven",
+    "concept",
+    "dwarves",
+    "dwarf",
+    "warrior",
+    "antique",
+    "dolls"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -276,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -112,
     "offset_y": -104,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -33,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

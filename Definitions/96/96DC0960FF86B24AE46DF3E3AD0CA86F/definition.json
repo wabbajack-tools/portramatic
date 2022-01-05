@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/736x/9e/ca/0b/9eca0bc338c830b9d95730b19da6f182.jpg",
   "md5": "96DC0960FF86B24AE46DF3E3AD0CA86F",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warrior",
+    "female",
+    "drawings",
+    "names",
+    "knight",
+    "armor",
+    "assassin",
+    "dark",
+    "medieval",
+    "knights",
+    "plate",
+    "ragi",
+    "718",
+    "concept",
+    "lady",
+    "sword",
+    "bianca",
+    "b\u0103l\u0103\u015Foiu",
+    "zweih\u00E4nder",
+    "min",
+    "young",
+    "kim",
+    "gods"
   ],
   "small": {
     "scale": 1.6000000000000005,
     "offset_x": -387,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -4,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -2,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

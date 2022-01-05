@@ -2,25 +2,39 @@
   "source": "https://static.zerochan.net/Baptiste.%28Overwatch%29.full.2506307.png",
   "md5": "82E1B65681C6835A2C3470DC5F46DD25",
   "tags": [
-    ""
+    "",
+    "overwatch",
+    "baptiste",
+    "skins",
+    "abilities",
+    "crono",
+    "chrono",
+    "trigger",
+    "mike",
+    "henry"
   ],
   "small": {
     "scale": 0.24999999999999933,
     "offset_x": -157,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.16999999999999926,
     "offset_x": -34,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -108,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

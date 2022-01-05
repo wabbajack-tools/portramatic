@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/b6/ef/37/b6ef37de143c59996414471d8785f8a7.jpg",
   "md5": "742B99E2AA9FF36A55FCF38EF7DF4A9E",
   "tags": [
-    ""
+    "",
+    "guild",
+    "wars",
+    "elementalist",
+    "armor",
+    "warrior",
+    "drifter",
+    "ben",
+    "wanat",
+    "ezio",
+    "leo",
+    "meza",
+    "medieval",
+    "skirmish",
+    "simon",
+    "gocal",
+    "https://www.artstation.com/artwork/xbvvy"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -829,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -734,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -1088,
     "offset_y": -166,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

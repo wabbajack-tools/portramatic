@@ -2,27 +2,46 @@
   "source": "https://vignette.wikia.nocookie.net/lotr/images/e/ed/Glorfindel-0.jpg/",
   "md5": "88494A4E54F0F67143D5B2117E10132D",
   "tags": [
-    ""
+    "",
+    "hobbit",
+    "glorfindel",
+    "lord",
+    "rings",
+    "elves",
+    "silmarillion",
+    "game",
+    "thrones",
+    "gandalf",
+    "elf",
+    "hdr",
+    "lighting",
+    "rendering",
+    "test",
+    "huan",
+    "gugu"
   ],
   "small": {
     "scale": 0.9198333333333327,
     "offset_x": -167,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6265000000000002,
     "offset_x": 0,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3086666666666662,
     "offset_x": 0,
     "offset_y": -106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -23,27 +23,33 @@
     "tomas",
     "duchek",
     "2020",
-    "orc"
+    "orc",
+    "amicia",
+    "igor",
+    "kieryluk"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -89.60000000000002,
     "offset_y": -1.8000000000000114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -68,
     "offset_y": -2.999999999999943,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -42.04629629629562,
     "offset_y": -3.9444444444443434,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

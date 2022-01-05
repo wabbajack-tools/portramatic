@@ -2,27 +2,54 @@
   "source": "https://live.staticflickr.com/4145/5414714467_251562a741_b.jpg",
   "md5": "95A634C51C662F6F91F9EF63FBCD3EFF",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "barbarian",
+    "conan",
+    "concept",
+    "artwork",
+    "game",
+    "thrones",
+    "warriors",
+    "oil",
+    "paintings",
+    "blood",
+    "bowl",
+    "stefan",
+    "kopinski",
+    "mayan",
+    "warrior",
+    "benjamin",
+    "harris",
+    "not",
+    "some",
+    "demon",
+    "#2",
+    "daniel",
+    "rudnicki"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

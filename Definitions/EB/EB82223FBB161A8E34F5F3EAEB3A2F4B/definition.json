@@ -2,25 +2,44 @@
   "source": "https://pbs.twimg.com/media/ENYI7zjVUAAYraa.jpg",
   "md5": "EB82223FBB161A8E34F5F3EAEB3A2F4B",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "characters",
+    "fgo",
+    "gangsta",
+    "g",
+    "http://chubymi.deviantart.com/art/motoko-kusanagi-570227859",
+    "chuby",
+    "mi",
+    "motoko",
+    "study",
+    "guweiz",
+    "hiien",
+    "nguyen"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -177,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -23,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -2,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

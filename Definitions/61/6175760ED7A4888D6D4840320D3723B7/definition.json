@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/a5/45/b6/a545b600886a478635f9ffe726e417db.jpg",
   "md5": "6175760ED7A4888D6D4840320D3723B7",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "medieval",
+    "knights",
+    "crusader",
+    "heavy",
+    "plate",
+    "templar",
+    "adam",
+    "nordsvan",
+    "https://www.artstation.com/artwork/be0n8",
+    "029",
+    "muel",
+    "kim",
+    "https://www.artstation.com/artwork/lglaw",
+    "female",
+    "seelah",
+    "paladin",
+    "siman",
+    "vlaisavljevi\u0107",
+    "https://www.artstation.com/artwork/rydgpo"
   ],
   "small": {
     "scale": 1,
     "offset_x": -511,
     "offset_y": -161,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -431,
     "offset_y": -165,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -268,
     "offset_y": -136,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

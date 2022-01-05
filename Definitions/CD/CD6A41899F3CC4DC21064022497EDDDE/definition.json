@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/74/fb/54/74fb54347a0a8585778d99844831fe2c.jpg",
   "md5": "CD6A41899F3CC4DC21064022497EDDDE",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "costume",
+    "woman",
+    "pose",
+    "women",
+    "cosplay",
+    "costumes",
+    "renaissance",
+    "traditional",
+    "clothing",
+    "fairy",
+    "scavenger",
+    "character",
+    "design",
+    "alexandru",
+    "negoita",
+    "diana",
+    "anastasia",
+    "smirnova",
+    "portraits",
+    "cyberpunk",
+    "characters",
+    "abandoned",
+    "all",
+    "leo",
+    "hao"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -414,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": 0,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -14,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

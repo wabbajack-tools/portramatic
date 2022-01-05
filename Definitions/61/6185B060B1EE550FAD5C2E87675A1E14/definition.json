@@ -2,25 +2,43 @@
   "source": "https://i.pinimg.com/564x/1c/3e/fb/1c3efb6f699e3b8b11970aee3e4282ed.jpg",
   "md5": "6185B060B1EE550FAD5C2E87675A1E14",
   "tags": [
-    ""
+    "",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "american",
+    "werewolf",
+    "london",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -26,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -8,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.189999999999997,
     "offset_x": -102,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

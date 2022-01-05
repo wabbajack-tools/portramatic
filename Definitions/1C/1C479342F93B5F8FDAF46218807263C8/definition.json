@@ -2,25 +2,58 @@
   "source": "https://i.pinimg.com/originals/70/7e/15/707e15067e70cb97c08de7ed80ad3830.jpg",
   "md5": "1C479342F93B5F8FDAF46218807263C8",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "female",
+    "assassin",
+    "armors",
+    "samurai",
+    "armor",
+    "leather",
+    "knight",
+    "dark",
+    "snake",
+    "gabriel",
+    "blain",
+    "assassins",
+    "creed",
+    "odyssey",
+    "martial",
+    "race",
+    "\u3147\u3147",
+    "joo",
+    "https://www.artstation.com/artwork/rgzqm",
+    "maiden",
+    "dima",
+    "rozhdestvensky",
+    "https://www.artstation.com/artwork/brr26"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -444,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -368,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -8,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

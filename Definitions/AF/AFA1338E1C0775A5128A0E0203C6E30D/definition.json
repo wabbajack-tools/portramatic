@@ -1,28 +1,41 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F35%2Ffc%2F5e%2F35fc5e7e52fd13d5a6768cefd3cfd67b.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F35%2Ffc%2F5e%2F35fc5e7e52fd13d5a6768cefd3cfd67b.jpg\u0026f=1\u0026nofb=1",
   "md5": "AFA1338E1C0775A5128A0E0203C6E30D",
   "tags": [
-    ""
+    "",
+    "female",
+    "dwarf",
+    "armor",
+    "wizard",
+    "rpg",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -129.60000000000048,
     "offset_y": -60.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -139.20000000000005,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -219.4537037037037,
     "offset_y": -6.407407407407391,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

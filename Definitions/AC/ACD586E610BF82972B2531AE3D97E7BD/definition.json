@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/fb/ab/38/fbab3837c4b577fcd5824a2cd9dd87dd.jpg",
   "md5": "ACD586E610BF82972B2531AE3D97E7BD",
   "tags": [
-    ""
+    "",
+    "viking",
+    "man",
+    "male",
+    "warriors",
+    "armor",
+    "actionfigures",
+    "clash",
+    "titans",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "lapu",
+    "concept",
+    "niles",
+    "arguelles",
+    "gladiator",
+    "from",
+    "far",
+    "west.",
+    "oscar",
+    "r\u00F6mer"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -303,
     "offset_y": -154,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -54,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -34,
     "offset_y": -134,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

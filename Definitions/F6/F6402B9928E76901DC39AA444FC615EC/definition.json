@@ -2,25 +2,40 @@
   "source": "http://pictures.hentai-foundry.com/a/aka6/647063/aka6-647063-Lady_lich.jpg",
   "md5": "F6402B9928E76901DC39AA444FC615EC",
   "tags": [
-    ""
+    "",
+    "necromancer",
+    "drawing",
+    "cartoon",
+    "tiefling",
+    "four",
+    "horsemen",
+    "assassin",
+    "druid",
+    "jessica",
+    "pelletier"
   ],
   "small": {
     "scale": 1,
     "offset_x": -369,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -202,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -64,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

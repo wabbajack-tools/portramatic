@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/736x/95/0a/82/950a82d5e064d40f333a510a82f90b45--character-portraits-character-ideas.jpg",
   "md5": "1B6D8FE613C171AC7FDB1025298D46B1",
   "tags": [
-    ""
+    "",
+    "crossbow",
+    "fighter",
+    "character",
+    "hand",
+    "ghost",
+    "recon",
+    "heavy",
+    "armor",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "soldier",
+    "fu",
+    "chenqi",
+    "fossi",
+    "phelan",
+    "a.",
+    "davion",
+    "dystopian",
+    "talos",
+    "division",
+    "panagiotis",
+    "giannakopoulos",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -215,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -124,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 62,
     "offset_y": 62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

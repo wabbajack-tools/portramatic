@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/25/06/60/250660590cce8a5f6507fcaaa6ac9546.jpg",
   "md5": "DCBD522923559754F3EADDC4F4C78CE9",
   "tags": [
-    ""
+    "",
+    "1st",
+    "edition",
+    "character",
+    "sheet",
+    "d\u0026d",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "153",
+    "paul",
+    "shut",
+    "ben",
+    "guldemond\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "piratbay",
+    "shai",
+    "daniel"
   ],
   "small": {
     "scale": 2.000000000000001,
     "offset_x": -478,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -118,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -46,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

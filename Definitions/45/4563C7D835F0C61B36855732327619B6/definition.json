@@ -2,27 +2,56 @@
   "source": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Twitch_OriginalSkin.jpg/revision/latest/scale-to-width-down/1000?cb=20181021104758",
   "md5": "4563C7D835F0C61B36855732327619B6",
   "tags": [
-    ""
+    "",
+    "twitch",
+    "fan",
+    "league",
+    "splash",
+    "legends",
+    "world",
+    "warcraft",
+    "rogue",
+    "pyke",
+    "bloodharbor",
+    "ripper",
+    "victor",
+    "maury",
+    "https://www.artstation.com/artwork",
+    "illidan",
+    "stormrage",
+    "justcg",
+    "chen",
+    "nissa",
+    "revane",
+    "alex",
+    "lao",
+    "dungeons",
+    "dragons",
+    "characters",
+    "women"
   ],
   "small": {
     "scale": 1,
     "offset_x": 2,
     "offset_y": 83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -87,
     "offset_y": 16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -130,
     "offset_y": 6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

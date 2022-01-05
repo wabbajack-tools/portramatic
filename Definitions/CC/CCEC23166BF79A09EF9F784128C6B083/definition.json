@@ -18,27 +18,33 @@
     "path",
     "exile",
     "breachlords",
-    "wasan"
+    "wasan",
+    "techawibulchai",
+    "digital",
+    "inspiration"
   ],
   "small": {
     "scale": 0.38999999999999957,
     "offset_x": -637,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.30999999999999944,
     "offset_x": -418,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -568,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

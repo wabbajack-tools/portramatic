@@ -2,27 +2,59 @@
   "source": "https://i.imgur.com/AEgSQ2z.jpeg",
   "md5": "315ACF81FC97F34474538FC3C91A4DDC",
   "tags": [
-    ""
+    "",
+    "viking",
+    "character",
+    "warrior",
+    "vikings",
+    "female",
+    "characters",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "armors",
+    "roman",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "huskarl",
+    "caio",
+    "monteiro",
+    "cdna.artstation.com",
+    "submitted",
+    "elven",
+    "skirmisher",
+    "un",
+    "lee",
+    "https://www",
+    "cr\u00F4nicas",
+    "rpg"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -196,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -84,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -22,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

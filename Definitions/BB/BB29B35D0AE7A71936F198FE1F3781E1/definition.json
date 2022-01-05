@@ -10,27 +10,49 @@
     "black",
     "spawn",
     "comics",
-    "marvel"
+    "marvel",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals",
+    "gandalf",
+    "joe",
+    "keller",
+    "design",
+    "\u0022john",
+    "baptist\u0022",
+    "blake",
+    "010816",
+    "jeremy",
+    "hanna"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -295.6666666666667,
     "offset_y": -208.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -108,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -79.33333333333348,
     "offset_y": -129.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

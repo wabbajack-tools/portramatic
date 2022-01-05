@@ -4,27 +4,66 @@
   "tags": [
     "male",
     "character",
-    "concept"
+    "concept",
+    "generator",
+    "dwarf",
+    "portraits",
+    "armors",
+    "female",
+    "pirate",
+    "knight",
+    "armor",
+    "assassin",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "gaming",
+    "pinwire",
+    "boar",
+    "clan",
+    "warrior",
+    "barbara",
+    "middle-earth",
+    "talion",
+    "fanart",
+    "vladimir",
+    "uryadov",
+    "just",
+    "a",
+    "an",
+    "elf",
+    "victoria",
+    "sokolova"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -272,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -34,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -54,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

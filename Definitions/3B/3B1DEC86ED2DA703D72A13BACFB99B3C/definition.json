@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/originals/36/3d/a8/363da8ddf1765d1ad7640bdde2dd2600.png",
   "md5": "3B1DEC86ED2DA703D72A13BACFB99B3C",
   "tags": [
-    "archdevil"
+    "archdevil",
+    "dragon",
+    "ball",
+    "nature",
+    "succubus",
+    "artmong",
+    "kwonsoonhyeop",
+    "creature",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -376,
     "offset_y": -313,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -230,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -140,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

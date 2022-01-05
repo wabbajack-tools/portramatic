@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/564x/cb/5f/75/cb5f7522e4a4c5e3cc1d14243fe5ec00.jpg",
   "md5": "55A9E7588CEC27458FC102766C7A97B5",
   "tags": [
-    ""
+    "",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -144,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -78,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7400000000000007,
     "offset_x": -150,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

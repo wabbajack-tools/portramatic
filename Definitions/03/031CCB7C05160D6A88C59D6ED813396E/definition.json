@@ -23,28 +23,31 @@
     "sketch",
     "stato",
     "drawimgs",
-    "d&d",
+    "d\u0026d",
     "sketches"
   ],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -75.99999999999997,
     "offset_y": -41.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -24.33333333333337,
     "offset_y": -7.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -56.66666666666674,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,47 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07b25e34-9ec3-445a-812a-00cd71b371e2/ddln956-c3fac8df-cf49-44b0-97ca-b4ead9d12490.jpg/v1/fill/w_1024,h_1435,q_75,strp/snow_cat_frost_rage__commission__by_lenabwolf_ddln956-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQzNSIsInBhdGgiOiJcL2ZcLzA3YjI1ZTM0LTllYzMtNDQ1YS04MTJhLTAwY2Q3MWIzNzFlMlwvZGRsbjk1Ni1jM2ZhYzhkZi1jZjQ5LTQ0YjAtOTdjYS1iNGVhZDlkMTI0OTAuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Yzp1L6Zp9kTWhTzUbsANpPvNArkOlSYRbZoRKrWr-Is",
   "md5": "05FB93F4506B7F97D47C861A9FDE585C",
   "tags": [
-    ""
+    "",
+    "humanized",
+    "months",
+    "year",
+    "part",
+    "lena",
+    "pilieva",
+    "\u0432",
+    "2020",
+    "\u0433",
+    "cold",
+    "aleksei",
+    "vinogradov",
+    "jon",
+    "snow",
+    "leo",
+    "tanguin",
+    "leoworkx"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -107,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -12,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -48,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

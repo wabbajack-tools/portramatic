@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/84/f0/b5/84f0b50131661919f8c5c75f65ac9901.jpg",
   "md5": "AEBCB760D4450B9BE96943A814D60BB7",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "armor",
+    "dark",
+    "knight",
+    "souls",
+    "crusader",
+    "returns",
+    "medieval",
+    "knights",
+    "elf",
+    "battle",
+    "sorcerer",
+    "\u2171",
+    "repainted",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "white",
+    "demon",
+    "davood",
+    "diba",
+    "yasuo",
+    "fan",
+    "seung",
+    "eun",
+    "kim",
+    "league"
   ],
   "small": {
     "scale": 1.5600000000000005,
     "offset_x": -479,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -44,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -8,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

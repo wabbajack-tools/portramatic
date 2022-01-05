@@ -6,27 +6,60 @@
     "daeho",
     "cha",
     "marleen",
-    "vijgen"
+    "vijgen",
+    "human",
+    "female",
+    "anime",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "god",
+    "war",
+    "chains",
+    "olympus",
+    "clone",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sukub",
+    "stanislav",
+    "ostrikov",
+    "concept",
+    "\u300A\u5BFB\u79E6\u8BB0\u300B\u7F8E\u672F",
+    "\u5E7B\u8776",
+    "cg",
+    "art-service",
+    "rim",
+    "world",
+    "alien",
+    "design",
+    "tully",
+    "summers"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -540,
     "offset_y": -162,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -301,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -2,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

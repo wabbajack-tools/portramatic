@@ -21,27 +21,33 @@
     "2b",
     "nier",
     "automata",
-    "imguss"
+    "imguss",
+    "anime",
+    "druid",
+    "sorceress"
   ],
   "small": {
     "scale": 0.249999999999996,
     "offset_x": -9,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4699999999999991,
     "offset_x": -39,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0599999999999983,
     "offset_x": -76,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

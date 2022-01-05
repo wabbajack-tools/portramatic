@@ -1,29 +1,41 @@
 {
-  "source": "https://pbs.twimg.com/media/ExEiulUXMAAFtYH?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/ExEiulUXMAAFtYH?format=jpg\u0026name=large",
   "md5": "9D4712CBF3D86FF04D0D9DA3D35278E8",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "vincent",
+    "kent",
+    "davis",
+    "https://www",
+    "dead",
+    "one",
+    "anna",
+    "tsvirko",
+    "character"
   ],
   "small": {
     "scale": 0.7399999999999997,
     "offset_x": -299,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999994,
     "offset_x": -165,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -4,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,44 @@
   "source": "http://orkenworld.com/wp-content/uploads/2017/06/OG09.jpg",
   "md5": "2FCAE31FFA9E3793F2FF76C7299647C0",
   "tags": [
-    ""
+    "",
+    "modern",
+    "rpg",
+    "character",
+    "female",
+    "concept",
+    "dragon",
+    "joseph",
+    "no\u00EBl",
+    "creature",
+    "alien",
+    "bounty",
+    "hunters",
+    "xander",
+    "smith"
   ],
   "small": {
     "scale": 0.17200000000000185,
     "offset_x": -50.799999999999926,
     "offset_y": -2.3999999999999204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3006666666666691,
     "offset_x": -80.40000000000009,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.709916666666667,
     "offset_x": -471.2000000000003,
     "offset_y": -0.8000000000001819,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

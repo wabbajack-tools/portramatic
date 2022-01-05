@@ -6,25 +6,43 @@
     "Angel",
     "aasimar",
     "female",
-    "dualwielding"
+    "dualwielding",
+    "assassin",
+    "baya",
+    "ochkaeva",
+    "necromancer",
+    "maryna",
+    "shcherbakova",
+    "women",
+    "characters",
+    "argenta",
+    "steve",
+    "zheng",
+    "https://www.artstation.com/artwork/okxnj",
+    "with"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -445.3333333333337,
     "offset_y": -133.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -468,
     "offset_y": -147.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -238.66666666666652,
     "offset_y": -89.33333333333314,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

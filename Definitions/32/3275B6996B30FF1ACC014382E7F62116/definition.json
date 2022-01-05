@@ -18,27 +18,45 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "dungeons",
+    "dragons",
+    "conan",
+    "barbarian",
+    "necromancer",
+    "adel",
+    "khanov",
+    "su",
+    "jian",
+    "2020",
+    "warcraft",
+    "world",
+    "piotr",
+    "kowalski",
+    "comics"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -590,
     "offset_y": -190,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -362,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -40,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

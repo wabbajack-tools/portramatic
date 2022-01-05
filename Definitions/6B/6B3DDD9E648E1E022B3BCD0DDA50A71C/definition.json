@@ -2,27 +2,65 @@
   "source": "https://64.media.tumblr.com/63ce535b2729c84fb4d7c4d67d0438f9/0fee34960620d38b-8a/s1280x1920/69fbf22831207dbd24352499e34f41ed09ef805c.jpg",
   "md5": "6B3DDD9E648E1E022B3BCD0DDA50A71C",
   "tags": [
-    ""
+    "",
+    "aasimar",
+    "cleric",
+    "protector",
+    "paladin",
+    "knight",
+    "armor",
+    "assassin",
+    "armors",
+    "black",
+    "assassin\u0027s",
+    "medieval",
+    "knights",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "witch",
+    "hunter",
+    "koowa",
+    "_",
+    "king",
+    "09/13/19",
+    "practice",
+    "banjiu",
+    "e\u0027vik",
+    "vik",
+    "character",
+    "zelda",
+    "characters",
+    "design",
+    "z",
+    "boo",
+    "elf",
+    "female"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -492,
     "offset_y": -310,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -193,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -122,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

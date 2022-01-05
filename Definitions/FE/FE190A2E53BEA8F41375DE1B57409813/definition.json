@@ -1,28 +1,44 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F03b0%2Ff%2F2016%2F231%2F9%2F8%2Fgaladriel_by_icedwingsart-daeil0g.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F03b0%2Ff%2F2016%2F231%2F9%2F8%2Fgaladriel_by_icedwingsart-daeil0g.jpg\u0026f=1\u0026nofb=1",
   "md5": "FE190A2E53BEA8F41375DE1B57409813",
   "tags": [
-    ""
+    "",
+    "anime",
+    "female",
+    "elves",
+    "princess",
+    "forest",
+    "elf",
+    "dragon",
+    "fairy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -112,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -4,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -32,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

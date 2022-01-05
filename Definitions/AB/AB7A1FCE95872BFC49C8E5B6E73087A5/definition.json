@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/35/29/70/352970b7655815f3e2846736147e78cc.jpg",
   "md5": "AB7A1FCE95872BFC49C8E5B6E73087A5",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "concept",
+    "rpg",
+    "character",
+    "warrior",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "assassin",
+    "black",
+    "assassin\u0027s",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "bbang",
+    "q"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -231,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -53,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -2,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

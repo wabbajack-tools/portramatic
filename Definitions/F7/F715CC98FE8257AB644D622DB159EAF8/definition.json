@@ -28,27 +28,38 @@
     "gunner",
     "yu",
     "cheng",
-    "hong"
+    "hong",
+    "conan",
+    "barbarian",
+    "baros_adv",
+    "mansik",
+    "yang",
+    "https://www.artstation.com/artwork/rgx8d",
+    "bruxas",
+    "arte"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -368.8000000000005,
     "offset_y": -213.79999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -53.40000000000009,
     "offset_y": -42.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -32.05555555555543,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

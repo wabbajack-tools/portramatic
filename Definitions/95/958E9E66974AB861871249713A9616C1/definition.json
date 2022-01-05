@@ -5,27 +5,39 @@
     "elf",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "male",
+    "dark",
+    "elves",
+    "assassin",
+    "face",
+    "\u7B2C\u4E94\u671F\u7CBE\u54C1\u73ED",
+    "\u5B66\u5458\u89D2\u8272\u4F5C\u54C1",
+    "star",
+    "cg"
   ],
   "small": {
     "scale": 0.44000000000000017,
     "offset_x": -603.5,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999995,
     "offset_x": -351.5,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5306666666666662,
     "offset_x": -478,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

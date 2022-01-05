@@ -2,27 +2,57 @@
   "source": "https://cdn.discordapp.com/attachments/646320152111218689/927419357284417566/unknown.png",
   "md5": "3A20945F08CCDEA2E83C18E999221EE8",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "armors",
+    "heavy",
+    "medieval",
+    "knights",
+    "moon",
+    "charles",
+    "park",
+    "for",
+    "honor",
+    "highlander",
+    "character",
+    "guillaume",
+    "menuel",
+    "guerrero",
+    "vikingo",
+    "boba",
+    "fett",
+    "origins",
+    "felipe",
+    "diaz",
+    "2021"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -200,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -41,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": 2,
     "offset_y": 4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

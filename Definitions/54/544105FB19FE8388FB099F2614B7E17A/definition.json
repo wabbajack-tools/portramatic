@@ -4,27 +4,63 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "sorceress",
+    "witch",
+    "pirate",
+    "assassin",
+    "lord",
+    "rings",
+    "war",
+    "north",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "elven",
+    "skirmisher",
+    "un",
+    "lee",
+    "dungeons",
+    "dragons",
+    "characters",
+    "concept",
+    "elder",
+    "witcher",
+    "school",
+    "lion",
+    "game",
+    "res",
+    "model",
+    "nils",
+    "ruisch",
+    "namgwon"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -240,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -31,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -22,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

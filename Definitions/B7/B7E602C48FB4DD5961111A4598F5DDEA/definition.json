@@ -5,27 +5,47 @@
     "miura",
     "berserk",
     "fan",
-    "kentaro"
+    "kentaro",
+    "guts",
+    "drawing",
+    "clip",
+    "war",
+    "hero",
+    "ac",
+    "odyssey",
+    "murat",
+    "g\u00FCl",
+    "metal",
+    "warrior",
+    "zzz",
+    "https://www",
+    "condemned",
+    "brute",
+    "pascal",
+    "quidault"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -294,
     "offset_y": -21.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -201.79999999999998,
     "offset_y": -25.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -416.20000000000005,
     "offset_y": -44.60000000000002,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

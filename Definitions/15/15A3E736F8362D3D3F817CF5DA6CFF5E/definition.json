@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/b5/41/b7/b541b76233c3af7f6326d324b9bb2095.jpg",
   "md5": "15A3E736F8362D3D3F817CF5DA6CFF5E",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "rogue",
+    "armor",
+    "ceremonial",
+    "olga",
+    "kolesnikova",
+    "dragon",
+    "ball",
+    "season",
+    "one",
+    "miha",
+    "brumec",
+    "2020",
+    "true",
+    "king",
+    "artur",
+    "m\u00F3sca",
+    "artwork",
+    "concept"
   ],
   "small": {
     "scale": 1,
     "offset_x": -196,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

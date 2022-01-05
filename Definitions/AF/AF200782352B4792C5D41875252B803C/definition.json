@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/95/49/72/954972a3dd96ebe224f559a2e62e5296.jpg",
   "md5": "AF200782352B4792C5D41875252B803C",
   "tags": [
-    ""
+    "",
+    "gnome",
+    "character",
+    "wizard",
+    "female",
+    "alice",
+    "wonderland",
+    "disney",
+    "league",
+    "legends",
+    "\u5973\u6CD5\u5E08",
+    "yin",
+    "rongsheng",
+    "botw",
+    "ashlee",
+    "blackburn",
+    "commissions",
+    "august",
+    "2017",
+    "anzka",
+    "nguyen",
+    "scifi"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -96.66666666666663,
     "offset_y": -30.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -19.333333333333314,
     "offset_y": -1.3333333333333712,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

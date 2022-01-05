@@ -31,27 +31,45 @@
     "kristen",
     "des",
     "vignes",
-    "https://www"
+    "https://www",
+    "warriors",
+    "romance",
+    "three",
+    "kingdoms",
+    "medieval",
+    "knights",
+    "vexemis",
+    "angry",
+    "god",
+    "war",
+    "jackie",
+    "felix",
+    "knight",
+    "horse",
+    "character"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -308,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999932,
     "offset_x": -50,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -48,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

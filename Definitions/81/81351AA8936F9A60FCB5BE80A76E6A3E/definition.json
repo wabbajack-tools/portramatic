@@ -5,27 +5,55 @@
     "male",
     "tiefling",
     "wizard",
-    "purple"
+    "purple",
+    "elf",
+    "concept",
+    "rpg",
+    "character",
+    "warrior",
+    "pose",
+    "knight",
+    "armor",
+    "high",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "overwatch",
+    "hanzo",
+    "inhyuk",
+    "lee",
+    "https://www",
+    "just",
+    "so",
+    "n/a",
+    "satyaki",
+    "sarkar\u0027s",
+    "submission",
+    "legend"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -306,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -206,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000002,
     "offset_x": -304,
     "offset_y": -93,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

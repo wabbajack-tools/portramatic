@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/d9/b7/2e/d9b72e86dedbf2ff0087428fe51eb0d5.jpg",
   "md5": "90A83F7215E81AD62FC4911068BED55C",
   "tags": [
-    "Bloodrager"
+    "Bloodrager",
+    "fire",
+    "mage",
+    "male",
+    "anime",
+    "girl",
+    "witcher",
+    "death",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "burning",
+    "teldrassil",
+    "sanjin",
+    "halimic",
+    "warcraft",
+    "world",
+    "characters",
+    "embers",
+    "endless",
+    "havok",
+    "kyle",
+    "parsons",
+    "hydra",
+    "wizard",
+    "j.",
+    "r.",
+    "coffron"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -644,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -276,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -120,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -18,27 +18,50 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "angelic",
+    "goddess",
+    "beautiful",
+    "white",
+    "angels",
+    "artwork",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "mother",
+    "hongqi",
+    "zhang",
+    "https://www.artstation.com/artwork/rv1d5",
+    "game",
+    "\u8521\u6587\u59EC",
+    "m",
+    "meiren",
+    "soldier",
+    "john",
+    "brassell"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -266,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -132,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -42,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

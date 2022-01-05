@@ -4,27 +4,52 @@
   "tags": [
     "warhammer",
     "von",
-    "carstein"
+    "carstein",
+    "vampire",
+    "counts",
+    "army",
+    "blood",
+    "knights",
+    "concept",
+    "lord",
+    "rings",
+    "40k",
+    "online\uFF082009\uFF09",
+    "ji",
+    "zhang",
+    "roleplay",
+    "online",
+    "slayer",
+    "todor",
+    "hristov",
+    "titania",
+    "\u0026",
+    "rogon",
+    "chris",
+    "koh"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -495,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3899999999999994,
     "offset_x": -161,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

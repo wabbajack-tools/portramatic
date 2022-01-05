@@ -2,27 +2,62 @@
   "source": "https://i.imgur.com/5uABhVz.jpeg",
   "md5": "35C5308EC8BDE7C5904423AF7DF2688A",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "armors",
+    "medieval",
+    "knights",
+    "armor",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "lin",
+    "fanqin",
+    "xu",
+    "https://www.artstation.com/artwork/rxeba",
+    "portraits",
+    "serim",
+    "hwang",
+    "design",
+    "characters",
+    "dungeons",
+    "reinmar",
+    "konstantin",
+    "porubov",
+    "https://www.artstation.com/artwork/j4zld"
   ],
   "small": {
     "scale": 1,
     "offset_x": -271,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -192,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -16,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

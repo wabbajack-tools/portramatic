@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/474x/c6/76/21/c676214e3a5349bd677de9eaea24d2a3.jpg",
   "md5": "AD6CF84A0643063A8D004AD8964E5F08",
   "tags": [
-    ""
+    "",
+    "monk",
+    "drawings",
+    "warrior",
+    "tamiyo",
+    "field",
+    "researcher",
+    "sergio",
+    "roman",
+    "leesha",
+    "hannigan"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -68.00000000000003,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -4.666666666666572,
     "offset_y": -42.66666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

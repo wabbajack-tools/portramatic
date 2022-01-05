@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/8d/ce/64/8dce64b7b8557fce95cc96655a818931.jpg",
   "md5": "71AFF9DFB358BC3AC1189F38137BEF2F",
   "tags": [
-    ""
+    "",
+    "character",
+    "design",
+    "inspiration",
+    "female",
+    "cartoon",
+    "girl",
+    "archer",
+    "knight",
+    "armor",
+    "pirate",
+    "death",
+    "sucker",
+    "punch",
+    "productions",
+    "ghost",
+    "tsushima",
+    "blast",
+    "magazine",
+    "kaede",
+    "mitch",
+    "mohrhauser",
+    "animation",
+    "queen",
+    "wolves",
+    "johnson",
+    "ting",
+    "guerreiro",
+    "medievais",
+    "anime",
+    "conceito",
+    "de"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -139.6666666666665,
     "offset_y": -78.00000000000011,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -157.66666666666663,
     "offset_y": -113.66666666666649,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -3.333333333333485,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/000/902/229/large/jianyachi-l-2d-3.jpg?1435721858",
   "md5": "2FC94EEF87F8DD4ACFA1EAFA284D69C4",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "sci-fi",
+    "concept",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\uC2B5\uC791\uBAA8\uC74C",
+    "seo",
+    "hee(angpho",
+    "https://www",
+    "\uC774\uC9D1\uD2B8",
+    "\uC5EC\uC2E0",
+    "yujin",
+    "byun",
+    "women",
+    "xiao",
+    "qiao",
+    "an",
+    "hua"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -827,
     "offset_y": -560,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -620,
     "offset_y": -446,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -546,
     "offset_y": -450,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

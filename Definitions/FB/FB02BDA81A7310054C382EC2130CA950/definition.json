@@ -7,27 +7,56 @@
     "dandonfuga",
     "explore",
     "prywinko",
-    "sexy"
+    "sexy",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "warrior",
+    "anime",
+    "girl",
+    "league",
+    "monster",
+    "high",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "sha\u0027nyra",
+    "with",
+    "a",
+    "ghost",
+    "pridemother",
+    "dayton",
+    "myers",
+    "genderbent",
+    "shion",
+    "vayreceane",
+    "eafu"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -229,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -206,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -68,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

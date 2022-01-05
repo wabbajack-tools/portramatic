@@ -12,25 +12,46 @@
     "samurai",
     "world of warcraft",
     "tiefling",
-    "demon"
+    "demon",
+    "star",
+    "wars",
+    "\u0022what",
+    "if\u0022",
+    "project",
+    "jedi",
+    "master",
+    "forbidden",
+    "love",
+    "tri",
+    "nguyen",
+    "https://www",
+    "joan",
+    "arc",
+    "bei",
+    "xu"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -167,
     "offset_y": -52,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -107,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -29,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

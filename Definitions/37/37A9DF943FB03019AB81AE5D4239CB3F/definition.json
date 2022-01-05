@@ -3,27 +3,45 @@
   "md5": "37A9DF943FB03019AB81AE5D4239CB3F",
   "tags": [
     "ryuko",
-    "shexyo"
+    "shexyo",
+    "matoi",
+    "fan",
+    "drawings",
+    "kill",
+    "spider-man",
+    "la",
+    "orien",
+    "studios",
+    "kimetsu",
+    "no",
+    "yaiba-tomioka",
+    "\u9B3C\u6EC5\u306E\u5203-\u6C34\u67F1",
+    "#\u51A8\u5CA1\u7FA9\u52C7",
+    "d",
+    "bcrow"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -167,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -118,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

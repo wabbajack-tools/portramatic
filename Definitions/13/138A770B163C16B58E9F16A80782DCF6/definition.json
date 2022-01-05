@@ -2,27 +2,49 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/017/542/897/4k/jeremiah-seiden-2.jpg?1556409713",
   "md5": "138A770B163C16B58E9F16A80782DCF6",
   "tags": [
-    ""
+    "",
+    "high",
+    "elf",
+    "dark",
+    "total",
+    "war",
+    "three",
+    "kingdoms_",
+    "zheng",
+    "jiang",
+    "agus",
+    "sw",
+    "https://www.artstation.com",
+    "women",
+    "concept",
+    "characters",
+    "eliniell",
+    "wander",
+    "antonello",
+    "venditti"
   ],
   "small": {
     "scale": 0.28999999999999965,
     "offset_x": -230,
     "offset_y": -104,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2599999999999994,
     "offset_x": -123,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.34999999999999964,
     "offset_x": -40,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

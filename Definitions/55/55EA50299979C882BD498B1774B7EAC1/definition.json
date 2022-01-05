@@ -2,27 +2,56 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/009/729/926/large/othon-nikolaidis-basira.jpg?1520559416",
   "md5": "55EA50299979C882BD498B1774B7EAC1",
   "tags": [
-    ""
+    "",
+    "female",
+    "bandit",
+    "costume",
+    "skyrim",
+    "elder",
+    "scrolls",
+    "online",
+    "heavy",
+    "armor",
+    "dwemer",
+    "lord",
+    "hugo",
+    "m",
+    "blasquez",
+    "pin",
+    "artwork",
+    "digital",
+    "photo\u0027s",
+    "drawings",
+    "taking",
+    "aim.",
+    "suzanne",
+    "helmigh",
+    "2020",
+    "character",
+    "study"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

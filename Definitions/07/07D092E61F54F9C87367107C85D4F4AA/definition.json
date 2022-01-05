@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/a9/b4/8c/a9b48c5dc10bfc991faa3f90a2994148.jpg",
   "md5": "07D092E61F54F9C87367107C85D4F4AA",
   "tags": [
-    ""
+    "",
+    "alchemist",
+    "concept",
+    "character",
+    "shop",
+    "orc",
+    "warrior",
+    "orcs",
+    "oni",
+    "ca",
+    "aniceto",
+    "escribano",
+    "witch\u0027s",
+    "apprentice",
+    "pedro",
+    "kr\u00FCger",
+    "garcia",
+    "grahham",
+    "mixture",
+    "dealer",
+    "alexey",
+    "kruglov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -508,
     "offset_y": -281,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -422,
     "offset_y": -256,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -224,
     "offset_y": -194,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

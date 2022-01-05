@@ -2,27 +2,33 @@
   "source": "https://i.pinimg.com/originals/77/69/6e/77696e8fbc170deb38834d88dae9b0f7.png",
   "md5": "7AA050419D47D7C9773FFB8D2828867E",
   "tags": [
-    ""
+    "",
+    "hacked",
+    "daniel",
+    "tyka"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -459,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -182,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -178,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

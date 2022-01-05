@@ -3,27 +3,33 @@
   "md5": "DF91A48CDD180E12D307764F000AE355",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "women",
+    "half",
+    "drow"
   ],
   "small": {
     "scale": 0.249999999999996,
     "offset_x": -18,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.369999999999999,
     "offset_x": -3,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999981,
     "offset_x": -88,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

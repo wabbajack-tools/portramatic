@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/originals/3b/50/4c/3b504cbdca631fc78db6893a75cd2282.jpg",
   "md5": "E1C393CB69A4DB90B69A1BE9573813F6",
   "tags": [
-    ""
+    "",
+    "digital",
+    "girl",
+    "hair",
+    "red",
+    "headed",
+    "drawing",
+    "haired"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -95,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -113,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -104,
     "offset_y": -136,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/f1/de/72/f1de7257b328712affce977385314f91.jpg",
   "md5": "A39DDA70C7C93DCE025F8BF7089E6795",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "armor",
+    "concept",
+    "character",
+    "design",
+    "warrior",
+    "st.",
+    "michael",
+    "guardian",
+    "angels",
+    "tomb",
+    "jesus",
+    "greek",
+    "gods",
+    "david",
+    "goliath",
+    "ichthyocentaur",
+    "roksana",
+    "nikicionek",
+    "robert",
+    "crescenzio",
+    "silhouette",
+    "posssed",
+    "shawn",
+    "upshaw"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -287,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -82,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -38,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

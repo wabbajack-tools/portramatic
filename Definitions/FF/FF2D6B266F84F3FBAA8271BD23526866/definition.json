@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/45/b1/4f/45b14faa83e77b2e9f379ae6c71b8d7e.jpg",
   "md5": "FF2D6B266F84F3FBAA8271BD23526866",
   "tags": [
-    ""
+    "",
+    "gondor",
+    "guard",
+    "lotr",
+    "armor",
+    "citadel",
+    "knight",
+    "actionfigures",
+    "leather",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "character",
+    "design",
+    "juliana",
+    "wilhelm",
+    "\u72C2\u87D2\uFF1A\u67E5\u514B",
+    "rs",
+    "\u5DE5",
+    "\u4F5C",
+    "\u5BA4",
+    "https://www.artstation.com/artwork/wk2kzn",
+    "2021",
+    "science",
+    "istar",
+    "rachel",
+    "denton",
+    "https://www.artstation.com/artwork/5xno8z",
+    "rogue"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -192,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -38,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

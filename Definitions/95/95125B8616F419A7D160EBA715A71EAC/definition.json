@@ -2,25 +2,42 @@
   "source": "https://cdn.donmai.us/original/95/12/__yang_guifei_fate_and_1_more_drawn_by_azomo__95125b8616f419a7d160eba715a71eac.jpg",
   "md5": "95125B8616F419A7D160EBA715A71EAC",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "fmvp\u8C82\u8749",
+    "wang",
+    "chengyu",
+    "future",
+    "century-yun",
+    "zhao",
+    "yuyu",
+    "wong"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -878,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -439,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -436,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

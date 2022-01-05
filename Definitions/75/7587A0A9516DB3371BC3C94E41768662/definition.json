@@ -23,27 +23,52 @@
     "dasha",
     "y.",
     "park",
-    "concept"
+    "concept",
+    "elf",
+    "hobbit",
+    "dark",
+    "green",
+    "lantern",
+    "undead",
+    "j",
+    "jp",
+    "https://www.artstation.com/artwork/bz3zn",
+    "creature",
+    "\u00F6rs\u00F6lin",
+    "\u0026",
+    "golgein",
+    "hegemons",
+    "nostria",
+    "ag",
+    "radley",
+    "wise",
+    "ancient",
+    "druid",
+    "christina",
+    "kritikou"
   ],
   "small": {
     "scale": 1,
     "offset_x": -184.95798319327662,
     "offset_y": -69.2352941176471,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -110.82352941176458,
     "offset_y": -64.22689075630251,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -58.90756302521004,
     "offset_y": -7.29411764705884,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

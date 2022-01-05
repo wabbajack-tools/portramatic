@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/8d/d9/8b/8dd98b7a10d009bafae636347c45c77c.jpg",
   "md5": "1BF722588644241AAE8116E7C609534E",
   "tags": [
-    ""
+    "",
+    "abyssal",
+    "tiefling",
+    "thief",
+    "dragon",
+    "age",
+    "origins",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "viribus",
+    "real-time",
+    "cleiton",
+    "moreira",
+    "baby",
+    "ess",
+    "damien",
+    "devaux"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/026/308/865/large/miiiin-song-20200501.jpg",
   "md5": "9186B16E855604FB1E588D08F424F2BC",
   "tags": [
-    ""
+    "",
+    "female",
+    "pirate",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "ares",
+    "woman",
+    "warrior",
+    "heavy",
+    "archer",
+    "march",
+    "personal",
+    "work",
+    "sangsoon",
+    "lim"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -330,
     "offset_y": -282,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -164,
     "offset_y": -220,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -74,
     "offset_y": -266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

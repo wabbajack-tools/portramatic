@@ -19,7 +19,7 @@
     "jeremy",
     "chong",
     "https://www.artstation.com/artwork/y5lak?utm",
-    "heaven's",
+    "heaven\u0027s",
     "guardian",
     "yangtian",
     "li",
@@ -31,27 +31,62 @@
     "archer",
     "schulz",
     "concept",
-    "world"
+    "world",
+    "male",
+    "high",
+    "character",
+    "knight",
+    "league",
+    "legends",
+    "night",
+    "dynasty",
+    "warriors",
+    "lord",
+    "rings",
+    "iorneste",
+    "zaina",
+    "a",
+    "event",
+    "poster",
+    "movie",
+    "posters",
+    "warcraft",
+    "chronicle",
+    "vol.2",
+    "wei",
+    "wang",
+    "https://www.artstation.com/artwork/w6kn",
+    "three",
+    "kingdoms",
+    "tcg",
+    "illustration-1",
+    "jamin",
+    "lin",
+    "chinese",
+    "history"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -348,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -265,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -20,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

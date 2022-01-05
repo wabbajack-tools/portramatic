@@ -2,27 +2,39 @@
   "source": "https://getwallpapers.com/wallpaper/full/6/8/8/1165571-diablo-3-malthael-wallpaper-1440x2560-for-mac.jpg",
   "md5": "F07C00EB757757D7862D4AE8DAAA3CAC",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "iii",
+    "reaper",
+    "souls",
+    "concept",
+    "malthael",
+    "transformers",
+    "dark",
+    "moon"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -212,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -56,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -6,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

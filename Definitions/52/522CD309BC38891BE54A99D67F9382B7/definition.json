@@ -2,27 +2,53 @@
   "source": "https://vignette.wikia.nocookie.net/gamelore/images/3/39/Golden_Avenger.jpg/revision/latest?cb=20150810174945",
   "md5": "522CD309BC38891BE54A99D67F9382B7",
   "tags": [
-    ""
+    "",
+    "golden",
+    "avenger",
+    "scooter",
+    "mobility",
+    "iron",
+    "man",
+    "armor",
+    "fate",
+    "stay",
+    "night",
+    "dungeons",
+    "dragons",
+    "saint",
+    "celestine",
+    "alexey",
+    "kropachev",
+    "frog",
+    "slayer",
+    "chanon",
+    "suasungnern",
+    "leibw\u00E4chter",
+    "zwillinge",
+    "kruglov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -235,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -192,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 46,
     "offset_y": 120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

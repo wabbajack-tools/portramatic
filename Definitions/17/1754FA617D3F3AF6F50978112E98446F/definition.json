@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/originals/23/8d/1f/238d1f7b2964bb57d5924e5285a0c10e.png",
   "md5": "1754FA617D3F3AF6F50978112E98446F",
   "tags": [
-    ""
+    "",
+    "elf",
+    "costume",
+    "ideas",
+    "warrior",
+    "cosplay",
+    "medieval"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -200,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -18,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -88,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,50 @@
   "source": "https://www.thealexandrian.net/images/20200223.jpg",
   "md5": "13954E651D1471A6B7C3B82560968CAC",
   "tags": [
-    ""
+    "",
+    "concept",
+    "dungeon",
+    "crawl",
+    "warforged",
+    "pirates",
+    "caribbean",
+    "dungeons",
+    "dragons",
+    "smallfoot",
+    "vol.01",
+    "szymon",
+    "biernacki",
+    "2020",
+    "spa",
+    "studio",
+    "elvenar",
+    "carnival",
+    "chris",
+    "karbach",
+    "https://www.artstation.com/artwork/rrwqge"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -757,
     "offset_y": -157,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -811,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.259999999999995,
     "offset_x": -1386,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

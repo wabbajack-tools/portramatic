@@ -7,27 +7,52 @@
     "warrior",
     "bangku",
     "an",
-    "demon"
+    "demon",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "medieval",
+    "knights",
+    "woman",
+    "koo",
+    "bong",
+    "https://www.artstation.com/artwork/n6xke",
+    "fan",
+    "work",
+    "junseong",
+    "bae",
+    "clothing",
+    "artwork",
+    "\u8840",
+    "hl",
+    "b",
+    "character"
   ],
   "small": {
     "scale": 0.5399999999999995,
     "offset_x": -534,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -142,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -8,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

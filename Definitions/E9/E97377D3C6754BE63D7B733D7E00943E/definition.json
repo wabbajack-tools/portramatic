@@ -28,27 +28,45 @@
     "silver",
     "eye",
     "gunship",
-    "revolution"
+    "revolution",
+    "legend",
+    "cryptids",
+    "kiyocat",
+    "illust",
+    "character",
+    "my",
+    "lisa",
+    "genshin",
+    "impact",
+    "vezonia",
+    "lithium",
+    "2021",
+    "spiderman",
+    "cute",
+    "anime"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -142,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -56,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -144,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

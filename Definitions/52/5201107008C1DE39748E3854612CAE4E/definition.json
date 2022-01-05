@@ -2,27 +2,59 @@
   "source": "https://i.imgur.com/Se8AfuT.jpeg",
   "md5": "5201107008C1DE39748E3854612CAE4E",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "wood",
+    "elf",
+    "characters",
+    "5th",
+    "edition",
+    "knight",
+    "armor",
+    "dark",
+    "orc",
+    "warrior",
+    "medieval",
+    "knights",
+    "hansel",
+    "gretel",
+    "samurai",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "pikeman",
+    "dmitry",
+    "solonin",
+    "https://www",
+    "\u8463\u5E73-haotai-jiaojiefeng\uFF0C",
+    "business",
+    "cooperation"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -331,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -84,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -76,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,27 +8,41 @@
     "characters",
     "artworks",
     "female",
-    "gnome"
+    "gnome",
+    "women",
+    "garden",
+    "lady",
+    "gnomes",
+    "drawings",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -50.80000000000018,
     "offset_y": -29.800000000000068,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -40.59999999999985,
     "offset_y": -58.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -24.82407407407436,
     "offset_y": -8.84259259259261,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

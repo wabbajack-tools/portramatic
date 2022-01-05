@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/41/ee/76/41ee760aec0e9a42e4143bf372256bc1.jpg",
   "md5": "828DDDABA77B69CECE214867851EAC3D",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "demons",
+    "dark",
+    "angel",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "shoes",
+    "boots",
+    "bra",
+    "lighting",
+    "parctice",
+    "eunyoung",
+    "gwon",
+    "practice",
+    "l",
+    "zz",
+    "scathach",
+    "sean",
+    "tay"
   ],
   "small": {
     "scale": 1.9000000000000008,
     "offset_x": -363,
     "offset_y": -295,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3200000000000003,
     "offset_x": -166,
     "offset_y": -156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -46,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

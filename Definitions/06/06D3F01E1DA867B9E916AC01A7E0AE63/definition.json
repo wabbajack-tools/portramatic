@@ -2,27 +2,46 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e3ad9ba-d3bb-4750-9318-aa0d1a7f50b0/d6lzqaz-9024764a-84fb-46e2-b2a2-aef3c24b7e46.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlM2FkOWJhLWQzYmItNDc1MC05MzE4LWFhMGQxYTdmNTBiMFwvZDZsenFhei05MDI0NzY0YS04NGZiLTQ2ZTItYjJhMi1hZWYzYzI0YjdlNDYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q6OZcUAtjeN1xqPTxcnoxc64_mirWfh6IbQ4NHn1onU",
   "md5": "06D3F01E1DA867B9E916AC01A7E0AE63",
   "tags": [
-    ""
+    "",
+    "african",
+    "american",
+    "prints",
+    "paintings",
+    "artists",
+    "lightning",
+    "thief",
+    "mera",
+    "d",
+    "lx",
+    "mermaid",
+    "carlota",
+    "su\u00E1rez",
+    "witch",
+    "jordan",
+    "jardine"
   ],
   "small": {
     "scale": 1,
     "offset_x": -220,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -145,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 22,
     "offset_y": 50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

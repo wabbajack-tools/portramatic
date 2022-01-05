@@ -2,27 +2,38 @@
   "source": "http://img1.wikia.nocookie.net/__cb20130627111928/lotr/images/archive/f/f1/20130628140329!King_Thranduil_portrait_-_EmpireMag.jpg",
   "md5": "FD26BBFEA98EB2BD3255A6240F62456E",
   "tags": [
-    "Thranduil"
+    "Thranduil",
+    "lee",
+    "pace",
+    "elf",
+    "king",
+    "thranduil",
+    "hobbit",
+    "lord",
+    "rings"
   ],
   "small": {
     "scale": 0.2099999999999993,
     "offset_x": -35,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -2,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -30,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

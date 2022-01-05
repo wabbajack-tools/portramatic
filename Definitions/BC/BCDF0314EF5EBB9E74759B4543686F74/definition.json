@@ -1,28 +1,56 @@
 {
-  "source": "https://pbs.twimg.com/media/DSj3wvMXkAAetG4?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/DSj3wvMXkAAetG4?format=jpg\u0026name=medium",
   "md5": "BCDF0314EF5EBB9E74759B4543686F74",
   "tags": [
-    ""
+    "",
+    "jack",
+    "blades",
+    "fan",
+    "costume",
+    "mask",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "dragon",
+    "armor",
+    "darthtalon",
+    "zach",
+    "cohen",
+    "ares",
+    "god",
+    "war",
+    "mikel",
+    "eatough",
+    "smite",
+    "slayer",
+    "concepts",
+    "jordan",
+    "kerbow",
+    "artwork"
   ],
   "small": {
     "scale": 1.6500000000000006,
     "offset_x": -528.5714285714296,
     "offset_y": -65.71428571428584,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -265.71428571428555,
     "offset_y": -8.571428571428555,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -133.71428571428623,
     "offset_y": -4.5714285714284415,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

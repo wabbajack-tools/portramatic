@@ -31,27 +31,53 @@
     "#artstation",
     "#tumblr",
     "#deviantart",
-    "#fantasy"
+    "#fantasy",
+    "moon",
+    "wizard",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "death",
+    "knight",
+    "night",
+    "blood",
+    "warrior",
+    "xuanhan",
+    "chen",
+    "female",
+    "warlock",
+    "kim",
+    "herbst",
+    "thick",
+    "cover",
+    "hugh",
+    "pindur",
+    "character"
   ],
   "small": {
     "scale": 1.739999999999999,
     "offset_x": -401.0000000000018,
     "offset_y": -340,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -235.33333333333286,
     "offset_y": -264.33333333333326,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -79.33333333333394,
     "offset_y": -190.66666666666737,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

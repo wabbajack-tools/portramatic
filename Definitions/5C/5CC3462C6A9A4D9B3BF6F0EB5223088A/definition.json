@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/97/cb/5e/97cb5e6f743e8ca6f1053294dc5d10ef.jpg",
   "md5": "5CC3462C6A9A4D9B3BF6F0EB5223088A",
   "tags": [
-    ""
+    "",
+    "leather",
+    "armor",
+    "drawing",
+    "fallout",
+    "light",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "mars",
+    "businessman",
+    "liu",
+    "qi",
+    "https://www.artstation.com/artwork/ev3r0q",
+    "business",
+    "man",
+    "remake",
+    "week",
+    "alen",
+    "gunship",
+    "revolution",
+    "human",
+    "female",
+    "monster"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -129,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -52,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5,
     "offset_x": -94,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

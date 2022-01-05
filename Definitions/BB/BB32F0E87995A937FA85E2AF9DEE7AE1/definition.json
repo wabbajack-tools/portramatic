@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/41/6c/ff/416cff4f413d0afcc7c0dc1ae37022d8.jpg",
   "md5": "BB32F0E87995A937FA85E2AF9DEE7AE1",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "concept",
+    "medieval",
+    "archer",
+    "anime",
+    "knight",
+    "armor",
+    "female",
+    "pirate",
+    "knights",
+    "dark",
+    "wood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "athletic_shoes_or_sneakers",
+    "ranger",
+    "caio",
+    "monteiro",
+    "http://www",
+    "rank",
+    "treublatt",
+    "nele",
+    "klumpe",
+    "mixed",
+    "media",
+    "practice",
+    "a.e.",
+    "coggon",
+    "character"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -217,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -11,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -8,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

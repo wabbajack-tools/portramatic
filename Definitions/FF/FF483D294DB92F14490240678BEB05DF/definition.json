@@ -2,27 +2,43 @@
   "source": "https://cdn.donmai.us/sample/1a/31/__original_drawn_by_masao__sample-1a31561100cec6e688227615802420a9.jpg",
   "md5": "FF483D294DB92F14490240678BEB05DF",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "ys",
+    "\u2177",
+    "lacrimosa",
+    "dana",
+    "camfu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -369,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -96,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -66,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

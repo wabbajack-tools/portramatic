@@ -18,27 +18,58 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "legend",
+    "cryptids",
+    "cards",
+    "dragons",
+    "rise",
+    "guardians",
+    "night",
+    "elf",
+    "ariel",
+    "fan",
+    "crystal",
+    "maiden",
+    "jr.",
+    "kero",
+    "metal",
+    "link",
+    "stu",
+    "harrington",
+    "https://www.artstation.com/artwork/nzwvp",
+    "geek",
+    "marek",
+    "lethamyr",
+    "kerem",
+    "beyit",
+    "character",
+    "female",
+    "elves",
+    "mage"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -349,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -193,
     "offset_y": -207,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -94,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

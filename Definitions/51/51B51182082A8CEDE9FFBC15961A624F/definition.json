@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/94/a7/04/94a7045181cad0a8269586ef468264fb.jpg",
   "md5": "51B51182082A8CEDE9FFBC15961A624F",
   "tags": [
-    ""
+    "",
+    "darkest",
+    "dungeon",
+    "quotes",
+    "heroes",
+    "man-at-arms",
+    "lord",
+    "rings",
+    "chaos",
+    "warrior",
+    "dragon",
+    "armor",
+    "yaldabaoth",
+    "y",
+    "mir",
+    "https://www",
+    "necromancer",
+    "nemanja",
+    "bubalo",
+    "character",
+    "priestess",
+    "nikolay",
+    "gorishniy"
   ],
   "small": {
     "scale": 1.7700000000000007,
     "offset_x": -406,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -107,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -122,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

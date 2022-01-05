@@ -1,26 +1,60 @@
 {
-  "source": "https://pbs.twimg.com/media/DjIm4KlUcAAbw-5?format=jpg&name=900x900",
+  "source": "https://pbs.twimg.com/media/DjIm4KlUcAAbw-5?format=jpg\u0026name=900x900",
   "md5": "A4FCFFD55F0C841CE133CC44B45A99D4",
   "tags": [
-    ""
+    "",
+    "jester",
+    "critical",
+    "role",
+    "fjord",
+    "fan",
+    "female",
+    "assassin",
+    "death",
+    "knight",
+    "night",
+    "elf",
+    "mortal",
+    "kombat",
+    "characters",
+    "umbral",
+    "wraiths",
+    "dark",
+    "angels",
+    "chapter",
+    "master",
+    "l",
+    "re-animation",
+    "alex",
+    "kolakowski",
+    "simon",
+    "belmont",
+    "isaias",
+    "kiister",
+    "character"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -381,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -160,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -33,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -24,27 +24,48 @@
     "traghettatore",
     "mauro",
     "dal",
-    "bo"
+    "bo",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "opera",
+    "brigitte",
+    "\u0026",
+    "guan",
+    "yu",
+    "reinhardt",
+    "overwatch",
+    "darwh",
+    "nekhare",
+    "oracle",
+    "kelly",
+    "tan",
+    "concept"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -272.66666666666714,
     "offset_y": -56.666666666666515,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -138.66666666666674,
     "offset_y": -9.333333333333428,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -180.6666666666663,
     "offset_y": -20.00000000000034,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

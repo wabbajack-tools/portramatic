@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/rbjWBts.png",
   "md5": "EB1D1432921ED149392C9C8A38FFBC9C",
   "tags": [
-    ""
+    "",
+    "kingmaker",
+    "tiefling",
+    "wizard",
+    "portraits",
+    "female",
+    "cleric",
+    "character",
+    "witcher",
+    "gedyneith",
+    "flaminica",
+    "gwent",
+    "card",
+    "anna",
+    "podedworna",
+    "inspiration",
+    "concept",
+    "treasure",
+    "hunters",
+    "chronicles",
+    "jane",
+    "whip",
+    "pablo",
+    "blayker"
   ],
   "small": {
     "scale": 1,
     "offset_x": -171,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -98,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

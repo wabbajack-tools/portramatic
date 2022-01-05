@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/b5/fe/88/b5fe8857a699c37a80c15e61bf040530.jpg",
   "md5": "243FEA5D2CBA0C1322F47148F83FF6C7",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -217,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -120,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -6,
     "offset_y": -60,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

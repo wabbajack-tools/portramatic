@@ -8,27 +8,57 @@
     "witcher",
     "female",
     "woman",
-    "spellcaster"
+    "spellcaster",
+    "game",
+    "thrones",
+    "conan",
+    "barbarian",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "ciri",
+    "rod",
+    "wong",
+    "lol",
+    "yasuo",
+    "girl",
+    "stopp",
+    "wi",
+    "concept",
+    "characters",
+    "anime",
+    "rhaegar",
+    "targaryen",
+    "lucy",
+    "georgina"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -408,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -89,
     "offset_y": -51,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -4,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

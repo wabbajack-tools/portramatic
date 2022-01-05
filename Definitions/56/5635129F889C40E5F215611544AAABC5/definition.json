@@ -2,27 +2,37 @@
   "source": "https://s.smutty.com/media_smutty_2/m/i/s/s/b/missbarbara-h2875-88cacd.jpg",
   "md5": "5635129F889C40E5F215611544AAABC5",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "glasses"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -110,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -32,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000025,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

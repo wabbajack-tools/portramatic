@@ -19,27 +19,65 @@
     "hunter",
     "seung",
     "jun",
-    "na"
+    "na",
+    "viking",
+    "concept",
+    "templar",
+    "character",
+    "pirate",
+    "dark",
+    "rises",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "gow",
+    "atreus",
+    "concepts",
+    "dela",
+    "longfish",
+    "kratos",
+    "god",
+    "war",
+    "keys",
+    "jon",
+    "snow",
+    "oleg",
+    "matsokin",
+    "pictures",
+    "king",
+    "\u0022hannibal\u0027s",
+    "crossing",
+    "alps\u0022",
+    "mariusz",
+    "kozik",
+    "ancient",
+    "carthage",
+    "hannibal"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -369,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -79,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://artfiles.alphacoders.com/136/thumb-1920-136947.jpg",
   "md5": "299DEEE7AE35A9C3D87A482CEAF8399F",
   "tags": [
-    ""
+    "",
+    "an",
+    "abyss",
+    "dragon",
+    "black",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "heavy",
+    "medieval",
+    "swords",
+    "knights",
+    "female",
+    "assassin",
+    "doyo",
+    ".k",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "https://www.artstation.com/artwork/mqogdv",
+    "creature",
+    "human",
+    "warrior",
+    "nemo"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -360,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -193,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -58,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

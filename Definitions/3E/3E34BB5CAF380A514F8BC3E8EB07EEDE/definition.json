@@ -2,25 +2,42 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/013/192/835/large/valeriy-vegera-concept-nyrissa-butterfly-3.jpg?1538494719",
   "md5": "3E34BB5CAF380A514F8BC3E8EB07EEDE",
   "tags": [
-    ""
+    "",
+    "dryad",
+    "male",
+    "pixie",
+    "fairy",
+    "plant",
+    "hanna",
+    "nechytailo",
+    "bird\u0027s",
+    "paradise",
+    "dasom",
+    "hyun",
+    "https://www.artstation.com/artwork/aqaedq"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -307,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.1999999999999993,
     "offset_x": -36,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -4,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

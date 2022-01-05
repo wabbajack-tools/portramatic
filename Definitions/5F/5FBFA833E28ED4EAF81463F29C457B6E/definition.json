@@ -2,27 +2,66 @@
   "source": "https://i.pinimg.com/564x/f3/33/bb/f333bbd5769bcc989866c665f7a5ac67.jpg",
   "md5": "5FBFA833E28ED4EAF81463F29C457B6E",
   "tags": [
-    ""
+    "",
+    "female",
+    "noble",
+    "concept",
+    "medieval",
+    "character",
+    "knight",
+    "armor",
+    "leather",
+    "knights",
+    "assassin",
+    "steampunk",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "europa",
+    "vampire",
+    "huntress",
+    "teresa",
+    "ramos",
+    "teradiam",
+    "2021",
+    "\u9879\u76EE\u5E9F\u56FE",
+    "tao",
+    "xian",
+    "https://www.artstation.com/artwork/rwjwe",
+    "miscellaneous",
+    "npcs",
+    "max",
+    "dunbar",
+    "villain",
+    "design"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -194,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -62,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -20,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/a7/c6/b8/a7c6b8a520895bc62ff06538d5106809.jpg",
   "md5": "B9611B7EA898592F85412ECE8F239E79",
   "tags": [
-    ""
+    "",
+    "natasha",
+    "romanoff",
+    "from",
+    "avengers",
+    "fan",
+    "anime",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "suit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "stealth-archer",
+    "dmitry",
+    "morozov",
+    "leather",
+    "\u5F6D\u4E00\u5CF0",
+    "\u540C\u5B66\u4F5C\u54C1",
+    "aboutcg",
+    "education",
+    "hellblade",
+    "anton",
+    "krasko",
+    "cosplay",
+    "woman"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -171,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -58,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,38 @@
   "tags": [
     "female",
     "tiefling",
-    "rogue"
+    "rogue",
+    "drawings",
+    "pinterest",
+    "character",
+    "sketch",
+    "drawing",
+    "design",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -21,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -43,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -76,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

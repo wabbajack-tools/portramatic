@@ -3,27 +3,64 @@
   "md5": "165A48A2F7D0A2F9A8FB1DBE74F5099B",
   "tags": [
     "arisha",
-    "vindictus"
+    "vindictus",
+    "characters",
+    "mabinogi",
+    "heroes",
+    "concept",
+    "game",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "basic",
+    "swrod",
+    "girl",
+    "for",
+    "tutorial",
+    "seunghee",
+    "lee",
+    "warrior",
+    "outfits",
+    "female",
+    "constellation",
+    "rogue",
+    "somee",
+    "llm",
+    "2020",
+    "character",
+    "design",
+    "fighter",
+    "knight",
+    "jiyun",
+    "lim"
   ],
   "small": {
     "scale": 2.1699999999999973,
     "offset_x": -575.5999999999991,
     "offset_y": -216.20000000000036,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -189.99999999999983,
     "offset_y": -99.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -62.47222222222217,
     "offset_y": -124.94444444444457,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

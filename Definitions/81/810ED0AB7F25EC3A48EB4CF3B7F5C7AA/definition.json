@@ -19,8 +19,8 @@
     "conan",
     "barbarian",
     "twins",
-    "jonás",
-    "lópez",
+    "jon\uFFFDs",
+    "l\uFFFDpez",
     "moreno",
     "assassin",
     "flo",
@@ -30,27 +30,38 @@
     "noir",
     "kev",
     "chan",
-    "https://www"
+    "https://www",
+    "game",
+    "thrones",
+    "jon\u00E1s",
+    "l\u00F3pez",
+    "card",
+    "illustrations",
+    "conqueror",
+    "warlord"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -329,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -162,
     "offset_y": -92,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -2,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

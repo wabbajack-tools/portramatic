@@ -2,27 +2,34 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/017/971/818/large/lane-brown-darkduo1.jpg?1558036052",
   "md5": "6482EBF4CC6F8DD7A64D275DB5446C10",
   "tags": [
-    ""
+    "",
+    "kelly",
+    "paintings",
+    "diarmuid",
+    "artist"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -126,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -73,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -10,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/74/f8/61/74f861a6d29cceebe1c144b079f30fde.jpg",
   "md5": "BE2A8C1D89605AFEA57318301F3E2FDD",
   "tags": [
-    "Alchemist"
+    "Alchemist",
+    "alchemist",
+    "concept",
+    "female",
+    "rpg",
+    "dragonborne",
+    "tcg",
+    "goblin",
+    "made",
+    "avalance",
+    "henrik",
+    "rosenborg",
+    "midsummer",
+    "night",
+    "amber",
+    "ye",
+    "chinese",
+    "artists",
+    "background",
+    "int",
+    "ilia",
+    "altunin"
   ],
   "small": {
     "scale": 1.6700000000000006,
     "offset_x": -312,
     "offset_y": -358,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3100000000000003,
     "offset_x": -160,
     "offset_y": -247,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

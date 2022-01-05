@@ -23,27 +23,45 @@
     "a.",
     "szade",
     "2020",
-    "druid"
+    "druid",
+    "dark",
+    "elf",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "wwe",
+    "immortals",
+    "shamus",
+    "01",
+    "zhao",
+    "yan",
+    "\u256E(\uFFE3",
+    "\uFFE3\u0022)\u256D"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -419,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -225,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -260,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

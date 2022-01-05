@@ -4,27 +4,46 @@
   "tags": [
     "female",
     "vampire",
-    "warrior"
+    "warrior",
+    "realistic",
+    "succubus",
+    "agony",
+    "human",
+    "form",
+    "\u7F8E\u5BA3-\u5973\u523A\u5BA2",
+    "\u8001\u864E",
+    "\u4F55",
+    "\uACA9\uD22C\uAC00",
+    "shinyoung",
+    "kim",
+    "kritika_",
+    "service",
+    "illustration_002",
+    "russell",
+    "b"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -518,
     "offset_y": -191,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -290,
     "offset_y": -128,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -124,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/originals/f0/2f/b3/f02fb316a066e136133ce60e54672dfd.jpg",
   "md5": "9D942ECFD01326FAB08A9F738D997056",
   "tags": [
-    ""
+    "",
+    "aasimar",
+    "cleric",
+    "protector",
+    "paladin",
+    "knight",
+    "armor",
+    "female",
+    "pirate",
+    "plate",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "09/13/19",
+    "practice",
+    "banjiu",
+    "e\u0027vik",
+    "vik",
+    "donghwan",
+    "kim",
+    "characters",
+    "demon",
+    "hunter",
+    "yevhen",
+    "motsak",
+    "https://www"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -386,
     "offset_y": -208,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -203,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -20,
     "offset_y": -142,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

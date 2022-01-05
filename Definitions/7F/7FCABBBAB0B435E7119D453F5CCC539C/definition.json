@@ -14,27 +14,41 @@
     "jacket",
     "crow",
     "kim",
-    "sunhong"
+    "sunhong",
+    "knight",
+    "black",
+    "paintings",
+    "dark",
+    "anime",
+    "personal",
+    "work",
+    "dk",
+    "purple",
+    "little",
+    "zepig"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -1191.9999999999989,
     "offset_y": -291.2000000000004,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -467.99999999999983,
     "offset_y": -97.59999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -390.85185185185173,
     "offset_y": -100.91666666666686,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

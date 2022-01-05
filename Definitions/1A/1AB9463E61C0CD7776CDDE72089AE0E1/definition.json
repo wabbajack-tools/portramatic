@@ -7,27 +7,55 @@
     "mage",
     "warrior",
     "king",
-    "hunter"
+    "hunter",
+    "norse",
+    "odin",
+    "viking",
+    "god",
+    "mythology",
+    "chaos",
+    "rock",
+    "jumanji",
+    "villain",
+    "designs",
+    "01",
+    "kelton",
+    "cram",
+    "2020",
+    "design",
+    "hobbit",
+    "battle",
+    "five",
+    "armies",
+    "orcs",
+    "weta",
+    "workshop",
+    "studio",
+    "\u017Eivko",
+    "kondi\u0107"
   ],
   "small": {
     "scale": 1.150000000000001,
     "offset_x": -752.5,
     "offset_y": -309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999998,
     "offset_x": -196.5,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5906666666666665,
     "offset_x": -78,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,38 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/310cffff-e634-4de6-b97b-c007a2c2a5b8/d1ym60g-f0303b36-5675-4dc9-8f6a-df9bdb6d9f71.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zMTBjZmZmZi1lNjM0LTRkZTYtYjk3Yi1jMDA3YTJjMmE1YjgvZDF5bTYwZy1mMDMwM2IzNi01Njc1LTRkYzktOGY2YS1kZjliZGI2ZDlmNzEuanBnIn1dXX0.JqVFFzkKrXctYEKnLerwDQMLYLy-nxaNhaDbsDTonTk",
   "md5": "C922A647BDF4AB7AC3AA4DECB7CB1D41",
   "tags": [
-    ""
+    "",
+    "female",
+    "silver",
+    "dragon",
+    "black",
+    "ring",
+    "reaper",
+    "death",
+    "knight"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -287,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -62,
     "offset_y": -170,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7800000000000007,
     "offset_x": -28,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

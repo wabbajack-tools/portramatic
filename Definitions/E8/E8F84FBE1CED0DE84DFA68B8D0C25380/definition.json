@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/474x/a4/f8/9f/a4f89f8fd0e5ad2c87009e801a413cec.jpg",
   "md5": "E8F84FBE1CED0DE84DFA68B8D0C25380",
   "tags": [
-    "Antipaladin"
+    "Antipaladin",
+    "knight",
+    "armor",
+    "costume",
+    "concept",
+    "helmet",
+    "dark",
+    "dragon",
+    "death",
+    "black",
+    "sword",
+    "woong",
+    "seok",
+    "kim",
+    "berserker",
+    "marco",
+    "r.",
+    "sassi",
+    "hag",
+    "dion",
+    "harris",
+    "https://www"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -318,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -56,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7100000000000006,
     "offset_x": -40,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

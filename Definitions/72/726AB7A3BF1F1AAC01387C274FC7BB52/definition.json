@@ -18,27 +18,56 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "rogue",
+    "character",
+    "sheet",
+    "female",
+    "skyrim",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "billy",
+    "christian",
+    "characters",
+    "thaedor",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "ranger",
+    "druid",
+    "wolverine",
+    "rastislav",
+    "le",
+    "cdna.artstation.com",
+    "submitted",
+    "lol33ta",
+    "to",
+    "/r/imagi"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -420,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -298,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -138,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

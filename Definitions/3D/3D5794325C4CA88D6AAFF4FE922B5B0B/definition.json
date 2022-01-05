@@ -2,25 +2,40 @@
   "source": "https://i.pinimg.com/564x/af/7a/c2/af7ac291347ad8a3fc95bd397c5cd968.jpg",
   "md5": "3D5794325C4CA88D6AAFF4FE922B5B0B",
   "tags": [
-    ""
+    "",
+    "dark",
+    "spider",
+    "big",
+    "giant",
+    "creepy",
+    "trapdoor",
+    "webs",
+    "grabber",
+    "austen",
+    "mengler"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -77,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -152,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1699999999999973,
     "offset_x": -225,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

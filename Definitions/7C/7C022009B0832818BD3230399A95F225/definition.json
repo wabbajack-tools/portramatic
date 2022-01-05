@@ -3,27 +3,51 @@
   "md5": "7C022009B0832818BD3230399A95F225",
   "tags": [
     "supernatural",
-    "creature"
+    "creature",
+    "warhammer",
+    "40k",
+    "orks",
+    "armors",
+    "minotaur",
+    "predator",
+    "\uBAAC\uC2A4\uD130...",
+    "sun",
+    "lee",
+    "dungeons",
+    "dragons",
+    "mutant",
+    "waste",
+    "knights",
+    "2nd",
+    "ed.",
+    "bartek",
+    "fedyczak",
+    "xia",
+    "taptara",
+    "\u9EC4\u6653\u58F0"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -605.5,
     "offset_y": -235,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -164.5,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -115,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

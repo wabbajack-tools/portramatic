@@ -2,27 +2,36 @@
   "source": "https://safebooru.org//images/3354/3dde982bd1ac9ab905f0ea0a6e49eabe17500435.png",
   "md5": "6882808454C312461615B05B47735445",
   "tags": [
-    ""
+    "",
+    "animes",
+    "anime",
+    "girl",
+    "characters",
+    "fairy",
+    "tail"
   ],
   "small": {
     "scale": 0.2099999999999994,
     "offset_x": -318,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999945,
     "offset_x": -281,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.25999999999999934,
     "offset_x": -42,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

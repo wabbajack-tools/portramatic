@@ -2,27 +2,36 @@
   "source": "https://static1.e621.net/data/be/5c/be5ce00e70365e02e85b2240d37d3ac4.png",
   "md5": "BE5CE00E70365E02E85B2240D37D3AC4",
   "tags": [
-    ""
+    "",
+    "lusty",
+    "argonian",
+    "maid",
+    "mod",
+    "e621",
+    "full"
   ],
   "small": {
     "scale": 1,
     "offset_x": -274,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -101,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -36,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

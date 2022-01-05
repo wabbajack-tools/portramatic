@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/originals/d0/7a/c1/d07ac149f9a4da156a69d301fea1cafe.jpg",
   "md5": "8DEAC81A61E8BA964EBE6AC3D1E62EF1",
   "tags": [
-    ""
+    "",
+    "necromancer",
+    "drawing",
+    "girl",
+    "sauron",
+    "emerald",
+    "wrath",
+    "wojtek",
+    "depczy\u0144ski",
+    "character",
+    "design",
+    "artwork",
+    "jessica",
+    "cruz",
+    "esteban",
+    "barrientos",
+    "tatsu",
+    "skill",
+    "card",
+    "mircea",
+    "nicula"
   ],
   "small": {
     "scale": 1,
     "offset_x": -614,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -578,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -352,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

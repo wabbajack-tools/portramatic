@@ -1,28 +1,64 @@
 {
-  "source": "https://pbs.twimg.com/media/FBhEruVXoAAZFlu?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/FBhEruVXoAAZFlu?format=jpg\u0026name=large",
   "md5": "D3C60B32A5D58161A522C79C9ADED46B",
   "tags": [
-    ""
+    "",
+    "huntress",
+    "outfit",
+    "drawing",
+    "vampire",
+    "assassin",
+    "armors",
+    "knight",
+    "armor",
+    "female",
+    "dark",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "assassin\u0027s",
+    "creed",
+    "syndicate",
+    "jacob",
+    "07",
+    "steampunk",
+    "nagy",
+    "norbert",
+    "launfal",
+    "rose",
+    "andres",
+    "rios"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -290,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -223,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -186,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,26 +1,55 @@
 {
-  "source": "https://pbs.twimg.com/media/EOKuwbeWAAADwDJ?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/EOKuwbeWAAADwDJ?format=jpg\u0026name=medium",
   "md5": "1F131FEE03AFDD3F5675B7409A9DB871",
   "tags": [
-    ""
+    "",
+    "critical",
+    "role",
+    "campaign",
+    "fan",
+    "adult",
+    "vox",
+    "machina",
+    "elder",
+    "scrolls",
+    "online",
+    "dc",
+    "comics",
+    "lord",
+    "rings",
+    "kaseto",
+    "orochi",
+    "archmage",
+    "aaron",
+    "miller",
+    "gremlins",
+    "anastasia",
+    "sergienko",
+    "horror",
+    "artwork"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -140,
     "offset_y": -165,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -55,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -116,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -9,27 +9,37 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "characters",
+    "dark",
+    "concept",
+    "merry",
+    "christmas~\uFF01",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -184,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -86,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1599999999999975,
     "offset_x": -174,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

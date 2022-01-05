@@ -30,27 +30,35 @@
     "online",
     "cinematic",
     "zombie",
-    "breton"
+    "breton",
+    "witch",
+    "hyun",
+    "youmin",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -527,
     "offset_y": -266,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -256,
     "offset_y": -136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -72,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

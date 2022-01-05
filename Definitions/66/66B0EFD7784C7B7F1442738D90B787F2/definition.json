@@ -2,27 +2,49 @@
   "source": "https://pbs.twimg.com/media/DV8jkcxWkAA-ZBb.jpg",
   "md5": "66B0EFD7784C7B7F1442738D90B787F2",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "drawing",
+    "characters",
+    "eyes",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "souls",
+    "space",
+    "gangster",
+    "kircell",
+    ".",
+    "chastity",
+    "mcbryde",
+    "2017",
+    "alexandre",
+    "salles"
   ],
   "small": {
     "scale": 0.5648333333333326,
     "offset_x": -139,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6265000000000002,
     "offset_x": -82,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0251666666666666,
     "offset_x": -52,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

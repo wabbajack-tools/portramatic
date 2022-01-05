@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/4b/72/86/4b72865ef87b8b4abdce12b5b59f9dc1.jpg",
   "md5": "80CF029D0D47C6B682C9B40C9AA23BAA",
   "tags": [
-    ""
+    "",
+    "castle",
+    "wizard",
+    "tower",
+    "evil",
+    "inside",
+    "dragon",
+    "age",
+    "origins",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "hunger",
+    "games",
+    "robin",
+    "hood",
+    "\u0022book",
+    "cover\u0022",
+    "davood",
+    "diba",
+    "2021",
+    "gnome",
+    "bard",
+    "hannah",
+    "kennedy",
+    "l\u00E9a",
+    "emilis",
+    "emka",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -389,
     "offset_y": -156,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -91,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -74,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

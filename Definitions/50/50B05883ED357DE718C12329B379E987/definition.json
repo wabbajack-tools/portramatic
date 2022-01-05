@@ -9,27 +9,37 @@
     "werlioka",
     "savage",
     "hunter",
-    "pindurski"
+    "pindurski",
+    "armor",
+    "concept",
+    "monster",
+    "character",
+    "weapon",
+    "white",
+    "horse"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -229,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -211,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -74,
     "offset_y": -63,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

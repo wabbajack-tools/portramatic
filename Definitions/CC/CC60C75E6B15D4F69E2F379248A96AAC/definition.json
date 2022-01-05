@@ -2,27 +2,34 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c2b93b3-d382-4442-a162-a240bf87f029/dbor118-d0289ebc-4191-4cfc-b97a-14b4652498e6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjMmI5M2IzLWQzODItNDQ0Mi1hMTYyLWEyNDBiZjg3ZjAyOVwvZGJvcjExOC1kMDI4OWViYy00MTkxLTRjZmMtYjk3YS0xNGI0NjUyNDk4ZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ffOdv9msHoKiLIumGncJfQ3joKqRE9E-cha6rbngwLE",
   "md5": "CC60C75E6B15D4F69E2F379248A96AAC",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "tattoos"
   ],
   "small": {
     "scale": 0.12999999999999926,
     "offset_x": -43,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.15999999999999925,
     "offset_x": -3,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3499999999999994,
     "offset_x": -38,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

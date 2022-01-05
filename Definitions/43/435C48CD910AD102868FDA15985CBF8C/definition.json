@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/65/b4/48/65b44807f74476bcec4f9b82000ff625.jpg",
   "md5": "435C48CD910AD102868FDA15985CBF8C",
   "tags": [
-    ""
+    "",
+    "zenescope",
+    "wallpaper",
+    "mermaid",
+    "comic-con",
+    "blood",
+    "elf",
+    "fate",
+    "stay",
+    "night",
+    "lighting",
+    "parctice",
+    "eunyoung",
+    "gwon",
+    "jeanne",
+    "d\u0027arc",
+    "fanart",
+    "phichaya(scykiazor",
+    "boonton",
+    "couple",
+    "todor",
+    "hristov"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -313.33333333333337,
     "offset_y": -122.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -251.99999999999994,
     "offset_y": -146.00000000000009,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -55.99999999999977,
     "offset_y": -94.66666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

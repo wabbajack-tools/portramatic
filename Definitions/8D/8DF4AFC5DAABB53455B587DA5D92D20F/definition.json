@@ -2,27 +2,45 @@
   "source": "https://pbs.twimg.com/media/EJOXf9XWkAEDeiZ.jpg",
   "md5": "8DF4AFC5DAABB53455B587DA5D92D20F",
   "tags": [
-    ""
+    "",
+    "azur",
+    "lane",
+    "hiyou",
+    "hatsuharu",
+    "fumizuki",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots",
+    "heels"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -465,
     "offset_y": -123,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -214,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -88,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

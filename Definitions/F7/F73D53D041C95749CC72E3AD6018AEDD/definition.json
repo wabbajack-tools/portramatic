@@ -2,27 +2,34 @@
   "source": "https://i.imgur.com/UBqjSVc.jpeg",
   "md5": "F73D53D041C95749CC72E3AD6018AEDD",
   "tags": [
-    "orc female red hair"
+    "orc female red hair",
+    "female",
+    "troll",
+    "wow",
+    "alpha"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -171.33333333333331,
     "offset_y": -36.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -130.66666666666674,
     "offset_y": -20.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -27.999999999999773,
     "offset_y": -21.333333333333258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

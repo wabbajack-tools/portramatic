@@ -2,27 +2,38 @@
   "source": "http://1.bp.blogspot.com/-gbwfvDbw7i4/VUSTJVMoaQI/AAAAAAAAAqY/POcjEqKFy4o/s1600/42.jpg",
   "md5": "A1FB01A589733D7DE5E79F96A5CCF57C",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "costume",
+    "renaissance",
+    "medieval",
+    "women",
+    "jenna",
+    "dewan"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -194,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999955,
     "offset_x": 0,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.83,
     "offset_x": -24,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://s3.tradingview.com/userpics/7078355-p9ag_orig.png",
   "md5": "141FACECEDB2CCAA8DEF9839B069166A",
   "tags": [
-    ""
+    "",
+    "kingdoms",
+    "amalur",
+    "reckoning",
+    "world",
+    "warcraft",
+    "rogue",
+    "league",
+    "legends",
+    "blades",
+    "fallen",
+    "arianne",
+    "elliott",
+    "zombie",
+    "ryze",
+    "splash",
+    "viktor",
+    "titov",
+    "2020",
+    "game"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1183.3333333333314,
     "offset_y": -87.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1069.333333333333,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -942.6666666666666,
     "offset_y": -45.333333333333314,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

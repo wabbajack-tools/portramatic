@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/ab/16/ff/ab16ff21aa0f31e3d8c10a4211160315.jpg",
   "md5": "CD5475CC3F81A82A4E53A91D55BC7D01",
   "tags": [
-    "female"
+    "female",
+    "elf",
+    "human",
+    "fighter",
+    "rpg",
+    "characters",
+    "evil",
+    "queen",
+    "wizard",
+    "costume",
+    "pirate",
+    "anime",
+    "notifications",
+    "concept",
+    "character",
+    "design",
+    "star",
+    "wars"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -158.66666666666666,
     "offset_y": -33.333333333333314,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -125.33333333333337,
     "offset_y": -36.66666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": 0,
     "offset_y": -29.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,43 @@
   "source": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/beautiful-mighty-viking-warrior-woman-with-red-hair-and-green-eyes-dan-rentea.jpg",
   "md5": "7AF92D3A1CC6FCE5B815808E05E27628",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "princess",
+    "nordic",
+    "woman",
+    "swedish",
+    "blonde",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -29,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -8,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": 0,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

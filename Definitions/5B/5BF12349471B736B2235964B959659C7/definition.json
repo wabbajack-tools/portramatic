@@ -18,27 +18,55 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "league",
+    "legends",
+    "zone",
+    "ender\u0027s",
+    "gate",
+    "keeper",
+    "wei-chih",
+    "kao",
+    "undead",
+    "necro",
+    "bard",
+    "andrew",
+    "pirojenki",
+    "https://www.artstation.com/artwork/qj9ob",
+    "marrow",
+    "eater",
+    "fenrir",
+    "stu",
+    "harrington",
+    "https://www.artstation.com/artwork/bm6yq9"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -413,
     "offset_y": -189,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -145,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -94,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

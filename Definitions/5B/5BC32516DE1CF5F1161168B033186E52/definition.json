@@ -2,27 +2,58 @@
   "source": "https://www.nrm.org/wp2016/wp-content/uploads/2021/04/JaceUnravelerofSecrets-TylerJacobson.png",
   "md5": "5BC32516DE1CF5F1161168B033186E52",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "sorcerer",
+    "human",
+    "painting",
+    "death",
+    "knight",
+    "orcs",
+    "dark",
+    "elf",
+    "arch",
+    "heretic",
+    "fan",
+    "chris",
+    "joshua",
+    "saldon",
+    "https://www.artstation.com/artwork",
+    "drow",
+    "aline",
+    "emily",
+    "emilio",
+    "character",
+    "portraits",
+    "batman",
+    "azrael",
+    "limkuk",
+    "3d",
+    "characters",
+    "pinterest"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -320,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -130,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -98,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/736x/c3/10/da/c310da01f953b238b63ce973fd088b7b.jpg",
   "md5": "66CDF54FE9535BB9046D33E5DF38045C",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "ranger",
+    "drawing",
+    "male",
+    "wood",
+    "pirate",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "archer",
+    "ji",
+    "ni",
+    "https://www.artstation.com/artwork/rr8no6",
+    "women",
+    "artwork",
+    "omu",
+    "upied",
+    "https://www.artstation.com/artwork/o30ro",
+    "warcraft",
+    "mononoke",
+    "hime",
+    "rebeca",
+    "saray"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -158,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -4,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

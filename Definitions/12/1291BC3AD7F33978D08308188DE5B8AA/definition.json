@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/88/84/d2/8884d254e6bbad885e5f5be41c03abb7.jpg",
   "md5": "1291BC3AD7F33978D08308188DE5B8AA",
   "tags": [
-    ""
+    "",
+    "star",
+    "wars",
+    "mercenary",
+    "medieval",
+    "mercenaries",
+    "armor",
+    "concept",
+    "heavy",
+    "pirates",
+    "caribbean",
+    "dungeons",
+    "dragons",
+    "knight",
+    "witcher",
+    "barbarians",
+    "jian",
+    "li",
+    "https://www.artstation.com/artwork/oolm5q",
+    "horror",
+    "adventures",
+    "characters",
+    "hazem",
+    "ameen",
+    "character",
+    "portraits",
+    "female",
+    "design",
+    "challenge",
+    "viking",
+    "edward",
+    "delandre"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -535,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -98,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -6,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

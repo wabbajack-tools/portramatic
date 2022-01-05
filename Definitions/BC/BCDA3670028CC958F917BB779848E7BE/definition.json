@@ -2,27 +2,68 @@
   "source": "https://i.pinimg.com/564x/a2/02/ef/a202ef8598db0eb0c2353de665cac412.jpg",
   "md5": "BCDA3670028CC958F917BB779848E7BE",
   "tags": [
-    ""
+    "",
+    "female",
+    "witch",
+    "character",
+    "elf",
+    "concept",
+    "warrior",
+    "assassin",
+    "knight",
+    "armor",
+    "pirate",
+    "samurai",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "accessories",
+    "gloves",
+    "katana",
+    "god",
+    "sc",
+    "https://www.artstation.com/artwork/yarqdv",
+    "sorceress",
+    "hye",
+    "jeong",
+    "hwang",
+    "https://www.artstation.com/artwork/kxo40",
+    "a",
+    "cold",
+    "smile",
+    "mam",
+    "ba",
+    "https://www.artstation.com/artwork/ekvrq"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0.8000000000000114,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -0.8000000000000114,
     "offset_y": 0.8000000000000114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

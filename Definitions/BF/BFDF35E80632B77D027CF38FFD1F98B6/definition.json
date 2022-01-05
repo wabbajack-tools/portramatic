@@ -15,27 +15,39 @@
     "city",
     "bandit",
     "archer",
-    "konstantin"
+    "konstantin",
+    "moon",
+    "monk",
+    "jianing",
+    "fan",
+    "https://www.artstation.com/artwork/qoaqe",
+    "comic",
+    "style",
+    "https://www.artstation.com/artwork/q1qgp",
+    "https://cdna.artstation.com/p/assets/images/images/011/529/918/large/aaron-j-riley-shapeshif"
   ],
   "small": {
     "scale": 0.8300000000000001,
     "offset_x": -477,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.78,
     "offset_x": -366,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999999,
     "offset_x": -162,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

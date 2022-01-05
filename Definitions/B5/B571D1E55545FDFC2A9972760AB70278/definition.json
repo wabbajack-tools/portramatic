@@ -2,25 +2,52 @@
   "source": "https://arcaneeye.com/wp-content/uploads/2021/04/wisnu-tan-rage-bellower-uplox.jpg",
   "md5": "B571D1E55545FDFC2A9972760AB70278",
   "tags": [
-    ""
+    "",
+    "skeleton",
+    "minotaur",
+    "character",
+    "artwork",
+    "warhammer",
+    "40k",
+    "dungeons",
+    "dragons",
+    "chaos",
+    "warrior",
+    "boss",
+    "hellscream",
+    "\u0022warcraft",
+    "40000",
+    "project",
+    "barbarian",
+    "dmitry",
+    "skvortsov",
+    "axis",
+    "monstruosity",
+    "daniel",
+    "zrom"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -419,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -242,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -502,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

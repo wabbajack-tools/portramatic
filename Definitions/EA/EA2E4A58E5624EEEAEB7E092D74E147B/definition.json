@@ -2,27 +2,55 @@
   "source": "https://ae01.alicdn.com/kf/HTB1.KOthoOWBKNjSZKzq6xfWFXay/custom-print-square-fabric-poster-frame-available-erotic-elf-with-bow-PGB16-for-wall-art-room.jpg",
   "md5": "EA2E4A58E5624EEEAEB7E092D74E147B",
   "tags": [
-    ""
+    "",
+    "shadowrun",
+    "elves",
+    "modern",
+    "elf",
+    "female",
+    "tattoos",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "d\u00EDs",
+    "death",
+    "urd",
+    "oliver",
+    "liu",
+    "vi",
+    "fanart",
+    "claudius",
+    "dsouza",
+    "fan",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -139,
     "offset_y": -24,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -63,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -178,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

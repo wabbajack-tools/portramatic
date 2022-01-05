@@ -4,27 +4,68 @@
   "tags": [
     "blind",
     "knight",
-    "matjosh"
+    "matjosh",
+    "sorcerer",
+    "concept",
+    "wizard",
+    "staff",
+    "female",
+    "elf",
+    "character",
+    "samurai",
+    "armor",
+    "armors",
+    "mandalorian",
+    "actionfigures",
+    "heavy",
+    "dynasty",
+    "warriors",
+    "power",
+    "gunther_game",
+    "j",
+    "p",
+    "design",
+    "dungeons",
+    "dragons",
+    "characters",
+    "raid",
+    "shadow",
+    "legends",
+    "plarium",
+    "ukraine",
+    "orc",
+    "girl",
+    "exo-skeleton",
+    "suit",
+    "soldier",
+    "jun",
+    "beom",
+    "baek",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -451.8571428571429,
     "offset_y": -142.42857142857142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -183.28571428571428,
     "offset_y": -30.571428571428584,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -22.42857142857156,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -13,27 +13,39 @@
     "titans",
     "dark",
     "black",
-    "knight"
+    "knight",
+    "death",
+    "eater",
+    "harry",
+    "potter",
+    "mask",
+    "snape",
+    "movie",
+    "fullmetal",
+    "alchemist"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": 0.666666666666714,
     "offset_y": -0.6666666666666856,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -2.6666666666666288,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5900000000000005,
     "offset_x": -2.6666666666664582,
     "offset_y": -0.33333333333325754,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

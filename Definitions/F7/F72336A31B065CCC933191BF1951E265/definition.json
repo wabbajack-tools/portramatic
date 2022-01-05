@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/originals/26/2d/e5/262de5950b3db3bf9bfb79ca2353f777.jpg",
   "md5": "F72336A31B065CCC933191BF1951E265",
   "tags": [
-    ""
+    "",
+    "scarlet",
+    "witch",
+    "female",
+    "assassin",
+    "pirate",
+    "demon",
+    "tanjiro",
+    "ian",
+    "drueco",
+    "cb",
+    "phong",
+    "anh",
+    "spark2",
+    "lubomir",
+    "hij"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -381,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -79,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -104,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

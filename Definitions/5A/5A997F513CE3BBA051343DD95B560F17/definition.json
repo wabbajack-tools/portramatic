@@ -2,27 +2,60 @@
   "source": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6d/Monster_Manual_5e_-_Dragon%2C_Copper_-_p110.jpg/revision/latest?cb=20200820002030",
   "md5": "5A997F513CE3BBA051343DD95B560F17",
   "tags": [
-    ""
+    "",
+    "ancient",
+    "copper",
+    "dragon",
+    "metallic",
+    "dragons",
+    "dd",
+    "red",
+    "dungeons",
+    "legendary",
+    "creatures",
+    "dragonborn",
+    "gold",
+    "for",
+    "bestiary",
+    "6",
+    "florian",
+    "stitz",
+    "critters",
+    "monstruos",
+    "chiken",
+    "nohnyu",
+    "\u2605",
+    "https://www.artstation.com/artwork/2xwkog",
+    "chicken",
+    "hydralisk",
+    "statue",
+    "modeling",
+    "tsun-hao",
+    "shih",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -205,
     "offset_y": -264,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -104,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -134,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

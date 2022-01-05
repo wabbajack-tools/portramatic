@@ -2,25 +2,47 @@
   "source": "https://i.imgur.com/OOury4H.png",
   "md5": "0692F6731BB8E9CD34243EEC1F56EB20",
   "tags": [
-    ""
+    "",
+    "odyssey",
+    "dragonlords",
+    "map",
+    "dragon",
+    "mario",
+    "medieval",
+    "knights",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc",
+    "taurus",
+    "lius",
+    "lasahido",
+    "looking",
+    "out",
+    "chen",
+    "cheng"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -318,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -216,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -94,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

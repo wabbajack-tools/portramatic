@@ -2,27 +2,39 @@
   "source": "https://i.redd.it/7teu9gbcw8981.jpg",
   "md5": "CD8EAE46458EA79573D53A4DB4F73752",
   "tags": [
-    ""
+    "",
+    "figure",
+    "artyom",
+    "kim",
+    "05.22\u6D82",
+    "liu",
+    "pengcheng",
+    "elf",
+    "sunyoung",
+    "park"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -280,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -117,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -106,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

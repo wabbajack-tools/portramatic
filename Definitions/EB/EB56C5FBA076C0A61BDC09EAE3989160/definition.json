@@ -18,27 +18,46 @@
     "greven",
     "predator",
     "captain",
-    "magic"
+    "magic",
+    "evil",
+    "santa",
+    "cartoon",
+    "pagan",
+    "claus",
+    "scary",
+    "pirates",
+    "caribbean",
+    "sorcerer",
+    "old",
+    "didier",
+    "nguyen",
+    "cap\u0027n",
+    "crunch",
+    "guillermo",
+    "fajardo"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -27,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -5,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -25,
     "offset_y": -35,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/8b/bf/0c/8bbf0c714f10e91f78c28f5acfc49b35.jpg",
   "md5": "DED2F307154DCE1A763726D2D85E0157",
   "tags": [
-    ""
+    "",
+    "human",
+    "fighter",
+    "male",
+    "warrior",
+    "d\u0026d",
+    "character",
+    "portraits",
+    "female",
+    "pirate",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "wild",
+    "west",
+    "challenge",
+    "marco",
+    "hasmann",
+    "half",
+    "elf",
+    "paladin",
+    "ruben",
+    "ramos",
+    "epic",
+    "tia",
+    "jaehong",
+    "jeon"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -236,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -11,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -54,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

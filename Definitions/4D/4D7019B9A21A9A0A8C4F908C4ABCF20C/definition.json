@@ -10,27 +10,46 @@
     "fluttering",
     "kisuny",
     "supernatural",
-    "creature"
+    "creature",
+    "league",
+    "legends",
+    "anime",
+    "girl",
+    "rebirth",
+    "muhammad",
+    "fajri",
+    "death",
+    "\u0026",
+    "silence",
+    "mateusz",
+    "twardoch",
+    "\u7F8E\u5BA3\u56FE\u7247",
+    "chao",
+    "dong",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -668.8000000000009,
     "offset_y": -240,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -119.20000000000005,
     "offset_y": -47.99999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -110.52777777777828,
     "offset_y": -6.407407407407277,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

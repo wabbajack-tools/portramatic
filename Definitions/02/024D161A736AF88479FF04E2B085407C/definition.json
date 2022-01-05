@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/564x/27/dc/7f/27dc7fb2056459000b8181c86d53ee4d.jpg",
   "md5": "024D161A736AF88479FF04E2B085407C",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "female",
+    "character",
+    "holy",
+    "with",
+    "sword",
+    "last",
+    "us",
+    "knight",
+    "armor",
+    "death",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "paintings",
+    "sam",
+    "peterson",
+    "characters",
+    "my",
+    "for",
+    "creoteam",
+    "future",
+    "soldier",
+    "denis",
+    "didenko",
+    "sculpts",
+    "giants",
+    "ivo",
+    "diependaal",
+    "monster",
+    "creatures"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -286,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -55,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -10,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

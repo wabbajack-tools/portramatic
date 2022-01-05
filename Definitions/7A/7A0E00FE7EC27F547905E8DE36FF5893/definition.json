@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/DJ6lDH5UIAADKwW?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DJ6lDH5UIAADKwW?format=jpg\u0026name=large",
   "md5": "7A0E00FE7EC27F547905E8DE36FF5893",
   "tags": [
     "wood",
@@ -12,27 +12,35 @@
     "demon",
     "princesses",
     "david",
-    "gaillet"
+    "gaillet",
+    "brown",
+    "hair",
+    "female",
+    "red",
+    "black"
   ],
   "small": {
     "scale": 0.16999999999999926,
     "offset_x": -27.799999999999955,
     "offset_y": -23.599999999999966,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -19.59999999999991,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -104.83333333333303,
     "offset_y": -112.07407407407379,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

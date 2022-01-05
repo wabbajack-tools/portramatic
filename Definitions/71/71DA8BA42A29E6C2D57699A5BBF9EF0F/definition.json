@@ -1,5 +1,5 @@
 {
-  "source": "https://thumbs.hentai-foundry.com/thumb.php?pid=842098&size=1000",
+  "source": "https://thumbs.hentai-foundry.com/thumb.php?pid=842098\u0026size=1000",
   "md5": "71DA8BA42A29E6C2D57699A5BBF9EF0F",
   "tags": [
     "guardian",
@@ -24,21 +24,24 @@
     "scale": 2.3999999999999924,
     "offset_x": -933,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5500000000000005,
     "offset_x": -485,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -419,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

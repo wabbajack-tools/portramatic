@@ -1,5 +1,5 @@
 {
-  "source": "https://sun9-29.userapi.com/impg/ptdLhzXvXBwSXx6o-5LSa-cpnaqOu8pdphmF-A/ttaXhQYns8c.jpg?size=600x953&quality=96&sign=6e03192104620dcf43ffe8b563cfa3a4&type=album",
+  "source": "https://sun9-29.userapi.com/impg/ptdLhzXvXBwSXx6o-5LSa-cpnaqOu8pdphmF-A/ttaXhQYns8c.jpg?size=600x953\u0026quality=96\u0026sign=6e03192104620dcf43ffe8b563cfa3a4\u0026type=album",
   "md5": "CB4C7F74833B965CA32CB1FDB65DAFA9",
   "tags": [
     "league",
@@ -23,27 +23,41 @@
     "jin",
     "xu",
     "king",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "yupachu",
+    "android",
+    "21",
+    "good",
+    "yu-gi-oh",
+    "gx",
+    "dark",
+    "magician",
+    "devil",
+    "\u856D",
+    "\u4F2F\u540C"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -283,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -165,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -43,
     "offset_y": -31,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

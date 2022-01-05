@@ -4,27 +4,56 @@
   "tags": [
     "tired",
     "male",
-    "character"
+    "character",
+    "design",
+    "styles",
+    "artist",
+    "female",
+    "orc",
+    "warrior",
+    "assassin",
+    "witcher",
+    "hobbit",
+    "lord",
+    "rings",
+    "0702",
+    "sergey",
+    "sokolov",
+    "cancelled",
+    "project",
+    "#1",
+    "characters",
+    "thomas",
+    "brissot",
+    "steampunk",
+    "talar",
+    "wild",
+    "hunt",
+    "ovidiu",
+    "voica"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -517,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -286,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -301,
     "offset_y": -165,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

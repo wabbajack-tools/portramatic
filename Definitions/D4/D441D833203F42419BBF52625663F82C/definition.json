@@ -4,27 +4,53 @@
   "tags": [
     "male",
     "assassin",
-    "dual-wield"
+    "dual-wield",
+    "armor",
+    "concept",
+    "knight",
+    "evil",
+    "anime",
+    "dark",
+    "souls",
+    "elf",
+    "orc",
+    "warrior",
+    "armors",
+    "death",
+    "2017.01.11\u65E5\u5E38\u901F\u6D82\u6253\u5361",
+    "liu",
+    "pengcheng",
+    "duy",
+    "phan",
+    "wizard",
+    "witch",
+    "hunter",
+    "anton",
+    "fort",
+    "https://www"
   ],
   "small": {
     "scale": 0.6899999999999995,
     "offset_x": -213,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -4,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

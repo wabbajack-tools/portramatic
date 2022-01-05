@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/2e/cb/2a/2ecb2a7f071d43361ad0976c1e07b587.jpg",
   "md5": "A56F3EEA896233A70FFC902980AF5133",
   "tags": [
-    ""
+    "",
+    "generator",
+    "character",
+    "pictures",
+    "tiefling",
+    "portraits",
+    "wood",
+    "elf",
+    "warriors",
+    "armors",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "project",
+    "myoung",
+    "hwan",
+    "kim",
+    "ruto",
+    "bounty",
+    "hunter",
+    "ivan",
+    "dedov",
+    "medieval",
+    "angron",
+    "mauro",
+    "belfiore",
+    "warhammer"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -259,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -207,
     "offset_y": -109,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -216,
     "offset_y": -178,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

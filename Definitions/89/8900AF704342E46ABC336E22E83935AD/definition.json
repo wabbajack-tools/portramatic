@@ -33,27 +33,42 @@
     "blackhand",
     "svenja",
     "r",
-    "wow"
+    "wow",
+    "woman",
+    "armor",
+    "female",
+    "girl",
+    "with",
+    "death",
+    "pirate",
+    "captain\u2014\u2014one",
+    "three",
+    "sisters",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -269,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -101,
     "offset_y": -98,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -104,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

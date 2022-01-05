@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/23/7b/d7/237bd7eacc092ffb9bbc82fc2f755165.jpg",
   "md5": "663ABDF21B91FDC7D8529688B285E73B",
   "tags": [
-    ""
+    "",
+    "dark",
+    "mage",
+    "female",
+    "armor",
+    "drawings",
+    "assassin",
+    "warrior",
+    "pose",
+    "dragon",
+    "age",
+    "origins",
+    "rogue",
+    "qingkai",
+    "yang",
+    "characters",
+    "character",
+    "portraits",
+    "matias",
+    "trabold",
+    "rehren",
+    "elf",
+    "ting",
+    "xu"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -282,
     "offset_y": -195,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -161,
     "offset_y": -156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -52,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

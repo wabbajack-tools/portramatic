@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/af/24/b4/af24b4782c40ae0d3a92aee9987abffd.jpg",
   "md5": "89F06CE5EB032CDEDCE5CE2B47D18D16",
   "tags": [
-    ""
+    "",
+    "revenant",
+    "monster",
+    "concept",
+    "game",
+    "thrones",
+    "female",
+    "assassin",
+    "lord",
+    "rings",
+    "samurai",
+    "armor",
+    "dump",
+    "astri",
+    "lohne",
+    "dark",
+    "see",
+    "you",
+    "another",
+    "life",
+    "rui",
+    "li",
+    "cyberpunk",
+    "mg",
+    "catwoman",
+    "john",
+    "taylor"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -124,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -33,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -8,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

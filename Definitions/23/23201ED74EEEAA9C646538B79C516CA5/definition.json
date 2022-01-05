@@ -1,31 +1,42 @@
 {
-  "source": "https://pbs.twimg.com/media/D5fQrCbWsAAHl0w?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/D5fQrCbWsAAHl0w?format=jpg\u0026name=large",
   "md5": "23201ED74EEEAA9C646538B79C516CA5",
   "tags": [
     "half-elf",
     "librarian",
     "female",
-    "blonde"
+    "blonde",
+    "character",
+    "ideas",
+    "elf",
+    "wizard",
+    "male",
+    "high",
+    "legend",
+    "zelda"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -474,
     "offset_y": -180,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -289,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -219,
     "offset_y": -21,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

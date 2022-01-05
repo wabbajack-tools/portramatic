@@ -1,28 +1,49 @@
 {
-  "source": "https://pbs.twimg.com/media/EefkKtBVAAAX2xh?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EefkKtBVAAAX2xh?format=jpg\u0026name=large",
   "md5": "7E62FB7640CE2559AC6A08C0FD55C741",
   "tags": [
-    ""
+    "",
+    "human",
+    "male",
+    "sorcerer",
+    "character",
+    "female",
+    "simulation",
+    "theory",
+    "game",
+    "maerel",
+    "hibadita",
+    "zelda",
+    "samurai",
+    "kumanz",
+    "draw",
+    "kira",
+    "l.",
+    "nguyen",
+    "drawings"
   ],
   "small": {
     "scale": 1,
     "offset_x": -383,
     "offset_y": -206,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -271,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -98,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

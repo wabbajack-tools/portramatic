@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/564x/b2/9d/44/b29d4458a4ff3d71c2de1e13b815e9d7.jpg",
   "md5": "44E62C7445C5C4B3A3E344A2A6E8AEF4",
   "tags": [
-    ""
+    "",
+    "paladin",
+    "miniature",
+    "female",
+    "dwarf",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "d\u0026d",
+    "enrica",
+    "eren",
+    "angiolini",
+    "\u4E09\u56FD",
+    "mingming",
+    "pirate",
+    "miguel",
+    "sastre",
+    "https://www.artstation.com/artwork/bl2gm"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -458,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -195,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -53,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

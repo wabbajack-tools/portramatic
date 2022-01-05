@@ -2,27 +2,51 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e3ad9ba-d3bb-4750-9318-aa0d1a7f50b0/dads8ih-b859be80-668b-4459-904c-b107240997ef.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlM2FkOWJhLWQzYmItNDc1MC05MzE4LWFhMGQxYTdmNTBiMFwvZGFkczhpaC1iODU5YmU4MC02NjhiLTQ0NTktOTA0Yy1iMTA3MjQwOTk3ZWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.L-PXmMNbKxEYbn2v5r974mgcmCwKJWHT9OFoTMwLapw",
   "md5": "B4D9E4455943A3A22791DFAF0748DBD4",
   "tags": [
-    ""
+    "",
+    "elena",
+    "throne",
+    "glass",
+    "books",
+    "yrene",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "yennefer",
+    "vengerberg",
+    "fanart",
+    "tomas",
+    "hjorth",
+    "cindy",
+    "gildia",
+    "guild",
+    "sword",
+    "master",
+    "wisnu",
+    "tan"
   ],
   "small": {
     "scale": 1,
     "offset_x": -280,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -210,
     "offset_y": -93,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 22,
     "offset_y": 50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

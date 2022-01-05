@@ -2,27 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/705b1c70-b724-447d-9eea-4f3e76650a75/db5nmml-5403d758-4fae-45ce-bbf4-2449bfd84b94.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwNWIxYzcwLWI3MjQtNDQ3ZC05ZWVhLTRmM2U3NjY1MGE3NVwvZGI1bm1tbC01NDAzZDc1OC00ZmFlLTQ1Y2UtYmJmNC0yNDQ5YmZkODRiOTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.f06fSxRbJy4KN_d-bcckia_O07OluFBCoG739c9zFDo",
   "md5": "D8ED4BF68B7E4742452E1D536E9B2A69",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "pin",
+    "up",
+    "xena",
+    "anime",
+    "girl",
+    "40k",
+    "matt",
+    "demino"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -470,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -114,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -114,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

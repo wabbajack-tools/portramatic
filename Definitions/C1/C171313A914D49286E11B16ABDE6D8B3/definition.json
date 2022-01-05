@@ -2,27 +2,57 @@
   "source": "https://cdn.vox-cdn.com/thumbor/dUQgUqMXumv0Wt_zn8eNtcmk7SY=/0x0:1381x804/1200x800/filters:focal(749x283:969x503)/cdn.vox-cdn.com/uploads/chorus_image/image/63880375/avernus.0.jpg",
   "md5": "C171313A914D49286E11B16ABDE6D8B3",
   "tags": [
-    "archdevil"
+    "archdevil",
+    "descent",
+    "to",
+    "avernus",
+    "into",
+    "miniatures",
+    "baldur\u0027s",
+    "gate",
+    "league",
+    "legends",
+    "slaying",
+    "fire",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "day",
+    "digital",
+    "artist",
+    "oni",
+    "hunter",
+    "dota2",
+    "ti10",
+    "mars",
+    "set",
+    "eleonora",
+    "\u0022noura\u0022",
+    "abdrakhmanova",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -591,
     "offset_y": -308,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -502,
     "offset_y": -181,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -308,
     "offset_y": 146,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

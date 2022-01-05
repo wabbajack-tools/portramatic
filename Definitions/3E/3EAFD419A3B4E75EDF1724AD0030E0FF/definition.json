@@ -2,27 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80f49903-65c0-4273-a660-954673507a9c/detuxc5-78eb7c8c-cfc5-4c29-a07c-7b2f3616d8dd.jpg/v1/fill/w_1280,h_1811,q_75,strp/duality_by_indigojrps_detuxc5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgxMSIsInBhdGgiOiJcL2ZcLzgwZjQ5OTAzLTY1YzAtNDI3My1hNjYwLTk1NDY3MzUwN2E5Y1wvZGV0dXhjNS03OGViN2M4Yy1jZmM1LTRjMjktYTA3Yy03YjJmMzYxNmQ4ZGQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.EA1nPx9dwK2dedgvDUMW975CJcBllB_zdYSHiprSyII",
   "md5": "3EAFD419A3B4E75EDF1724AD0030E0FF",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "diaries",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -175,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

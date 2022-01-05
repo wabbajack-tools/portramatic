@@ -2,27 +2,57 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/089c81c1-e3ad-4bd0-9040-abec973eaf30/dcmjgpa-ac1bdcdf-d8b6-4c66-97d0-4c99086846c2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4OWM4MWMxLWUzYWQtNGJkMC05MDQwLWFiZWM5NzNlYWYzMFwvZGNtamdwYS1hYzFiZGNkZi1kOGI2LTRjNjYtOTdkMC00Yzk5MDg2ODQ2YzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E7I_NrkKGAWomdT7TZVXSnX_BtdjxXgGSKd35N2Gqz0",
   "md5": "BF39A5361F1148DFA49296F192E7282A",
   "tags": [
-    "tiefling"
+    "tiefling",
+    "female",
+    "ranger",
+    "characters",
+    "skin",
+    "colors",
+    "assassin",
+    "pirate",
+    "anna",
+    "van",
+    "helsing",
+    "vampire",
+    "hunter",
+    "eddy",
+    "wong",
+    "illustration",
+    "girl",
+    "\u51E0\u4E2A\u5A03\u513F",
+    "v",
+    "wei",
+    "https://www.artstation.com/artwork/e4rxe",
+    "character",
+    "design",
+    "demon",
+    "maid",
+    "alen",
+    "rocha",
+    "https://www.artstation.com/artwork/qzzdab"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -136,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -75,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -38,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -17,7 +17,7 @@
     "lu",
     "artiste",
     "ork",
-    "adrián",
+    "adri\uFFFDn",
     "prado",
     "34134",
     "ni",
@@ -26,27 +26,50 @@
     "woman",
     "concept",
     "characters",
-    "artwork"
+    "artwork",
+    "simon",
+    "bisley",
+    "judge",
+    "dredd",
+    "abc",
+    "original",
+    "body",
+    "g.i.joe",
+    "*\u81EA\u7531\u4F63\u5175-\u5251\u58EB",
+    "ley",
+    "bowen",
+    "\u5F20",
+    "king",
+    "values",
+    "sketch",
+    "flynken",
+    "_9",
+    "soldier",
+    "art\u3010\u8D30\u96F6\u58F9\u8086\u3011",
+    "ares"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -625.6000000000009,
     "offset_y": -259.19999999999993,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -255.5999999999998,
     "offset_y": -153.79999999999978,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -33.629629629628425,
     "offset_y": -106.09259259259227,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

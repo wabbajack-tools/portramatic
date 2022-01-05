@@ -2,27 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f694eb9e-cd40-4b47-9146-2229ba3b09bb/d895rz3-35261300-5d89-4ec8-86c2-150e7f3abdfd.jpg/v1/fill/w_1280,h_1705,q_75,strp/the_alpine_by_themichaelmacrae_d895rz3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNSIsInBhdGgiOiJcL2ZcL2Y2OTRlYjllLWNkNDAtNGI0Ny05MTQ2LTIyMjliYTNiMDliYlwvZDg5NXJ6My0zNTI2MTMwMC01ZDg5LTRlYzgtODZjMi0xNTBlN2YzYWJkZmQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.VWBrpw507XZwN4c9nRVQhELXmRnFJhkEhr1stgTfy64",
   "md5": "AB194FE44B99EE7DC7C874710CF41542",
   "tags": [
-    ""
+    "",
+    "adventurer",
+    "concept",
+    "female",
+    "anime",
+    "male",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "alpine",
+    "michael",
+    "macrae"
   ],
   "small": {
     "scale": 1.1099999999999992,
     "offset_x": -588,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -201,
     "offset_y": -102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -44,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

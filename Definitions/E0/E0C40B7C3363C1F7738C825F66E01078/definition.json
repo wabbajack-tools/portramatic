@@ -3,7 +3,7 @@
   "md5": "E0C40B7C3363C1F7738C825F66E01078",
   "tags": [
     "zone",
-    "ender's",
+    "ender\u0027s",
     "female",
     "assassin",
     "pirate",
@@ -32,27 +32,38 @@
     "world",
     "warrior",
     "donghun",
-    "kim"
+    "kim",
+    "black",
+    "elfwick",
+    "dongjun",
+    "seo",
+    "character",
+    "another",
+    "practice",
+    "hyon9"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -927.1999999999988,
     "offset_y": -324.8000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -211.2,
     "offset_y": -131.19999999999993,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -35.240740740740875,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

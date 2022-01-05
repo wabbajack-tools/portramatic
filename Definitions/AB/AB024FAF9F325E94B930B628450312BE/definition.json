@@ -5,27 +5,48 @@
     "human",
     "male",
     "warrior",
-    "mage"
+    "mage",
+    "elder",
+    "scrolls",
+    "online",
+    "jack",
+    "giant",
+    "slayer",
+    "christ",
+    "redeemer",
+    "faith",
+    "knight",
+    "sergio",
+    "roman",
+    "magic",
+    "gathering",
+    "fell",
+    "shepherd",
+    "brad",
+    "rigney"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -689,
     "offset_y": -264,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -389,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -80,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

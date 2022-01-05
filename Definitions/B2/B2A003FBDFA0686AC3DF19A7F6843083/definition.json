@@ -2,27 +2,50 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/779/293/medium/alessandro-pizzi-lancelot.jpg?1560703475",
   "md5": "B2A003FBDFA0686AC3DF19A7F6843083",
   "tags": [
-    ""
+    "",
+    "king",
+    "arthur",
+    "sword",
+    "real",
+    "life",
+    "history",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "death",
+    "heavy",
+    "night",
+    "elf",
+    "legend",
+    "character",
+    "design",
+    "alessandro",
+    "pizzi\u0027s",
+    "submission"
   ],
   "small": {
     "scale": 1,
     "offset_x": -465,
     "offset_y": -184,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -318,
     "offset_y": -165,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -212,
     "offset_y": -172,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

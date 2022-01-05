@@ -2,25 +2,49 @@
   "source": "https://i.pinimg.com/originals/98/4d/db/984ddbd17da6703da449fa11ebfec264.jpg",
   "md5": "76D4D4BE36F0FB1E284A974845EC25A5",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "kratos",
+    "dunmer",
+    "maksim",
+    "vorontsov",
+    "elder",
+    "scrolls",
+    "god",
+    "fist",
+    "lee",
+    "sin",
+    "splash",
+    "animation",
+    "orc",
+    "berserker",
+    "tobias",
+    "breitenbach",
+    "goblin"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -222,
     "offset_y": -227,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -9,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -11,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/423d955c-358d-4a39-9eee-c82dc51dd5b8/dcoisyi-d69b9396-6df2-42d4-b2a7-c7ebf8142241.jpg/v1/fill/w_600,h_942,q_75,strp/commission___sauron_by_aerenwyn_dcoisyi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQyIiwicGF0aCI6IlwvZlwvNDIzZDk1NWMtMzU4ZC00YTM5LTllZWUtYzgyZGM1MWRkNWI4XC9kY29pc3lpLWQ2OWI5Mzk2LTZkZjItNDJkNC1iMmE3LWM3ZWJmODE0MjI0MS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DN3QDlu2aIyDUBUl2N7ZVzAiMToQ4K7BOEaQpQVv_Cg",
   "md5": "475B95351DBF457D175A4EC488C3D02C",
   "tags": [
-    ""
+    "",
+    "mouth",
+    "sauron",
+    "elf",
+    "hobbit",
+    "man",
+    "steel",
+    "dracula",
+    "dark",
+    "hair",
+    "black",
+    "clothing",
+    "gloomy",
+    "artwork"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -244,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -89,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -138,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/362f5b83-b0bb-4e6e-a24d-e643d0ae265e/d9hbe89-1b9a3ac8-41d6-4164-a18b-b500a3190a6b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8zNjJmNWI4My1iMGJiLTRlNmUtYTI0ZC1lNjQzZDBhZTI2NWUvZDloYmU4OS0xYjlhM2FjOC00MWQ2LTQxNjQtYTE4Yi1iNTAwYTMxOTBhNmIuanBnIn1dXX0.eVNpnqMD6qDTU7tDOaFDBajbZpXtUPHoPTvF3boRzwA",
   "md5": "8ECC0948C17333B92170B5FD416A9D61",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "tattoos",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -43,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -51,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -170,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

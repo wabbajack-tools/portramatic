@@ -5,25 +5,62 @@
     "painting",
     "art",
     "knight",
-    ""
+    "",
+    "male",
+    "cartoon",
+    "character",
+    "oc",
+    "design",
+    "anime",
+    "demon",
+    "star",
+    "wars",
+    "clone",
+    "four",
+    "horsemen",
+    "hunter",
+    "demons",
+    "night",
+    "falling",
+    "stars",
+    "micha\u0142",
+    "sa\u0142ata",
+    "tony",
+    "wang",
+    "good",
+    "hope",
+    "pin-up",
+    "\u0026",
+    "ladies",
+    "pinterest",
+    "cybermen",
+    "doctor",
+    "who",
+    "diana",
+    "franco"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -554,
     "offset_y": -249,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -128,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -104,
     "offset_y": -152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

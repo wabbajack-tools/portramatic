@@ -21,27 +21,48 @@
     "01",
     "kazuhiro",
     "oya",
-    "https://www.artstation.com/artwork/meglia-01"
+    "https://www.artstation.com/artwork/meglia-01",
+    "pirate",
+    "project",
+    "v4",
+    "jee",
+    "wook",
+    "choi",
+    "c",
+    "juk",
+    "knight",
+    "warrior",
+    "\uC5EC\uAE30\uC0AC",
+    "sumin",
+    "characters",
+    "character",
+    "design",
+    "scar",
+    "aleksandr",
+    "nikonov"
   ],
   "small": {
     "scale": 0.8600000000000003,
     "offset_x": -246.39999999999122,
     "offset_y": -37.99999999999727,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6800000000000002,
     "offset_x": -77.60000000000207,
     "offset_y": -24.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9800000000000005,
     "offset_x": -43.75000000000068,
     "offset_y": -33.398148148148266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

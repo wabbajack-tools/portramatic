@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/b5/b5/b9/b5b5b9fe78eaedf4758b047b058d96c8.jpg",
   "md5": "08B54C510EA123F21FBD1972154E27D3",
   "tags": [
-    "Antipaladin"
+    "Antipaladin",
+    "vampire",
+    "hunter",
+    "concept",
+    "knight",
+    "demon",
+    "dark",
+    "black",
+    "skyrim",
+    "lord",
+    "rings",
+    "dragon",
+    "age",
+    "origins",
+    "gears",
+    "war",
+    "gund_adv",
+    "mansik",
+    "yang",
+    "blind",
+    "slayer",
+    "nor",
+    "carlos",
+    "cabrera",
+    "for",
+    "honor",
+    "\u685C",
+    "sakura",
+    "frag",
+    "ment"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -231,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -124,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -30,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

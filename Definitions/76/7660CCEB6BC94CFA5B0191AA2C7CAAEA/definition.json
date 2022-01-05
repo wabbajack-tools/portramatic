@@ -2,25 +2,46 @@
   "source": "https://i.pinimg.com/originals/93/43/76/9343769ba380afa6c8c948a61e92d647.jpg",
   "md5": "7660CCEB6BC94CFA5B0191AA2C7CAAEA",
   "tags": [
-    ""
+    "",
+    "female",
+    "gnome",
+    "garden",
+    "wizard",
+    "male",
+    "druid",
+    "night",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dol",
+    "guldur",
+    "double",
+    "zhang"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -373,
     "offset_y": -396,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -143,
     "offset_y": -239,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6900000000000006,
     "offset_x": -129,
     "offset_y": -282,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -1,28 +1,45 @@
 {
-  "source": "https://images.squarespace-cdn.com/content/v1/599de7e0be65940b47470acb/1580170690731-24W1CR1LCKWP70XXA1AD/Frodo+%28Posterspy%29.jpg?format=1500w",
+  "source": "https://images.squarespace-cdn.com/content/v1/599de7e0be65940b47470acb/1580170690731-24W1CR1LCKWP70XXA1AD/Frodo\u002B%28Posterspy%29.jpg?format=1500w",
   "md5": "03AEC9ACE31A8F7A86B8390A5CDE0D2E",
   "tags": [
-    "Frodo"
+    "Frodo",
+    "wedding",
+    "ring",
+    "bearer",
+    "signs",
+    "cute",
+    "ideas",
+    "elijah",
+    "wood",
+    "lord",
+    "rings",
+    "frodo",
+    "baggins",
+    "hobbit",
+    "fellowship"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -268,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -2,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -70,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

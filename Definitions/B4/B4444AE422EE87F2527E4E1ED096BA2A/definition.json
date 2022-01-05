@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/cd/6b/25/cd6b251175ebdff36f6e2d7e5ee2bfe5.jpg",
   "md5": "B4444AE422EE87F2527E4E1ED096BA2A",
   "tags": [
-    ""
+    "",
+    "monk",
+    "drawings",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "anakin",
+    "skywalker",
+    "jedi",
+    "knight",
+    "jake",
+    "bartok",
+    "japanese",
+    "archer",
+    "guilherme",
+    "grandizolli",
+    "ranger\u904A\u4FE0",
+    "tina",
+    "yeh"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -256,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -61,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -8,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

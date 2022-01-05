@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/2f/5a/c4/2f5ac484041a28d63717d5b9283f6bb7.jpg",
   "md5": "81BAC88EF789D6AD171ECD0A83989781",
   "tags": [
-    ""
+    "",
+    "archer",
+    "character",
+    "design",
+    "medieval",
+    "female",
+    "concept",
+    "night",
+    "elf",
+    "orcs",
+    "dungeons",
+    "dragons",
+    "demon",
+    "hunter",
+    "horse",
+    "leszek",
+    "wo\u017Aniak",
+    "153",
+    "paul",
+    "shut",
+    "https://www.artstation.com",
+    "my",
+    "artwork",
+    "crusty",
+    "old",
+    "man",
+    "phu",
+    "thieu"
   ],
   "small": {
     "scale": 1.4200000000000004,
     "offset_x": -349,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -132,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -30,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

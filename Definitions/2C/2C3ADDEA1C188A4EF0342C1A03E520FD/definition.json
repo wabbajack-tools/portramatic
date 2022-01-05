@@ -34,27 +34,37 @@
     "practice",
     "lexey",
     "anikin",
-    "https://www"
+    "https://www",
+    "dark",
+    "world",
+    "daniel",
+    "kamarudin",
+    "pictures",
+    "horseman",
+    "juns"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -674,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -580,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -376,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

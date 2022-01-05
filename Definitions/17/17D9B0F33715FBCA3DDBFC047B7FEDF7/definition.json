@@ -2,25 +2,62 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49651556-530d-4514-9701-d1cefd8f88b8/db95vk1-9b100650-26ca-456a-bc35-c9d831d2dfa5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ5NjUxNTU2LTUzMGQtNDUxNC05NzAxLWQxY2VmZDhmODhiOFwvZGI5NXZrMS05YjEwMDY1MC0yNmNhLTQ1NmEtYmMzNS1jOWQ4MzFkMmRmYTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qVdvRvbjXfo9a7nWdcxAswZDhtja-1Bt5LD_bs6XD8M",
   "md5": "17D9B0F33715FBCA3DDBFC047B7FEDF7",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "bard",
+    "rogue",
+    "character",
+    "portraits",
+    "orc",
+    "warrior",
+    "orcs",
+    "skyrim",
+    "medieval",
+    "knights",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "realtime",
+    "augmented",
+    "ancient",
+    "fighter",
+    "joey",
+    "morel-carrier",
+    "samurai",
+    "paul",
+    "widelski",
+    "l5r",
+    "44",
+    "stepan",
+    "alekseev",
+    "concept",
+    "characters",
+    "illustration"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -400,
     "offset_y": -409,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -138,
     "offset_y": -235,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -192,
     "offset_y": -412,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

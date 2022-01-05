@@ -2,27 +2,40 @@
   "source": "https://enchantedlivingmagazine.com/wp-content/uploads/2019/05/Acr31617325805504-1999229.jpg",
   "md5": "F0219B989D7C31D06D9B0B6BA94F4655",
   "tags": [
-    ""
+    "",
+    "elven",
+    "warrior",
+    "queen",
+    "elf",
+    "costume",
+    "viking",
+    "makeup",
+    "marita",
+    "tathariel",
+    "svensson"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -69,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -44,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -82,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

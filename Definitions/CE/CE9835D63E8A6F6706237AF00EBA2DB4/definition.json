@@ -2,27 +2,43 @@
   "source": "https://2.bp.blogspot.com/-1l3LXXCJTiU/UQDYegqyicI/AAAAAAAAcAM/FCl6hfpdcHw/s1600/00006.jpg",
   "md5": "CE9835D63E8A6F6706237AF00EBA2DB4",
   "tags": [
-    ""
+    "",
+    "frank",
+    "frazetta",
+    "comic",
+    "book",
+    "death",
+    "dealer",
+    "conan",
+    "barbarian",
+    "horse",
+    "lord",
+    "carlos",
+    "alberto",
+    "mart\u00EDnez"
   ],
   "small": {
     "scale": 1,
     "offset_x": -455,
     "offset_y": -331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -355,
     "offset_y": -336,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -134,
     "offset_y": -222,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

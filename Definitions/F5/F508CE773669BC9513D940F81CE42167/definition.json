@@ -25,27 +25,38 @@
     "archers",
     "enmanuel",
     "martinez",
-    "https://www.artstation.com/artwork/1nxezo"
+    "https://www.artstation.com/artwork/1nxezo",
+    "axis",
+    "advance",
+    "mortality",
+    "rate",
+    "chart",
+    "kratos",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -394.8,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -252.39999999999992,
     "offset_y": -69.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -288.2222222222224,
     "offset_y": -2.7962962962964184,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

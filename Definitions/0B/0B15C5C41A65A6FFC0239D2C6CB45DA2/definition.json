@@ -3,27 +3,53 @@
   "md5": "0B15C5C41A65A6FFC0239D2C6CB45DA2",
   "tags": [
     "female",
-    "cleric"
+    "cleric",
+    "world",
+    "warcraft",
+    "horde",
+    "characters",
+    "wow",
+    "villains",
+    "queen",
+    "blades",
+    "league",
+    "legends",
+    "moth",
+    "knight",
+    "gustavo",
+    "zampieri",
+    "cultist",
+    "ben",
+    "hosac",
+    "argenta",
+    "steve",
+    "zheng",
+    "2020",
+    "game",
+    "character"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -692.6666666666666,
     "offset_y": -145.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -392.9999999999999,
     "offset_y": -75.33333333333331,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -107,
     "offset_y": -54.33333333333326,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

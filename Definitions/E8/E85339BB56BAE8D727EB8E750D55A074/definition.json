@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/bd/e2/2e/bde22e2c74f9f8f3480fc4b2892242ed.jpg",
   "md5": "E85339BB56BAE8D727EB8E750D55A074",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "girl",
+    "drawings",
+    "beautiful",
+    "woman",
+    "female",
+    "warriors",
+    "with",
+    "swords",
+    "game",
+    "thrones",
+    "dark",
+    "knight",
+    "star",
+    "wars",
+    "force",
+    "unleashed",
+    "man",
+    "steel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "head_wear",
+    "scarf"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -79,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -66,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -54,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

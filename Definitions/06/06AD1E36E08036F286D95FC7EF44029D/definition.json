@@ -2,25 +2,51 @@
   "source": "http://wartbook.ru/wp-content/uploads/2015/07/oboinastol.com_509.jpg",
   "md5": "06AD1E36E08036F286D95FC7EF44029D",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "cthulhu",
+    "game",
+    "assets",
+    "vivien",
+    "fritzgerald",
+    "ina",
+    "wong",
+    "character",
+    "characters",
+    "rpg",
+    "remnant",
+    "undying",
+    "king",
+    "aleksey",
+    "kovalenko",
+    "monster",
+    "concept"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -489,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -428,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -460,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

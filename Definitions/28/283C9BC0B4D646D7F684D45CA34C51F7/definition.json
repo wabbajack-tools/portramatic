@@ -30,27 +30,44 @@
     "to",
     "dungeon",
     "iello",
-    "paul"
+    "paul",
+    "arena",
+    "valor",
+    "omen",
+    "vu",
+    "nguyen",
+    "concept",
+    "lol",
+    "league",
+    "legends",
+    "wright",
+    "mafayon",
+    "card",
+    "games",
+    "warcraft"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -782,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -633,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -922,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,55 @@
   "source": "https://images.squarespace-cdn.com/content/v1/510a0982e4b08fd84ce45a43/1484608878347-GH7MOU6MSED7ZT4HCLKZ/STRANGE_COSTUME.jpg",
   "md5": "A798278026594B2E8591EE0600894DFD",
   "tags": [
-    "Doctor Strange I"
+    "Doctor Strange I",
+    "dr.",
+    "strange",
+    "fan",
+    "doctor",
+    "costume",
+    "outfit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "assassin",
+    "sheep",
+    "rogue",
+    "elf",
+    "ahmad",
+    "said",
+    "character",
+    "ac",
+    "syndicate",
+    "frederick",
+    "abberline",
+    "taissia"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -187.33333333333226,
     "offset_y": -27.999999999999886,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -114.66666666666652,
     "offset_y": -28.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -74.00000000000034,
     "offset_y": -0.6666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

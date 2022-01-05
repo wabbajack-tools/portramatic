@@ -3,27 +3,52 @@
   "md5": "C25C869C50B4636F43C850988DB9AA3A",
   "tags": [
     "sexy",
-    "warlock"
+    "warlock",
+    "jigsaw",
+    "puzzles",
+    "for",
+    "adults",
+    "500",
+    "piece",
+    "disney",
+    "heavenly",
+    "guide",
+    "livia",
+    "prima",
+    "2020",
+    "mtg",
+    "paraphin",
+    "candle",
+    "fairy",
+    "arif",
+    "wijaya",
+    "liang",
+    "xing",
+    "women",
+    "artwork"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -315,
     "offset_y": -128,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -174,
     "offset_y": -102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -288,
     "offset_y": -198,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

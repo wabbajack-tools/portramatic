@@ -2,25 +2,53 @@
   "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/3f1d7d14648955.5bf6e0dc09914.jpg",
   "md5": "847D3A4F2C2772EE93B802460292EFEE",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "orc",
+    "warriors",
+    "miniatures",
+    "dwarf",
+    "james",
+    "child",
+    "postaci",
+    "obrazy",
+    "gods",
+    "rome",
+    "characters",
+    "roster",
+    "gameloft",
+    "\u6B66\u50E7",
+    "\u5B81\u98DE",
+    "\u8BB8",
+    "portraits"
   ],
   "small": {
     "scale": 1,
     "offset_x": -663,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -276,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -116,
     "offset_y": -89,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

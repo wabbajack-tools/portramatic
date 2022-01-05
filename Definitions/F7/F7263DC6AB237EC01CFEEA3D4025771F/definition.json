@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/77/2e/6b/772e6badf6ec53f3a57d3c2e0768dd4f.jpg",
   "md5": "F7263DC6AB237EC01CFEEA3D4025771F",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "black",
+    "symbols",
+    "pirates",
+    "caribbean",
+    "guild",
+    "wars",
+    "demons",
+    "hobbit",
+    "dark",
+    "souls",
+    "viking",
+    "batman",
+    "caleb",
+    "nefzen",
+    "http://www.artstation.com/artwork/viking-batman",
+    "crocodile",
+    "berserker",
+    "timi",
+    "honkanen",
+    "2020",
+    "artwork",
+    "legend",
+    "cryptids",
+    "calatona",
+    "laura",
+    "sava",
+    "girl"
   ],
   "small": {
     "scale": 1,
     "offset_x": -356,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -366,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -118,
     "offset_y": 20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

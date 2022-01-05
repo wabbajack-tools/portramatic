@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/736x/f2/34/ae/f234ae8a32cc4ce524d7a66af31398c0--morgoth-tolkien.jpg",
   "md5": "D6F3FEC4734EC2934B2BE803D4810188",
   "tags": [
-    ""
+    "",
+    "mouth",
+    "sauron",
+    "fan",
+    "drawing",
+    "anime",
+    "girl",
+    "characters"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -84,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -6,
     "offset_y": -57,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -2,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

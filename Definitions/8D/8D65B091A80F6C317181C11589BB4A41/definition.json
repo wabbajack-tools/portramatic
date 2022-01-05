@@ -7,7 +7,7 @@
     "concept",
     "lucifer",
     "painting",
-    "god's",
+    "god\u0027s",
     "angels",
     "lich",
     "king",
@@ -26,27 +26,42 @@
     "rallis",
     "2020",
     "wenjun",
-    "lin"
+    "lin",
+    "witcher",
+    "fan",
+    "geralt",
+    "rivia",
+    "hairstyles",
+    "black",
+    "veil",
+    "bride",
+    "mohamed",
+    "saad",
+    "characters",
+    "horror"
   ],
   "small": {
     "scale": 0.25999999999999934,
     "offset_x": -40,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -29,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -7,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

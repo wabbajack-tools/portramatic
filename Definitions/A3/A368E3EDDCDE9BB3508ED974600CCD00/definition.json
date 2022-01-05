@@ -18,27 +18,33 @@
     "archer",
     "soffa",
     "rena",
-    "kalma"
+    "kalma",
+    "shovel",
+    "kim",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -382.8000000000002,
     "offset_y": -47.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -169,
     "offset_y": -17.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -126.62037037036998,
     "offset_y": -0.2407407407406481,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

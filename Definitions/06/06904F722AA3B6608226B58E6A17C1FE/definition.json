@@ -9,25 +9,36 @@
     "mammal",
     "barbarian",
     "tiefling",
-    "minitour"
+    "minitour",
+    "race",
+    "golden",
+    "voyage",
+    "sinbad",
+    "bronze",
+    "sculpture"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -247.33333333333337,
     "offset_y": -95.33333333333329,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -121.66666666666663,
     "offset_y": -6.666666666666629,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -10.333333333333485,
     "offset_y": -3.6666666666666288,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

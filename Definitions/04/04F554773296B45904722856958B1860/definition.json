@@ -1,28 +1,57 @@
 {
-  "source": "https://th.bing.com/th/id/R.04f554773296b45904722856958b1860?rik=zICTvs2N7KIx6g&riu=http%3a%2f%2fimg13.deviantart.net%2fdde4%2fi%2f2015%2f140%2f5%2f3%2fnordian_berserker_by_diegogisbertllorens-d8u1t90.jpg&ehk=JIFkclZW59lUz4%2fvWSFUO53%2fXSvQEmKAb5EY1BuejPg%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.04f554773296b45904722856958b1860?rik=zICTvs2N7KIx6g\u0026riu=http%3a%2f%2fimg13.deviantart.net%2fdde4%2fi%2f2015%2f140%2f5%2f3%2fnordian_berserker_by_diegogisbertllorens-d8u1t90.jpg\u0026ehk=JIFkclZW59lUz4%2fvWSFUO53%2fXSvQEmKAb5EY1BuejPg%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "04F554773296B45904722856958B1860",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "elf",
+    "ranger",
+    "character",
+    "dragon",
+    "girl",
+    "knight",
+    "armor",
+    "armors",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "bear",
+    "king.",
+    "alex",
+    "nacher",
+    "https://www.artstation.com/artwork/zzxdr",
+    "https://cdnb.artstation.com/p/assets/images/images/009/310/751/large/tae-chul-kang-.jpg?1",
+    "design",
+    "study",
+    "alessandro",
+    "bragalini"
   ],
   "small": {
     "scale": 1,
     "offset_x": -348,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -234,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -108,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

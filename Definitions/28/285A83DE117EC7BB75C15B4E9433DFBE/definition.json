@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/ESV1aJFUEAIf5n6?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/ESV1aJFUEAIf5n6?format=jpg\u0026name=medium",
   "md5": "285A83DE117EC7BB75C15B4E9433DFBE",
   "tags": [
     "",
@@ -20,27 +20,39 @@
     "companions",
     "jackson",
     "tjota",
-    "https://www"
+    "https://www",
+    "supergirl\u0027s",
+    "rage",
+    "javier",
+    "charroyou",
+    "cammy",
+    "vs",
+    "chun-li",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -301.5999999999999,
     "offset_y": -188.79999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -72.80000000000001,
     "offset_y": -88.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -4.805555555555884,
     "offset_y": -4.8055555555553156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

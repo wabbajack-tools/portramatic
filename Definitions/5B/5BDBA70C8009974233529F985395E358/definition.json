@@ -5,27 +5,54 @@
     "warhammer",
     "dark",
     "elf",
-    "male"
+    "male",
+    "sorcerer",
+    "warlock",
+    "high",
+    "elves",
+    "wood",
+    "project",
+    "ebon",
+    "blade",
+    "zach",
+    "fischer",
+    "world",
+    "warcraft",
+    "cleric",
+    "loles",
+    "romero",
+    "character",
+    "design",
+    "sketches",
+    "personal",
+    "denis",
+    "rybchak",
+    "dark/night",
+    "drow",
+    "pinterest"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -510,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -602,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999974,
     "offset_x": -150,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

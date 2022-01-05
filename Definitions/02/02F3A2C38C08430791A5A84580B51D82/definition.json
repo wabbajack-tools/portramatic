@@ -2,27 +2,58 @@
   "source": "https://i.imgur.com/jebMdzj.jpeg",
   "md5": "02F3A2C38C08430791A5A84580B51D82",
   "tags": [
-    ""
+    "",
+    "fighter",
+    "character",
+    "rogue",
+    "ranger",
+    "armor",
+    "leather",
+    "knight",
+    "medieval",
+    "knights",
+    "armors",
+    "heavy",
+    "scale",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "mercenaries",
+    "michele",
+    "frigo",
+    "design",
+    "mercenary",
+    "hyeong",
+    "bin",
+    "jeon",
+    "viking",
+    "oliver",
+    "plunkett",
+    "https://www.artstation.com/artwork/ompom?utm_campaign"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -209,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -73,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -6,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

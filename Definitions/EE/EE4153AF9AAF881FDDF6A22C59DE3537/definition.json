@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/564x/9f/a3/2b/9fa32bfe07e4ff750c9ed9ea6d2b9a1f.jpg",
   "md5": "EE4153AF9AAF881FDDF6A22C59DE3537",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "design",
+    "concept",
+    "game",
+    "monster",
+    "orc",
+    "warrior",
+    "heavy",
+    "armor",
+    "knight",
+    "thrones",
+    "death",
+    "orcs",
+    "m",
+    "fighter",
+    "plate",
+    "helm",
+    "sword",
+    "urban",
+    "city",
+    "street",
+    "knights",
+    "exploration",
+    "pedro",
+    "veloso",
+    "for",
+    "honor",
+    "vince",
+    "rizzi",
+    "artstation.",
+    "characters",
+    "samurai",
+    "kratos",
+    "son",
+    "alexandria",
+    "federico"
   ],
   "small": {
     "scale": 1.9100000000000008,
     "offset_x": -421,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -150,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

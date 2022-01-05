@@ -4,27 +4,38 @@
   "tags": [
     "2017",
     "vampire",
-    "caesty"
+    "caesty",
+    "moth",
+    "0q",
+    ".",
+    "character",
+    "design",
+    "female",
+    "\u5927\u53E3\u53E9\u304D\u8005\u306E\u672B\u8DEF",
+    "auto"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -1440.7999999999993,
     "offset_y": -265.5999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -505.59999999999974,
     "offset_y": -102.40000000000009,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -522.2037037037037,
     "offset_y": -75.28703703703684,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

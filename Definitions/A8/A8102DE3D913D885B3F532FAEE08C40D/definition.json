@@ -2,27 +2,43 @@
   "source": "https://www.hiveworkshop.com/media/white-dragon.30145/full?d=1465596486",
   "md5": "A8102DE3D913D885B3F532FAEE08C40D",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "logo",
+    "black",
+    "white",
+    "silhouette",
+    "cool",
+    "drawings",
+    "blue",
+    "eyes",
+    "red",
+    "drawing",
+    "dragons",
+    "cyber"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -73,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -59,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5699999999999994,
     "offset_x": -110,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

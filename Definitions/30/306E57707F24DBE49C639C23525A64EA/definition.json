@@ -1,5 +1,5 @@
 {
-  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/06/brommumu-sephiroth.jpg?q=50&fit=crop&w=740&dpr=1.5",
+  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/06/brommumu-sephiroth.jpg?q=50\u0026fit=crop\u0026w=740\u0026dpr=1.5",
   "md5": "306E57707F24DBE49C639C23525A64EA",
   "tags": [
     "dark",
@@ -12,7 +12,7 @@
     "vampire",
     "manga",
     "souls",
-    "'yeopo'",
+    "\u0027yeopo\u0027",
     "three",
     "kingdoms",
     "reincarnates",
@@ -20,27 +20,54 @@
     "li",
     "update",
     "marishka",
-    "kleyman"
+    "kleyman",
+    "ff7",
+    "fan",
+    "sephiroth",
+    "picture",
+    "character",
+    "caesar",
+    "planet",
+    "apes",
+    "predator",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "practice06",
+    "l",
+    "zz",
+    "models",
+    "202011",
+    "milpix",
+    "future",
+    "foundation",
+    "spiderman",
+    "2.0",
+    "stivens"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -694.4999999999978,
     "offset_y": -489.39999999999986,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -111.00000000000023,
     "offset_y": -158.59999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -20.037037037037635,
     "offset_y": -15.82407407407402,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

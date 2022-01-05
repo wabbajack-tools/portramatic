@@ -2,27 +2,38 @@
   "source": "https://i.pinimg.com/originals/ac/ca/03/acca031602a8bbd7b0aae587d4639a56.jpg",
   "md5": "723AFBF80635880178AAD43AF10C5F73",
   "tags": [
-    ""
+    "",
+    "halfling",
+    "character",
+    "alchemist",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "sandals"
   ],
   "small": {
     "scale": 1,
     "offset_x": -190,
     "offset_y": -465,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -116,
     "offset_y": -492,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 76,
     "offset_y": 14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

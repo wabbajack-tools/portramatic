@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/39/c6/92/39c6929172855f1e846c76ede5362c7e.jpg",
   "md5": "31C897E7E45F2A7A181470B4FE1FB34C",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "plate",
+    "leather",
+    "death",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "slg",
+    "z",
+    "y",
+    "concept",
+    "characters",
+    "warrior",
+    "yuyang",
+    "chi",
+    "simon\uFF0Cthe",
+    "rogue",
+    "wizard",
+    "alain",
+    "wilde"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -235,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -33,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": 0,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

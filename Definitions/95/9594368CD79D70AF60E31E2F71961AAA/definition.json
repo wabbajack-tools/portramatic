@@ -2,27 +2,41 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/007/491/683/large/song-nan-li-works127.jpg?1506506428",
   "md5": "9594368CD79D70AF60E31E2F71961AAA",
   "tags": [
-    ""
+    "",
+    "li",
+    "nan",
+    "voodoo",
+    "china",
+    "song",
+    "lace",
+    "bastien",
+    "thuillot",
+    "maverick",
+    "maksim",
+    "marenkov"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -77,
     "offset_y": -223,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -67,
     "offset_y": -178,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -70,
     "offset_y": -168,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

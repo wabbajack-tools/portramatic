@@ -29,36 +29,49 @@
     "rogue-type",
     "character",
     "alejandro",
-    "garcía",
+    "garc\uFFFDa",
     "cavewoman",
-    "marília",
+    "mar\uFFFDlia",
     "barbosa",
     "barbarian",
     "npc",
     "rebi",
     ".",
     "girl",
-    "knight"
+    "knight",
+    "concept",
+    "design",
+    "pirate",
+    "garc\u00EDa",
+    "inquisitor",
+    "sol",
+    "a.e.",
+    "coggon",
+    "jiyun",
+    "lim"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -448,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -356,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": 0,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

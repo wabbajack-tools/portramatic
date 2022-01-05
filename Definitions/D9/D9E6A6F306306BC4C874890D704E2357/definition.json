@@ -2,25 +2,43 @@
   "source": "https://avavatar.ru/images/full/20/TV7v0U40IUtGzM2T.jpg",
   "md5": "D9E6A6F306306BC4C874890D704E2357",
   "tags": [
-    ""
+    "",
+    "ds1",
+    "sif",
+    "solaire",
+    "gwyn",
+    "victorian",
+    "regret",
+    "diniece",
+    "henderson",
+    "commissions",
+    "elves",
+    "boissb",
+    "b.",
+    "jim\u00E9nez"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -127,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -120,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -28,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

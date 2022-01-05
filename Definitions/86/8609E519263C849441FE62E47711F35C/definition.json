@@ -21,27 +21,52 @@
     "01",
     "kazuhiro",
     "oya",
-    "https://www.artstation.com/artwork/meglia-01"
+    "https://www.artstation.com/artwork/meglia-01",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "sister",
+    "battle",
+    "warhammer.",
+    "alicia",
+    "varela",
+    "lancer",
+    "jeong",
+    "chan",
+    "jo",
+    "warcraft",
+    "heroes",
+    "ilya",
+    "ozornin"
   ],
   "small": {
     "scale": 0.3999999999999999,
     "offset_x": -164.39999999999122,
     "offset_y": -55.99999999999727,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.31999999999999984,
     "offset_x": -9.600000000002069,
     "offset_y": -20.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7100000000000003,
     "offset_x": -3.750000000000682,
     "offset_y": -57.398148148148266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

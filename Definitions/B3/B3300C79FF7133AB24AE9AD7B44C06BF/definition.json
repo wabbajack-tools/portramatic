@@ -16,25 +16,52 @@
     "spear",
     "polearm",
     "sexy",
-    ""
+    "",
+    "pretty",
+    "anime",
+    "girl",
+    "angel",
+    "dark",
+    "cute",
+    "league",
+    "angels",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "legend",
+    "cryptids",
+    "work",
+    "hoy",
+    "ohla",
+    "character",
+    "felica",
+    "yutthaphong",
+    "kaewsuk"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -168.60000000000022,
     "offset_y": -114.4000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -94.79999999999984,
     "offset_y": -62.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -21.203703703704605,
     "offset_y": -54.01851851851836,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

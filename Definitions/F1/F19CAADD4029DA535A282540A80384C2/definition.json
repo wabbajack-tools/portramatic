@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/f1/55/35/f1553536462730914483f6109bb67bcb.jpg",
   "md5": "F19CAADD4029DA535A282540A80384C2",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "concept",
+    "medieval",
+    "archer",
+    "anime",
+    "orc",
+    "warrior",
+    "warriors",
+    "dynasty",
+    "miniatures",
+    "armors",
+    "knight",
+    "hyun",
+    "noh",
+    "https://www.artstation.com/artwork/dxanq",
+    "characters",
+    "baron",
+    "dong",
+    "zhiwei",
+    "character",
+    "dungeon",
+    "hunter",
+    "4",
+    "mobile",
+    "games",
+    "b",
+    "ge"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -311,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -243,
     "offset_y": -84,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -42,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

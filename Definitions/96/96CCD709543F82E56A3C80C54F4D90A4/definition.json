@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/736x/b2/2c/62/b22c62333eaea2b6752ea00ab5810865.jpg",
   "md5": "96CCD709543F82E56A3C80C54F4D90A4",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "female",
+    "outfits",
+    "vikings",
+    "characters",
+    "character",
+    "concept",
+    "assassin",
+    "knights",
+    "body",
+    "armor",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "princess",
+    "dk",
+    "2021",
+    "futuristic",
+    "sketch",
+    "borislav",
+    "mitkov",
+    "skaven",
+    "design",
+    "batch",
+    "victoria"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -298,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": 0,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

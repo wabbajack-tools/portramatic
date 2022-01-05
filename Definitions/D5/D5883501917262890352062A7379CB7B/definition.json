@@ -2,27 +2,47 @@
   "source": "https://wallpaperaccess.com/full/4912262.jpg",
   "md5": "D5883501917262890352062A7379CB7B",
   "tags": [
-    ""
+    "",
+    "sorin",
+    "mtg",
+    "markov",
+    "cards",
+    "dragon",
+    "age",
+    "origins",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "ezreal",
+    "red-null",
+    "karma",
+    "sniper",
+    "oleg",
+    "kurganov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -569,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -480,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -312,
     "offset_y": 166,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

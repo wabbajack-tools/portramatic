@@ -2,27 +2,34 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f53c8e19-3095-4dc6-bc7c-d73083a8b62d/d8fdkj4-3e9d8631-2df2-48f5-a528-67770cd2561c.jpg/v1/fill/w_900,h_1216,q_75,strp/elf_inquisitor___dragon_age_inquisition_fanart_by_engendrarte_d8fdkj4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIxNiIsInBhdGgiOiJcL2ZcL2Y1M2M4ZTE5LTMwOTUtNGRjNi1iYzdjLWQ3MzA4M2E4YjYyZFwvZDhmZGtqNC0zZTlkODYzMS0yZGYyLTQ4ZjUtYTUyOC02Nzc3MGNkMjU2MWMuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KEcIBy61ydMgkH1suc1XNl7ecMzzkjU45bsa6PK9QcA",
   "md5": "DC30CBD3A0E7DB1B45B714CCC1AB811B",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -534,
     "offset_y": -490,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -318,
     "offset_y": -366,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -244,
     "offset_y": -304,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

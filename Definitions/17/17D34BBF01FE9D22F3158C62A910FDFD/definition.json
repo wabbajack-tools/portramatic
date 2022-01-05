@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/08/07/3e/08073eb79bdc5e08cfa49f71fe9bd980.jpg",
   "md5": "17D34BBF01FE9D22F3158C62A910FDFD",
   "tags": [
-    ""
+    "",
+    "ranger",
+    "concept",
+    "male",
+    "medieval",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "knights",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "assassin\u0027s",
+    "creed",
+    "qi",
+    "wang",
+    "characters",
+    "character",
+    "dungeons",
+    "forest",
+    "shade",
+    "alexander",
+    "borodin",
+    "https://www.artstation.com/artwork/zlez",
+    "adventurer",
+    "arman",
+    "akopian"
   ],
   "small": {
     "scale": 1,
     "offset_x": -206,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -137,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 20,
     "offset_y": 78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

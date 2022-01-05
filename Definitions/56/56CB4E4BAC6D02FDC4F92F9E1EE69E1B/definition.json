@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/67/a0/25/67a025e230485ed50006a7a5863f07d4.jpg",
   "md5": "56CB4E4BAC6D02FDC4F92F9E1EE69E1B",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "anime",
+    "girl",
+    "guys",
+    "sf",
+    "pim",
+    "lico",
+    "cabal",
+    "illust",
+    "demon",
+    "gwang-beom",
+    "kho",
+    "women",
+    "bounty",
+    "hunter",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "2020",
+    "warrior",
+    "woman"
   ],
   "small": {
     "scale": 2.129999999999998,
     "offset_x": -549.0000000000005,
     "offset_y": -84.9999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3900000000000003,
     "offset_x": -223.99999999999994,
     "offset_y": -48.33333333333326,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -62.999999999999545,
     "offset_y": -27.333333333333314,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

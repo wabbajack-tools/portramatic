@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/000/729/635/large/jianyachi-l-2014-5.jpg?1443931679",
   "md5": "F0F9506D0C23D434251BC90338E27695",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "female",
+    "assassin",
+    "anime",
+    "girl",
+    "personal",
+    "work",
+    "for",
+    "study",
+    "sungryun",
+    "park",
+    "\u7EC3",
+    "yongshan",
+    "xiaorui"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -555,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -352,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -358,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

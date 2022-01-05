@@ -14,27 +14,53 @@
     "jak",
     "redesign",
     "david",
-    "tector"
+    "tector",
+    "knight",
+    "armor",
+    "dark",
+    "elf",
+    "medieval",
+    "knights",
+    "armors",
+    "suit",
+    "black",
+    "death",
+    "witness",
+    "valera",
+    "lutfullina",
+    "\u5353\u6208\u897F\u5965-\u5904\u5211\u4EBA",
+    "hunter",
+    "choir",
+    "characters",
+    "lord",
+    "samurai",
+    "gear",
+    "necromancer",
+    "nikolay",
+    "demencevich"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -485.5,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -132.5,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999977,
     "offset_x": -62,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

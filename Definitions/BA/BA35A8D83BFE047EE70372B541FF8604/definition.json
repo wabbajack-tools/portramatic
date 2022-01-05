@@ -22,27 +22,43 @@
     "guard",
     "allen",
     "morris",
-    "https://www"
+    "https://www",
+    "elder",
+    "scrolls",
+    "online",
+    "eirys",
+    "hendry",
+    "iwanaga",
+    "drow",
+    "ranger",
+    "done",
+    "play",
+    "cicada",
+    "anarchic",
+    "fox"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -163,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -30,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -28,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

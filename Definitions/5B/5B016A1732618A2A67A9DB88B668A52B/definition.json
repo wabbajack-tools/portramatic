@@ -3,27 +3,62 @@
   "md5": "5B016A1732618A2A67A9DB88B668A52B",
   "tags": [
     "female",
-    "concept"
+    "concept",
+    "blank",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "tights",
+    "shoes",
+    "heels",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "silver",
+    "hair_elf",
+    "taeyong",
+    "choi",
+    "2020",
+    "characters",
+    "hair",
+    "\u5173\u8D8A\u5141-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "https://www.artstation.com/artwork",
+    "luthiel",
+    "ls",
+    "moka",
+    "women",
+    "warrior"
   ],
   "small": {
     "scale": 1.8200000000000007,
     "offset_x": -581.6,
     "offset_y": -187.4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -87.80000000000007,
     "offset_y": -32.99999999999994,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -28.833333333333258,
     "offset_y": -46.08333333333326,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

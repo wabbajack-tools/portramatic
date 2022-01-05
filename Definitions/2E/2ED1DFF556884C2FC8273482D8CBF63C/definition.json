@@ -2,25 +2,53 @@
   "source": "http://pm1.narvii.com/6699/37cb3c5b42041e4cbfc6c25039e3133dbdbe301a_00.jpg",
   "md5": "2ED1DFF556884C2FC8273482D8CBF63C",
   "tags": [
-    ""
+    "",
+    "female",
+    "warlock",
+    "human",
+    "concept",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "percy",
+    "jackson",
+    "sea",
+    "monsters",
+    "vanquish",
+    "aaron",
+    "nakahara",
+    "goblin",
+    "rogue",
+    "astri",
+    "lohne",
+    "https://www",
+    "kundun",
+    "brandon",
+    "jeung"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -223,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -97,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8700000000000008,
     "offset_x": -24,
     "offset_y": 42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

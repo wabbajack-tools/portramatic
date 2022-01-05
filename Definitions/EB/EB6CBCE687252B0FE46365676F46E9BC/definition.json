@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/2c/ef/da/2cefdad0b3dcfb720466a19616d2c8bb.jpg",
   "md5": "EB6CBCE687252B0FE46365676F46E9BC",
   "tags": [
-    ""
+    "",
+    "darkest",
+    "dungeon",
+    "character",
+    "crusader",
+    "all",
+    "characters",
+    "predator",
+    "dark",
+    "souls",
+    "dungeons",
+    "dragons",
+    "tempest",
+    "cleric",
+    "warforged",
+    "juggernaut",
+    "work-in-progress",
+    "pics",
+    "lily",
+    "abdullina",
+    "old",
+    "orc",
+    "ivan",
+    "stan",
+    "https://www.artstation.com/artwork/9ryzn",
+    "warrior",
+    "knight-tiger",
+    "a",
+    "stas",
+    "design"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -291,
     "offset_y": -217,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -19,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -24,
     "offset_y": -52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

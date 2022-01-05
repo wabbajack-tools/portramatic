@@ -38,27 +38,55 @@
     "journey",
     "carolin",
     "aust",
-    "druid"
+    "druid",
+    "concept",
+    "rogue",
+    "cyberpunk",
+    "anime",
+    "girl",
+    "characters",
+    "yugio",
+    "yu-gi-oh",
+    "5d\u0027s",
+    "league",
+    "legends",
+    "aov(arena",
+    "valor)\u0027s",
+    "butterfly",
+    "joong",
+    "gon",
+    "lee",
+    "wind",
+    "nightmare",
+    "thiago",
+    "almeida",
+    "2020",
+    "with",
+    "creature",
+    "https://www.artstation.com/artwork/qrzke"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -239,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -169,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -78,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

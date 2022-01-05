@@ -2,27 +2,51 @@
   "source": "https://images8.alphacoders.com/703/703560.jpg",
   "md5": "8E74B4120F164543F9622C343C06726F",
   "tags": [
-    "Demon White"
+    "Demon White",
+    "male",
+    "demon",
+    "drawing",
+    "fan",
+    "dark",
+    "drawings",
+    "kratos",
+    "female",
+    "assassin",
+    "league",
+    "legends",
+    "elderwood\u002B1s",
+    "yuanbin",
+    "hu",
+    "https://www.artstation.com/artwork/k1wa2",
+    "wenjun",
+    "lin",
+    "forest",
+    "elf",
+    "flying",
+    "pengu"
   ],
   "small": {
     "scale": 0.24999999999999936,
     "offset_x": -263,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -242,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -436,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

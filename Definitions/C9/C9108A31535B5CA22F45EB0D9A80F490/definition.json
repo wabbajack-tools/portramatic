@@ -13,27 +13,47 @@
     "savage",
     "shaman",
     "maik",
-    "beiersdorf"
+    "beiersdorf",
+    "skyrim",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "cursed",
+    "maiden",
+    "ash",
+    "max",
+    "gavr",
+    "90",
+    "rodion",
+    "shaldo",
+    "nina",
+    "archer",
+    "tom\u00E1\u0161",
+    "m\u00E1dr"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -239,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -189,
     "offset_y": -151,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -82,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,62 @@
   "source": "https://64.media.tumblr.com/f1df0ad444ab1dcf8ad9e71366dfa362/tumblr_ojzjomUqak1vmcsaao1_1280.jpg",
   "md5": "0808F0362474078772E33ADF4BC687C8",
   "tags": [
-    ""
+    "",
+    "male",
+    "blood",
+    "elves",
+    "elf",
+    "fan",
+    "mage",
+    "demon",
+    "hunter",
+    "dark",
+    "souls",
+    "masters",
+    "universe",
+    "hansel",
+    "gretel",
+    "death",
+    "knight",
+    "demons",
+    "rise",
+    "half-blood",
+    "rayden",
+    "chen",
+    "a",
+    "soft",
+    "man",
+    "jihwan",
+    "ha",
+    "https://www",
+    "batman",
+    "jin",
+    "roh",
+    "reza",
+    "ilyasa"
   ],
   "small": {
     "scale": 1.1418333333333328,
     "offset_x": -372,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5900000000000002,
     "offset_x": -77,
     "offset_y": -128,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8771666666666667,
     "offset_x": -4,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,27 +8,43 @@
     "femalewarrior",
     "female",
     "scantily",
-    "clad"
+    "clad",
+    "witch",
+    "prints",
+    "wicked",
+    "wiccan",
+    "league",
+    "legends",
+    "guardians",
+    "galaxy",
+    "warframe",
+    "frost",
+    "cleo",
+    "naturin",
+    "2020"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -431.5,
     "offset_y": -236,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -223.5,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -193,
     "offset_y": -173,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

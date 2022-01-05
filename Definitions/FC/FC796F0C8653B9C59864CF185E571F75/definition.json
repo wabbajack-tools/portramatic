@@ -2,27 +2,40 @@
   "source": "https://www.shannarawiki.net/wp/wp-content/uploads/2011/07/mareth-malese-jow.jpg",
   "md5": "FC796F0C8653B9C59864CF185E571F75",
   "tags": [
-    ""
+    "",
+    "shannara",
+    "chronicles",
+    "characters",
+    "elf",
+    "wil",
+    "malese",
+    "jow",
+    "vampire",
+    "diaries",
+    "vampires"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -5,
     "offset_y": 17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -416,
     "offset_y": 150,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

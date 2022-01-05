@@ -2,25 +2,51 @@
   "source": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/4/45/Tovolar.jpg/revision/latest/scale-to-width-down/1200?cb=20210902191215",
   "md5": "10085A23985D85A0FC34598237B07A78",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "war",
+    "north",
+    "battle",
+    "gods",
+    "witcher",
+    "skyrim",
+    "taking",
+    "aim.",
+    "suzanne",
+    "helmigh",
+    "blue",
+    "bones",
+    "\u732A\u516B\u6212",
+    "qi",
+    "wang",
+    "starcraft",
+    "fanart",
+    "daniel",
+    "bauer"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -764.0000000000005,
     "offset_y": -136.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -525.3333333333333,
     "offset_y": -123.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7700000000000007,
     "offset_x": -866.6666666666667,
     "offset_y": -197.33333333333326,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

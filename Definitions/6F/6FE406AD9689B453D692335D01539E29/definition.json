@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/736x/0d/80/be/0d80be0b2be3c2869f658cd37a0d14ae.jpg",
   "md5": "6FE406AD9689B453D692335D01539E29",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warrior",
+    "female",
+    "pencil",
+    "drawings",
+    "names",
+    "assassin",
+    "armors",
+    "pirate",
+    "knight",
+    "armor",
+    "leather",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "character",
+    "concept",
+    "kim",
+    "ssang",
+    "https://www.artstation.com/artwork/3ooygm",
+    "https://www.artstation.com/artwork/0xgwxv",
+    "outfit",
+    "blind",
+    "ting",
+    "xu",
+    "https://www.artstation.com/artwork/xb6l1y"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -304,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": 0,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

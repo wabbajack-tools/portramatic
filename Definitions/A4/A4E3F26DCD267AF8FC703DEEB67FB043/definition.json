@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/736x/ed/37/d4/ed37d47b15451084ad9aaa86f1cade9c.jpg",
   "md5": "A4E3F26DCD267AF8FC703DEEB67FB043",
   "tags": [
-    ""
+    "",
+    "crusader",
+    "knight",
+    "armor",
+    "templar",
+    "concept",
+    "design",
+    "heavy",
+    "actionfigures",
+    "samurai",
+    "female",
+    "assassin",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dark",
+    "ville-valtteri",
+    "kinnunen",
+    "half",
+    "agamemnon",
+    "gabriel",
+    "blain",
+    "marcus",
+    "renewal",
+    "yoon",
+    "\u2606",
+    "2020"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -393,
     "offset_y": -178,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -248,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -124,
     "offset_y": -170,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

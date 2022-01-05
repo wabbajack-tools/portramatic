@@ -11,27 +11,58 @@
     "persona",
     "5",
     "isaac",
-    "liew"
+    "liew",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "queen",
+    "martina",
+    "fa\u010Dkov\u00E1",
+    "2020",
+    "illustration",
+    "dark",
+    "red",
+    "dresses",
+    "book",
+    "goldenxgreen",
+    "amirul",
+    "hhf",
+    "cyberpunk",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -382,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -299,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -72,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

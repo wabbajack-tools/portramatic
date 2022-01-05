@@ -33,30 +33,66 @@
     "julia",
     "kovalyova",
     "artstation.",
-    "baldur's",
+    "baldur\u0027s",
     "eduard",
     "nabiullin",
-    "artwork"
+    "artwork",
+    "crossbow",
+    "hand",
+    "light",
+    "armors",
+    "armor",
+    "stormtrooper",
+    "costume",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "concepts",
+    "for",
+    "a",
+    "prototype",
+    "project",
+    "michael",
+    "chang",
+    "hunter",
+    "lee",
+    "do",
+    "kyung",
+    "2021",
+    "horizon",
+    "zero",
+    "dawn",
+    "tribes",
+    "luc",
+    "de",
+    "haan"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -1417.5714285714284,
     "offset_y": -75.14285714285714,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -887.8571428571429,
     "offset_y": -44.428571428571445,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -896.8571428571429,
     "offset_y": -41.714285714285666,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

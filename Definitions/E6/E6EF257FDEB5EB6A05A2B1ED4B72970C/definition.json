@@ -9,27 +9,49 @@
     "female",
     "half",
     "orc",
-    "portrait"
+    "portrait",
+    "costume",
+    "black",
+    "warrior",
+    "chaos",
+    "dungeons",
+    "dragons",
+    "sidious",
+    "gladiators",
+    "dragon",
+    "isle",
+    "manthos",
+    "narset",
+    "ancient",
+    "way",
+    "magic",
+    "planet",
+    "destroyer",
+    "legend",
+    "cryptids"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -214.00000000000023,
     "offset_y": -13.600000000000023,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -188,
     "offset_y": -22.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -18.81481481481478,
     "offset_y": -15.203703703703809,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

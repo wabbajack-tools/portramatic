@@ -2,27 +2,43 @@
   "source": "https://assets.puzzlefactory.pl/puzzle/304/565/original.webp",
   "md5": "E5C755572425B1627786A1082B77D250",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "witch",
+    "michael",
+    "wang",
+    "sentinel",
+    "ramiz",
+    "ng02",
+    "morina",
+    "\u4E2D\u570B\u4ED9\u5883-china",
+    "wonderland",
+    "zingco",
+    "kang"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -8.800000000000011,
     "offset_y": -46.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -80.80000000000007,
     "offset_y": -256.0000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3699999999999934,
     "offset_x": -331.58333333333303,
     "offset_y": -889.0277777777777,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

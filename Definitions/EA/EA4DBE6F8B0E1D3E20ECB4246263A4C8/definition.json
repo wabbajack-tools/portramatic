@@ -19,7 +19,7 @@
     "elena",
     "kononenko",
     "tatiana",
-    "vetrova's",
+    "vetrova\u0027s",
     "submission",
     "wild",
     "west",
@@ -27,27 +27,58 @@
     "design",
     "archer",
     "evian",
-    "171"
+    "171",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "daily",
+    "design_idea",
+    "sketch",
+    "mashack",
+    "_",
+    "game",
+    "dragonball",
+    "z",
+    "vegeta",
+    "gop",
+    "gap",
+    "dragon",
+    "ball",
+    "artwork",
+    "boku",
+    "no",
+    "hero",
+    "rpg",
+    "sphinx",
+    "quirk",
+    "kaos",
+    "ren"
   ],
   "small": {
     "scale": 3.079999999999978,
     "offset_x": -232.16666666666697,
     "offset_y": -43.16666666666674,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.5199999999999907,
     "offset_x": -127.16666666666657,
     "offset_y": -35.166666666666714,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 3.0099999999999802,
     "offset_x": -7,
     "offset_y": -55.333333333333485,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

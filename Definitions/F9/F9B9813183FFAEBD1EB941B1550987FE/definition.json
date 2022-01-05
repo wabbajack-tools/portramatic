@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/4c/b3/5c/4cb35ca78232c22705298c009d64e1ec.jpg",
   "md5": "F9B9813183FFAEBD1EB941B1550987FE",
   "tags": [
-    ""
+    "",
+    "knight",
+    "dragon",
+    "dungeons",
+    "dragons",
+    "concept",
+    "medieval",
+    "knights",
+    "armors",
+    "plate",
+    "armor",
+    "scythian",
+    "chieftain",
+    "joan",
+    "francesc",
+    "oliveras",
+    "pallerols",
+    "historical",
+    "warriors",
+    "ancient",
+    "orc",
+    "boss",
+    "joshua",
+    "carrenca",
+    "character",
+    "design",
+    "zhaoyun",
+    "kevin",
+    "lee"
   ],
   "small": {
     "scale": 1,
     "offset_x": -160,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -123,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 48,
     "offset_y": 100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

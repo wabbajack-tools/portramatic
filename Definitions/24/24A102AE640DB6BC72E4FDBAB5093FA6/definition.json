@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/66/50/6e/66506e23c71bb86eeae831cfae892ae5.jpg",
   "md5": "24A102AE640DB6BC72E4FDBAB5093FA6",
   "tags": [
-    ""
+    "",
+    "derro",
+    "witch",
+    "king",
+    "angmar",
+    "dark",
+    "shadows",
+    "knight",
+    "hunter",
+    "ceiling",
+    "fans",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "hat",
+    "fedora",
+    "lucas",
+    "leger\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "character",
+    "design",
+    "cowboy",
+    "aquaman",
+    "andrew",
+    "hunt"
   ],
   "small": {
     "scale": 1,
     "offset_x": -393,
     "offset_y": -219,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -339,
     "offset_y": -221,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -98,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

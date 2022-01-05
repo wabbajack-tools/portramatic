@@ -2,27 +2,57 @@
   "source": "https://i.redd.it/s2p3bhv9vbp71.png",
   "md5": "925E507AF3A11C27F750A59C95114C04",
   "tags": [
-    ""
+    "",
+    "succubus",
+    "station",
+    "incubus",
+    "royo",
+    "realistic",
+    "demon",
+    "wings",
+    "league",
+    "legends",
+    "#alexstrasza",
+    "#artstation",
+    "#jessica",
+    "#greco",
+    "#dave",
+    "jessica",
+    "alexstrasza",
+    "dave",
+    "bloodmoon",
+    "ahri",
+    "noah",
+    "thatcher",
+    "\u73AB\u7470\u9B54\u59EC",
+    "tony",
+    "wang",
+    "good",
+    "hope",
+    "https://www.artstation.com/artwork/kojwr"
   ],
   "small": {
     "scale": 0.22999999999999932,
     "offset_x": -210,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -98,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3399999999999994,
     "offset_x": -24,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

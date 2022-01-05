@@ -2,27 +2,32 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/042/597/501/large/nixri-morphie-web2-by-nixri.jpg?1634926991",
   "md5": "941A5CDBFBDE1A3BC1C5D2CC166182E5",
   "tags": [
-    ""
+    "",
+    "princess",
+    "toraji"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -117,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -23,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -32,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

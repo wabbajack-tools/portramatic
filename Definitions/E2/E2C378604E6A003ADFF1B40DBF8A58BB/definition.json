@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/originals/c4/81/90/c481904ebccae46aaa638c887493b9b2.jpg",
   "md5": "E2C378604E6A003ADFF1B40DBF8A58BB",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -57,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999997,
     "offset_x": 0,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

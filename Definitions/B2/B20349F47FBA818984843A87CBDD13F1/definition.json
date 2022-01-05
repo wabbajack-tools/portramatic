@@ -5,27 +5,57 @@
     "female",
     "warrior",
     "barbarian",
-    "fighter"
+    "fighter",
+    "concept",
+    "dragon",
+    "rider",
+    "costume",
+    "woman",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "pirate",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "duet",
+    "mikhail",
+    "palamarchuk",
+    "https://www",
+    "14\u5E74",
+    "\u5218",
+    "\u6768",
+    "https://www.artstation.com",
+    "cleansing",
+    "undead",
+    "clayscence"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -196,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -120,
     "offset_y": -236,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -60,
     "offset_y": -144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

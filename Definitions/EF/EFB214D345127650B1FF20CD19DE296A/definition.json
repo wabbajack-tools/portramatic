@@ -2,27 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1db88b3d-6af5-4d4e-b0e4-688c957e07e2/dc1nf5f-94564dc9-b251-4427-b981-267815cf5ea0.jpg/v1/fill/w_900,h_1392,q_75,strp/tsukiyama_by_ramartwork_dc1nf5f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM5MiIsInBhdGgiOiJcL2ZcLzFkYjg4YjNkLTZhZjUtNGQ0ZS1iMGU0LTY4OGM5NTdlMDdlMlwvZGMxbmY1Zi05NDU2NGRjOS1iMjUxLTQ0MjctYjk4MS0yNjc4MTVjZjVlYTAuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._-_GZVN-DpYp2ykGbvCInmAw-j_04NQoHhRvdPjrSiM",
   "md5": "EFB214D345127650B1FF20CD19DE296A",
   "tags": [
-    ""
+    "",
+    "dan",
+    "brereton",
+    "marvel",
+    "comics",
+    "dc",
+    "kirari",
+    "h2so4"
   ],
   "small": {
     "scale": 1.0399999999999991,
     "offset_x": -300,
     "offset_y": -249,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -99,
     "offset_y": -95,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": 0,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

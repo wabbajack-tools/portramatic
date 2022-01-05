@@ -18,27 +18,47 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "servant",
+    "drawing",
+    "queen",
+    "throne",
+    "league",
+    "legends",
+    "night",
+    "breeze",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "https://www.artstation.com/artwork/kn36w",
+    "\u919C",
+    "female",
+    "warlock",
+    "kim",
+    "herbst"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -500,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -375,
     "offset_y": -134,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -136,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

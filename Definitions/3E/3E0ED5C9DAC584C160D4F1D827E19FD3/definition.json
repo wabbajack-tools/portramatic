@@ -2,27 +2,52 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a23cf8f7-7f39-4e13-a7f2-6b9e7895dabe/de7vycu-992ccd77-1087-45b3-a1db-1e195ef063e3.png/v1/fill/w_1024,h_1444,q_80,strp/commission_309_by_soldagarius_de7vycu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0NCIsInBhdGgiOiJcL2ZcL2EyM2NmOGY3LTdmMzktNGUxMy1hN2YyLTZiOWU3ODk1ZGFiZVwvZGU3dnljdS05OTJjY2Q3Ny0xMDg3LTQ1YjMtYTFkYi0xZTE5NWVmMDYzZTMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.e4g2jGVepZLe-Hmssoj2jWBY_f0TVyNenan4l7622dY",
   "md5": "3E0ED5C9DAC584C160D4F1D827E19FD3",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "ra\u0027s",
+    "al",
+    "ghul",
+    "zhai",
+    "rui",
+    "dave",
+    "seeley",
+    "uploads",
+    "imperial",
+    "guards",
+    "ming",
+    "dynasty",
+    "ran",
+    "guo"
   ],
   "small": {
     "scale": 0.9999999999999991,
     "offset_x": -473,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -244,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -20,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

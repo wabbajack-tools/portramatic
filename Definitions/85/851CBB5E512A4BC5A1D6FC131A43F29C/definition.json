@@ -20,27 +20,36 @@
     "mercury",
     "demitsorou",
     "v",
-    "https://www"
+    "https://www",
+    "dragon",
+    "ball",
+    "af",
+    "yi",
+    "cong",
+    "legends"
   ],
   "small": {
     "scale": 1,
     "offset_x": -247,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -139,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -64,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -25,27 +25,34 @@
     "2020",
     "josuke",
     "ibu",
-    "o"
+    "o",
+    "smoke",
+    "smoking",
+    "cigarette",
+    "https://www"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -131,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -51,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -162,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

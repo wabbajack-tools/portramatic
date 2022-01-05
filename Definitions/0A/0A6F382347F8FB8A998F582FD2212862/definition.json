@@ -2,27 +2,55 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/013/148/487/large/danil-luzin-jester-v3.jpg?1538298935",
   "md5": "0A6F382347F8FB8A998F582FD2212862",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "rogue",
+    "bard",
+    "female",
+    "monk",
+    "dynasty",
+    "warriors",
+    "orochi",
+    "actionfigures",
+    "star",
+    "wars",
+    "toys",
+    "samurai",
+    "practice",
+    "elder",
+    "chen",
+    "https://www",
+    "velchisus",
+    "bageumi",
+    ".",
+    "warrior",
+    "eleanor",
+    "lamb",
+    "yunsu",
+    "kwon"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -273,
     "offset_y": -89,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -238,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -90,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

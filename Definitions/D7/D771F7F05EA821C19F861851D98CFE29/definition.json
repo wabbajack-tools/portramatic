@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/7a/23/f4/7a23f44d7d49e35c85e1b046877868c5.jpg",
   "md5": "D771F7F05EA821C19F861851D98CFE29",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "costume",
+    "clothing",
+    "evil",
+    "dark",
+    "knight",
+    "souls",
+    "elf",
+    "skyrim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "hero",
+    "bretagard",
+    "kilart",
+    "choe",
+    "heonhwa"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -159,
     "offset_y": -234,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -100,
     "offset_y": -181,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -90,
     "offset_y": -216,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

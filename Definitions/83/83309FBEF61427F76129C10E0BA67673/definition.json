@@ -2,25 +2,46 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be09312c-8c6c-4e48-8741-760b05942666/d5werfs-df34d66c-3538-475f-b192-d0afbee5d6e4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlMDkzMTJjLThjNmMtNGU0OC04NzQxLTc2MGIwNTk0MjY2NlwvZDV3ZXJmcy1kZjM0ZDY2Yy0zNTM4LTQ3NWYtYjE5Mi1kMGFmYmVlNWQ2ZTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nKq8coyEmgD6mtLd5ZWVZ3vjS5b132h9BM8Rjfpr9u4",
   "md5": "83309FBEF61427F76129C10E0BA67673",
   "tags": [
-    ""
+    "",
+    "minotaur",
+    "painting",
+    "character",
+    "demon",
+    "lightbringer",
+    "adri\u00E1n",
+    "prado",
+    "anxro",
+    "daa",
+    "mathias",
+    "ninot",
+    "arthas",
+    "lich",
+    "king",
+    "blizzard",
+    "inspired"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -550,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -276,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -205,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

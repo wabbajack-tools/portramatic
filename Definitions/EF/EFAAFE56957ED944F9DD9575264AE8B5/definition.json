@@ -4,27 +4,45 @@
   "tags": [
     "archer",
     "woman",
-    "half-elf"
+    "half-elf",
+    "league",
+    "legends",
+    "skyrim",
+    "legend",
+    "zelda",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "skirt",
+    "shoes",
+    "heels",
+    "witch",
+    "michael",
+    "wang"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -279.3333333333337,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -176.66666666666669,
     "offset_y": -14.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -20.000000000000227,
     "offset_y": -28.000000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

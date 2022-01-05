@@ -1,26 +1,49 @@
 {
-  "source": "https://preview.redd.it/a28ksmk8hjm71.jpg?auto=webp&s=259954a7c1c20a68fefed473c798a50355d2527d",
+  "source": "https://preview.redd.it/a28ksmk8hjm71.jpg?auto=webp\u0026s=259954a7c1c20a68fefed473c798a50355d2527d",
   "md5": "E5A6B26F7DD26A593C0CD755EDCCC255",
   "tags": [
-    ""
+    "",
+    "gears",
+    "war",
+    "wolf",
+    "pack",
+    "black",
+    "cat",
+    "werewolves",
+    "hobbit",
+    "shadow",
+    "dragon",
+    "xiangxian",
+    "lin",
+    "zennar",
+    "zalviit",
+    "lurker",
+    "antonio",
+    "j.",
+    "manzanedo"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -531.3333333333339,
     "offset_y": -206.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -617.3333333333335,
     "offset_y": -212.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -748.0000000000002,
     "offset_y": -188.0000000000001,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

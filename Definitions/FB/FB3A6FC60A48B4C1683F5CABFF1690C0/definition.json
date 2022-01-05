@@ -2,25 +2,41 @@
   "source": "https://i.pinimg.com/564x/99/05/58/9905582a6d05dcb3fa498484b92d6a6e.jpg",
   "md5": "FB3A6FC60A48B4C1683F5CABFF1690C0",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "glasses",
+    "alastor",
+    "moody",
+    "edgar",
+    "s\u00E1nchez",
+    "hidalgo"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -248,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -78,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -3,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

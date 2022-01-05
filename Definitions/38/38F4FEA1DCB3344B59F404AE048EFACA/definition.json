@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/36/fd/ec/36fdec455442dc589a11cf74ddf091ce.jpg",
   "md5": "38F4FEA1DCB3344B59F404AE048EFACA",
   "tags": [
-    ""
+    "",
+    "ocs",
+    "eclipse",
+    "anime",
+    "girl",
+    "kratos",
+    "dark",
+    "elf",
+    "undead",
+    "cowboy",
+    "jon",
+    "siva",
+    "mage",
+    "decay",
+    "barret",
+    "frymire",
+    "https://www.artstation.com/artwork/or6gg",
+    "2021",
+    "illustration",
+    "jorge",
+    "momparler"
   ],
   "small": {
     "scale": 1,
     "offset_x": -271,
     "offset_y": -308,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -185,
     "offset_y": -288,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 16,
     "offset_y": 36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

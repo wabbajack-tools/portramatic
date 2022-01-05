@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/e7/af/ae/e7afae812b1d7b5fc16a53bf3eb12e04.jpg",
   "md5": "5EE50DBF26E2561D84EDC6C0DB5FFBE7",
   "tags": [
-    ""
+    "",
+    "dark",
+    "mage",
+    "concept",
+    "elf",
+    "souls",
+    "character",
+    "black",
+    "assassin\u0027s",
+    "zhihui",
+    "su",
+    "design",
+    "characters",
+    "cultist",
+    "seeker",
+    "lucy-lisett",
+    "warrior",
+    "vadim",
+    "galuza",
+    "https://www.artstation.com/artwork/d8r94e"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -203,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -35,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -8,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

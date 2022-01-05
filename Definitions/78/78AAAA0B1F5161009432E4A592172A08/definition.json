@@ -1,28 +1,39 @@
 {
-  "source": "https://pbs.twimg.com/media/EZKfsj7UMAAf31W?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EZKfsj7UMAAf31W?format=jpg\u0026name=large",
   "md5": "78AAAA0B1F5161009432E4A592172A08",
   "tags": [
-    "kitsune"
+    "kitsune",
+    "cyber",
+    "ninja",
+    "armor",
+    "suits",
+    "dragon",
+    "core",
+    "inuyasha",
+    "kagome"
   ],
   "small": {
     "scale": 0.24999999999999933,
     "offset_x": -93,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -26,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -40,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

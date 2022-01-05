@@ -8,27 +8,40 @@
     "blonde",
     "sword",
     "silver",
-    "noble"
+    "noble",
+    "hobbit",
+    "skyrim",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -258,
     "offset_y": -62,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -92,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -54,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

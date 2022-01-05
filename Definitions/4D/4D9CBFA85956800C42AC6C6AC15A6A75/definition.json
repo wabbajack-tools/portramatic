@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/AXTkA1X.png",
   "md5": "4D9CBFA85956800C42AC6C6AC15A6A75",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "warrior",
+    "knight",
+    "drawing",
+    "cartoon",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "elder",
+    "scrolls",
+    "online",
+    "female",
+    "assassin",
+    "\u0027yeopo\u0027",
+    "three",
+    "kingdoms",
+    "reincarnates",
+    "planet",
+    "destroyer",
+    "legend",
+    "cryptids",
+    "norse",
+    "soldier",
+    "li",
+    "wenda"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -333,
     "offset_y": -287,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -111,
     "offset_y": -159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,32 +1,38 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Sp9yjcF0z0R3VZyuy2otDgHaKf%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Sp9yjcF0z0R3VZyuy2otDgHaKf%26pid%3DApi\u0026f=1",
   "md5": "3216787A5D2B9CB39797A3429DB3A981",
   "tags": [
     "male",
     "warrior",
     "concept",
     "dark",
-    "paladin"
+    "paladin",
+    "human",
+    "elf",
+    "character"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -20.999999999999886,
     "offset_y": -26.200000000000102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.770083333333333,
     "offset_x": -12.000000000000341,
     "offset_y": -34.400000000000205,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5688333333333342,
     "offset_x": -22.45370370370256,
     "offset_y": -12.768518518518476,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

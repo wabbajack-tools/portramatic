@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/62/dc/da/62dcda965e485f3b9891e59f6fe24b09.png",
   "md5": "A60EC78A9A5A1C97CD86EDD2A1D871D9",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "drawings",
+    "elf",
+    "orc",
+    "medieval",
+    "knights",
+    "female",
+    "assassin",
+    "spartan",
+    "path",
+    "exile",
+    "npc",
+    "pack",
+    "boss",
+    "roman",
+    "cinder",
+    "lana",
+    "monad",
+    "\u6B66\u50E7",
+    "\u5B81\u98DE",
+    "\u8BB8",
+    "character",
+    "portraits"
   ],
   "small": {
     "scale": 1,
     "offset_x": -146,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

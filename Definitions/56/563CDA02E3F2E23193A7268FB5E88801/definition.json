@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/736x/c8/c5/fd/c8c5fd6b919cfd964ce31ada9fc92da1--adrian-smith-dwarf.jpg",
   "md5": "563CDA02E3F2E23193A7268FB5E88801",
   "tags": [
-    ""
+    "",
+    "hill",
+    "dwarf",
+    "fighter",
+    "male",
+    "warrior",
+    "orc",
+    "warhammer",
+    "40k",
+    "barbarians",
+    "guard",
+    "daniel",
+    "zrom",
+    "dungeons",
+    "dragons",
+    "characters",
+    "dark",
+    "viking",
+    "for",
+    "honor",
+    "game",
+    "remko",
+    "troost",
+    "2021",
+    "honour",
+    "glass",
+    "cannon",
+    "crew",
+    "graey",
+    "erb",
+    "krijger"
   ],
   "small": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -168,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 60,
     "offset_y": 148,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

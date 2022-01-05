@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/originals/de/1f/48/de1f48bde8693d77b9d387d4dfe4a85d.jpg",
   "md5": "517821218FEA90BF366C54D18A5F37C1",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "tattoos",
+    "black",
+    "hair"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -41,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -49,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -86,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

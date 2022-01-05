@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/originals/fb/69/53/fb69534d0b86bd6ea4c57cb46252d8a0.png",
   "md5": "7F757C5519FD49844B7712DC292E05DA",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "pirate",
+    "steampunk",
+    "male"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -120,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -129,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -60,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

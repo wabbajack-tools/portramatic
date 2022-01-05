@@ -2,25 +2,48 @@
   "source": "https://i.pinimg.com/originals/32/40/b6/3240b6b88803a25c73fa60204df2ee68.jpg",
   "md5": "DC7092F24CF5C5744111223C5B3453E8",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "bard",
+    "human",
+    "league",
+    "legends",
+    "purple",
+    "feather",
+    "zhang",
+    "yifan",
+    "heroes",
+    "ar\u0441a",
+    "kat",
+    "kozhina",
+    "hunter",
+    "therrail",
+    "katya",
+    "cyan"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -566.6666666666666,
     "offset_y": -160.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -339.99999999999994,
     "offset_y": -102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000016,
     "offset_x": -362.66666666666606,
     "offset_y": -131.99999999999977,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

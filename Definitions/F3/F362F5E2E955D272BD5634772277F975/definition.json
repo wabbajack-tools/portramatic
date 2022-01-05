@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/736x/75/21/96/752196eed5f5fc480abecf0901f9b729--fantasy-images-character-design.jpg",
   "md5": "F362F5E2E955D272BD5634772277F975",
   "tags": [
-    ""
+    "",
+    "male",
+    "dwarf",
+    "fighter",
+    "knight",
+    "armor",
+    "plate",
+    "armors",
+    "dungeons",
+    "dragons",
+    "ting",
+    "xu",
+    "concept",
+    "characters",
+    "orcs",
+    "george",
+    "vostrikov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -226,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -152,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2,
     "offset_y": 58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

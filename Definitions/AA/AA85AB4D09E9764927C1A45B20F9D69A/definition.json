@@ -29,27 +29,57 @@
     "brunet",
     "dungeons",
     "dragons",
-    "characters"
+    "characters",
+    "warlock",
+    "female",
+    "male",
+    "assassin",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "druid",
+    "rodrigo",
+    "aguirre",
+    "llasera",
+    "futuristic",
+    "cyber",
+    "girl",
+    "ivor",
+    "tosic",
+    "soldier",
+    "near",
+    "future",
+    "design",
+    "shaun",
+    "sherman"
   ],
   "small": {
     "scale": 0.4099999999999994,
     "offset_x": -235,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999997,
     "offset_x": -91,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -6,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

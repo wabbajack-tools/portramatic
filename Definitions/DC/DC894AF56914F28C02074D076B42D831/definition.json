@@ -5,27 +5,44 @@
     "tiefling",
     "female",
     "mage",
-    "warrior"
+    "warrior",
+    "league",
+    "angels",
+    "gameplay",
+    "\u9AD8\u4E9A-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "character",
+    "goddess",
+    "succubus",
+    "kim(a-rang"
   ],
   "small": {
     "scale": 0.5500000000000007,
     "offset_x": -266.5,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3899999999999997,
     "offset_x": -68.5,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6606666666666665,
     "offset_x": -6,
     "offset_y": -25,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

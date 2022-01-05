@@ -2,27 +2,41 @@
   "source": "https://c.wallhere.com/photos/c0/9e/3840x2115_px_Geralt_Of_Rivia_The_Witcher_3_Wild_Hunt_Yennefer_Of_Vengerberg-567868.jpg!d",
   "md5": "9E19BD4BA4E46DA86E8C1C20F2AEFCFD",
   "tags": [
-    ""
+    "",
+    "yennefer",
+    "from",
+    "witcher",
+    "fan",
+    "screenshots",
+    "geralt",
+    "rivia",
+    "star",
+    "wars",
+    "old",
+    "republic"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -556,
     "offset_y": -216,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -376,
     "offset_y": -128,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -500,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

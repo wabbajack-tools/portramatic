@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/originals/e7/35/84/e73584d6703590f5e1d4fa3ee619cdc2.png",
   "md5": "EF09967517A81358D8268F50DFCCA278",
   "tags": [
-    ""
+    "",
+    "quasit",
+    "shirts",
+    "dd",
+    "dragons",
+    "dragon",
+    "claw",
+    "kratos",
+    "bronze",
+    "red",
+    "chupacabra",
+    "for",
+    "ark",
+    "survival",
+    "evovled",
+    "jesus",
+    "conde",
+    "fortnite",
+    "battle",
+    "royale",
+    "concept",
+    "jo\u00E3o",
+    "bragato"
   ],
   "small": {
     "scale": 1.5700000000000005,
     "offset_x": -635,
     "offset_y": -278,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -131,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7700000000000007,
     "offset_x": -443,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

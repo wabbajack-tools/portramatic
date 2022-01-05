@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/73/bf/a9/73bfa9f186e5a9444364c4b67b8d25e5.jpg",
   "md5": "979D49D871E3E76DE50E9311310EF75D",
   "tags": [
-    "Ashe"
+    "Ashe",
+    "lol",
+    "concept",
+    "league",
+    "fan",
+    "game",
+    "character",
+    "legends",
+    "anime",
+    "girl",
+    "diana",
+    "mortal",
+    "\u6478\u5934",
+    "https://www"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -209,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -49,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -64,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

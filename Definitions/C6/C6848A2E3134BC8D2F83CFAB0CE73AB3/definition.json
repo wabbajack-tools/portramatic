@@ -2,27 +2,63 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/212/687/large/adrian-prado-krynea-dark-knight2-copia.jpg?1442312875",
   "md5": "C6848A2E3134BC8D2F83CFAB0CE73AB3",
   "tags": [
-    ""
+    "",
+    "batman",
+    "actors",
+    "dark",
+    "knight",
+    "rises",
+    "villain",
+    "cast",
+    "souls",
+    "gears",
+    "war",
+    "demon",
+    "death",
+    "tempest",
+    "cleric",
+    "warforged",
+    "juggernaut",
+    "work-in-progress",
+    "pics",
+    "lily",
+    "abdullina",
+    "standing",
+    "sword",
+    "dude",
+    "manuel",
+    "casta\u00F1\u00F3n",
+    "concept",
+    "characters",
+    "character",
+    "fallen",
+    "paladin",
+    "lubomir",
+    "hij",
+    "https://www.artstation.com/artwork/bpbkd"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -195,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999932,
     "offset_x": -80,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -58,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

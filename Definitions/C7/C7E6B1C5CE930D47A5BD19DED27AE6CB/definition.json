@@ -6,32 +6,55 @@
     "america",
     "winter",
     "soldier",
-    "assassin's",
+    "assassin\u0027s",
     "creed",
     "revelations",
     "star",
     "wars",
-    "clone"
+    "clone",
+    "assassin",
+    "aurelius",
+    "augustinus",
+    "song",
+    "jie",
+    "afterlife",
+    "nat",
+    "martin",
+    "drow",
+    "male",
+    "elves",
+    "dark",
+    "elf",
+    "eyck",
+    "denesle",
+    "gwent",
+    "card",
+    "nemanja",
+    "stankovic",
+    "characters"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -266,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -92.53333333333336,
     "offset_y": -63.333333333333144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -104.6666666666664,
     "offset_y": -107.99999999999989,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

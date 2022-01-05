@@ -2,27 +2,70 @@
   "source": "https://i.pinimg.com/originals/17/c4/4a/17c44ab655c4478bb3130a318c26672b.jpg",
   "md5": "24728111BD333F561CF1F6B070EA5327",
   "tags": [
-    ""
+    "",
+    "female",
+    "full",
+    "plate",
+    "armor",
+    "half",
+    "woman",
+    "warrior",
+    "j.",
+    "scott",
+    "campbell",
+    "malificent",
+    "costume",
+    "halloween",
+    "costumes",
+    "catwoman",
+    "for",
+    "adults",
+    "character",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "rpg",
+    "set",
+    "09",
+    "ernesto",
+    "irawan",
+    "dungeons",
+    "dragons",
+    "\u6B66\u4FA0\u98CE\u7ACB\u7ED8",
+    "chen",
+    "zhan",
+    "skin",
+    "bones",
+    "collection",
+    "jo\u00E3o",
+    "bragato"
   ],
   "small": {
     "scale": 1,
     "offset_x": -600,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -197,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -128,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

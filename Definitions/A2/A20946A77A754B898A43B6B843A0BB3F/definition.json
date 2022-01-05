@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/f8/8f/e9/f88fe9739bcef0f580efcd761bb84e60.jpg",
   "md5": "A20946A77A754B898A43B6B843A0BB3F",
   "tags": [
-    ""
+    "",
+    "male",
+    "digital",
+    "head",
+    "game",
+    "thrones",
+    "corvo",
+    "attano",
+    "sketch",
+    "mohamed",
+    "saad",
+    "wilhelm",
+    "blackdale",
+    "bella",
+    "bergolts",
+    ".",
+    "jean",
+    "valjean-free",
+    "man",
+    "abbas",
+    "emadi"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -65,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -1,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -52,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

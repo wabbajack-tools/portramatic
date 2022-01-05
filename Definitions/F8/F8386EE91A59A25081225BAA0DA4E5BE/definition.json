@@ -32,27 +32,46 @@
     "patricia",
     "casarrubios",
     "patcas",
-    "2020"
+    "2020",
+    "elven",
+    "warrior",
+    "celtic",
+    "women",
+    "medieval",
+    "wolfman",
+    "duke",
+    "dylan",
+    "adv",
+    "randy",
+    "vargas",
+    "vargasni",
+    "dark",
+    "\u2605starflower",
+    "chocofing",
+    "r"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -152,
     "offset_y": -168,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -55,
     "offset_y": -139,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -26,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

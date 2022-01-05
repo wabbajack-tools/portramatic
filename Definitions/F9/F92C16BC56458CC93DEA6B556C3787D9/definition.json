@@ -5,27 +5,41 @@
     "ereshkigal",
     "fanart",
     "phichaya(scykiazor",
-    "boonton"
+    "boonton",
+    "skyrim",
+    "wood",
+    "elves",
+    "elder",
+    "scrolls",
+    "online",
+    "characters",
+    "bosmer",
+    "high",
+    "elf",
+    "dark"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -519.9999999999994,
     "offset_y": -35.59999999999832,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999998,
     "offset_x": -299.9999999999999,
     "offset_y": -27.200000000000102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -468.4629629629628,
     "offset_y": -17.416666666666742,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

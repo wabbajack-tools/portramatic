@@ -30,27 +30,42 @@
     "https://www.artstation.com/artwork/8plxe",
     "dongwoo",
     "kim",
-    "characters"
+    "characters",
+    "necromancer",
+    "dragon",
+    "medieval",
+    "knights",
+    "death",
+    "fortnite",
+    "grave",
+    "feather",
+    "skin",
+    "reilly",
+    "lohr",
+    "2021"
   ],
   "small": {
     "scale": 1,
     "offset_x": -219,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -188,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 20,
     "offset_y": 106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

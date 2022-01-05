@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/05/0c/15/050c15c3f0abf7649430da4d444ce192.jpg",
   "md5": "6EA4620E341E8C7B95E28144DF72EFFA",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "tattoos",
+    "men",
+    "drawings",
+    "warriors",
+    "orc",
+    "chaos",
+    "dragon",
+    "armor",
+    "heavy",
+    "viking_m",
+    "y",
+    "kaichen",
+    "yan\u0027s",
+    "submission",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "character",
+    "design",
+    "thor",
+    "god",
+    "sky",
+    "thunder",
+    "li",
+    "hao",
+    "norse"
   ],
   "small": {
     "scale": 1,
     "offset_x": -214,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -80,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 66,
     "offset_y": 96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://i.imgur.com/A355Czz.png",
   "md5": "B830AEE71D011200239803B9AAB8A1FB",
   "tags": [
-    "warrior"
+    "warrior",
+    "character",
+    "anime",
+    "black",
+    "knight",
+    "armor",
+    "dragon",
+    "concept",
+    "dark",
+    "elf",
+    "death",
+    "dungeons",
+    "dragons",
+    "\u5251\u58EB",
+    "chengtao",
+    "ma",
+    "characters",
+    "wendigo",
+    "alex",
+    "charleux",
+    "tinlef",
+    "ranger",
+    "monica",
+    "doss",
+    "2020"
   ],
   "small": {
     "scale": 1,
     "offset_x": -404,
     "offset_y": -227,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -267,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -38,
     "offset_y": 50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

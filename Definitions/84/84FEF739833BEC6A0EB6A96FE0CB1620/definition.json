@@ -17,25 +17,39 @@
     "female",
     "lingerie",
     "underwear",
-    ""
+    "",
+    "lera",
+    "pi",
+    "liriope",
+    "artist",
+    "yaretzi",
+    "divine",
+    "warrior",
+    "yoana-maria",
+    "nikolova"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -288,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -116,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -2,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

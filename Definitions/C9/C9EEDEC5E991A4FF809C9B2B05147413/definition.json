@@ -13,7 +13,7 @@
     "anime",
     "girl",
     "yu-gi-oh",
-    "5d's",
+    "5d\u0027s",
     "x.y",
     "ji",
     "kexin",
@@ -21,27 +21,51 @@
     "werewolf",
     "kill",
     "cc",
-    "cida"
+    "cida",
+    "grand",
+    "order",
+    "caster",
+    "code",
+    "geass",
+    "lelouch",
+    "rebellion",
+    "r2",
+    "fairy",
+    "tail",
+    "tales",
+    "abyss",
+    "saint",
+    "seiya",
+    "genshin",
+    "impact",
+    "jean",
+    "stl",
+    "books",
+    "\u0026",
+    "comics"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -82,
     "offset_y": -11.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -22.799999999999983,
     "offset_y": -1.3999999999999773,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -72.20000000000005,
     "offset_y": -6.600000000000023,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

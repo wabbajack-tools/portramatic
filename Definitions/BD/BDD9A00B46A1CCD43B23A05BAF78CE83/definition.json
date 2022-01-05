@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/ad/57/f8/ad57f865b1f20d7ab1497f50642e7490.jpg",
   "md5": "BDD9A00B46A1CCD43B23A05BAF78CE83",
   "tags": [
-    "Summoner"
+    "Summoner",
+    "epic",
+    "summoner\u0027s",
+    "war",
+    "characters",
+    "tier",
+    "list",
+    "david",
+    "goliath",
+    "dragon",
+    "age",
+    "origins",
+    "samira",
+    "fanart",
+    "thu",
+    "nguyen",
+    "pin"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -706,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -103,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -264,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

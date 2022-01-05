@@ -5,27 +5,48 @@
     "twilight",
     "darkmender",
     "alex",
-    "garner"
+    "garner",
+    "wonder",
+    "woman",
+    "artist",
+    "league",
+    "legends",
+    "sombra",
+    "angelica",
+    "alieva",
+    "https://www",
+    "star",
+    "guardian",
+    "zoe",
+    "lolittle",
+    "boy",
+    "vi",
+    "ragnarok",
+    "cassy",
+    "dale"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -45.60000000000008,
-    "offset_y": 1.7053025658242404e-13,
-    "size": "small"
+    "offset_y": 1.7053025658242404E-13,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
-    "offset_x": -1.1368683772161603e-13,
+    "offset_x": -1.1368683772161603E-13,
     "offset_y": -3.200000000000159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -22.86111111111154,
     "offset_y": -1.999999999999659,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/736x/ce/49/00/ce490003218cc4bcaf9be7fae3e3ca48.jpg",
   "md5": "28B11922064D06A469C0E7FED76490D1",
   "tags": [
-    ""
+    "",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "seok",
+    "jeon",
+    "warrior",
+    "knight",
+    "portraits",
+    "girl",
+    "wizard",
+    "sword.",
+    "inhyuk",
+    "lee",
+    "https://www.artstation.com/artwork/dpmee",
+    "jinju",
+    "choi",
+    "elf"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -159,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -1,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -84,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

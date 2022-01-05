@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/24/88/e3/2488e3db5d2c6df3ef39a4ed8f80985f.jpg",
   "md5": "C65A23C46C72DC5A73DFFBF7A364562E",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "armor",
+    "concept",
+    "character",
+    "lord",
+    "rings",
+    "godzilla",
+    "vs.",
+    "destroyah",
+    "arnold",
+    "von",
+    "winkelried",
+    "matias",
+    "cabezas",
+    "montoya",
+    "god",
+    "indian",
+    "gods",
+    "pagan",
+    "grotte",
+    "st\u00E9phane",
+    "poinsot",
+    "terminator",
+    "nicolas",
+    "siner",
+    "movies",
+    "movie"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -137,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -69,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -56,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

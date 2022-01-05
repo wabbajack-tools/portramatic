@@ -2,27 +2,50 @@
   "source": "https://safebooru.org//images/3250/fe019ea0e1b4edf863b946eb211aad22cb04d741.jpg",
   "md5": "8103F438B1CC01557DAA36C7394708BD",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "under_wear",
+    "socks",
+    "bottom_wear",
+    "skirt",
+    "shoes",
+    "boots",
+    "fgo",
+    "x",
+    "arknights",
+    "operator",
+    "tarasque",
+    "harlequin"
   ],
   "small": {
     "scale": 0.4299999999999996,
     "offset_x": -268,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -295,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -116,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

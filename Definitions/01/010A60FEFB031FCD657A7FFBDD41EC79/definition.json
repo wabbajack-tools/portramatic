@@ -2,27 +2,49 @@
   "source": "https://i.redd.it/p5vmc1odur481.jpg",
   "md5": "010A60FEFB031FCD657A7FFBDD41EC79",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warrior",
+    "female",
+    "pencil",
+    "drawings",
+    "names",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "uie",
+    "vu",
+    "nguyen",
+    "hydestudio",
+    "willow",
+    "returns",
+    "sam",
+    "rowan"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -175,
     "offset_y": -202,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -54,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -2,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

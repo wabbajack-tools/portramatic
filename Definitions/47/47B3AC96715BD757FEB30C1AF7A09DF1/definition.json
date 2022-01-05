@@ -2,27 +2,48 @@
   "source": "https://static.zerochan.net/The.Inquisitor.full.2137641.png",
   "md5": "47B3AC96715BD757FEB30C1AF7A09DF1",
   "tags": [
-    ""
+    "",
+    "light",
+    "v",
+    "dark",
+    "magic",
+    "painting",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\u0027\u0027",
+    "true",
+    "color",
+    "gary",
+    "kool"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -109,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -52,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -16,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

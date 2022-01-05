@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/ff/a6/25/ffa625d7f3f2c7007876e3a8539e4136.jpg",
   "md5": "18688D81F5C64EC77EEE9C20CE37F07E",
   "tags": [
-    ""
+    "",
+    "soldier",
+    "armor",
+    "concept",
+    "sci-fi",
+    "character",
+    "alien",
+    "samurai",
+    "knight",
+    "heavy",
+    "death",
+    "power",
+    "predator",
+    "assassin",
+    "practice2",
+    "xu",
+    "pengcheng",
+    "general",
+    "rework",
+    "kotatsu",
+    "g-rough",
+    "2020",
+    "design",
+    "rpg"
   ],
   "small": {
     "scale": 1,
     "offset_x": -507,
     "offset_y": 3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -430,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -234,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

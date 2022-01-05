@@ -2,27 +2,36 @@
   "source": "https://i.pinimg.com/474x/ec/2f/a0/ec2fa0308b46e433b90181604d36ad03.jpg",
   "md5": "37CEFD2CABA866FBE1FAF86B105BEB8F",
   "tags": [
-    ""
+    "",
+    "he-man",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "watch"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -93,
     "offset_y": -53,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -20,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -44,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

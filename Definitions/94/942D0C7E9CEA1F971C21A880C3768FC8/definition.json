@@ -2,27 +2,45 @@
   "source": "https://static.zerochan.net/Avenger.%28Antonio.Salieri%29.full.2382863.png",
   "md5": "942D0C7E9CEA1F971C21A880C3768FC8",
   "tags": [
-    ""
+    "",
+    "fate",
+    "zero",
+    "avenger",
+    "stay",
+    "night",
+    "angra",
+    "mainyu",
+    "animes",
+    "anime",
+    "girl",
+    "yugio",
+    "yugi",
+    "characters",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -189,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -195,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -52,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

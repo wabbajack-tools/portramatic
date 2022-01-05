@@ -2,27 +2,57 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/041/010/299/large/martina-fackova-img-20210901-151232-887.jpg?1630505611",
   "md5": "15744A790ABFDCB827861569194D62EA",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "dress",
+    "formal_dress",
+    "king",
+    "anthony",
+    "feliciano",
+    "westerosian",
+    "lineup",
+    "hunter",
+    "schulz",
+    "character",
+    "design",
+    "portraits",
+    "annabelle",
+    "comes",
+    "home",
+    "ferryman",
+    "luca",
+    "nemolato"
   ],
   "small": {
     "scale": 1,
     "offset_x": -688.666666666667,
     "offset_y": -15.3333333333334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -607.9999999999998,
     "offset_y": -24.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -441.33333333333303,
-    "offset_y": 1.1368683772161603e-13,
-    "size": "full"
+    "offset_y": 1.1368683772161603E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

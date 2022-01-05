@@ -1,28 +1,52 @@
 {
-  "source": "https://preview.redd.it/9aj98t23qw581.png?width=1384&format=png&auto=webp&s=b3c5ee7c74f916dc7290d07a9a6a9fec76df0a53",
+  "source": "https://preview.redd.it/9aj98t23qw581.png?width=1384\u0026format=png\u0026auto=webp\u0026s=b3c5ee7c74f916dc7290d07a9a6a9fec76df0a53",
   "md5": "EB4F0FE25938DA24376AA16D5403B7B8",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones",
+    "hobbit",
+    "lex",
+    "arcana",
+    "2021",
+    "andrea",
+    "piparo",
+    "arcanum",
+    "dark",
+    "character",
+    "modeling",
+    "thaw",
+    "lich",
+    "lord",
+    "dmitry",
+    "burmak",
+    "2020",
+    "cristallisation",
+    "romain",
+    "leguay"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -550,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -695,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -902,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

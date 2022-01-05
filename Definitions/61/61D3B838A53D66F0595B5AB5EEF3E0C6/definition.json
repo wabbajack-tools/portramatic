@@ -13,25 +13,53 @@
     "art",
     "dance",
     "costume",
-    ""
+    "",
+    "witcher",
+    "geralt",
+    "ghoul",
+    "werewolf",
+    "kratos",
+    "demon",
+    "hunter",
+    "abyss",
+    "dark",
+    "souls",
+    "centaur",
+    "masaki",
+    "hayashi",
+    "https://www.artstation.com/artwork/vdedz4",
+    "keeper",
+    "secrets",
+    "shalaxi",
+    "hellbane",
+    "vs",
+    "bloodthirster",
+    "jaime",
+    "martinez",
+    "warhammer"
   ],
   "small": {
     "scale": 1.0799999999999998,
     "offset_x": -389,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -126,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -22,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

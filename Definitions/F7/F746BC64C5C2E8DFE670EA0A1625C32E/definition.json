@@ -2,25 +2,53 @@
   "source": "https://i.pinimg.com/564x/25/1d/3c/251d3c760c13cc1f2e6f46b084579fe4.jpg",
   "md5": "F746BC64C5C2E8DFE670EA0A1625C32E",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "race",
+    "dark",
+    "elf",
+    "romance",
+    "three",
+    "kingdoms",
+    "female",
+    "pirate",
+    "illidan",
+    "worgen",
+    "hearthstone",
+    "fanart",
+    "cristina",
+    "arenas",
+    "poseidon",
+    "han",
+    "bing",
+    "https://www.artstation.com/artwork/poseidon-8dfa248e-aebc",
+    "2d",
+    "conceptart",
+    "moky",
+    "lin"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -205,
     "offset_y": -74,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -123,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

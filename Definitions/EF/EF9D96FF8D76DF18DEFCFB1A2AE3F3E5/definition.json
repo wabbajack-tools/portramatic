@@ -6,27 +6,42 @@
     "female",
     "mage",
     "bard",
-    "rogue"
+    "rogue",
+    "yuan-ti",
+    "monk",
+    "sorcerer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "martial",
+    "artist",
+    "diablo",
+    "fang"
   ],
   "small": {
     "scale": 1.1200000000000008,
     "offset_x": -371.5,
     "offset_y": -179,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -97.5,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0606666666666666,
     "offset_x": -62,
     "offset_y": -39,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

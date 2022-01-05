@@ -2,27 +2,36 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/017/447/243/large/hou-china-asset.jpg?1556031379",
   "md5": "4BF1033326D5908816A2159122F81B84",
   "tags": [
-    ""
+    "",
+    "christina",
+    "ricci",
+    "vexy",
+    "katy",
+    "perry",
+    "disney"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -211,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -97,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -22,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

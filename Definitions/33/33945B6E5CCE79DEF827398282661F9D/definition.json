@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/8f/34/de/8f34de8971c5d7ed12780ae89e767894.jpg",
   "md5": "33945B6E5CCE79DEF827398282661F9D",
   "tags": [
-    ""
+    "",
+    "alexander",
+    "chen",
+    "yi",
+    "li",
+    "artist",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "witcher",
+    "krynea",
+    "arcanist",
+    "david",
+    "benzal",
+    "https://www",
+    "12",
+    "veronika",
+    "kozlova",
+    "snowstormtrooper",
+    "jacek",
+    "babinski",
+    "star",
+    "wars"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -203,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -89,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -22,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

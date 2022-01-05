@@ -2,27 +2,40 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63a7bb11-3434-4a04-9f6f-0df9ea9ba1dd/dau6bow-ab54c112-f3e3-4298-a0c0-d7fadc07c09c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzYTdiYjExLTM0MzQtNGEwNC05ZjZmLTBkZjllYTliYTFkZFwvZGF1NmJvdy1hYjU0YzExMi1mM2UzLTQyOTgtYTBjMC1kN2ZhZGMwN2MwOWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QpzaIcx7k3Jedd7kDk1ejrmxysU_nJF7HMxDgjv7Jko",
   "md5": "532F89E824A493DEA5E07F1F33A4E54F",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "concept",
+    "maker",
+    "modern",
+    "game",
+    "thrones",
+    "hobbit",
+    "bride",
+    "frankenstein"
   ],
   "small": {
     "scale": 0.09974999999999946,
     "offset_x": -65.60000000000002,
     "offset_y": -16.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.13825000000000018,
     "offset_x": -2.400000000000091,
     "offset_y": -35.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.30866666666666304,
     "offset_x": -82.75925925925935,
     "offset_y": -68.87962962962968,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

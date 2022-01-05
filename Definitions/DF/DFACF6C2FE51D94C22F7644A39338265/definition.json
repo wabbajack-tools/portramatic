@@ -22,28 +22,39 @@
     "week",
     "7",
     "veli",
-    "nyström",
-    "creature"
+    "nystr\uFFFDm",
+    "creature",
+    "black",
+    "angle",
+    "hookwang",
+    "lee",
+    "women",
+    "spiderqueen",
+    "alien",
+    "xuxu"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -141,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -59,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": 0,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

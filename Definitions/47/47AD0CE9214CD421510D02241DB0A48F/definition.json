@@ -10,25 +10,46 @@
     "apparel",
     "photography",
     "photo",
-    ""
+    "",
+    "black",
+    "dragon",
+    "dragons",
+    "god",
+    "war",
+    "visual",
+    "development",
+    "vance",
+    "underworld\u0027s",
+    "sentinel",
+    "minjong",
+    "sin",
+    "dark",
+    "warlock",
+    "jorge",
+    "momparler"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -778,
     "offset_y": -224,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -416,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -570,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

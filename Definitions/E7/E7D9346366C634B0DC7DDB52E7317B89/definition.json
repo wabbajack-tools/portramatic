@@ -2,27 +2,41 @@
   "source": "https://cdn.donmai.us/original/e7/d9/__original_drawn_by_butcha_u__e7d9346366c634b0dc7ddb52e7317b89.jpg",
   "md5": "E7D9346366C634B0DC7DDB52E7317B89",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "helltaker",
+    "modeus",
+    "izhar",
+    "draws"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -443,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -247,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -396,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

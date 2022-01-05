@@ -6,27 +6,59 @@
     "female",
     "mage",
     "priest",
-    "queen"
+    "queen",
+    "legend",
+    "fan",
+    "lol",
+    "zombie",
+    "world",
+    "warcraft",
+    "rogue",
+    "league",
+    "legends",
+    "demons",
+    "dragons",
+    "dungeons",
+    "heroes",
+    "storm",
+    "orphea",
+    "devon",
+    "cady-lee",
+    "concept",
+    "\u5149\u901F\u5C0F\u5B50",
+    "yongqi",
+    "cheng",
+    "https://www.artstation.com/artwork/oowg6j",
+    "warrior",
+    "\u661F\u4E4B\u5B88\u62A4\u8005",
+    "zhenan",
+    "yuan",
+    "https://www.artstation.com/artwork/w2voy3",
+    "xayah",
+    "rakan"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -196.5,
     "offset_y": -311,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -108.5,
     "offset_y": -210,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -22,
     "offset_y": -27,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

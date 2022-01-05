@@ -21,27 +21,44 @@
     "hunting",
     "liko",
     "nicolas",
-    "nguyen"
+    "nguyen",
+    "elias",
+    "chatzoudis",
+    "pin",
+    "ups",
+    "valentine",
+    "sketches",
+    "\u0027memories",
+    "with",
+    "you\u0027",
+    "kyuyong",
+    "eom",
+    "agonni",
+    "luke",
+    "xie"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -709.0000000000001,
     "offset_y": -396,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -304,
     "offset_y": -226.33333333333348,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -180,
     "offset_y": -190,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

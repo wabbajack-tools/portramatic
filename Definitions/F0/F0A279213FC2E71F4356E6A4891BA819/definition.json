@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/6a/a2/82/6aa28267a10b4ed1b466c4a8b23de2f9.jpg",
   "md5": "F0A279213FC2E71F4356E6A4891BA819",
   "tags": [
-    ""
+    "",
+    "old",
+    "knight",
+    "halberd",
+    "pics",
+    "orc",
+    "warrior",
+    "orcs",
+    "m",
+    "ranger",
+    "med",
+    "armor",
+    "cloak",
+    "longsword",
+    "longbow",
+    "plains",
+    "steppe",
+    "farmland",
+    "hills",
+    "forest",
+    "from",
+    "persian",
+    "wil",
+    "chuan",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "horse",
+    "character"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -308,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -148,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

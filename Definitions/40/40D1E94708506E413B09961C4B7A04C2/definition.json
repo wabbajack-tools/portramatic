@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/5d/26/f0/5d26f035937cafb42c2bbf393d791756.jpg",
   "md5": "40D1E94708506E413B09961C4B7A04C2",
   "tags": [
-    ""
+    "",
+    "darkest",
+    "dungeon",
+    "heroes",
+    "character",
+    "leper",
+    "amon",
+    "vs",
+    "devilman",
+    "1/4",
+    "scale",
+    "statue",
+    "caleb",
+    "nefzen",
+    "artwork",
+    "tony",
+    "sart\u0027s",
+    "submission",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "design",
+    "darksiders",
+    "genesis",
+    "npc",
+    "colors",
+    "with",
+    "ludo",
+    "lullabi",
+    "billy",
+    "garretsen"
   ],
   "small": {
     "scale": 1.7300000000000006,
     "offset_x": -317,
     "offset_y": -541,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -32,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4900000000000004,
     "offset_x": -90,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

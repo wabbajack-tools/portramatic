@@ -10,27 +10,44 @@
     "character",
     "redesign",
     "supernatural",
-    "creature"
+    "creature",
+    "\uD83D\uDCA5",
+    "sylvanas",
+    "wildrunner",
+    "from",
+    "wow",
+    "3d",
+    "model",
+    "human",
+    "knight",
+    "jiwon",
+    "bak",
+    "women",
+    "mage",
+    "d-maat-q"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -1096,
     "offset_y": -543,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -319,
     "offset_y": -206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999969,
     "offset_x": -372,
     "offset_y": -274,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

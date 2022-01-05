@@ -2,25 +2,56 @@
   "source": "https://thew1ghtknight.files.wordpress.com/2015/02/tumblr_n8m8u2lm5i1rmzaluo2_r1_1280.jpg?w=840",
   "md5": "09FE4673ED60F296159E67D23D5F180D",
   "tags": [
-    "Qunari II"
+    "Qunari II",
+    "dragon",
+    "age",
+    "qunari",
+    "inquisition",
+    "elf",
+    "inquisitor",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "heavy",
+    "leather",
+    "medieval",
+    "knights",
+    "doug",
+    "adv",
+    "justice",
+    "wong",
+    "girl",
+    "su",
+    "jian.",
+    "concepts",
+    "concept",
+    "warriors",
+    "yerbol",
+    "bulentayev"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -125.33333333333334,
     "offset_y": -32.00000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
-    "offset_x": 1.1368683772161603e-13,
+    "offset_x": 1.1368683772161603E-13,
     "offset_y": -21.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": 47.99999999999977,
     "offset_y": -1.3333333333335986,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

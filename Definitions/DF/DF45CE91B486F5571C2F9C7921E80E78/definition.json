@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/a9/ae/95/a9ae9507657f14b82921c4984b753e80.jpg",
   "md5": "DF45CE91B486F5571C2F9C7921E80E78",
   "tags": [
-    ""
+    "",
+    "fire",
+    "mage",
+    "human",
+    "male",
+    "anime",
+    "guitar",
+    "hero",
+    "warriors",
+    "rock",
+    "azmodan",
+    "lord",
+    "sin",
+    "meng",
+    "xiangning",
+    "splash",
+    "ares",
+    "rx"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -250,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -70,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -62,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

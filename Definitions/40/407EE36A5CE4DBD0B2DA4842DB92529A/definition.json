@@ -10,27 +10,62 @@
     "character",
     "redesign",
     "supernatural",
-    "creature"
+    "creature",
+    "queen",
+    "sonic",
+    "game",
+    "marketa",
+    "belonoha",
+    "nude",
+    "beach",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "heels",
+    "\uC774\uC9D1\uD2B8",
+    "\uC5EC\uC2E0",
+    "yujin",
+    "byun",
+    "women",
+    "female",
+    "sorceress",
+    "comic",
+    "pictures",
+    "xygoddess",
+    "kai",
+    "ju",
+    "goddess",
+    "daniel",
+    "kim",
+    "beautiful"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -408,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -289,
     "offset_y": -153,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999967,
     "offset_x": -190,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/originals/9d/e6/66/9de66624fee59c2e8010c4dbabbc63f1.jpg",
   "md5": "30DCC2C9B03774D70B3201AF96A49718",
   "tags": [
-    ""
+    "",
+    "anime",
+    "half-elf",
+    "elf",
+    "wizard",
+    "pictures"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -65,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -16,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -46,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

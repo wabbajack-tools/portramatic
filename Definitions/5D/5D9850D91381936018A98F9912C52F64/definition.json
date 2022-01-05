@@ -2,27 +2,42 @@
   "source": "https://i.pinimg.com/736x/68/1c/23/681c23a971132c1e42a1c2597878926b.jpg",
   "md5": "5D9850D91381936018A98F9912C52F64",
   "tags": [
-    ""
+    "",
+    "princess",
+    "tiana",
+    "cake",
+    "party",
+    "invitations",
+    "nylah",
+    "name",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -59.99999999999994,
     "offset_y": -11.200000000000045,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -28.80000000000001,
     "offset_y": -3.1999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8100000000000007,
     "offset_x": -107.32407407407413,
     "offset_y": -3.203703703703468,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

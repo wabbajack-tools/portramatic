@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/fd/95/0e/fd950e534b1019be6160e6a668fa652d.png",
   "md5": "8AFDE1528A1CC6258538AA9193D447F2",
   "tags": [
-    ""
+    "",
+    "female",
+    "rogue",
+    "assassin",
+    "thief",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "\u5218\u5929\u8212-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "hunter",
+    "yardy",
+    "cat",
+    "characters",
+    "veronica",
+    "jones",
+    "maxime",
+    "delcambre",
+    "2020"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -237,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -2,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -48,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

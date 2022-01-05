@@ -2,27 +2,39 @@
   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Marie_M%C3%BCller_Landsknecht.jpg/445px-Marie_M%C3%BCller_Landsknecht.jpg",
   "md5": "73793C4B9F1711C5A32A1E99AF3EB4C5",
   "tags": [
-    ""
+    "",
+    "landsknecht",
+    "costume",
+    "painting",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "hat"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -175,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -49,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7100000000000006,
     "offset_x": -6,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/0e/ec/a7/0eeca750e95d182a54c093ad87e720f5.jpg",
   "md5": "4EAC538A5CA34AEF9CB100D3F9A95B79",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "fighter",
+    "sorcerer",
+    "ranger",
+    "leather",
+    "jackets",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "goldenxgreen",
+    "amirul",
+    "hhf",
+    "cyberpunk",
+    "sexy",
+    "devil",
+    "girl",
+    "halloween",
+    "eduardo",
+    "becerra"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -129,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -16,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

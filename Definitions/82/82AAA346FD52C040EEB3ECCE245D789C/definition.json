@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/74/06/d9/7406d9c59b40dcd318bf9661c0ea8fec.jpg",
   "md5": "82AAA346FD52C040EEB3ECCE245D789C",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "mercenaries",
+    "renaissance",
+    "mercenary",
+    "concept",
+    "assassin",
+    "leather",
+    "armor",
+    "knight",
+    "armors",
+    "vampire",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "monkey",
+    "king",
+    "pt",
+    "tacit",
+    "sign",
+    "studio",
+    "archer",
+    "rodrigo",
+    "a.",
+    "branco",
+    "warrior",
+    "sichen",
+    "wang",
+    "samurai"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -311,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -83,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -120,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

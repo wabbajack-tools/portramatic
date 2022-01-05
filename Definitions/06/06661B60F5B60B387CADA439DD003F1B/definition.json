@@ -18,27 +18,36 @@
     "harley",
     "quinn",
     "candra",
-    "gloomblade"
+    "gloomblade",
+    "blank",
+    "design",
+    "sketches",
+    "game",
+    "night",
+    "elf"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -293.20000000000107,
     "offset_y": -90.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -331.600000000003,
     "offset_y": -117.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -61.981481481481524,
     "offset_y": -40.42592592592621,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/736x/4e/30/5f/4e305f16185bb816d241c58fdc1053d2.jpg",
   "md5": "A5329597CB0013DCC39E1475A41C5EAA",
   "tags": [
-    ""
+    "",
+    "fox",
+    "character",
+    "design",
+    "kitsune",
+    "characters",
+    "female",
+    "drawing",
+    "lion",
+    "king",
+    "chinese",
+    "symbols",
+    "blazblue",
+    "blade",
+    "nare",
+    "q",
+    "peng",
+    "https://www",
+    "dragonborn",
+    "warrior",
+    "anthony",
+    "vanarsdale",
+    "ice",
+    "sun",
+    "qi",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1,
     "offset_x": -182,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -98,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": 4,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

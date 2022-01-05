@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/bb/3d/f7/bb3df7478b41acab08873a0f4d36fef0.jpg",
   "md5": "6F4AC99EA749B38501EB523DE8A43E4C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "angel",
+    "warrior",
+    "female",
+    "character",
+    "woman",
+    "horror",
+    "castlevania",
+    "symphony",
+    "night",
+    "lords",
+    "shadow",
+    "game",
+    "thrones",
+    "gund_adv",
+    "mansik",
+    "yang",
+    "characters",
+    "vampire",
+    "a",
+    "saucy",
+    "commander",
+    "warriors",
+    "\u201C#digitalart",
+    "#art",
+    "#2dart",
+    "#2dartist",
+    "#artstation",
+    "#tumblr",
+    "#artstagram"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0.8000000000000114,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -0.8000000000000114,
     "offset_y": 0.8000000000000114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

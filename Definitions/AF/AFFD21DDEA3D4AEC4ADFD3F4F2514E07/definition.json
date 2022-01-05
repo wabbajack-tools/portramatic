@@ -2,25 +2,54 @@
   "source": "https://i.pinimg.com/736x/58/7c/c7/587cc7ce800c1bf58fa471db120c55bb--sarah-kerrigan-starcraft-.jpg",
   "md5": "AFFD21DDEA3D4AEC4ADFD3F4F2514E07",
   "tags": [
-    ""
+    "",
+    "starcraft",
+    "kerrigan",
+    "ghost",
+    "zerg",
+    "queen",
+    "artwork",
+    "sarah",
+    "blades",
+    "sniper",
+    "warrior",
+    "diablo3",
+    "fanart",
+    "mo",
+    "li",
+    "http://www",
+    "basaltic",
+    "yan",
+    "yang",
+    "\u5C0F\u602A",
+    "jun",
+    "wang",
+    "artstation.",
+    "2019",
+    "creatures"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -188,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -211,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -488,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

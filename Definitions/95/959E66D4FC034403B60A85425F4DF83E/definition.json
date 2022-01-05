@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/736x/76/6e/56/766e56f62821fde112567c6cd69b99fa.jpg",
   "md5": "959E66D4FC034403B60A85425F4DF83E",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elves",
+    "warrior",
+    "elf",
+    "names",
+    "half",
+    "wood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "leaf",
+    "kurt",
+    "matson"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -145,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -1,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": 0,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

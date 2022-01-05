@@ -21,27 +21,42 @@
     "costume",
     "concept",
     "james",
-    "casey"
+    "casey",
+    "man",
+    "rain",
+    "lighthouse",
+    "guy",
+    "elder",
+    "scrolls",
+    "online",
+    "lord",
+    "rings",
+    "rimefang",
+    "nicole",
+    "cardiff"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -501,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -218,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -308,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

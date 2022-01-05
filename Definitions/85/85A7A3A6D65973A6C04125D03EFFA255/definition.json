@@ -2,27 +2,37 @@
   "source": "https://cdn.donmai.us/sample/65/81/sample-6581d9dcf9d54398d90fc8a23065e200.jpg",
   "md5": "85A7A3A6D65973A6C04125D03EFFA255",
   "tags": [
-    ""
+    "",
+    "yugio",
+    "yu-gi-oh",
+    "5d\u0027s",
+    "fie",
+    "claussell",
+    "esther",
+    "shen"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -390,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -49,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -138,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

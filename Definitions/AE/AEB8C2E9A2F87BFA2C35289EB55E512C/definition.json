@@ -2,27 +2,46 @@
   "source": "https://i.redd.it/7tglikteyst71.jpg",
   "md5": "AEB8C2E9A2F87BFA2C35289EB55E512C",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "snake",
+    "women",
+    "atanu",
+    "bhuiya",
+    "viking",
+    "shieldmaiden",
+    "jake",
+    "bartok"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -236,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -94,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -104,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

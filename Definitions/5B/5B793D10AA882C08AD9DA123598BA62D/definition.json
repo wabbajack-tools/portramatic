@@ -2,27 +2,36 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d36b48c6-11c6-4698-9f9e-fd0512f00fb9/d6wmpb3-3edd0757-f449-434c-a967-7a268afc8724.jpg/v1/fill/w_1600,h_2325,q_75,strp/elven_princess_by_noctique-d6wmpb3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzZiNDhjNi0xMWM2LTQ2OTgtOWY5ZS1mZDA1MTJmMDBmYjkvZDZ3bXBiMy0zZWRkMDc1Ny1mNDQ5LTQzNGMtYTk2Ny03YTI2OGFmYzg3MjQuanBnIiwid2lkdGgiOiI8PTE2MDAiLCJoZWlnaHQiOiI8PTIzMjUifV1dfQ.fXHE--XchRmRUXFn7B7XlE6tZBq20_Abp6KGP52EzqM",
   "md5": "5B793D10AA882C08AD9DA123598BA62D",
   "tags": [
-    ""
+    "",
+    "forest",
+    "elves",
+    "princess",
+    "hobbit",
+    "elf",
+    "wood"
   ],
   "small": {
     "scale": 0.16999999999999926,
     "offset_x": -33,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2099999999999993,
     "offset_x": -2,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46999999999999953,
     "offset_x": -32,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

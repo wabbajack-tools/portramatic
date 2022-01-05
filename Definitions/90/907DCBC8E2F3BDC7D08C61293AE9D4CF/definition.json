@@ -2,27 +2,62 @@
   "source": "http://db4sgowjqfwig.cloudfront.net/campaigns/72000/assets/624682/Devil_Woman.jpg?1470328272",
   "md5": "907DCBC8E2F3BDC7D08C61293AE9D4CF",
   "tags": [
-    ""
+    "",
+    "anime",
+    "witch",
+    "girl",
+    "black",
+    "cute",
+    "demon",
+    "death",
+    "knight",
+    "dark",
+    "elf",
+    "avengers",
+    "vampire",
+    "manga",
+    "angel",
+    "sk",
+    "lineage",
+    "victoria",
+    "sokolova",
+    "female",
+    "warrior",
+    "character",
+    "cgc",
+    "2016",
+    "artworks",
+    "chelsea",
+    "chen",
+    "gang",
+    "\u5361\u724C",
+    "frey",
+    "wong",
+    "werewolf",
+    "vs"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -154,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -15,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

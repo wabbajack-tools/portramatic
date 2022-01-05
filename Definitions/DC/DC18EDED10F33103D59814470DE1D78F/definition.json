@@ -2,27 +2,56 @@
   "source": "https://i.kym-cdn.com/photos/images/original/001/624/184/29c.png",
   "md5": "DC18EDED10F33103D59814470DE1D78F",
   "tags": [
-    ""
+    "",
+    "billy",
+    "mandy",
+    "marvel",
+    "comics",
+    "anime",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dnf",
+    "ladies",
+    "park",
+    "junkyu",
+    "girls",
+    "with",
+    "red",
+    "kuradoberi",
+    "jam",
+    "guilty",
+    "gear.",
+    "iosh",
+    "kun",
+    "commissions",
+    "salamandra",
+    "san"
   ],
   "small": {
     "scale": 0.28999999999999826,
     "offset_x": -334,
     "offset_y": -59,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999996,
     "offset_x": -327,
     "offset_y": -62,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3299999999999994,
     "offset_x": -64,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

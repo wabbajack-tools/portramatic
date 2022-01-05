@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/c6/96/b9/c696b9c0bfeba7bbbd269b13b646f8a3.jpg",
   "md5": "0F43F7CA3F6DE0DEF1FB05809AC4154B",
   "tags": [
-    ""
+    "",
+    "characters",
+    "game",
+    "thrones",
+    "pencil",
+    "drawings",
+    "book",
+    "witcher",
+    "hero",
+    "chinzoo",
+    "https://www",
+    "lashana",
+    "mercenary",
+    "david",
+    "martos",
+    "rpg",
+    "knock",
+    "knock...",
+    "mariusz",
+    "kozik"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -310,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -59,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -114,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

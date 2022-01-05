@@ -9,25 +9,51 @@
     "animal",
     "dinosaur",
     "reptile",
-    ""
+    "",
+    "warrior",
+    "knight",
+    "drawing",
+    "cartoon",
+    "anime",
+    "girl",
+    "fate",
+    "stay",
+    "night",
+    "dark",
+    "elf",
+    "velvet",
+    "crowe",
+    "tales",
+    "berseria",
+    "nabuco",
+    "88",
+    "blood",
+    "couple",
+    "todor",
+    "hristov"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -530,
     "offset_y": -288,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": -274,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -95,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

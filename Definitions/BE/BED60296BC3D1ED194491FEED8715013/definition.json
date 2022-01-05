@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/97/65/75/97657537b75435b1c3d443364a905fdb.jpg",
   "md5": "BED60296BC3D1ED194491FEED8715013",
   "tags": [
-    ""
+    "",
+    "horror",
+    "monster",
+    "shadowrun",
+    "concept",
+    "villain",
+    "j.",
+    "scott",
+    "campbell",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "magician",
+    "y",
+    "choi",
+    "\u0E0A\u0E38\u0E14\u0E2A\u0E27\u0E22",
+    "dark",
+    "elf",
+    "shuri",
+    "cat",
+    "girl",
+    "_",
+    "pluto_"
   ],
   "small": {
     "scale": 2.0599999999999996,
     "offset_x": -537,
     "offset_y": -165,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3500000000000003,
     "offset_x": -259,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -20,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

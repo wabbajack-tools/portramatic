@@ -1,29 +1,52 @@
 {
-  "source": "https://pbs.twimg.com/media/ENuEl05WoAAs4Uo?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/ENuEl05WoAAs4Uo?format=jpg\u0026name=large",
   "md5": "8F2C0B74378B2A2A236C4F6E5F7C97CC",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "cleric",
+    "character",
+    "portraits",
+    "warlock",
+    "dc",
+    "comics",
+    "marvel",
+    "rei_",
+    "design",
+    "challenge_",
+    "reddraws",
+    "melissa",
+    "spandri",
+    "sailor",
+    "moon",
+    "finnrys",
+    "stephanie",
+    "brown",
+    "https://www.artstation.com/artwork/ayn1v2",
+    "digital"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -146,
     "offset_y": -17.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -55,
     "offset_y": -6.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

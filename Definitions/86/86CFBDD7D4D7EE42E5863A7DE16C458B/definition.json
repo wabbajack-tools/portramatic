@@ -32,27 +32,31 @@
     "yueye",
     "gods",
     "character",
-    "inspiration"
+    "inspiration",
+    "sets"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -562.8000000000002,
     "offset_y": -71.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -424,
     "offset_y": -65.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -90.62037037036998,
     "offset_y": -30.240740740740648,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

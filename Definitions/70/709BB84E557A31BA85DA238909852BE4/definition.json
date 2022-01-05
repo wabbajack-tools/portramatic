@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/bc/b9/7e/bcb97e288fd3f330c9df5ea7d607555b.jpg",
   "md5": "709BB84E557A31BA85DA238909852BE4",
   "tags": [
-    ""
+    "",
+    "human",
+    "male",
+    "sorcerer",
+    "wizard",
+    "portraits",
+    "character",
+    "actionfigures",
+    "suit",
+    "armor",
+    "marvel",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "nazi",
+    "darko",
+    "rpg",
+    "set",
+    "09",
+    "ernesto",
+    "irawan",
+    "female",
+    "concept",
+    "elf",
+    "ranger"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -201,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -41,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

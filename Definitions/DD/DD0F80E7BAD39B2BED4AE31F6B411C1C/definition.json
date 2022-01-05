@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ef1aed0-8094-43e8-b823-adfd4d8b77f9/dc5o59r-2728995a-c479-430d-811e-b88d7760a75a.jpg/v1/fill/w_1280,h_1799,q_75,strp/eclipse_illustration_by_serspirit_dc5o59r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5OSIsInBhdGgiOiJcL2ZcLzRlZjFhZWQwLTgwOTQtNDNlOC1iODIzLWFkZmQ0ZDhiNzdmOVwvZGM1bzU5ci0yNzI4OTk1YS1jNDc5LTQzMGQtODExZS1iODhkNzc2MGE3NWEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OLqjTkRJBqvLBwbSxKPFHQVywYFNIet9Yls1oUA4mDk",
   "md5": "DD0F80E7BAD39B2BED4AE31F6B411C1C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "orcs",
+    "warhammer",
+    "40k",
+    "devil",
+    "ryu",
+    "akuma",
+    "brice",
+    "viard",
+    "balrog",
+    "morgoth",
+    "gabriel",
+    "tanko",
+    "eternal",
+    "servant",
+    "tim",
+    "guo"
   ],
   "small": {
     "scale": 1.5099999999999996,
     "offset_x": -747,
     "offset_y": -799,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -164,
     "offset_y": -158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -18,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,43 @@
   "source": "https://i.redd.it/epxgifnt8uu71.png",
   "md5": "2B9E1487893860ADB96DA37ED935E0C9",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "water",
+    "tiefling",
+    "hannah",
+    "waring",
+    "https://www",
+    "2b",
+    "liu",
+    "chih-fu"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -437,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -340,
     "offset_y": -89,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -308,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

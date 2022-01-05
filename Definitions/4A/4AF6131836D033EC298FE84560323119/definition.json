@@ -11,25 +11,58 @@
     "bow",
     "dancer",
     "mage",
-    "assassin"
+    "assassin",
+    "female",
+    "warrior",
+    "character",
+    "elven",
+    "woman",
+    "with",
+    "sword",
+    "suit",
+    "armor",
+    "paladin",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "lingerie",
+    "barbarian",
+    "girl",
+    "cheolseung",
+    "ok",
+    "kaiser_acher_01",
+    "kim",
+    "seung",
+    "uk",
+    "3d",
+    "white",
+    "glint",
+    "hyungwoo"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -454,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -114.60000000000002,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999995,
     "offset_x": -73.38888888888869,
     "offset_y": -31,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

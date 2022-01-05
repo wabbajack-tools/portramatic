@@ -2,27 +2,36 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c5201f8-5ebf-4487-a511-c2c643ee8ebd/dc82sx8-932202d2-4570-4eab-8a15-f8437d098552.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjNTIwMWY4LTVlYmYtNDQ4Ny1hNTExLWMyYzY0M2VlOGViZFwvZGM4MnN4OC05MzIyMDJkMi00NTcwLTRlYWItOGExNS1mODQzN2QwOTg1NTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tj3g1xCS99PUant5Hp5Pze2ejDYusmlIvqcuzPZFooA",
   "md5": "B46C380C27FC49A97C3E4D13D5B29EC9",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "briefs"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -338,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -56,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -56,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

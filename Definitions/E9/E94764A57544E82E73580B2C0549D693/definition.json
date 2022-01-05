@@ -12,27 +12,39 @@
     "concept",
     "tiefling",
     "bard",
-    "rogue"
+    "rogue",
+    "study",
+    "#8",
+    "elo\u00EFse",
+    "girard",
+    "lisya",
+    "#petcontest2018",
+    "olya",
+    "anufrieva",
+    "https://www.artstation.com/artwork/ba0v9r"
   ],
   "small": {
     "scale": 0.17599999999999583,
     "offset_x": -62,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.20516666666666467,
     "offset_x": -16,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.46266666666666945,
     "offset_x": -82,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

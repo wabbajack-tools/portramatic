@@ -7,27 +7,46 @@
     "tabaxi",
     "sorcerer",
     "divine",
-    "soul"
+    "soul",
+    "storm",
+    "male",
+    "elf",
+    "league",
+    "legends",
+    "sniper",
+    "ghost",
+    "warrior",
+    "ida",
+    "forman",
+    "rebecca",
+    "larst",
+    "rise",
+    "noodle",
+    "li",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.9300000000000006,
     "offset_x": -672,
     "offset_y": -370,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -172,
     "offset_y": -106,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -158,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

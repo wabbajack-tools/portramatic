@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/a2/7c/21/a27c219eb24b788e9ab7f64ad6f4f348.jpg",
   "md5": "6535FDF6DB8D48B9C9EF6EF7A8C317B0",
   "tags": [
-    ""
+    "",
+    "human",
+    "fighter",
+    "character",
+    "concept",
+    "portraits",
+    "female",
+    "pirate",
+    "assassin",
+    "high",
+    "elf",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "monkey",
+    "king",
+    "pt",
+    "tacit",
+    "sign",
+    "studio",
+    "dungeons",
+    "dragons",
+    "design",
+    "sheet",
+    "tina",
+    "wei",
+    "sketches",
+    "guard",
+    "katerina",
+    "kirillova",
+    "https://www.artstation.com/artwork/eenry"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -150,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -23,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2599999999999998,
     "offset_x": -4,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

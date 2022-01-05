@@ -1,26 +1,35 @@
 {
-  "source": "https://pbs.twimg.com/media/FHKicanWUAQLFtH?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/FHKicanWUAQLFtH?format=jpg\u0026name=large",
   "md5": "D44F304DD6A09FCA1584BA3D86EBFC1D",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "sketches",
+    "characters"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -244,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -76,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6399999999999997,
     "offset_x": -34,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

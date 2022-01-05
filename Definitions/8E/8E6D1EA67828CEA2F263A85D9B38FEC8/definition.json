@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/ff/43/50/ff4350cdb025226590bad0d70e189a7f.jpg",
   "md5": "8E6D1EA67828CEA2F263A85D9B38FEC8",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "arcane",
+    "trickster",
+    "dd",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "destruction\u00B4s",
+    "avatar",
+    "normal",
+    "version",
+    "joshua",
+    "cairos",
+    "agent",
+    "throne",
+    "blood",
+    "lies\uFF0Ccopyright",
+    "2017",
+    "games",
+    "workshop",
+    "limited",
+    "sidious",
+    "gladiators",
+    "dragon",
+    "isle",
+    "manthos",
+    "lappas"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -168,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -54,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -70,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

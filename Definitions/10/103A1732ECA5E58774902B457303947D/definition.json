@@ -22,27 +22,48 @@
     "greed",
     "matias",
     "trabold",
-    "rehren"
+    "rehren",
+    "anime",
+    "oc",
+    "sci-fi",
+    "male",
+    "characters",
+    "goblin",
+    "king",
+    "dungeons",
+    "dragons",
+    "creatures",
+    "dragon_01",
+    "cheolseung",
+    "_",
+    "artstation.",
+    "monster",
+    "t28",
+    "li",
+    "hh"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -656,
     "offset_y": -604,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -303,
     "offset_y": -327,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3499999999999994,
     "offset_x": -6,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

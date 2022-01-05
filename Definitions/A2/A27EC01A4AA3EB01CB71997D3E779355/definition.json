@@ -13,27 +13,40 @@
     "*",
     "https://www.artstation.com/artwork/eoggn",
     "domestic",
-    "cat"
+    "cat",
+    "medieval",
+    "wizard",
+    "g-d",
+    "song",
+    "https://www",
+    "she-ra",
+    "movie",
+    "concept",
+    "josh",
+    "w"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -635.4285714285706,
     "offset_y": -32.57142857142853,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -396.57142857142856,
     "offset_y": -26.28571428571439,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -360.0000000000002,
     "offset_y": -8.000000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

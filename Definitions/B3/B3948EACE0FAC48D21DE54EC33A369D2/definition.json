@@ -6,27 +6,47 @@
     "character",
     "design",
     "unique",
-    "witch"
+    "witch",
+    "heavy",
+    "armor",
+    "chinese",
+    "concept",
+    "\u6218\u56FD-\u6C49",
+    "zaki",
+    "zou",
+    "\u9E70",
+    "zefeng",
+    "yang",
+    "female",
+    "samurai",
+    "warrior",
+    "\u674E\u540C\u5B66",
+    "yiihuu",
+    "workshop",
+    "3d"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -214,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -100,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -151,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

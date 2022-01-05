@@ -2,27 +2,53 @@
   "source": "https://images.hdqwalls.com/download/angel-man-with-wings-dark-magic-art-ad-480x854.jpg",
   "md5": "822E3683DFB2094853E4E81936DE2693",
   "tags": [
-    ""
+    "",
+    "with",
+    "angelman",
+    "syndrome",
+    "angel",
+    "wing",
+    "logo",
+    "assassin",
+    "goblin",
+    "king",
+    "riven",
+    "a",
+    "thousand",
+    "voices",
+    "her",
+    "cookie",
+    "batman",
+    "murtaza",
+    "saeed",
+    "princess",
+    "adda",
+    "lorenzo",
+    "mastroianni",
+    "artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -117,
     "offset_y": -48,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -81,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 118,
     "offset_y": 82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

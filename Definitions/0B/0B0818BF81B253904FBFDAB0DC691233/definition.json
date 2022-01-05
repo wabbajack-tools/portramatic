@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/originals/2d/6f/3d/2d6f3d7056ce071390389d2c50ceb027.jpg",
   "md5": "0B0818BF81B253904FBFDAB0DC691233",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "anime",
+    "characters",
+    "girl",
+    "au",
+    "ra",
+    "bahamut",
+    "jessica",
+    "ong",
+    "alexandra",
+    "oc",
+    "commissioned",
+    "princess",
+    "power",
+    "nezuko",
+    "demon",
+    "slayer",
+    "hitokiri",
+    "nguyen"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -243,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -46,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -14,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

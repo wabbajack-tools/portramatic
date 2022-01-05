@@ -23,27 +23,44 @@
     "2020",
     "lady",
     "tate",
-    "s"
+    "s",
+    "josephine",
+    "wall",
+    "artwork",
+    "exotic",
+    "paintings",
+    "women",
+    "fairies",
+    "neanderthal",
+    "game",
+    "thrones",
+    "book",
+    "eli",
+    "cersei",
+    "lannister"
   ],
   "small": {
     "scale": 2.04,
     "offset_x": -137,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6800000000000006,
     "offset_x": -46,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.5299999999999896,
     "offset_x": -80,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

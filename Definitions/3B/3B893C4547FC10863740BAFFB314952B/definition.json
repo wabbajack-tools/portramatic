@@ -2,25 +2,58 @@
   "source": "https://i.pinimg.com/originals/b8/67/b9/b867b9904e03e9a20e5dfb522544c5cf.png",
   "md5": "3B893C4547FC10863740BAFFB314952B",
   "tags": [
-    ""
+    "",
+    "druid",
+    "character",
+    "elf",
+    "female",
+    "chaos",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "armors",
+    "knight",
+    "armor",
+    "demons",
+    "samurai",
+    "elven",
+    "ranger",
+    "caio",
+    "monteiro",
+    "https://www.artstation.com/artwork/n58gg1",
+    "bubidoba",
+    "fred",
+    "alm\u00E9n",
+    "dark",
+    "concept",
+    "characters",
+    "warlord",
+    "ni",
+    "yipeng",
+    "2020"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -160,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -43,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -20,
     "offset_y": 4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/001/597/272/large/cal-santiago-soulsborneportraits11-copy.jpg?1449196111",
   "md5": "9B338520B071F041D4AAEA8E1B19DDC6",
   "tags": [
-    ""
+    "",
+    "dark",
+    "souls",
+    "fan",
+    "4",
+    "pirates",
+    "caribbean",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "return",
+    "jedi",
+    "hobbit",
+    "maze",
+    "runner"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -124,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -61,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -44,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

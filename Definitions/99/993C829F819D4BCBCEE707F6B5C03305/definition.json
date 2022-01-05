@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/9a/ce/d6/9aced66643f446006045eceb37e4c808.jpg",
   "md5": "993C829F819D4BCBCEE707F6B5C03305",
   "tags": [
-    "swordmage"
+    "swordmage",
+    "half-orc",
+    "armor",
+    "dd",
+    "paladin",
+    "character",
+    "knight",
+    "medieval",
+    "knights",
+    "armors",
+    "kratos",
+    "death",
+    "gerodonna",
+    "roman",
+    "kupriianov",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "untitled",
+    "kun",
+    "xia",
+    "zbrush"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -82,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -48,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -22,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

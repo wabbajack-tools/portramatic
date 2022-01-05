@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/736x/ad/bc/7d/adbc7d5b0071a4541c0f138a11bd7e00.jpg",
   "md5": "3A61B960BB2D597547B3AFB0525A6925",
   "tags": [
-    ""
+    "",
+    "paladero",
+    "book",
+    "covers",
+    "jeremy",
+    "love",
+    "cute",
+    "creatures",
+    "cover",
+    "prehistoric",
+    "featured",
+    "pro",
+    "portfolio",
+    "hicham",
+    "habchi",
+    "magazine",
+    "anika",
+    "ageless",
+    "reiko",
+    "murakami",
+    "female",
+    "armor",
+    "character"
   ],
   "small": {
     "scale": 2.129999999999998,
     "offset_x": -533.9999999999993,
     "offset_y": -232.80000000000004,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5900000000000005,
     "offset_x": -258.53333333333336,
     "offset_y": -116.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.229999999999996,
     "offset_x": -309.3148148148148,
     "offset_y": -98.48148148148141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

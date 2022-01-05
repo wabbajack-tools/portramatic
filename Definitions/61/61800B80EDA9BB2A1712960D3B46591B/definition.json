@@ -3,27 +3,48 @@
   "md5": "61800B80EDA9BB2A1712960D3B46591B",
   "tags": [
     "magical",
-    "beautiful"
+    "beautiful",
+    "avacyn",
+    "mtg",
+    "forest",
+    "demon",
+    "dark",
+    "world",
+    "hobbit",
+    "sketch5-haotai-jiaojiefeng\uFF0C",
+    "business",
+    "cooperation\uFF1Ae-mail",
+    "htntart@qq.com",
+    "htar",
+    "t",
+    "blood",
+    "elf",
+    "paladin",
+    "oxana",
+    "reshetina"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -586,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -409,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -398,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

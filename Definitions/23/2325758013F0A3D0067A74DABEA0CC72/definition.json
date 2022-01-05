@@ -1,28 +1,54 @@
 {
-  "source": "https://th.bing.com/th/id/R.2325758013f0a3d0067a74dabea0cc72?rik=2g6Ppqc7LsYHwA&riu=http%3a%2f%2fwww.creativeuncut.com%2fgallery-23%2fart%2fhtdf-lion-warrior.jpg&ehk=1wpwplJXsZ%2bCYjS6IPaALwWPvgKQRr7HMWrYx%2bEX1s4%3d&risl=&pid=ImgRaw&r=0",
+  "source": "https://th.bing.com/th/id/R.2325758013f0a3d0067a74dabea0cc72?rik=2g6Ppqc7LsYHwA\u0026riu=http%3a%2f%2fwww.creativeuncut.com%2fgallery-23%2fart%2fhtdf-lion-warrior.jpg\u0026ehk=1wpwplJXsZ%2bCYjS6IPaALwWPvgKQRr7HMWrYx%2bEX1s4%3d\u0026risl=\u0026pid=ImgRaw\u0026r=0",
   "md5": "2325758013F0A3D0067A74DABEA0CC72",
   "tags": [
-    ""
+    "",
+    "armored",
+    "knight",
+    "dragon",
+    "armor",
+    "concept",
+    "design",
+    "plate",
+    "heavy",
+    "armors",
+    "samurai",
+    "iron",
+    "man",
+    "space",
+    "alessio",
+    "santino",
+    "tournament\u0027s",
+    "favorite",
+    "vladimir",
+    "buchyk",
+    "characters",
+    "study",
+    "jin-hong",
+    "park"
   ],
   "small": {
     "scale": 1,
     "offset_x": -315,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -265,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -78,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

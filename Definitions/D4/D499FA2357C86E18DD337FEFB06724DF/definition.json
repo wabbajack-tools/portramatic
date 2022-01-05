@@ -5,27 +5,53 @@
     "pathfinder",
     "monk",
     "jordankerbow",
-    "portrait"
+    "portrait",
+    "concept",
+    "fighter",
+    "rogue",
+    "character",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "panther",
+    "lord",
+    "aaron",
+    "habibipour",
+    "commissions",
+    "samuel",
+    "marcelino",
+    "https://www",
+    "elf",
+    "gladiotor",
+    "roderick",
+    "law"
   ],
   "small": {
     "scale": 0.1999999999999993,
     "offset_x": -107,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.18999999999999928,
     "offset_x": -33,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -18,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

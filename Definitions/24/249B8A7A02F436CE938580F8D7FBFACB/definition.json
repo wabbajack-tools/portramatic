@@ -5,27 +5,57 @@
     "human",
     "female",
     "mage",
-    "princess"
+    "princess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "pirate",
+    "nata",
+    ".",
+    "pirates",
+    "character",
+    "3d",
+    "https://www.artstation.com/artwork/z5grnz",
+    "girl",
+    "warrior",
+    "woman",
+    "characters",
+    "funpl",
+    "company",
+    "spell",
+    "chaser",
+    "choi",
+    "seyeon"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -579,
     "offset_y": -198,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47008333333333285,
     "offset_x": -311,
     "offset_y": -43,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -74,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

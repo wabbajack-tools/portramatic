@@ -18,27 +18,56 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "legend",
+    "cryptids",
+    "dragons",
+    "cards",
+    "elves",
+    "demon",
+    "hunter",
+    "lord",
+    "rings",
+    "coin-flipping",
+    "safecracker",
+    "billy",
+    "christian",
+    "https://www.artstation.com/artwork",
+    "huifang",
+    "adv.",
+    "laura",
+    "sava",
+    "women",
+    "oni",
+    "lonwa",
+    "a",
+    "character",
+    "inspiration",
+    "roleplay",
+    "characters"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -300,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -239,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -38,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

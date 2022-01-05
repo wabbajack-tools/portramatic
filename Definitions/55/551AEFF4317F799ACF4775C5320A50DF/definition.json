@@ -21,27 +21,41 @@
     "cowdery",
     "black",
     "anime",
-    "characters"
+    "characters",
+    "bear",
+    "warrior",
+    "denman",
+    "rooke",
+    "artstation.",
+    "ilustra\u00E7\u00F5es",
+    "personagens",
+    "de",
+    "rpg",
+    "character",
+    "artwork"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -251.39999999999986,
     "offset_y": -130.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.770083333333333,
     "offset_x": -294.80000000000047,
     "offset_y": -202.60000000000025,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0288333333333337,
     "offset_x": -325.99999999999864,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

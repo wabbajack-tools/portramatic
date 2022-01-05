@@ -2,27 +2,50 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/014/635/358/large/jianing-hu-slaanesh.jpg?1544781162",
   "md5": "D6840B9E5C1D5D0DDE3BDB84029AC4D3",
   "tags": [
-    ""
+    "",
+    "female",
+    "angel",
+    "demon",
+    "drawing",
+    "anime",
+    "dark",
+    "league",
+    "legends",
+    "vampire",
+    "lord",
+    "guilherme",
+    "batista",
+    "\u8C82\u8749",
+    "tong",
+    "da",
+    "reflections",
+    "gif",
+    "animation",
+    "\u2661kardie",
+    "art\u2665"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -192,
     "offset_y": -130,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -103,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

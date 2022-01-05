@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/e2/5a/3d/e25a3dd48794614e28316c67ffc7a543.jpg",
   "md5": "81520FE4201DBA1AD7BD4050C46CC1A6",
   "tags": [
-    "Antipaladin"
+    "Antipaladin",
+    "cleric",
+    "armor",
+    "human",
+    "character",
+    "concept",
+    "knight",
+    "assassin",
+    "samurai",
+    "dark",
+    "elf",
+    "heavy",
+    "medieval",
+    "knights",
+    "syton",
+    "kime",
+    "ivan",
+    "dedov",
+    "dedov\u0027s",
+    "submission",
+    "ancient",
+    "black",
+    "adam",
+    "suit",
+    "jarold",
+    "sng",
+    "2021"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -554,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -234,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -52,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -16,7 +16,7 @@
     "shoes",
     "boots",
     "heels",
-    "oceans&empires",
+    "oceans\u0026empires",
     "illust",
     "daeho",
     "cha",
@@ -26,27 +26,49 @@
     "yucheng",
     "xu",
     "yang",
-    "outfit"
+    "outfit",
+    "goo",
+    "baby",
+    "atkins",
+    "first",
+    "darth",
+    "maul",
+    "dark",
+    "elf",
+    "armors",
+    "black",
+    "sliver",
+    "jang",
+    "minho",
+    "https://www",
+    "\u4EBA\u7269\u5408\u96C6",
+    "tian",
+    "zi",
+    "yoon",
+    "seseon"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -741,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -426,
     "offset_y": -124,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -140,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

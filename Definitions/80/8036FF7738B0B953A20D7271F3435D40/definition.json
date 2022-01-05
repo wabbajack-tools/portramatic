@@ -4,27 +4,32 @@
   "tags": [
     "luis",
     "royo",
-    "women"
+    "women",
+    "tiefling",
+    "race"
   ],
   "small": {
     "scale": 0.13999999999999924,
     "offset_x": -44.4444444444498,
     "offset_y": -37.0000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -69.99999999999983,
     "offset_y": -56.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4399999999999995,
     "offset_x": -91.14395886889497,
     "offset_y": -25.77377892030887,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

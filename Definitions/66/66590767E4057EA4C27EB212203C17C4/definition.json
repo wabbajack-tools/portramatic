@@ -2,27 +2,57 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/705b1c70-b724-447d-9eea-4f3e76650a75/d91nlam-b24683b1-d09e-431f-9e2c-7a204c598384.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwNWIxYzcwLWI3MjQtNDQ3ZC05ZWVhLTRmM2U3NjY1MGE3NVwvZDkxbmxhbS1iMjQ2ODNiMS1kMDllLTQzMWYtOWUyYy03YTIwNGM1OTgzODQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G4oIMRhtqG4p8kj3_pEah_ytQ8RPnBzVlcnRToA3tNs",
   "md5": "66590767E4057EA4C27EB212203C17C4",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "characters",
+    "female",
+    "elf",
+    "cards",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "rabbit",
+    "tooth",
+    "ranto",
+    "kumbalaseta",
+    "mine",
+    "illustration",
+    "meridia",
+    "lady",
+    "infinite",
+    "energies",
+    "drawing",
+    "gif",
+    "lily",
+    "abdullina"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -523,
     "offset_y": -198,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -130,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -170,
     "offset_y": -156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,69 @@
   "source": "https://i.pinimg.com/564x/b2/6a/4d/b26a4d89b8abce9fc2e119cf57225594.jpg",
   "md5": "3F6DB14C508F0E2F716D561453897774",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "shadow",
+    "character",
+    "dark",
+    "elf",
+    "hooded",
+    "cloak",
+    "female",
+    "assassin",
+    "knight",
+    "coats",
+    "cloaks",
+    "robes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "concept",
+    "kibaek",
+    "lee",
+    "assassins",
+    "creed",
+    "batgirl",
+    "design",
+    "rahimi",
+    "aiman",
+    "artcade",
+    "countess",
+    "5518",
+    "studios",
+    "supernatural",
+    "girls",
+    "characters",
+    "creature"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -324,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -96,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -76,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

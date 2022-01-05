@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/736x/50/6d/c4/506dc4d87ce7a535ab3c95983b74391e.jpg",
   "md5": "9E27185999EBA80704620FD4C62F5953",
   "tags": [
-    ""
+    "",
+    "fairy",
+    "elf",
+    "cosplay",
+    "elven",
+    "costume",
+    "armor",
+    "catwoman",
+    "man",
+    "steel",
+    "archer",
+    "girl",
+    "game",
+    "ready",
+    "assets",
+    "black",
+    "cat",
+    "practice",
+    "maksym",
+    "anokhin"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -135,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": 0,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -6,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,46 @@
   "tags": [
     "female",
     "vampire",
-    "warrior"
+    "warrior",
+    "volcano",
+    "concept",
+    "lava",
+    "painting",
+    "fire",
+    "wizard",
+    "seol",
+    "hee",
+    "choi",
+    "spirit_kunoichi",
+    "east",
+    "river",
+    "magician",
+    "taekwon",
+    "kim",
+    "a-rang"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -628,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -409,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -222,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

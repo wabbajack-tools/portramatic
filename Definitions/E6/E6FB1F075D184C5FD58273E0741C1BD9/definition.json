@@ -7,25 +7,57 @@
     "final fantasy",
     "fish",
     "animal",
-    ""
+    "",
+    "demon",
+    "hunter",
+    "concept",
+    "armor",
+    "knight",
+    "female",
+    "assassin",
+    "actionfigures",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "witcher3",
+    "fanart",
+    "sungryun",
+    "park",
+    "witcher",
+    "bishop",
+    "x-men",
+    "ademir",
+    "leal",
+    "scarlet",
+    "septian",
+    "devenum"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -258.39999999999964,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -57.39999999999998,
     "offset_y": -34.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -22,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

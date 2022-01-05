@@ -2,27 +2,34 @@
   "source": "https://www.nawpic.com/media/2020/gojo-nawpic-18-500x894.jpg",
   "md5": "775B1130544F0B37F37E3867984DCB58",
   "tags": [
-    ""
+    "",
+    "blood",
+    "magic",
+    "fredrick",
+    "runtu"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -79.19999999999996,
     "offset_y": -70.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -52.799999999999955,
     "offset_y": -100.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -6.407407407407391,
     "offset_y": -38.44444444444457,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

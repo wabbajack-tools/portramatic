@@ -12,25 +12,53 @@
     "female",
     "ninja",
     "people",
-    ""
+    "",
+    "league",
+    "angels",
+    "gameplay",
+    "assassin",
+    "game",
+    "thrones",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "panties",
+    "shoes",
+    "heels",
+    "\u5D14\u9F99\u9F99-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "https://www.artstation.com/artwork",
+    "\u738B\u4E3D\u82F1-ycf-student",
+    "2020",
+    "warrior",
+    "\u6BDB\u540C\u5B66--\u7EBF\u4E0B\u96F6\u57FA\u7840\u73ED\u4F5C\u4E1A--beginner\u0027s",
+    "class"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -513,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -290,
     "offset_y": -132,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -90,
     "offset_y": -98,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

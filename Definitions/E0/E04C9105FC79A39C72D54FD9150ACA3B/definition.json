@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/14/d1/6e/14d16e075b991b85062af690a844dd91.jpg",
   "md5": "E04C9105FC79A39C72D54FD9150ACA3B",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "concept",
+    "character",
+    "sketch",
+    "chaos",
+    "warrior",
+    "heavy",
+    "armor",
+    "hunger",
+    "games",
+    "archer",
+    "artur",
+    "treffner",
+    "female",
+    "ogre",
+    "mage-arcane",
+    "gladiator",
+    "tcg",
+    "manthos",
+    "lappas"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

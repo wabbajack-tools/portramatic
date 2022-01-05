@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/98/88/98/98889826a9bdf83926af79bc7feaf39d.jpg",
   "md5": "11766E06A134F56ED810BCE69D808B33",
   "tags": [
-    ""
+    "",
+    "brandon",
+    "sanderson",
+    "stormlight",
+    "archive",
+    "parshendi",
+    "forms",
+    "kaladin",
+    "stormblessed",
+    "antti",
+    "hakosaari"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -155,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -97,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -14,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

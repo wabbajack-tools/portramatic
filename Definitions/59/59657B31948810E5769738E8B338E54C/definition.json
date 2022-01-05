@@ -24,27 +24,45 @@
     "traghettatore",
     "mauro",
     "dal",
-    "bo"
+    "bo",
+    "daily",
+    "work",
+    "hanjie",
+    "chen",
+    "wip",
+    "primal",
+    "mermaid",
+    "stephen",
+    "anderson",
+    "character",
+    "kim",
+    "changjin",
+    "steampunk",
+    "characters",
+    "concept"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -254.66666666666714,
     "offset_y": -65.66666666666652,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -138.66666666666674,
     "offset_y": -9.333333333333428,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -120.66666666666629,
     "offset_y": -12.000000000000341,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

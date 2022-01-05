@@ -23,27 +23,41 @@
     "lightning",
     "warlock",
     "igor",
-    "kosinov"
+    "kosinov",
+    "https://www.artstation.com/artwork/8ly8xm",
+    "2020",
+    "power",
+    "cold",
+    "kfairy",
+    "armor",
+    "evgeny",
+    "zakharov",
+    "scifi",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 0.5909166666666672,
     "offset_x": -377.6000000000035,
     "offset_y": -98.399999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3750833333333323,
     "offset_x": -127.19999999999993,
     "offset_y": -13.60000000000008,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8723333333333334,
     "offset_x": -325.1759259259252,
     "offset_y": -11.21296296296316,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

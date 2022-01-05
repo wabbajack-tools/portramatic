@@ -2,25 +2,45 @@
   "source": "https://i.pinimg.com/564x/04/43/08/0443081df9d3e7fb0136614fea1cb521.jpg",
   "md5": "32B741894EDA4C1EF98C982DCC034906",
   "tags": [
-    ""
+    "",
+    "ape",
+    "king",
+    "eladrin",
+    "black",
+    "dragon",
+    "hickory",
+    "horned",
+    "devil",
+    "demons",
+    "dungeons",
+    "dragons",
+    "2nd",
+    "edition",
+    "bestiary",
+    "chromatic"
   ],
   "small": {
     "scale": 2.369999999999993,
     "offset_x": -461,
     "offset_y": -423,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -25,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8900000000000008,
     "offset_x": -98,
     "offset_y": -57,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

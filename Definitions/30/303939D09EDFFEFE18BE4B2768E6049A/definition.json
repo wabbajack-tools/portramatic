@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/pfvsxfbywzj51.jpg?auto=webp&s=602ae4810d532b577379cf737b2419c0d0861944",
+  "source": "https://preview.redd.it/pfvsxfbywzj51.jpg?auto=webp\u0026s=602ae4810d532b577379cf737b2419c0d0861944",
   "md5": "303939D09EDFFEFE18BE4B2768E6049A",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 0.3499999999999994,
     "offset_x": -123,
     "offset_y": -127,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -47,
     "offset_y": -134,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -18,
     "offset_y": -216,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

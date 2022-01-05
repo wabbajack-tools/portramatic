@@ -2,27 +2,52 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/025/626/214/large/sanghyun-kam-2.jpg?1586392673",
   "md5": "F30101C0EBD07F27EBDC9180AA5EF3F3",
   "tags": [
-    ""
+    "",
+    "kenric",
+    "kotlc",
+    "books",
+    "drawings",
+    "man",
+    "steel",
+    "lord",
+    "rings",
+    "loki",
+    "for",
+    "thor",
+    "ragnarok",
+    "aleksi",
+    "briclot",
+    "https://www.artstation.com/artwork",
+    "hobbit",
+    "ringwraiths",
+    "weta",
+    "workshop",
+    "design",
+    "studio",
+    "concept"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -311,
     "offset_y": -255,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -357,
     "offset_y": -327,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -196,
     "offset_y": -334,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

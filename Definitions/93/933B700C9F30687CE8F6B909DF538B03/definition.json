@@ -2,27 +2,45 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/026/666/430/large/mikhail-palamarchuk-red-knight.jpg?1589388482",
   "md5": "933B700C9F30687CE8F6B909DF538B03",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "knight",
+    "armor",
+    "concept",
+    "female",
+    "fan",
+    "character",
+    "kim",
+    "ssang",
+    "https://www.artstation.com/artwork/v11exy",
+    "red",
+    "gunship",
+    "revolution",
+    "luthiel_character",
+    "design"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -530.8571428571429,
     "offset_y": -169.14285714285697,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -279.9999999999999,
     "offset_y": -125.14285714285711,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -44.57142857142844,
     "offset_y": -92.57142857142856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

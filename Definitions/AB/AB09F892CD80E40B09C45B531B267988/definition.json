@@ -2,27 +2,42 @@
   "source": "https://steamuserimages-a.akamaihd.net/ugc/488938036530848558/250BE13C6DFD615EABEBD96520C6CA10EEBCFC2C/",
   "md5": "AB09F892CD80E40B09C45B531B267988",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "wall",
+    "green",
+    "tattoo",
+    "dark",
+    "dragons",
+    "bronze",
+    "red",
+    "gold",
+    "blue",
+    "black",
+    "chinese"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -783,
     "offset_y": -342,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -466,
     "offset_y": -173,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3199999999999987,
     "offset_x": -606,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

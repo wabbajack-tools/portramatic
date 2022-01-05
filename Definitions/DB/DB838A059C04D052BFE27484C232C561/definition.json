@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/79/37/c9/7937c98adfac6a098b765e45b4710ebc.jpg",
   "md5": "DB838A059C04D052BFE27484C232C561",
   "tags": [
-    ""
+    "",
+    "armors",
+    "gothic",
+    "clothing",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "assassin\u0027s",
+    "creed",
+    "syndicate",
+    "jacob",
+    "outfit",
+    "07",
+    "title",
+    "warrior",
+    ".",
+    "artist",
+    "dongho",
+    "kang",
+    "from",
+    "#artstation",
+    "mow",
+    "sniper",
+    "nic",
+    "morales"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -218,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -11,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -2,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -29,27 +29,49 @@
     "warrior",
     "vicente",
     "molina",
-    "https://www"
+    "https://www",
+    "league",
+    "legends",
+    "halloween",
+    "wallpapers",
+    "pirates",
+    "caribbean",
+    "highland",
+    "scout",
+    "jp",
+    "targete",
+    "queen",
+    "coast",
+    "alessandro",
+    "musumeci",
+    "portal",
+    "defender",
+    "vladimir",
+    "matyukhin",
+    "ft"
   ],
   "small": {
     "scale": 1,
     "offset_x": -385.99999999999983,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -312.6666666666667,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -56,
     "offset_y": -6.6666666666667425,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -22,7 +22,7 @@
     "random",
     "sketch",
     "und",
-    "unveröffentlichte",
+    "unver\uFFFDffentlichte",
     "art.",
     "jeremy",
     "chong",
@@ -42,27 +42,48 @@
     "zack",
     "stella",
     "mtg",
-    "magic"
+    "magic",
+    "troll",
+    "warlock",
+    "drawing",
+    "undying",
+    "predator",
+    "chaos",
+    "zombies",
+    "damonin",
+    "emmanuel",
+    "bou",
+    "creatures",
+    "knights",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "berserker",
+    "jay",
+    "yang"
   ],
   "small": {
     "scale": 1.8000000000000007,
     "offset_x": -998,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -579,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -528,
     "offset_y": -130,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

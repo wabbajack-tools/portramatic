@@ -4,27 +4,51 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "assassin",
+    "g.i.joe",
+    "character",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "personal",
+    "work",
+    "ndoor",
+    "nam",
+    "hyeon",
+    "gwan",
+    "https://www.artstation.com/artwork/181lgg",
+    "yakuza",
+    "girl",
+    "plunderer",
+    "wonmi",
+    "choi",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -872.5,
     "offset_y": -238,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -298.5,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5906666666666662,
     "offset_x": -234,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

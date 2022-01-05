@@ -10,27 +10,51 @@
     "miss",
     "fortune",
     "league",
-    "legends"
+    "legends",
+    "woman",
+    "low",
+    "angle",
+    "perspective",
+    "model",
+    "girl",
+    "dress",
+    "dark",
+    "shuzea",
+    "implanted",
+    "a",
+    "devil",
+    "heart",
+    "legend",
+    "https://www.artstation.com/artwork/bb9a9",
+    "mtg",
+    "hero",
+    "bretagard",
+    "kilart",
+    "choe",
+    "heonhwa"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -1021.1999999999912,
     "offset_y": -126.19999999999726,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999998,
     "offset_x": -427.800000000002,
     "offset_y": -60.19999999999993,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -556.4074074074076,
     "offset_y": -29.787037037037067,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

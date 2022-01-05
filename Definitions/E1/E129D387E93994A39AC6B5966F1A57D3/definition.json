@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/da/89/f7/da89f76a45d16c8fe97c67469dcedb6a.jpg",
   "md5": "E129D387E93994A39AC6B5966F1A57D3",
   "tags": [
-    "tiefling"
+    "tiefling",
+    "female",
+    "armor",
+    "concept",
+    "nordic",
+    "warrior",
+    "elf",
+    "character",
+    "assassin",
+    "pirate",
+    "spider-man",
+    "lookout",
+    "john",
+    "thacker",
+    "https://www",
+    "\u4EBA\u7269\u6982\u5FF5",
+    "#2\u3002",
+    "darya",
+    "talipova",
+    "corsair",
+    "mage",
+    "design",
+    "rodrigo",
+    "rivas"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -298,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -238,
     "offset_y": -109,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -40,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/3e/4e/13/3e4e13947b6a765ed081cbc08ffb92e3.jpg",
   "md5": "BCBCC88CCB9EDD95CE4C739A251DFD16",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "princess",
+    "tattoo",
+    "cartoon",
+    "costume",
+    "leg",
+    "avenue",
+    "game",
+    "thrones",
+    "suit",
+    "armor",
+    "heavy",
+    "lord",
+    "rings",
+    "knight",
+    "dark",
+    "rises",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "female",
+    "wonjun",
+    "lee",
+    "mg",
+    "catwoman",
+    "john",
+    "taylor"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -402,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -23,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -50,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

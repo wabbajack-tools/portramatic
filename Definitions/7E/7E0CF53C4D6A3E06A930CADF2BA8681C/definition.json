@@ -2,27 +2,49 @@
   "source": "https://static.comicvine.com/uploads/original/11122/111220660/6618323-3460825797-1ecfc.jpg",
   "md5": "7E0CF53C4D6A3E06A930CADF2BA8681C",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "male",
+    "warrior",
+    "drow",
+    "mage",
+    "assassin",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "glasses",
+    "ylva",
+    "james",
+    "cathcart",
+    "https://www"
   ],
   "small": {
     "scale": 0.6715000000000001,
     "offset_x": -149,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5673333333333338,
     "offset_x": -7,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3079999999999998,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

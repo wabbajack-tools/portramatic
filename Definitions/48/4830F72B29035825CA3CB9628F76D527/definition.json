@@ -12,27 +12,44 @@
     "rafaela",
     "new",
     "skin",
-    "survey"
+    "survey",
+    "mu",
+    "origin",
+    "logo",
+    "character",
+    "wraith",
+    "sion",
+    "widjaja",
+    "paladin",
+    "shumolly",
+    ".",
+    "women",
+    "warrior",
+    "yan",
+    "yang"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -781.0000000000001,
     "offset_y": -292,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -443,
     "offset_y": -188.33333333333348,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -500,
     "offset_y": -162,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

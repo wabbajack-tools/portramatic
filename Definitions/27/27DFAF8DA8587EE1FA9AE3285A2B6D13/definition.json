@@ -22,27 +22,44 @@
     "suomela",
     "warcraft",
     "characters",
-    "world"
+    "world",
+    "hell",
+    "monsters",
+    "anime",
+    "fire",
+    "warrior",
+    "dark",
+    "angel",
+    "black",
+    "\u6218\u58EB",
+    "yz.",
+    "x",
+    "\u54C8\u8FEA\u65AF",
+    "god",
+    "open"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -436,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -201,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.0099999999999998,
     "offset_x": -224,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

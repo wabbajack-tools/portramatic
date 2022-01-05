@@ -12,27 +12,33 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "outer_wear",
-    "coat"
+    "coat",
+    "realm",
+    "mad",
+    "god"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -63.33333333333326,
     "offset_y": -25.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -55,
     "offset_y": -13.333333333333428,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -101.66666666666697,
     "offset_y": -7.0000000000001705,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

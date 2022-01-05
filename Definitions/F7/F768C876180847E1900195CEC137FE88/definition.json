@@ -1,28 +1,41 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7QDzMs5GdSrntOFIp8rAwwAAAA%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7QDzMs5GdSrntOFIp8rAwwAAAA%26pid%3DApi\u0026f=1",
   "md5": "F768C876180847E1900195CEC137FE88",
   "tags": [
-    "Alchemist"
+    "Alchemist",
+    "goblin",
+    "rogue",
+    "female",
+    "wizard",
+    "dungeons",
+    "dragons",
+    "barbarians",
+    "wood",
+    "elf",
+    "paladin"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -333,
     "offset_y": -170,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4300000000000004,
     "offset_x": -124,
     "offset_y": -113,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/da/75/3d/da753de61ccdbcb12a2acf6b41dd3a05.jpg",
   "md5": "378F1C0A2226936863411858695743A1",
   "tags": [
-    "Bloodrager"
+    "Bloodrager",
+    "fire",
+    "mage",
+    "male",
+    "female",
+    "witcher",
+    "reign",
+    "injustice",
+    "superman",
+    "rodrigo",
+    "puerto",
+    "evil",
+    "berserk",
+    "kuroi",
+    "kenshi",
+    "carlos",
+    "herrera"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -644,
     "offset_y": -228,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -276,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -120,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

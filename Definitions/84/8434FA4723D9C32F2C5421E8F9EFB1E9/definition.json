@@ -12,25 +12,47 @@
     "female",
     "ninja",
     "people",
-    ""
+    "",
+    "demons",
+    "firebase",
+    "rivergod",
+    "swang",
+    ".",
+    "https://www",
+    "dasa",
+    "2.0",
+    "q",
+    "vadan",
+    "creature",
+    "design",
+    "berserker",
+    "bluezima",
+    "dong-wook",
+    "shin",
+    "2020"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -625,
     "offset_y": -267,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -484,
     "offset_y": -203,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -374,
     "offset_y": -140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

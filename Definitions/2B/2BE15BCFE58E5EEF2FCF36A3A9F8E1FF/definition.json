@@ -29,27 +29,36 @@
     "skull",
     "eric",
     "et",
-    "https://www.artstation.com/artwork/lzrak"
+    "https://www.artstation.com/artwork/lzrak",
+    "sorceress",
+    "dragonborn",
+    "sorcerer",
+    "buffy",
+    "vampire",
+    "slayer"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -198.99999999999997,
     "offset_y": -60.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -74.33333333333326,
     "offset_y": -26.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -85.33333333333326,
     "offset_y": -62.66666666666674,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

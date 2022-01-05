@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6871ec28-a448-4d06-9bb4-099933fa1493/dcf3i90-ed8ca6ee-3567-4209-847b-de8f08999768.jpg/v1/fill/w_1024,h_1449,q_75,strp/when_a_spell_goes_wrong_by_nunchaku_dcf3i90-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcLzY4NzFlYzI4LWE0NDgtNGQwNi05YmI0LTA5OTkzM2ZhMTQ5M1wvZGNmM2k5MC1lZDhjYTZlZS0zNTY3LTQyMDktODQ3Yi1kZThmMDg5OTk3NjguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.R5P4WFEg0eT-M83dG8V1TKa1byQR4yluxrgDRcOkdPg",
   "md5": "3989669EE9BD76A201A8F44A9ABA3B55",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "akali",
+    "molly",
+    "konkle"
   ],
   "small": {
     "scale": 1.1599999999999993,
     "offset_x": -499,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -234,
     "offset_y": -58,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -8,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -12,7 +12,7 @@
     "game",
     "backgrounds",
     "mercenary",
-    "\"owl\"",
+    "\u0022owl\u0022",
     "mikhail",
     "palamarchuk"
   ],
@@ -20,21 +20,24 @@
     "scale": 0.5299999999999996,
     "offset_x": -337,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -304,
     "offset_y": -120,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -152,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

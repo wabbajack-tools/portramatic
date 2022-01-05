@@ -12,25 +12,57 @@
     "female",
     "ninja",
     "people",
-    ""
+    "",
+    "characters",
+    "fan",
+    "dark",
+    "anime",
+    "girl",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "under_wear",
+    "panties",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "\uCC9C\uC560\uBA85\uC6D4\uB3C4",
+    "\u5929\u6DAF\u660E\u6708\u5200",
+    "donfoo",
+    ".",
+    "warrior",
+    "irelia",
+    "redesign",
+    "ewa",
+    "labak",
+    "\uAE30\uC0AC",
+    "yeonji",
+    "kim"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -630,
     "offset_y": -433,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -433,
     "offset_y": -368,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -238,
     "offset_y": -232,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

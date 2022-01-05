@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/736x/e2/50/2a/e2502af02a6676bed77f40d99841efb9.jpg",
   "md5": "44BC644FC14B54FDDEAB91830907BF39",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "shadowrun",
+    "male",
+    "rogue",
+    "black",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "witch",
+    "gyu",
+    "bin",
+    "yun",
+    "elves",
+    "girl",
+    "only",
+    "n\u0027wahs",
+    "around",
+    "anna",
+    "helme",
+    "skyrim",
+    "elder",
+    "scrolls",
+    "maleficent",
+    "\u96F2",
+    "\u3053\u732B"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -91,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": 0,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -22,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

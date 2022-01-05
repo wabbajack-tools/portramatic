@@ -12,25 +12,60 @@
     "female",
     "ninja",
     "people",
-    ""
+    "",
+    "girl",
+    "viking",
+    "cartoon",
+    "character",
+    "warrior",
+    "design",
+    "armors",
+    "dragon",
+    "armor",
+    "knight",
+    "sets",
+    "daedric",
+    "assassin",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "exiled",
+    "christian",
+    "auer",
+    "characters",
+    "sketch",
+    "alina",
+    "fuhrmann",
+    "playing",
+    "concept",
+    "fencer",
+    "dahye",
+    "choi"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -603,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -468,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -190,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

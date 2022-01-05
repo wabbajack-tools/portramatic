@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/f9/74/1d/f9741d1435cb53df3638bfd3c89e3fa5.jpg",
   "md5": "09F86E45CA5CE6CF0422010501A74746",
   "tags": [
-    ""
+    "",
+    "holding",
+    "sword",
+    "pose",
+    "drawing",
+    "cartoon",
+    "character",
+    "with",
+    "reference",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

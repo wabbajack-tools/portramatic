@@ -2,27 +2,47 @@
   "source": "https://sgimage.netmarble.com/images/netmarble/sk2gb/20211208/h0fv1638929740289.jpg",
   "md5": "2F650DEB06BB4CCB375278128902B57B",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "dragon",
+    "wizard",
+    "maxi",
+    "hoy",
+    "https://www",
+    "aeswin",
+    "ainensiel",
+    "andrey",
+    "vasilchenko",
+    "necromancer",
+    "sergey",
+    "vasnev",
+    "nigromante"
   ],
   "small": {
     "scale": 1,
     "offset_x": -140,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -9,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -26,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

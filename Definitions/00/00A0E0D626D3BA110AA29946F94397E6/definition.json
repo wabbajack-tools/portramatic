@@ -7,27 +7,52 @@
     "daeho",
     "cha",
     "mu",
-    "origin"
+    "origin",
+    "angel",
+    "warrior",
+    "armor",
+    "wings",
+    "anime",
+    "girl",
+    "characters",
+    "bleach",
+    "nessi",
+    "league",
+    "angels",
+    "ophelia",
+    "divination",
+    "wizard",
+    "peter",
+    "eastwood",
+    "halfling",
+    "mage",
+    "cedric",
+    "cunanan",
+    "2021",
+    "design"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -824.7999999999994,
     "offset_y": -304.8000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -252.39999999999998,
     "offset_y": -42.39999999999992,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -206.65740740740762,
     "offset_y": -8.018518518518704,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

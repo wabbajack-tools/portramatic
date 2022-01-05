@@ -2,27 +2,45 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/551/885/medium/klaudia-bezak-13.jpg?1568217462",
   "md5": "3D80C0AA8A6DC8ECF217034AA438FF4B",
   "tags": [
-    ""
+    "",
+    "female",
+    "thief",
+    "medieval",
+    "concept",
+    "pirate",
+    "cold",
+    "aleksei",
+    "vinogradov",
+    "strain",
+    "erik",
+    "rose",
+    "character",
+    "design",
+    "jingyu",
+    "shen"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -203,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -95,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -72,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -38,27 +38,47 @@
     "journey",
     "carolin",
     "aust",
-    "druid"
+    "druid",
+    "human",
+    "drawings",
+    "assassin",
+    "orcs",
+    "dragon",
+    "armor",
+    "haohmaru",
+    "brolo",
+    "gryphon",
+    "hero",
+    "a",
+    "bubu",
+    "https://www",
+    "god",
+    "killer",
+    "gabriel",
+    "loza"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -342,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -139,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -78,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

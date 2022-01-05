@@ -5,27 +5,50 @@
     "sun",
     "khamunaki",
     "red",
-    "sonja"
+    "sonja",
+    "dark",
+    "link",
+    "zelda",
+    "lil",
+    "darkie",
+    "character",
+    "dominica",
+    "carnival",
+    "league",
+    "legends",
+    "warriors",
+    "2010",
+    "qiao",
+    "an",
+    "syndra",
+    "mishary",
+    "shin",
+    "ootengu",
+    "ye",
+    "yuan"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -404,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -289,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -296,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

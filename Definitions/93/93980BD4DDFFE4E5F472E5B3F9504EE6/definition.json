@@ -2,27 +2,52 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/040/438/289/large/jinyoung-son-6.jpg?1628847061",
   "md5": "93980BD4DDFFE4E5F472E5B3F9504EE6",
   "tags": [
-    ""
+    "",
+    "wood",
+    "elf",
+    "high",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "wizard",
+    "women",
+    "junsu",
+    "shin",
+    "good",
+    "water",
+    "character",
+    "design",
+    "geumsil",
+    "lee",
+    "ranger",
+    "game",
+    "assets"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -442,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -307,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -238,
     "offset_y": -148,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

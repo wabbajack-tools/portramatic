@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/736x/e6/86/c6/e686c6623ca965112bae625461366eda.jpg",
   "md5": "F5D63DD6A0F4DAB1F0C9D8D8FE499F9B",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elves",
+    "elf",
+    "male",
+    "warrior",
+    "drawing",
+    "witch",
+    "king",
+    "angmar",
+    "only",
+    "n\u0027wahs",
+    "around",
+    "anna",
+    "helme",
+    "elder",
+    "scrolls",
+    "moonlight",
+    "kelly",
+    "perry",
+    "predator\u2014\u2014giant",
+    "mist",
+    "xg",
+    "https://www.artstation.com/artwork/qv6ea"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -114,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

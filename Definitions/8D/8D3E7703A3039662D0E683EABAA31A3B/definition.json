@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/736x/f4/be/5d/f4be5d2437b5ea469ebe9704c7fca976.jpg",
   "md5": "8D3E7703A3039662D0E683EABAA31A3B",
   "tags": [
-    ""
+    "",
+    "lothlorien",
+    "trees",
+    "lotr",
+    "lego",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "death",
+    "knight",
+    "spartan",
+    "bonecarver",
+    "www.redpencilart.com",
+    "red",
+    "pencil",
+    "\u0444\u044D\u043D\u0442\u0435\u0437\u0438",
+    "\u0442\u0430\u0442\u0443\u0438\u0440\u043E\u0432\u043A\u0438",
+    "\u0432\u043E\u0438\u043D\u043E\u0432",
+    "blind",
+    "slayer",
+    "nor",
+    "carlos",
+    "cabrera",
+    "2016",
+    "7",
+    "kiki",
+    "bu"
   ],
   "small": {
     "scale": 1,
     "offset_x": -203,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -147,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -42,
     "offset_y": 20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

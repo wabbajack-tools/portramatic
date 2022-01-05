@@ -10,25 +10,49 @@
     "book",
     "angel",
     "archangel",
-    ""
+    "",
+    "nicol",
+    "bolas",
+    "planeswalker",
+    "mtg",
+    "card",
+    "dynasty",
+    "warriors",
+    "lord",
+    "rings",
+    "league",
+    "angels",
+    "bloody",
+    "sloth",
+    "ben",
+    "weez",
+    "predator",
+    "fanart",
+    "fabiano",
+    "fabris"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -239,
     "offset_y": -93,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -101,
     "offset_y": -3.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -62,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

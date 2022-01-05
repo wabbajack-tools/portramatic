@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/736x/9a/e6/0f/9ae60fb765051f3d83416e0fb0d412bb.jpg",
   "md5": "31F97D2331EAB9469938B5502ADF48D7",
   "tags": [
-    ""
+    "",
+    "nameless",
+    "kof",
+    "king",
+    "fighters",
+    "reaper",
+    "souls",
+    "league",
+    "legends",
+    "orc",
+    "shaman",
+    "kin",
+    "chan",
+    "with",
+    "bloodborne",
+    "accursed",
+    "brew",
+    "fan",
+    "project",
+    "female",
+    "warlock",
+    "kim",
+    "herbst"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -193,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -241,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -28,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

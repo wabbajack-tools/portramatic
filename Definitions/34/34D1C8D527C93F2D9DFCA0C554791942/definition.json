@@ -2,27 +2,57 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d1a2036-ff8f-484f-b185-5604d64eaa0b/d8z6iow-a8b749ae-f08a-4737-83d7-efeb55c1ed54.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkMWEyMDM2LWZmOGYtNDg0Zi1iMTg1LTU2MDRkNjRlYWEwYlwvZDh6Nmlvdy1hOGI3NDlhZS1mMDhhLTQ3MzctODNkNy1lZmViNTVjMWVkNTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._FTYG0PJoEx_-2x4L8kkiBCHqXIFmw24YZNWYWuqyxc",
   "md5": "34D1C8D527C93F2D9DFCA0C554791942",
   "tags": [
-    ""
+    "",
+    "norse",
+    "viking",
+    "warrior",
+    "male",
+    "fur",
+    "armor",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "z",
+    "\u5F18\u6BC5",
+    "\u674E",
+    "https://www.artstation.com",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "soullamp",
+    "walker",
+    "lee",
+    "kent"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -320,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -205,
     "offset_y": -199,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -2,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

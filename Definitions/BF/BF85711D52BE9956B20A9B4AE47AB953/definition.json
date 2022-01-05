@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/81/af/45/81af45071db60250f5f3187643349899.jpg",
   "md5": "BF85711D52BE9956B20A9B4AE47AB953",
   "tags": [
-    ""
+    "",
+    "elf",
+    "blood",
+    "hunter",
+    "tiefling",
+    "elder",
+    "scrolls",
+    "online",
+    "heavy",
+    "armor",
+    "actionfigures",
+    "predator",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "medieval",
+    "guard",
+    "ksenia",
+    "kim"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -266,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -61,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -20,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

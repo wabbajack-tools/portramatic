@@ -4,29 +4,37 @@
   "tags": [
     "kyuyong",
     "eom",
-    "&#39;black",
-    "moth&#39;s",
-    "dream&#39"
+    "\u0026#39;black",
+    "moth\u0026#39;s",
+    "dream\u0026#39",
+    "legend",
+    "cryptids",
+    "female",
+    "kraken",
+    "concept"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -395,
     "offset_y": -137,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -130,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -4,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

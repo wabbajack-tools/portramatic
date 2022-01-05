@@ -9,27 +9,36 @@
     "merilliza",
     "chan",
     "dungeons",
-    "dragons"
+    "dragons",
+    "swimsuits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -396,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -226,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -318,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

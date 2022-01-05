@@ -2,27 +2,47 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06f6a4f8-8ce1-49a3-80e3-a8fde7a589de/def3vpa-492c61b1-88e1-4239-83cf-525b1dbdee81.jpg/v1/fill/w_800,h_1132,q_75,strp/gavam_dorom_by_hifarry_def3vpa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcLzA2ZjZhNGY4LThjZTEtNDlhMy04MGUzLWE4ZmRlN2E1ODlkZVwvZGVmM3ZwYS00OTJjNjFiMS04OGUxLTQyMzktODNjZi01MjViMWRiZGVlODEuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lThYVGQCKup5TWz00uGqi2O_55wA1vl5Cn5rU6su1DA",
   "md5": "5C8E25DC94EEE6FB046F44CC76C7156F",
   "tags": [
-    ""
+    "",
+    "world",
+    "warcraft",
+    "rogue",
+    "mayan",
+    "warrior",
+    "benjamin",
+    "harris",
+    "siberna",
+    "nick",
+    "silva",
+    "dungeons",
+    "dragons",
+    "characters",
+    "character",
+    "cobra-la",
+    "aron",
+    "elekes"
   ],
   "small": {
     "scale": 1.4599999999999995,
     "offset_x": -502,
     "offset_y": -276,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -175,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -4,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

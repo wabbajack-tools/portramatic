@@ -1,28 +1,39 @@
 {
-  "source": "https://external-preview.redd.it/f1B0OZBO7HQYzFzQDBV9NN2pN_q6NzR4f3L3-AACCbA.jpg?width=640&crop=smart&auto=webp&s=a694af8e0e3d9d02b61d8346f124efb47d557188",
+  "source": "https://external-preview.redd.it/f1B0OZBO7HQYzFzQDBV9NN2pN_q6NzR4f3L3-AACCbA.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=a694af8e0e3d9d02b61d8346f124efb47d557188",
   "md5": "AD68383B486BBDA566A880E1D3A3BAEC",
   "tags": [
-    ""
+    "",
+    "fire",
+    "emblem",
+    "soldier",
+    "if",
+    "reina",
+    "knight",
+    "armor",
+    "armors"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -197,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -95,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

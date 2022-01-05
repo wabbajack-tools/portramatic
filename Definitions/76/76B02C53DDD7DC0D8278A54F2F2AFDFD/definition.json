@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/f2/47/d0/f247d02a8a3845d54a9dab31e14faa5f.jpg",
   "md5": "76B02C53DDD7DC0D8278A54F2F2AFDFD",
   "tags": [
-    ""
+    "",
+    "elf",
+    "girl",
+    "concept",
+    "character",
+    "design",
+    "high",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "patrick",
+    "balou\u0027s",
+    "submission",
+    "legend",
+    "king",
+    "arthur",
+    "rogue",
+    "qingkai",
+    "yang",
+    "characters",
+    "portraits",
+    "kessa",
+    "bard",
+    "monica",
+    "doss",
+    "inspiration"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -258,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -85,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -10,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

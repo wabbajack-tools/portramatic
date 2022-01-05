@@ -2,27 +2,54 @@
   "source": "https://i.imgur.com/Dk4ousf.jpeg",
   "md5": "B83C9D6FC16168BBA066262F781C728B",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "male",
+    "statue",
+    "archangel",
+    "dungeons",
+    "dragons",
+    "harrow",
+    "\u0026",
+    "kayla",
+    "kevin",
+    "glint",
+    "\u3010till",
+    "valhalla.",
+    "\u3011",
+    "aw",
+    "u",
+    "overwatch",
+    "fan",
+    "heaven\u0027s",
+    "guardian",
+    "yangtian",
+    "li"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -263,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4800000000000004,
     "offset_x": -189,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -12,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,58 @@
     "male",
     "warrior",
     "fighter",
-    "knight"
+    "knight",
+    "mtg",
+    "titans",
+    "primeval",
+    "titan",
+    "inferno",
+    "female",
+    "assassin",
+    "spartan",
+    "pirate",
+    "dragon",
+    "han",
+    "yumi",
+    "chmod",
+    "jx3",
+    "xinghang",
+    "hu",
+    "https://www.artstation.com/artwork/dklaw",
+    "\u0440\u043F\u0433",
+    "2020",
+    "let\u0027s",
+    "get",
+    "rich",
+    "artwork",
+    "dasom",
+    "lee",
+    "how",
+    "to",
+    "anime"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -313,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -190,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.1999999999999966,
     "offset_x": -342,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

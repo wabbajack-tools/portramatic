@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/564x/0a/50/c5/0a50c55dde3ae2011cc2dbb72f9eb6cc.jpg",
   "md5": "BD734A2C28C28E55627DB636A6CC93EB",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "druid",
+    "knight",
+    "armor",
+    "samurai",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "alternative",
+    "designs/skins",
+    "mk",
+    "characters",
+    "george",
+    "vostrikov",
+    "scorpion",
+    "mortal",
+    "achaemenid",
+    "faraz",
+    "shanyar",
+    "persian",
+    "concept",
+    "red",
+    "celtic",
+    "zahir",
+    "aghakhani",
+    "digital",
+    "ancient",
+    "history"
   ],
   "small": {
     "scale": 2.079999999999999,
     "offset_x": -392,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -148,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7000000000000006,
     "offset_x": -82,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

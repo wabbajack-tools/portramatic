@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/564x/20/bd/ed/20bded9f913f5c1077260d3cbe2e7305.jpg",
   "md5": "CE5F9B589AEA5EBF13904C36DAAD0CEC",
   "tags": [
-    ""
+    "",
+    "steampunk",
+    "cyborg",
+    "character",
+    "ideas",
+    "male",
+    "knight",
+    "armor",
+    "female",
+    "assassin",
+    "suit",
+    "armors",
+    "leather",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "concept",
+    "project",
+    "w",
+    "woo",
+    "kim",
+    "general",
+    "yongwon",
+    "park",
+    "vlad",
+    "gheneli\u0027s",
+    "submission",
+    "wild",
+    "west"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -231,
     "offset_y": -7,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -70,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -16,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

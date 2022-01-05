@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/70/a2/67/70a267583fc38bfacd1915e72ce9fbbb.jpg",
   "md5": "325CAD98DF919508A0FDF9BCB1495B7E",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "bard",
+    "cleric",
+    "dark",
+    "sniper",
+    "ghost",
+    "warrior",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "knight",
+    "armor",
+    "male_pirate",
+    "jeongmin",
+    "lee",
+    "pirate",
+    "vampire",
+    "count",
+    "marion",
+    "kivits",
+    "https://www",
+    "crave",
+    "characters",
+    "daria",
+    "rashev",
+    "2020"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

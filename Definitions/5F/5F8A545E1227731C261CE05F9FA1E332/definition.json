@@ -2,25 +2,49 @@
   "source": "https://comicvine1.cbsistatic.com/uploads/original/11138/111381603/7436852-etuhxtnu0aay8mk.jpg%20large.jpg",
   "md5": "5F8A545E1227731C261CE05F9FA1E332",
   "tags": [
-    ""
+    "",
+    "solo",
+    "level",
+    "sung",
+    "jin",
+    "woo",
+    "shadows",
+    "x",
+    "cha",
+    "hae",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "suit",
+    "sorceress",
+    "donfoo",
+    ".",
+    "https://www.artstation.com/artwork/oox9k4",
+    "character"
   ],
   "small": {
     "scale": 0.14999999999999925,
     "offset_x": -19,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.24999999999999933,
     "offset_x": -18,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -54,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

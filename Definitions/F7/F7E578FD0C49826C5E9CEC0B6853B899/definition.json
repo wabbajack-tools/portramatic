@@ -10,27 +10,38 @@
     "miss",
     "fortune",
     "league",
-    "legends"
+    "legends",
+    "oil",
+    "paintings",
+    "light",
+    "dancing",
+    "for",
+    "wedding",
+    "antilous",
+    "chao"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -1045.1999999999912,
     "offset_y": -150.19999999999726,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999999,
     "offset_x": -626.800000000002,
     "offset_y": -88.19999999999993,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -732.4074074074076,
     "offset_y": -101.78703703703707,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

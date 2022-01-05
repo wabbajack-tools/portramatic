@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/736x/d0/0b/65/d00b656ab48312fc32d49e7dc00fb1b9.jpg",
   "md5": "884A80B64B2CFB6A96CF883ED3644CE2",
   "tags": [
-    ""
+    "",
+    "elf",
+    "sorcerer",
+    "male",
+    "female",
+    "assassin",
+    "hobbit",
+    "dark",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "aelynn",
+    "victor",
+    "tan",
+    "warrior",
+    "necromancer",
+    "ii",
+    "markus",
+    "vogt",
+    "https://www",
+    "seir",
+    "duong",
+    "ct",
+    "men"
   ],
   "small": {
     "scale": 1,
     "offset_x": -278,
     "offset_y": -54,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -197,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -2,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

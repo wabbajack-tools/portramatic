@@ -2,27 +2,49 @@
   "source": "https://i.imgur.com/3zmV4VA.png",
   "md5": "87DE63AC68E9863777E804CEF1E5E66E",
   "tags": [
-    ""
+    "",
+    "legends",
+    "cryptids",
+    "warrior",
+    "legend",
+    "characters",
+    "anime",
+    "angel",
+    "resultado",
+    "de",
+    "imagem",
+    "para",
+    "adalia",
+    "tvm",
+    "team",
+    "rabbit",
+    "princess",
+    "iv",
+    "michael",
+    "gonzales"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -302,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -211,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -22,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

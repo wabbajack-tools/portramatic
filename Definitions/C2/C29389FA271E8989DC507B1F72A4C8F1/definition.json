@@ -2,25 +2,39 @@
   "source": "https://cdn.donmai.us/sample/c3/5b/__kirin_monster_hunter_and_1_more_drawn_by_fuyouchu__sample-c35b63d08856ab44d1250fae92156a7c.jpg",
   "md5": "C29389FA271E8989DC507B1F72A4C8F1",
   "tags": [
-    ""
+    "",
+    "monster",
+    "hunter",
+    "velkhana",
+    "world",
+    "iceborne",
+    "armor",
+    "nargacuga",
+    "miku",
+    "vocaloid"
   ],
   "small": {
     "scale": 1,
     "offset_x": -342,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -278,
     "offset_y": -177,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -128,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

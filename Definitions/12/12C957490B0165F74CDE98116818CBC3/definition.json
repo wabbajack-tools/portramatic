@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/3b/de/a4/3bdea4ee3168392fdb879ca89b20783e.jpg",
   "md5": "12C957490B0165F74CDE98116818CBC3",
   "tags": [
-    ""
+    "",
+    "black",
+    "mage",
+    "fire",
+    "robe",
+    "concept",
+    "league",
+    "legends",
+    "dwarf",
+    "earth",
+    "raphael",
+    "madureira",
+    "character",
+    "dungeons",
+    "henry",
+    "chandra",
+    "shenniu",
+    "exia",
+    "xiaotong",
+    "https://www.artstation.com/artwork/vgxe4",
+    "wow"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -378,
     "offset_y": -145,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -91,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -32,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

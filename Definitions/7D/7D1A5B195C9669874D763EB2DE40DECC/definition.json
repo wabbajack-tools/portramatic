@@ -3,27 +3,39 @@
   "md5": "7D1A5B195C9669874D763EB2DE40DECC",
   "tags": [
     "gnome",
-    "sorcerer"
+    "sorcerer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "some",
+    "doodles",
+    "xiaofei",
+    "ye",
+    "2021"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -243,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -209,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -6,
     "offset_y": -70,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

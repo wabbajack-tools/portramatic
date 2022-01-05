@@ -2,25 +2,59 @@
   "source": "https://i.pinimg.com/originals/11/f7/a5/11f7a5278e088c2ac10ca824be065ba4.jpg",
   "md5": "A72E1236F037533B29863130C6F9F7CE",
   "tags": [
-    ""
+    "",
+    "medieval",
+    "female",
+    "outfits",
+    "vikings",
+    "characters",
+    "character",
+    "concept",
+    "assassin",
+    "pirate",
+    "hansel",
+    "gretel",
+    "witch",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "some",
+    "my",
+    "artworks",
+    "way",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.18999999999999928,
     "offset_x": 42,
     "offset_y": -282,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

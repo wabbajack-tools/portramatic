@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/b9/aa/11/b9aa1169f6b00c22d5076f82afa07d48.jpg",
   "md5": "DFF33D1528BA96A83CE6FFD1D867B8DB",
   "tags": [
-    ""
+    "",
+    "armored",
+    "warrior",
+    "armor",
+    "for",
+    "women",
+    "concept",
+    "knight",
+    "plate",
+    "knights",
+    "armors",
+    "medieval",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "lakhan",
+    "laughing",
+    "surya",
+    "prasetya"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -239,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -118,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -22,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

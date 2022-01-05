@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/736x/b1/66/5a/b1665a274cbf9600119bff04d3b9d9fd--character-reference-character-concept.jpg",
   "md5": "9A08DDFC03C05F5164B6AAC478A2CEE5",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "character",
+    "female",
+    "assassin",
+    "male",
+    "samurai",
+    "armor",
+    "leather",
+    "armors",
+    "body",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "head_wear",
+    "hat",
+    "shoes",
+    "boots",
+    "gloves",
+    "love",
+    "creed",
+    "noah",
+    "gonzales",
+    "knight",
+    "aerie",
+    "hong",
+    "quatermaster",
+    "sebastian",
+    "kowoll"
   ],
   "small": {
     "scale": 1,
     "offset_x": -260,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -211,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -28,
     "offset_y": 16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,46 @@
   "source": "https://mfiles.alphacoders.com/723/723318.png",
   "md5": "460F7C81465344E7FCE8D1C01BAC585D",
   "tags": [
-    ""
+    "",
+    "sao",
+    "underworld",
+    "alicization",
+    "kirito",
+    "sword",
+    "sinon",
+    "anime",
+    "girl",
+    "fairy",
+    "tail",
+    "marvel",
+    "battle",
+    "lines",
+    "artwork",
+    "yellow",
+    "jacket"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -57,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -52,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -10,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

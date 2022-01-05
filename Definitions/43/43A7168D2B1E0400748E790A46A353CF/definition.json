@@ -1,28 +1,45 @@
 {
-  "source": "https://images.squarespace-cdn.com/content/v1/599de7e0be65940b47470acb/1580170679866-0JKZ5MZPEJ4TK2P609S7/Aragorn+Portrait+%28Face+Lighting+Fixed+Smaller%29.jpg?format=1500w",
+  "source": "https://images.squarespace-cdn.com/content/v1/599de7e0be65940b47470acb/1580170679866-0JKZ5MZPEJ4TK2P609S7/Aragorn\u002BPortrait\u002B%28Face\u002BLighting\u002BFixed\u002BSmaller%29.jpg?format=1500w",
   "md5": "43A7168D2B1E0400748E790A46A353CF",
   "tags": [
-    "Aragorn"
+    "Aragorn",
+    "aragorn\u0027s",
+    "ring",
+    "aragorn",
+    "king",
+    "gondor",
+    "from",
+    "lord",
+    "rings",
+    "viggo",
+    "mortensen",
+    "fellowship",
+    "game",
+    "thrones",
+    "arwen"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -167,
     "offset_y": -77,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -2,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -30,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

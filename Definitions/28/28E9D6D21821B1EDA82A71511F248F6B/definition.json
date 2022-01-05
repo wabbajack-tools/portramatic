@@ -2,27 +2,44 @@
   "source": "https://static.wikia.nocookie.net/deathbattlefanon/images/a/a4/BDSM_Homura.png/revision/latest?cb=20160523023720",
   "md5": "28E9D6D21821B1EDA82A71511F248F6B",
   "tags": [
-    ""
+    "",
+    "teardrop",
+    "white-eye",
+    "anime",
+    "angel",
+    "guys",
+    "batman",
+    "matt",
+    "james",
+    "https://www.artstation.com/artwork/l24z6v",
+    "comic",
+    "nion",
+    "volt",
+    "warframe",
+    "yatus"
   ],
   "small": {
     "scale": -0.650000000000001,
     "offset_x": -1003.1999999999997,
     "offset_y": -857.8000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": 9.00000000000017,
     "offset_y": 10.399999999999864,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": 3.1759259259260944,
     "offset_y": 77.18518518518556,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

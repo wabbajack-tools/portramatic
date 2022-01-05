@@ -21,27 +21,57 @@
     "2b",
     "nier",
     "automata",
-    "imguss"
+    "imguss",
+    "ranger",
+    "characters",
+    "skin",
+    "colors",
+    "knight",
+    "armor",
+    "g.i.joe",
+    "matias",
+    "trabold",
+    "rehren",
+    "https://www.artstation.com/artwork/w26j33",
+    "\uD83D\uDC49\u00A9",
+    "robert",
+    "mallinson",
+    "\uD83D\uDC48check",
+    "him",
+    "out",
+    "robertmallinson.artstation.com",
+    "\uD83D\uDC4F",
+    "follow",
+    "@dun\u2026",
+    "old",
+    "sketch",
+    "song",
+    "yueran",
+    "warrior",
+    "design"
   ],
   "small": {
     "scale": 1.0799999999999967,
     "offset_x": -284,
     "offset_y": -19,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999992,
     "offset_x": -57,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1999999999999984,
     "offset_x": -36,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

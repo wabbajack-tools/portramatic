@@ -2,27 +2,56 @@
   "source": "https://community.fansshare.com/pic81/w/speculation--card-game-/1200/18285_innistrad_speculation_liliana_of_the_veil_card_version_by_steveargyle.jpg",
   "md5": "E3D495D618E45BD9881C4481D04EF414",
   "tags": [
-    ""
+    "",
+    "liliana",
+    "vess",
+    "chandra",
+    "card",
+    "queen",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "harley",
+    "quinn",
+    "yevhen",
+    "nesterovych",
+    "morrigan",
+    "ed",
+    "pantera",
+    "2020",
+    "blood",
+    "dance",
+    "jackie",
+    "felix"
   ],
   "small": {
     "scale": 0.7299999999999998,
     "offset_x": -516,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -130,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -98,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

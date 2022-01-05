@@ -2,27 +2,40 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ae08540-4306-4b7c-93a5-9c0fe65184a3/ddzd53j-6e23f28c-b890-4010-98d1-68c6840a644a.jpg/v1/fill/w_1280,h_1920,q_75,strp/queen_hexia_by_vezoniaartz_ddzd53j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcLzhhZTA4NTQwLTQzMDYtNGI3Yy05M2E1LTljMGZlNjUxODRhM1wvZGR6ZDUzai02ZTIzZjI4Yy1iODkwLTQwMTAtOThkMS02OGM2ODQwYTY0NGEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Li4yHPkWQJxNZn28sn-drD0F3R6eqMkTF7wCkyBJOBc",
   "md5": "C8F0D343CAA518B0E92FDE72FACA4AEF",
   "tags": [
-    ""
+    "",
+    "witch",
+    "crow",
+    "vezonia",
+    "lithium",
+    "gun",
+    "rupid79",
+    "lee",
+    "jung-myung",
+    "petri",
+    "rahkola"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -290,
     "offset_y": -42,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -208,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -82,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

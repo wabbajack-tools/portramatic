@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/originals/13/7f/89/137f89ccfe3732bbd533af495bf66b81.jpg",
   "md5": "BA1E9AD2C60D54B03C46363784C83A14",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "warriors",
+    "samurai",
+    "armors",
+    "heavy",
+    "vimes",
+    "kira",
+    "mayer",
+    "prince",
+    "c",
+    "juk",
+    "choi",
+    "ji",
+    "wuk",
+    "with",
+    "assassin\u0027s",
+    "creed",
+    "valhalla",
+    "ivar",
+    "boneless"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1149,
     "offset_y": -407,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1091,
     "offset_y": -347,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -912,
     "offset_y": -340,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/59/2f/61/592f6185dbe865621b853ead6ca8a2a7.jpg",
   "md5": "B431409E9A3088B9076C008E45CAD03A",
   "tags": [
-    ""
+    "",
+    "glasya",
+    "dirty",
+    "memes",
+    "pteranodon",
+    "samurai",
+    "armor",
+    "dragon",
+    "plate",
+    "heavy",
+    "power",
+    "dragonborn",
+    "kamila",
+    "shirinova",
+    "youngmin",
+    "seo",
+    "character",
+    "painting",
+    "warrior",
+    "dwarf",
+    "cleric",
+    "magnus",
+    "nor\u00E9n",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -950,
     "offset_y": -296,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -863,
     "offset_y": -198,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -666,
     "offset_y": -186,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

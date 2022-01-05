@@ -5,27 +5,35 @@
     "succubus",
     "qichao",
     "wang",
-    "reddit"
+    "reddit",
+    "dark",
+    "raven",
+    "hair",
+    "over",
+    "50"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -156.77777777777897,
     "offset_y": -12.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -50.777777777777715,
     "offset_y": -21.3333333333332,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -212.58097686375322,
     "offset_y": -45.36246786632381,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

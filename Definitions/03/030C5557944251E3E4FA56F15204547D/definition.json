@@ -31,27 +31,31 @@
     "pride",
     "seung",
     "gu",
-    "men"
+    "men",
+    "https://www.artstation.com/artwork/loqra"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -282,
     "offset_y": -141,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -245,
     "offset_y": -146,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3799999999999992,
     "offset_x": -30,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

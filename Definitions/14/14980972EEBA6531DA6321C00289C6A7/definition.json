@@ -6,27 +6,44 @@
     "terminal",
     "cut",
     "ladies",
-    "text"
+    "text",
+    "characters",
+    "movie",
+    "ferril",
+    "\u64B8\u4E86\u4E00\u5F20\u5973\u795E~",
+    "jianyachi",
+    "l",
+    "carol",
+    "zara",
+    "is",
+    "alien",
+    "toilet",
+    "monsters\u00AE",
+    "luc",
+    "b\u00E9gin"
   ],
   "small": {
     "scale": 0.4099999999999995,
     "offset_x": -351.5,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999994,
     "offset_x": -45.5,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -73,
     "offset_y": -39,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

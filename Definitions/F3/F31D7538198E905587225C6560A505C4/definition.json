@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/564x/ae/3d/d9/ae3dd99bb3dc8ffc606955af6009ccb7.jpg",
   "md5": "F31D7538198E905587225C6560A505C4",
   "tags": [
-    ""
+    "",
+    "maned",
+    "wolf",
+    "paws",
+    "anatomy",
+    "lions",
+    "marauder",
+    "martin",
+    "de",
+    "diego"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -122,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -107,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -10,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

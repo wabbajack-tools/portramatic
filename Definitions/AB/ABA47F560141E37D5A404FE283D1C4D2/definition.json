@@ -2,25 +2,43 @@
   "source": "https://i.pinimg.com/originals/b4/3d/fb/b43dfbfc2f1418db90dc5183292f78bf.jpg",
   "md5": "ABA47F560141E37D5A404FE283D1C4D2",
   "tags": [
-    ""
+    "",
+    "trevor",
+    "belmont",
+    "fanart",
+    "free",
+    "game",
+    "character",
+    "zealot",
+    "artem",
+    "serdechny",
+    "milara",
+    "grainger",
+    "ksenia",
+    "harlequin"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -636,
     "offset_y": -231,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -329,
     "offset_y": -141,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -486,
     "offset_y": -217,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

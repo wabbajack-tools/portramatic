@@ -2,25 +2,54 @@
   "source": "https://img.ifunny.co/images/64fac88abe4c204826a1a88c14aa51bf006bdae51b7bd362052737d5cfcce8c4_1.jpg",
   "md5": "7FF287DA09539728EA31AA9628AD998D",
   "tags": [
-    ""
+    "",
+    "drawings",
+    "knight",
+    "warriors",
+    "female",
+    "warrior",
+    "pencil",
+    "digital",
+    "zombie",
+    "apocalypse",
+    "pose",
+    "pirate",
+    "armor",
+    "death",
+    "priest",
+    "c",
+    "juk",
+    "pinterest",
+    "bluezima",
+    "dong-wook",
+    "shin",
+    "heaven\u0027s",
+    "guardian",
+    "yangtian",
+    "li"
   ],
   "small": {
     "scale": 1,
     "offset_x": -556,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -297,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -196,
     "offset_y": -106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

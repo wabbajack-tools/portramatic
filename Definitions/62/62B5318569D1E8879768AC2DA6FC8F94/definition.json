@@ -33,27 +33,40 @@
     "2020",
     "priestess",
     "david",
-    "martos"
+    "martos",
+    "warrior",
+    "girl",
+    "wizard",
+    "dawn",
+    "carlos",
+    "dungeons",
+    "dragons",
+    "characters",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -401.5,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -74.5,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.35999999999999943,
     "offset_x": 0,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

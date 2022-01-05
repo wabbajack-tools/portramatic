@@ -2,27 +2,55 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/044/665/663/large/lukasz-brosch-elf-by-z-ed-on-deviantart.jpg?1640779215",
   "md5": "A1DC53437E04B0714F3355B1BF4B122D",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "shadowrun",
+    "male",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "yennefer",
+    "nicky",
+    "geerlings",
+    "sci-fi",
+    "character",
+    "design",
+    "dmitry",
+    "lyapin",
+    "sci",
+    "huntress",
+    "i",
+    "asimov"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -172,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4899999999999997,
     "offset_x": -47,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -28,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

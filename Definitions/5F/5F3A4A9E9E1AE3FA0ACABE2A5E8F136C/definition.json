@@ -2,27 +2,47 @@
   "source": "https://static.zerochan.net/Dragon.Age%3A.Inquisition.full.2561622.jpg",
   "md5": "5F3A4A9E9E1AE3FA0ACABE2A5E8F136C",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "4",
+    "solas",
+    "inquisition",
+    "trespasser",
+    "anime",
+    "guys",
+    "girl",
+    "nier",
+    "automata",
+    "fan",
+    "dasha",
+    "y.",
+    "park",
+    "2020",
+    "game"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -129,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -4,
     "offset_y": -105,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -16,
     "offset_y": -178,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

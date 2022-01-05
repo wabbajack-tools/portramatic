@@ -2,27 +2,49 @@
   "source": "https://i.imgur.com/bQHYxN6.png",
   "md5": "9A2FDD7A158299C4A294AB6EAA99F5E8",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "online",
+    "witch",
+    "king",
+    "angmar",
+    "hobbit",
+    "lianxi2",
+    "hongyu",
+    "wang",
+    "character",
+    "guardian",
+    "wisp",
+    "xuan",
+    "ke",
+    "apollon",
+    "dong",
+    "geon",
+    "son"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -365,
     "offset_y": -132,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5000000000000004,
     "offset_x": -277,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -22,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

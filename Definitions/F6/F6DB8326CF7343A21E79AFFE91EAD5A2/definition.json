@@ -18,7 +18,7 @@
     "armors",
     "creatures",
     "marcel",
-    "radecký",
+    "radeck\uFFFD",
     "concept",
     "dwarf",
     "savages",
@@ -31,27 +31,37 @@
     "li",
     "2020",
     "warriors",
-    "viking"
+    "viking",
+    "plate",
+    "radeck\u00FD",
+    "tauren",
+    "changsung",
+    "bae",
+    "beasts",
+    "monster"
   ],
   "small": {
     "scale": 1,
     "offset_x": -467,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -392,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -210,
     "offset_y": -136,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

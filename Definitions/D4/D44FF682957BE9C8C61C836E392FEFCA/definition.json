@@ -26,25 +26,49 @@
     "text",
     "yennifer",
     "dancer",
-    "mage"
+    "mage",
+    "red",
+    "sonja",
+    "reboot",
+    "warrior",
+    "desktop",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "panties",
+    "shoes",
+    "boots",
+    "orc",
+    "game",
+    "assets",
+    "ciri",
+    "fanart",
+    "grazia",
+    "ferlito"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -549,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -426,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4499999999999995,
     "offset_x": -138,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

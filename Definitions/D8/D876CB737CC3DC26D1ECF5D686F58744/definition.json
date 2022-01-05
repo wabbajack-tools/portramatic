@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/63/65/eb/6365ebaabe5c3619b5e91017c2b99ae6.jpg",
   "md5": "D876CB737CC3DC26D1ECF5D686F58744",
   "tags": [
-    ""
+    "",
+    "assassin\u0027s",
+    "creed",
+    "characters",
+    "rogue",
+    "character",
+    "chaos",
+    "warrior",
+    "samurai",
+    "armor",
+    "dungeons",
+    "dragons",
+    "title",
+    "saker",
+    ".",
+    "artist",
+    "mr.y",
+    "#artstation",
+    "kallisto",
+    "design",
+    "targaryen-1",
+    "yunhao",
+    "zheng",
+    "2020"
   ],
   "small": {
     "scale": 1,
     "offset_x": -586,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -439,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -280,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

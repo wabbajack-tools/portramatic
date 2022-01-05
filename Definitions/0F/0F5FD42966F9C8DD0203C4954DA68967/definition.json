@@ -3,27 +3,35 @@
   "md5": "0F5FD42966F9C8DD0203C4954DA68967",
   "tags": [
     "human",
-    "male"
+    "male",
+    "digital",
+    "dd",
+    "portraits",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -95.39999999999986,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -72.00000000000011,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -30.45370370370324,
     "offset_y": -6.0555555555553156,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

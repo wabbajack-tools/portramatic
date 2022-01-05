@@ -5,27 +5,54 @@
     "dwarf",
     "female",
     "mace",
-    "shield"
+    "shield",
+    "gnome",
+    "monk",
+    "dwarven",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "orc",
+    "warrior",
+    "dragonborn",
+    "warhammer",
+    "slayer",
+    "chris",
+    "dien",
+    "war",
+    "zodiarcs",
+    "world",
+    "building",
+    "concept",
+    "digital",
+    "sketches",
+    "vi",
+    "mike",
+    "azevedo",
+    "lol"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -218,
     "offset_y": -182,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": 39,
     "offset_y": 26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": 149,
     "offset_y": 141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

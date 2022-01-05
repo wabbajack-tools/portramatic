@@ -2,27 +2,35 @@
   "source": "https://static.wikia.nocookie.net/pdd/images/a/a8/Mad_Bomber.jpg",
   "md5": "41F489E923D28CECAC693006F5E1E440",
   "tags": [
-    ""
+    "",
+    "alchemist",
+    "concept",
+    "female",
+    "rpg",
+    "marvel"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -271,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -208,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -30,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

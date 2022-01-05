@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/originals/95/0e/74/950e74d1c25dc41edde622694618ecf5.jpg",
   "md5": "4699D60D1B4EBF41B63ABA2B82A5C67E",
   "tags": [
-    ""
+    "",
+    "holy",
+    "paladin",
+    "human",
+    "artwork",
+    "magis",
+    "\u86EE\u8352\u6218\u58EB",
+    "mu",
+    "jiangzi",
+    "she",
+    "archer",
+    "rodolfo",
+    "costa",
+    "starcrusade",
+    "artworks",
+    "interhova",
+    "3000"
   ],
   "small": {
     "scale": 1,
     "offset_x": -316,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -250,
     "offset_y": -101,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -21,27 +21,45 @@
     "fanart",
     "anna",
     "helme",
-    "https://www"
+    "https://www",
+    "cartoon",
+    "fan",
+    "pokemon",
+    "girl",
+    "lord",
+    "rings",
+    "two",
+    "towers",
+    "iron",
+    "throne",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "belt"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -148.19999999999996,
     "offset_y": -11.199999999999932,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -10.199999999999932,
     "offset_y": -3.6000000000000796,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -29.129629629629562,
     "offset_y": -6.351851851851734,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

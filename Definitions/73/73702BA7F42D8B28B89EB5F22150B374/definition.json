@@ -8,27 +8,55 @@
     "gwent",
     "card",
     "anna",
-    "podedworna"
+    "podedworna",
+    "geralt",
+    "ciri",
+    "roach",
+    "league",
+    "legends",
+    "female",
+    "assassin",
+    "oksenfurtsky",
+    "bloodsucker",
+    "gael)-gwent",
+    "contest",
+    "marat",
+    "chachakov",
+    "heaven\u0027s",
+    "guardian",
+    "yangtian",
+    "li",
+    "warrior",
+    "woman",
+    "armor",
+    "bloodborne",
+    "hunter",
+    "\u65AF\u683C\u7F57\u7279\u7684\u5E1D\u738B1",
+    "chenhan",
+    "lin"
   ],
   "small": {
     "scale": 1.15,
     "offset_x": -477.99999999999983,
     "offset_y": -197.79999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -224.60000000000008,
     "offset_y": -127.20000000000005,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -134.47222222222217,
     "offset_y": -86.40740740740739,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

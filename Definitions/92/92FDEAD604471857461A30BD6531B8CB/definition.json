@@ -2,27 +2,57 @@
   "source": "https://i.imgur.com/nMoFcuN.jpeg",
   "md5": "92FDEAD604471857461A30BD6531B8CB",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "dark",
+    "fallen",
+    "male",
+    "death",
+    "knight",
+    "black",
+    "metroid",
+    "chozo",
+    "suit",
+    "ian",
+    "barker",
+    "https://www.artstation.com/artwork/yrogo",
+    "warriors",
+    "\u201C#digitalart",
+    "#art",
+    "#2dart",
+    "#2dartist",
+    "#artstation",
+    "#tumblr",
+    "#artstagram",
+    "serpent",
+    "i",
+    "asimov",
+    "monster"
   ],
   "small": {
     "scale": 1.6600000000000006,
     "offset_x": -416,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -207,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -56,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

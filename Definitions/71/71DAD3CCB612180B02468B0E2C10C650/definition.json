@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/736x/72/4a/d5/724ad5d75dca6f5db6965d7014f0e631.jpg",
   "md5": "71DAD3CCB612180B02468B0E2C10C650",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "junwoo",
+    "kim",
+    "water",
+    "genasi",
+    "wizard",
+    "tam\u00E1s",
+    "patk\u00F3s",
+    "concept",
+    "digital",
+    "caster",
+    "character",
+    "kevin",
+    "lee",
+    "characters"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -411,
     "offset_y": -164,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -37,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -16,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

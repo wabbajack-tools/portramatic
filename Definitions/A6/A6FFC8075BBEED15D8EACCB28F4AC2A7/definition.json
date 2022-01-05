@@ -1,28 +1,45 @@
 {
-  "source": "https://pbs.twimg.com/media/EWQPZmoUcAAKMkV?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EWQPZmoUcAAKMkV?format=jpg\u0026name=large",
   "md5": "A6FFC8075BBEED15D8EACCB28F4AC2A7",
   "tags": [
-    ""
+    "",
+    "armor",
+    "sets",
+    "dungeon",
+    "striker",
+    "character",
+    "costume",
+    "concept",
+    "monster",
+    "jiachang",
+    "zhang",
+    "magician\u0027s",
+    "apprentice",
+    "shawn",
+    "shain"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -79,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -498,
     "offset_y": -638,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -638,
     "offset_y": -940,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

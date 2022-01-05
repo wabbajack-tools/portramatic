@@ -2,27 +2,47 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/009/212/137/large/dao-le-trong-ninja-11.jpg?1517736881",
   "md5": "7A422D4D30A74FB86E1258824C257CD2",
   "tags": [
-    ""
+    "",
+    "dazai",
+    "osamu",
+    "anime",
+    "wallpaper",
+    "character",
+    "fan",
+    "league",
+    "legends",
+    "\u795E\u8BDD\u4E3B\u9898",
+    "ke",
+    "xue",
+    "kaisa",
+    "al",
+    "so",
+    "odogaron",
+    "qiu",
+    "mao"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -629,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -460,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -710,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

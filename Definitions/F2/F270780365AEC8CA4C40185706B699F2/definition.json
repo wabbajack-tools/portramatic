@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/564x/0f/42/91/0f42916fd746dacd6090d8996ffa3146.jpg",
   "md5": "F270780365AEC8CA4C40185706B699F2",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "wood",
+    "elf",
+    "dungeons",
+    "dragons",
+    "heavy",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "shield",
+    "flag",
+    "knight",
+    "man",
+    "gwang-beom",
+    "kho",
+    "fisher",
+    "daniele",
+    "solimene",
+    "warriors",
+    "illustration",
+    "inspiration",
+    "lan",
+    "tiefling",
+    "paladin",
+    "andrew",
+    "phillips"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -273,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -61,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -52,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

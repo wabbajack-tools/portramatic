@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/originals/f5/ee/0d/f5ee0dd15fc1440ab467f91b8c4ab7cd.jpg",
   "md5": "C006CAACEEFADFAE7DB6B55F62DE891E",
   "tags": [
-    ""
+    "",
+    "wood",
+    "elf",
+    "princess",
+    "costume",
+    "woodland",
+    "girl",
+    "kratos",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "neo",
+    "tokyo",
+    "carl",
+    "van",
+    "laguun",
+    "https://www.artstation.com/artwork/wonw",
+    "cyberpunk"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -170,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -63,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -8,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/1f/0a/a5/1f0aa5cadede5e976b1b1596afb06944.jpg",
   "md5": "8A5430EB9EB7D1BF42A6A2B4777B2F99",
   "tags": [
-    ""
+    "",
+    "generator",
+    "dd",
+    "portraits",
+    "female",
+    "elf",
+    "death",
+    "knight",
+    "dark",
+    "sukub",
+    "stanislav",
+    "ostrikov",
+    "concept",
+    "passwall",
+    "adept",
+    "john",
+    "thacker",
+    "https://www",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "challenge"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -189,
     "offset_y": -120,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -99,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -90,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

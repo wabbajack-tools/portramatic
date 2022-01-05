@@ -2,27 +2,49 @@
   "source": "https://artfiles.alphacoders.com/132/thumb-1920-132594.jpg",
   "md5": "4AA14463317E3A1CE7ECAE4C892AAAAF",
   "tags": [
-    ""
+    "",
+    "knight",
+    "cape",
+    "armor",
+    "batman",
+    "gothic",
+    "medieval",
+    "knights",
+    "dragon",
+    "sangmin",
+    "park",
+    "human",
+    "half-elf",
+    "paladin",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "royal",
+    "guard",
+    "king",
+    "chen"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -214,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -34,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7899999999999998,
     "offset_x": -62,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

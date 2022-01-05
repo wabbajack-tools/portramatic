@@ -4,27 +4,55 @@
   "tags": [
     "cleric",
     "White mage",
-    "healer"
+    "healer",
+    "male",
+    "warrior",
+    "concept",
+    "rogue",
+    "character",
+    "cyberpunk",
+    "marble",
+    "statues",
+    "knight",
+    "armor",
+    "statue",
+    "wizard",
+    "staff",
+    "artist",
+    "han",
+    "ahreum.",
+    "https://www.artstation.com",
+    "design",
+    "exploration",
+    "for",
+    "forest",
+    "nr-rs",
+    "rosen",
+    "jo\u6865",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -189,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -105,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5400000000000005,
     "offset_x": -24,
     "offset_y": -166,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

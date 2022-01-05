@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/68/f0/f4/68f0f44a980f81c5f17c527a15c9ec9d.jpg",
   "md5": "697F70865406783D5676E76C10418F85",
   "tags": [
-    "swordmage2"
+    "swordmage2",
+    "actionfigures",
+    "female",
+    "pirate",
+    "costumes",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "terril",
+    "fellscar",
+    "for",
+    "taylor",
+    "tom",
+    "rhodes",
+    "athenian",
+    "army",
+    "faction",
+    "assassin\u0027s",
+    "creed",
+    "odyssey",
+    "fred",
+    "rambaud",
+    "assassins",
+    "a",
+    "chinese",
+    "assassin",
+    "yuankai",
+    "li",
+    "http://www.artstation.com/artwork/a-chinese"
   ],
   "small": {
     "scale": 0.8827499999999968,
     "offset_x": -248.33333333333337,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7672499999999989,
     "offset_x": -109,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.311666666666668,
     "offset_x": -134,
     "offset_y": -108,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

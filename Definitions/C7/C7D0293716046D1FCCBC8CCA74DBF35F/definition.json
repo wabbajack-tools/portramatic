@@ -32,34 +32,57 @@
     "characters",
     "yunhee",
     "lee",
-    "d&d",
+    "d\u0026d",
     "pinterest",
     "dragons",
     "rpg",
     "study",
     "jin-hong",
     "park",
-    "with"
+    "with",
+    "shield",
+    "spartan",
+    "spear",
+    "anime",
+    "samurai",
+    "white",
+    "mage",
+    "yesun",
+    "jung",
+    "https://www.artstation.com/artwork/m1eld",
+    "berserker",
+    "mango",
+    "kim",
+    "design",
+    "portraits",
+    "chess",
+    "jin",
+    "woo",
+    "bae",
+    "artbrut"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -485.40000000000055,
     "offset_y": -260.40000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -167.5999999999999,
     "offset_y": -47.600000000000364,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -108.00000000000011,
     "offset_y": -9.20000000000013,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

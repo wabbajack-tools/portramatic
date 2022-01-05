@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/07/61/ef/0761ef39ca425e4b0472c1e3e410dc4f.jpg",
   "md5": "AD094B53C144CF2CAE39751F6254663C",
   "tags": [
-    ""
+    "",
+    "female",
+    "characters",
+    "barbarian",
+    "woman",
+    "barbarians",
+    "samurai",
+    "armor",
+    "goblin",
+    "fengyun",
+    "mingzhu",
+    "yang",
+    "2020",
+    "character"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -274.4000000000002,
     "offset_y": -166.40000000000003,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -157.59999999999997,
     "offset_y": -10.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -62.472222222221944,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -32,27 +32,47 @@
     "dawn",
     "justice",
     "bruno",
-    "furlani"
+    "furlani",
+    "two-handed",
+    "short",
+    "sword",
+    "two",
+    "hand",
+    "plate",
+    "heavy",
+    "scale",
+    "character",
+    "sabrina",
+    "pugnale",
+    "hound",
+    "action",
+    "figure",
+    "study",
+    "marby",
+    "kwong"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -438,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -233,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -240,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

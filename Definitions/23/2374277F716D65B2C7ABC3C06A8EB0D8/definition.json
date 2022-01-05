@@ -2,25 +2,56 @@
   "source": "https://i.pinimg.com/474x/f0/4a/4a/f04a4a659bd600bbb7505fa91828dbed.jpg",
   "md5": "2374277F716D65B2C7ABC3C06A8EB0D8",
   "tags": [
-    ""
+    "",
+    "lycanthrope",
+    "werewolves",
+    "wereraven",
+    "batman",
+    "arkham",
+    "city",
+    "armors",
+    "toys",
+    "junk_ssakimetel_04",
+    "ssaki",
+    "metel",
+    "female",
+    "knight",
+    "warrior",
+    "woman",
+    "character",
+    "inspiration",
+    "40k",
+    "inquisitor",
+    "cody",
+    "shay",
+    "667",
+    "ren",
+    "yingshi",
+    "https://www.artstation.com/artwork/zrv1z",
+    "pirate"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -217,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -194,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9600000000000009,
     "offset_x": -174,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

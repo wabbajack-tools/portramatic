@@ -1,28 +1,39 @@
 {
-  "source": "https://pbs.twimg.com/media/EWJKoKTUEAEbzZ4?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EWJKoKTUEAEbzZ4?format=jpg\u0026name=large",
   "md5": "2EAE9E7B56C462F78887A21018D8F433",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -298,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

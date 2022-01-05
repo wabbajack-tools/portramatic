@@ -7,27 +7,49 @@
     "shield",
     "skyrim",
     "nord",
-    "barbarian"
+    "barbarian",
+    "warhammer",
+    "40k",
+    "adeptus",
+    "astartes",
+    "custodian",
+    "dreadknight",
+    "dark",
+    "elf",
+    "rona",
+    "azora",
+    "studio",
+    "girl",
+    "cartoon",
+    "\u0022warchanter",
+    "mogis\u0022",
+    "magic",
+    "gathering",
+    "michael",
+    "bierek"
   ],
   "small": {
     "scale": 0.15999999999999925,
     "offset_x": -64,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -77,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -198,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

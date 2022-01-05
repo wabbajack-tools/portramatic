@@ -1,28 +1,66 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F72%2Fce%2F64%2F72ce64ebb5aa7292ad5c1179dc505424.jpg&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F72%2Fce%2F64%2F72ce64ebb5aa7292ad5c1179dc505424.jpg\u0026f=1\u0026nofb=1",
   "md5": "1A91E47F4E97DD5F986168B11C050182",
   "tags": [
-    ""
+    "",
+    "female",
+    "dwarf",
+    "armor",
+    "monk",
+    "orc",
+    "warrior",
+    "assassin",
+    "sniper",
+    "ghost",
+    "heavy",
+    "death",
+    "knight",
+    "oni",
+    "ca",
+    "aniceto",
+    "escribano",
+    "character",
+    "design",
+    "a",
+    "copy",
+    "work",
+    "wei",
+    "wang",
+    "glowei).",
+    "warcraft",
+    "ivan",
+    "zabavka",
+    "160",
+    "paul",
+    "shut",
+    "dungeons",
+    "dragons",
+    "characters",
+    "creature",
+    "monster"
   ],
   "small": {
     "scale": 1.8100000000000007,
     "offset_x": -381.60000000000025,
     "offset_y": -78.39999999999998,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7500000000000007,
     "offset_x": -281.6000000000001,
     "offset_y": -39.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7400000000000007,
     "offset_x": -89.70370370370392,
     "offset_y": -1.6018518518518476,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

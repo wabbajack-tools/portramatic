@@ -7,27 +7,46 @@
     "merigold",
     "ynorka",
     "chiu",
-    "https://www.artstation.com/artwork/triss-merigold"
+    "https://www.artstation.com/artwork/triss-merigold",
+    "female",
+    "assassin",
+    "elven",
+    "mage",
+    "dragon",
+    "age",
+    "krzysztof",
+    "orczyk",
+    "canh",
+    "nguyen",
+    "wizard",
+    "cook",
+    "jiyun",
+    "lee",
+    "games",
+    "for"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -632,
     "offset_y": -252,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -246,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -28,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

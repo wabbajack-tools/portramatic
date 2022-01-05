@@ -3,27 +3,51 @@
   "md5": "54EB9172A15825CD6E2AE6842F6F572A",
   "tags": [
     "Witch",
-    "Sorcerer"
+    "Sorcerer",
+    "high",
+    "elf",
+    "warlock",
+    "half",
+    "paladin",
+    "half-elf",
+    "drawing",
+    "female",
+    "assassin",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "tek",
+    "wych",
+    "sam",
+    "lamont",
+    "concept",
+    "world"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -1,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -10,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -4,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

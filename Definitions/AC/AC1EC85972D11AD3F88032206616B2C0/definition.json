@@ -2,27 +2,42 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/310cffff-e634-4de6-b97b-c007a2c2a5b8/d6j5028-7b9a8762-0881-432a-8e6c-98ccaaf895d8.jpg/v1/fill/w_1024,h_1279,q_75,strp/ancient_blue_dragon_by_benwootten_d6j5028-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI3OSIsInBhdGgiOiJcL2ZcLzMxMGNmZmZmLWU2MzQtNGRlNi1iOTdiLWMwMDdhMmMyYTViOFwvZDZqNTAyOC03YjlhODc2Mi0wODgxLTQzMmEtOGU2Yy05OGNjYWFmODk1ZDguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1mozgwR4fMK3z-SRyqKzoFvaOnY3I5x9Pw8M_ysnFz0",
   "md5": "AC1EC85972D11AD3F88032206616B2C0",
   "tags": [
-    ""
+    "",
+    "blue",
+    "dragon",
+    "animal",
+    "cool",
+    "dragons",
+    "eyes",
+    "ultimate",
+    "white",
+    "red",
+    "black",
+    "winged",
+    "ra"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -11,
     "offset_y": -249,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -6,
     "offset_y": -275,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999987,
     "offset_x": -10,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,61 @@
   "source": "https://i.imgur.com/h1F0ZgG.jpg",
   "md5": "0A1B3A054CF6D7CBF970FB630D618AEA",
   "tags": [
-    "breton eso rogue hood cloak male white human assassin slayer thief slayer black stealth"
+    "breton eso rogue hood cloak male white human assassin slayer thief slayer black stealth",
+    "elder",
+    "scrolls",
+    "online",
+    "characters",
+    "armor",
+    "knight",
+    "assassin",
+    "dark",
+    "elf",
+    "armors",
+    "female",
+    "suit",
+    "death",
+    "demon",
+    "hunter",
+    "breton",
+    "so",
+    "jihyun",
+    "warrior",
+    "concept",
+    "training",
+    "work",
+    "jian",
+    "li",
+    "metro",
+    "exodus",
+    "forest",
+    "child",
+    "olga",
+    "game",
+    "model"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -375.9999999999998,
     "offset_y": -66.4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -261.59999999999985,
     "offset_y": -33.60000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -20.82407407407436,
     "offset_y": -27.23148148148141,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

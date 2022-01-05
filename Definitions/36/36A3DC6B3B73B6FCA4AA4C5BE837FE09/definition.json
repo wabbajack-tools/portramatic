@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/50/e3/5d/50e35da03bcb917f48bc8de1e2829ffe.jpg",
   "md5": "36A3DC6B3B73B6FCA4AA4C5BE837FE09",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "warrior",
+    "vampire",
+    "characters",
+    "drawings",
+    "dark",
+    "counts",
+    "predator",
+    "skyrim",
+    "knight",
+    "manga",
+    "medieval",
+    "kylo",
+    "ren",
+    "https://www.artstation.com/p/5aprp",
+    "alex",
+    "charleux",
+    "2d",
+    "artist",
+    "ubisoft",
+    "axe",
+    "generator",
+    "simon",
+    "verstraete",
+    "concept",
+    "rey",
+    "de",
+    "espadas",
+    "king",
+    "spades",
+    "blake"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -334,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -126,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

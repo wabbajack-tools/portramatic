@@ -25,27 +25,46 @@
     "character",
     "creatures",
     "marcel",
-    "radecký"
+    "radeck\uFFFD",
+    "norse",
+    "viking",
+    "warrior",
+    "male",
+    "fur",
+    "armor",
+    "female",
+    "barbarian",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "https://www.artstation.com/artwork/0wk25",
+    "woman"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -404,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -154,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -14,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -34,27 +34,39 @@
     "reaper",
     "hyeong",
     "bin",
-    "jeon"
+    "jeon",
+    "wrong",
+    "side",
+    "forest",
+    "andrius",
+    "matijosius",
+    "month",
+    "zhihui",
+    "su",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -401,
     "offset_y": -181,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -343,
     "offset_y": -161,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -66,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

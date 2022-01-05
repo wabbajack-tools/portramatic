@@ -2,27 +2,55 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/026/688/804/4k/yi-waiting.jpg?1589452968",
   "md5": "687B85EE11B5FD497ED257CC1800E90A",
   "tags": [
-    ""
+    "",
+    "plate",
+    "armor",
+    "knight",
+    "lord",
+    "rings",
+    "dark",
+    "souls",
+    "herald",
+    "apocalypse",
+    "andres",
+    "rios",
+    "rio",
+    "watcher",
+    "ting",
+    "xu",
+    "character",
+    "artwork",
+    "rpg",
+    "pride",
+    "\u0026",
+    "greed",
+    "yitian",
+    "sun",
+    "https://www.artstation.com/artwork/qaqv\u2026",
+    "concept"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -608,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -556,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -612,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

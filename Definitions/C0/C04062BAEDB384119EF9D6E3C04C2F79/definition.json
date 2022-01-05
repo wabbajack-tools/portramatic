@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/28/e5/48/28e5487c86907d2ac2451eed27cbd0ec.jpg",
   "md5": "C04062BAEDB384119EF9D6E3C04C2F79",
   "tags": [
-    ""
+    "",
+    "forgotten",
+    "realms",
+    "elves",
+    "gods",
+    "drow",
+    "skyrim",
+    "game",
+    "thrones",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "forest",
+    "druid",
+    "james",
+    "churchill",
+    "https://www.artstation.com/artwork/ek8yx",
+    "robin",
+    "hood",
+    "\u0022book",
+    "cover\u0022",
+    "davood",
+    "diba",
+    "2021",
+    "character",
+    "design",
+    "haldan",
+    "alexander",
+    "kozachenko",
+    "https://www.artstation.com/artwork/wa8zy"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -339,
     "offset_y": -112,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -103,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -22,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

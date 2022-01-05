@@ -14,7 +14,7 @@
     "assassin",
     "paladin",
     "theresa",
-    "königseder-haller",
+    "k\uFFFDnigseder-haller",
     "dungeons",
     "druid",
     "matias",
@@ -26,27 +26,42 @@
     "witch",
     "concepts",
     "agnieszka",
-    "antosiewicz"
+    "antosiewicz",
+    "sorcerer",
+    "divine",
+    "soul",
+    "origins",
+    "rogue",
+    "k\u00F6nigseder-haller",
+    "rogues",
+    "character",
+    "half-elf",
+    "2021",
+    "characters",
+    "dragons"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -345,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -199,
     "offset_y": -118,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999956,
     "offset_x": -24,
     "offset_y": -97,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

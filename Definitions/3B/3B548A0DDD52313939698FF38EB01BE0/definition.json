@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/originals/91/a9/18/91a9185353825931579912c669583eb6.jpg",
   "md5": "3B548A0DDD52313939698FF38EB01BE0",
   "tags": [
-    ""
+    "",
+    "persian",
+    "warrior",
+    "armor",
+    "army",
+    "immortals",
+    "concept",
+    "spartan",
+    "gladiators",
+    "knight",
+    "ivan",
+    "troitsky",
+    "male",
+    "human",
+    "chaos",
+    "inspiration",
+    "sichen",
+    "wang",
+    "samurai",
+    "japanese",
+    "geralt",
+    "gameready",
+    "character",
+    "pose2",
+    "georgian",
+    "avasilcutei",
+    "https://www"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -596,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -409,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -146,
     "offset_y": -106,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,38 @@
   "source": "http://www.artofmtg.com/wp-content/uploads/2021/11/Catlike-Curiosity-Innistrad-Crimson-Vow-MtG-Art.jpg",
   "md5": "7E2F03E621F3281CC3A278CCA9DE8959",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "league",
+    "legends",
+    "night",
+    "library",
+    "roman",
+    "kuteynikov"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -368.6666666666665,
     "offset_y": -64.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -309.3333333333338,
     "offset_y": -43.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -358.66666666666674,
     "offset_y": -15.999999999999943,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

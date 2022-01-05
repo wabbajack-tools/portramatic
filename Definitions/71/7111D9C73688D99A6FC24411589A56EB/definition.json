@@ -2,27 +2,48 @@
   "source": "http://cynthiaradthorne.com/images/TheDuelist.jpg",
   "md5": "7111D9C73688D99A6FC24411589A56EB",
   "tags": [
-    ""
+    "",
+    "duelist",
+    "concept",
+    "renaissance",
+    "costumes",
+    "dresses",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "dunhuang",
+    "frescoes",
+    "\u9752\u4F0A\u4F0A\u5B50",
+    "2021",
+    "anime",
+    "girl",
+    "chinese",
+    "geisha"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -130,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -99,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -98,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

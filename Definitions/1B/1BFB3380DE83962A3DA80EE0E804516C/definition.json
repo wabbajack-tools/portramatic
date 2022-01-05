@@ -3,27 +3,51 @@
   "md5": "1BFB3380DE83962A3DA80EE0E804516C",
   "tags": [
     "Necromancer",
-    "wizard"
+    "wizard",
+    "necromancer",
+    "artwork",
+    "girl",
+    "dark",
+    "elf",
+    "untamed",
+    "isaac",
+    "luna",
+    "https://www.artstation.com/artwork/nraye",
+    "movie",
+    "talisman",
+    "nether",
+    "realm",
+    "\u0027changeling\u0027",
+    "bruno",
+    "balixa",
+    "https://www.artstation.com",
+    "meeting",
+    "wuu",
+    "john",
+    "sommo"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -304,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -214,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -113,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

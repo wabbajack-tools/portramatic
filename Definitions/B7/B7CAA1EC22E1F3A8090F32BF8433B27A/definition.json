@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c2d8284-2786-431f-b855-6f0a5846cc3d/dedcktk-88e0e278-6cff-45a5-b283-fa2206fa8ecb.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjMmQ4Mjg0LTI3ODYtNDMxZi1iODU1LTZmMGE1ODQ2Y2MzZFwvZGVkY2t0ay04OGUwZTI3OC02Y2ZmLTQ1YTUtYjI4My1mYTIyMDZmYThlY2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DxrVwskueQhbVHGVTjuoEYLrnCek4acAiHkGgvaupC0",
   "md5": "B7CAA1EC22E1F3A8090F32BF8433B27A",
   "tags": [
-    ""
+    "",
+    "classic",
+    "red",
+    "sonja",
+    "warrior",
+    "top",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "bra",
+    "saffron-1",
+    "eudia",
+    "chae",
+    "princess",
+    "mononoke",
+    "elle",
+    "baker"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -294,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -73,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": 0,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

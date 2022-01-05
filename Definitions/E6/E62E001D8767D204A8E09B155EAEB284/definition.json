@@ -49,27 +49,36 @@
     "katarina",
     "marcus",
     "ling",
-    "https://www"
+    "https://www",
+    "vs",
+    "hashirama",
+    "rinnegan",
+    "obito",
+    "uzumaki",
+    "guys"
   ],
   "small": {
     "scale": 1.6300000000000006,
     "offset_x": -379.59999999999974,
     "offset_y": -26.800000000000068,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -16.800000000000125,
     "offset_y": -36.7999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": 156,
     "offset_y": 140.00000000000068,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

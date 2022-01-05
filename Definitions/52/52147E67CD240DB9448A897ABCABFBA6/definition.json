@@ -2,25 +2,33 @@
   "source": "https://i.pinimg.com/564x/77/69/6e/77696e8fbc170deb38834d88dae9b0f7.jpg",
   "md5": "52147E67CD240DB9448A897ABCABFBA6",
   "tags": [
-    ""
+    "",
+    "leader",
+    "ivan",
+    "stan"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -293,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -107,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8000000000000007,
     "offset_x": -150,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

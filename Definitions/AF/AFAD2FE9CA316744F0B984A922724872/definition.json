@@ -9,7 +9,7 @@
     "female",
     "knight",
     "black",
-    "assassin's",
+    "assassin\u0027s",
     "elf",
     "thief",
     "assassin",
@@ -23,34 +23,43 @@
     "life",
     "artwork",
     "giovane",
-    "henriques's",
+    "henriques\u0027s",
     "submission",
     "beneath",
     "waves",
     "film/vfx",
     "character",
     "kamila",
-    "shirinova"
+    "shirinova",
+    "gears",
+    "war",
+    "illyana",
+    "fanfoxy",
+    "_",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1,
     "offset_x": -377,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -328,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -100,
     "offset_y": -137,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

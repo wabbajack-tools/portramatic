@@ -2,25 +2,44 @@
   "source": "https://wallpapers-all.com/uploads/posts/2017-04/2_warcraft_iii__reign_of_chaos.jpg",
   "md5": "E39728B5D9432D44AE9D2BF549B682DE",
   "tags": [
-    ""
+    "",
+    "lich",
+    "king",
+    "fan",
+    "has",
+    "illidan",
+    "dungeons",
+    "dragons",
+    "kier",
+    "valkyrie",
+    "dead",
+    "court",
+    "dark",
+    "even",
+    "amundsen"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -229.6,
     "offset_y": -8.799999999999955,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -282.4000000000002,
     "offset_y": -51.999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -273.91666666666697,
     "offset_y": -60.87037037037055,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

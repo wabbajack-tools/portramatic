@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/originals/40/ed/34/40ed34d870680ab962143ba97a31a87c.jpg",
   "md5": "BFAF26BBF010211208EEE91AB50CE85D",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "league",
+    "legends",
+    "aphelios",
+    "fan",
+    "coax",
+    "\uCF55\uC2A4",
+    "lol",
+    "nalari",
+    "stephanie",
+    "brown",
+    "2020",
+    "female",
+    "knight",
+    "monk",
+    "yui",
+    "la\u00EDs",
+    "rodrigues"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -278,
     "offset_y": -75,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -217,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -78,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,41 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/034/187/843/large/song-nan-li-myp.jpg?1611641429",
   "md5": "B1EE55545E6424229CC0530B5FE4BB9B",
   "tags": [
-    ""
+    "",
+    "ancient",
+    "civilizations",
+    "challenge",
+    "solid",
+    "snake",
+    "stylized",
+    "fernando",
+    "ruiz",
+    "rey",
+    "jason",
+    "peek"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -447,
     "offset_y": -467,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -43,
     "offset_y": -182,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4099999999999995,
     "offset_x": -10,
     "offset_y": -142,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

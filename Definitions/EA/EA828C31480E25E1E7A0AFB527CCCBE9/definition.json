@@ -2,25 +2,64 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/002/614/693/large/elistraie-de-liss-iisariel-concept-ba.jpg?1463668480",
   "md5": "EA828C31480E25E1E7A0AFB527CCCBE9",
   "tags": [
-    ""
+    "",
+    "modern",
+    "rpg",
+    "character",
+    "cyberpunk",
+    "concept",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "elven",
+    "archer",
+    "simon",
+    "kim",
+    "https://www.artstation.com/artwork/l3amkk",
+    "2020",
+    "dark",
+    "avenger3",
+    "trish",
+    "wonseok",
+    "lee",
+    "characters",
+    "20100303",
+    "bong",
+    "gu",
+    "bongs",
+    "dieselpunk"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -315,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -153,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -6,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,70 @@
   "source": "https://i.pinimg.com/564x/45/36/a3/4536a33010c3c544e8b4b8d53bce629b.jpg",
   "md5": "CB087FD6C07482FDBBA5C208F81976CB",
   "tags": [
-    ""
+    "",
+    "character",
+    "creation",
+    "wizard",
+    "characters",
+    "rogue",
+    "orc",
+    "warrior",
+    "medieval",
+    "knights",
+    "dark",
+    "elf",
+    "zombie",
+    "apocalypse",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "gloves",
+    "gaming",
+    "pinwire",
+    "boar",
+    "clan",
+    "barbara",
+    "go\u0142\u0119biewska",
+    "d\u0026d",
+    "2018",
+    "design",
+    "concept",
+    "magic",
+    "man",
+    "tantiana",
+    "golden",
+    "justice",
+    "2020",
+    "steampunk",
+    "armor"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -146,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -89,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -22,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

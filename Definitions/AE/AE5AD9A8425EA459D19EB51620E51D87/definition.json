@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/359d5f28-207a-4da6-80f0-abc17df771cf/dcg9cj2-c96161cf-1d88-4ea3-8a7d-db8472ff0758.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1OWQ1ZjI4LTIwN2EtNGRhNi04MGYwLWFiYzE3ZGY3NzFjZlwvZGNnOWNqMi1jOTYxNjFjZi0xZDg4LTRlYTMtOGE3ZC1kYjg0NzJmZjA3NTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GKQzPLtbjwMeN2SPjxHRzhSk9jMo1Ki6OGUBB3CY5Ys",
   "md5": "AE5AD9A8425EA459D19EB51620E51D87",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "cohen",
+    "barbarian",
+    "samuel",
+    "busch",
+    "king",
+    "lee",
+    "jung",
+    "eun",
+    "esben",
+    "lash",
+    "rasmussen",
+    "2020"
   ],
   "small": {
     "scale": 1.8700000000000008,
     "offset_x": -657,
     "offset_y": -290,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -224,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

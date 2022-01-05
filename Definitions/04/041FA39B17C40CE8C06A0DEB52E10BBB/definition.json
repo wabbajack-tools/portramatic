@@ -2,25 +2,46 @@
   "source": "https://cdn.donmai.us/original/04/1f/__yang_guifei_fate_and_1_more_drawn_by_raion_soraelf__041fa39b17c40ce8c06a0deb52e10bbb.jpg",
   "md5": "041FA39B17C40CE8C06A0DEB52E10BBB",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "three",
+    "years",
+    "ago",
+    "si",
+    "guo",
+    "tang",
+    "destiny",
+    "child-eve",
+    "\u96F2",
+    "\u3053\u732B",
+    "history",
+    "shade",
+    "bicheng",
+    "wang"
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -396,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -249,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -224,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

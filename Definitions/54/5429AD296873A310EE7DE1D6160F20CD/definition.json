@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/e3/46/2d/e3462d3e570956d15d0a0327a8742fd9.jpg",
   "md5": "5429AD296873A310EE7DE1D6160F20CD",
   "tags": [
-    ""
+    "",
+    "acipenseridae",
+    "sturgeon",
+    "scales",
+    "bannerlord",
+    "sturgians",
+    "horse",
+    "rider",
+    "mongolian",
+    "army",
+    "zhihui",
+    "su",
+    "rocky",
+    "colossus",
+    "peter",
+    "siedl",
+    "pacific",
+    "rim",
+    "jaeger",
+    "slayer",
+    "blade",
+    "immortality",
+    "benedick",
+    "bana",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -254,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -215,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -28,
     "offset_y": 16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,54 @@
   "source": "https://i.pinimg.com/originals/1e/9e/f3/1e9ef36c6771ca2f19f3bfb2f143abde.jpg",
   "md5": "9249782A14A2897AF36FEE2DD40BBEE8",
   "tags": [
-    "Sexy Queen"
+    "Sexy Queen",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "demon",
+    "nun",
+    "matt",
+    "b",
+    "female",
+    "demons",
+    "warrior",
+    "woman",
+    "priest",
+    "jang",
+    "minho",
+    "https://www.artstation.com/artwork/xzzvrm",
+    "concept",
+    "kuora",
+    "lycan",
+    "ranger",
+    "christine",
+    "deschamps",
+    "characters"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -185.6000000000019,
     "offset_y": -24.7999999999995,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.84,
     "offset_x": -75.19999999999999,
     "offset_y": -19.200000000000045,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -17.620370370369073,
-    "offset_y": 2.2737367544323206e-13,
-    "size": "full"
+    "offset_y": 2.2737367544323206E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

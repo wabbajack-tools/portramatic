@@ -13,27 +13,49 @@
     "outer_wear",
     "jacket",
     "shoes",
-    "boots"
+    "boots",
+    "angel",
+    "demon",
+    "drawing",
+    "dark",
+    "knight",
+    "lord",
+    "rings",
+    "2b",
+    "denni5",
+    "d5",
+    "nurgle",
+    "khorne",
+    "chaos",
+    "warrior",
+    "warhammer",
+    "dino",
+    "bug",
+    "bryan",
+    "schlossbauer"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -374.6666666666667,
     "offset_y": -199.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1900000000000002,
     "offset_x": -290.6666666666668,
     "offset_y": -161.33333333333346,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -69.33333333333326,
     "offset_y": -28.666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://64.media.tumblr.com/dcf1d2705dcc6eb04aaa3307b9c4d26e/cd2f99f349866078-60/s1280x1920/29fd21f87af89567fd8bd567897f713c65a2468b.jpg",
   "md5": "E947941040AFD60B5733D4DB399E5F4C",
   "tags": [
-    ""
+    "",
+    "bg3",
+    "glass",
+    "toshiba",
+    "vintage",
+    "mobile",
+    "phones",
+    "elf",
+    "ranger",
+    "liu",
+    "yang",
+    "female",
+    "warrior",
+    "woman",
+    "chant",
+    "ho",
+    "lin",
+    "blackdesert",
+    "seungmin",
+    "k\u30102020\u3011"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -151.55555555555557,
     "offset_y": -35.55555555555554,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -240.88888888888897,
     "offset_y": -49.77777777777783,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -172.555269922879,
     "offset_y": -46.251928020565515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

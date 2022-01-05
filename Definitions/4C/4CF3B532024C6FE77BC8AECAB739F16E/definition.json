@@ -2,27 +2,61 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/adad41e7-75c5-44fe-9810-7610189e7bc1/dcowzn1-36b89416-bff8-4258-bb74-19a5c3d3b02b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkYWQ0MWU3LTc1YzUtNDRmZS05ODEwLTc2MTAxODllN2JjMVwvZGNvd3puMS0zNmI4OTQxNi1iZmY4LTQyNTgtYmI3NC0xOWE1YzNkM2IwMmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aGC8cG6DJH72O4kP3YuqTCiJlTb1ipBBNG6RO_Sjdvc",
   "md5": "4CF3B532024C6FE77BC8AECAB739F16E",
   "tags": [
-    ""
+    "",
+    "sauron",
+    "drawing",
+    "batman",
+    "knight",
+    "armor",
+    "human",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "death\u0027s",
+    "keeper",
+    "justine",
+    "nortj\u00E9",
+    "study",
+    "form",
+    "\u0022vikings\u0022",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "watchmen",
+    "sister",
+    "night",
+    "alan",
+    "villanueva"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -355,
     "offset_y": -242,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -147,
     "offset_y": -157,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -34,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

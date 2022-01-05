@@ -2,27 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9bb7cac-1be8-4d08-aa11-82a02623e9d9/demi9fi-9178f288-2ec4-4f7f-bd55-75148c5359cb.jpg/v1/fill/w_1920,h_2711,q_75,strp/arahneya_by_ladygelion_demi9fi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjcxMSIsInBhdGgiOiJcL2ZcL2M5YmI3Y2FjLTFiZTgtNGQwOC1hYTExLTgyYTAyNjIzZTlkOVwvZGVtaTlmaS05MTc4ZjI4OC0yZWM0LTRmN2YtYmQ1NS03NTE0OGM1MzU5Y2IuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6JDlaSLSikPM2eJxNRm6gJ3_wDIm7aaT33vXH2R0AwA",
   "md5": "1FB9ACB3F31794D4468CB163D49EA5E9",
   "tags": [
-    ""
+    "",
+    "adhelin",
+    "monster",
+    "slayer",
+    "episode",
+    "albert",
+    "urmanov",
+    "warhammer",
+    "40k",
+    "fanart",
+    "konrad",
+    "curze",
+    "johannes",
+    "helgeson"
   ],
   "small": {
     "scale": 0.13999999999999924,
     "offset_x": -39,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -2,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -18,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

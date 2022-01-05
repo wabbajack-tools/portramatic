@@ -3,27 +3,47 @@
   "md5": "2C5AD9F2ABD629641DA0F72A30432034",
   "tags": [
     "mage",
-    "woman"
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "darwin",
+    "sixmorevodka",
+    "studio",
+    "2021",
+    "pyromancer",
+    "concept",
+    "mirko",
+    "calusic",
+    "estrelle",
+    "arnot"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -334.00000000000034,
     "offset_y": -100.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -207.33333333333337,
     "offset_y": -70.66666666666674,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -56.00000000000023,
     "offset_y": -66.66666666666686,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

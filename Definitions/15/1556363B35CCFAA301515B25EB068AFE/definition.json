@@ -1,28 +1,45 @@
 {
-  "source": "http://1.bp.blogspot.com/-6lejMGcEQ1c/UQh6mHj6bNI/AAAAAAAABYg/EgjMznUEx4M/s1600/dark+elf+sorceress.jpg",
+  "source": "http://1.bp.blogspot.com/-6lejMGcEQ1c/UQh6mHj6bNI/AAAAAAAABYg/EgjMznUEx4M/s1600/dark\u002Belf\u002Bsorceress.jpg",
   "md5": "1556363B35CCFAA301515B25EB068AFE",
   "tags": [
-    ""
+    "",
+    "beautiful",
+    "elf",
+    "women",
+    "anime",
+    "fairy",
+    "girl",
+    "hair",
+    "pin",
+    "up",
+    "primrose",
+    "egypt",
+    "game",
+    "ready",
+    "resources"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -102,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4499999999999995,
     "offset_x": 0,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -20,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

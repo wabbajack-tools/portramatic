@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/47/b6/58/47b6588107637b61464aba252903b88b.jpg",
   "md5": "9A03F21C6519B60281307549DE1E320C",
   "tags": [
-    ""
+    "",
+    "shadow",
+    "demon",
+    "god",
+    "evil",
+    "fire",
+    "castlevania",
+    "lords",
+    "dark",
+    "souls",
+    "orc",
+    "warrior",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "armor",
+    "hunter",
+    "venom",
+    "#29",
+    "variant",
+    "kael",
+    "ngu",
+    "marvel",
+    "gold",
+    "silver",
+    "angle\uFF08\u91D1\u89D2\u94F6\u89D2\uFF09",
+    "\u51AF\u4F1F",
+    "feng",
+    "wei\uFF08c12\uFF09",
+    "underground",
+    "huntborn",
+    "studio"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -297,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -113,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -136,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

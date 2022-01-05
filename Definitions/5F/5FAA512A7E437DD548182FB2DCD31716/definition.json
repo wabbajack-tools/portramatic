@@ -5,27 +5,59 @@
     "magic",
     "gathering",
     "wallpaper",
-    "iphone"
+    "iphone",
+    "dungeons",
+    "dragons",
+    "character",
+    "concept",
+    "necromancer",
+    "dark",
+    "souls",
+    "knight",
+    "brotherhood",
+    "death",
+    "black",
+    "siberna",
+    "nick",
+    "silva",
+    "characters",
+    "20190207-mortal",
+    "engines",
+    "fanart",
+    "mason",
+    "lee",
+    "mortal",
+    "science",
+    "fiction",
+    "coen",
+    "nikita",
+    "momot",
+    "https://www.artstation.com/artwork/wxg2z",
+    "witcher",
+    "books"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -111.60000000000002,
     "offset_y": -31.600000000000023,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.41258333333333264,
     "offset_x": -36.19999999999999,
     "offset_y": -15.199999999999989,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -7.58333333333303,
     "offset_y": -31.203703703703695,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

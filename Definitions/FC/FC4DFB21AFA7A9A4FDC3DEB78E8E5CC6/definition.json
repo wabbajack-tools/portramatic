@@ -2,25 +2,43 @@
   "source": "https://2.bp.blogspot.com/-8it_BF76M6s/WS3aLe_DbzI/AAAAAAAAFuU/P2zMw3Rija4OUMM4dtHU-wk6xEHZHBr3wCLcB/s1600/Dormammu%2B6.jpg",
   "md5": "FC4DFB21AFA7A9A4FDC3DEB78E8E5CC6",
   "tags": [
-    "Doctor Strange III"
+    "Doctor Strange III",
+    "dr.",
+    "strange",
+    "fan",
+    "doctor",
+    "costume",
+    "outfit",
+    "space",
+    "pirate",
+    "design",
+    "challenge",
+    "steven",
+    "g",
+    "challenges"
   ],
   "small": {
     "scale": 1,
     "offset_x": -388.66666666666526,
     "offset_y": -72.66666666666652,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -216.66666666666657,
     "offset_y": -53.333333333333286,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -2.0000000000001137,
     "offset_y": -3.3333333333333144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,32 @@
   "source": "https://i.pinimg.com/736x/6a/38/70/6a387055626301efdc33a657cc18e6c4.jpg",
   "md5": "5128D353B30E19828B6C356DEBA5F79D",
   "tags": [
-    ""
+    "",
+    "black",
+    "hair"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -17,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -24,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

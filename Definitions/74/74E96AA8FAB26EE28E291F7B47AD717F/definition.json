@@ -7,25 +7,64 @@
     "final fantasy",
     "fish",
     "animal",
-    ""
+    "",
+    "character",
+    "concept",
+    "cyborg",
+    "male",
+    "futuristic",
+    "assassin",
+    "female",
+    "orc",
+    "warrior",
+    "hansel",
+    "gretel",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "nemanja",
+    "stankovic\u0027s",
+    "submission",
+    "beyond",
+    "design",
+    "clara",
+    "yu",
+    "anyao",
+    "barbarian",
+    "woman",
+    "takeo",
+    "rui",
+    "jin",
+    "justiciero",
+    "personajes",
+    "fantas\u00EDa"
   ],
   "small": {
     "scale": 2.109999999999999,
     "offset_x": -451.99999999999943,
     "offset_y": -100.59999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -106.99999999999994,
     "offset_y": -45.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -21.999999999999773,
     "offset_y": -55.240740740740875,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

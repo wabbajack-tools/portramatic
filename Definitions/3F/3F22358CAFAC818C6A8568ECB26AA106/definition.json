@@ -1,28 +1,42 @@
 {
-  "source": "https://pbs.twimg.com/media/FCyxBdVUYAArYQv?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/FCyxBdVUYAArYQv?format=jpg\u0026name=large",
   "md5": "3F22358CAFAC818C6A8568ECB26AA106",
   "tags": [
-    ""
+    "",
+    "captious",
+    "vampire",
+    "yutthaphong",
+    "kaewsuk",
+    "https://www.artstation.com/artwork/a9yzaw",
+    "a",
+    "mormont",
+    "bear",
+    "island",
+    "hunter",
+    "schulz"
   ],
   "small": {
     "scale": 1,
     "offset_x": -916,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -795,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -680,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

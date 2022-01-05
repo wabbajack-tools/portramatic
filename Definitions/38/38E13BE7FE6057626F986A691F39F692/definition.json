@@ -2,27 +2,61 @@
   "source": "https://i.imgur.com/Tuc4503.jpeg",
   "md5": "38E13BE7FE6057626F986A691F39F692",
   "tags": [
-    ""
+    "",
+    "elena",
+    "throne",
+    "glass",
+    "books",
+    "yrene",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "anime",
+    "girl",
+    "orcs",
+    "yennefer",
+    "vengerberg",
+    "fanart",
+    "tomas",
+    "hjorth",
+    "witcher",
+    "game",
+    "cindy",
+    "gildia",
+    "guild",
+    "sword",
+    "master",
+    "wisnu",
+    "tan",
+    "illustration",
+    "happy",
+    "chinese",
+    "new",
+    "year"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -273,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -193,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -134,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

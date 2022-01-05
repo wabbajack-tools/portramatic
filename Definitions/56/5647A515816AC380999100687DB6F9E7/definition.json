@@ -2,27 +2,41 @@
   "source": "https://i.pinimg.com/564x/a8/d4/97/a8d497b5dcbc50cbe682e66fcf3fb5b1.jpg",
   "md5": "5647A515816AC380999100687DB6F9E7",
   "tags": [
-    ""
+    "",
+    "wow",
+    "human",
+    "warlock",
+    "anime",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -118,
     "offset_y": -5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -43,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -14,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

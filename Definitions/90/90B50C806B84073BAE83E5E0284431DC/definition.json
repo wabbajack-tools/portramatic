@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/c8/c3/be/c8c3bec0eadc4bcdc9d6cf2ad55ffbc1.jpg",
   "md5": "90B50C806B84073BAE83E5E0284431DC",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "princess",
+    "nordic",
+    "woman",
+    "swedish",
+    "fur",
+    "coats",
+    "game",
+    "thrones",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "robb",
+    "stark",
+    "yuehong",
+    "he"
   ],
   "small": {
     "scale": 0.25999999999999934,
     "offset_x": -156,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999927,
     "offset_x": -7,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -16,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

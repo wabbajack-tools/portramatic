@@ -4,27 +4,49 @@
   "tags": [
     "dark",
     "male",
-    "wizard"
+    "wizard",
+    "mtg",
+    "jace",
+    "beleren",
+    "card",
+    "fan",
+    "world",
+    "warcraft",
+    "rogue",
+    "night",
+    "elf",
+    "lord",
+    "rings",
+    "planeswalkers",
+    "diablo",
+    "joshua",
+    "cairos",
+    "\u65AF\u683C\u7F57\u7279\u7684\u5E1D\u738B1",
+    "chenhan",
+    "lin"
   ],
   "small": {
     "scale": 1.2399999999999998,
     "offset_x": -197,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -129,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0100000000000007,
     "offset_x": -259,
     "offset_y": -25,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

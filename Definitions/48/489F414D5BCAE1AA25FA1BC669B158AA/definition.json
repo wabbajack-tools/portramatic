@@ -2,27 +2,57 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/008/526/693/large/mat-gimeno-orc-female1.jpg?1513316032",
   "md5": "489F414D5BCAE1AA25FA1BC669B158AA",
   "tags": [
-    ""
+    "",
+    "orc",
+    "girl",
+    "drawing",
+    "woman",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "orcs",
+    "knight",
+    "night",
+    "scout",
+    "armor",
+    "muyoung",
+    "kim",
+    "https://www",
+    "gaming",
+    "pinwire",
+    "tinlef",
+    "elharil",
+    "monica",
+    "doss",
+    "tennogen",
+    "banshee",
+    "dominia",
+    "helmet",
+    "lendel"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -422,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -216,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -76,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

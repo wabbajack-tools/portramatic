@@ -2,27 +2,55 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/310cffff-e634-4de6-b97b-c007a2c2a5b8/d1ylfox-9d0ca922-cde2-4b66-9bd9-7ef9c532492b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMxMGNmZmZmLWU2MzQtNGRlNi1iOTdiLWMwMDdhMmMyYTViOFwvZDF5bGZveC05ZDBjYTkyMi1jZGUyLTRiNjYtOWJkOS03ZWY5YzUzMjQ5MmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BgkcQsu0pFPBZ0mCUeImQl0uu0T4PJsbMPrTAQ8P4_s",
   "md5": "77B70130955542572A10F152EAA4FE8E",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "door",
+    "knocker",
+    "metallic",
+    "antiques",
+    "statues",
+    "bronze",
+    "gold",
+    "dungeons",
+    "dragons",
+    "black",
+    "keita",
+    "okada",
+    "characters",
+    "design",
+    "antonio",
+    "j.",
+    "manzanedo",
+    "artwork",
+    "transformers",
+    "x",
+    "dinobots",
+    "concepts",
+    "mech",
+    "mode"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -80,
     "offset_y": -148,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -56,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -58,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

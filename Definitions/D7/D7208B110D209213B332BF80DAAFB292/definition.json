@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/originals/6b/59/63/6b5963426e84c35bc1c86c90fba89684.jpg",
   "md5": "D7208B110D209213B332BF80DAAFB292",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "sebastian",
+    "horoszko",
+    "red",
+    "priestess",
+    "character",
+    "xinzhou",
+    "lin"
   ],
   "small": {
     "scale": 1,
     "offset_x": -534,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -438,
     "offset_y": -206,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -388,
     "offset_y": -176,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

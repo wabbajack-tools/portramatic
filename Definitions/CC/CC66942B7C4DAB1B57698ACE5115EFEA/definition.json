@@ -2,27 +2,55 @@
   "source": "https://static.wixstatic.com/media/a7d44e_65b74301f3934f43b3cb744aab6806cc~mv2.png/v1/fill/w_439,h_703,al_c,lg_1,q_85/a7d44e_65b74301f3934f43b3cb744aab6806cc~mv2.webp",
   "md5": "CC66942B7C4DAB1B57698ACE5115EFEA",
   "tags": [
-    ""
+    "",
+    "human",
+    "fighter",
+    "characters",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "hansel",
+    "gretel",
+    "heavy",
+    "maiden",
+    "dima",
+    "rozhdestvensky",
+    "character",
+    "portraits",
+    "woman",
+    "barbarian",
+    "radoslav",
+    "topalov",
+    "https://www.artstation.com/artwork/lnobr",
+    "rogue",
+    "tomasz",
+    "ryger"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

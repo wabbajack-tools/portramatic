@@ -4,27 +4,50 @@
   "tags": [
     "Dwarf",
     "warrior",
-    "Armor"
+    "Armor",
+    "dwarf",
+    "character",
+    "wow",
+    "concept",
+    "dawn",
+    "war",
+    "punisher",
+    "doom",
+    "game",
+    "machine",
+    "hunger",
+    "games",
+    "sisters",
+    "battle",
+    "paul",
+    "dainton",
+    "warhammer",
+    "40k",
+    "artwork",
+    "adepta"
   ],
   "small": {
     "scale": 1.6100000000000005,
     "offset_x": -355,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5500000000000005,
     "offset_x": -257,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8800000000000008,
     "offset_x": -172,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

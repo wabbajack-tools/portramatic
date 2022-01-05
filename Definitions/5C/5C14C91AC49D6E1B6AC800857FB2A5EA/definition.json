@@ -25,28 +25,39 @@
     "buttercup",
     "reimagined",
     "daria",
-    "\"anako\"",
-    "widermanska"
+    "\u0022anako\u0022",
+    "widermanska",
+    "league",
+    "legends",
+    "green",
+    "hag",
+    "heartstone",
+    "study",
+    "jonatas",
+    "tobias"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -190,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -125,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -138,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

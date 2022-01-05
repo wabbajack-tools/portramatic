@@ -2,27 +2,39 @@
   "source": "https://swall.teahub.io/photos/small/76-766160_league-of-legends-hd-twitch.jpg",
   "md5": "89FDA10B096257F9609E96A11579EF2F",
   "tags": [
-    ""
+    "",
+    "twitch",
+    "skins",
+    "vandal",
+    "runes",
+    "league",
+    "legends",
+    "wow",
+    "druid",
+    "avatar"
   ],
   "small": {
     "scale": 1,
     "offset_x": 2,
     "offset_y": 83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -87,
     "offset_y": 16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -130,
     "offset_y": 6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

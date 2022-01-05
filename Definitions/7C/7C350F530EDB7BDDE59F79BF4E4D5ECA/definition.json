@@ -2,27 +2,34 @@
   "source": "https://cdn.discordapp.com/attachments/447906308360765462/912715303950123078/Star.png",
   "md5": "7C350F530EDB7BDDE59F79BF4E4D5ECA",
   "tags": [
-    ""
+    "",
+    "characters",
+    "design",
+    "bekarys",
+    "zhabagin"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -300.00000000000017,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -121.33333333333331,
     "offset_y": -67.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -32,
     "offset_y": -68.00000000000006,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

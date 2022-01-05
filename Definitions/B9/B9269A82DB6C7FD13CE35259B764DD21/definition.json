@@ -4,27 +4,53 @@
   "tags": [
     "ral",
     "storm",
-    "conduit"
+    "conduit",
+    "httyd",
+    "oc",
+    "male",
+    "viking",
+    "warriors",
+    "warrior",
+    "hobbit",
+    "samurai",
+    "armor",
+    "knight",
+    "again",
+    "akha",
+    "gondorian",
+    "general",
+    "mario",
+    "ortiz",
+    "mad",
+    "max",
+    "fury",
+    "road",
+    "immortan",
+    "joe",
+    "weta"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -218,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -55,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -3,
     "offset_y": -33,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

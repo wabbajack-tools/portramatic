@@ -2,27 +2,42 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1db88b3d-6af5-4d4e-b0e4-688c957e07e2/dbb2zi1-3b8527be-f6cb-43f5-b380-4b71cf5c6810.jpg/v1/fill/w_900,h_1392,q_75,strp/zerraustu_by_ramartwork_dbb2zi1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM5MiIsInBhdGgiOiJcL2ZcLzFkYjg4YjNkLTZhZjUtNGQ0ZS1iMGU0LTY4OGM5NTdlMDdlMlwvZGJiMnppMS0zYjg1MjdiZS1mNmNiLTQzZjUtYjM4MC00YjcxY2Y1YzY4MTAuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.82hQz9vqIdYcwuZ5nT2f4R2c0xBZ9YiY8YTT6eHefKg",
   "md5": "48CBBD0A6E465167DF639673AA7A358F",
   "tags": [
-    ""
+    "",
+    "legend",
+    "zelda",
+    "sonic",
+    "hedgehog",
+    "marvel",
+    "comics",
+    "beauty",
+    "beast",
+    "digimon",
+    "angemon",
+    "enrique",
+    "borges"
   ],
   "small": {
     "scale": 1.1599999999999993,
     "offset_x": -346,
     "offset_y": -221,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -100,
     "offset_y": -122,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": 2,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,50 @@
 {
-  "source": "https://preview.redd.it/j03yv5v9htp61.png?width=640&crop=smart&auto=webp&s=0968d02ccbc6f22f4f10fca3dcfe7a34721491dd",
+  "source": "https://preview.redd.it/j03yv5v9htp61.png?width=640\u0026crop=smart\u0026auto=webp\u0026s=0968d02ccbc6f22f4f10fca3dcfe7a34721491dd",
   "md5": "A2770DE3B6D789A5748ED26CF167D3D4",
   "tags": [
-    ""
+    "",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "game",
+    "thrones",
+    "assassin",
+    "northerner",
+    "evgeny",
+    "zakharov",
+    "https://www",
+    "scribbles",
+    "7",
+    "brian",
+    "coughlan",
+    "2021",
+    "study",
+    "hejun",
+    "mao"
   ],
   "small": {
     "scale": 1,
     "offset_x": -204,
     "offset_y": -260,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -152,
     "offset_y": -279,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 22,
     "offset_y": 24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

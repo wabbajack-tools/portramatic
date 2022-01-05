@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/82/8f/0f/828f0f7528fd6037350c23168c1ec02f.jpg",
   "md5": "E25E561ECA7B1FCFD4A51EC3C94D3211",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "born",
+    "tang0",
+    "st",
+    "demon",
+    "artwork",
+    "paladin",
+    "guardian",
+    "yin",
+    "yuming",
+    "vvitch",
+    "seok",
+    "young",
+    "choi"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -203,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -56,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": 4,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

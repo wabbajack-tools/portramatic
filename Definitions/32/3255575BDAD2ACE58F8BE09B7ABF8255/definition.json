@@ -2,7 +2,7 @@
   "source": "https://i.pinimg.com/originals/cb/13/26/cb1326c62dce7e3795e1c58cc4d2236e.jpg",
   "md5": "3255575BDAD2ACE58F8BE09B7ABF8255",
   "tags": [
-    "baldur's",
+    "baldur\u0027s",
     "gate",
     "mage",
     "portraits",
@@ -26,27 +26,56 @@
     "barbarian",
     "poll",
     "star",
-    "https://www"
+    "https://www",
+    "male",
+    "tiefling",
+    "fighter",
+    "female",
+    "drow",
+    "dragon",
+    "age",
+    "origins",
+    "heavy",
+    "paladin",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "destiny",
+    "titan",
+    "concept",
+    "b",
+    "clinton",
+    "felker",
+    "160906",
+    "san",
+    "mufan",
+    "artstation."
   ],
   "small": {
     "scale": 1.3200000000000003,
     "offset_x": -304.42857142856906,
     "offset_y": -15.142857142857167,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1500000000000001,
     "offset_x": -180.28571428571377,
     "offset_y": -6.285714285714221,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -15.142857142856997,
     "offset_y": -10.571428571428555,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

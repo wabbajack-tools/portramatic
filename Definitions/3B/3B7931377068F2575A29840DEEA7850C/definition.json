@@ -2,27 +2,44 @@
   "source": "https://dotawallpapers.com/wallpaper/dotawallpapers.com-dota-2-queen-of-pain-arcana-4104-2560x1440.jpg",
   "md5": "3B7931377068F2575A29840DEEA7850C",
   "tags": [
-    ""
+    "",
+    "heavenly",
+    "succubus",
+    "dota",
+    "from",
+    "wow",
+    "league",
+    "legends",
+    "marvel",
+    "battle",
+    "lines",
+    "artwork",
+    "mephisto",
+    "haje",
+    "714"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -892,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -1267,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -1158,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

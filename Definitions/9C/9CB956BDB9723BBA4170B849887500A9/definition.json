@@ -7,27 +7,63 @@
     "female",
     "alaa",
     "ben",
-    "fatma"
+    "fatma",
+    "woman",
+    "with",
+    "sword",
+    "character",
+    "concept",
+    "orc",
+    "dark",
+    "souls",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "kratos",
+    "chains",
+    "olympus",
+    "3d",
+    "monsters",
+    "demon",
+    "hunter",
+    "sekigan",
+    "\u2014",
+    "illust",
+    "u",
+    "danja",
+    "genicool",
+    "\u5A75\u7389/chanyu",
+    "liz",
+    "pirate",
+    "captain\u2014\u2014one",
+    "three",
+    "sisters",
+    "mist",
+    "xg"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -442,
     "offset_y": -271,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -148,
     "offset_y": -158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -32,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

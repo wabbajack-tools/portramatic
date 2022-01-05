@@ -23,27 +23,47 @@
     "tomas",
     "duchek",
     "2020",
-    "orc"
+    "orc",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "leon",
+    "kennedy",
+    "resident",
+    "evil",
+    "4",
+    "andrey",
+    "gorkovenko"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -218.40000000000003,
     "offset_y": -21.800000000000097,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -126.40000000000009,
     "offset_y": -19.799999999999955,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -1.9999999999997726,
     "offset_y": -7.148148148148152,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

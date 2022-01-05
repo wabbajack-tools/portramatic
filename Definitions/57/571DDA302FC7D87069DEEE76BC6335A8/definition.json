@@ -18,27 +18,59 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "men",
+    "cool",
+    "human",
+    "female",
+    "assassin",
+    "lord",
+    "rings",
+    "skyrim",
+    "gamer",
+    "\u201Ctitle",
+    "rogue",
+    ".",
+    "artist",
+    "elias",
+    "vihma",
+    "from",
+    "#artstation",
+    "#tumblr",
+    "#",
+    "billy",
+    "christian",
+    "dungeons",
+    "dragons",
+    "characters",
+    "character",
+    "prince",
+    "elves",
+    "jack",
+    "wang"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -325,
     "offset_y": -84,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -170,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -94,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,53 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/042/714/642/large/caglayan-kaya-goksoy-dain-ironfoot-v1-logo.jpg?1635261536",
   "md5": "241CF8F70CBF285113561FFD90085A29",
   "tags": [
-    ""
+    "",
+    "warriors",
+    "armors",
+    "samurai",
+    "armor",
+    "knight",
+    "spartan",
+    "warrior",
+    "\u82CF\u660E-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "hussar",
+    "jin",
+    "hyun",
+    "kim",
+    "historical",
+    "legend",
+    "king",
+    "arthur",
+    "film/vfx",
+    "character",
+    "pedro",
+    "baltazar"
   ],
   "small": {
     "scale": 1,
     "offset_x": -302,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -217,
     "offset_y": -124,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -210,
     "offset_y": -202,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

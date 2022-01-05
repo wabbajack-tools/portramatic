@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/0c/20/f5/0c20f5eb5da85fff9dfb5697d2004517.jpg",
   "md5": "870D21AA01B4053178729486F2728404",
   "tags": [
-    ""
+    "",
+    "agartha",
+    "entrances",
+    "waterfall",
+    "concept",
+    "cathedral",
+    "dragon",
+    "age",
+    "origins",
+    "barbarians",
+    "assassin",
+    "tiefling",
+    "flo",
+    "young",
+    "card",
+    "illustrations",
+    "conqueror",
+    "warlord",
+    "strength",
+    "noa",
+    "ikeda",
+    "with",
+    "animation"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -380,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -87,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -28,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

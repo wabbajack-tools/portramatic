@@ -2,27 +2,41 @@
   "source": "https://w7.pngwing.com/pngs/314/609/png-transparent-art-character-comics-pixiv-online-game-cacao-miscellaneous-game-cg-artwork.png",
   "md5": "2B5B1B59679F6E5560232B43DE577374",
   "tags": [
-    ""
+    "",
+    "kimono",
+    "girl",
+    "hye",
+    "ji",
+    "kim",
+    "magician",
+    "wasa",
+    "b",
+    "cleric",
+    "gayeon",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.189999999999999,
     "offset_x": -450,
     "offset_y": -187,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7600000000000007,
     "offset_x": -584,
     "offset_y": -345,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7900000000000007,
     "offset_x": -422,
     "offset_y": -360,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

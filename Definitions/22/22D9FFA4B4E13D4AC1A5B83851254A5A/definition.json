@@ -4,27 +4,56 @@
   "tags": [
     "mage",
     "woman",
-    "fire"
+    "fire",
+    "anime",
+    "girl",
+    "characters",
+    "inuyasha",
+    "guys",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "lohse",
+    "dos2",
+    "anastasija",
+    "gaus",
+    "saar",
+    "lineage",
+    "eternal",
+    "changyup",
+    "lee",
+    "men",
+    "character",
+    "design",
+    "female",
+    "pirate",
+    "cynthia",
+    "asai"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -259.3333333333336,
     "offset_y": -119.33333333333348,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -100.66666666666663,
     "offset_y": -10.000000000000085,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -33.333333333333485,
     "offset_y": -64.00000000000034,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

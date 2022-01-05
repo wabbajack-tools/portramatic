@@ -1,26 +1,44 @@
 {
-  "source": "https://preview.redd.it/2ryxwpu5rtk61.png?width=640&crop=smart&auto=webp&s=be5591475419f9c886282cbc84fa50faa1bad900",
+  "source": "https://preview.redd.it/2ryxwpu5rtk61.png?width=640\u0026crop=smart\u0026auto=webp\u0026s=be5591475419f9c886282cbc84fa50faa1bad900",
   "md5": "65A69A3EE880AD9F2F20BB62AE6679CC",
   "tags": [
-    ""
+    "",
+    "astrologer",
+    "joohyun",
+    "lee",
+    "china",
+    "librarian",
+    "choi",
+    "kwangsoon",
+    "wizard",
+    "chearin",
+    "kim",
+    "/cherry",
+    "character",
+    "illustrations"
   ],
   "small": {
     "scale": 2.1099999999999985,
     "offset_x": -620,
     "offset_y": -304,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -202,
     "offset_y": -109,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -85,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/f3/ce/6a/f3ce6a6825fb30d54b70630b24ffebae.jpg",
   "md5": "9998CBDD8A7F350AF3B3C63198A1F24D",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "lucifer",
+    "painting",
+    "god\u0027s",
+    "angels",
+    "medieval",
+    "knights",
+    "dark",
+    "knight",
+    "crow",
+    "god",
+    "illustration",
+    "drawing",
+    "tutorial",
+    "zhihui",
+    "su",
+    "2020",
+    "character",
+    "design",
+    "minotaur",
+    "hak",
+    "sun",
+    "kim",
+    "https://www"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -312,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": -124,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

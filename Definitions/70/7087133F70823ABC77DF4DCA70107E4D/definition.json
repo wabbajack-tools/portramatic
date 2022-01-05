@@ -2,25 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/027/333/991/large/ari-targownik-svirfneblin.jpg?1591233835",
   "md5": "7087133F70823ABC77DF4DCA70107E4D",
   "tags": [
-    ""
+    "",
+    "gnome",
+    "character",
+    "warlock",
+    "dark",
+    "paladin",
+    "eugene",
+    "rudakov",
+    "girl",
+    "viktoria",
+    "sinyashina",
+    "2020",
+    "samurai",
+    "gear",
+    "near",
+    "future",
+    "soldier",
+    "olha",
+    "karvytska"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -241,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -140,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -151,
     "offset_y": -15,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

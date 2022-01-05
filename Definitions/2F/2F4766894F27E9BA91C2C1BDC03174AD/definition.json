@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/474x/1b/84/df/1b84df1cea0de6d8db641608e116ed54--concept-photography-character-concept.jpg",
   "md5": "2F4766894F27E9BA91C2C1BDC03174AD",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "armor",
+    "concept",
+    "female",
+    "dark",
+    "knight",
+    "sword",
+    "souls",
+    "death",
+    "samurai",
+    "wild",
+    "ork",
+    "junq",
+    "jeon",
+    "darren",
+    "bartley",
+    "fightpunch",
+    "left",
+    "hand"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -291,
     "offset_y": -142,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -37,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.139999999999998,
     "offset_x": -143,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

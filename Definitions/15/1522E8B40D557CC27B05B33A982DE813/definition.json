@@ -4,27 +4,40 @@
   "tags": [
     "beautiful",
     "female",
-    "tiefling"
+    "tiefling",
+    "madoka",
+    "magica",
+    "homura",
+    "demon",
+    "akemi",
+    "devil",
+    "animes",
+    "anime",
+    "girl",
+    "characters"
   ],
   "small": {
     "scale": 0.8099999999999998,
     "offset_x": -219,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -3,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -10,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

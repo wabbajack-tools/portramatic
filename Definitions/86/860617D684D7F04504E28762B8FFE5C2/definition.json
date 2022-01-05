@@ -20,27 +20,38 @@
     "dognon",
     "baradise",
     "island",
-    "source:https://www.artstation.com"
+    "source:https://www.artstation.com",
+    "artwork",
+    "fan",
+    "concept",
+    "witcher",
+    "3\uFF1Aciri",
+    "tao",
+    "yi",
+    "https://www"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -212,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -489,
     "offset_y": -146,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -68,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

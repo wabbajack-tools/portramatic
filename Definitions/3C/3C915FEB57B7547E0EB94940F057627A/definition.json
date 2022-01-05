@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/736x/f1/cd/a1/f1cda18075d354570af38276cde47913.jpg",
   "md5": "3C915FEB57B7547E0EB94940F057627A",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "drawings",
+    "mythical",
+    "dragon",
+    "archangels",
+    "dark",
+    "elf",
+    "st.",
+    "michael",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "legend",
+    "cryptids",
+    "lius",
+    "lasahido",
+    "griffin",
+    "archer",
+    "hunter",
+    "schulz",
+    "concept",
+    "world",
+    "warrior",
+    "crow",
+    "god",
+    "illustration",
+    "drawing",
+    "tutorial"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -262,
     "offset_y": -135,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -9,
     "offset_y": -66,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -8,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

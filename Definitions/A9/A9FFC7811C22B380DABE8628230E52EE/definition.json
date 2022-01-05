@@ -3,27 +3,32 @@
   "md5": "A9FFC7811C22B380DABE8628230E52EE",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "character",
+    "miniature"
   ],
   "small": {
     "scale": 0.25999999999999934,
     "offset_x": -54,
     "offset_y": -4.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -36,
     "offset_y": -2.3333333333333144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -90,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

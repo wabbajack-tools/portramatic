@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/originals/df/97/b3/df97b3daeaf7e5f8582585aad5f6f76c.jpg",
   "md5": "C1EA06CA46FECCAD4EDCD9425F5C5818",
   "tags": [
-    ""
+    "",
+    "awesome",
+    "character",
+    "design",
+    "illustration",
+    "stylized",
+    "knight",
+    "armor",
+    "female",
+    "assassin",
+    "armors",
+    "knights",
+    "project",
+    "myoung",
+    "hwan",
+    "kim",
+    "concept",
+    "characters",
+    "barbarian",
+    "\uD83D\uDE03nikolay",
+    "naydenov\uD83D\uDE03",
+    "naxi",
+    "rong",
+    "xiao",
+    "mercenary"
   ],
   "small": {
     "scale": 1,
     "offset_x": -222,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -155,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -50,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

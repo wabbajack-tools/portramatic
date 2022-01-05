@@ -2,27 +2,34 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0889712-231b-46f7-b5d3-7c3abd865741/d7wvam9-1be70230-657a-4e8a-b07e-707660972517.png/v1/fill/w_800,h_1221,q_75,strp/fantasy_elf_portrait_by_jay_carpenter-d7wvam9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMDg4OTcxMi0yMzFiLTQ2ZjctYjVkMy03YzNhYmQ4NjU3NDEvZDd3dmFtOS0xYmU3MDIzMC02NTdhLTRlOGEtYjA3ZS03MDc2NjA5NzI1MTcucG5nIiwid2lkdGgiOiI8PTgwMCIsImhlaWdodCI6Ijw9MTIyMSJ9XV19.lG23B6yqbeitSiLXTurQsON-EoGxe7DghN-8oVt4pPE",
   "md5": "783F924956183FAED17EB018509679C0",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "female",
+    "tattoos"
   ],
   "small": {
     "scale": 0.23999999999999932,
     "offset_x": -1,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -30,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

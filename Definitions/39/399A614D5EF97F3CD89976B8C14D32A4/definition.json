@@ -2,27 +2,68 @@
   "source": "https://i.pinimg.com/564x/b1/1b/b1/b11bb18b19321b3a8ea0a96f7e4cf815.jpg",
   "md5": "399A614D5EF97F3CD89976B8C14D32A4",
   "tags": [
-    ""
+    "",
+    "forest",
+    "gnome",
+    "bard",
+    "druid",
+    "female",
+    "assassin",
+    "lord",
+    "rings",
+    "world",
+    "warcraft",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "huntress",
+    "ester",
+    "zejn",
+    "ciri",
+    "jarhudpong",
+    "khewgor",
+    "witcher",
+    "wild",
+    "hunt",
+    "geralt",
+    "ves",
+    "gwent",
+    "fanart",
+    "oksana",
+    "kerro",
+    "character",
+    "skins",
+    "characters"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -170.66666666666663,
     "offset_y": -10.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -19.333333333333314,
     "offset_y": -1.3333333333333712,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

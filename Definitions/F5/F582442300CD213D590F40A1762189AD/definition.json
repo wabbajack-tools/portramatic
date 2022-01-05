@@ -2,25 +2,57 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/027/694/208/large/chalky-nan-ripleybow-ckn.jpg?1592282053",
   "md5": "F582442300CD213D590F40A1762189AD",
   "tags": [
-    ""
+    "",
+    "kingdom",
+    "names",
+    "ideas",
+    "town",
+    "good",
+    "hobbit",
+    "lord",
+    "rings",
+    "witcher",
+    "wood",
+    "elf",
+    "zelda",
+    "twilight",
+    "princess",
+    "game",
+    "thrones",
+    "elves",
+    "underworld",
+    "watch",
+    "https://www.artstation.com/p/rv6j6",
+    "arif",
+    "wijaya",
+    "freelance",
+    "illustrator",
+    "huntress",
+    "sergey",
+    "minin"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -88,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -8,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -9,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

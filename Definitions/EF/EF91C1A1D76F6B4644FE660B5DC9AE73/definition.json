@@ -19,27 +19,47 @@
     "knight",
     "",
     "game",
-    "thrones"
+    "thrones",
+    "gunslinger",
+    "lucas",
+    "leger",
+    "loki",
+    "for",
+    "thor",
+    "ragnarok",
+    "aleksi",
+    "briclot",
+    "https://www.artstation.com/artwork",
+    "fire",
+    "keeper",
+    "jang",
+    "ju",
+    "hyeon",
+    "https://www.artstation.com/artwork/xzpe4r",
+    "dark"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -430.3999999999997,
     "offset_y": -195.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -176.60000000000002,
     "offset_y": -123.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5299999999999996,
     "offset_x": -170,
     "offset_y": -182,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

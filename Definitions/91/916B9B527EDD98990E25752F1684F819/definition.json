@@ -2,27 +2,56 @@
   "source": "https://i.redd.it/jpinmxcwdxz31.png",
   "md5": "916B9B527EDD98990E25752F1684F819",
   "tags": [
-    ""
+    "",
+    "fighter",
+    "character",
+    "rogue",
+    "ranger",
+    "armor",
+    "renaissance",
+    "costumes",
+    "leather",
+    "armors",
+    "knight",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "defender",
+    "kseniya",
+    "sibileva",
+    "characters",
+    "design",
+    "bandit",
+    "jorge",
+    "henriquez",
+    "assassin",
+    "ekaterina",
+    "mikhailova"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -296.6666666666669,
     "offset_y": -70,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -289.99999999999994,
     "offset_y": -75.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -20.000000000000227,
     "offset_y": -41.33333333333343,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

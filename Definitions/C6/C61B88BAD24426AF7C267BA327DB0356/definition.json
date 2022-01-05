@@ -2,25 +2,52 @@
   "source": "https://db4sgowjqfwig.cloudfront.net/campaigns/161695/assets/726184/li-qian-img-0441.jpg?1492645125",
   "md5": "C61B88BAD24426AF7C267BA327DB0356",
   "tags": [
-    ""
+    "",
+    "gnome",
+    "wizard",
+    "male",
+    "deep",
+    "orc",
+    "warrior",
+    "night",
+    "elf",
+    "dungeons",
+    "dragons",
+    "dark",
+    "old",
+    "work",
+    "for",
+    "fantasica",
+    "card",
+    "game.",
+    "yutthaphong",
+    "kaewsuk",
+    "epic",
+    "dragon",
+    "artwork"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -257,
     "offset_y": -160,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -392,
     "offset_y": -280,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -296,
     "offset_y": -282,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

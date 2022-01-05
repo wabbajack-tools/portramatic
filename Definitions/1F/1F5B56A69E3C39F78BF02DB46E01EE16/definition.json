@@ -12,25 +12,64 @@
     "art",
     "ninja",
     "lightning",
-    "mage"
+    "mage",
+    "fire",
+    "emblem",
+    "sprite",
+    "warrior",
+    "league",
+    "legends",
+    "star",
+    "wars",
+    "knights",
+    "old",
+    "republic",
+    "marvel",
+    "comics",
+    "jace",
+    "beleren",
+    "nick",
+    "gaul",
+    "anime",
+    "artwork",
+    "skeletor",
+    "art_0ni\u0027s",
+    "tutorial",
+    "breakdown",
+    "free",
+    "parody",
+    "comic",
+    "books",
+    "\u0026",
+    "nithogg",
+    "peet",
+    "cooper",
+    "hearthstone",
+    "warcraft",
+    "creature"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -338,
     "offset_y": -223,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -161,
     "offset_y": -151,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -20,
     "offset_y": -3.4074074074073906,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

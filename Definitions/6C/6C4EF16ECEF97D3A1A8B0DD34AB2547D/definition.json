@@ -2,27 +2,48 @@
   "source": "https://i.redd.it/zfad2tcj50d71.jpg",
   "md5": "6C4EF16ECEF97D3A1A8B0DD34AB2547D",
   "tags": [
-    ""
+    "",
+    "darth",
+    "maul",
+    "siame",
+    "same",
+    "van",
+    "rijn",
+    "female",
+    "characters",
+    "fjord",
+    "critical",
+    "role",
+    "fanart",
+    "ben",
+    "williams",
+    "devil",
+    "queen",
+    "erica",
+    "willey"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -213,
     "offset_y": -45,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7199999999999998,
     "offset_x": -321,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -88,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

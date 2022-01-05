@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/2e/d7/1d/2ed71d07578119eb8fd3a22ba7bb702e.jpg",
   "md5": "B32C6BFA4FC647883C2B4C2164C35DE5",
   "tags": [
-    ""
+    "",
+    "male",
+    "dwarf",
+    "monk",
+    "amazing",
+    "spider-man",
+    "witcher",
+    "liu",
+    "pengcheng",
+    "inspiration",
+    "drow",
+    "edric",
+    "daguio",
+    "https://www.artstation",
+    "jean",
+    "bison",
+    "fan",
+    "a",
+    "sly",
+    "cooper",
+    "villain"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -297,
     "offset_y": -197,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -43,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -6,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

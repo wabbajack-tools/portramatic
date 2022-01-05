@@ -2,27 +2,44 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47609572-6815-4d81-a55d-88caccb00bd5/d797j7d-a026d0c8-2352-4367-b0cf-4d9ce38dd604.jpg/v1/fill/w_1024,h_1532,q_75,strp/monk_diablo_3_by_theboyofcheese_d797j7d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzMiIsInBhdGgiOiJcL2ZcLzQ3NjA5NTcyLTY4MTUtNGQ4MS1hNTVkLTg4Y2FjY2IwMGJkNVwvZDc5N2o3ZC1hMDI2ZDBjOC0yMzUyLTQzNjctYjBjZi00ZDljZTM4ZGQ2MDQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6DZoZsroUiQVhJvyY7dfyoT9GGA9ZsjieGOxromSP-g",
   "md5": "07CDD0868E0677C00547027584224D83",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "female",
+    "monk",
+    "armor",
+    "build",
+    "knight",
+    "denis",
+    "zhbankov",
+    "artwork",
+    "epicenter",
+    "xl",
+    "juggernaut",
+    "arcana",
+    "style"
   ],
   "small": {
     "scale": 1.95,
     "offset_x": -1015,
     "offset_y": -653,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -369,
     "offset_y": -291,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

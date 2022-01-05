@@ -6,27 +6,46 @@
     "oriental",
     "exotic",
     "blue",
-    "jewelry"
+    "jewelry",
+    "league",
+    "legends",
+    "blood",
+    "elf",
+    "spider",
+    "queen",
+    "tungning",
+    "hsu",
+    "gillya",
+    "st-lumierre",
+    "g",
+    "zen",
+    "\u53E4\u4ECA\u79CB",
+    "moon",
+    "diana",
+    "kezi"
   ],
   "small": {
     "scale": 1.09,
     "offset_x": -172.9333333333334,
     "offset_y": -67.5333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -77.06666666666683,
     "offset_y": -17.733333333333064,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -38.018518518518476,
     "offset_y": -6.175925925926094,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

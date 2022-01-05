@@ -15,27 +15,51 @@
     "warhammer",
     "40",
     "hd",
-    "mobile"
+    "mobile",
+    "male",
+    "human",
+    "dynasty",
+    "warriors",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "samurai",
+    "templar",
+    "crusader",
+    "armors",
+    "my",
+    "work",
+    "ilsu",
+    "jang",
+    "https://www.artstation.com/artwork/gzypx",
+    "hammer",
+    "paladin",
+    "leonardo",
+    "domingues"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -342.59999999999985,
     "offset_y": -80.20000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -152.20000000000005,
     "offset_y": -46.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -7.296296296296305,
     "offset_y": -56.120370370370324,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

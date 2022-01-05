@@ -2,27 +2,54 @@
   "source": "https://bestofcomicbooks.com/wp-content/uploads/2018/11/Triss-Merigold-Beautifull-2-1.jpg",
   "md5": "B42DE134418C08CE0BB65172ACB193BC",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "geralt",
+    "triss",
+    "yennefer",
+    "fan",
+    "league",
+    "legends",
+    "karna",
+    "zumi",
+    "draws",
+    "character",
+    "fate",
+    "stay",
+    "fire",
+    "dancer/",
+    "ice",
+    "saintess",
+    "ii/",
+    "rage",
+    "bear/",
+    "soul",
+    "\u6B66\u50E7",
+    "fanqin",
+    "xu"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -470,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -245,
     "offset_y": -90,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -3,
     "offset_y": -17,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,65 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/008/088/218/large/daeho-cha-.jpg?1510401905",
   "md5": "852370B30B5A693B7AE05DC1CCF1A343",
   "tags": [
-    ""
+    "",
+    "sketch",
+    "character",
+    "design",
+    "shapes",
+    "game",
+    "animation",
+    "black",
+    "dragon",
+    "castlevania",
+    "lords",
+    "shadow",
+    "armor",
+    "dark",
+    "knight",
+    "symphony",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "mu",
+    "origin",
+    "summoner",
+    "lee",
+    "gunho",
+    "concept",
+    "park",
+    "jae",
+    "hyung",
+    "https://www",
+    "veo",
+    "sjena",
+    "tabaxi",
+    "gloomstalker",
+    "ranger/rogue"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -1169,
     "offset_y": -339,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -454,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -482,
     "offset_y": -136,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

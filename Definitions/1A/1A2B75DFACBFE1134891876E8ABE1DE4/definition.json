@@ -3,27 +3,40 @@
   "md5": "1A2B75DFACBFE1134891876E8ABE1DE4",
   "tags": [
     "Witch",
-    "Sorcerer"
+    "Sorcerer",
+    "rogue",
+    "male",
+    "elf",
+    "wizard",
+    "blood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -1,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -10,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -4,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

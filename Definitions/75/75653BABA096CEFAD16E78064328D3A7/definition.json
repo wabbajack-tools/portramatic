@@ -2,27 +2,58 @@
   "source": "https://cdn.discordapp.com/attachments/842775760665182239/925456851728990248/Selas_Coriander.jpg",
   "md5": "75653BABA096CEFAD16E78064328D3A7",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "assassin",
+    "nina",
+    "galinska",
+    "kingmaker",
+    "portraits",
+    "girl",
+    "1920s",
+    "adventurers",
+    "marc",
+    "scott",
+    "hep",
+    "to",
+    "jive",
+    "pinterest",
+    "rpg",
+    "dwarf",
+    "wren",
+    "hunter",
+    "dungeons",
+    "dragons",
+    "characters",
+    "male"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -146,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.06,
     "offset_x": -60,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

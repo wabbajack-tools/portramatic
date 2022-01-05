@@ -13,27 +13,56 @@
     "savage",
     "shaman",
     "maik",
-    "beiersdorf"
+    "beiersdorf",
+    "witch",
+    "concept",
+    "conan",
+    "artwork",
+    "female",
+    "pirate",
+    "kratos",
+    "assassin",
+    "dark",
+    "pirates",
+    "caribbean",
+    "meteor",
+    "choi",
+    "yongjae",
+    "demon",
+    "monster",
+    "lord",
+    "dead",
+    "dmitry",
+    "dalnev",
+    "2020",
+    "creating",
+    "characters",
+    "\u7537\u6CD5\u5E08",
+    "k",
+    "x"
   ],
   "small": {
     "scale": 1.11,
     "offset_x": -395,
     "offset_y": -334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -188,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -42,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://img-9gag-fun.9cache.com/photo/aKj3Zxj_700bwp.webp",
   "md5": "E8498B4DE10875469C7B983F2C35A186",
   "tags": [
-    ""
+    "",
+    "anime",
+    "dark",
+    "prince",
+    "persia",
+    "two",
+    "thrones",
+    "characters",
+    "reaper",
+    "lv",
+    "lingqi",
+    "de",
+    "sila",
+    "chinese",
+    "warrior",
+    "deathstroke",
+    "knights",
+    "\u0026",
+    "dragons",
+    "alon",
+    "chou",
+    "\u4E09\u56FD\u6740",
+    "li",
+    "qian",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -112,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999998,
     "offset_x": -35,
     "offset_y": -101,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -4,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

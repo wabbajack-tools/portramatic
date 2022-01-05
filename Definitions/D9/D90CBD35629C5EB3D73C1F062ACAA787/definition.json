@@ -19,27 +19,38 @@
     "creature",
     "designs",
     "veerle",
-    "zandstra"
+    "zandstra",
+    "artificer",
+    "rpg",
+    "alchemist",
+    "gnome",
+    "zelda",
+    "twilight",
+    "princess",
+    "lamellar"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -202.9999999999999,
     "offset_y": -82.6666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -107.33333333333343,
     "offset_y": -44.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -2.6666666666667425,
     "offset_y": -89.33333333333354,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

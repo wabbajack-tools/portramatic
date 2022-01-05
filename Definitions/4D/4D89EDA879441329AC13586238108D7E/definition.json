@@ -6,27 +6,47 @@
     "Red Hair",
     "Beautiful",
     "Blue",
-    "Eyes"
+    "Eyes",
+    "girl",
+    "with",
+    "red",
+    "hair",
+    "drawing",
+    "woman",
+    "pink",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "vampire",
+    "masquerade",
+    "kathy",
+    "glens",
+    "amy"
   ],
   "small": {
     "scale": 0.16999999999999926,
     "offset_x": -44,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.18999999999999928,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

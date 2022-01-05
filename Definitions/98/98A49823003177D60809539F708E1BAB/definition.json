@@ -2,27 +2,42 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/014/551/737/large/jungmin-jin-dospi-jungmin-jin-dospi.jpg?1544460891",
   "md5": "98A49823003177D60809539F708E1BAB",
   "tags": [
-    ""
+    "",
+    "anime",
+    "moon",
+    "picture",
+    "moonlight",
+    "girl",
+    "with",
+    "flute",
+    "league",
+    "legends",
+    "angel",
+    "butterfly",
+    "wallpaper"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -1206,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -614,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -866,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

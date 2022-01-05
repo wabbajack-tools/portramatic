@@ -2,27 +2,47 @@
   "source": "https://forum.reapermini.com/uploads/monthly_2018_07/tiefling-cleric.jpg.83103d7f7e9afa90f33c284545377fe3.jpg",
   "md5": "DD14FEC724042190EBD5F77970D258C9",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "knight",
+    "children",
+    "drawing",
+    "female",
+    "pirate",
+    "thief",
+    "jiyun",
+    "lim",
+    "https://www.artstation",
+    "zatanna",
+    "ethan",
+    "wylie",
+    "grashka",
+    "brawler",
+    "angela",
+    "lichtenberg"
   ],
   "small": {
     "scale": 0.15999999999999928,
     "offset_x": -132,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.16999999999999932,
     "offset_x": -85,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.28999999999999937,
     "offset_x": -50,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

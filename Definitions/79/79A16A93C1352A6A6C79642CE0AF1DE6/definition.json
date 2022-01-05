@@ -1,5 +1,5 @@
 {
-  "source": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fwatermark%2F7e009d766eb0da6dbd5e505b139e662c83946e97.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643544871&t=5e9409c4bcc71e89127a94c95f9ece50",
+  "source": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fwatermark%2F7e009d766eb0da6dbd5e505b139e662c83946e97.jpg\u0026refer=http%3A%2F%2Fi0.hdslb.com\u0026app=2002\u0026size=f9999,10000\u0026q=a80\u0026n=0\u0026g=0n\u0026fmt=jpeg?sec=1643544871\u0026t=5e9409c4bcc71e89127a94c95f9ece50",
   "md5": "79A16A93C1352A6A6C79642CE0AF1DE6",
   "tags": [
     "blonde",
@@ -9,21 +9,24 @@
     "scale": 1.2700000000000002,
     "offset_x": -529,
     "offset_y": -113,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -164,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -142,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

@@ -3,27 +3,52 @@
   "md5": "56F406E5A110930EA806FC11012D5981",
   "tags": [
     "tiefling",
-    "man"
+    "man",
+    "funny",
+    "characters",
+    "character",
+    "sketches",
+    "druid",
+    "female",
+    "assassin",
+    "darkelf",
+    "peter",
+    "ortiz",
+    "portraits",
+    "dark",
+    "elf",
+    "hexblade",
+    "hanna",
+    "yakovleva",
+    "playing",
+    "concept",
+    "rogue",
+    "robert",
+    "mallinson",
+    "https://www.artstation.com/artwork/odkwb"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -131,
     "offset_y": -50,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -65,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": 0,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

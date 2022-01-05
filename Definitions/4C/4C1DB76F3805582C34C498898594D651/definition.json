@@ -2,25 +2,50 @@
   "source": "https://img.favpng.com/0/17/9/pathfinder-roleplaying-game-dungeons-dragons-dwarf-warrior-fighter-png-favpng-y45z1RVZ7ifCeY8ZhyUXNRAaP.jpg",
   "md5": "4C1DB76F3805582C34C498898594D651",
   "tags": [
-    ""
+    "",
+    "giant",
+    "centipede",
+    "monster",
+    "japanese",
+    "infinity",
+    "war",
+    "samurai",
+    "armor",
+    "helmet",
+    "concept",
+    "character",
+    "pavel",
+    "kondrashov",
+    "babarian",
+    "garden_7",
+    "colors",
+    "version",
+    "cabeiri",
+    "nicolas",
+    "amoroso"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -439,
     "offset_y": -249,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -225,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -97,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

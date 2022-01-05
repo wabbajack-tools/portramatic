@@ -3,27 +3,39 @@
   "md5": "86690017D897226C91EAD23A3A209620",
   "tags": [
     "clover",
-    "princess"
+    "princess",
+    "fate",
+    "stay",
+    "night",
+    "mordred",
+    "anime",
+    "go",
+    "merlin",
+    "girl",
+    "angel"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -260,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -184,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -286,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

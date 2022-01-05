@@ -37,27 +37,37 @@
     "lydia",
     "qx",
     "artstation.",
-    "dark"
+    "dark",
+    "character",
+    "design",
+    "tumblr",
+    "cute",
+    "witch",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -126,
     "offset_y": -41,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -32,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -2,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,42 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/026/751/746/large/jacky-chen-kindred.jpg?1589623642",
   "md5": "1EA29500FDEC0DA707DD132E6D7DBA77",
   "tags": [
-    ""
+    "",
+    "blue",
+    "eyes",
+    "ultimate",
+    "dragon",
+    "yugio",
+    "guardians",
+    "galaxy",
+    "skadi",
+    "goddess",
+    "winter",
+    "konsennin",
+    "arts"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -651,
     "offset_y": -121,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -817,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -154,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

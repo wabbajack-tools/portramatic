@@ -8,27 +8,49 @@
     "dress",
     "formal_dress",
     "shoes",
-    "heels"
+    "heels",
+    "female",
+    "assassin",
+    "vampire",
+    "costumes",
+    "robes",
+    "een",
+    "mikhail",
+    "palamarchuk",
+    "2019",
+    "artwork_the",
+    "queen",
+    "slow",
+    "kihun",
+    "kim",
+    "oceans\u0026empires",
+    "illust",
+    "daeho",
+    "cha",
+    "warrior"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -519.1000000000047,
     "offset_y": -105.60000000000014,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -339.90000000000003,
     "offset_y": -70.40000000000009,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -344.0000000000001,
     "offset_y": -94.80000000000007,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

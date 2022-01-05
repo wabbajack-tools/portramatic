@@ -11,25 +11,54 @@
     "person",
     "human",
     "elf",
-    ""
+    "",
+    "fun",
+    "commanders",
+    "mtg",
+    "magic",
+    "gathering",
+    "izoni",
+    "thousand",
+    "eyed",
+    "attrition",
+    "orc",
+    "warrior",
+    "wood",
+    "dark",
+    "night",
+    "undead",
+    "with",
+    "skull",
+    "geun",
+    "jang",
+    "https://www",
+    "putrid",
+    "blightking",
+    "catherine",
+    "o\u0027connor"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -322,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -306,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -216,
     "offset_y": 28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

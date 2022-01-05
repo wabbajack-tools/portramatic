@@ -3,27 +3,48 @@
   "md5": "991955748E08F36C963E2BBA3BDD3CD9",
   "tags": [
     "mage",
-    "woman"
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dark",
+    "elf",
+    "sol",
+    "son",
+    "character",
+    "design",
+    "en",
+    "https://www.artstation.com/artwork/k4lxry",
+    "female",
+    "project",
+    "\u201Coutsiders\u201D",
+    "ho",
+    "tae",
+    "seong"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -248.0000000000003,
     "offset_y": -45.333333333333485,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -217.33333333333331,
     "offset_y": -44.66666666666674,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -33.333333333333485,
     "offset_y": -64.00000000000034,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

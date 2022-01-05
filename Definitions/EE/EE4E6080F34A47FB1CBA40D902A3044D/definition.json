@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/483ebd0b-21e3-4b35-b622-6d518503807f/dbqb9t5-1a88a952-452d-4bdb-942b-430087fe2521.png/v1/fill/w_800,h_1198,q_80,strp/goblin_queen_by_forty_fathoms_dbqb9t5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE5OCIsInBhdGgiOiJcL2ZcLzQ4M2ViZDBiLTIxZTMtNGIzNS1iNjIyLTZkNTE4NTAzODA3ZlwvZGJxYjl0NS0xYTg4YTk1Mi00NTJkLTRiZGItOTQyYi00MzAwODdmZTI1MjEucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Xs0aFYxqA6UJMZSATe2cECfnBzyXW90IYwMDI6dsRYE",
   "md5": "EE4E6080F34A47FB1CBA40D902A3044D",
   "tags": [
-    ""
+    "",
+    "evil",
+    "goblin",
+    "drawings",
+    "marvel",
+    "dark",
+    "baroness",
+    "didi",
+    "esmeralda",
+    "demon",
+    "king",
+    "nobunaga",
+    "summer",
+    "version",
+    "kuzu",
+    "older",
+    "sothis",
+    "emerald",
+    "weapon"
   ],
   "small": {
     "scale": 1,
     "offset_x": -288.8000000000003,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -213.60000000000002,
     "offset_y": -100.00000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

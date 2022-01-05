@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/77/1e/f6/771ef6316ab65bd9fc9a93552e7272fc.jpg",
   "md5": "0BA12FB2CBD2A2AE317037625B441F82",
   "tags": [
-    ""
+    "",
+    "joan",
+    "murphy",
+    "actress",
+    "heartland",
+    "death",
+    "midnight",
+    "cowboy",
+    "man",
+    "steel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "undead",
+    "friends",
+    "king",
+    "brandt",
+    "andrist",
+    "mercenaries",
+    "wayne",
+    "wu",
+    "tiefling",
+    "rogue",
+    "anthony",
+    "dipaolo"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -183,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -28,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -6,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

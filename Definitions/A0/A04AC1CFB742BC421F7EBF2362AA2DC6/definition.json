@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/d4/74/77/d47477fb81a45f881f6592eabf25c8a6.jpg",
   "md5": "A04AC1CFB742BC421F7EBF2362AA2DC6",
   "tags": [
-    ""
+    "",
+    "elf",
+    "warlock",
+    "gnome",
+    "human",
+    "female",
+    "pirate",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "assassin",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sohyun",
+    "kim",
+    "character",
+    "design",
+    "male",
+    "ws111",
+    "lizhong",
+    "xiao",
+    "baron",
+    "dong",
+    "zhiwei"
   ],
   "small": {
     "scale": 1,
     "offset_x": -205,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -69,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -24,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

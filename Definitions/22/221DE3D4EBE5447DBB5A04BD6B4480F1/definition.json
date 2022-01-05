@@ -1,26 +1,37 @@
 {
-  "source": "https://pbs.twimg.com/media/DwKREktXcAEa2d-?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DwKREktXcAEa2d-?format=jpg\u0026name=large",
   "md5": "221DE3D4EBE5447DBB5A04BD6B4480F1",
   "tags": [
-    ""
+    "",
+    "wow",
+    "dark",
+    "iron",
+    "dwarf",
+    "paladin",
+    "female"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -409,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -330,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -308,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

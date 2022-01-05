@@ -2,27 +2,40 @@
   "source": "https://i.imgur.com/lAJ4Zlr.jpg",
   "md5": "FA5B256B84A60FF3EC6F10116FB17AF4",
   "tags": [
-    ""
+    "",
+    "noelle",
+    "muhammad",
+    "fajri",
+    "lover",
+    "\u9149",
+    "\u94B2",
+    "slan",
+    "berserk",
+    "anato",
+    "finnstark"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -77,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -63,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -24,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

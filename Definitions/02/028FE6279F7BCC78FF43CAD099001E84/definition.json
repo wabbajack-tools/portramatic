@@ -11,27 +11,41 @@
     "comments",
     "warrior",
     "hammer",
-    "girl"
+    "girl",
+    "artworks",
+    "character",
+    "concept",
+    "mage",
+    "sand",
+    "katrin",
+    "minko",
+    "woman",
+    "pirate",
+    "rabikhun(minsook",
+    "ahn"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -696.000000000008,
     "offset_y": -250.39999999999992,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -546.4000000000033,
     "offset_y": -200.0000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -104.12037037036998,
     "offset_y": -92.90740740740762,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

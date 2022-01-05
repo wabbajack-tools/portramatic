@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/originals/ba/4e/ad/ba4ead8c7df309e0838cf0ce3c19f424.jpg",
   "md5": "21C54283A088C60A1D6118E77E260935",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "women",
+    "cosplay",
+    "costumes",
+    "female",
+    "costume",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "vest",
+    "bottom_wear",
+    "shorts",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "chloe",
+    "moretz",
+    "as",
+    "yt",
+    "from",
+    "snowcrash",
+    "izzy",
+    "medrano",
+    "https://www.artstation.com",
+    "reyna",
+    "diaz",
+    "gears",
+    "war",
+    "4",
+    "heber",
+    "alvarado",
+    "artemis",
+    "ffxiv",
+    "phoenix",
+    "nguyen"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -294,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -16,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -72,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

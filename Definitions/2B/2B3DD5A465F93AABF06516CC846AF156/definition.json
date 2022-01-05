@@ -2,27 +2,63 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/022/261/354/large/zoe-fung-viconia.jpg?1583826106",
   "md5": "2B3DD5A465F93AABF06516CC846AF156",
   "tags": [
-    ""
+    "",
+    "gate",
+    "concept",
+    "monk",
+    "baldur\u0027s",
+    "fan",
+    "immaculate",
+    "heart",
+    "mary",
+    "conception",
+    "oil",
+    "paintings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "queen",
+    "quan",
+    "shengwu",
+    "women",
+    "chinese",
+    "girl",
+    "comic",
+    "girls",
+    "empress",
+    "china",
+    "wei",
+    "guan",
+    "l5r",
+    "personagens",
+    "rpg"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -373,
     "offset_y": -208,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -154,
     "offset_y": -87,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -178,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

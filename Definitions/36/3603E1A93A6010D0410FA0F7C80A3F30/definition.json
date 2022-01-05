@@ -2,25 +2,40 @@
   "source": "https://static.zerochan.net/Foreigner.%28Yang.Guifei%29.full.2842619.jpg",
   "md5": "3603E1A93A6010D0410FA0F7C80A3F30",
   "tags": [
-    ""
+    "",
+    "odysseus",
+    "fate",
+    "grand",
+    "order",
+    "horns",
+    "purple",
+    "hair",
+    "anime",
+    "girl",
+    "characters"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -282,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -95,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -88,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

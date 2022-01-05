@@ -2,27 +2,54 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/003/883/296/large/grzegorz-rutkowski-elf-overlord-final-5-1920-logo.jpg?1478200501",
   "md5": "FA3F515A89846DDC4E4176899F228E5C",
   "tags": [
-    ""
+    "",
+    "ghost",
+    "elves",
+    "overlord",
+    "dark",
+    "elf",
+    "rise",
+    "kozilek",
+    "lius",
+    "lasahido",
+    "king",
+    "north",
+    "wizards",
+    "coast",
+    "mtg",
+    "\u83DC\u9E21\u730E\u4EBA",
+    "hey",
+    "\u6CE1\u6CE1\u53D4\u53D4",
+    "peter",
+    "leviathan",
+    "sam",
+    "nielson",
+    "underwater",
+    "city",
+    "concept"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -1785.3333333333333,
     "offset_y": -144.99999999999991,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -1573.3333333333333,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -1151.3333333333335,
     "offset_y": -56.66666666666697,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

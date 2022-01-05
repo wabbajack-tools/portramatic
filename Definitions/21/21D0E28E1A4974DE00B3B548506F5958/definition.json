@@ -2,27 +2,43 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19c68a42-b189-4a3f-ad8d-1d9ef6ec342c/dcje1cz-879c95be-1ccc-4a94-ae88-adb76fb42802.png/v1/fill/w_800,h_1057,q_80,strp/jester_by_merwild_dcje1cz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA1NyIsInBhdGgiOiJcL2ZcLzE5YzY4YTQyLWIxODktNGEzZi1hZDhkLTFkOWVmNmVjMzQyY1wvZGNqZTFjei04NzljOTViZS0xY2NjLTRhOTQtYWU4OC1hZGI3NmZiNDI4MDIucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.E17apr0Lkx0TeGkRs1cI868XeKG6AgWG9dkftPIo2pM",
   "md5": "21D0E28E1A4974DE00B3B548506F5958",
   "tags": [
-    ""
+    "",
+    "jester",
+    "from",
+    "critical",
+    "role",
+    "character",
+    "legend",
+    "zelda",
+    "f",
+    "jojo",
+    "screen",
+    "redraw",
+    "izumi",
+    "sen"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -32,
     "offset_y": -4,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -42,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -110,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

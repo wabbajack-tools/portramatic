@@ -2,27 +2,48 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/037/728/934/large/daniel-kamarudin-lr2.jpg?1621176924",
   "md5": "44F0306F4C08DBCA0D8B30354E46234D",
   "tags": [
-    "demon"
+    "demon",
+    "griffon",
+    "david",
+    "ceballos",
+    "l\u00F3pez",
+    "fairytale",
+    "creatures",
+    "beasts",
+    "mythical",
+    "animal",
+    "witch",
+    "with",
+    "wetlands",
+    "tatyana",
+    "kupriyanova",
+    "night",
+    "forest",
+    "light.",
+    "keen"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -707.1999999999996,
     "offset_y": -1062.4000000000005,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -162.3999999999997,
     "offset_y": -396.8000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -30.435185185186356,
     "offset_y": -382.84259259259295,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

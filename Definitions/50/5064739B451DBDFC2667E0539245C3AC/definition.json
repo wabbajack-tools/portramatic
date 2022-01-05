@@ -2,27 +2,49 @@
   "source": "https://orig09.deviantart.net/2d95/f/2017/041/e/1/rain_by_soft_h-dayjfhn.jpg",
   "md5": "5064739B451DBDFC2667E0539245C3AC",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "concept",
+    "fan",
+    "artwork",
+    "armor",
+    "souls",
+    "elf",
+    "yang",
+    "hyunjun",
+    "middle",
+    "earth",
+    "\u0022shadow",
+    "mordor\u0022",
+    "black",
+    "guard",
+    "valery",
+    "klishevich",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -249,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -246,
     "offset_y": -110,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -100,
     "offset_y": 48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,65 @@
 {
-  "source": "https://external-preview.redd.it/GJMuEN9hU4-yAIDpkTMjKS5whLuJO-w1I81mVsyinuQ.jpg?auto=webp&s=79d2a72d46e37a548bbb35b98eb3728b73133e96",
+  "source": "https://external-preview.redd.it/GJMuEN9hU4-yAIDpkTMjKS5whLuJO-w1I81mVsyinuQ.jpg?auto=webp\u0026s=79d2a72d46e37a548bbb35b98eb3728b73133e96",
   "md5": "7B2ADDCD2E276BF4836AB932FF4FC102",
   "tags": [
-    ""
+    "",
+    "skyrim",
+    "knight",
+    "armor",
+    "dragon",
+    "concept",
+    "anime",
+    "black",
+    "heavy",
+    "suit",
+    "female",
+    "assassin",
+    "armors",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "namor",
+    "sub-mariner",
+    "zulkarnaen",
+    "hasan",
+    "basri",
+    "warrior",
+    "serim",
+    "hwang",
+    "https://www",
+    "matthew",
+    "hjellen"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -673.5,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -249.5,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -1,
     "offset_y": -29,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

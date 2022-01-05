@@ -2,27 +2,47 @@
   "source": "https://static.wikia.nocookie.net/dios-ultimate-fanon/images/5/52/Sharith_%28Wrath%29.jpg/revision/latest?cb=20180507115527",
   "md5": "52DD23D7AB4D177ABAC6EDD784E36037",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "dragon",
+    "mother",
+    "hongqi",
+    "zhang",
+    "https://www",
+    "child",
+    "heather",
+    "lubomir",
+    "hij",
+    "iron",
+    "knight",
+    "rxx",
+    "496",
+    "show",
+    "painting"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -120,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -15,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

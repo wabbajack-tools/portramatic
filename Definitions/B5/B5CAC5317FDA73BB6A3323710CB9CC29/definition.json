@@ -4,27 +4,55 @@
   "tags": [
     "female",
     "vampire",
-    "warrior"
+    "warrior",
+    "moon",
+    "elf",
+    "queen",
+    "evil",
+    "forest",
+    "armors",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "witcher",
+    "vesemir",
+    "mikkelsen",
+    "muyoung",
+    "kim",
+    "archer",
+    "rodrigo",
+    "a.",
+    "branco",
+    "medieval",
+    "heavy",
+    "matthew",
+    "hjellen"
   ],
   "small": {
     "scale": 1.1,
     "offset_x": -352,
     "offset_y": -212,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -243,
     "offset_y": -194,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -112,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

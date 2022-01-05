@@ -4,27 +4,51 @@
   "tags": [
     "female",
     "vampire",
-    "warrior"
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "woman",
+    "gao",
+    "song",
+    "anime",
+    "girl",
+    "3d",
+    "model",
+    "character",
+    "cabal2",
+    "costume",
+    "jieun",
+    "moon",
+    "concept",
+    "clothing",
+    "https://www.artstation.com/artwork/kaknyw",
+    "mera",
+    "wonder"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -1432,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -758,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -1690,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

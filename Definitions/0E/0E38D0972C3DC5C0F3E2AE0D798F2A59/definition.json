@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/d0/68/70/d068708f5350ff9f6f777e2e763158a9.jpg",
   "md5": "0E38D0972C3DC5C0F3E2AE0D798F2A59",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "rogue",
+    "character",
+    "cyberpunk",
+    "actionfigures",
+    "renaissance",
+    "costumes",
+    "armors",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "archer",
+    "evgeniy",
+    "nesterenko",
+    "\u0022hitman",
+    "725\u0022",
+    "dark-renaissance",
+    "maxime",
+    "teppe",
+    "rishiraj",
+    "singh",
+    "shekhawat\u0027s",
+    "submission",
+    "wild"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -215,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -36,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/originals/37/84/b3/3784b32ff52263e3d1fc6b3168031bb0.png",
   "md5": "F7D3113D4B310178EA5905BDEE91CE8C",
   "tags": [
-    ""
+    "",
+    "halfling",
+    "rogue",
+    "male",
+    "character",
+    "high",
+    "elf",
+    "barbarians",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "fighter",
+    "ilina",
+    "naydenova",
+    "https://www.artstation.com/artwork",
+    "rpg",
+    "set",
+    "06",
+    "ernesto",
+    "irawan",
+    "dungeons",
+    "dragons",
+    "dwarf",
+    "war",
+    "drummer",
+    "dionisis",
+    "milonas",
+    "https://www.artstation.com\u2026"
   ],
   "small": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -235,
     "offset_y": -124,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -50,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

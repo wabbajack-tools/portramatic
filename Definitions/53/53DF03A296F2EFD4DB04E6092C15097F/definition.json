@@ -3,27 +3,44 @@
   "md5": "53DF03A296F2EFD4DB04E6092C15097F",
   "tags": [
     "explore",
-    "celegorm"
+    "celegorm",
+    "boy",
+    "character",
+    "drawing",
+    "inspiration",
+    "male",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -2,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -18,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -18,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

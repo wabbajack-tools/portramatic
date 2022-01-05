@@ -2,27 +2,40 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1db88b3d-6af5-4d4e-b0e4-688c957e07e2/de28ybe-83d9e61c-9700-4042-9284-3ecd63a0bf27.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkYjg4YjNkLTZhZjUtNGQ0ZS1iMGU0LTY4OGM5NTdlMDdlMlwvZGUyOHliZS04M2Q5ZTYxYy05NzAwLTQwNDItOTI4NC0zZWNkNjNhMGJmMjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mf1KRYIFK9i1HIfmPLMC71iVelsyj8hatm2xuuNEt1I",
   "md5": "4347DBBF2D089AEA45F3096340DDA45D",
   "tags": [
-    ""
+    "",
+    "dc",
+    "comics",
+    "spiderman",
+    "vs",
+    "vulture",
+    "sean",
+    "ellery",
+    "comic",
+    "call",
+    "gaboleps"
   ],
   "small": {
     "scale": 0.6999999999999988,
     "offset_x": -395,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -144,
     "offset_y": -55,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

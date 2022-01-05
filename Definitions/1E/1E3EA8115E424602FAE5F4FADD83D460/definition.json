@@ -2,27 +2,48 @@
   "source": "https://i.imgur.com/aKH4UTM.jpeg",
   "md5": "1E3EA8115E424602FAE5F4FADD83D460",
   "tags": [
-    ""
+    "",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "arlocke",
+    "pablo",
+    "dominguez",
+    "superhero",
+    "concepting",
+    "practice",
+    "alex",
+    "vasin",
+    "artwork",
+    "armor",
+    "steampunk",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -116,
     "offset_y": 944,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

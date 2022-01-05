@@ -32,34 +32,64 @@
     "characters",
     "yunhee",
     "lee",
-    "d&d",
+    "d\u0026d",
     "pinterest",
     "dragons",
     "rpg",
     "study",
     "jin-hong",
     "park",
-    "with"
+    "with",
+    "leather",
+    "designs",
+    "anime",
+    "armors",
+    "heavy",
+    "samurai",
+    "dark",
+    "souls",
+    "heels",
+    "destiny",
+    "crota\u0027s",
+    "end",
+    "warlock",
+    "gear",
+    "mike",
+    "jensen",
+    "3d",
+    "artwork",
+    "lakhan",
+    "laughing",
+    "surya",
+    "prasetya",
+    "https://www.artstation.com/artwork",
+    "gold",
+    "kim",
+    "ha",
+    "yeong"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -262.40000000000055,
     "offset_y": -10.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -176.5999999999999,
     "offset_y": -11.600000000000364,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -110.00000000000011,
     "offset_y": -5.200000000000131,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

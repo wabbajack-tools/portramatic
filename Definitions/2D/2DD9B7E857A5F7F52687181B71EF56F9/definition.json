@@ -3,27 +3,34 @@
   "md5": "2DD9B7E857A5F7F52687181B71EF56F9",
   "tags": [
     "female",
-    "tiefling"
+    "tiefling",
+    "efreeti",
+    "nixie",
+    "creature",
+    "fairy"
   ],
   "small": {
     "scale": 0.17999999999999927,
     "offset_x": -62,
     "offset_y": -29.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -86,
     "offset_y": -14.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -134,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

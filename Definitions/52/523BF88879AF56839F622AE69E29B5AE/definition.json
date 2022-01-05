@@ -25,27 +25,42 @@
     "selfy",
     "animation",
     "sakimi",
-    "chan"
+    "chan",
+    "league",
+    "legends",
+    "dark",
+    "elf",
+    "kai\u00B4sa",
+    "painting",
+    "breimus",
+    "briemen",
+    "liliana",
+    "godfrey",
+    "escota",
+    "bb"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -458,
     "offset_y": -216,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -212,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -2,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

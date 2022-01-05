@@ -5,27 +5,57 @@
     "female",
     "fire",
     "genasi",
-    "mage"
+    "mage",
+    "wizard",
+    "animation",
+    "high",
+    "kitty",
+    "prince",
+    "persia",
+    "two",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "darisa",
+    "darren",
+    "lucy",
+    "carracedo",
+    "character",
+    "design",
+    "princess",
+    "zelda",
+    "fictional",
+    "characters",
+    "cheater",
+    "hunter",
+    "marishka",
+    "kleyman"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -235.9999999999958,
     "offset_y": -11.000000000000085,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6499999999999997,
     "offset_x": -117.00000000000006,
     "offset_y": -17.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -30,
     "offset_y": -3.3333333333332575,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/originals/e7/b6/5b/e7b65bd9f9d350cb31214e034987392d.jpg",
   "md5": "3393FE0775E1F90DB55D4CF78578C233",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "paladin",
+    "dd",
+    "drow",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "anna",
+    "helme",
+    "concept",
+    "characters",
+    "dungeons",
+    "hero",
+    "bretagard",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "jace",
+    "beleren",
+    "nick",
+    "gaul",
+    "character"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -234,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -101,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.279999999999995,
     "offset_x": -292,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

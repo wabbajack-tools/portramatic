@@ -17,7 +17,7 @@
     "shoes",
     "heels",
     "tatiana",
-    "vetrova's",
+    "vetrova\u0027s",
     "submission",
     "ancient",
     "horizon",
@@ -29,27 +29,43 @@
     "art_thief",
     "choe",
     "yera",
-    "disney"
+    "disney",
+    "blank",
+    "character",
+    "design",
+    "sketches",
+    "samurai",
+    "catbuck",
+    ".",
+    "j",
+    "www.artstation.co",
+    "worldshaper",
+    "sam",
+    "keiser",
+    "https://www"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -691.8000000000002,
     "offset_y": -260.8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -189,
     "offset_y": -85.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -6.620370370369983,
     "offset_y": -86.24074074074065,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

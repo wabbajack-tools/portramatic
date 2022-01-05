@@ -4,27 +4,59 @@
   "tags": [
     "succubus",
     "lord",
-    "8"
+    "8",
+    "life",
+    "draining",
+    "true",
+    "story",
+    "taking",
+    "souls",
+    "witcher",
+    "fairies",
+    "night",
+    "elf",
+    "greek",
+    "gods",
+    "goddess",
+    "beautiful",
+    "woman",
+    "warrior",
+    "destiny",
+    "sure",
+    "wang",
+    "spy",
+    "https://www.artstation.com/p/zxgdz",
+    "inna",
+    "kozak",
+    "2d",
+    "artist",
+    "looking",
+    "for",
+    "freelance",
+    "innakozak4"
   ],
   "small": {
     "scale": 1.2900000000000003,
     "offset_x": -698,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2900000000000003,
     "offset_x": -634,
     "offset_y": -146,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -422.5277777777778,
     "offset_y": -127.64814814814815,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

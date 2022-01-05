@@ -10,27 +10,55 @@
     "character",
     "redesign",
     "supernatural",
-    "creature"
+    "creature",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "archer",
+    "jihyeon",
+    "bae",
+    "female",
+    "warrior",
+    "woman",
+    "design",
+    "white",
+    "mage",
+    "mikhail",
+    "palamarchuk",
+    "2021",
+    "elf",
+    "\uAD81\uC218",
+    "yj",
+    "oh",
+    "https://www.artstation.com/artwork/avovj",
+    "concept",
+    "characters"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -1270,
     "offset_y": -222,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -722,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3099999999999974,
     "offset_x": -1066,
     "offset_y": -182,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

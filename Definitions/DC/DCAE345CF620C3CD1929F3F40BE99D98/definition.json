@@ -2,27 +2,40 @@
   "source": "https://sv.bagoum.com/getRawImage/0/0/105641010",
   "md5": "DCAE345CF620C3CD1929F3F40BE99D98",
   "tags": [
-    ""
+    "",
+    "pinhead",
+    "movie",
+    "chibi",
+    "cartoon",
+    "tales",
+    "vesperia",
+    "death",
+    "superman",
+    "marvel",
+    "comics"
   ],
   "small": {
     "scale": 1,
     "offset_x": -294,
     "offset_y": -185,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -216,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

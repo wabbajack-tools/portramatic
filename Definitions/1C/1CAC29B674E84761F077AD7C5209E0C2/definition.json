@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/originals/f0/21/28/f021286ef63165ebb9c473ccdff5c543.jpg",
   "md5": "1CAC29B674E84761F077AD7C5209E0C2",
   "tags": [
-    ""
+    "",
+    "toy",
+    "knight",
+    "swords",
+    "armor",
+    "shield",
+    "crusader",
+    "sniper",
+    "ghost",
+    "warrior",
+    "orc",
+    "heavy",
+    "medieval",
+    "knights",
+    "russell",
+    "dongjun",
+    "lu",
+    "2020",
+    "concept",
+    "characters",
+    "character",
+    "design",
+    "persian",
+    "cataphract",
+    "fwl",
+    "_",
+    "ancient",
+    "warfare",
+    "parthian",
+    "empire",
+    "for",
+    "king",
+    "murat",
+    "g\u00FCl"
   ],
   "small": {
     "scale": 1,
     "offset_x": -344,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -253,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -100,
     "offset_y": 114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

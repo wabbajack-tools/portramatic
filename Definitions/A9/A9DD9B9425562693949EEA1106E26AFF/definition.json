@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/c2/c5/53/c2c553d92728efa28645e23a130f36f2.jpg",
   "md5": "A9DD9B9425562693949EEA1106E26AFF",
   "tags": [
-    ""
+    "",
+    "jorsch",
+    "blood",
+    "elf",
+    "fan",
+    "hooded",
+    "female",
+    "drawing",
+    "amaterasu",
+    "warlord",
+    "suit\u5929\u7167\u5927\u5FA1\u795E",
+    "evan",
+    "liu",
+    "ultimate",
+    "pirates",
+    "characters",
+    "grafit",
+    "studio",
+    "sigr\u00FAn",
+    "lekso",
+    "tiger",
+    "digital"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -497,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -143,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,7 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/041/050/685/large/kyuyong-eom-longdawn-x.jpg?1630605907",
   "md5": "3B16F45540E7D6D3BB912C41C877453B",
   "tags": [
-    "i&#39;m",
+    "i\u0026#39;m",
     "looking",
     "for",
     "lost",
@@ -16,27 +16,49 @@
     "to",
     "me...",
     "fictional",
-    "character"
+    "character",
+    "amazing",
+    "spider-man",
+    "wizard",
+    "nele",
+    "diel",
+    "wanted",
+    "\u901A\u7F09",
+    "daodao",
+    "mao",
+    "cyberpunk",
+    "wonder",
+    "woman",
+    "superhero",
+    "d\u0026d",
+    "illustration",
+    "rogue",
+    "bard",
+    "baitman",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -369,
     "offset_y": -199.99999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -122.00000000000006,
     "offset_y": -47.99999999999986,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -107,
     "offset_y": -49.99999999999983,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

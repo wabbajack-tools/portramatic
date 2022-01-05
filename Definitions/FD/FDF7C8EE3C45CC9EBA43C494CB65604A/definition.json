@@ -3,27 +3,45 @@
   "md5": "FDF7C8EE3C45CC9EBA43C494CB65604A",
   "tags": [
     "male",
-    "tiefling"
+    "tiefling",
+    "excalibur",
+    "clarent",
+    "skin",
+    "owen",
+    "stickley",
+    "magma",
+    "elemental",
+    "yasen",
+    "stoilov",
+    "character",
+    "artwork",
+    "jaeyeong",
+    "cha",
+    "design",
+    "anime"
   ],
   "small": {
     "scale": 0.17999999999999927,
     "offset_x": -43,
     "offset_y": -5.666666666666686,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -13,
     "offset_y": -2.3333333333333144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -156,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

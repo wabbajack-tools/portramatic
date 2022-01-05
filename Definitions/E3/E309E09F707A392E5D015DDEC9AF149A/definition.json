@@ -2,27 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86167f5f-4eca-4602-857c-84bd53d15413/dcuzmdm-29ee9049-52b9-460e-a362-3526dc1106b4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2MTY3ZjVmLTRlY2EtNDYwMi04NTdjLTg0YmQ1M2QxNTQxM1wvZGN1em1kbS0yOWVlOTA0OS01MmI5LTQ2MGUtYTM2Mi0zNTI2ZGMxMTA2YjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gtwzXeNy0h_tKZ1GeT8AEPu7HJ9q910Ijkr70dkXGsI",
   "md5": "E309E09F707A392E5D015DDEC9AF149A",
   "tags": [
-    ""
+    "",
+    "goliath",
+    "from",
+    "gargoyles",
+    "fan",
+    "disney",
+    "charizard",
+    "shiny",
+    "ho-oh",
+    "brock",
+    "pokemon",
+    "red",
+    "dragodinde",
+    "xavier",
+    "houssin",
+    "https://www"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -422,
     "offset_y": -862,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999999,
     "offset_x": -115,
     "offset_y": -410,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -2,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

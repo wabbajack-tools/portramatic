@@ -1,28 +1,54 @@
 {
-  "source": "https://external-preview.redd.it/d0z-aQjYnEwC3otYOLvl-uEycUlOkZVVd3qU7OkwItw.jpg?auto=webp&s=8f36e0265b91d552d8597ba5eb554f72c15d1448",
+  "source": "https://external-preview.redd.it/d0z-aQjYnEwC3otYOLvl-uEycUlOkZVVd3qU7OkwItw.jpg?auto=webp\u0026s=8f36e0265b91d552d8597ba5eb554f72c15d1448",
   "md5": "34B212846616A5B8D0300A6F71CE6678",
   "tags": [
-    "gold dragon"
+    "gold dragon",
+    "dragon",
+    "knight",
+    "concept",
+    "king",
+    "forest",
+    "witcher",
+    "armor",
+    "black",
+    "tiger",
+    "hua",
+    "lu",
+    "artstation.",
+    "arqueiro",
+    "medieval",
+    "hanuman\u0027s",
+    "wrath",
+    "chattarin",
+    "sirisak",
+    "daretti",
+    "ingenious",
+    "iconoclast",
+    "victor",
+    "adame"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -276.80000000000024,
     "offset_y": -333.60000000000025,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -90.39999999999989,
     "offset_y": -192.80000000000035,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8099999999999998,
     "offset_x": -104.12037037037067,
     "offset_y": -315.564814814815,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

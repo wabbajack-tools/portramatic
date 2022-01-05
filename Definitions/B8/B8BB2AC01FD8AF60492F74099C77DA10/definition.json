@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/001/044/133/large/wei-feng-.jpg?1443928390",
   "md5": "B8BB2AC01FD8AF60492F74099C77DA10",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girls",
+    "as",
+    "warriors",
+    "girl",
+    "warrior",
+    "with",
+    "sword",
+    "pretty",
+    "medieval",
+    "cruella",
+    "deville",
+    "night",
+    "elf",
+    "dungeons",
+    "dragons",
+    "20167",
+    "haixiang",
+    "mu",
+    "smolleff",
+    "smoll",
+    "eff",
+    "wenjun",
+    "lin"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -372,
     "offset_y": -302,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -181,
     "offset_y": -155,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7699999999999998,
     "offset_x": -120,
     "offset_y": -134,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

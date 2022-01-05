@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/c5/e7/c0/c5e7c08bec399f153a38a84745dfbc0f.jpg",
   "md5": "5AD997F82C3986EAA1EB278551278249",
   "tags": [
-    ""
+    "",
+    "elf",
+    "with",
+    "white",
+    "hair",
+    "male",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "hyper",
+    "realistic",
+    "low",
+    "poly",
+    "game",
+    "character",
+    "assets"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -131,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.03,
     "offset_x": -71,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -14,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

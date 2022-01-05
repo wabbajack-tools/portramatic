@@ -10,27 +10,60 @@
     "bloody",
     "games",
     "best-of-vampires",
-    "vampire"
+    "vampire",
+    "rogue",
+    "drawing",
+    "thief",
+    "character",
+    "concept",
+    "knight",
+    "armor",
+    "leather",
+    "assassin",
+    "mandalorian",
+    "heavy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "zhihui",
+    "su",
+    "design",
+    "characters",
+    "holda",
+    "outfit",
+    "concept_001",
+    "ildiko",
+    "toth",
+    "female",
+    "tiefling",
+    "anthony",
+    "dipaolo",
+    "https://www.artstation.com/artwork/g1zkm"
   ],
   "small": {
     "scale": 1.0799999999999998,
     "offset_x": -314.4000000000002,
     "offset_y": -70.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -16.000000000000114,
     "offset_y": -25.200000000000045,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -50.83333333333326,
     "offset_y": -41.28703703703695,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

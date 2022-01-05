@@ -2,27 +2,43 @@
   "source": "https://4.bp.blogspot.com/-tq-_e7HTdA0/XC2aWEjjXmI/AAAAAAAAENc/64j8ux79N6s2-_LnCC8fT6wVgQPmsT1yQCLcBGAs/s1600/ves4wvoBgNk.jpg",
   "md5": "3DA8F57D204F1A75795436B4BC0DB3AE",
   "tags": [
-    ""
+    "",
+    "fortnite",
+    "raven",
+    "cosplay",
+    "costume",
+    "girls",
+    "costumes",
+    "raptor",
+    "halloween",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -106,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -2,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -30,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/86/e1/27/86e127034c9f8d3809baa805a69d679b.jpg",
   "md5": "DB055DB2CB42467848641A578289D23E",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "wizard",
+    "character",
+    "warlock",
+    "kratos",
+    "yang",
+    "zhao",
+    "king",
+    "arthur",
+    "denys",
+    "tsiperko",
+    "morgane",
+    "perrin-roudil"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -296,
     "offset_y": -330,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -81,
     "offset_y": -191,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6600000000000006,
     "offset_x": -4,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

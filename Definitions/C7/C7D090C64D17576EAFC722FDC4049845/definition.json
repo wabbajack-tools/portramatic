@@ -2,25 +2,67 @@
   "source": "https://cdn.shopify.com/s/files/1/0518/6283/1276/products/FigurineAnimeeDCComics-BatmanTimelessWildWest7.jpg?v=1615646114",
   "md5": "C7D090C64D17576EAFC722FDC4049845",
   "tags": [
-    "Alternative Batman I"
+    "Alternative Batman I",
+    "play",
+    "arts",
+    "kai",
+    "joker",
+    "action",
+    "figures",
+    "variant",
+    "spartan",
+    "warrior",
+    "batman",
+    "toys",
+    "samurai",
+    "armor",
+    "statue",
+    "armors",
+    "steampunk",
+    "knight",
+    "dark",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "https://www.artstation.com/artwork/mqogdv",
+    "creature",
+    "lord",
+    "necromancer",
+    "swame",
+    "studio",
+    "2020",
+    "character",
+    "design",
+    "nord",
+    "final",
+    "yoong",
+    "kun",
+    "kim",
+    "http://www.artstation.com/artwork/nord"
   ],
   "small": {
     "scale": 0.6299999999999997,
     "offset_x": -545.3333333333333,
     "offset_y": -85.99999999999991,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -275.99999999999983,
     "offset_y": -1.3333333333333712,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -219.33333333333337,
     "offset_y": -0.6666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

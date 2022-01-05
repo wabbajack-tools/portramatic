@@ -1,5 +1,5 @@
 {
-  "source": "https://scontent.fsac1-1.fna.fbcdn.net/v/t1.18169-9/1800216_491101404332787_1396711149_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=Iba2USNy5KwAX9RM9wG&_nc_ht=scontent.fsac1-1.fna&oh=00_AT83a5icUOu4x1PFEO12zaGRe_0ovzlaLO4bwlLKT4uDHQ&oe=61E9F64B",
+  "source": "https://scontent.fsac1-1.fna.fbcdn.net/v/t1.18169-9/1800216_491101404332787_1396711149_n.jpg?_nc_cat=111\u0026ccb=1-5\u0026_nc_sid=730e14\u0026_nc_ohc=Iba2USNy5KwAX9RM9wG\u0026_nc_ht=scontent.fsac1-1.fna\u0026oh=00_AT83a5icUOu4x1PFEO12zaGRe_0ovzlaLO4bwlLKT4uDHQ\u0026oe=61E9F64B",
   "md5": "CA29A9A248C674F2D32480B764FE8AB2",
   "tags": [
     "warhammer",
@@ -9,29 +9,48 @@
     "model",
     "demon",
     "lord",
-    "adrià",
+    "adri\uFFFD",
     "bernabeu",
-    "cañabate"
+    "ca\uFFFDabate",
+    "kratos",
+    "dungeons",
+    "dragons",
+    "conan",
+    "barbarian",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "geovanni",
+    "fire",
+    "rooster",
+    "amirul",
+    "hhf",
+    "adri\u00E0",
+    "ca\u00F1abate"
   ],
   "small": {
     "scale": 2.6399999999999886,
     "offset_x": -832,
     "offset_y": -400,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -270,
     "offset_y": -169,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -94,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

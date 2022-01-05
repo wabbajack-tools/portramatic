@@ -2,25 +2,34 @@
   "source": "https://i.pinimg.com/736x/c1/5d/87/c15d873907cb46d893938fdc7e2d68a8--deep-gnome-literary-characters.jpg",
   "md5": "1288871960AEEA20BF588EDBF4D42BD0",
   "tags": [
-    ""
+    "",
+    "gnome",
+    "character",
+    "warlock",
+    "dark"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -219,
     "offset_y": -157,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -99,
     "offset_y": -131,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": 0,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

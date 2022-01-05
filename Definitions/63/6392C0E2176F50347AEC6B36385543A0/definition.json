@@ -3,27 +3,55 @@
   "md5": "6392C0E2176F50347AEC6B36385543A0",
   "tags": [
     "jin",
-    "sakai"
+    "sakai",
+    "earth",
+    "breaker",
+    "hammer",
+    "cutler",
+    "circuit",
+    "breakers",
+    "wiring",
+    "japanese",
+    "characters",
+    "anime",
+    "girl",
+    "stylized",
+    "buildings",
+    "christian",
+    "schob",
+    "2021",
+    "building",
+    "concept",
+    "design",
+    "spring",
+    "2020",
+    "character",
+    "portraits",
+    "m.",
+    "brackett"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -513,
     "offset_y": -358,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -308,
     "offset_y": -211,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -342,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

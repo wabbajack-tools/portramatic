@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/xOmjD-TMovNepkACrrMN2LldrJpMc0c478HxHQx6KKY.jpg?auto=webp&s=f6045dc6e1be0e593b3b0d6aeb2c837df2043656",
+  "source": "https://external-preview.redd.it/xOmjD-TMovNepkACrrMN2LldrJpMc0c478HxHQx6KKY.jpg?auto=webp\u0026s=f6045dc6e1be0e593b3b0d6aeb2c837df2043656",
   "md5": "1E0E5861FB08E523C4F5A75D4A8D48A9",
   "tags": [
     "warhammer",
@@ -9,29 +9,46 @@
     "model",
     "demon",
     "lord",
-    "adrià",
+    "adri\uFFFD",
     "bernabeu",
-    "cañabate"
+    "ca\uFFFDabate",
+    "mankind",
+    "legend",
+    "zelda",
+    "twilight",
+    "princess",
+    "kaiju",
+    "~",
+    "dmitry",
+    "kudrin",
+    "guardian",
+    "nile",
+    "lucas",
+    "torquato",
+    "https://www.artstation.com/artwork/nyyae"
   ],
   "small": {
     "scale": 0.7599999999999998,
     "offset_x": -180,
     "offset_y": -108,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -63,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -94,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

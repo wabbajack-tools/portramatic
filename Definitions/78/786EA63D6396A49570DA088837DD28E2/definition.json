@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/originals/3f/ac/53/3fac53488c8fa7ed19d9154cb161dec8.jpg",
   "md5": "786EA63D6396A49570DA088837DD28E2",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "armor",
+    "dark",
+    "warrior",
+    "concept",
+    "knight",
+    "souls",
+    "death",
+    "dungeons",
+    "dragons",
+    "vadim",
+    "galuza",
+    "https://www",
+    "kingmaker",
+    "ashman",
+    "akim",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz"
   ],
   "small": {
     "scale": 1,
     "offset_x": -309,
     "offset_y": -250,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -229,
     "offset_y": -242,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -76,
     "offset_y": -266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

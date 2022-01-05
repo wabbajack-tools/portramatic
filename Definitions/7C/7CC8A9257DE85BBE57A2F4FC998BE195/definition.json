@@ -4,27 +4,41 @@
   "tags": [
     "explore",
     "warmics",
-    "fairy"
+    "fairy",
+    "beautiful",
+    "tree",
+    "modern",
+    "eye",
+    "\u96C5\u5178\u5A1C",
+    "yuanyuan",
+    "wang",
+    "reven",
+    "zhao",
+    "lee",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -118,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -14,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -5,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,55 @@
   "md5": "3EF2F6D95BD0908B61C7133620CB0904",
   "tags": [
     "male",
-    "vampire"
+    "vampire",
+    "drawing",
+    "characters",
+    "eyes",
+    "league",
+    "legends",
+    "castlevania",
+    "lords",
+    "shadow",
+    "knight",
+    "manga",
+    "female",
+    "assassin",
+    "demon",
+    "hunter",
+    "new",
+    "star",
+    "ignacio",
+    "bazan-lazcano",
+    "samurai",
+    "jason",
+    "nguyen",
+    "dragon",
+    "trainer",
+    "tawan",
+    "saengkrajui"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -410,
     "offset_y": -3,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -70,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -70,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

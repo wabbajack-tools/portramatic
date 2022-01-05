@@ -12,27 +12,35 @@
     "under",
     "attack",
     "ksenia",
-    "kozhevnikova"
+    "kozhevnikova",
+    "a",
+    "bit",
+    "suffering",
+    "alex",
+    "cristi"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -196.6666666666648,
     "offset_y": -54.666666666681635,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -112.66666666666629,
     "offset_y": -73.00000000000799,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -83.66666666666686,
-    "offset_y": -3.410605131648481e-13,
-    "size": "full"
+    "offset_y": -3.410605131648481E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

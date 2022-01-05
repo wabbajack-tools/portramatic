@@ -2,27 +2,60 @@
   "source": "https://i.imgur.com/5pPCoi6.png",
   "md5": "5627494CD4228114225FE14422CD2434",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "with",
+    "red",
+    "hair",
+    "angels",
+    "dark",
+    "guardian",
+    "angel",
+    "league",
+    "legends",
+    "pirates",
+    "caribbean",
+    "anime",
+    "girl",
+    "power",
+    "cirilla",
+    "li",
+    "zehao",
+    "battlemage",
+    "aria",
+    "card",
+    "illustration",
+    "ricardo",
+    "rivera",
+    "a",
+    "violent",
+    "noise",
+    "andr\u00E9",
+    "castro"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -141,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -78,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -22,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

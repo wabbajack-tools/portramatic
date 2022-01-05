@@ -12,25 +12,53 @@
     "female",
     "ninja",
     "people",
-    ""
+    "",
+    "artemis",
+    "moon",
+    "goddess",
+    "greek",
+    "god",
+    "ffxiv",
+    "fanart",
+    "sketches",
+    "lightwarden",
+    "scions",
+    "linda",
+    "lith\u00E9n",
+    "https://www.art",
+    "an",
+    "angel",
+    "knigth",
+    "hyein",
+    "go",
+    "https://www.artstation.com/artwork/nn5xd",
+    "anime",
+    "\u771F\u7406\u5973\u795E",
+    "sheng",
+    "liu"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -1259,
     "offset_y": -520,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -734,
     "offset_y": -311,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -590,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

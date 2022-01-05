@@ -24,27 +24,42 @@
     "wild",
     "hunt",
     "julijana",
-    "mijailovic"
+    "mijailovic",
+    "cute",
+    "anime",
+    "dick",
+    "elf",
+    "lewd",
+    "female",
+    "character",
+    "lotc",
+    "sungryun",
+    "park",
+    "isabel",
+    "dalisa"
   ],
   "small": {
     "scale": 1,
     "offset_x": -607,
     "offset_y": -290,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -515,
     "offset_y": -381,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -360,
     "offset_y": -340,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

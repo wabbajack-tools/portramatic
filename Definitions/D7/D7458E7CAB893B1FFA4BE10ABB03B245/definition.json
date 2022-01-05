@@ -2,27 +2,35 @@
   "source": "https://loginportal.funnyjunk.com/pictures/Character_d7458e_5829144.jpg",
   "md5": "D7458E7CAB893B1FFA4BE10ABB03B245",
   "tags": [
-    "Tiefling"
+    "Tiefling",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

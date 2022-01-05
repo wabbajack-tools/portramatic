@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/03/f9/e1/03f9e1368e40f43843fb9b18e51156da.jpg",
   "md5": "CED84BD170156D7C2B1009AEF8FFE178",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "death",
+    "knight",
+    "female",
+    "assassin",
+    "elves",
+    "night",
+    "dungeons",
+    "dragons",
+    "sulfur",
+    "nancy",
+    "kim",
+    "https://www.artstation",
+    "storm",
+    "vermin",
+    "warhammer",
+    "vermintide",
+    "scxrlet",
+    "64",
+    "dragon",
+    "rider",
+    "andrew",
+    "domachowski"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -275,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -54,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4600000000000004,
     "offset_x": -60,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

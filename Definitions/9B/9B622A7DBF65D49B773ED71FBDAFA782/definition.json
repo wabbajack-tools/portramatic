@@ -2,27 +2,44 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/012/276/118/large/michelle-tolo-farseer-fitznighteyes-michelletolo.jpg?1533934595",
   "md5": "9B622A7DBF65D49B773ED71FBDAFA782",
   "tags": [
-    ""
+    "",
+    "robin",
+    "hobb",
+    "map",
+    "fitz",
+    "fan",
+    "fool",
+    "witcher",
+    "planet",
+    "apes",
+    "rise",
+    "monty",
+    "python",
+    "holy",
+    "grail"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -846,
     "offset_y": -114,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -402,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -888,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

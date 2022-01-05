@@ -4,27 +4,51 @@
   "tags": [
     "Necromancer",
     "dark",
-    "sorcerer"
+    "sorcerer",
+    "sorceress",
+    "photos",
+    "water",
+    "elf",
+    "league",
+    "legends",
+    "kraken",
+    "wrath",
+    "titans",
+    "clash",
+    "wolfman",
+    "mage",
+    "mikhail",
+    "palamarchuk",
+    "artstation.",
+    "lady",
+    "necromancer",
+    "jessie",
+    "lam",
+    "ramses",
+    "melendez"
   ],
   "small": {
     "scale": 0.5,
     "offset_x": -341.9333333333334,
     "offset_y": -228.5333333333333,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.31999999999999973,
     "offset_x": -111.06666666666683,
     "offset_y": -109.73333333333306,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4199999999999998,
     "offset_x": -34.018518518518476,
     "offset_y": -2.1759259259260944,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

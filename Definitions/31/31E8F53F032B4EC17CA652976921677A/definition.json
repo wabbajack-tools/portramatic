@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/originals/9f/b7/64/9fb764c6717531b67436d9d82735b6e2.jpg",
   "md5": "31E8F53F032B4EC17CA652976921677A",
   "tags": [
-    ""
+    "",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "wood",
+    "elf",
+    "trudvang",
+    "legends",
+    "boardgame",
+    "lost",
+    "stories",
+    "rock",
+    "d",
+    "characters"
   ],
   "small": {
     "scale": 1,
     "offset_x": -112,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -40,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 70,
     "offset_y": 116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,28 +1,45 @@
 {
-  "source": "https://pbs.twimg.com/media/EsYwvmGVcAESGPO?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EsYwvmGVcAESGPO?format=jpg\u0026name=large",
   "md5": "A984F84E36756D3B2DEA0483C3ABDAD3",
   "tags": [
-    ""
+    "",
+    "bunny",
+    "day",
+    "singer",
+    "milkshake",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "s",
+    "gray",
+    "raven",
+    "colomar"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -1661,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -935,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -780,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -13,27 +13,38 @@
     "titans",
     "dark",
     "black",
-    "knight"
+    "knight",
+    "death",
+    "mask",
+    "african",
+    "masks",
+    "slipknot",
+    "face",
+    "clown",
+    "zombies"
   ],
   "small": {
     "scale": 0.3499999999999994,
-    "offset_x": 8.526512829121202e-14,
+    "offset_x": 8.526512829121202E-14,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -2,
     "offset_y": -15.666666666666742,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -9.333333333332973,
     "offset_y": -4.333333333333087,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

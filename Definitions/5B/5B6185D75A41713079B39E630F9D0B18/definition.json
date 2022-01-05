@@ -22,25 +22,49 @@
     "walkway",
     "path",
     "water",
-    ""
+    "",
+    "game",
+    "thrones",
+    "vikings",
+    "dragon",
+    "age",
+    "origins",
+    "a",
+    "heroes",
+    "recognition",
+    "mike",
+    "kime",
+    "https://www.artstation.com/artwork/ezoln",
+    "hero",
+    "watcher",
+    "ting",
+    "xu",
+    "character",
+    "artwork",
+    "rpg"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -478.3999999999998,
     "offset_y": -137.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.44008333333333277,
     "offset_x": -508.80000000000047,
     "offset_y": -161.60000000000025,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7188333333333334,
     "offset_x": -735.9999999999986,
     "offset_y": -248,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,52 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6e74dd3-d182-4497-b890-956993f4af82/ddse4h5-aef2a7de-b432-4e1b-93e7-e705a8839d84.jpg/v1/fill/w_1024,h_1317,q_75,strp/huntress_and_her_companion_by_mannequin_atelier_ddse4h5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMxNyIsInBhdGgiOiJcL2ZcL2Y2ZTc0ZGQzLWQxODItNDQ5Ny1iODkwLTk1Njk5M2Y0YWY4MlwvZGRzZTRoNS1hZWYyYTdkZS1iNDMyLTRlMWItOTNlNy1lNzA1YTg4MzlkODQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.G2x582d_3P9Eeoeo5AihiptpBAleU3voHkTMLFDkQfE",
   "md5": "0684DBEADA7B607CAE7762EF4E4C7422",
   "tags": [
-    ""
+    "",
+    "wuxia",
+    "fighter",
+    "elena",
+    "utkina",
+    "character",
+    "portraits",
+    "female",
+    "characters",
+    "tgc",
+    "2016",
+    "monster",
+    "slayer",
+    "sam",
+    "smith",
+    "https://www.artstation.com/artwork",
+    "druids",
+    "onion",
+    "holic",
+    "costume",
+    "designs",
+    "2019",
+    "design"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -636,
     "offset_y": -244,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -210,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -36,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -12,27 +12,37 @@
     "concept",
     "tiefling",
     "bard",
-    "rogue"
+    "rogue",
+    "dragon",
+    "age",
+    "inquisition",
+    "beautiful",
+    "female",
+    "characters",
+    "inquisitor"
   ],
   "small": {
     "scale": 0.6259999999999962,
     "offset_x": -46,
     "offset_y": -67,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7451666666666651,
     "offset_x": -8,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5026666666666704,
     "offset_x": -16,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

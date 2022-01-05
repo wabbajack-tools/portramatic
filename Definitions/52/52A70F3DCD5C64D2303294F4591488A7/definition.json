@@ -2,27 +2,44 @@
   "source": "https://i.pinimg.com/originals/e2/f3/90/e2f390553f6a00c803b34e4b6da9607e.jpg",
   "md5": "52A70F3DCD5C64D2303294F4591488A7",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "male",
+    "curly",
+    "hair",
+    "color",
+    "straight",
+    "hairstyles",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -29,
     "offset_y": -2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -4,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

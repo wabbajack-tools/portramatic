@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/736x/bf/7e/9f/bf7e9f2d7a87b367540bf2998716536f.jpg",
   "md5": "A422796CF02F028F9CD6D470A4207C63",
   "tags": [
-    ""
+    "",
+    "sorcerer",
+    "drawings",
+    "dragon",
+    "wizard",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "death",
+    "knight",
+    "orcs",
+    "vampire",
+    "manga",
+    "battle",
+    "\u2171",
+    "repainted",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "okay",
+    "i\u0027ll",
+    "go.",
+    "xuan",
+    "liu",
+    "\u4E00\u9897\u5927\u8471",
+    "neko",
+    "fan"
   ],
   "small": {
     "scale": 1,
     "offset_x": -215,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -111,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -12,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

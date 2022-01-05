@@ -6,27 +6,34 @@
     "dark",
     "elf",
     "female",
-    "tattoos"
+    "tattoos",
+    "human",
+    "hair",
+    "wigs",
+    "brown"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -41.33333333333333,
     "offset_y": -51.99999999999994,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -2.000000000000057,
     "offset_y": -0.666666666666714,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": 0,
     "offset_y": -2.666666666666856,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

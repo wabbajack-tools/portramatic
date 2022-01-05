@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/originals/e5/81/53/e5815360bc9b123ad498ac2e80c8b010.jpg",
   "md5": "942BC9C632249186E226BCA762396C57",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "character",
+    "cool",
+    "lady",
+    "skyrim",
+    "assassin",
+    "elder",
+    "scrolls",
+    "online"
   ],
   "small": {
     "scale": 0.8299999999999998,
     "offset_x": -677.9999999999991,
     "offset_y": -53.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -415.33333333333337,
     "offset_y": -24.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -533.3333333333333,
     "offset_y": -30.66666666666646,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

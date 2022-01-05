@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/564x/fe/e6/de/fee6de7955ba7f85bf0add1d6c963eb5.jpg",
   "md5": "C373B556A8413D4241142D4A14C58A89",
   "tags": [
-    ""
+    "",
+    "guardian",
+    "angel",
+    "warrior",
+    "tattoo",
+    "drawings",
+    "female",
+    "armor",
+    "dark",
+    "elf",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "unforgiving",
+    "rasdrax",
+    "reg",
+    "\u0026",
+    "adv",
+    "billy",
+    "christian",
+    "https://www.artstation.com",
+    "crow",
+    "god",
+    "illustration",
+    "drawing",
+    "tutorial",
+    "zhuge",
+    "liang",
+    "shuxian",
+    "zhang"
   ],
   "small": {
     "scale": 1.03,
     "offset_x": -258,
     "offset_y": -136,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -181,
     "offset_y": -40,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3900000000000003,
     "offset_x": -28,
     "offset_y": 4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/ef/d3/be/efd3be6431b8f59ecacf9de30fb6ba97.jpg",
   "md5": "073725010DA9EBED60C9B8877C6AEE6E",
   "tags": [
-    ""
+    "",
+    "elf",
+    "wizard",
+    "male",
+    "character",
+    "sorcerer",
+    "hobbit",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "sandals",
+    "thaedor",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "ranger",
+    "druid",
+    "pete",
+    "2020",
+    "design",
+    "wild",
+    "west",
+    "challenge",
+    "2018",
+    "2021"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -553,
     "offset_y": -199,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -244,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3399999999999994,
     "offset_x": -82,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

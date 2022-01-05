@@ -2,27 +2,45 @@
   "source": "https://i.pinimg.com/originals/e9/85/55/e98555d4524a21f142d0d0e5d27e66ac.jpg",
   "md5": "8B2BD4FC733E8348A749B1F117023D59",
   "tags": [
-    ""
+    "",
+    "elf",
+    "costume",
+    "ideas",
+    "warrior",
+    "cosplay",
+    "medieval",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "top_wear",
+    "blouse",
+    "steam",
+    "girl",
+    "malwina",
+    "kwiatkowska"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -233,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -52,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

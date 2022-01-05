@@ -7,27 +7,55 @@
     "dandonfuga",
     "explore",
     "prywinko",
-    "sexy"
+    "sexy",
+    "legend",
+    "cryptids",
+    "female",
+    "witch",
+    "anime",
+    "girl",
+    "angel",
+    "league",
+    "legends",
+    "fairy",
+    "tale",
+    "alice",
+    "wonderland",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "loc2018",
+    "hoy",
+    "ohla",
+    "mischievous",
+    "elf",
+    "yu-han",
+    "chen"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -388,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5000000000000004,
     "offset_x": -351,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -60,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

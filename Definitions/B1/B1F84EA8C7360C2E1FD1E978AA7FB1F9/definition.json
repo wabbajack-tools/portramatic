@@ -1,30 +1,52 @@
 {
-  "source": "https://external-preview.redd.it/UmpZDmxJO3sP4u5gB-ouKNOncZzpESwRCZTNCfAsaQM.jpg?auto=webp&s=331a4a14cc119923335419851b7066fc271abeb3",
+  "source": "https://external-preview.redd.it/UmpZDmxJO3sP4u5gB-ouKNOncZzpESwRCZTNCfAsaQM.jpg?auto=webp\u0026s=331a4a14cc119923335419851b7066fc271abeb3",
   "md5": "B1F84EA8C7360C2E1FD1E978AA7FB1F9",
   "tags": [
     "solar",
     "jasonengle",
-    "d&amp;d"
+    "d\u0026amp;d",
+    "one",
+    "piece",
+    "zoro",
+    "bandana",
+    "roronoa",
+    "tattoo",
+    "pin",
+    "up",
+    "huntress",
+    "ester",
+    "zejn",
+    "nissa",
+    "revane",
+    "justine",
+    "cruz",
+    "https://www",
+    "ianna",
+    "elyn",
+    "gontier"
   ],
   "small": {
     "scale": 0.8499999999999999,
     "offset_x": -154.66666666666663,
     "offset_y": -74.33333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -9.666666666666686,
     "offset_y": -23.666666666666657,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -11.333333333333258,
     "offset_y": -38.6666666666668,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

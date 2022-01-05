@@ -2,27 +2,52 @@
   "source": "https://s-media-cache-ak0.pinimg.com/736x/02/37/0f/02370f195ef3568122380b7f58763e69.jpg",
   "md5": "458929EEDF2A9E3ACEDC9CCA006F198E",
   "tags": [
-    ""
+    "",
+    "human",
+    "wizard",
+    "painting",
+    "medieval",
+    "wizards",
+    "alien",
+    "warrior",
+    "goblin",
+    "dungeons",
+    "dragons",
+    "sleepy",
+    "hollow",
+    "jean-philippe",
+    "meunier",
+    "worgen",
+    "woods",
+    "clayscence",
+    "vampires",
+    "alexey",
+    "kruglov",
+    "https://www.artstation.com/artwork/qvwre",
+    "vampire"
   ],
   "small": {
     "scale": 1,
     "offset_x": -243,
     "offset_y": -134,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -158,
     "offset_y": -95,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -34,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

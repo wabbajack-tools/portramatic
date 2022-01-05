@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/38/c9/bf/38c9bf97a755dc54f9b5d340efa0fdf4.jpg",
   "md5": "ADB959D0E3B174836672E70B69B54595",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "assassin",
+    "wood",
+    "female",
+    "knight",
+    "armor",
+    "shredder",
+    "armors",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dmitry",
+    "chertkov",
+    "https://www",
+    "macbeth",
+    "hyunjae",
+    "kang",
+    "lionheart",
+    "ji",
+    "ni"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -300,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -50,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -14,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,45 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "dark",
+    "elf",
+    "souls",
+    "faceless",
+    "oleg",
+    "bulakh",
+    "creature",
+    "artwork",
+    "concept",
+    "characters",
+    "junwoo",
+    "kim",
+    "artorias",
+    "roman",
+    "melkumov"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -914,
     "offset_y": -647,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5700833333333329,
     "offset_x": -486,
     "offset_y": -309,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5897499999999997,
     "offset_x": -282,
     "offset_y": -154,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

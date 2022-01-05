@@ -29,27 +29,48 @@
     "didi",
     "daniel",
     "https://www.artstation.com/artwork/9ebaqw",
-    "2021"
+    "2021",
+    "with",
+    "wings",
+    "ice",
+    "half",
+    "animes",
+    "guys",
+    "assassin",
+    "angel",
+    "league",
+    "legends",
+    "ice_butterfly_elf_mage",
+    "mars",
+    "foong",
+    "stylet",
+    "chen",
+    "kh",
+    "frame",
+    "arms"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -347.0000000000001,
     "offset_y": -206,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -98,
     "offset_y": -50.333333333333485,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -72,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

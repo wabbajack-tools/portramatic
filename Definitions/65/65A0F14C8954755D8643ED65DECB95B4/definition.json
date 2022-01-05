@@ -8,25 +8,58 @@
     "bird",
     "animal",
     "figurine",
-    ""
+    "",
+    "jeanne",
+    "d\u0027arc",
+    "fate",
+    "joan",
+    "arc",
+    "painting",
+    "de",
+    "league",
+    "legends",
+    "innocentia",
+    "et",
+    "superbia",
+    "carhvax",
+    "simons",
+    "https://www.artstation.com/artwork/kkle6",
+    "\u8FEA\u8FBE\u62C9\u62C9\u62C9",
+    "tianlong",
+    "zheng",
+    "https://www.artstation.com/artwork/lvwlxy",
+    "anime",
+    "illustrations",
+    "for",
+    "malkyrs",
+    "studio",
+    "jean",
+    "baptiste",
+    "andrier",
+    "artwork"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -343,
     "offset_y": -149,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2899999999999994,
     "offset_x": -77,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -29,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

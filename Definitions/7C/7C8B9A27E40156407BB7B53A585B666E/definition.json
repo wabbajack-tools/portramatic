@@ -2,27 +2,54 @@
   "source": "https://64.media.tumblr.com/056f99b0225d2844ce6cb3f8f253ad63/tumblr_njglr1Qxm81qh0iv0o1_1280.png",
   "md5": "7C8B9A27E40156407BB7B53A585B666E",
   "tags": [
-    ""
+    "",
+    "female",
+    "vampire",
+    "face",
+    "bat",
+    "creature",
+    "legends",
+    "assassin",
+    "dark",
+    "souls",
+    "knight",
+    "elf",
+    "black",
+    "amantia",
+    "aleksey",
+    "iromonik",
+    "konyshev",
+    "death",
+    "vadim",
+    "mashyanov",
+    "graveborne",
+    "concept",
+    "keyart",
+    "\u00B7",
+    "canoe"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -374,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -100,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -54,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

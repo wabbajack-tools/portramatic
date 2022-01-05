@@ -2,25 +2,41 @@
   "source": "https://i.redd.it/wv580ram91l51.jpg",
   "md5": "5064BE7E4AE0E60887EF0497057943EA",
   "tags": [
-    ""
+    "",
+    "planescape",
+    "tiefling",
+    "levistus",
+    "red",
+    "descent",
+    "from",
+    "cross",
+    "captain\u0027s",
+    "quarters",
+    "liana",
+    "pierce"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -715.3333333333327,
     "offset_y": -164.00000000000009,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -665.3333333333331,
     "offset_y": -163.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -751.9999999999998,
     "offset_y": -201.3333333333332,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

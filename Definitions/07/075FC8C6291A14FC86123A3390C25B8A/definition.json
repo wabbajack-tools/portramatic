@@ -5,27 +5,50 @@
     "dimitri",
     "fire",
     "emblem",
-    "heroes"
+    "heroes",
+    "alexander",
+    "hamlin",
+    "alexandre",
+    "blaiddyd",
+    "memes",
+    "knight",
+    "armor",
+    "heavy",
+    "valkyrie",
+    "artio",
+    "butsee",
+    "victoria",
+    "zemtseva",
+    "\u67AA",
+    "xiya",
+    "ai",
+    "character",
+    "concept",
+    "characters",
+    "cyberpunk"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -434,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -84,
     "offset_y": 6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -18,
     "offset_y": 12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

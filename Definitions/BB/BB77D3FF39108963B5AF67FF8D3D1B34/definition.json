@@ -21,32 +21,52 @@
     "role",
     "vax",
     "linda",
-    "lithén",
+    "lith\uFFFDn",
     "shirley",
     "dungeon",
     "deposed",
     "compilation",
-    "cover"
+    "cover",
+    "avatar",
+    "legend",
+    "korra",
+    "last",
+    "airbender",
+    "gabriel",
+    "vitoria",
+    "cyberpunk",
+    "lass",
+    "hanzheng",
+    "tang",
+    "https://www.artstation.com/artwork/a0xmm",
+    "halvar",
+    "god",
+    "battle",
+    "lie",
+    "setiawan"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -392,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -312,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -430,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

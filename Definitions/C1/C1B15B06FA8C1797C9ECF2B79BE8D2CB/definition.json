@@ -3,27 +3,64 @@
   "md5": "C1B15B06FA8C1797C9ECF2B79BE8D2CB",
   "tags": [
     "female",
-    "elf"
+    "elf",
+    "fantasty",
+    "christmas",
+    "merry",
+    "painting",
+    "with",
+    "angels",
+    "scarlet",
+    "witch",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "tights",
+    "dress",
+    "cocktail_dress",
+    "shoes",
+    "boots",
+    "heels",
+    "magician",
+    "yeongyeong",
+    "song",
+    "anime",
+    "character",
+    "girl",
+    "ca",
+    "dmitry",
+    "ld",
+    "goddess",
+    "ver.black",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "2019",
+    "design"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -518,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -258,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -231,
     "offset_y": -61,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

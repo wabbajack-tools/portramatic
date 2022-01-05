@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/b1/b1/31/b1b131a30f410a00026eb31ba309bba0.jpg",
   "md5": "BB446A466BB3751507C27501731F1D53",
   "tags": [
-    ""
+    "",
+    "old",
+    "men",
+    "characters",
+    "cyberpunk",
+    "man",
+    "character",
+    "design",
+    "reaper",
+    "sea",
+    "mira",
+    "dzhantova",
+    "world",
+    "warcraft"
   ],
   "small": {
     "scale": 0.4399999999999995,
     "offset_x": -28,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -4,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

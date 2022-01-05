@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/019/538/147/large/taekwon-kim-a-rang-2.jpg?1563937615",
   "md5": "AE960A5320FA8C7ED562D9417F81D63C",
   "tags": [
-    ""
+    "",
+    "goddess",
+    "girls",
+    "books",
+    "book",
+    "series",
+    "girl",
+    "greek",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "taekwon",
+    "kim",
+    "a-rang",
+    "2020",
+    "\u7FBD\u5203123",
+    "nix",
+    "huang",
+    "women",
+    "female",
+    "mercy...",
+    "gerry",
+    "arthur",
+    "https://www"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -1694,
     "offset_y": -715,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -1093,
     "offset_y": -491,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -1112,
     "offset_y": -538,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

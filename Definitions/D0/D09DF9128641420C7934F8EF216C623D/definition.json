@@ -2,27 +2,55 @@
   "source": "https://ih1.redbubble.net/image.813010840.6363/fposter,small,wall_texture,product,750x1000.u1.jpg",
   "md5": "D09DF9128641420C7934F8EF216C623D",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "assassin",
+    "male",
+    "white",
+    "hair",
+    "drow",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "lingerie",
+    "panties",
+    "ff6",
+    "redesign",
+    "celes",
+    "chere",
+    "isaac",
+    "li",
+    "yenko",
+    "ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -318,
     "offset_y": -181,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -222,
     "offset_y": -178,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -276,
     "offset_y": -286,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

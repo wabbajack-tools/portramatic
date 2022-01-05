@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/21/38/00/2138002bda60dfcca92f030c461d8399.jpg",
   "md5": "A3EEB71CD6BF8D4AF1E52385F18E803C",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "character",
+    "kingmaker",
+    "fighter",
+    "portraits",
+    "mage",
+    "orc",
+    "warrior",
+    "lord",
+    "rings",
+    "sniper",
+    "ghost",
+    "dark",
+    "elf",
+    "death",
+    "knight",
+    "medieval",
+    "kylo",
+    "ren",
+    "alex",
+    "charleux",
+    "lucifer1",
+    "crow",
+    "god",
+    "artstation.",
+    "berserker",
+    "jay",
+    "yang"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -200,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -146,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -52,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

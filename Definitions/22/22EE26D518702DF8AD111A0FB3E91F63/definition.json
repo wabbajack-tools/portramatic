@@ -2,27 +2,35 @@
   "source": "https://i.imgur.com/nJwc3RH.jpeg",
   "md5": "22EE26D518702DF8AD111A0FB3E91F63",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -49,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -38,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -114,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

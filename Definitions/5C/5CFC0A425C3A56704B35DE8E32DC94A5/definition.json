@@ -2,27 +2,60 @@
   "source": "https://www.angelfire.com/rpg2/vortexshadow/pics/drow.jpg",
   "md5": "5CFC0A425C3A56704B35DE8E32DC94A5",
   "tags": [
-    ""
+    "",
+    "male",
+    "drow",
+    "warrior",
+    "elf",
+    "character",
+    "knight",
+    "armor",
+    "death",
+    "dark",
+    "black",
+    "medieval",
+    "knights",
+    "mandalorian",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "https://www.artstation.com/artwork/mqogdv",
+    "creature",
+    "path",
+    "exile",
+    "barron",
+    "h",
+    "c-s",
+    "warhammer",
+    "online\uFF082009\uFF09",
+    "ji",
+    "zhang",
+    "2020",
+    "roleplay"
   ],
   "small": {
     "scale": 1,
     "offset_x": -279,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -214,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -42,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

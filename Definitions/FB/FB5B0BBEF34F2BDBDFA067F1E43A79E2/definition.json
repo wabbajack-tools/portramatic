@@ -2,27 +2,59 @@
   "source": "https://i.redd.it/je66me1xjp401.jpg",
   "md5": "FB5B0BBEF34F2BDBDFA067F1E43A79E2",
   "tags": [
-    ""
+    "",
+    "dd",
+    "dragonborn",
+    "sorcerer",
+    "drawings",
+    "character",
+    "armors",
+    "samurai",
+    "orc",
+    "minseok",
+    "kwak",
+    "https://www.artstation.com/artwork/62e25",
+    "contest",
+    "characters",
+    "tatiana",
+    "vetrova",
+    "artstation.",
+    "for",
+    "\u0022ancient",
+    "civilizations",
+    "lost",
+    "\u0026",
+    "found",
+    "2014",
+    "heros",
+    "jin",
+    "woo",
+    "park",
+    "design",
+    "hero"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -296,
     "offset_y": -158,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -188,
     "offset_y": -130,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -50,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

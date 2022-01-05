@@ -14,27 +14,52 @@
     "bezak",
     "noelle",
     "muhammad",
-    "fajri"
+    "fajri",
+    "cryptid",
+    "fairies",
+    "legends",
+    "cryptids",
+    "warrior",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "witcher",
+    "oc",
+    "lucya",
+    "nick",
+    "yee",
+    "20170907",
+    "kongjian",
+    "bo",
+    "https://www"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -181.5999999999999,
     "offset_y": -29.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -121.19999999999993,
     "offset_y": -27.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -66.76851851851848,
     "offset_y": -40.296296296296305,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://64.media.tumblr.com/3201832c1610f1919f571f4972c10214/tumblr_pq4vc2HNWa1sazby5o1_1280.jpg",
   "md5": "7B48FCC4D58A4C770D21F9248B87E762",
   "tags": [
-    ""
+    "",
+    "female",
+    "half",
+    "orc",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "male",
+    "warrior",
+    "conan",
+    "barbarian",
+    "game",
+    "thrones",
+    "orcs",
+    "condemned",
+    "brute",
+    "pascal",
+    "quidault",
+    "faeries",
+    "taras",
+    "susak",
+    "concept",
+    "\u76DB\u5927\u4F20\u5947\u5BA3\u4F20",
+    "hart",
+    "studio"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -236,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5299999999999996,
     "offset_x": -76,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -50,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

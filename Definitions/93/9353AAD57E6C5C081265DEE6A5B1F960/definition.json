@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/9a/40/48/9a40484c4f6a53f46dc605987bbaec89.jpg",
   "md5": "9353AAD57E6C5C081265DEE6A5B1F960",
   "tags": [
-    ""
+    "",
+    "female",
+    "character",
+    "ideas",
+    "wizard",
+    "concept",
+    "assassin",
+    "samurai",
+    "armor",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "old",
+    "alexander",
+    "maximov",
+    "saber",
+    "jooz",
+    "michael",
+    "personal",
+    "work",
+    "younghun",
+    "byun",
+    "https://www.artstation.com/artwork/v2dbby",
+    "rpg"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -225,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -110,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5000000000000004,
     "offset_x": -26,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

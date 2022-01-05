@@ -22,27 +22,34 @@
     "derrick",
     "song",
     "artwork",
-    "songs"
+    "songs",
+    "https://www",
+    "villek",
+    "via",
+    "concept"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -544.799999999999,
     "offset_y": -275.20000000000016,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3499999999999994,
     "offset_x": -156.79999999999995,
     "offset_y": -98.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -225.86111111111154,
     "offset_y": -32.03703703703707,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

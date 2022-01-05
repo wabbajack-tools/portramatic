@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/originals/2b/73/bd/2b73bd706592a6e9c76bafd9a2895f46.jpg",
   "md5": "BEBE7EE11D18228875D5BC2C3393BB34",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "slayer",
+    "novel",
+    "full",
+    "body",
+    "space",
+    "marine",
+    "war",
+    "hammer",
+    "worldofwarcraft",
+    "artwork\uD83C\uDFA8",
+    "\u201Ccommission",
+    "work",
+    "\uD83D\uDCAF",
+    "\uD83D\uDC64",
+    "stephan",
+    "sykes",
+    "lycanthrope_were",
+    "bear",
+    "yisoo",
+    "an",
+    "https://www.artstation.com/artwork/yqrqp",
+    "daughter",
+    "trigon",
+    "statue",
+    "concept",
+    "daniel",
+    "kamarudin",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1,
     "offset_x": -403,
     "offset_y": -293,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -335,
     "offset_y": -226,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -344,
     "offset_y": -194,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

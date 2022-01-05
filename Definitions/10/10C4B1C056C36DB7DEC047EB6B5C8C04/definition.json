@@ -23,27 +23,47 @@
     "knight",
     "choi",
     "seyeon",
-    "character"
+    "character",
+    "16th",
+    "century",
+    "guild",
+    "wars",
+    "factions",
+    "arabic",
+    "trader",
+    "ana",
+    "fedina",
+    "https://www",
+    "old",
+    "work2016",
+    "jinglin",
+    "xu",
+    "2021.3.1",
+    "joey",
+    "peng"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -1080,
     "offset_y": -185,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1,
     "offset_x": -915,
     "offset_y": -126,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -730,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

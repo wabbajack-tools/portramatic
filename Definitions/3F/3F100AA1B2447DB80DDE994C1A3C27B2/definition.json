@@ -13,7 +13,7 @@
     "anime",
     "girl",
     "yu-gi-oh",
-    "5d's",
+    "5d\u0027s",
     "x.y",
     "ji",
     "kexin",
@@ -21,27 +21,49 @@
     "werewolf",
     "kill",
     "cc",
-    "cida"
+    "cida",
+    "bloody",
+    "viking",
+    "eric",
+    "bloodaxe",
+    "spawn",
+    "axe",
+    "old",
+    "man",
+    "thor",
+    "wip",
+    "update",
+    "john",
+    "amos",
+    "2020",
+    "artwork",
+    "fight",
+    "bach",
+    "do",
+    "rwby"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -47,
     "offset_y": -20.400000000000034,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -9.799999999999983,
     "offset_y": -26.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -2.2000000000000455,
     "offset_y": -4.600000000000023,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

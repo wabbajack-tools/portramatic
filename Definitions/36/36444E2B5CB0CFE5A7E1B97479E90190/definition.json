@@ -2,27 +2,45 @@
   "source": "https://vignette.wikia.nocookie.net/creaturequest/images/e/ea/423_Archdevil.png/revision/latest?cb=20170419180723",
   "md5": "36444E2B5CB0CFE5A7E1B97479E90190",
   "tags": [
-    "archdevil"
+    "archdevil",
+    "2015_herowarz",
+    "\uCD5C\uAC15\uC758\uAD70\uB2E8",
+    "\uB370\uB9AD",
+    "coax",
+    "\uCF55\uC2A4",
+    "gargoyle",
+    "mat",
+    "gimeno",
+    "r\u00E9sultats",
+    "google",
+    "recherche",
+    "d\u0027images",
+    "correspondant",
+    "\u00E0",
+    "https://cdna.artstation.com/p/assets/images"
   ],
   "small": {
     "scale": 1,
     "offset_x": -363,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -305,
     "offset_y": -121,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -136,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

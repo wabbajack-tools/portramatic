@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c5201f8-5ebf-4487-a511-c2c643ee8ebd/dcb8ni4-94ea4131-9ff3-449f-a926-1cfe3af5009d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjNTIwMWY4LTVlYmYtNDQ4Ny1hNTExLWMyYzY0M2VlOGViZFwvZGNiOG5pNC05NGVhNDEzMS05ZmYzLTQ0OWYtYTkyNi0xY2ZlM2FmNTAwOWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lGnxitLET_EwxiuDL5JuiycELPdMKt90fsZHR2Cfadk",
   "md5": "B49822C9B6DC5B32D3924E3A01056C84",
   "tags": [
-    ""
+    "",
+    "chrono",
+    "blace",
+    "_f",
+    "changsoon",
+    "park",
+    "aeswin",
+    "ainensiel",
+    "andrey",
+    "vasilchenko"
   ],
   "small": {
     "scale": 1.3000000000000003,
     "offset_x": -419,
     "offset_y": -186,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -171,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -118,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -31,27 +31,40 @@
     "tales",
     "character",
     "portraits",
-    "anna"
+    "anna",
+    "ophelia",
+    "hector",
+    "sevilla",
+    "l.",
+    "joker",
+    "arsene",
+    "persona",
+    "5",
+    "isaac",
+    "liew"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -270.40000000000674,
     "offset_y": -139.2,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -88.40000000000015,
     "offset_y": -81.60000000000002,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -11.555555555554747,
     "offset_y": -26.425925925925412,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

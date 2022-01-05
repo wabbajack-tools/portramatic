@@ -21,27 +21,49 @@
     "01",
     "kazuhiro",
     "oya",
-    "https://www.artstation.com/artwork/meglia-01"
+    "https://www.artstation.com/artwork/meglia-01",
+    "high",
+    "warrior",
+    "tera",
+    "elves",
+    "male",
+    "armor",
+    "heavy",
+    "knight",
+    "body",
+    "title",
+    "black",
+    "rose",
+    ".",
+    "artist",
+    "yann",
+    "blomquist",
+    "#artstation",
+    "#tumblr",
+    "#"
   ],
   "small": {
     "scale": 0.44999999999999996,
     "offset_x": -434.3999999999912,
     "offset_y": -36.99999999999727,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3699999999999999,
     "offset_x": -269.60000000000207,
     "offset_y": -38.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5000000000000001,
     "offset_x": -147.75000000000068,
     "offset_y": -39.398148148148266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

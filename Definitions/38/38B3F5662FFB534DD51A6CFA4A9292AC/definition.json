@@ -2,25 +2,64 @@
   "source": "https://i.pinimg.com/originals/34/70/da/3470da604b9f764847eedd742e1eccea.jpg",
   "md5": "38B3F5662FFB534DD51A6CFA4A9292AC",
   "tags": [
-    ""
+    "",
+    "male",
+    "dwarf",
+    "monk",
+    "dd",
+    "cleric",
+    "knight",
+    "armor",
+    "plate",
+    "armors",
+    "heavy",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "blacksmith",
+    "cole",
+    "eastburn",
+    "power",
+    "pinterest",
+    "rpg",
+    "characters",
+    "mercenary",
+    "bageumi",
+    ".",
+    "character",
+    "inspiration",
+    "ancient",
+    "warriors",
+    "post-apocalyptic",
+    "survivor",
+    "johannes",
+    "helgeson"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -310,
     "offset_y": -171,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -269,
     "offset_y": -145,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -62,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

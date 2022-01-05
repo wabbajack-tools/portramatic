@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/originals/e9/7d/fc/e97dfcfd46e6eccd40cb4f40046e6384.jpg",
   "md5": "5FCB8967CB0272433252ACE25D9A79EA",
   "tags": [
-    ""
+    "",
+    "dark",
+    "paladin",
+    "female",
+    "angel",
+    "warrior",
+    "concept",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "witcher",
+    "mumei",
+    "diego",
+    "cunha",
+    "artstation.",
+    "japanese",
+    "animation",
+    "iron",
+    "fortress",
+    "zaffre",
+    "tiefling",
+    "swashbackler",
+    "monad",
+    "https://www.artstation.com/artwork/e\u2026",
+    "goddess",
+    "valkyrie",
+    "\u5973\u795E\u74E6\u5C14\u57FA\u91CC",
+    "wei",
+    "feng",
+    "character",
+    "cg"
   ],
   "small": {
     "scale": 1,
     "offset_x": -251,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -202,
     "offset_y": -137,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -50,
     "offset_y": 34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

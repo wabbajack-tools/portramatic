@@ -2,27 +2,38 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/019/857/264/large/kieran-yanner-406703-gideon-jura-masterpiece-final.jpg?1565286874",
   "md5": "A482755CE302914461EDBFFC06F1D9E4",
   "tags": [
-    ""
+    "",
+    "kieran",
+    "yanner",
+    "numenera",
+    "dragon",
+    "artist",
+    "armors",
+    "armor",
+    "sets"
   ],
   "small": {
     "scale": 1.6700000000000006,
     "offset_x": -739,
     "offset_y": -302,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -245,
     "offset_y": -163,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -138,
     "offset_y": -170,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

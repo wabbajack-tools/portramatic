@@ -2,27 +2,61 @@
   "source": "https://gamersdecide.com/sites/default/files/authors/u154168/try_again.jpg",
   "md5": "3931F6E3D6687C4FF3DC19674B316AED",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "druid",
+    "anime",
+    "female",
+    "zelda",
+    "twilight",
+    "princess",
+    "green",
+    "goblin",
+    "legend",
+    "fairies",
+    "elderwood\u002B1s",
+    "yuanbin",
+    "hu",
+    "women",
+    "character",
+    "illidan",
+    "stormrage",
+    "\u4F0A\u5229\u4E39\u00B7\u6012\u98CE\uFF082009-2017\uFF09",
+    "\u6728\u8BB7\u7684\u738B\u67D0",
+    "whb",
+    "world",
+    "warcraft",
+    "characters",
+    "madrigal",
+    "alexandra",
+    "curte",
+    "daughter",
+    "smoke",
+    "bone"
   ],
   "small": {
     "scale": 1,
     "offset_x": -227,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -161,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 30,
     "offset_y": 52,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

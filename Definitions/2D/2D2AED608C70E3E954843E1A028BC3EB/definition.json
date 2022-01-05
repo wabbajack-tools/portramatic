@@ -3,27 +3,36 @@
   "md5": "2D2AED608C70E3E954843E1A028BC3EB",
   "tags": [
     "explore",
-    "celegorm"
+    "celegorm",
+    "elf",
+    "boy",
+    "drawing",
+    "elves",
+    "anime",
+    "little"
   ],
   "small": {
     "scale": 0.38999999999999946,
     "offset_x": -1,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -34,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

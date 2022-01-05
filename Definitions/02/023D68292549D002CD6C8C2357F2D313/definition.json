@@ -8,27 +8,54 @@
     "bangku",
     "an",
     "supernatural",
-    "creature"
+    "creature",
+    "sebastiano",
+    "kiniger",
+    "stephanie",
+    "serafini",
+    "stanley",
+    "female",
+    "assassin",
+    "\u714C\u7950",
+    "zhao",
+    "wukong",
+    "character",
+    "concept",
+    "design",
+    "sorceress",
+    "redesign",
+    "micha\u0142",
+    "sowa",
+    "dark",
+    "elf",
+    "kim",
+    "youngho",
+    "dungeons",
+    "dragons",
+    "characters"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -551.3999999999993,
     "offset_y": -215.60000000000048,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -423.7999999999998,
     "offset_y": -151.40000000000003,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -33.61111111110972,
     "offset_y": -107.67592592592587,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

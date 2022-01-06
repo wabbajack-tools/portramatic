@@ -1,0 +1,30 @@
+{
+  "source": "https://pbs.twimg.com/media/D-zbiXNXkAA3cQz?format=jpg&name=medium",
+  "md5": "CE6A43BDB6E3B347B883643E2699C9D7",
+  "tags": [
+    "female",
+    "magic",
+    "archer"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -268,
+    "offset_y": -22,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8999999999999999,
+    "offset_x": -149,
+    "offset_y": -7,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

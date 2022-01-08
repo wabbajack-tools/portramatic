@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/7d/e6/87/7de687bfa38a1283ae64563e2874ccfa.jpg",
+  "md5": "598124B5A09E874FB038D0AD8145B362",
+  "tags": [
+    "Tiefling",
+    "female",
+    "horns"
+  ],
+  "small": {
+    "scale": 0.7899999999999998,
+    "offset_x": -121,
+    "offset_y": -141,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9099999999999999,
+    "offset_x": -71,
+    "offset_y": -80,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3500000000000003,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

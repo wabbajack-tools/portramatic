@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/vpbzeruxovi21.jpg",
+  "md5": "9319E05E30B264740B8F2D5E28B2412C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -132.00000000000057,
+    "offset_y": -98.80000000000013,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.36999999999999944,
+    "offset_x": -91.99999999999983,
+    "offset_y": -46.39999999999975,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8699999999999999,
+    "offset_x": -252.814814814815,
+    "offset_y": -118.80555555555566,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

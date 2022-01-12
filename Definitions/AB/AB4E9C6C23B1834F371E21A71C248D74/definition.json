@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/f1/cb/be/f1cbbec232d802056b373e3d2bf96d8b.jpg",
+  "md5": "AB4E9C6C23B1834F371E21A71C248D74",
+  "tags": [
+    "male",
+    "hooded",
+    "halfling",
+    "rogue"
+  ],
+  "small": {
+    "scale": 0.8599999999999999,
+    "offset_x": -144.2666666666663,
+    "offset_y": -79.73333333333335,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -9.066666666666947,
+    "offset_y": -48.39999999999992,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7500000000000007,
+    "offset_x": -41.33333333333417,
+    "offset_y": -7.203703703703638,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

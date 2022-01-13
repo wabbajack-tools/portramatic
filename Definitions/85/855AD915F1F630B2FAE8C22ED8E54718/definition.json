@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/JdrceJt.jpeg",
+  "md5": "855AD915F1F630B2FAE8C22ED8E54718",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.97,
+    "offset_x": -109,
+    "offset_y": -132,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

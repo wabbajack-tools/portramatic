@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.staticneo.com/ew/5/5c/2MHUM5_L.jpg",
+  "md5": "8D58290CA56BE46B115BB3F39E114730",
+  "tags": [
+    "skyrim"
+  ],
+  "small": {
+    "scale": 1.3200000000000003,
+    "offset_x": -187,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1300000000000001,
+    "offset_x": -73,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7000000000000006,
+    "offset_x": -8,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

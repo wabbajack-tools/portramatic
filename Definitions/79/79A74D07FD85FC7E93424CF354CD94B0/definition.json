@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/EOz2mwoX0Ag_R-c?format=jpg&name=medium",
+  "md5": "79A74D07FD85FC7E93424CF354CD94B0",
+  "tags": [
+    "dark",
+    "evil",
+    "knight"
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -271,
+    "offset_y": -254,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -159,
+    "offset_y": -148,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -202,
+    "offset_y": -92,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

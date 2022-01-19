@@ -1,0 +1,35 @@
+{
+  "source": "https://overmental.com/wp-content/uploads/2015/07/Luke_Swarm_War.jpg",
+  "md5": "0199FB6257E7F7D2F9EABF9BC93550D2",
+  "tags": [
+    "Star Wars",
+    "Luke",
+    "Luke Skywalker",
+    "Electric Judgment",
+    "Emerald Lightning"
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -174,
+    "offset_y": -50,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1400000000000001,
+    "offset_x": -135,
+    "offset_y": -35,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8700000000000008,
+    "offset_x": -312,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

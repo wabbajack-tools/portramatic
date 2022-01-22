@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/17/0d/ca/170dca12b6b52aaf5a319f8e9eb3a071.jpg",
+  "md5": "FD1CC8C2F301159E6515927B9C898964",
+  "tags": [
+    "arab",
+    "warrior",
+    "male"
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -229,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -136,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -46,
+    "offset_y": 4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/51/b9/ec/51b9ec0e3f0b6fa5c3b311b9fa2774cf.jpg",
+  "md5": "5A7CB84B2730F18A5DFBB6A30CDBB1E5",
+  "tags": [
+    "wukong",
+    "warrior",
+    "lance"
+  ],
+  "small": {
+    "scale": 1.2900000000000003,
+    "offset_x": -340,
+    "offset_y": -129,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -145,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -22,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

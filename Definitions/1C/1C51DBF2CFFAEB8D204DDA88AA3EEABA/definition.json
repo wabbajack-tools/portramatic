@@ -1,0 +1,33 @@
+{
+  "source": "https://cdnb.artstation.com/p/assets/images/images/030/662/637/large/adnan-ali-young-wizard.jpg?1601293299",
+  "md5": "1C51DBF2CFFAEB8D204DDA88AA3EEABA",
+  "tags": [
+    "necromancer",
+    "kceon",
+    "wizard"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -177,
+    "offset_y": -129,
+    "size": "small",
+    "rotation": 0.15
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -199,
+    "offset_y": -84,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0399999999999976,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

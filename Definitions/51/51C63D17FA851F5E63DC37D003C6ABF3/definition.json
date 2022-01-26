@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.donmai.us/original/51/c6/51c63d17fa851f5e63dc37d003c6abf3.jpg",
+  "md5": "51C63D17FA851F5E63DC37D003C6ABF3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7699999999999998,
+    "offset_x": -220.00000000000006,
+    "offset_y": -69.33333333333331,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -104.66666666666669,
+    "offset_y": -26.00000000000003,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -14.666666666666742,
+    "offset_y": -1.3333333333332575,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

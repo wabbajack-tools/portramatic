@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/736x/10/23/a4/1023a4c734616fcd44534bbd7a85d890.jpg",
+  "md5": "416FD2E490AD763D1F20C0AC07186368",
+  "tags": [
+    "dwarf",
+    "zoltan",
+    "witcher",
+    "warrior",
+    "fighter",
+    "male"
+  ],
+  "small": {
+    "scale": 1.1900000000000002,
+    "offset_x": -331,
+    "offset_y": -291,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7299999999999998,
+    "offset_x": -86,
+    "offset_y": -81,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

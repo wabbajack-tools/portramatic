@@ -1,0 +1,31 @@
+{
+  "source": "http://alphyna.org/wp-content/gallery/planescape-tarot/11-justice-copy.jpg",
+  "md5": "1A62A6F502E1358857CA54D8D849CC8D",
+  "tags": [
+    "Vhailor Planescape Torment"
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -249,
+    "offset_y": -86,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -116,
+    "offset_y": -63,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -4,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/0so7ds66dw041.jpg",
+  "md5": "2F5A2D45F7E220C9A7F216E43FEC281C",
+  "tags": [
+    "female",
+    "witcher",
+    "fighter",
+    "mutation warrior",
+    ""
+  ],
+  "small": {
+    "scale": 0.98,
+    "offset_x": -340,
+    "offset_y": -29,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8699999999999999,
+    "offset_x": -234,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8299999999999998,
+    "offset_x": -22,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

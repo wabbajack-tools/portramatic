@@ -1,0 +1,33 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_1.jpg",
+  "md5": "B561CE0555AC96730ABF3FDDCBF205AE",
+  "tags": [
+    "diana",
+    "league",
+    "legends"
+  ],
+  "small": {
+    "scale": 1.600000000000001,
+    "offset_x": -1167.3333333333321,
+    "offset_y": -74.66666666666666,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8500000000000003,
+    "offset_x": -495.33333333333326,
+    "offset_y": -21.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4600000000000006,
+    "offset_x": -761.9999999999998,
+    "offset_y": -12.000000000000057,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

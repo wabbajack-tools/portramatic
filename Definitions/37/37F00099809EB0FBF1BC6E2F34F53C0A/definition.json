@@ -1,0 +1,33 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
+  "md5": "37F00099809EB0FBF1BC6E2F34F53C0A",
+  "tags": [
+    "vi",
+    "league",
+    "legends"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -689.9999999999998,
+    "offset_y": -88,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -633.3333333333328,
+    "offset_y": -88.66666666666657,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5000000000000004,
+    "offset_x": -924,
+    "offset_y": -56.00000000000006,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

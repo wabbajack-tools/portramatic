@@ -1,0 +1,37 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_4.jpg",
+  "md5": "278D616372F5A547D35C21F38BD19F48",
+  "tags": [
+    "morgana",
+    "league",
+    "legends",
+    "fallen",
+    "angel",
+    "thorn",
+    "thorns"
+  ],
+  "small": {
+    "scale": 1.4300000000000008,
+    "offset_x": -741.9999999999966,
+    "offset_y": -235.33333333333343,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9000000000000004,
+    "offset_x": -430.666666666666,
+    "offset_y": -83.33333333333346,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6100000000000008,
+    "offset_x": -716.6666666666661,
+    "offset_y": -134.6666666666668,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

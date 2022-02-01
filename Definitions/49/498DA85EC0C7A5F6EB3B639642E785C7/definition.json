@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/42/3c/48/423c48a4cdc613e99eb6ab414dcbc13e.jpg",
+  "md5": "498DA85EC0C7A5F6EB3B639642E785C7",
+  "tags": [
+    "Male",
+    "Human Fighter",
+    "Lance"
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -83.2000000000003,
+    "offset_y": -24.80000000000001,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -1.6000000000000227,
+    "offset_y": -9.599999999999966,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.5399999999999894,
+    "offset_x": -35.24074074073974,
+    "offset_y": -16.018518518518704,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

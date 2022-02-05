@@ -1,0 +1,31 @@
+{
+  "source": "https://preview.redd.it/qmxvte5vihg41.jpg?width=640&crop=smart&auto=webp&s=175ca45c89997588911adb2741457469673b5dff",
+  "md5": "39234E87A2862BD4C462CC7CC7F855AF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -300.66666666666686,
+    "offset_y": -192.66666666666674,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -187.33333333333337,
+    "offset_y": -142,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.12,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_vanilla.png",
+  "md5": "35C28AB084CEE2F6F8BE1B87DAC3579E",
+  "tags": [
+    "voiceofcard"
+  ],
+  "small": {
+    "scale": 1.8759166666666673,
+    "offset_x": -604.5999999999951,
+    "offset_y": -332.8000000000001,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -155.2,
+    "offset_y": -17.80000000000001,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -183.74999999999977,
+    "offset_y": -22.38888888888914,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

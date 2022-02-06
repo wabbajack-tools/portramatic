@@ -1,0 +1,31 @@
+{
+  "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_shiraha.png",
+  "md5": "8B25C76480337E5160D169E9D32B3D23",
+  "tags": [
+    "voiceofcard"
+  ],
+  "small": {
+    "scale": 1.8759166666666673,
+    "offset_x": -539.799999999997,
+    "offset_y": -144.8000000000001,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -123.99999999999994,
+    "offset_y": -53.799999999999955,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -103.65740740740739,
+    "offset_y": -86.46296296296316,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

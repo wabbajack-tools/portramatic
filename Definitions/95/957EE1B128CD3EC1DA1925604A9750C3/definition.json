@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pichunter.com/270/6/2706533/2706533_5_o.jpg",
+  "md5": "957EE1B128CD3EC1DA1925604A9750C3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7699999999999998,
+    "offset_x": -263.33333333333337,
+    "offset_y": -101.33333333333331,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -95.33333333333326,
+    "offset_y": -52.666666666666686,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7399999999999978,
+    "offset_x": -16,
+    "offset_y": -5.3333333333332575,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

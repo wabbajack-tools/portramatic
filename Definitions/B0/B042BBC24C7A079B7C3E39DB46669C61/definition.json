@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pichunter.com/250/0/2500440/2500440_2_o.jpg",
+  "md5": "B042BBC24C7A079B7C3E39DB46669C61",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3300000000000003,
+    "offset_x": -270.00000000000006,
+    "offset_y": -27.333333333333258,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08,
+    "offset_x": -110.00000000000006,
+    "offset_y": -6.000000000000057,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4399999999999984,
+    "offset_x": -16,
+    "offset_y": -5.3333333333332575,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

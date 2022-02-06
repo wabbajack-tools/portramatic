@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/37/62/4e/37624e9afa34f33793ffe984d9ca70c9.jpg",
+  "md5": "89AD5F58A221B3A87352C20EA54D5561",
+  "tags": [
+    "gnome",
+    "plate",
+    "armor"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -336.66666666666663,
+    "offset_y": -236.33333333333348,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -179,
+    "offset_y": -153,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2200000000000002,
+    "offset_x": -72,
+    "offset_y": -128.6666666666669,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

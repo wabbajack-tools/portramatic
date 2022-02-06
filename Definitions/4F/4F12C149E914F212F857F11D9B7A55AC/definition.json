@@ -1,0 +1,31 @@
+{
+  "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_kuroe.png",
+  "md5": "4F12C149E914F212F857F11D9B7A55AC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.9403333333333341,
+    "offset_x": -556.5999999999972,
+    "offset_y": -104.80000000000001,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -140,
+    "offset_y": -27.399999999999977,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -137.2962962962963,
+    "offset_y": -52.82407407407402,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

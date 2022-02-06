@@ -1,0 +1,31 @@
+{
+  "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_valtu.png",
+  "md5": "1626A58E2F4132967843F149FBE25ACD",
+  "tags": [
+    "voiceofcard"
+  ],
+  "small": {
+    "scale": 1.8266666666666675,
+    "offset_x": -588.5999999999965,
+    "offset_y": -78.40000000000015,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -154.39999999999992,
+    "offset_y": -33.80000000000001,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -158.1203703703702,
+    "offset_y": -49.620370370370665,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

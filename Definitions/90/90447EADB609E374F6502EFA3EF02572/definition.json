@@ -1,0 +1,31 @@
+{
+  "source": "https://www.jp.square-enix.com/vocm/img/top/chara_card_raty.png",
+  "md5": "90447EADB609E374F6502EFA3EF02572",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 2.59883333333332,
+    "offset_x": -619.1999999999919,
+    "offset_y": -167.20000000000033,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3000000000000003,
+    "offset_x": -185.5999999999999,
+    "offset_y": -78.19999999999993,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8100000000000007,
+    "offset_x": -142.56481481481455,
+    "offset_y": -96.50000000000011,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

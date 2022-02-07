@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/yd0a515ng7x21.jpg",
+  "md5": "DD8B2A2853F358675C93A5B042DF69E4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.8200000000000007,
+    "offset_x": -683.9999999999989,
+    "offset_y": -243.99999999999983,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -267.1999999999994,
+    "offset_y": -144,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -75.2870370370373,
+    "offset_y": -148.97222222222206,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

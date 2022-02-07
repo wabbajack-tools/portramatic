@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/3jEDwVJ.jpeg",
+  "md5": "1954AE30BC2F66AF0D9F5DE218DEB71D",
+  "tags": [
+    "person",
+    "human",
+    "samurai",
+    "bronze",
+    "armor",
+    "knight",
+    "dwarf",
+    "badass"
+  ],
+  "small": {
+    "scale": 1.5800000000000005,
+    "offset_x": -402,
+    "offset_y": -253,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.3000000000000003,
+    "offset_x": -255,
+    "offset_y": -191,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.6400000000000006,
+    "offset_x": -98,
+    "offset_y": -119,
+    "size": "full"
+  },
+  "version": 2
+}

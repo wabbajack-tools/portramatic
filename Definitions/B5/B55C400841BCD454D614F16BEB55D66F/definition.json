@@ -11,7 +11,26 @@
     "war",
     "4",
     "gameplay",
-    "gow"
+    "gow",
+    "baldur\u0027s",
+    "gate",
+    "series",
+    "enhanced",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "minsc",
+    "maxime",
+    "brienne",
+    "greek",
+    "joseph",
+    "c-knight",
+    "ronin",
+    "daniel",
+    "joustra"
   ],
   "small": {
     "scale": 0.99,
@@ -35,6 +54,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -20,25 +20,36 @@
     "festival",
     "dance pose",
     "female",
-    ""
+    "",
+    "raijin",
+    "\u0026",
+    "fujin",
+    "age",
+    "pantheons",
+    "gianluca"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -284,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -104,
     "offset_y": -53,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -6,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/2c/fa/d8/2cfad8cc1e6794326b712768f91e7458.jpg",
   "md5": "520055F04FE6DD288D77524AF79A32F7",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "d",
+    "tiefling",
+    "female",
+    "bard",
+    "sniper",
+    "ghost",
+    "warrior",
+    "heavy",
+    "armor",
+    "dark",
+    "elf",
+    "orc",
+    "native",
+    "american",
+    "pirate",
+    "greek",
+    "gods",
+    "assassin",
+    "flo",
+    "young",
+    "card",
+    "illustrations",
+    "conqueror",
+    "warlord",
+    "daria",
+    "rashev",
+    "illustration",
+    "honda",
+    "tadakatsu",
+    "fwl"
   ],
   "small": {
     "scale": 1.6200000000000006,
     "offset_x": -289,
     "offset_y": -146,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -108,
     "offset_y": -54,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -32,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

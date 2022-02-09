@@ -2,7 +2,11 @@
   "source": "https://i.pinimg.com/564x/63/9b/09/639b0945e9111b41a105f4f7e38199ce.jpg",
   "md5": "DF1500639E4A681149C07F777D921446",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 1.5700000000000005,
@@ -26,6 +30,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

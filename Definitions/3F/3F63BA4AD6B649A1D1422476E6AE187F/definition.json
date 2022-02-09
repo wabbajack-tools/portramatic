@@ -2,25 +2,64 @@
   "source": "https://64.media.tumblr.com/9ee929239da653991f56f104560029a7/tumblr_pku8s8uhum1sigzcho1_1280.png",
   "md5": "3F63BA4AD6B649A1D1422476E6AE187F",
   "tags": [
-    ""
+    "",
+    "cute",
+    "halfling",
+    "anime",
+    "coats",
+    "cowboy",
+    "trench",
+    "coat",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "shoes",
+    "boots",
+    "accessories",
+    "head_wear",
+    "hat",
+    "glasses",
+    "wild",
+    "west",
+    "banker",
+    "max",
+    "lim",
+    "https://maxer",
+    "gunslinger",
+    "carlo",
+    "arellano",
+    "steampunk",
+    "star",
+    "wars",
+    "\u2013",
+    "obi-wan",
+    "kenobi",
+    "bjorn",
+    "hurri"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -277,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -147,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -70,
     "offset_y": -23,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

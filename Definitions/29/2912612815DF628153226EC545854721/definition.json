@@ -4,27 +4,48 @@
   "tags": [
     "solar",
     "jasonengle",
-    "d&amp;d"
+    "d\u0026amp;d",
+    "dwarf",
+    "thief",
+    "dwarven",
+    "rogue",
+    "warcraft",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "va",
+    "rachel",
+    "denton",
+    "#fantasyart",
+    "#characterart",
+    "character",
+    "portraits",
+    "concept"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -196,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -68,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -118,
     "offset_y": -230,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

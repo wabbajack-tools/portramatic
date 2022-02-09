@@ -4,27 +4,48 @@
   "tags": [
     "girl",
     "female",
-    "tiefling"
+    "tiefling",
+    "monk",
+    "drawings",
+    "warrior",
+    "character",
+    "design",
+    "part",
+    "1.",
+    "l\u00E9o",
+    "ch\u00E9rel",
+    "\u0432",
+    "2020",
+    "\u0433",
+    "alice",
+    "lauren",
+    "covarrubias",
+    "doctor",
+    "vlada",
+    "monakhova"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -204,
     "offset_y": 1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -92,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -5,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,43 @@
   "source": "https://i.pinimg.com/564x/ce/fe/81/cefe814338fc984662e3f31794638e8c.jpg",
   "md5": "BBBCEB547CA572EDEA0DA66A230D4B2B",
   "tags": [
-    ""
+    "",
+    "dwarven",
+    "barbarian",
+    "dwarf",
+    "warrior",
+    "spartan",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "alchemist",
+    "knight",
+    "alberto",
+    "luna"
   ],
   "small": {
     "scale": 2.04,
     "offset_x": -483,
     "offset_y": -206,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -221,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -122,
     "offset_y": -115,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

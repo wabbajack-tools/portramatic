@@ -19,7 +19,7 @@
     "jeremy",
     "chong",
     "https://www.artstation.com/artwork/y5lak?utm",
-    "heaven's",
+    "heaven\u0027s",
     "guardian",
     "yangtian",
     "li",
@@ -31,27 +31,52 @@
     "archer",
     "schulz",
     "concept",
-    "world"
+    "world",
+    "knight",
+    "soldier",
+    "assassin",
+    "plate",
+    "heavy",
+    "samurai",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "warlord",
+    "mark",
+    "filippelli",
+    "characters",
+    "character",
+    "axel",
+    "st-cyr",
+    "ranger",
+    "wip",
+    "mihail",
+    "klerrykot"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -226,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -23,
     "offset_y": -31,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -114,
     "offset_y": -66,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

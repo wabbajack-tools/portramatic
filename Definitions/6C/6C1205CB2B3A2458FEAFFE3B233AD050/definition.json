@@ -2,27 +2,50 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/947/612/large/wojtek-fus-the-trail.jpg?1487386724",
   "md5": "6C1205CB2B3A2458FEAFFE3B233AD050",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "1920x1080",
+    "desktop",
+    "wallpaper",
+    "1080p",
+    "sun",
+    "wukong",
+    "huifeng",
+    "huang",
+    "concept",
+    "characters",
+    "monkey",
+    "king",
+    "knight",
+    "girl",
+    "flycat",
+    "fly",
+    "spearman",
+    "jos\u00E9",
+    "arias"
   ],
   "small": {
     "scale": 1,
     "offset_x": -1093.3333333333385,
     "offset_y": -140.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -701.3333333333333,
     "offset_y": -57.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -872,
     "offset_y": -2.6666666666667425,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

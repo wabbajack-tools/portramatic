@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/7c/5d/a0/7c5da0835f15e63a29231a610a0b302d.jpg",
   "md5": "F32A2B1EE606DBAEDA3FA77287BB2EC0",
   "tags": [
-    ""
+    "",
+    "halfling",
+    "character",
+    "alchemist",
+    "rogue",
+    "dungeons",
+    "dragons",
+    "heavy",
+    "armor",
+    "dwarf",
+    "barbarian",
+    "nathanael",
+    "james",
+    "https://www.artstation.com/artwork/x15vr"
   ],
   "small": {
     "scale": 2.669999999999989,
     "offset_x": -748,
     "offset_y": -454,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.4099999999999957,
     "offset_x": -629,
     "offset_y": -400,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -30,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

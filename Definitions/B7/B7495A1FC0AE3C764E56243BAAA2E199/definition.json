@@ -5,7 +5,23 @@
     "female",
     "thor",
     "woman",
-    "pretty"
+    "pretty",
+    "wonder",
+    "new",
+    "52",
+    "costume",
+    "girls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "bra",
+    "lion",
+    "knight",
+    "quico",
+    "vicens-picatto"
   ],
   "small": {
     "scale": 1,
@@ -29,6 +45,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

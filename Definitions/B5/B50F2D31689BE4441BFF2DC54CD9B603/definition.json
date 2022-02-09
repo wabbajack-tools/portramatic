@@ -13,25 +13,52 @@
     "clothing",
     "apparel",
     "archery",
-    "archer"
+    "archer",
+    "sagittarius",
+    "drawing",
+    "female",
+    "warrior",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "plain",
+    "doll",
+    "bloodborne",
+    "kelvin",
+    "ricardo",
+    "wednesday",
+    "woman",
+    "denver",
+    "balbaboco",
+    "reaper",
+    "hyeong",
+    "bin",
+    "jeon"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -309.6,
     "offset_y": -136.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -102.39999999999992,
     "offset_y": -101.60000000000025,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5799999999999996,
     "offset_x": -116.80000000000007,
     "offset_y": -111.99999999999986,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

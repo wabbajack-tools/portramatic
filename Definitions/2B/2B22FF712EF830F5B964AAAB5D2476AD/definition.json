@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/31/a8/97/31a897fdaa8d8c3dcf9b18853a0189f7.jpg",
   "md5": "2B22FF712EF830F5B964AAAB5D2476AD",
   "tags": [
-    ""
+    "",
+    "scarlet",
+    "witch",
+    "femslash",
+    "costume",
+    "red",
+    "avengers",
+    "female",
+    "assassin",
+    "iron",
+    "man",
+    "armor",
+    "dark",
+    "sage",
+    "angy",
+    "p",
+    "\u6D9B\u795E",
+    "qingxue",
+    "ye",
+    "character",
+    "portraits",
+    "pirate",
+    "mystique",
+    "jason",
+    "pastrana",
+    "fantasias"
   ],
   "small": {
     "scale": 1,
     "offset_x": -164,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -56,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -38,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

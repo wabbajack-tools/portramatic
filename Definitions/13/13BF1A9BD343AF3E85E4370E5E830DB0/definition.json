@@ -1,5 +1,5 @@
 {
-  "source": "https://th.bing.com/th/id/OIP.OqTLeujVaRRdPAxRaBeRoAHaKe?pid=ImgDet&rs=1",
+  "source": "https://th.bing.com/th/id/OIP.OqTLeujVaRRdPAxRaBeRoAHaKe?pid=ImgDet\u0026rs=1",
   "md5": "13BF1A9BD343AF3E85E4370E5E830DB0",
   "tags": [
     ""
@@ -26,6 +26,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

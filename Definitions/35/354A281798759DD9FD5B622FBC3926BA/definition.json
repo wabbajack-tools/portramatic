@@ -2,27 +2,50 @@
   "source": "https://webcdn.hirezstudios.com/smite/god-skins/the_morrigan_pale-raven.jpg",
   "md5": "354A281798759DD9FD5B622FBC3926BA",
   "tags": [
-    ""
+    "",
+    "smite",
+    "fan",
+    "morrigan",
+    "skins",
+    "female",
+    "assassin",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "\u738B\u8005\u8363\u8000\u963F\u73C2",
+    "\u753B\u4E2A\u86CB\u86CB",
+    "00",
+    "comm",
+    "wow",
+    "archer",
+    "avareon",
+    "lenneth",
+    "nick",
+    "savino"
   ],
   "small": {
     "scale": 1.4500000000000004,
     "offset_x": -573,
     "offset_y": -247,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -205,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -68,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

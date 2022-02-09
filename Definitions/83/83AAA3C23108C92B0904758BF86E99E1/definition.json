@@ -23,7 +23,11 @@
     "pirate",
     "captain",
     "vezonia",
-    "lithium"
+    "lithium",
+    "digital",
+    "face",
+    "hair",
+    "characters"
   ],
   "small": {
     "scale": 0.17999999999999927,
@@ -47,6 +51,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

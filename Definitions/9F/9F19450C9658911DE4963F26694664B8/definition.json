@@ -38,7 +38,12 @@
     "song",
     "nan",
     "li",
-    "https://www.artstation.com/artwork/e0x1kd"
+    "https://www.artstation.com/artwork/e0x1kd",
+    "anime",
+    "guys",
+    "girl",
+    "elves",
+    "coat"
   ],
   "small": {
     "scale": 0.99,
@@ -62,6 +67,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

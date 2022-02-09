@@ -2,27 +2,37 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/018/064/809/large/mauro-belfiore-dornillu.jpg?1558296261",
   "md5": "AF59EE4D202BB0D39FB3F78603F8FB26",
   "tags": [
-    ""
+    "",
+    "rogal",
+    "dorn",
+    "model",
+    "warhammer",
+    "40k",
+    "horus",
+    "heresy"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -365.14285714285694,
     "offset_y": -147.99999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -326.8571428571428,
     "offset_y": -166.2857142857142,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6499999999999997,
     "offset_x": -83.42857142857201,
     "offset_y": -99.42857142857133,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

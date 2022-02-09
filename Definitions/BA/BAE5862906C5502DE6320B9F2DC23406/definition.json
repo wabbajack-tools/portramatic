@@ -4,27 +4,43 @@
   "tags": [
     "girl",
     "female",
-    "tiefling"
+    "tiefling",
+    "guardian",
+    "humberto",
+    "maldonado",
+    "\u94C1\u6C5F\u6E56",
+    "\u8499\u773C",
+    "tek",
+    "tan",
+    "superhero",
+    "character",
+    "tricky",
+    "mengya",
+    "chen",
+    "characters"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -156,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -128,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -27,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

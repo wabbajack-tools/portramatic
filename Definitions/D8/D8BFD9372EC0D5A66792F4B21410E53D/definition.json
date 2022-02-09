@@ -2,27 +2,58 @@
   "source": "https://static.wikia.nocookie.net/fireemblem/images/c/c2/S12-002ST_artwork.png/revision/latest?cb=20190926051553",
   "md5": "D8BFD9372EC0D5A66792F4B21410E53D",
   "tags": [
-    ""
+    "",
+    "female",
+    "byleth",
+    "fan",
+    "fire",
+    "emblem",
+    "wallpaper",
+    "hot",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "zelda",
+    "twilight",
+    "princess",
+    "legend",
+    "nine_hunter",
+    "gothvia",
+    "antilous",
+    "chao",
+    "kayle",
+    "sidereal",
+    "bandit",
+    "paladin",
+    "jin",
+    "liujiang",
+    "warrior",
+    "concept",
+    "men"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -236,
     "offset_y": -56,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -146,
     "offset_y": -45,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -70,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

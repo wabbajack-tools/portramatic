@@ -17,30 +17,48 @@
     "glenn",
     "rane",
     "ffxiv",
-    "heroes'",
+    "heroes\u0027",
     "gauntlet",
     "linda",
-    "lithén"
+    "lith\uFFFDn",
+    "female",
+    "assassin",
+    "leather",
+    "armor",
+    "m",
+    "fighter",
+    "platemail",
+    "hande",
+    "sword",
+    "barbarian",
+    "liana",
+    "shadyan",
+    "practice",
+    "bramasta",
+    "aji"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -235,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -100,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -12,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

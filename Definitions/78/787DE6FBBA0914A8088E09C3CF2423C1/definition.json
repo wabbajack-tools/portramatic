@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/3f1mi0rt0c071.jpg?width=800&format=pjpg&auto=webp&s=c87e202b2bcc3677ab9f90a49c711edbddae0983",
+  "source": "https://preview.redd.it/3f1mi0rt0c071.jpg?width=800\u0026format=pjpg\u0026auto=webp\u0026s=c87e202b2bcc3677ab9f90a49c711edbddae0983",
   "md5": "787DE6FBBA0914A8088E09C3CF2423C1",
   "tags": [
     "dark",
@@ -34,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

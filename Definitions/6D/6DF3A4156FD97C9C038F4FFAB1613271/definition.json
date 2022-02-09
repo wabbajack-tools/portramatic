@@ -6,27 +6,43 @@
     "female",
     "mage",
     "priest",
-    "princess"
+    "princess",
+    "nicole",
+    "days",
+    "our",
+    "lives",
+    "90",
+    "day",
+    "from",
+    "fiance",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -491,
     "offset_y": -280,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.35999999999999943,
     "offset_x": -184,
     "offset_y": -116,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -180,
     "offset_y": -116,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

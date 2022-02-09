@@ -1,5 +1,5 @@
 {
-  "source": "https://images-geeknative-com.exactdn.com/wp-content/uploads/2018/07/17235202/2-The-Witcher.jpg?strip=all&lossy=1&ssl=1",
+  "source": "https://images-geeknative-com.exactdn.com/wp-content/uploads/2018/07/17235202/2-The-Witcher.jpg?strip=all\u0026lossy=1\u0026ssl=1",
   "md5": "7E023264411B9F814FEFDFA6B6DDA652",
   "tags": [
     "deep",
@@ -10,7 +10,29 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "full",
+    "metal",
+    "character",
+    "steampunk",
+    "legend",
+    "zelda",
+    "conan",
+    "barbarian",
+    "avatar",
+    "last",
+    "airbender",
+    "geralt",
+    "rivia",
+    "murat",
+    "g\u00FCl",
+    "kingsgroup_koa_card",
+    "kingsgroup",
+    "games",
+    "engineer",
+    "dmitry",
+    "danilov",
+    "2020"
   ],
   "small": {
     "scale": 0.8099999999999998,
@@ -34,6 +56,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

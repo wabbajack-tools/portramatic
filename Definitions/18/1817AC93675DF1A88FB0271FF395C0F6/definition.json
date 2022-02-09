@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/EMgo7JZX0AENDhJ?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EMgo7JZX0AENDhJ?format=jpg\u0026name=large",
   "md5": "1817AC93675DF1A88FB0271FF395C0F6",
   "tags": [
     "elf",
@@ -10,7 +10,32 @@
     "princess",
     "ssakimetel_006",
     "ssaki",
-    "metel"
+    "metel",
+    "tiefling",
+    "armor",
+    "demon",
+    "d",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "bewitching",
+    "janna",
+    "fanart",
+    "camilla",
+    "ferrari",
+    "yaodaoji",
+    "chazi",
+    "prprpr",
+    "beckon",
+    "leslie",
+    "casilli",
+    "girl",
+    "dark",
+    "warrior",
+    "witchy",
+    "woman"
   ],
   "small": {
     "scale": 0.22999999999999932,
@@ -34,6 +59,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

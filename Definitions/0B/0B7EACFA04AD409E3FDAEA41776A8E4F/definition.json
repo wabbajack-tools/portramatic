@@ -8,21 +8,24 @@
     "scale": 0.39999999999999947,
     "offset_x": -226.66666666666617,
     "offset_y": -85.33333333333317,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -94.00000000000011,
     "offset_y": -14.666666666666828,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5199999999999996,
     "offset_x": -52.000000000000455,
     "offset_y": -2.6666666666667993,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

@@ -2,25 +2,37 @@
   "source": "https://i.pinimg.com/originals/85/34/de/8534dea65b15ee6bf44fecc49f387f3a.jpg",
   "md5": "54CD60D9949B467A14E902AFDC030AD6",
   "tags": [
-    ""
+    "",
+    "male",
+    "face",
+    "rpg",
+    "portraits",
+    "elf",
+    "walking",
+    "dead"
   ],
   "small": {
     "scale": 0.1899999999999994,
     "offset_x": -81.5,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -105.5,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -97.5,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

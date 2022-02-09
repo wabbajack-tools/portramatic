@@ -21,7 +21,7 @@
     "gavr",
     "norse",
     "god",
-    "\"anguilar\"",
+    "\u0022anguilar\u0022",
     "javed",
     "ali",
     "monkey",
@@ -29,7 +29,12 @@
     "pt",
     "tacit",
     "sign",
-    "studio"
+    "studio",
+    "dd",
+    "human",
+    "wizard",
+    "d",
+    "spells"
   ],
   "small": {
     "scale": 1.01,
@@ -53,6 +58,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

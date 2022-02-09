@@ -4,27 +4,59 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "human",
+    "male",
+    "archer",
+    "ranger",
+    "armors",
+    "hobbit",
+    "skyrim",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "robin",
+    "hood",
+    "\u0022book",
+    "cover\u0022",
+    "davood",
+    "diba",
+    "2021",
+    "assassin",
+    "warrior",
+    "timi",
+    "hankimaa",
+    "legolas",
+    "realtime",
+    "fanart",
+    "clemens",
+    "berger"
   ],
   "small": {
     "scale": 2.1199999999999974,
     "offset_x": -406,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6000000000000005,
     "offset_x": -227,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4799999999999984,
     "offset_x": -32,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

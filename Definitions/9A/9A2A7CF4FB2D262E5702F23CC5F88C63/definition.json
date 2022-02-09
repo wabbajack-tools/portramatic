@@ -10,27 +10,55 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "dynasty",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "gloves",
+    "shoes",
+    "boots",
+    "female",
+    "warrior",
+    "ting",
+    "xu",
+    "woman",
+    "\u7CBE\u7075\u6E38\u4FA0",
+    "zhongxi",
+    "ho",
+    "2020",
+    "elf",
+    "ranger",
+    "epic",
+    "7-kise",
+    "fan",
+    "made",
+    "nick",
+    "wen"
   ],
   "small": {
     "scale": 1.8900000000000012,
     "offset_x": -416.33333333333235,
     "offset_y": -32.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4800000000000004,
     "offset_x": -243.66666666666669,
     "offset_y": -25.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.419999999999998,
     "offset_x": -48.000000000000455,
     "offset_y": -22.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

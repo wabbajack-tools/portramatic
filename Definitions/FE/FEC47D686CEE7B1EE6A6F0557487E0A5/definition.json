@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/6e/8b/54/6e8b54fe5ec888044883589f8231fa6f.jpg",
   "md5": "FEC47D686CEE7B1EE6A6F0557487E0A5",
   "tags": [
-    ""
+    "",
+    "chad",
+    "wys",
+    "culture",
+    "people",
+    "\u5361\u724C",
+    "frey",
+    "wong",
+    "dark",
+    "werewolf",
+    "vs",
+    "devilman",
+    "mattias",
+    "rotman",
+    "riders",
+    "illustrations",
+    "markella",
+    "stav"
   ],
   "small": {
     "scale": 2.6699999999999853,
     "offset_x": -710,
     "offset_y": -474,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -188,
     "offset_y": -212,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -40,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

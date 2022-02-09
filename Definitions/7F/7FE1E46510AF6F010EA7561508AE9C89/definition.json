@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/564x/09/24/a0/0924a07f46cd71f0547b7d8d73662875.jpg",
   "md5": "7FE1E46510AF6F010EA7561508AE9C89",
   "tags": [
-    ""
+    "",
+    "how",
+    "to",
+    "draw",
+    "mothman",
+    "toy",
+    "legend",
+    "he-man"
   ],
   "small": {
     "scale": 1,
     "offset_x": -186,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -85,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -6,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

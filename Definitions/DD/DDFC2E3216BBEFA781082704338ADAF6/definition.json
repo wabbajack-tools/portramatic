@@ -18,25 +18,61 @@
     "dragon",
     "sweets",
     "food",
-    "confectionery"
+    "confectionery",
+    "sailor",
+    "moon",
+    "shadow",
+    "ross",
+    "tran",
+    "petz",
+    "anime",
+    "girl",
+    "league",
+    "legends",
+    "characters",
+    "guys",
+    "avariel",
+    "angevere",
+    "ona",
+    "kristensen",
+    "https://www.artstation.com/artwork/vg01g",
+    "thor",
+    "nopeys",
+    "norman",
+    "de",
+    "mesa",
+    "granbelm",
+    "\u30B0\u30E9\u30F3\u30D9\u30EB\u30E0",
+    "\u65B0\u6708",
+    "\u6EFF\u6708",
+    "\u54C1\u8FB0",
+    "\u90EDpersonal",
+    "website",
+    "twitter",
+    "https://twitter.com/kuopinchen1"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -313,
     "offset_y": -35,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -250,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -458,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

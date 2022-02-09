@@ -31,7 +31,7 @@
     "dungeons",
     "dragons",
     "blast",
-    "assassin's",
+    "assassin\u0027s",
     "creed",
     "valhalla",
     "even",
@@ -59,6 +59,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

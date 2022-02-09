@@ -6,7 +6,7 @@
     "griffon",
     "david",
     "ceballos",
-    "lópez",
+    "l\uFFFDpez",
     "fairytale",
     "creatures",
     "beasts",
@@ -20,7 +20,13 @@
     "night",
     "forest",
     "light.",
-    "keen"
+    "keen",
+    "smile",
+    "tooth",
+    "wu",
+    "https://www.artstation.com/artwork/aevkq",
+    "stranger",
+    "things"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -44,6 +50,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

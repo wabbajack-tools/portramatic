@@ -16,7 +16,34 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "dress",
-    "formal_dress"
+    "formal_dress",
+    "lord",
+    "rings",
+    "north",
+    "pirates",
+    "caribbean",
+    "dark",
+    "souls",
+    "armors",
+    "hobbit",
+    "dragon",
+    "age",
+    "origins",
+    "shoes",
+    "boots",
+    "inquisition",
+    "costume",
+    "bits",
+    "tom",
+    "lancer",
+    "hak",
+    "kim",
+    "female",
+    "warrior",
+    "borderlands",
+    "fl4k",
+    "beastmaster",
+    "early"
   ],
   "small": {
     "scale": 1,
@@ -40,6 +67,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,27 +10,58 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "shaolin",
+    "monk",
+    "warrior",
+    "costumes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "shoes",
+    "boots",
+    "soar",
+    "custodian",
+    "pietro",
+    "scola",
+    "di",
+    "mambro",
+    "desert",
+    "air",
+    "yuly",
+    "alejo",
+    "skull",
+    "woojae",
+    "choi",
+    "https://www.artstation.com/artwork/qg0bn"
   ],
   "small": {
     "scale": 2.149999999999998,
     "offset_x": -440.33333333333235,
     "offset_y": -70.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6900000000000006,
     "offset_x": -261.6666666666667,
     "offset_y": -47.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.479999999999998,
     "offset_x": -4.000000000000455,
     "offset_y": -2.6666666666664014,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

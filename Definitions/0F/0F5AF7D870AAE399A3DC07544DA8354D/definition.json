@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/a0/47/b6/a047b63c1a5e54d193cedcf6ff0df0c5.jpg",
   "md5": "0F5AF7D870AAE399A3DC07544DA8354D",
   "tags": [
-    ""
+    "",
+    "heavy",
+    "armor",
+    "skyrim",
+    "darkest",
+    "metal",
+    "20",
+    "jail",
+    "knight",
+    "wero",
+    "gallo"
   ],
   "small": {
     "scale": 2.829999999999983,
     "offset_x": -704,
     "offset_y": -306,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.3399999999999936,
     "offset_x": -500,
     "offset_y": -241,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -98,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

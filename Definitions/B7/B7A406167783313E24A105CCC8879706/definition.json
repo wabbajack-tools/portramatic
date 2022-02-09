@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/ee/2c/e3/ee2ce39aa861a0d4a98e0fba6c236cdd.jpg",
   "md5": "B7A406167783313E24A105CCC8879706",
   "tags": [
-    ""
+    "",
+    "modern",
+    "rpg",
+    "character",
+    "cyberpunk",
+    "concept",
+    "orc",
+    "warrior",
+    "medieval",
+    "knights",
+    "assassin",
+    "zombie",
+    "apocalypse",
+    "king",
+    "fighters",
+    "charlie",
+    "natalie",
+    "lesiv",
+    "#android",
+    "#male",
+    "erastil",
+    "paladin",
+    "ted",
+    "thilander",
+    "practive",
+    "xia_yu",
+    "archer",
+    "characters"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -350,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -209,
     "offset_y": -71,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -74,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

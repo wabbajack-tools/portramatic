@@ -47,7 +47,24 @@
     "xu",
     "2020",
     "evil",
-    "anime"
+    "anime",
+    "wood",
+    "assassin",
+    "witcher",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "forgotten",
+    "hero",
+    "legend",
+    "zelda",
+    "aar\u00F3n",
+    "ramos",
+    "pardal"
   ],
   "small": {
     "scale": 0.96,
@@ -71,6 +88,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

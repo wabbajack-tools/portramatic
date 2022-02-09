@@ -40,7 +40,14 @@
     "duong",
     "dragon",
     "kim",
-    "yeen"
+    "yeen",
+    "half",
+    "orc",
+    "names",
+    "rogue",
+    "half-orc",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.9199999999999999,
@@ -64,6 +71,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

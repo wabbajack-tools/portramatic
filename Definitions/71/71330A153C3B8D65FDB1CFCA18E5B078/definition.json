@@ -22,27 +22,45 @@
     "michael",
     "bridge",
     "https://www.artstation.com/artwork/6pzqx",
-    "2020"
+    "2020",
+    "with",
+    "warhammer",
+    "warriors",
+    "slayer",
+    "egyptian",
+    "gods",
+    "hobbit",
+    "artdump",
+    "mmo",
+    "project",
+    "piotr",
+    "krezelewski",
+    "monster",
+    "rpg",
+    "creature"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -256,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -91,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -174,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

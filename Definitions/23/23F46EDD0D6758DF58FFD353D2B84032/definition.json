@@ -2,25 +2,38 @@
   "source": "https://static.wikia.nocookie.net/emerald-isles/images/d/dc/Kitsune.jpg/revision/latest?cb=20161218084021",
   "md5": "23F46EDD0D6758DF58FFD353D2B84032",
   "tags": [
-    ""
+    "",
+    "black",
+    "female",
+    "ninja",
+    "tattoo",
+    "character",
+    "concept",
+    "marvel",
+    "comics"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -258,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -323,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -214,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

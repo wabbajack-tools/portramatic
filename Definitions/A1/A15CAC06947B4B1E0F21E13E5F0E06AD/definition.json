@@ -10,27 +10,56 @@
     "from",
     "africa",
     "african",
-    "diaspora"
+    "diaspora",
+    "black",
+    "wizard",
+    "dark",
+    "drawings",
+    "staff",
+    "chaos",
+    "warrior",
+    "demons",
+    "demon",
+    "hunter",
+    "vampire",
+    "knight",
+    "manga",
+    "lord",
+    "rings",
+    "legend",
+    "cryptids",
+    "kiyocat",
+    "illust",
+    "enrage",
+    "dmitry",
+    "desyatov",
+    "https://www",
+    "judge",
+    "maoshan",
+    "zhan"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -211,
     "offset_y": -33,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -118,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -16,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

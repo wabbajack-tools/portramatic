@@ -2,25 +2,46 @@
   "source": "https://www.inspirationde.com/media/2014/10/celticprincessbyselenada-1414754950g84kn.png",
   "md5": "53BC1787B038E9EAF85B9539289FEDBD",
   "tags": [
-    "Octavia I"
+    "Octavia I",
+    "anime",
+    "female",
+    "elves",
+    "princess",
+    "forest",
+    "elf",
+    "dragon",
+    "black",
+    "hair",
+    "short",
+    "haircut",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5899999999999996,
     "offset_x": -83.33333333333323,
     "offset_y": -16.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -70.66666666666669,
     "offset_y": -15.333333333333258,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -30.666666666666742,
     "offset_y": -9.333333333333371,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,34 @@
   "source": "https://i.redd.it/2f2rnqd59po71.png",
   "md5": "A8E1D8319BDD57EA3562902DBDD0897B",
   "tags": [
-    ""
+    "",
+    "wolf",
+    "cubs",
+    "wolves",
+    "eagles"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -289,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -456,
     "offset_y": -38,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -814,
     "offset_y": -19,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

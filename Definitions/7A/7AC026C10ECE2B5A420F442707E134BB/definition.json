@@ -2,7 +2,11 @@
   "source": "https://static.wikia.nocookie.net/gwent/images/9/93/Mahakam_Defender6.png/revision/latest?cb=20171222195214",
   "md5": "7AC026C10ECE2B5A420F442707E134BB",
   "tags": [
-    ""
+    "",
+    "survivors",
+    "richard",
+    "sashigane",
+    "https://www"
   ],
   "small": {
     "scale": 1.05,
@@ -26,6 +30,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

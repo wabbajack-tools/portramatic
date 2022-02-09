@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/564x/d0/8e/8c/d08e8c416c23042bf2b918ebef133cb2.jpg",
   "md5": "5E5FF96E92528FD8667268D10F362BAE",
   "tags": [
-    ""
+    "",
+    "van",
+    "helsing",
+    "jayden",
+    "arslan"
   ],
   "small": {
     "scale": 2.079999999999999,
     "offset_x": -476,
     "offset_y": -111,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -218,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -46,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

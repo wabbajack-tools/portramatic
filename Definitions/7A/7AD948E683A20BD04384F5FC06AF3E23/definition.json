@@ -2,27 +2,46 @@
   "source": "https://w.wallhaven.cc/full/1k/wallhaven-1kjy7v.jpg",
   "md5": "7AD948E683A20BD04384F5FC06AF3E23",
   "tags": [
-    ""
+    "",
+    "albedo",
+    "overlord",
+    "face",
+    "anime",
+    "lady",
+    "league",
+    "legends",
+    "aria",
+    "digital",
+    "sketch",
+    "meghan",
+    "hetrick",
+    "female",
+    "warlock",
+    "kim",
+    "herbst"
   ],
   "small": {
     "scale": 0.19999999999999937,
     "offset_x": -145,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.21999999999999953,
     "offset_x": -100,
     "offset_y": -119,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3399999999999995,
     "offset_x": -48,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

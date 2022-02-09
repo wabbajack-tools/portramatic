@@ -2,27 +2,58 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/020/614/176/large/audia-pahlevi-uplox-png.jpg?1568483078",
   "md5": "070A54EA60AD71A8344937F4B95775E4",
   "tags": [
-    ""
+    "",
+    "pirate",
+    "girl",
+    "concept",
+    "male",
+    "sci-fi",
+    "assassin",
+    "female",
+    "hansel",
+    "gretel",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "rushil",
+    "kejriwal",
+    "black",
+    "death",
+    "starting",
+    "level",
+    "character",
+    "design",
+    "tom",
+    "furmston",
+    "m_3",
+    "pavel",
+    "proskurin",
+    "https://www.artstation.com/artwork/q95de",
+    "post"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -354,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6799999999999997,
     "offset_x": -231,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5499999999999996,
     "offset_x": -4,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

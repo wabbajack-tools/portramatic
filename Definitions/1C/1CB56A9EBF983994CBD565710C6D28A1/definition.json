@@ -13,7 +13,33 @@
     "stay",
     "night",
     "anime",
-    "series"
+    "series",
+    "evil",
+    "warrior",
+    "female",
+    "design",
+    "elven",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "faeries",
+    "taras",
+    "susak",
+    "artwork",
+    "artist",
+    "gunner",
+    "jm",
+    "lee",
+    "character",
+    "portraits",
+    "armor",
+    "personal",
+    "exercise",
+    "zp",
+    "cheng"
   ],
   "small": {
     "scale": 0.6299999999999988,
@@ -37,6 +63,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

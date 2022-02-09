@@ -22,27 +22,51 @@
     "michael",
     "bridge",
     "https://www.artstation.com/artwork/6pzqx",
-    "2020"
+    "2020",
+    "warrior",
+    "cleric",
+    "warhammer",
+    "minotaur",
+    "lord",
+    "rings",
+    "theseus",
+    "\u7EC3\u4E60",
+    "cheng",
+    "tian",
+    "personal",
+    "work",
+    "ast",
+    "ralf",
+    "beasts",
+    "beauty",
+    "beast",
+    "daniel",
+    "bernal",
+    "\u2022",
+    "imaginante"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -182,
     "offset_y": -44,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6599999999999997,
     "offset_x": -107,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -336,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

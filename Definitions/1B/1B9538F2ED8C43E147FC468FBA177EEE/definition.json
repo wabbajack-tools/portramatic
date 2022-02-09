@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/65/bb/dc/65bbdcfe9f36da150f112124ca7ccea8.jpg",
   "md5": "1B9538F2ED8C43E147FC468FBA177EEE",
   "tags": [
-    ""
+    "",
+    "monk",
+    "concept",
+    "fighter",
+    "rogue",
+    "character",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "orc",
+    "warrior",
+    "scale",
+    "human",
+    "jinju",
+    "choi",
+    "men",
+    "anime",
+    "characters",
+    "osprey",
+    "mahealani",
+    "rodrigues",
+    "https://www.artstation.com/artwork/zaxard",
+    "titus",
+    "scarnetti",
+    "mikhail",
+    "palamarchuk",
+    "design"
   ],
   "small": {
     "scale": 1.8500000000000008,
     "offset_x": -405,
     "offset_y": -51,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -104,
     "offset_y": -26,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": 0,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

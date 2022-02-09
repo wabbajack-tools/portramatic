@@ -1,26 +1,55 @@
 {
-  "source": "https://preview.redd.it/tj24dq3f65r41.jpg?auto=webp&s=7753fc4ed3e2770382a924eb01568fb2005b6265",
+  "source": "https://preview.redd.it/tj24dq3f65r41.jpg?auto=webp\u0026s=7753fc4ed3e2770382a924eb01568fb2005b6265",
   "md5": "A3EC3CF18EF24A6AB8BC280A5E6835B4",
   "tags": [
-    "Vikingr Kratos"
+    "Vikingr Kratos",
+    "god",
+    "concept",
+    "kratos",
+    "war",
+    "hera",
+    "orc",
+    "warrior",
+    "conan",
+    "barbarian",
+    "steampunk",
+    "lord",
+    "dead",
+    "dmitry",
+    "dalnev",
+    "2020",
+    "vesryn",
+    "veiros",
+    "kenny",
+    "vo",
+    "https://www",
+    "teeth",
+    "knight",
+    "carl",
+    "hassler"
   ],
   "small": {
     "scale": 1.7700000000000007,
     "offset_x": -671.333333333333,
     "offset_y": -106.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -368,
     "offset_y": -52.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2100000000000002,
     "offset_x": -189.3333333333337,
     "offset_y": -32.0000000000004,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

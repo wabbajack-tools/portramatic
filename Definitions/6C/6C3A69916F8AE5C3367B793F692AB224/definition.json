@@ -1,8 +1,13 @@
 {
-  "source": "https://images.squarespace-cdn.com/content/v1/56ba8ce41d07c00ab0623a65/1558671407296-Q76GTZ5UF10ZVSNN1VBQ/Photo+Nov+19%2C+12+07+49+AM.jpg?format=1500w",
+  "source": "https://images.squarespace-cdn.com/content/v1/56ba8ce41d07c00ab0623a65/1558671407296-Q76GTZ5UF10ZVSNN1VBQ/Photo\u002BNov\u002B19%2C\u002B12\u002B07\u002B49\u002BAM.jpg?format=1500w",
   "md5": "6C3A69916F8AE5C3367B793F692AB224",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.3499999999999994,
@@ -26,6 +31,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

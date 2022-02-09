@@ -2,27 +2,59 @@
   "source": "https://i.pinimg.com/564x/42/7f/f1/427ff125322daacf5873c172e93dee80.jpg",
   "md5": "50E5FFC9322A3F32ADAB0E1674221C38",
   "tags": [
-    ""
+    "",
+    "bear",
+    "warrior",
+    "drawings",
+    "anime",
+    "polar",
+    "caveman",
+    "dark",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "tinlef",
+    "ranger",
+    "monica",
+    "doss",
+    "men",
+    "dungeons",
+    "dragons",
+    "characters",
+    "pin",
+    "ancient",
+    "civilizations",
+    "contest",
+    "some",
+    "favorites",
+    "concept",
+    "rexxar",
+    "chang"
   ],
   "small": {
     "scale": 1.8800000000000008,
     "offset_x": -519,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4400000000000004,
     "offset_x": -325,
     "offset_y": -78,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -26,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

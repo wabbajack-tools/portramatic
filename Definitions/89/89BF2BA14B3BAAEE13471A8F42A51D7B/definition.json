@@ -11,25 +11,60 @@
     "dragon",
     "sweets",
     "food",
-    "confectionery"
+    "confectionery",
+    "warrior",
+    "concept",
+    "angels",
+    "god",
+    "pictures",
+    "female",
+    "warriors",
+    "armor",
+    "fire",
+    "emblem",
+    "path",
+    "radiance",
+    "guardian",
+    "dark",
+    "crow",
+    "illustration",
+    "drawing",
+    "tutorial",
+    "some",
+    "key",
+    "for",
+    "mmo",
+    "\u0022god",
+    "ghost",
+    "legend",
+    "old",
+    "work",
+    "fantasica",
+    "card",
+    "game"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -280,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -144,
     "offset_y": -107,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -62,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

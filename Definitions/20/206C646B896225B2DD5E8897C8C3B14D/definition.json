@@ -23,8 +23,19 @@
     "horoszko",
     "nel",
     "8_2017_10",
-    "ildikó",
-    "tóth"
+    "ildik\uFFFD",
+    "t\uFFFDth",
+    "female",
+    "druid",
+    "male",
+    "half",
+    "elf",
+    "wood",
+    "hobbit",
+    "world",
+    "warcraft",
+    "rogue",
+    "night"
   ],
   "small": {
     "scale": 1.8100000000000007,
@@ -48,6 +59,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

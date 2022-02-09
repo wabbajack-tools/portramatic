@@ -34,7 +34,19 @@
     "leal",
     "scarlet",
     "septian",
-    "devenum"
+    "devenum",
+    "roman",
+    "soldier",
+    "sets",
+    "lone",
+    "wolf",
+    "owl",
+    "studio",
+    "raf",
+    "kayupov",
+    "character",
+    "winter",
+    "vitalina"
   ],
   "small": {
     "scale": 0.98,
@@ -58,6 +70,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

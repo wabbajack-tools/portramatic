@@ -15,7 +15,12 @@
     "screen",
     "redraw",
     "izumi",
-    "sen"
+    "sen",
+    "war",
+    "cleric",
+    "tempest",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -39,6 +44,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

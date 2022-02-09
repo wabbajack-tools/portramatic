@@ -24,27 +24,52 @@
     "heads",
     "beast",
     "fenghua",
-    "zhong"
+    "zhong",
+    "holy",
+    "shield",
+    "diablo",
+    "paladin",
+    "elven",
+    "armor",
+    "knight",
+    "medieval",
+    "knights",
+    "plate",
+    "imperius",
+    "viktor",
+    "k",
+    "monkey",
+    "king",
+    "iniyan",
+    "vijay",
+    "https://www.artstation.com/artwork/xovd2",
+    "tiefling",
+    "theresa",
+    "k\u00F6nigseder-haller",
+    "dungeons"
   ],
   "small": {
     "scale": 1.26,
     "offset_x": -347.39999999999964,
     "offset_y": -76,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8499999999999999,
     "offset_x": -114.20000000000016,
     "offset_y": -65.19999999999999,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -60.12962962962979,
     "offset_y": -36.046296296296305,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

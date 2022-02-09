@@ -16,27 +16,49 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "under_wear",
-    "lingerie"
+    "lingerie",
+    "angel",
+    "warrior",
+    "princess",
+    "female",
+    "guardian",
+    "demon",
+    "legend",
+    "zelda",
+    "male",
+    "nognumnoy",
+    "louisa",
+    "raypier",
+    "p",
+    "dragon",
+    "mother",
+    "hongqi",
+    "zhang",
+    "https://www.artstation.com/artwork/rv1d5",
+    "game"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -362.99999999999994,
     "offset_y": -92.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -359.66666666666663,
     "offset_y": -97.33333333333331,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -108,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

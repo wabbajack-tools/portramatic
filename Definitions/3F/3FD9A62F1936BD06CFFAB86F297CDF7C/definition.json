@@ -2,25 +2,51 @@
   "source": "https://pbs.twimg.com/media/E_9-Ux_XIAUPw9O.jpg",
   "md5": "3FD9A62F1936BD06CFFAB86F297CDF7C",
   "tags": [
-    ""
+    "",
+    "heavy",
+    "armor",
+    "dungeons",
+    "dragons",
+    "warriors",
+    "call",
+    "duty",
+    "black",
+    "ops",
+    "ringer",
+    "oleg",
+    "kapustin",
+    "ready",
+    "for",
+    "war",
+    "gunship",
+    "revolution",
+    "concept",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "tc",
+    "cccicc"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -149,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -77,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -22,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

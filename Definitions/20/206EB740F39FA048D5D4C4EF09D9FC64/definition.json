@@ -2,27 +2,47 @@
   "source": "https://64.media.tumblr.com/7c088c4c9aec3ff246292a4d84b111b6/tumblr_ode4v4bdB31qk1m72o1_1280.png",
   "md5": "206EB740F39FA048D5D4C4EF09D9FC64",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "female",
+    "unique",
+    "viking",
+    "rafael",
+    "diaz",
+    "bauduin",
+    "batman",
+    "dark",
+    "knight",
+    "rod",
+    "rodrigues",
+    "20190812",
+    "mason",
+    "lee"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -239,
     "offset_y": -272,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -17,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -54,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

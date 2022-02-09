@@ -8,7 +8,20 @@
     "male",
     "hunter",
     "fury",
-    "young"
+    "young",
+    "trevor",
+    "belmont",
+    "castlevania",
+    "lords",
+    "shadow",
+    "simon",
+    "anime",
+    "samurai",
+    "armor",
+    "conan",
+    "barbarian",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.99,
@@ -32,6 +45,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

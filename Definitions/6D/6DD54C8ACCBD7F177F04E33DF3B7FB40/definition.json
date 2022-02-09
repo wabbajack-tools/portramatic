@@ -2,25 +2,50 @@
   "source": "https://64.media.tumblr.com/b7274a0bff0457aa640672e049a9f1bb/852fbab7376c4858-dd/s1280x1920/0bb2ab77beaa21943bdc5f7f5352da9365f72cfe.jpg",
   "md5": "6DD54C8ACCBD7F177F04E33DF3B7FB40",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "sub",
+    "zero",
+    "fanart",
+    "gerry",
+    "arthur",
+    "noctis",
+    "lucis",
+    "caelum",
+    "fan",
+    "andy",
+    "liong",
+    "dahlia",
+    "kieran",
+    "yanner",
+    "https://www.artstation.com/artwork/zale6",
+    "#artist",
+    "#art",
+    "#"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -340,
     "offset_y": -61,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -422,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -362,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

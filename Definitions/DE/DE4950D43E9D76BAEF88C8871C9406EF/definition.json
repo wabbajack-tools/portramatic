@@ -2,25 +2,44 @@
   "source": "https://static.wikia.nocookie.net/the-dragonheart/images/2/2d/The_retirement_ceremony_of_an_old_knight_by_tahra-d7001rv.jpg/revision/latest?cb=20141223053803",
   "md5": "DE4950D43E9D76BAEF88C8871C9406EF",
   "tags": [
-    "The Old King"
+    "The Old King",
+    "medieval",
+    "knights",
+    "armor",
+    "drawings",
+    "knight",
+    "templar",
+    "painting",
+    "horse",
+    "suit",
+    "body",
+    "alucard",
+    "christian",
+    "angel",
+    "https://www.artstation.com/artwork/6aqvbo"
   ],
   "small": {
     "scale": 1.8100000000000012,
     "offset_x": -567.9999999999989,
     "offset_y": -149.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -268,
     "offset_y": -77.33333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -82.66666666666674,
     "offset_y": -12.000000000000625,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -1,28 +1,41 @@
 {
-  "source": "https://sun9-1.userapi.com/sun9-69/impf/c622816/v622816933/2521b/GyOXTcTKdX8.jpg?size=769x1000&quality=96&sign=dbd60d993740dd2e971a978db5898286&type=album",
+  "source": "https://sun9-1.userapi.com/sun9-69/impf/c622816/v622816933/2521b/GyOXTcTKdX8.jpg?size=769x1000\u0026quality=96\u0026sign=dbd60d993740dd2e971a978db5898286\u0026type=album",
   "md5": "61922549D768F995552B6DC3D9A3B0C7",
   "tags": [
-    ""
+    "",
+    "golden",
+    "dragon",
+    "black",
+    "yellow",
+    "eye",
+    "gorn",
+    "concept",
+    "christopher",
+    "bretz",
+    "https://www.artstation.com/artwork/e0ljvz"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -44.66666666666666,
     "offset_y": -13.333333333333371,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -54,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -90.66666666666674,
     "offset_y": -4.000000000000227,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

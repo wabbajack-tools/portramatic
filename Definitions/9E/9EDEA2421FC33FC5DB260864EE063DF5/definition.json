@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/CuyfsEZVYAA86u4?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/CuyfsEZVYAA86u4?format=jpg\u0026name=medium",
   "md5": "9EDEA2421FC33FC5DB260864EE063DF5",
   "tags": [
     "person",
@@ -32,27 +32,39 @@
     "character",
     "epic",
     "anime",
-    "artwork"
+    "artwork",
+    "male",
+    "warrior",
+    "concept",
+    "rogue",
+    "cyberpunk",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -231.60000000000113,
     "offset_y": -23.80000000000024,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -135.80000000000007,
     "offset_y": -6.400000000000091,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -107.09259259259306,
     "offset_y": -9.712962962962763,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

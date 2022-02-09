@@ -1,8 +1,16 @@
 {
-  "source": "https://pbs.twimg.com/media/DIBzx2HVwAAkvov?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/DIBzx2HVwAAkvov?format=jpg\u0026name=large",
   "md5": "11EC68984015DE4F260C465420DBB826",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "cleric",
+    "gnome",
+    "ranger",
+    "rogue",
+    "character",
+    "pirate"
   ],
   "small": {
     "scale": 0.46999999999999953,
@@ -26,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

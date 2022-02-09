@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/736x/bc/ce/92/bcce92b01790c059f91b6c4d4d1b0aa1.jpg",
   "md5": "391ED72F0F0A9E77EA0FED0D1EAB5912",
   "tags": [
-    "Cocky Dude"
+    "Cocky Dude",
+    "kingmaker",
+    "custom",
+    "portraits",
+    "aasimar",
+    "character",
+    "orc",
+    "warrior",
+    "female",
+    "assassin",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "dark",
+    "maiden",
+    "dima",
+    "rozhdestvensky",
+    "https://www.artstation.com/artwork/brr26",
+    "space",
+    "pirate",
+    "ariel",
+    "perez",
+    "https://www.artstation.com/artwork/namvo",
+    "concept",
+    "dragon",
+    "yunhee",
+    "lee"
   ],
   "small": {
     "scale": 1.5000000000000004,
     "offset_x": -402.6666666666665,
     "offset_y": -53.33333333333334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -107.33333333333337,
     "offset_y": -19.333333333333286,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": 0,
     "offset_y": -6.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

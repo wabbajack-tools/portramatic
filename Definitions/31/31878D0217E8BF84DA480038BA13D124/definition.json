@@ -9,7 +9,13 @@
     "monster",
     "siege",
     "leonardo",
-    "borazio"
+    "borazio",
+    "clay",
+    "iron",
+    "humanoid",
+    "godzilla",
+    "unleashed",
+    "ds"
   ],
   "small": {
     "scale": 0.5699999999999996,
@@ -33,6 +39,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

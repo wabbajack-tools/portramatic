@@ -10,27 +10,64 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "rogue",
+    "assassin",
+    "concept",
+    "female",
+    "leather",
+    "armor",
+    "knight",
+    "captain",
+    "america",
+    "winter",
+    "soldier",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "jeans",
+    "shoes",
+    "boots",
+    "ivan",
+    "dedov\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "character",
+    "design",
+    "role",
+    "zeng",
+    "bin",
+    "artwork",
+    "ascent",
+    "real",
+    "time",
+    "domenico",
+    "d\u0027alisa"
   ],
   "small": {
     "scale": 2.099999999999999,
     "offset_x": -399.33333333333235,
     "offset_y": -119.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7000000000000006,
     "offset_x": -247.66666666666669,
     "offset_y": -79.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.569999999999998,
     "offset_x": -30.000000000000455,
     "offset_y": -60.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

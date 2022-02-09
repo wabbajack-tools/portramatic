@@ -2,7 +2,12 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/008/102/063/large/jose-angel-trancon-fernandez-para-artstation-02.jpg?1510504816=",
   "md5": "75DCFC765072332670DCFCAE7A3BBB48",
   "tags": [
-    ""
+    "",
+    "raptor",
+    "dinosaur",
+    "velociraptor",
+    "toys",
+    "painting"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +31,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

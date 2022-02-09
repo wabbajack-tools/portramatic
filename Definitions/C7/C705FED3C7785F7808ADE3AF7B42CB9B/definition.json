@@ -2,25 +2,60 @@
   "source": "https://i.pinimg.com/564x/5f/04/62/5f0462419329e0264c38e68602ceb8cd.jpg",
   "md5": "C705FED3C7785F7808ADE3AF7B42CB9B",
   "tags": [
-    ""
+    "",
+    "disney",
+    "dragon",
+    "characters",
+    "cartoon",
+    "strongest",
+    "ball",
+    "samurai",
+    "armor",
+    "war",
+    "hammer",
+    "death",
+    "knight",
+    "sketch",
+    "bundle",
+    "#2",
+    "roman",
+    "kupriianov",
+    "viking",
+    "character",
+    "portraits",
+    "blast",
+    "assassin\u0027s",
+    "creed",
+    "valhalla",
+    "even",
+    "amundsen",
+    "random",
+    "kirill",
+    "altynbaev",
+    "design"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -159,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -24,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -102,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

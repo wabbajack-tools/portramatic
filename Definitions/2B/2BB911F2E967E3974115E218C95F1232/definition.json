@@ -2,25 +2,64 @@
   "source": "https://pbs.twimg.com/media/E5n4gF_XoAoO7rY.jpg",
   "md5": "2BB911F2E967E3974115E218C95F1232",
   "tags": [
-    ""
+    "",
+    "deschamps",
+    "artist",
+    "ral",
+    "zarek",
+    "mtg",
+    "myr",
+    "death",
+    "knight",
+    "age",
+    "war",
+    "sniper",
+    "ghost",
+    "warrior",
+    "green",
+    "goblin",
+    "witcher",
+    "demon",
+    "hunter",
+    "yu",
+    "cheng",
+    "hong",
+    "mobius",
+    "final",
+    "sorin",
+    "vampire",
+    "lord",
+    "chris",
+    "rallis",
+    "2020",
+    "...commissions",
+    "part",
+    "v...",
+    "oscar",
+    "shadowpriest"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -511,
     "offset_y": -169,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -388,
     "offset_y": -135,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -74,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

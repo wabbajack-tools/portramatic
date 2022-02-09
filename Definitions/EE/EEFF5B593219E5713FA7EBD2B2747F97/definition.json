@@ -2,27 +2,63 @@
   "source": "https://i.pinimg.com/564x/4e/08/b5/4e08b51fa268506146e41211756d24b2.jpg",
   "md5": "EEFF5B593219E5713FA7EBD2B2747F97",
   "tags": [
-    ""
+    "",
+    "avengers",
+    "black",
+    "widow",
+    "drawing",
+    "hawkeye",
+    "fan",
+    "vampire",
+    "masquerade",
+    "knight",
+    "manga",
+    "dark",
+    "elf",
+    "armor",
+    "night",
+    "female",
+    "pirate",
+    "angel",
+    "effni",
+    "naridia",
+    "bramasta",
+    "aji",
+    "character",
+    "concept",
+    "design",
+    "inspiration",
+    "necromancer",
+    "jan",
+    "sidoryk",
+    "https://www.artstation.com/artwork/k2yqr",
+    "lupa",
+    "mateusz",
+    "michalski",
+    "https://www.artstation.com/artwork/d4ewe"
   ],
   "small": {
     "scale": 1,
     "offset_x": -140,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -56,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -38,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

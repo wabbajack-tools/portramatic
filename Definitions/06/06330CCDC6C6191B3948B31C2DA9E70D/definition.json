@@ -13,27 +13,62 @@
     "predator",
     "predators",
     "spartan",
-    "warrior"
+    "warrior",
+    "zhao",
+    "yun",
+    "spear",
+    "three",
+    "kingdoms",
+    "jin",
+    "kazama",
+    "female",
+    "assassin",
+    "vampire",
+    "knight",
+    "manga",
+    "anime",
+    "guys",
+    "dark",
+    "angel",
+    "elf",
+    "space",
+    "gangster",
+    "kircell",
+    ".",
+    "druid",
+    "spores",
+    "anna",
+    "ben",
+    "david",
+    "newbie",
+    "explorer",
+    "chan",
+    "\u753B\u72C2\u5C11\u5973",
+    "manji",
+    "https://www.artstation.com/artwork/ao3qy"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -285,
     "offset_y": -12,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -125,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -12,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,55 @@
     "elf",
     "female",
     "bard",
-    "mage"
+    "mage",
+    "assassin",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "head_wear",
+    "hat",
+    "sorceress",
+    "r",
+    "k",
+    "women",
+    "character",
+    "design",
+    "fox",
+    "spirit",
+    "warrior",
+    "lily",
+    "santos",
+    "\u9B54\u65CF\u7537",
+    "mr.",
+    "xie"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -324,
     "offset_y": -212,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -100,
     "offset_y": -60,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5398333333333329,
     "offset_x": -122,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

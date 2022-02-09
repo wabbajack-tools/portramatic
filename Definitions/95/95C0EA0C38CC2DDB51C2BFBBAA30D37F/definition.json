@@ -1,28 +1,49 @@
 {
-  "source": "https://external-preview.redd.it/HeaBlk-vvMeftoiAvIgbDy0uhgfDZafVOpqIAgersv0.jpg?auto=webp&s=4d5038384549cae03e3671331f0d387b69a7adc0",
+  "source": "https://external-preview.redd.it/HeaBlk-vvMeftoiAvIgbDy0uhgfDZafVOpqIAgersv0.jpg?auto=webp\u0026s=4d5038384549cae03e3671331f0d387b69a7adc0",
   "md5": "95C0EA0C38CC2DDB51C2BFBBAA30D37F",
   "tags": [
-    ""
+    "",
+    "life",
+    "binder",
+    "printables",
+    "organization",
+    "organizing",
+    "binders",
+    "demon",
+    "warrior",
+    "dylan",
+    "wang",
+    "with",
+    "amy",
+    "fiery",
+    "soul",
+    "marcelo",
+    "rhasdra",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -167,
     "offset_y": -175,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5699999999999996,
     "offset_x": -91,
     "offset_y": -156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -150,
     "offset_y": -336,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

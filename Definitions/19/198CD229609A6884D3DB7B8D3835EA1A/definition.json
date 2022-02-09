@@ -2,7 +2,8 @@
   "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_hakuji.png",
   "md5": "198CD229609A6884D3DB7B8D3835EA1A",
   "tags": [
-    ""
+    "",
+    "nouveau"
   ],
   "small": {
     "scale": 2.0188333333333324,
@@ -26,6 +27,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -31,7 +31,32 @@
     "alejdark",
     "red",
     "potion",
-    "studios"
+    "studios",
+    "shadar-kai",
+    "rogue",
+    "character",
+    "elf",
+    "female",
+    "assassin",
+    "orc",
+    "warrior",
+    "souls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "wood",
+    "archer",
+    "concept",
+    "alfonso",
+    "maesa",
+    "jjahawa",
+    "roma",
+    "kupriyanov",
+    "kaius",
+    "doriana",
+    "dream"
   ],
   "small": {
     "scale": 1.6100000000000005,
@@ -55,6 +80,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

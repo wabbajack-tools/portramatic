@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/b2/d3/b6/b2d3b6155d54c9f07ee259126001c691.jpg",
   "md5": "3628BB0A2749BC559A3FFE457A5CC0E4",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "witch",
+    "costumes",
+    "armors",
+    "female",
+    "assassin",
+    "pirate",
+    "wonmi",
+    "choi",
+    "character",
+    "design",
+    "teh\u0027ya",
+    "lamin",
+    "martin",
+    "2020",
+    "steampunk",
+    "characters",
+    "maksur",
+    "raiders",
+    "dubai",
+    "rebuild",
+    "ruins",
+    "damon",
+    "westenhofer",
+    "afrofuturism",
+    "sci",
+    "fi"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -274,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1800000000000002,
     "offset_x": -168,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -114,
     "offset_y": -90,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

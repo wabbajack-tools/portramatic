@@ -2,27 +2,45 @@
   "source": "https://cutewallpaper.org/22/tenchu-wallpaper-ayame/137911750.jpg",
   "md5": "E74031475711F9EDCC26AC01976AE3AF",
   "tags": [
-    ""
+    "",
+    "tenchu",
+    "ninja",
+    "rikimaru",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "aion",
+    "gunslinger",
+    "illustration",
+    "wing",
+    "kin",
+    "ryan",
+    "chan"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -77.33333333333339,
     "offset_y": -89.33333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -4,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -57.33333333333303,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

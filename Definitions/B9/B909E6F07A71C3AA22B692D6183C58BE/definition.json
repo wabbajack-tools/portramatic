@@ -2,27 +2,55 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2f75f8e-7f44-4d19-82d6-e28b08a316d4/d6qj2gp-9013edf6-0cfb-4c12-8e22-7260da8ef340.jpg/v1/fill/w_1024,h_1256,q_75,strp/demon_warrior_by_shaman_2000_d6qj2gp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI1NiIsInBhdGgiOiJcL2ZcL2UyZjc1ZjhlLTdmNDQtNGQxOS04MmQ2LWUyOGIwOGEzMTZkNFwvZDZxajJncC05MDEzZWRmNi0wY2ZiLTRjMTItOGUyMi03MjYwZGE4ZWYzNDAuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Rvl3uPPJe202utUZDy0_gAlC1ziW-ITp6TGFqv8rjBc",
   "md5": "B909E6F07A71C3AA22B692D6183C58BE",
   "tags": [
-    ""
+    "",
+    "demons",
+    "four",
+    "horsemen",
+    "death",
+    "knight",
+    "orc",
+    "warrior",
+    "dragon",
+    "armor",
+    "demon",
+    "hunter",
+    "lord",
+    "rings",
+    "viy.",
+    "gwent",
+    "card",
+    "oleksandr",
+    "kozachenko",
+    "alexandr",
+    "2021",
+    "screamer",
+    "titan",
+    "diana",
+    "franco",
+    "dark"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -199,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -204,
     "offset_y": -157,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -128,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

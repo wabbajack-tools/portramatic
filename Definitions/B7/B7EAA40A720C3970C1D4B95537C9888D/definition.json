@@ -31,27 +31,49 @@
     "2021",
     "marvel",
     "comics",
-    "wallpaper"
+    "wallpaper",
+    "valkyrie",
+    "fanart",
+    "hrist",
+    "man",
+    "steel",
+    "coats",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "assassin",
+    "elf",
+    "ellena",
+    "owl",
+    "jae",
+    "hyuck",
+    "jang",
+    "https://www",
+    "black",
+    "widow"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -174,
     "offset_y": -29,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -56,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -124,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/564x/8e/df/f4/8edff4cae00137f18576fbaf97303a04.jpg",
   "md5": "13F3F2E60F6DBB76243F84ACAD7F4B1D",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "accessories",
+    "glasses"
   ],
   "small": {
     "scale": 0.97,
@@ -26,6 +35,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

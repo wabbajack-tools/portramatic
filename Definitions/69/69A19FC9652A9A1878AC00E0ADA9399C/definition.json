@@ -10,25 +10,61 @@
     "apparel",
     "Elf",
     "druid",
-    "sylvan"
+    "sylvan",
+    "rust",
+    "character",
+    "king",
+    "arthur",
+    "concept",
+    "morgana",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "queen",
+    "vanessa",
+    "\u0026",
+    "some",
+    "sketch",
+    "terry",
+    "wei",
+    "warrior",
+    "design",
+    "steampunk",
+    "pirate",
+    "alexandra",
+    "valentine",
+    "\u8594\u8587\u65CFart"
   ],
   "small": {
     "scale": 0.46999999999999953,
     "offset_x": -192,
     "offset_y": -39,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -1,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -14,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

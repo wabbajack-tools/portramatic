@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/00/94/9c/00949c68b384e5113935b9c4be0febed.jpg",
   "md5": "B09FDA391B846E7F3F3540985C6A0972",
   "tags": [
-    ""
+    "",
+    "demon",
+    "hunter",
+    "concept",
+    "armor",
+    "knight",
+    "demons",
+    "king",
+    "kong",
+    "rat",
+    "alexander",
+    "shatohin",
+    "yacha",
+    "general",
+    "liebe",
+    "loss",
+    "awesome",
+    "armors",
+    "smite",
+    "hou",
+    "ru",
+    "kai",
+    "yi",
+    "chris",
+    "kuhner"
   ],
   "small": {
     "scale": 3.3899999999999713,
     "offset_x": -887,
     "offset_y": -679,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6500000000000006,
     "offset_x": -314,
     "offset_y": -237,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -60,
     "offset_y": -114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -12,25 +12,43 @@
     "horse",
     "weather",
     "nature",
-    ""
+    "",
+    "wolf",
+    "warrior",
+    "drawings",
+    "anime",
+    "girl",
+    "american",
+    "paint",
+    "horseback",
+    "riding",
+    "leader",
+    "pack",
+    "alen",
+    "rocha"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -528,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999994,
     "offset_x": -241,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3499999999999994,
     "offset_x": -30,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,65 @@
   "source": "https://www.pngkey.com/png/detail/169-1699009_black-cross-assassins-creed-black-flag-the-puppeteer.png",
   "md5": "195AB0CC16F0271F170D41F0F4970555",
   "tags": [
-    ""
+    "",
+    "assassin\u0027s",
+    "creed",
+    "pirate",
+    "flag",
+    "4",
+    "black",
+    "characters",
+    "concept",
+    "knight",
+    "armor",
+    "female",
+    "assassin",
+    "armors",
+    "necromancer",
+    "samurai",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "gloves",
+    "jewelry",
+    "necklace",
+    "male",
+    "leika",
+    "jeon",
+    "warrior",
+    "tibatan",
+    "rong",
+    "xiao",
+    "character",
+    "design",
+    "inspiration",
+    "cyberpunk"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -367,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -305,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -132,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

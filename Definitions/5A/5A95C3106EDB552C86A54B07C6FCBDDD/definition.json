@@ -2,27 +2,39 @@
   "source": "https://static.wikia.nocookie.net/reentry/images/a/ac/Palpatine.jpg/revision/latest?cb=20160525074022",
   "md5": "5A95C3106EDB552C86A54B07C6FCBDDD",
   "tags": [
-    ""
+    "",
+    "star",
+    "wars",
+    "chancellor",
+    "palpatine",
+    "quotes",
+    "evil",
+    "emperor",
+    "ian",
+    "mcdiarmid"
   ],
   "small": {
     "scale": 0.22999999999999932,
     "offset_x": -98.4000000000002,
     "offset_y": -1.599999999999909,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -136.8,
     "offset_y": -1.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -451.7222222222224,
     "offset_y": -27.231481481481296,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

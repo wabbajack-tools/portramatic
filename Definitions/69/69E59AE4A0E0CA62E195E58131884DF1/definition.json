@@ -21,25 +21,37 @@
     "archangel",
     "cosplay",
     "hair",
-    ""
+    "",
+    "dragon",
+    "age",
+    "morrigan",
+    "outfit",
+    "origins",
+    "fan",
+    "characters"
   ],
   "small": {
     "scale": 0.3299999999999994,
     "offset_x": -17,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -17,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -42,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

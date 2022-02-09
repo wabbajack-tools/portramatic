@@ -6,7 +6,7 @@
     "griffon",
     "david",
     "ceballos",
-    "lópez",
+    "l\uFFFDpez",
     "fairytale",
     "creatures",
     "beasts",
@@ -20,7 +20,20 @@
     "night",
     "forest",
     "light.",
-    "keen"
+    "keen",
+    "dark",
+    "saber",
+    "fate",
+    "series",
+    "black",
+    "rogue",
+    "daniel",
+    "mardale",
+    "daanan",
+    "destiny",
+    "men",
+    "antonello",
+    "venditti"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -44,6 +57,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

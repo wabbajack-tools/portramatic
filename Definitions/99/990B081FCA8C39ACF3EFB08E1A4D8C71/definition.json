@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/736x/70/5d/b5/705db5150029da883d08992a9958a2e8.jpg",
   "md5": "990B081FCA8C39ACF3EFB08E1A4D8C71",
   "tags": [
-    ""
+    "",
+    "elf",
+    "guy",
+    "male",
+    "character",
+    "knight",
+    "old",
+    "work",
+    "doha",
+    "studio",
+    "sketch",
+    "matt",
+    "olson",
+    "https://www.artstation",
+    "knightality",
+    "river",
+    "flow",
+    "shore",
+    "female"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -364,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -339,
     "offset_y": -102,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -228,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

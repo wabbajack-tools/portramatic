@@ -9,27 +9,37 @@
     "orc",
     "druid",
     "clash",
-    "titans"
+    "titans",
+    "frankenstein",
+    "monster",
+    "from",
+    "mary",
+    "shelley\u0027s",
+    "yohan",
+    "dupuy"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -769,
     "offset_y": -273,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -325,
     "offset_y": -162,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -276,
     "offset_y": -120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

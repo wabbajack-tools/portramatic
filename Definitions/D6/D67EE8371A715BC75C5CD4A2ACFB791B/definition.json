@@ -8,7 +8,19 @@
     "warriors",
     "samurai",
     "archer",
-    "bow"
+    "bow",
+    "attack",
+    "titan",
+    "ratchet",
+    "clank",
+    "taurus",
+    "wolf",
+    "luke",
+    "zhai",
+    "rui",
+    "kobold",
+    "mattia",
+    "rangoni"
   ],
   "small": {
     "scale": 0.3399999999999994,
@@ -27,11 +39,11 @@
   "full": {
     "scale": 0.48999999999999955,
     "offset_x": -547.833333333333,
-    "offset_y": -1.1368683772161603e-13,
+    "offset_y": -1.1368683772161603E-13,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

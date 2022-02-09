@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/originals/b0/32/30/b03230933748f12948b93550d91365de.jpg",
   "md5": "2F0C2BAFD18AC69159A5F588760B9A28",
   "tags": [
-    ""
+    "",
+    "wow",
+    "fan",
+    "wallpaper",
+    "troll",
+    "league",
+    "legends",
+    "yuki",
+    "onna",
+    "di",
+    "bakieva",
+    "shadow",
+    "leblanc[fan",
+    "nan",
+    "sun",
+    "female",
+    "warlock",
+    "kim",
+    "herbst"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -195,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -115,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -168,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

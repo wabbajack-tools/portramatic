@@ -19,27 +19,54 @@
     "wounded",
     "warrior",
     "andrey",
-    "alexeev"
+    "alexeev",
+    "armor",
+    "armors",
+    "medieval",
+    "knights",
+    "heavy",
+    "samurai",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "archer",
+    "evian",
+    "171",
+    "armour",
+    "designs",
+    "amy",
+    "cornelson",
+    "5.13",
+    "my",
+    "work",
+    "yuan",
+    "xin"
   ],
   "small": {
     "scale": 2.0300000000000002,
     "offset_x": -288,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -94,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8000000000000007,
     "offset_x": -6,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

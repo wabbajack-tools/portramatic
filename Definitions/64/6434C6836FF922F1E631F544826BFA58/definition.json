@@ -2,27 +2,60 @@
   "source": "https://i.imgur.com/REV59Bh.jpeg",
   "md5": "6434C6836FF922F1E631F544826BFA58",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "painting",
+    "artwork",
+    "orc",
+    "shadow",
+    "mordor",
+    "dungeons",
+    "dragons",
+    "oil",
+    "paintings",
+    "berserker",
+    "andrew",
+    "kuzinskiy",
+    "character",
+    "design",
+    "concept",
+    "characters",
+    "ausarius",
+    "yutthaphong",
+    "kaewsuk",
+    "artstation.",
+    "crab",
+    "king",
+    "\u6B63\u4E00",
+    "guo",
+    "feng",
+    "cute",
+    "monsters",
+    "day"
   ],
   "small": {
     "scale": 1.4600000000000004,
     "offset_x": -691,
     "offset_y": -343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -387,
     "offset_y": -229,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -227,
     "offset_y": -95,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

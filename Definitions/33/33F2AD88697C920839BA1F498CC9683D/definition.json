@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/a8/e1/10/a8e11013a04fa4b14b0708adaa7a059b.jpg",
   "md5": "33F2AD88697C920839BA1F498CC9683D",
   "tags": [
-    ""
+    "",
+    "male",
+    "elf",
+    "character",
+    "warrior",
+    "drawing",
+    "fighter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "post",
+    "apocalyptic",
+    "girl",
+    "iv",
+    "yasen",
+    "stoilov",
+    "elior",
+    "omprasad",
+    "mishra"
   ],
   "small": {
     "scale": 2.179999999999997,
     "offset_x": -517,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -99,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

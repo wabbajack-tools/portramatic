@@ -4,27 +4,45 @@
   "tags": [
     "girl",
     "female",
-    "tiefling"
+    "tiefling",
+    "guardians",
+    "galaxy",
+    "mandalorian",
+    "andrew",
+    "sebastian",
+    "kwan",
+    "symmetra",
+    "dragons",
+    "skin",
+    "overwatch",
+    "eugenia",
+    "beilschmidt",
+    "evelyn",
+    "tony",
+    "tzanoukakis"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -201,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3399999999999994,
     "offset_x": -143,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -155,
     "offset_y": -67,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,7 +10,20 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "girls",
+    "maxi",
+    "skirt",
+    "floral",
+    "outfit",
+    "casual",
+    "long",
+    "outfits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +47,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

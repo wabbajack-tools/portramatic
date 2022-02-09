@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/9d/5f/d6/9d5fd6c4022191a7797b47c8983807bd.jpg",
   "md5": "3DD8FD821A9CC06E24B4A7D2549246E1",
   "tags": [
-    ""
+    "",
+    "armor",
+    "sets",
+    "demon",
+    "hunter",
+    "female",
+    "pirate",
+    "death",
+    "knight",
+    "total",
+    "war",
+    "warhammer",
+    "shadow",
+    "\u0026",
+    "blade",
+    "high",
+    "\u043F\u0435\u043F\u0435\u043B_ash_concept",
+    "dmitry",
+    "klyushkin"
   ],
   "small": {
     "scale": 2.8599999999999826,
     "offset_x": -724,
     "offset_y": -305,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8900000000000008,
     "offset_x": -397,
     "offset_y": -179,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -98,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

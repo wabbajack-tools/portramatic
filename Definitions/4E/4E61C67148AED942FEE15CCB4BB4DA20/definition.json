@@ -6,7 +6,30 @@
     "warrior",
     "monks",
     "japanese",
-    "japan"
+    "japan",
+    "samurai",
+    "ninja",
+    "sword",
+    "concept",
+    "robot",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "freedom",
+    "fighter",
+    "dunhuang",
+    "chen",
+    "assassin\u0027s",
+    "creed",
+    "fanart",
+    "teddy",
+    "jey",
+    "l.o.r.d",
+    "4",
+    "xiaodi",
+    "jin",
+    "character"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -30,6 +53,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

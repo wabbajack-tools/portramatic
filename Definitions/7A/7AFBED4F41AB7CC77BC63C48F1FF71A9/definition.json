@@ -17,7 +17,9 @@
     "fairies",
     "oil",
     "paintings",
-    "frog"
+    "frog",
+    "cute",
+    "woman"
   ],
   "small": {
     "scale": 0.94,
@@ -41,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

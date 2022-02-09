@@ -3,27 +3,45 @@
   "md5": "D8CBEE5CEE383A4CED70E570816ED054",
   "tags": [
     "Gold",
-    "Dragon"
+    "Dragon",
+    "artworks",
+    "2020",
+    "dark",
+    "mythical",
+    "creatures",
+    "dragon",
+    "fire",
+    "blast",
+    "riccardo",
+    "gualdi",
+    "mushroom",
+    "environment",
+    "ue4",
+    "alex",
+    "gomersall"
   ],
   "small": {
     "scale": 0.8699999999999999,
     "offset_x": -806,
     "offset_y": -73.33333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7999999999999998,
     "offset_x": -633.333333333333,
     "offset_y": -42.00000000000006,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -712.0000000000007,
     "offset_y": -6.666666666666686,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

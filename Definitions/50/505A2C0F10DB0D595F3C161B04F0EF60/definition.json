@@ -4,27 +4,60 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "crossbow",
+    "fighter",
+    "heavy",
+    "light",
+    "armors",
+    "knight",
+    "armor",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "ting",
+    "xu",
+    "https://www.artstation.com/artwork/xzxabx",
+    "character",
+    "\u201Cottoman",
+    "janissary\u201D",
+    "gianluca",
+    "rolli",
+    "@artstationhq",
+    "tag",
+    "a",
+    "friend",
+    "#lovecraft",
+    "#cthulhu",
+    "#",
+    "artzack",
+    "urb",
+    "https://www.artstation.com/artwork/zxweg"
   ],
   "small": {
     "scale": 2.4399999999999906,
     "offset_x": -686,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7900000000000007,
     "offset_x": -427,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6099999999999985,
     "offset_x": -94,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

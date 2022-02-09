@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/4f/45/86/4f45861be7c444a0b2ad4109b06d2579.jpg",
   "md5": "5AA7E0D591C896931B8573B36EF463D7",
   "tags": [
-    ""
+    "",
+    "dark",
+    "skin",
+    "characters",
+    "female",
+    "with",
+    "brown",
+    "hair",
+    "black",
+    "cosplay",
+    "witcher",
+    "medieval",
+    "knights",
+    "game",
+    "thrones",
+    "pirate",
+    "demon",
+    "hunter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "viking",
+    "mikhail",
+    "larionov",
+    "vikings",
+    "shield",
+    "maiden",
+    "banjiu",
+    "e\u0027vik",
+    "thorfinn",
+    "\u7D20",
+    "\u5F35"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -280,
     "offset_y": -211,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -213,
     "offset_y": -216,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7400000000000007,
     "offset_x": -132,
     "offset_y": -270,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

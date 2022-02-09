@@ -5,7 +5,18 @@
     "Kaladin",
     "Stormlight Archive",
     "Windrunner",
-    "Paladin"
+    "Paladin",
+    "league",
+    "legends",
+    "ken",
+    "street",
+    "fighter",
+    "god",
+    "fist",
+    "lee",
+    "sin",
+    "splash",
+    "animation"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -29,6 +40,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

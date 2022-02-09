@@ -9,7 +9,21 @@
     "Suit",
     "Modern",
     "Legend",
-    "Meme"
+    "Meme",
+    "gordon",
+    "ramsay",
+    "fit",
+    "fitness",
+    "now",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "full_body",
+    "suit",
+    "shoes",
+    "dress_shoes",
+    "accessories",
+    "tie"
   ],
   "small": {
     "scale": 1.5200000000000005,
@@ -33,6 +47,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

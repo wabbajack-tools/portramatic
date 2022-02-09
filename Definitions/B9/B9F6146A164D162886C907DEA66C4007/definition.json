@@ -2,25 +2,39 @@
   "source": "https://demonslayer-world.com/wp-content/uploads/2021/08/wickedssjgod2_600x600.jpg",
   "md5": "B9F6146A164D162886C907DEA66C4007",
   "tags": [
-    ""
+    "",
+    "demon",
+    "slayer",
+    "concept",
+    "anime",
+    "fan",
+    "male",
+    "slayers",
+    "girl",
+    "yugio"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -128,
     "offset_y": -66,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.05,
     "offset_x": -73,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8300000000000007,
     "offset_x": -54,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -42,7 +42,10 @@
     "practice",
     "ningbo",
     "jiang",
-    "https://www.artstation.com/artwork/nqbv4r"
+    "https://www.artstation.com/artwork/nqbv4r",
+    "anime",
+    "scholar",
+    "cartoon"
   ],
   "small": {
     "scale": 1.3300000000000003,
@@ -66,6 +69,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

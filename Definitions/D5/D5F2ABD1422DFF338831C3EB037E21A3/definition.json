@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/originals/15/df/99/15df992fbd0110f6652d6dcf19b0652e.jpg",
   "md5": "D5F2ABD1422DFF338831C3EB037E21A3",
   "tags": [
-    ""
+    "",
+    "awesome",
+    "character",
+    "design",
+    "illustration",
+    "stylized",
+    "shadow",
+    "colossus",
+    "dark",
+    "elf",
+    "guardian",
+    "angels",
+    "fallen",
+    "angel",
+    "devil",
+    "zombie",
+    "token",
+    "vincent",
+    "proce",
+    "https://www.artstation.com/artwork/0ovg5",
+    "anika",
+    "ex",
+    "ho\u00E0ng",
+    "l\u1EADp",
+    "solan",
+    "https://www.artstation.com/artwork/lgpxk",
+    "asmoday",
+    "francine",
+    "bridge"
   ],
   "small": {
     "scale": 1,
     "offset_x": -270,
     "offset_y": -180,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -212,
     "offset_y": -167,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 4,
     "offset_y": 48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

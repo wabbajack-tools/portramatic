@@ -10,7 +10,34 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "face",
+    "mask",
+    "masked",
+    "character",
+    "wood",
+    "elf",
+    "high",
+    "akama",
+    "wow",
+    "fan",
+    "shane",
+    "cisler",
+    "vani",
+    "jagun",
+    "traditional",
+    "plate",
+    "armor",
+    "thomas",
+    "dimitriou",
+    "2021",
+    "design",
+    "dwarf",
+    "earth",
+    "mage",
+    "raphael",
+    "madureira",
+    "dungeons"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -34,6 +61,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

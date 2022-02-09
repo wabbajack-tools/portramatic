@@ -2,27 +2,60 @@
   "source": "https://staticdelivery.nexusmods.com/mods/2607/images/200/200-1603614972-390791432.jpeg",
   "md5": "321BBBA5AD656C88F135196B223B8204",
   "tags": [
-    ""
+    "",
+    "sun",
+    "soul",
+    "monk",
+    "human",
+    "female",
+    "actionfigures",
+    "pirate",
+    "dynasty",
+    "warriors",
+    "gears",
+    "war",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "boots",
+    "league",
+    "legends",
+    "t.j.",
+    "geisen",
+    "lol",
+    "party",
+    "bone",
+    "dust",
+    "2021",
+    "ranger",
+    "character",
+    "design",
+    "diego"
   ],
   "small": {
     "scale": 1,
     "offset_x": -306.5,
     "offset_y": -103.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -208,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -69,
     "offset_y": 2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

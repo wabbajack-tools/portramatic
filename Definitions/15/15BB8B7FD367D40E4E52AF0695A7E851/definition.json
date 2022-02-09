@@ -9,27 +9,57 @@
     "orc",
     "druid",
     "clash",
-    "titans"
+    "titans",
+    "female",
+    "picture",
+    "character",
+    "realistic",
+    "warrior",
+    "davi",
+    "hammer",
+    "design",
+    "warcraft",
+    "characters",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2015",
+    "barbarian",
+    "woman",
+    "now",
+    "you\u0027re",
+    "mine",
+    "hearthstone",
+    "fanart",
+    "pavel",
+    "yurev",
+    "2020",
+    "world"
   ],
   "small": {
     "scale": 1.7500000000000007,
     "offset_x": -405,
     "offset_y": -87,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2600000000000002,
     "offset_x": -205,
     "offset_y": -79,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4800000000000004,
     "offset_x": -36,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

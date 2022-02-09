@@ -1,30 +1,47 @@
 {
-  "source": "https://scontent.fbsb2-1.fna.fbcdn.net/v/t1.6435-9/p843x403/90267338_2824028697642795_3896407945977528320_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=9267fe&_nc_ohc=hrKhK1fzri0AX92Un4V&_nc_ht=scontent.fbsb2-1.fna&oh=00_AT8hzNfBLAypdCiN0rhdATJQ0QQzUOZLjxW-bICj7ZFYvw&oe=62267F6E",
+  "source": "https://scontent.fbsb2-1.fna.fbcdn.net/v/t1.6435-9/p843x403/90267338_2824028697642795_3896407945977528320_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=9267fe\u0026_nc_ohc=hrKhK1fzri0AX92Un4V\u0026_nc_ht=scontent.fbsb2-1.fna\u0026oh=00_AT8hzNfBLAypdCiN0rhdATJQ0QQzUOZLjxW-bICj7ZFYvw\u0026oe=62267F6E",
   "md5": "9521219D65CBB76EB99D3D8690A0CDDA",
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "black",
+    "demon",
+    "dark",
+    "anime",
+    "cool",
+    "reaper",
+    "dragon",
+    "silver",
+    "revenge",
+    "pennator",
+    "book",
+    "cover",
+    "caitlin",
+    "smartt"
   ],
   "small": {
     "scale": 1.279999999999997,
     "offset_x": -467,
     "offset_y": -417,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -203,
     "offset_y": -218,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -52,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

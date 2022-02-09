@@ -2,25 +2,60 @@
   "source": "https://i.pinimg.com/originals/80/ab/c5/80abc5c531029dac5a12ba8afb4e8344.jpg",
   "md5": "00299ABD06189111A8A44B9B7056E1DD",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "variants",
+    "height",
+    "female",
+    "assassin",
+    "league",
+    "legends",
+    "angels",
+    "dark",
+    "angel",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "eternal",
+    "rams\u00E9s",
+    "mel\u00E9ndez",
+    "witcher",
+    "3-treant",
+    "m",
+    "jex",
+    "#witchertattoo",
+    "shadow",
+    "warrior",
+    "corrupted",
+    "kamiko",
+    "magdalena",
+    "radziej"
   ],
   "small": {
     "scale": 1.7100000000000006,
     "offset_x": -937,
     "offset_y": -384,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -566,
     "offset_y": -209,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -388,
     "offset_y": -74,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

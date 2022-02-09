@@ -2,27 +2,47 @@
   "source": "https://images.wallpapersden.com/image/download/crusader-diablo-3_bGZsZmmUmZqaraWkpJRnbmhnrWduaGc.jpg",
   "md5": "75FDC82C0727C7F290B81F494E93FEE4",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "concept",
+    "armor",
+    "sets",
+    "reaper",
+    "souls",
+    "gears",
+    "war",
+    "chaos",
+    "warrior",
+    "\u63D2\u56FE",
+    "\u59DA",
+    "\u8FDC",
+    "warhammer",
+    "40k",
+    "di",
+    "studios"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -745,
     "offset_y": -321,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -502,
     "offset_y": -233,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -532,
     "offset_y": -258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

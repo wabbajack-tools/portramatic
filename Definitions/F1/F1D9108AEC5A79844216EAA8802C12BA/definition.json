@@ -29,7 +29,10 @@
     "calviz",
     "david",
     "villegas",
-    "https://www.artstation.com/artwork"
+    "https://www.artstation.com/artwork",
+    "anime",
+    "guys",
+    "characters"
   ],
   "small": {
     "scale": 0.22999999999999932,
@@ -53,6 +56,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

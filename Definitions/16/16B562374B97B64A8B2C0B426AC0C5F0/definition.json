@@ -15,7 +15,17 @@
     "human_made_object",
     "fashion_cosmetics_or_accessories",
     "shoes",
-    "boots"
+    "boots",
+    "king",
+    "grizzly",
+    "bear",
+    "muscles",
+    "kyriakos",
+    "you",
+    "have",
+    "to",
+    "live",
+    "it"
   ],
   "small": {
     "scale": 1,
@@ -39,6 +49,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

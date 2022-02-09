@@ -7,27 +7,34 @@
     "crystal",
     "fae",
     "character",
-    "design"
+    "design",
+    "league",
+    "legends",
+    "legend",
+    "zelda"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -399,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -34.6666666666668,
     "offset_y": -1.0000000000000284,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -94,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

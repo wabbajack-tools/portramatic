@@ -7,27 +7,53 @@
     "ancient",
     "egypt",
     "alice",
-    "wonderland"
+    "wonderland",
+    "statue",
+    "liberty",
+    "wood",
+    "elf",
+    "wizard",
+    "oz",
+    "high",
+    "nature",
+    "gaurdian",
+    "sketches",
+    "hunter",
+    "schulz",
+    "character",
+    "design",
+    "concept",
+    "kingdoms",
+    "\u0026",
+    "warfare",
+    "javier",
+    "charro",
+    "monster",
+    "undead",
+    "pictures"
   ],
   "small": {
     "scale": 0.36999999999999944,
     "offset_x": -94.66666666666667,
     "offset_y": -26.666666666666742,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999955,
     "offset_x": -38.66666666666663,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -47.33333333333326,
     "offset_y": -24.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

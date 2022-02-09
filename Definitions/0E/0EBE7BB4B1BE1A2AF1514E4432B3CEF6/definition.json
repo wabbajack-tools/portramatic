@@ -2,25 +2,54 @@
   "source": "https://static.wikia.nocookie.net/dragonage/images/6/62/Tamassran_HoDA.png/revision/latest?cb=20151214232228",
   "md5": "0EBE7BB4B1BE1A2AF1514E4432B3CEF6",
   "tags": [
-    "Qunari VI"
+    "Qunari VI",
+    "divine",
+    "weapons",
+    "guardian",
+    "angel",
+    "doll",
+    "bracelet",
+    "samurai",
+    "armor",
+    "knight",
+    "medieval",
+    "knights",
+    "death",
+    "rifleman",
+    "evgeniy",
+    "petlya",
+    "assassins",
+    "creed",
+    "feudal",
+    "japan",
+    "character",
+    "personal",
+    "study",
+    "jeff",
+    "murchie"
   ],
   "small": {
     "scale": 1.4700000000000004,
     "offset_x": -287.3333333333383,
     "offset_y": -24.666666666667282,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -4.0000000000001705,
     "offset_y": -2.000000000000142,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
-    "offset_x": -2.2737367544323206e-13,
+    "offset_x": -2.2737367544323206E-13,
     "offset_y": -1.333333333333485,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

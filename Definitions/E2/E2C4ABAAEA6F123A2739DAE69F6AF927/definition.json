@@ -14,27 +14,57 @@
     "bastion",
     "john",
     "silva",
-    "https://www"
+    "https://www",
+    "warrior",
+    "woman",
+    "warriors",
+    "with",
+    "swords",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "wonder",
+    "stopp",
+    "wi",
+    ".",
+    "minju",
+    "oh",
+    "https://www.artstation.com/artwork/k5grb",
+    "2020",
+    "slaying",
+    "kilart",
+    "choe",
+    "heonhwa",
+    "day",
+    "digital",
+    "artist"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -160.16666666666669,
     "offset_y": -70.66666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -68.16666666666669,
     "offset_y": -43.66666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -30.666666666666515,
     "offset_y": -11.333333333333371,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

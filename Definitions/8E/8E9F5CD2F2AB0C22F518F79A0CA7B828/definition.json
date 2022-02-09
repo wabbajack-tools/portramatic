@@ -2,27 +2,54 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/022/755/203/large/work-man-queen.jpg?1576582732",
   "md5": "8E9F5CD2F2AB0C22F518F79A0CA7B828",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "monk",
+    "robe",
+    "robes",
+    "jedi",
+    "costumes",
+    "armor",
+    "witch",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "https://cdnb.artstation.com/p/assets/images/images/022/587",
+    "star",
+    "wars",
+    "old",
+    "republic",
+    "knights"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -558.8571428571423,
     "offset_y": -167.42857142857065,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -334.2857142857147,
     "offset_y": -110.28571428571433,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -43.42857142857133,
     "offset_y": -87.99999999999977,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

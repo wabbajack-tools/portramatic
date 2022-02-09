@@ -2,25 +2,65 @@
   "source": "https://i.pinimg.com/originals/4d/71/77/4d7177d010a56347c37b24d6b726475c.png",
   "md5": "C4371F91953667BADAA53626BE95F459",
   "tags": [
-    "Another Valerie"
+    "Another Valerie",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "armors",
+    "assassin",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "game",
+    "model",
+    "evgeny",
+    "epanchintsev",
+    "characters",
+    "pin",
+    "cesar",
+    "vega",
+    "jimenez",
+    "2021",
+    "concept",
+    "character",
+    "design",
+    "sci",
+    "fi",
+    "transcendent",
+    "champion",
+    "joshua",
+    "pittman",
+    "black",
+    "panther"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -391.33333333333303,
     "offset_y": -110.66666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -113.33333333333343,
     "offset_y": -58.666666666666515,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -10.666666666666742,
     "offset_y": -16.00000000000034,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,58 @@
   "source": "https://i.pinimg.com/564x/13/6d/a7/136da7404f36f3424d5d9b5fa80ed20a.jpg",
   "md5": "4878BDAA1E27BFAF0550D67604753049",
   "tags": [
-    ""
+    "",
+    "rogue",
+    "character",
+    "female",
+    "concept",
+    "assassin",
+    "armor",
+    "leather",
+    "body",
+    "heavy",
+    "suit",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "fighter",
+    "jinlong",
+    "bai",
+    "dungeons",
+    "lileia",
+    "duelist",
+    "dan",
+    "ramos",
+    "2020",
+    "wizard",
+    "adrian",
+    "corazza"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -309.59999999999985,
     "offset_y": -8.799999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2000000000000002,
     "offset_x": -182.40000000000083,
     "offset_y": -2.3999999999999773,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -12.814814814815009,
     "offset_y": -14.416666666666742,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

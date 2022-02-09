@@ -29,7 +29,12 @@
     "jinaara",
     "astri",
     "lohne",
-    "https://www"
+    "https://www",
+    "otherworldly",
+    "david",
+    "stoupakis",
+    "tom",
+    "bagshaw"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -48,11 +53,11 @@
   "full": {
     "scale": 1.04,
     "offset_x": -1.9999999999998863,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

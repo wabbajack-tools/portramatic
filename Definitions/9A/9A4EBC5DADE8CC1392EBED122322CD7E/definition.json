@@ -26,7 +26,34 @@
     "activity",
     "concept",
     "characters",
-    "character"
+    "character",
+    "claymore",
+    "drawing",
+    "fan",
+    "manga",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "under_wear",
+    "tights",
+    "desert",
+    "walker",
+    "joao",
+    "de",
+    "martini",
+    "bannerlord",
+    "factions",
+    "ilker",
+    "serdar",
+    "yildiz",
+    "erendil",
+    "davis",
+    "engel",
+    "living"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -50,6 +77,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

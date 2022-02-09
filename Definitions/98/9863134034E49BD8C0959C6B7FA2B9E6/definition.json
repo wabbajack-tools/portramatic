@@ -2,9 +2,19 @@
   "source": "https://i.pinimg.com/564x/d4/48/2f/d4482f4ef2d4096e02851ca330fa831b.jpg",
   "md5": "9863134034E49BD8C0959C6B7FA2B9E6",
   "tags": [
-    "d&amp;d",
+    "d\u0026amp;d",
     "masked",
-    "ranger"
+    "ranger",
+    "vampire",
+    "male",
+    "elf",
+    "wood",
+    "diaries",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -28,6 +38,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

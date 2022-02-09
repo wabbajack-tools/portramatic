@@ -2,27 +2,36 @@
   "source": "https://wallpapercave.com/wp/wp2496218.png",
   "md5": "8E91AEBEC4FBEA38F54D5418E221C24F",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "game",
+    "cover",
+    "graphics",
+    "dark",
+    "souls"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -900,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -871,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -1258,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

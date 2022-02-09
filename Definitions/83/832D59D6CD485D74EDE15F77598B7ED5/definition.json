@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/originals/1f/c9/7e/1fc97e644e8146d90472f37cde9c0a85.jpg",
   "md5": "832D59D6CD485D74EDE15F77598B7ED5",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "king",
+    "medieval",
+    "painting",
+    "armor",
+    "concept",
+    "knights",
+    "knight",
+    "death",
+    "heavy",
+    "\u5BC2\u706D",
+    "ggac",
+    "shanghai",
+    "brush",
+    "dog",
+    "character",
+    "design",
+    "characters",
+    "for",
+    "honor",
+    "cinematic",
+    "andrzej",
+    "marszalek"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -369,
     "offset_y": -154,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -183,
     "offset_y": -111,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -20,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

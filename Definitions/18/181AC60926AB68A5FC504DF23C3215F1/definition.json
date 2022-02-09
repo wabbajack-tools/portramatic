@@ -2,25 +2,61 @@
   "source": "https://i.pinimg.com/564x/cf/ff/6e/cfff6eac0b9b0800404bb3ab8a400690.jpg",
   "md5": "181AC60926AB68A5FC504DF23C3215F1",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "dungeons",
+    "dragons",
+    "dark",
+    "elf",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "hat",
+    "shoes",
+    "boots",
+    "sorceress",
+    "joel",
+    "chaim",
+    "holtzman",
+    "characters",
+    "for",
+    "maguss",
+    "alexey",
+    "yakovlev",
+    "character",
+    "design",
+    "vampire",
+    "sanha",
+    "kim",
+    "concept",
+    "inspiration"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -252,
     "offset_y": -152,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -57,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -24,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

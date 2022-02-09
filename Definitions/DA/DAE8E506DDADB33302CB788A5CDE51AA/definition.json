@@ -40,7 +40,12 @@
     "duong",
     "dragon",
     "kim",
-    "yeen"
+    "yeen",
+    "male",
+    "high",
+    "wizard",
+    "moon",
+    "elves"
   ],
   "small": {
     "scale": 0.9199999999999999,
@@ -64,6 +69,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

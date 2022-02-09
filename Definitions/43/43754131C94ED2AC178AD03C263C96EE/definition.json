@@ -2,7 +2,17 @@
   "source": "https://www.jp.square-enix.com/vocm/img/top/chara_card_phila.png",
   "md5": "43754131C94ED2AC178AD03C263C96EE",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "chibi",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 2.59883333333332,
@@ -26,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

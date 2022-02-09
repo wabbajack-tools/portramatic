@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/DAVsiO2VYAAy2QW?format=png&name=900x900",
+  "source": "https://pbs.twimg.com/media/DAVsiO2VYAAy2QW?format=png\u0026name=900x900",
   "md5": "981870957AC66479786995F1081055D8",
   "tags": [
     "",
@@ -24,7 +24,16 @@
     "king",
     "zuowei",
     "lee",
-    "https://www"
+    "https://www",
+    "vindr",
+    "http://shzrebelka.com/projects/xkbo",
+    "guan",
+    "yu",
+    "fwl",
+    "hassan",
+    "hameed",
+    "tabrizi",
+    "character"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -48,6 +57,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

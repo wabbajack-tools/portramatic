@@ -2,7 +2,12 @@
   "source": "https://www.mobygames.com/images/promo/l/493487-vampire-the-masquerade-redemption-concept-art.jpg",
   "md5": "D2CEB08287C48EC28A496083F4678B0D",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 3.219999999999975,
@@ -26,6 +31,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,47 @@
   "source": "https://d.furaffinity.net/art/kate-venom/1639300792/1639300792.kate-venom_%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B02.jpg",
   "md5": "8CD2222BF9BE0A3ED5CBA4AF0527896A",
   "tags": [
-    ""
+    "",
+    "black",
+    "dragon",
+    "assassination",
+    "vladimir",
+    "matyukhin",
+    "ft",
+    "fullbody",
+    "character",
+    "joma",
+    "cueto",
+    "wild",
+    "west",
+    "challenge",
+    "totem",
+    "beast",
+    "\u2014",
+    "polycount"
   ],
   "small": {
     "scale": 1,
     "offset_x": -123,
     "offset_y": -283,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -144,
     "offset_y": -178,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -18,
     "offset_y": -120,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

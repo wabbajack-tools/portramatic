@@ -19,7 +19,7 @@
     "elf",
     "queen",
     "vanessa",
-    "&",
+    "\u0026",
     "some",
     "terry",
     "wei",
@@ -36,7 +36,26 @@
     "artwork",
     "drauger",
     "shredder",
-    "dima"
+    "dima",
+    "hunter",
+    "demon",
+    "female",
+    "assassin",
+    "ceiling",
+    "fans",
+    "forgotten",
+    "todd",
+    "ulrich",
+    "souls",
+    "black",
+    "jean",
+    "pascal",
+    "leclerc",
+    "kegle",
+    "barbarian",
+    "poll",
+    "star",
+    "https://www.artstation.com/artwork/5vvjw"
   ],
   "small": {
     "scale": 0.97,
@@ -60,6 +79,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

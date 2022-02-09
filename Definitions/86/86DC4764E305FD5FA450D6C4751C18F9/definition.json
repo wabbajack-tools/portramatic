@@ -2,27 +2,57 @@
   "source": "https://64.media.tumblr.com/46932035d69435a8d3d82aa0630cd385/tumblr_mqaobw7gZk1qzyezuo1_1280.jpg",
   "md5": "86DC4764E305FD5FA450D6C4751C18F9",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "with",
+    "dragon",
+    "crown",
+    "characters",
+    "league",
+    "legends",
+    "blood",
+    "elf",
+    "knight",
+    "character",
+    "paintings",
+    "mages",
+    "lukas",
+    "baumgartner",
+    "https://www.artstation.com",
+    "midna",
+    "fan",
+    "j",
+    "a",
+    "n",
+    "fane",
+    "divinity",
+    "original",
+    "sin",
+    "veronika",
+    "zemskova"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -319,
     "offset_y": -176,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -99,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -64,
     "offset_y": -64,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

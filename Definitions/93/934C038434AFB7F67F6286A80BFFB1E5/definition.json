@@ -2,7 +2,19 @@
   "source": "https://i.pinimg.com/550x/1d/a0/16/1da0163fc1bea23d7649780643dd9038.jpg",
   "md5": "934C038434AFB7F67F6286A80BFFB1E5",
   "tags": [
-    ""
+    "",
+    "female",
+    "vampire",
+    "face",
+    "modern",
+    "costume",
+    "short",
+    "haircut",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "cocktail_dress"
   ],
   "small": {
     "scale": 0.8999999999999995,
@@ -26,6 +38,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

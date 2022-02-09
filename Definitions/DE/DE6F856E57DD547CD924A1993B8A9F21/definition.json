@@ -10,7 +10,28 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "leprechaun",
+    "funny",
+    "gnomes",
+    "with",
+    "gun",
+    "world",
+    "warcraft",
+    "rogue",
+    "wow",
+    "druid",
+    "league",
+    "legends",
+    "dungeons",
+    "dragons",
+    "death",
+    "knight",
+    "ursula",
+    "dorada",
+    "singed",
+    "sixmorevodka",
+    "studio"
   ],
   "small": {
     "scale": 0.9299999999999999,
@@ -34,6 +55,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

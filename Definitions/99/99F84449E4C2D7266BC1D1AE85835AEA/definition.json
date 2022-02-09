@@ -2,25 +2,35 @@
   "source": "https://i.pinimg.com/originals/25/71/53/2571539a6950de1c395359df9e372c47.jpg",
   "md5": "99F84449E4C2D7266BC1D1AE85835AEA",
   "tags": [
-    ""
+    "",
+    "jon",
+    "snow",
+    "dead",
+    "king",
+    "got"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -5,
     "offset_y": -28.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.99,
     "offset_x": -11.5,
     "offset_y": -19.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.0599999999999996,
     "offset_x": -2.5,
     "offset_y": -33,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

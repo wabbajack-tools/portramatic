@@ -2,25 +2,47 @@
   "source": "https://www.nonfictiongaming.com/wp-content/uploads/2021/10/Leonin-Sword-shield.png",
   "md5": "6A0EB191D7F9183C12CD6AFD72E23135",
   "tags": [
-    ""
+    "",
+    "brimaz",
+    "mtg",
+    "alters",
+    "king",
+    "dungeons",
+    "dragons",
+    "archangels",
+    "teenage",
+    "mutant",
+    "ninja",
+    "turtle",
+    "186",
+    "kurt",
+    "jakobi",
+    "https://www.artstation.com/artwork/gy0xd",
+    "image",
+    "painting"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -666.4000000000015,
     "offset_y": -68.8000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -435.2,
     "offset_y": -24.000000000000057,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -362.01851851851916,
     "offset_y": -14.416666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

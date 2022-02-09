@@ -1,32 +1,49 @@
 {
-  "source": "https://external-preview.redd.it/3NYM5bQPczYekhuMZbvqeRK_lP6ar0h5Y-SoGLRwkRg.jpg?auto=webp&s=9f5f5a13a5fb0da5b4f735f71c37534e1502d9e9",
+  "source": "https://external-preview.redd.it/3NYM5bQPczYekhuMZbvqeRK_lP6ar0h5Y-SoGLRwkRg.jpg?auto=webp\u0026s=9f5f5a13a5fb0da5b4f735f71c37534e1502d9e9",
   "md5": "59394E4FB872ED62BE2E18873B8FD084",
   "tags": [
     "human",
     "female",
     "fighter",
     "knight",
-    "redhead"
+    "redhead",
+    "legends",
+    "warriors",
+    "legend",
+    "cryptids",
+    "warrior",
+    "nature",
+    "https://www.artstation.com/artwork/8awpq",
+    "breaker",
+    "chains",
+    "inna",
+    "vjuzhanina",
+    "order",
+    "dix",
+    "shou"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -79,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -47,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -88,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

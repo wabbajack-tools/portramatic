@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/8a/59/1b/8a591b39cd7648f29452ad50c824e8b7.jpg",
   "md5": "3B20BD484A101188056E3088CF5A18C0",
   "tags": [
-    ""
+    "",
+    "common",
+    "raven",
+    "armors",
+    "heavy",
+    "armor",
+    "sets",
+    "skyrim",
+    "elder",
+    "scrolls",
+    "online",
+    "gold",
+    "masked",
+    "assassin",
+    "pablo",
+    "murinelly",
+    "lord",
+    "necromancer",
+    "swame",
+    "studio",
+    "https://www.artstation.com/artwork/xb5dlr"
   ],
   "small": {
     "scale": 2.6799999999999864,
     "offset_x": -603,
     "offset_y": -222,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.409999999999992,
     "offset_x": -489,
     "offset_y": -173,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6100000000000005,
     "offset_x": -64,
     "offset_y": -94,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

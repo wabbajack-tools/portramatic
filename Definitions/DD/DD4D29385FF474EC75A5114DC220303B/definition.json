@@ -2,25 +2,49 @@
   "source": "https://i.pinimg.com/originals/c9/6e/e3/c96ee35e866e507e3301f3b0743c576c.png",
   "md5": "DD4D29385FF474EC75A5114DC220303B",
   "tags": [
-    ""
+    "",
+    "female",
+    "wizard",
+    "character",
+    "human",
+    "sorcerer",
+    "anime",
+    "girl",
+    "characters",
+    "sorceress",
+    "s.j",
+    "jung",
+    "design",
+    "shadow",
+    "woojae",
+    "choi",
+    "knight",
+    "princess",
+    "sgi",
+    "creator"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -333,
     "offset_y": -347,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -69,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -9,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,34 @@
   "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mao_Zedong_in_1959_%28cropped%29.jpg",
   "md5": "1E1A81D2504EC6BDF0DA8029262E7CCF",
   "tags": [
-    ""
+    "",
+    "mao",
+    "zedong",
+    "dead",
+    "teeth"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

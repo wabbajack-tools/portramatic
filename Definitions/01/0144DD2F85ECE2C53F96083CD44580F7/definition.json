@@ -24,27 +24,42 @@
     "reveries",
     "concept",
     "andrew",
-    "lee"
+    "lee",
+    "hobbit",
+    "game",
+    "thrones",
+    "personal",
+    "exercise",
+    "zp",
+    "cheng",
+    "yoon",
+    "seseon",
+    "animal",
+    "character",
+    "warrior"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -419.9999999999983,
     "offset_y": -188.66666666666708,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.17999999999999938,
     "offset_x": -48.00000000000017,
     "offset_y": -37.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.2999999999999994,
     "offset_x": -23.999999999999773,
     "offset_y": -20.000000000000284,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,15 @@
   "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_valtu.png",
   "md5": "1626A58E2F4132967843F149FBE25ACD",
   "tags": [
-    "voiceofcard"
+    "voiceofcard",
+    "sword",
+    "crone",
+    "linus",
+    "pettersson",
+    "dark",
+    "women",
+    "rpg",
+    "character"
   ],
   "small": {
     "scale": 1.8266666666666675,
@@ -26,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

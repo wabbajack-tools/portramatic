@@ -2,7 +2,19 @@
   "source": "https://static.wikia.nocookie.net/eternitywiki/images/1/15/Portrait_ydwin_lg.png/revision/latest/scale-to-width-down/250?cb=20180511104728",
   "md5": "7E82F92CD73718F502D5C81660F7D81C",
   "tags": [
-    ""
+    "",
+    "pillars",
+    "eternity",
+    "custom",
+    "portraits",
+    "character",
+    "wizard",
+    "male",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +38,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

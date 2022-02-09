@@ -10,34 +10,46 @@
     "jang",
     "jongyeol",
     "idolator",
-    "júlio",
+    "j\uFFFDlio",
     "rocha",
     "https://www.artstation.com/artwork/q9gdz",
     "female",
     "jedi",
     "star",
     "wars",
-    "clone"
+    "clone",
+    "j\u00FAlio",
+    "moses",
+    "david",
+    "bolton",
+    "character",
+    "design",
+    "male",
+    "jesus",
+    "cartoon"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -497,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -339,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -46,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

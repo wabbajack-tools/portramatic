@@ -16,25 +16,47 @@
     "sleeve",
     "crowd",
     "arm",
-    ""
+    "",
+    "black",
+    "marvel",
+    "domino",
+    "drawings",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "under_wear",
+    "bra",
+    "dailydrawing",
+    "dec-17",
+    "kita",
+    "hicham",
+    "kaidi",
+    "scorch",
+    "poji",
+    "chow"
   ],
   "small": {
     "scale": 0.4299999999999995,
     "offset_x": -192,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -158,
     "offset_y": -48,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5599999999999996,
     "offset_x": -6,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -9,27 +9,52 @@
     "orc",
     "druid",
     "clash",
-    "titans"
+    "titans",
+    "female",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "knight",
+    "armor",
+    "daedric",
+    "armors",
+    "pirate",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "athletic_shoes_or_sneakers",
+    "characters",
+    "klaher",
+    "baklaher",
+    "character",
+    "dungeons",
+    "rpg"
   ],
   "small": {
     "scale": 1.9800000000000009,
     "offset_x": -473,
     "offset_y": -85,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -187,
     "offset_y": -47,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4000000000000004,
     "offset_x": -46,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

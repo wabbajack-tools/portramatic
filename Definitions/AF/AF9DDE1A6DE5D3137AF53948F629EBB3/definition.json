@@ -2,7 +2,9 @@
   "source": "https://staticdelivery.nexusmods.com/mods/3662/images/13/13-1620809246-1244772085.png",
   "md5": "AF9DDE1A6DE5D3137AF53948F629EBB3",
   "tags": [
-    ""
+    "",
+    "guardians",
+    "galaxy"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +28,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -20,27 +20,42 @@
     "marta",
     "g.",
     "villena",
-    "https://www.artstation.com/artwork/rj3aa"
+    "https://www.artstation.com/artwork/rj3aa",
+    "gatekeeper",
+    "j\u3147\u3147",
+    "d",
+    "r",
+    "a",
+    "w",
+    "s",
+    "crowley",
+    "japanese",
+    "imperial",
+    "demon",
+    "army"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -599,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -547,
     "offset_y": -100,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -764,
     "offset_y": -160,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

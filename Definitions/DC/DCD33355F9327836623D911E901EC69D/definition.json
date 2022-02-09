@@ -10,27 +10,60 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "female",
+    "pirate",
+    "queen",
+    "assassin",
+    "woman",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "characters",
+    "for",
+    "ultimate",
+    "pirates",
+    "grafit",
+    "studio",
+    "women",
+    "character",
+    "portraits",
+    "hero",
+    "old",
+    "work",
+    "fantasica",
+    "card",
+    "game.",
+    "yutthaphong",
+    "kaewsuk",
+    "warrior"
   ],
   "small": {
     "scale": 0.9700000000000002,
     "offset_x": -194.3333333333324,
     "offset_y": -9.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -53.666666666666686,
     "offset_y": -1.6666666666669698,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.449999999999998,
     "offset_x": -42.000000000000455,
     "offset_y": -18.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

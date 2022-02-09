@@ -5,7 +5,16 @@
     "demon",
     "doom",
     "marauder",
-    "axe"
+    "axe",
+    "eternal",
+    "female",
+    "slayer",
+    "skins",
+    "gnoll",
+    "david",
+    "baldridge",
+    "https://www.artstation.com/artwork/xzzkme",
+    "cool"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -29,6 +38,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

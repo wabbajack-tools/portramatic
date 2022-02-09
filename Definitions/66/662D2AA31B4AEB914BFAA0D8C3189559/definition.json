@@ -1,26 +1,50 @@
 {
-  "source": "https://preview.redd.it/8whnec6r3af81.png?width=692&format=png&auto=webp&s=094d8da7b129b5a91e6f1cff4a7f90f761a14c5e",
+  "source": "https://preview.redd.it/8whnec6r3af81.png?width=692\u0026format=png\u0026auto=webp\u0026s=094d8da7b129b5a91e6f1cff4a7f90f761a14c5e",
   "md5": "662D2AA31B4AEB914BFAA0D8C3189559",
   "tags": [
-    ""
+    "",
+    "vikings",
+    "personal",
+    "practice",
+    "liu",
+    "pengcheng",
+    "2020",
+    "female",
+    "warrior",
+    "character",
+    "dark",
+    "souls",
+    "michael",
+    "chang",
+    "heroes",
+    "baldur\u0027s",
+    "gate",
+    "agri",
+    "karuniawan",
+    "rogue"
   ],
   "small": {
     "scale": 1,
     "offset_x": -268.66666666666663,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -165.99999999999994,
     "offset_y": -29.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
-    "offset_y": -2.2737367544323206e-13,
-    "size": "full"
+    "offset_y": -2.2737367544323206E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -10,27 +10,36 @@
     "ye",
     "ol",
     "turt",
-    "tavern"
+    "tavern",
+    "electric",
+    "girl",
+    "mu",
+    "ken",
+    "\u65E5\u5E38",
+    "\u6849"
   ],
   "small": {
     "scale": 0.26999999999999935,
     "offset_x": -193,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2199999999999993,
     "offset_x": -61,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -109,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

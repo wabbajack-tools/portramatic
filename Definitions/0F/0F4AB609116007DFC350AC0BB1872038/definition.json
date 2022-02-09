@@ -32,11 +32,32 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "elf",
+    "human",
+    "leather",
+    "armor",
+    "heavy",
+    "daedric",
+    "assassin",
+    "plate",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "bottom_wear",
+    "leggings",
+    "elena",
+    "mikhail",
+    "palamarchuk",
+    "dark",
+    "crow",
+    "hextroyal",
+    "jello",
+    "serve"
   ],
   "small": {
     "scale": 1.4000000000000004,
@@ -60,6 +81,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

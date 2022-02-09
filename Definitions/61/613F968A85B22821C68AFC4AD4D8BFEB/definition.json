@@ -10,27 +10,61 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "dwarf",
+    "bard",
+    "rogue",
+    "character",
+    "portraits",
+    "orc",
+    "warrior",
+    "assassin",
+    "skyrim",
+    "barbarians",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "realtime",
+    "augmented",
+    "ancient",
+    "fighter",
+    "joey",
+    "morel-carrier",
+    "018",
+    "elena",
+    "kononenko",
+    "artwork",
+    "superhero",
+    "44",
+    "stepan",
+    "alekseev",
+    "concept",
+    "characters",
+    "illustration"
   ],
   "small": {
     "scale": 1.4300000000000013,
     "offset_x": -336.33333333333235,
     "offset_y": -338.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -194.66666666666669,
     "offset_y": -270.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.449999999999998,
     "offset_x": -94.00000000000045,
     "offset_y": -234.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

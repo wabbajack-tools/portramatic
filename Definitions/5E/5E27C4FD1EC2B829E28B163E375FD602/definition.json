@@ -4,27 +4,55 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "robin",
+    "hood",
+    "fan",
+    "artwork",
+    "witcher",
+    "greek",
+    "gods",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "skinny",
+    "orc",
+    "\u5F88\u7626\u5F88\u7626\u7684\u517D\u4EBA",
+    "\u9B3C",
+    "\u733F",
+    "characters",
+    "barbarian",
+    "02",
+    "diablo",
+    "gustavo",
+    "pelissari",
+    "character",
+    "concept",
+    "zelda"
   ],
   "small": {
     "scale": 1.7699999999999991,
     "offset_x": -336,
     "offset_y": -63,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -122,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3599999999999983,
     "offset_x": -12,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

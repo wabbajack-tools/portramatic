@@ -2,25 +2,56 @@
   "source": "https://i.pinimg.com/originals/f4/2a/a0/f42aa0cbd444ee72e78d1ca2d11288d6.png",
   "md5": "9E8BFD91B3A97B256534979E6400A96D",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "ranger",
+    "rogue",
+    "male",
+    "dragon",
+    "armor",
+    "demons",
+    "black",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "knight",
+    "jiyun",
+    "lim",
+    "dragongirl",
+    "manuel",
+    "castanon",
+    "https://www",
+    "rpg",
+    "character",
+    "set",
+    "19",
+    "ernesto",
+    "irawan"
   ],
   "small": {
     "scale": 1.7800000000000007,
     "offset_x": -991,
     "offset_y": -339,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -430,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -256,
     "offset_y": -41,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

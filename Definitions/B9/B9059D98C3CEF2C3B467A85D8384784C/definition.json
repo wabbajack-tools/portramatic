@@ -31,7 +31,27 @@
     "design",
     "02",
     "kelton",
-    "cram"
+    "cram",
+    "concept",
+    "dungeons",
+    "dragons",
+    "shadow",
+    "over",
+    "mystara",
+    "rpg",
+    "assassin",
+    "armor",
+    "armors",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "eunyoung",
+    "2021"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -55,6 +75,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

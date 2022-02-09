@@ -1,10 +1,24 @@
 {
-  "source": "https://pbs.twimg.com/media/EOz2mwoX0Ag_R-c?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/EOz2mwoX0Ag_R-c?format=jpg\u0026name=medium",
   "md5": "79A74D07FD85FC7E93424CF354CD94B0",
   "tags": [
     "dark",
     "evil",
-    "knight"
+    "knight",
+    "armor",
+    "paizo",
+    "antipaladin",
+    "castlevania",
+    "lords",
+    "shadow",
+    "hellsing",
+    "dragon",
+    "sketches",
+    "set2",
+    "kullen",
+    "macfarlane",
+    "lucas",
+    "culshaw"
   ],
   "small": {
     "scale": 1.01,
@@ -28,6 +42,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

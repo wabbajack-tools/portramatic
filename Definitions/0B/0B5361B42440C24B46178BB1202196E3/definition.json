@@ -9,7 +9,17 @@
     "celestial",
     "dress",
     "cosmic",
-    "stellar"
+    "stellar",
+    "sci-fi",
+    "smuggler",
+    "ship",
+    "star",
+    "wars",
+    "male",
+    "concept",
+    "baldr",
+    "hannah",
+    "b\u00F6ving"
   ],
   "small": {
     "scale": 0.6899999999999997,
@@ -33,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

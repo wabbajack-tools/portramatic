@@ -2,7 +2,11 @@
   "source": "https://i.pinimg.com/originals/b3/e2/52/b3e2522623da5d03d60c764cda2949fe.jpg",
   "md5": "8DED10EC1A4C92FE01E47747AB243DDC",
   "tags": [
-    ""
+    "",
+    "building",
+    "concept",
+    "archer",
+    "warrior"
   ],
   "small": {
     "scale": 0.5299999999999996,
@@ -26,6 +30,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://external-preview.redd.it/wKOIxDqI14lsgbUaVQvnSVSHgeih0JAjMnxmOdiKlSs.jpg?auto=webp&s=abfbffd8687a22eac5ce1513851bf8f2c769cfd3",
+  "source": "https://external-preview.redd.it/wKOIxDqI14lsgbUaVQvnSVSHgeih0JAjMnxmOdiKlSs.jpg?auto=webp\u0026s=abfbffd8687a22eac5ce1513851bf8f2c769cfd3",
   "md5": "038B542EC580D398FAA68C83F4EBBD85",
   "tags": [
     "dark",
@@ -10,7 +10,14 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "fractal",
+    "wolf",
+    "animals",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +41,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

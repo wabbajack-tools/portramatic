@@ -2,25 +2,35 @@
   "source": "https://p5-tt.byteimg.com/origin/pgc-image/9fc300e12a624abeb786837294f52a48.jpg",
   "md5": "45FFB9C068FC7AF22D72A0A5039B9C7B",
   "tags": [
-    ""
+    "",
+    "people",
+    "defence",
+    "force",
+    "ismail",
+    "inceoglu"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -265,
     "offset_y": -6,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5199999999999996,
     "offset_x": -216,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1300000000000001,
     "offset_x": -426,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

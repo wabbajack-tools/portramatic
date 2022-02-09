@@ -2,25 +2,39 @@
   "source": "https://i.pinimg.com/564x/6b/cc/93/6bcc930076e1b54851679724f889d014.jpg",
   "md5": "7AD5D88C02BEA62347AD31A590FE5196",
   "tags": [
-    ""
+    "",
+    "ikki",
+    "anime",
+    "pfp",
+    "kurogane",
+    "manga",
+    "characters",
+    "girl",
+    "guys",
+    "bleach"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -171.2000000000001,
     "offset_y": -103.19999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -94.40000000000003,
     "offset_y": -103.20000000000005,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -17.62037037037021,
     "offset_y": -41.648148148148266,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

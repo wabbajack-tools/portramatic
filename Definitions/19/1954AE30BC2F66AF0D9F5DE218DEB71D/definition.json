@@ -9,25 +9,57 @@
     "armor",
     "knight",
     "dwarf",
-    "badass"
+    "badass",
+    "character",
+    "wow",
+    "warrior",
+    "concept",
+    "space",
+    "marine",
+    "war",
+    "machine",
+    "ultramarines",
+    "hammer",
+    "warhammer",
+    "40k",
+    "orcs",
+    "captain",
+    "ahohako",
+    "dan",
+    "glasl",
+    "https://www.artstation.com/artwork/n4qxq",
+    "201613",
+    "haixiang",
+    "mu",
+    "privateer",
+    "press",
+    "work",
+    "jake",
+    "gumbleton",
+    "robot"
   ],
   "small": {
     "scale": 1.5800000000000005,
     "offset_x": -402,
     "offset_y": -253,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -255,
     "offset_y": -191,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -98,
     "offset_y": -119,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

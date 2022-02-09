@@ -15,7 +15,7 @@
     "fashion_cosmetics_or_accessories",
     "shoes",
     "boots",
-    "maître",
+    "ma\uFFFDtre",
     "isomael",
     "rpg",
     "character",
@@ -27,7 +27,21 @@
     "trickster",
     "bruno",
     "machado",
-    "2020"
+    "2020",
+    "goblin",
+    "rock",
+    "ages",
+    "\u7537\u6CD5\u5E08",
+    "47.z",
+    "\u0022guards\u0022",
+    "alejandro",
+    "olmedo",
+    "https://www.artstation.com/artwork/4ygl8",
+    "concept",
+    "day",
+    "tomorrow",
+    "yana",
+    "ufelman"
   ],
   "small": {
     "scale": 1.7000000000000006,
@@ -51,6 +65,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

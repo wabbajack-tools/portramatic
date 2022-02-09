@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/FAjMbQtVcAES14r?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/FAjMbQtVcAES14r?format=jpg\u0026name=4096x4096",
   "md5": "497A950DD47E9FF1E8B78E76F31D48CD",
   "tags": [
     "anime",
@@ -68,6 +68,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

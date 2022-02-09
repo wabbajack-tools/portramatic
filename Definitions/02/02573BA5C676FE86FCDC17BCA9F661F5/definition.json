@@ -3,27 +3,46 @@
   "md5": "02573BA5C676FE86FCDC17BCA9F661F5",
   "tags": [
     "Gold",
-    "Dragon"
+    "Dragon",
+    "black",
+    "dragon",
+    "st.",
+    "michael",
+    "sea",
+    "dungeons",
+    "dragons",
+    "arbres",
+    "guillaume",
+    "bertrand",
+    "waiting",
+    "luka",
+    "brico",
+    "\u9955\u992E-\u82F1\u9B42\u4E4B\u5203",
+    "xiangyu",
+    "xu"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -111.33333333333334,
     "offset_y": -58.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -53.33333333333343,
     "offset_y": -21.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -16.000000000000227,
     "offset_y": -1.333333333333485,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://cdna.artstation.com/p/assets/images/images/000/190/252/large/lius-lasahido-alfred.jpg?1443928149&dl=1",
+  "source": "https://cdna.artstation.com/p/assets/images/images/000/190/252/large/lius-lasahido-alfred.jpg?1443928149\u0026dl=1",
   "md5": "928570E44270A00B7312CE8F574A4368",
   "tags": [
     "",
@@ -31,27 +31,48 @@
     "odyssey",
     "fan",
     "murat",
-    "gül"
+    "g\uFFFDl",
+    "demon",
+    "hunter",
+    "death",
+    "knight",
+    "artwork",
+    "varian",
+    "wrynn",
+    "jiamin",
+    "lin",
+    "a",
+    "character",
+    "for",
+    "project",
+    "\u201Ethrone",
+    "kingdom",
+    "war\u201C",
+    "oleg",
+    "lychagin"
   ],
   "small": {
     "scale": 1.1300000000000001,
     "offset_x": -669,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -181,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -83,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

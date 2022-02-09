@@ -5,27 +5,36 @@
     "Fox",
     "Kitsune",
     "Wizard",
-    "Male"
+    "Male",
+    "crucifixion",
+    "oil",
+    "paintings",
+    "pictures",
+    "jesus",
+    "tangled"
   ],
   "small": {
     "scale": 0.6499999999999997,
     "offset_x": -163,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -92,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -82,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

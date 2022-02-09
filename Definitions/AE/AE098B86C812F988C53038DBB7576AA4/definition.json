@@ -16,7 +16,18 @@
     "bean",
     "assignment",
     "danny",
-    "thomson"
+    "thomson",
+    "body",
+    "armor",
+    "warrior",
+    "woman",
+    "character",
+    "blonde",
+    "hair",
+    "color",
+    "hairstyles",
+    "brown",
+    "curly"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -40,6 +51,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

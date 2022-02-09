@@ -22,7 +22,28 @@
     "demon",
     "slayer",
     "hitokiri",
-    "nguyen"
+    "nguyen",
+    "gothic",
+    "fairy",
+    "figurines",
+    "purple",
+    "vampire",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "heels",
+    "dragon",
+    "spirit",
+    "isadora",
+    "kazuhiro",
+    "oya",
+    "shadow",
+    "priestess",
+    "comm",
+    "saiyre",
+    "illustration",
+    "design"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -46,6 +67,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

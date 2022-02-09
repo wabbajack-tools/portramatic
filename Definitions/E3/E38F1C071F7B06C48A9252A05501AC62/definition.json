@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/564x/85/5a/3b/855a3b42481b9d927fc8549f6d7cfe2e.jpg",
   "md5": "E38F1C071F7B06C48A9252A05501AC62",
   "tags": [
-    ""
+    "",
+    "halfling",
+    "druid",
+    "wizard",
+    "soul",
+    "calibur",
+    "fever",
+    "basket",
+    "\u6F6E\u4EBA\u7BEE\u7403",
+    "hyungseok",
+    "yang",
+    "demongol",
+    "ivan",
+    "nikulin",
+    "mario",
+    "characters",
+    "artwork",
+    "zelda",
+    "alexstrasza",
+    "youngjin",
+    "jeon",
+    "world",
+    "warcraft"
   ],
   "small": {
     "scale": 1.4300000000000004,
     "offset_x": -403,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4000000000000004,
     "offset_x": -306,
     "offset_y": -117,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -68,
     "offset_y": -7,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

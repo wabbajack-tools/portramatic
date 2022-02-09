@@ -1,5 +1,5 @@
 {
-  "source": "https://th.bing.com/th/id/OIP.1gnBkiUWD8Sokf9oyErlhQHaJQ?pid=ImgDet&rs=1",
+  "source": "https://th.bing.com/th/id/OIP.1gnBkiUWD8Sokf9oyErlhQHaJQ?pid=ImgDet\u0026rs=1",
   "md5": "9D8C9F4FBEFC326B42BA2E849B3F4313",
   "tags": [
     "egrehg"
@@ -26,6 +26,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

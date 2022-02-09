@@ -2,25 +2,58 @@
   "source": "https://i.pinimg.com/originals/5a/f4/94/5af494b7cf4611daacdcfe436f6fff15.png",
   "md5": "85527260CFD30C7832F0AB05AAA050AF",
   "tags": [
-    ""
+    "",
+    "human",
+    "eldritch",
+    "knight",
+    "concept",
+    "dragonborn",
+    "game",
+    "thrones",
+    "lord",
+    "rings",
+    "female",
+    "assassin",
+    "pirates",
+    "caribbean",
+    "simon",
+    "labrousse\u0027s",
+    "submission",
+    "wild",
+    "west",
+    "character",
+    "design",
+    "western",
+    "orbit",
+    "space",
+    "adrian",
+    "marc",
+    "yanglin",
+    "moyi",
+    "zhang"
   ],
   "small": {
     "scale": 1,
     "offset_x": -310,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -200,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -88,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

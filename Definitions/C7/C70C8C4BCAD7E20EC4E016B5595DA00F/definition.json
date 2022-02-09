@@ -3,27 +3,56 @@
   "md5": "C70C8C4BCAD7E20EC4E016B5595DA00F",
   "tags": [
     "medieval",
-    "lord"
+    "lord",
+    "human",
+    "fighter",
+    "female",
+    "male",
+    "assassin",
+    "clash",
+    "titans",
+    "wrath",
+    "rings",
+    "character",
+    "concept",
+    "hyeonseong",
+    "kim",
+    "vikings",
+    "name",
+    "odin",
+    "victor",
+    "perez",
+    "corbella",
+    "\u6D9B\u795E",
+    "qingxue",
+    "ye",
+    "portraits",
+    "pirate",
+    "dynasty",
+    "warriors"
   ],
   "small": {
     "scale": 1,
     "offset_x": -218,
     "offset_y": -47,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -30,
     "offset_y": -35,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -36,
     "offset_y": -43,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

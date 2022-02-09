@@ -4,27 +4,50 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "world",
+    "warcraft",
+    "rogue",
+    "demon",
+    "souls",
+    "deathwing",
+    "black",
+    "dragon",
+    "jintetsu",
+    "^\u03C9^",
+    "http://www",
+    "ragnabreak_lindworm",
+    "iqnatius",
+    "budi",
+    "smite",
+    "fenrir",
+    "iron",
+    "maw",
+    "chris",
+    "bjors"
   ],
   "small": {
     "scale": 0.3399999999999998,
     "offset_x": -425,
     "offset_y": -185,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.29999999999999954,
     "offset_x": -255,
     "offset_y": -178,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3199999999999995,
     "offset_x": -68,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

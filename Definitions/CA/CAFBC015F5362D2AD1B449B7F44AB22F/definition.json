@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/B-wR3xGXIAEnfoY?format=jpg&name=small",
+  "source": "https://pbs.twimg.com/media/B-wR3xGXIAEnfoY?format=jpg\u0026name=small",
   "md5": "CAFBC015F5362D2AD1B449B7F44AB22F",
   "tags": [
     "",
@@ -32,11 +32,35 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "silvan",
+    "elf",
+    "lord",
+    "rings",
+    "elves",
+    "mirkwood",
+    "witcher",
+    "dungeons",
+    "dragons",
+    "scales",
+    "moss",
+    "elena",
+    "samoylova",
+    "007",
+    "muel",
+    "kim",
+    "https://www.artstation.com/artwork/w2qdq",
+    "story",
+    "concept",
+    "sketches",
+    "one-offs",
+    "weirdos",
+    "brian",
+    "wells"
   ],
   "small": {
     "scale": 2.4899999999999904,
@@ -60,6 +84,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

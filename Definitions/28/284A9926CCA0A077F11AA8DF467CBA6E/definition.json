@@ -5,27 +5,46 @@
     "human",
     "female",
     "warrior",
-    "monk"
+    "monk",
+    "\u8C22\u540C\u5B66-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "lancer",
+    "r",
+    "k",
+    "https://www.artstation.com/artwork/gj11zx",
+    "#digitalart",
+    "#artwork",
+    "#",
+    "sorceress",
+    "anime",
+    "women",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -433,
     "offset_y": -126,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -170,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -122,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

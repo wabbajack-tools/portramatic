@@ -23,8 +23,26 @@
     "horoszko",
     "nel",
     "8_2017_10",
-    "ildikó",
-    "tóth"
+    "ildik\uFFFD",
+    "t\uFFFDth",
+    "illustration",
+    "business",
+    "cards",
+    "thank",
+    "you",
+    "card",
+    "graphic",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "apprentice",
+    "wizard",
+    "harim",
+    "shin",
+    "anime",
+    "beautiful"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -48,6 +66,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

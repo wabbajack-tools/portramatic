@@ -2,7 +2,24 @@
   "source": "https://images.uesp.net/1/17/LG-cardart-Altmer_Dragonknight.png",
   "md5": "4742A6B509181D67A6642ECFC74F8E45",
   "tags": [
-    ""
+    "",
+    "life",
+    "cleric",
+    "spells",
+    "grave",
+    "league",
+    "legends",
+    "vampire",
+    "warrior",
+    "dark_matter_art_studio",
+    "studio",
+    "dalyneriel",
+    "shimmerglade",
+    "nixri",
+    "illustration",
+    "exercise",
+    "liujiang",
+    "jin"
   ],
   "small": {
     "scale": 1.2200000000000002,
@@ -26,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

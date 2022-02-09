@@ -2,27 +2,62 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/030/866/236/large/han-woo-3king-dwerf.jpg?1601909383",
   "md5": "35FCDD7A7CDE5B9CC93EB3F111D997C2",
   "tags": [
-    ""
+    "",
+    "dwarf",
+    "ranger",
+    "druid",
+    "drawing",
+    "heavy",
+    "armor",
+    "plate",
+    "knight",
+    "chaos",
+    "warrior",
+    "sets",
+    "warhammer",
+    "40k",
+    "chs",
+    "chosen",
+    "vlad",
+    "costin",
+    "personaggi",
+    "immaginari",
+    "illustrazione",
+    "demoni",
+    "berserker",
+    "jun",
+    "seon",
+    "baek",
+    "rat",
+    "king",
+    "alexander",
+    "shatohin",
+    "creature",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -257,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -195,
     "offset_y": -96,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -122,
     "offset_y": -140,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

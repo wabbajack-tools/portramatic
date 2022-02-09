@@ -1,26 +1,44 @@
 {
-  "source": "https://preview.redd.it/lhxj2jq3uyr31.jpg?auto=webp&s=4e119d5090e1b5367295c6f1edbf74a2ae232ea7",
+  "source": "https://preview.redd.it/lhxj2jq3uyr31.jpg?auto=webp\u0026s=4e119d5090e1b5367295c6f1edbf74a2ae232ea7",
   "md5": "23FA92F464E829017313616260352F86",
   "tags": [
-    ""
+    "",
+    "demon",
+    "slayer",
+    "water",
+    "style",
+    "kimetsu",
+    "no",
+    "yaiba",
+    "tanjirou",
+    "wuxia",
+    "sining",
+    "ma",
+    "msnzero",
+    "https://www.artstation.com/artwork/0zjze"
   ],
   "small": {
     "scale": 0.4599999999999995,
     "offset_x": -241,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -199,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": -138,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

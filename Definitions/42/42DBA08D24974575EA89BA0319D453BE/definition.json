@@ -23,7 +23,7 @@
     "vargas",
     "alejdark",
     "https://www.artstation",
-    "d&d",
+    "d\u0026d",
     "character",
     "portraits",
     "kirsten",
@@ -53,6 +53,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

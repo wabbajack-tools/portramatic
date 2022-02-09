@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/564x/45/d0/6d/45d06d8a6aad3ae711e7d1ac0cedb3a3.jpg",
   "md5": "5C580C814D03A7351F1D23B551C40919",
   "tags": [
-    ""
+    "",
+    "elf",
+    "girl",
+    "concept",
+    "character",
+    "design",
+    "high",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "company",
+    "un",
+    "lee",
+    "hobbit",
+    "movies",
+    "half",
+    "drow",
+    "female",
+    "portraits"
   ],
   "small": {
     "scale": 1.5900000000000005,
     "offset_x": -419,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5500000000000005,
     "offset_x": -350,
     "offset_y": -125,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5800000000000005,
     "offset_x": -174,
     "offset_y": -112,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

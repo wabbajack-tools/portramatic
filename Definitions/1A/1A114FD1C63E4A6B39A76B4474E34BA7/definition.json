@@ -2,27 +2,34 @@
   "source": "https://i.pinimg.com/564x/bf/a3/e2/bfa3e201bac55071aa410408196902b7.jpg",
   "md5": "1A114FD1C63E4A6B39A76B4474E34BA7",
   "tags": [
-    ""
+    "",
+    "icewind",
+    "dale",
+    "portraits",
+    "characters"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -171,
     "offset_y": -68,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -121,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3200000000000003,
     "offset_x": -50,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -31,7 +31,12 @@
     "feline",
     "jay",
     "jiwoopark",
-    "character"
+    "character",
+    "tiefling",
+    "male",
+    "accessories",
+    "jewelry",
+    "bracelet"
   ],
   "small": {
     "scale": 1,
@@ -55,6 +60,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

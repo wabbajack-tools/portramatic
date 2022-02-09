@@ -2,7 +2,19 @@
   "source": "https://static.wikia.nocookie.net/criticalrole/images/9/95/Vax_PillarsOfEternity.jpg/revision/latest?cb=20200901005231",
   "md5": "490AFAAF82875A388F603083A153F066",
   "tags": [
-    ""
+    "",
+    "moon",
+    "elf",
+    "pillars",
+    "eternity",
+    "character",
+    "creation",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.99,
@@ -26,6 +38,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

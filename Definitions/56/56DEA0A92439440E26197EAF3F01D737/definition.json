@@ -10,27 +10,51 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "celestial",
+    "warlock",
+    "patrons",
+    "tabaxi",
+    "female",
+    "assassin",
+    "pirate",
+    "simeon",
+    "symes",
+    "half-elf",
+    "max",
+    "duran\u0027s",
+    "submission",
+    "ancient",
+    "wwe",
+    "immortals",
+    "shamus",
+    "druid",
+    "01",
+    "zhao",
+    "yan"
   ],
   "small": {
     "scale": 2.119999999999999,
     "offset_x": -547.3333333333323,
     "offset_y": -92.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6200000000000006,
     "offset_x": -308.6666666666667,
     "offset_y": -47.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.449999999999998,
     "offset_x": -80.00000000000045,
     "offset_y": -10.666666666666401,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/020/808/335/large/tamas-patkos-kairon-artst.jpg?1569258230",
   "md5": "ED84905887C10FC4D00455F85B94700B",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "image",
+    "knight",
+    "clone",
+    "wars",
+    "star",
+    "rogue",
+    "night",
+    "elf",
+    "toast",
+    "artstation.",
+    "rogues",
+    "darth",
+    "nihilius",
+    "lelan",
+    "skinner",
+    "https://www.artstation.com/artwork/yagyvb",
+    "with"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -422,
     "offset_y": -248,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1300000000000001,
     "offset_x": -299,
     "offset_y": -213,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -76,
     "offset_y": -132,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

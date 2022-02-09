@@ -24,8 +24,8 @@
     "https://www.artstation.com/artwork/ek8yx",
     "robin",
     "hood",
-    "\"book",
-    "cover\"",
+    "\u0022book",
+    "cover\u0022",
     "davood",
     "diba",
     "2021",
@@ -34,7 +34,13 @@
     "haldan",
     "alexander",
     "kozachenko",
-    "https://www.artstation.com/artwork/wa8zy"
+    "https://www.artstation.com/artwork/wa8zy",
+    "witcher",
+    "wallpaper",
+    "box",
+    "fan",
+    "chronicles",
+    "riddick"
   ],
   "small": {
     "scale": 1.4700000000000004,
@@ -58,6 +64,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

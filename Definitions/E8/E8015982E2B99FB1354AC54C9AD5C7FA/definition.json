@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/11/d8/88/11d8888ef01c6381690f8fedf1c4c4ec.jpg",
   "md5": "E8015982E2B99FB1354AC54C9AD5C7FA",
   "tags": [
-    ""
+    "",
+    "dead",
+    "female",
+    "digital",
+    "death",
+    "angel",
+    "concept",
+    "blizzard_my",
+    "queen",
+    "jiangfeng",
+    "feng",
+    "warcraft",
+    "world",
+    "game",
+    "aeshma",
+    "j.c",
+    "yuan",
+    "https://www.artstation.com/artwork/yqklo",
+    "blood",
+    "mage",
+    "dmitry",
+    "solodovnikov"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -215,
     "offset_y": -170,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -197,
     "offset_y": -158,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -132,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

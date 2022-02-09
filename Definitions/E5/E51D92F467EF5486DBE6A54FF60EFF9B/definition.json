@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/24/fb/35/24fb35ca6e518a79f733b66484454fba.jpg",
   "md5": "E51D92F467EF5486DBE6A54FF60EFF9B",
   "tags": [
-    ""
+    "",
+    "d",
+    "tiefling",
+    "thief",
+    "anime",
+    "human",
+    "matteo",
+    "spirito",
+    "https://www.artstation.com/artwork/l2qxr",
+    "desert",
+    "soldiers",
+    "mark",
+    "pons",
+    "soldier",
+    "bad",
+    "guy",
+    "character",
+    "female",
+    "pirate",
+    "lonnie",
+    "harrison",
+    "\u0432\u043E\u0439\u043D\u0430"
   ],
   "small": {
     "scale": 2.759999999999985,
     "offset_x": -349,
     "offset_y": -230,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -143,
     "offset_y": -91,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -18,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

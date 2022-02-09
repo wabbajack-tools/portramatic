@@ -5,27 +5,55 @@
     "human",
     "female",
     "mage",
-    "priest"
+    "priest",
+    "character",
+    "concept",
+    "sketches",
+    "black",
+    "woman",
+    "characters",
+    "devil",
+    "may",
+    "cry",
+    "dark",
+    "knight",
+    "wolf",
+    "bae",
+    "yamile",
+    "king",
+    "raid",
+    "shadow",
+    "legends",
+    "plarium",
+    "ukraine",
+    "sparta",
+    "red",
+    "warrior",
+    "tamara",
+    "konstanchenko"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -403,
     "offset_y": -408,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.41991666666666616,
     "offset_x": -96,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -28,
     "offset_y": -88,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

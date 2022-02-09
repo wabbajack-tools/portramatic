@@ -10,27 +10,56 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "wild",
+    "wolves",
+    "animal",
+    "wolf",
+    "prints",
+    "hugging",
+    "lord",
+    "rings",
+    "13th",
+    "warrior",
+    "barbarians",
+    "hobbit",
+    "vikings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "rpg",
+    "levente",
+    "r\u00FCckert",
+    "samurai",
+    "vince",
+    "serrano",
+    "templars",
+    "alexander",
+    "iv"
   ],
   "small": {
     "scale": 2.0400000000000005,
     "offset_x": -360.33333333333235,
     "offset_y": -183.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7500000000000007,
     "offset_x": -219.66666666666669,
     "offset_y": -159.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.489999999999998,
     "offset_x": -56.000000000000455,
     "offset_y": -28.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

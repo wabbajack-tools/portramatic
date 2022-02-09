@@ -2,27 +2,40 @@
   "source": "https://images.wallpapersden.com/image/download/black-knight-eternals-art-2020_a21ubWaUmZqaraWkpJRnamtlrWZlbWU.jpg",
   "md5": "FE02EC571A476AA6C662B7FA0092C959",
   "tags": [
-    ""
+    "",
+    "knight",
+    "armor",
+    "costume",
+    "dark",
+    "souls",
+    "concept",
+    "castlevania",
+    "lords",
+    "shadow",
+    "predator"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -669.9999999999992,
     "offset_y": -19.99999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -565.3333333333331,
     "offset_y": -22.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -858.6666666666663,
-    "offset_y": -1.7053025658242404e-13,
-    "size": "full"
+    "offset_y": -1.7053025658242404E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

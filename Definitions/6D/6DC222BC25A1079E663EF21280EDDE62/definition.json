@@ -2,27 +2,44 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/018/560/690/large/matias-merino-matiasmerino15.jpg?1559830364",
   "md5": "6DC222BC25A1079E663EF21280EDDE62",
   "tags": [
-    ""
+    "",
+    "black",
+    "queen",
+    "ivona",
+    "denovic",
+    "scorpio",
+    "character",
+    "design",
+    "allen",
+    "hsieh(\u5E25\u7834",
+    "https://www.artstation.com/artwork",
+    "lady",
+    "mal",
+    "paul",
+    "nong"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -803.3333333333325,
     "offset_y": -13.333333333333343,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.11,
     "offset_x": -626,
-    "offset_y": -5.684341886080802e-14,
-    "size": "medium"
+    "offset_y": -5.684341886080802E-14,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -500.0000000000002,
     "offset_y": -14.6666666666668,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -4,27 +4,59 @@
   "tags": [
     "nun",
     "tyler",
-    "law"
+    "law",
+    "blank",
+    "concept",
+    "character",
+    "design",
+    "sketches",
+    "game",
+    "league",
+    "angels",
+    "anime",
+    "angel",
+    "dark",
+    "magician",
+    "john.",
+    "d",
+    "https://www.artstation.com/artwork/l0rxa",
+    "magicians",
+    "dragonmancer",
+    "alex",
+    "kintner",
+    "totem",
+    "pole",
+    "cuardian",
+    "bageumi",
+    ".",
+    "warrior",
+    "woman",
+    "women",
+    "female",
+    "characters"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -577,
     "offset_y": -131,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -459,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -80,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

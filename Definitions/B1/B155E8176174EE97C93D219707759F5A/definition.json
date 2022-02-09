@@ -1,8 +1,18 @@
 {
-  "source": "https://external-preview.redd.it/jnf2Ny1ZCiWVwmzYqRUseBJ4DhLO4k9blQmlx2PtFEM.jpg?auto=webp&s=7955723cb93136653141120e3747eb265c2f8b44",
+  "source": "https://external-preview.redd.it/jnf2Ny1ZCiWVwmzYqRUseBJ4DhLO4k9blQmlx2PtFEM.jpg?auto=webp\u0026s=7955723cb93136653141120e3747eb265c2f8b44",
   "md5": "B155E8176174EE97C93D219707759F5A",
   "tags": [
-    ""
+    "",
+    "eva",
+    "green",
+    "hair",
+    "makeup",
+    "dark",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "ring"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

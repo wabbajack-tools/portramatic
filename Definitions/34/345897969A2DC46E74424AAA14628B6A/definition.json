@@ -1,5 +1,5 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.dICWvbkPypEXsC_KIp1EXwHaHa%26pid%3DApi&f=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.dICWvbkPypEXsC_KIp1EXwHaHa%26pid%3DApi\u0026f=1",
   "md5": "345897969A2DC46E74424AAA14628B6A",
   "tags": [
     "",
@@ -28,7 +28,28 @@
     "gu",
     "samurai",
     "girl",
-    "illustration"
+    "illustration",
+    "mtg",
+    "ajani",
+    "elspeth",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "lady",
+    "necromancer",
+    "jessie",
+    "lam",
+    "paladin",
+    "warlock",
+    "yasen",
+    "stoilov",
+    "spire",
+    "spellsword",
+    "caio",
+    "monteiro"
   ],
   "small": {
     "scale": 0.95,
@@ -52,6 +73,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

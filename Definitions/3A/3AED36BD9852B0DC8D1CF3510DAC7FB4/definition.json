@@ -10,7 +10,18 @@
     "ye",
     "ol",
     "turt",
-    "tavern"
+    "tavern",
+    "hot",
+    "pirate",
+    "lion",
+    "knight",
+    "armor",
+    "human",
+    "hair",
+    "wigs",
+    "barbarian",
+    "chris",
+    "carol"
   ],
   "small": {
     "scale": 0.5199999999999996,
@@ -34,6 +45,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,53 @@
   "source": "https://2e.aonprd.com/Images/Ancestries/Dhampir02.png",
   "md5": "75899CFF77652F25301C5D6E2D3DC517",
   "tags": [
-    ""
+    "",
+    "corpse",
+    "bride",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u7CBE\u7075\u6E38\u4FA0",
+    "zhongxi",
+    "ho",
+    "elf",
+    "ranger",
+    "female",
+    "character",
+    "portraits",
+    "finger",
+    "death",
+    "artem",
+    "polyakov",
+    "aaravos",
+    "fan",
+    "nina",
+    "kunze"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -299,
     "offset_y": -80,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -210,
     "offset_y": -72,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -196,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

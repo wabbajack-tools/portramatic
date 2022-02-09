@@ -2,27 +2,43 @@
   "source": "https://cdn.wallpapersafari.com/28/17/EABmjK.jpg",
   "md5": "4264E9E302A60BDAB73DBA69542ECAC5",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "dragon",
+    "with",
+    "fire",
+    "demon",
+    "boy",
+    "greek",
+    "gods",
+    "wildfire",
+    "wizard",
+    "raye",
+    "chen"
   ],
   "small": {
     "scale": 1.1400000000000001,
     "offset_x": -1034.6666666666665,
     "offset_y": -198.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -834.6666666666669,
     "offset_y": -145.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -642.6666666666667,
     "offset_y": -14.666666666666742,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

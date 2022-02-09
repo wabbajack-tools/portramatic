@@ -2,25 +2,42 @@
   "source": "https://www.corchaosis.ru/img/Mage/Boy/Hat-Circus.jpg",
   "md5": "648573276422734A423429FACA466FC2",
   "tags": [
-    ""
+    "",
+    "bad",
+    "ass",
+    "wizard",
+    "rpg",
+    "mage",
+    "dump",
+    "astri",
+    "lohne",
+    "warcraft",
+    "character",
+    "design",
+    "concept"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -674,
     "offset_y": -381,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -556,
     "offset_y": -291,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6199999999999997,
     "offset_x": -236,
     "offset_y": -268,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

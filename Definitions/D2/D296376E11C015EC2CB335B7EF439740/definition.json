@@ -2,25 +2,49 @@
   "source": "https://i.pinimg.com/564x/7f/0d/53/7f0d5397375dfd5b20770010350c0e67.jpg",
   "md5": "D296376E11C015EC2CB335B7EF439740",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "bard",
+    "female",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "guardian",
+    "humberto",
+    "maldonado",
+    "\u94C1\u6C5F\u6E56",
+    "\u8499\u773C",
+    "tek",
+    "tan",
+    "superhero",
+    "character",
+    "fictional",
+    "characters"
   ],
   "small": {
     "scale": 1.7600000000000007,
     "offset_x": -398,
     "offset_y": -32,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -215,
     "offset_y": -14,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -5,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

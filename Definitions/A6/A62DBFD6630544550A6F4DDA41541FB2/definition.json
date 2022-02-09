@@ -2,27 +2,39 @@
   "source": "https://i.redd.it/qd88z7ow80p11.jpg",
   "md5": "A62DBFD6630544550A6F4DDA41541FB2",
   "tags": [
-    ""
+    "",
+    "nazgul",
+    "gauntlet",
+    "skyrim",
+    "armor",
+    "ringwraith",
+    "black",
+    "flash",
+    "game",
+    "assets"
   ],
   "small": {
     "scale": 0.25999999999999934,
     "offset_x": -2,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -7,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -62,
     "offset_y": -40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

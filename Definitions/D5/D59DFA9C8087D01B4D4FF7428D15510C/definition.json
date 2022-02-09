@@ -1,26 +1,49 @@
 {
-  "source": "https://preview.redd.it/7leqtltot4i61.jpg?width=1291&format=pjpg&auto=webp&s=f3c04c927254faaad47a609a3b9d7bcca86e3c6f",
+  "source": "https://preview.redd.it/7leqtltot4i61.jpg?width=1291\u0026format=pjpg\u0026auto=webp\u0026s=f3c04c927254faaad47a609a3b9d7bcca86e3c6f",
   "md5": "D59DFA9C8087D01B4D4FF7428D15510C",
   "tags": [
-    ""
+    "",
+    "male",
+    "assassin",
+    "rogue",
+    "concept",
+    "assassin\u0027s",
+    "creed",
+    "demons",
+    "shadowbugdemon",
+    "yaroslav",
+    "golubev",
+    "character",
+    "ivan",
+    "poludnitsyn",
+    "\uCC3D\uCC9C2",
+    "monster",
+    "jaehong",
+    "jeon",
+    "https://www.artstation.com/artwork/bl2me"
   ],
   "small": {
     "scale": 1,
     "offset_x": -690,
     "offset_y": -259,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -273,
     "offset_y": -86,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -394,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

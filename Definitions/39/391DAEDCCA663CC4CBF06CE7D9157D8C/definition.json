@@ -29,7 +29,7 @@
     "09/13/19",
     "practice",
     "banjiu",
-    "e'vik",
+    "e\u0027vik",
     "with",
     "vik",
     "concept",
@@ -43,7 +43,13 @@
     "ernesto",
     "irawan",
     "2021",
-    "characters"
+    "characters",
+    "half-orc",
+    "wizard",
+    "paladin",
+    "dragon",
+    "armor",
+    "knight"
   ],
   "small": {
     "scale": 0.7299999999999998,
@@ -67,6 +73,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

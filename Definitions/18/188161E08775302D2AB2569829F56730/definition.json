@@ -2,27 +2,65 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/031/756/958/large/anna-aizel-kon-moshak-peter00.jpg?1604509534",
   "md5": "188161E08775302D2AB2569829F56730",
   "tags": [
-    ""
+    "",
+    "rxr",
+    "train",
+    "moshak",
+    "iran",
+    "courtney",
+    "mcdaniel",
+    "dynasty",
+    "warriors",
+    "knight",
+    "armor",
+    "female",
+    "assassin",
+    "infinity",
+    "war",
+    "paladin",
+    "plate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "desert",
+    "warrior",
+    "gabriel",
+    "veras",
+    "varangian",
+    "guard",
+    "elliot",
+    "bocxtaele",
+    "https://www.artstation.com/artwork/4ggoq",
+    "slg",
+    "z",
+    "y",
+    "concept",
+    "characters",
+    "outfit"
   ],
   "small": {
     "scale": 0.9099999999999999,
     "offset_x": -386,
     "offset_y": -73,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": -366,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -48,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

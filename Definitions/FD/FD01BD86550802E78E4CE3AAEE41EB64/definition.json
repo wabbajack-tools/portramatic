@@ -10,7 +10,13 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "fable",
+    "legends",
+    "fresco",
+    "dump",
+    "sarah",
+    "morris"
   ],
   "small": {
     "scale": 0.7899999999999998,
@@ -34,6 +40,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

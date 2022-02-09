@@ -2,27 +2,42 @@
   "source": "https://i.etsystatic.com/14392680/r/il/cf7327/1356226567/il_794xN.1356226567_2sc0.jpg",
   "md5": "1A02C40F240015F49ABBFC1619D496E9",
   "tags": [
-    ""
+    "",
+    "theon",
+    "greyjoy",
+    "reek",
+    "alfie",
+    "allen",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.4199999999999995,
     "offset_x": -56,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

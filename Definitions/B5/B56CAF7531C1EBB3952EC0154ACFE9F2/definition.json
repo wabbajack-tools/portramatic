@@ -2,27 +2,60 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/025/045/644/medium/clayscence-art-aeslyn2chico.jpg?1584410543",
   "md5": "B56CAF7531C1EBB3952EC0154ACFE9F2",
   "tags": [
-    ""
+    "",
+    "anime",
+    "pyromancer",
+    "female",
+    "prince",
+    "persia",
+    "warrior",
+    "within",
+    "sands",
+    "time",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "magnificent",
+    "knight",
+    "nymph",
+    "yonghua",
+    "chen",
+    "warriors",
+    "cai",
+    "cola",
+    "girl",
+    "songhee",
+    "g",
+    "2021"
   ],
   "small": {
     "scale": 1,
     "offset_x": -333.33333333333337,
     "offset_y": -110.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -187.33333333333337,
     "offset_y": -77.33333333333388,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9099999999999999,
     "offset_x": -50.66666666666674,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

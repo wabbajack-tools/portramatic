@@ -5,7 +5,11 @@
     "girl",
     "woman",
     "casual",
-    "cow"
+    "cow",
+    "emperor",
+    "jude",
+    "kenya",
+    "powers"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -29,6 +33,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

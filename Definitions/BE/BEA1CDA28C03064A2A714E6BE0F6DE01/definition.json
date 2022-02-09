@@ -2,27 +2,58 @@
   "source": "https://i.imgur.com/hZOF0SN.png",
   "md5": "BEA1CDA28C03064A2A714E6BE0F6DE01",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "costume",
+    "clothing",
+    "evil",
+    "man",
+    "steel",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "sweet",
+    "heart",
+    "rami",
+    "fon",
+    "verg",
+    "vampire",
+    "desire",
+    "nun",
+    "steve",
+    "zheng",
+    "personal",
+    "work",
+    "kyung",
+    "han",
+    "kim"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -57,
     "offset_y": -1,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -31,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -2,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

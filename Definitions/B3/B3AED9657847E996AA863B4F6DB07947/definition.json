@@ -2,25 +2,56 @@
   "source": "https://i.redd.it/9n6ah8516ea41.jpg",
   "md5": "B3AED9657847E996AA863B4F6DB07947",
   "tags": [
-    ""
+    "",
+    "half",
+    "dragon",
+    "girl",
+    "dragons",
+    "women",
+    "human",
+    "face",
+    "hobbit",
+    "lord",
+    "rings",
+    "dungeons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "hera",
+    "dongming",
+    "yang",
+    "https://www",
+    "age",
+    "heroes_sevitz",
+    "weichi",
+    "chen",
+    "sacrifice",
+    "xin",
+    "shen"
   ],
   "small": {
     "scale": 1,
     "offset_x": -403.3333333333335,
     "offset_y": -313.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -297.99999999999994,
     "offset_y": -301.33333333333326,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -84,
     "offset_y": -178.66666666666646,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -4,27 +4,65 @@
   "tags": [
     "Human",
     "Male",
-    "Swashbuckler"
+    "Swashbuckler",
+    "pirate",
+    "girl",
+    "concept",
+    "male",
+    "sci-fi",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "black",
+    "death",
+    "starting",
+    "level",
+    "character",
+    "design",
+    "tom",
+    "furmston",
+    "monkey",
+    "king",
+    "pt",
+    "tacit",
+    "sign",
+    "studio",
+    "dungeons",
+    "dragons",
+    "m_3",
+    "pavel",
+    "proskurin",
+    "https://www.artstation.com/artwork/q95de",
+    "post"
   ],
   "small": {
     "scale": 1,
     "offset_x": -365,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -292,
     "offset_y": -76,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7199999999999998,
     "offset_x": -10,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

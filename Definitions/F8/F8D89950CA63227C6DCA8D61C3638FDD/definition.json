@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/9c/a9/2b/9ca92bc3d560bfc2657ce25dcfd1c6cc.jpg",
   "md5": "F8D89950CA63227C6DCA8D61C3638FDD",
   "tags": [
-    ""
+    "",
+    "anime",
+    "scythe",
+    "boy",
+    "reaper",
+    "weapon",
+    "girl",
+    "dru.",
+    "ilya",
+    "bodaykin",
+    "druid",
+    "characters",
+    "research",
+    "ming",
+    "xiao",
+    "artstation.",
+    "character",
+    "witch",
+    "personal",
+    "work",
+    "thaumazo",
+    "\uC774\uC2B9\uC724",
+    "_"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -294,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -176,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -34,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

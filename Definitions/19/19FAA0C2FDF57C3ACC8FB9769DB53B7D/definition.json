@@ -24,8 +24,8 @@
     "https://www.artstation.com/artwork/ek8yx",
     "robin",
     "hood",
-    "\"book",
-    "cover\"",
+    "\u0022book",
+    "cover\u0022",
     "davood",
     "diba",
     "2021",
@@ -34,7 +34,23 @@
     "haldan",
     "alexander",
     "kozachenko",
-    "https://www.artstation.com/artwork/wa8zy"
+    "https://www.artstation.com/artwork/wa8zy",
+    "kitsune",
+    "characters",
+    "human",
+    "form",
+    "rogue",
+    "orcs",
+    "kitsune-alchemist",
+    "qhicii",
+    "ogremon",
+    "morgan",
+    "howell",
+    "blizzard",
+    "fan",
+    "natalia",
+    "romero",
+    "n\u00FA\u00F1ez"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -58,6 +74,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

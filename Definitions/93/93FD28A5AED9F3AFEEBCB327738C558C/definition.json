@@ -2,27 +2,39 @@
   "source": "https://i.pinimg.com/originals/c5/96/29/c5962908e01899d066d48c48d58cea73.jpg",
   "md5": "93FD28A5AED9F3AFEEBCB327738C558C",
   "tags": [
-    ""
+    "",
+    "kristofer",
+    "hivju",
+    "witcher",
+    "tormund",
+    "game",
+    "thrones",
+    "red",
+    "hair",
+    "portraits"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -39.42857142857147,
     "offset_y": -5.1428571428570535,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -19.42857142857099,
     "offset_y": -1.7142857142857224,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2000000000000002,
     "offset_x": -81.14285714285757,
     "offset_y": -5.714285714285779,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

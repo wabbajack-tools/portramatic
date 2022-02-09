@@ -2,27 +2,40 @@
   "source": "https://i.pinimg.com/564x/f6/67/91/f6679106d250923a58932729deb0cf12.jpg",
   "md5": "EB704E0A78A08962447831AAC9F81415",
   "tags": [
-    ""
+    "",
+    "shredder",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "fisher",
+    "daniele",
+    "solimene",
+    "https://www.artstation.com/artwork/qdm1z",
+    "\u0444\u044D\u043D\u0442\u0435\u0437\u0438"
   ],
   "small": {
     "scale": 1.3700000000000003,
     "offset_x": -256,
     "offset_y": -60,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3900000000000003,
     "offset_x": -185,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -68,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

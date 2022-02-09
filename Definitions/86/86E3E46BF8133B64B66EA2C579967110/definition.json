@@ -1,5 +1,5 @@
 {
-  "source": "https://images.squarespace-cdn.com/content/v1/56ba8ce41d07c00ab0623a65/1558663481118-WCRPSGSAPAUBVATPOSNG/Photo+Oct+07%2C+12+47+39+PM.jpg?format=1500w",
+  "source": "https://images.squarespace-cdn.com/content/v1/56ba8ce41d07c00ab0623a65/1558663481118-WCRPSGSAPAUBVATPOSNG/Photo\u002BOct\u002B07%2C\u002B12\u002B47\u002B39\u002BPM.jpg?format=1500w",
   "md5": "86E3E46BF8133B64B66EA2C579967110",
   "tags": [
     ""
@@ -26,6 +26,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

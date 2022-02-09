@@ -2,7 +2,17 @@
   "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_kuroe.png",
   "md5": "4F12C149E914F212F857F11D9B7A55AC",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "guys",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1.9403333333333341,
@@ -26,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

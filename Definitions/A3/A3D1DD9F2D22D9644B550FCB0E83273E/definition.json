@@ -21,7 +21,7 @@
     "woman",
     "sinjin",
     "treharne",
-    "assassin's",
+    "assassin\u0027s",
     "creed",
     "odyssey",
     "immortal",
@@ -49,6 +49,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

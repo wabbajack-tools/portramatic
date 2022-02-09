@@ -2,25 +2,51 @@
   "source": "https://javasea.ru/uploads/posts/2018-08/1534339374_art-fentezi-dragon-age-morrigan.jpeg",
   "md5": "B35836FA7E08AEE518E6CC469E107756",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "morrigan",
+    "outfit",
+    "3d",
+    "inquisition",
+    "memes",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "a2",
+    "haowen",
+    "yang",
+    "2020",
+    "dark",
+    "nv",
+    "ling",
+    "lin",
+    "beautiful"
   ],
   "small": {
     "scale": 0.25999999999999934,
     "offset_x": -19,
     "offset_y": -18,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -13,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -54,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

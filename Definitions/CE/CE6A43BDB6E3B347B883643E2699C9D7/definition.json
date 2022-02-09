@@ -1,30 +1,55 @@
 {
-  "source": "https://pbs.twimg.com/media/D-zbiXNXkAA3cQz?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/D-zbiXNXkAA3cQz?format=jpg\u0026name=medium",
   "md5": "CE6A43BDB6E3B347B883643E2699C9D7",
   "tags": [
     "female",
     "magic",
-    "archer"
+    "archer",
+    "kingmaker",
+    "black",
+    "portraits",
+    "wizard",
+    "fighter",
+    "kratos",
+    "dragon",
+    "armor",
+    "\u53C1\u62FE\u9646\u8BA1\u2171",
+    "\u5ED6\u5316",
+    "j.",
+    "jin",
+    "freyja",
+    "max",
+    "berthelot",
+    "character",
+    "style",
+    "reference",
+    "evil",
+    "raji",
+    "manish",
+    "d3mon"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -268,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -149,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -12,7 +12,18 @@
     "lee",
     "jung-myung",
     "petri",
-    "rahkola"
+    "rahkola",
+    "blue",
+    "fairy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "\u94F6\u7070",
+    "pmeq",
+    "sy",
+    "lin"
   ],
   "small": {
     "scale": 0.8499999999999999,
@@ -36,6 +47,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

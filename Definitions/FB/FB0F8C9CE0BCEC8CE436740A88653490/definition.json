@@ -4,7 +4,15 @@
   "tags": [
     "male",
     "anime",
-    "swordsman"
+    "swordsman",
+    "pirate",
+    "swashbuckler",
+    "artwork",
+    "cool",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 0.96,
@@ -28,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,34 @@
   "source": "https://webcdn.hirezstudios.com/smite/god-skins/morgan_le_fay_dark-enchantress.jpg",
   "md5": "0E0A36E13F0661FD2DB0279A739A61DF",
   "tags": [
-    ""
+    "",
+    "violet",
+    "flames",
+    "cyan",
+    "orange"
   ],
   "small": {
     "scale": 1.5400000000000005,
     "offset_x": -499,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.94,
     "offset_x": -214,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -78,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

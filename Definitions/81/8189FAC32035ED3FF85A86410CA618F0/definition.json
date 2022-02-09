@@ -5,27 +5,50 @@
     "elf",
     "female",
     "warrior",
-    "rogue"
+    "rogue",
+    "assassin",
+    "armor",
+    "concept",
+    "character",
+    "samurai",
+    "dragon",
+    "knight",
+    "tachibana",
+    "akira",
+    "shadowfang",
+    "ted",
+    "chow",
+    "dark",
+    "marco",
+    "taffelli",
+    "with",
+    "ninja",
+    "girl",
+    "jingyu",
+    "li"
   ],
   "small": {
     "scale": 0.5999999999999996,
     "offset_x": -438,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -156,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -170,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

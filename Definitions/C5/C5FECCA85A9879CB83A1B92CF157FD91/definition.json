@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/originals/2c/d2/b6/2cd2b6f8aed88f9214593449a7e9ebe5.jpg",
   "md5": "C5FECCA85A9879CB83A1B92CF157FD91",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "designs",
+    "man",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.35999999999999943,
@@ -26,6 +35,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

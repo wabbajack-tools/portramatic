@@ -7,7 +7,15 @@
     "witcher",
     "warrior",
     "fighter",
-    "male"
+    "male",
+    "geralt",
+    "rivia",
+    "hair",
+    "efreet",
+    "fanart",
+    "ricardo",
+    "rivera",
+    "artwork"
   ],
   "small": {
     "scale": 0.7099999999999997,
@@ -31,6 +39,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

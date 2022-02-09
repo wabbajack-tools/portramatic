@@ -2,27 +2,53 @@
   "source": "https://i.redd.it/k1eggzywgu111.png",
   "md5": "BFF4CD49E5057972BF5CB5063D5ACC8D",
   "tags": [
-    ""
+    "",
+    "raymon",
+    "fist",
+    "model",
+    "ramon",
+    "fernandez",
+    "basketball",
+    "league",
+    "legends",
+    "illidari",
+    "felblade",
+    "angelica",
+    "alieva",
+    "hearthstone",
+    "artwork",
+    "warcraft",
+    "world",
+    "nightelf",
+    "sonya",
+    "\u0022amionna\u0022",
+    "kayuda",
+    "druid",
+    "from",
+    "dzikawa"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -208,
     "offset_y": -10,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -145,
     "offset_y": -22,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -272,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

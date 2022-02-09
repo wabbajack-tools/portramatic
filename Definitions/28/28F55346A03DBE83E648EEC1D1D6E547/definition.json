@@ -2,7 +2,30 @@
   "source": "https://images.uesp.net/1/18/LG-cardart-Forsworn_Guide.png",
   "md5": "28F55346A03DBE83E648EEC1D1D6E547",
   "tags": [
-    ""
+    "",
+    "elder",
+    "scrolls",
+    "lore",
+    "characters",
+    "skyrim",
+    "gods",
+    "dungeons",
+    "dragons",
+    "bloodtalon",
+    "aerial",
+    "assault",
+    "leader",
+    "riccardo",
+    "moscatello",
+    "companion",
+    "michelle",
+    "ran",
+    "https://www.artstation.com/artwork/a2dlw",
+    "character",
+    "revenge",
+    "warrior",
+    "changming",
+    "xu"
   ],
   "small": {
     "scale": 1.3800000000000003,
@@ -20,12 +43,12 @@
   },
   "full": {
     "scale": 2.3099999999999943,
-    "offset_x": 2.2737367544323206e-13,
+    "offset_x": 2.2737367544323206E-13,
     "offset_y": -25.629629629629676,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

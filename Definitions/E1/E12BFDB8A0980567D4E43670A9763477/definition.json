@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/45/fb/9d/45fb9d0d9ee9aef7865593914859fed2.jpg",
   "md5": "E12BFDB8A0980567D4E43670A9763477",
   "tags": [
-    ""
+    "",
+    "halfling",
+    "rogue",
+    "concept",
+    "thief",
+    "dynasty",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "loose",
+    "character",
+    "sketches",
+    "teodora",
+    "petkova",
+    "portraits",
+    "\u5F13\u7BAD\u624B",
+    "san",
+    "sui",
+    "critical",
+    "core",
+    "grant",
+    "griffin",
+    "https://www.artstation.com/artwork/z5oadr"
   ],
   "small": {
     "scale": 1.7000000000000006,
     "offset_x": -380,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5700000000000005,
     "offset_x": -282,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8400000000000007,
     "offset_x": -184,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

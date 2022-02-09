@@ -4,27 +4,62 @@
   "tags": [
     "nun",
     "tyler",
-    "law"
+    "law",
+    "celtic",
+    "women",
+    "warriors",
+    "beautiful",
+    "warrior",
+    "woman",
+    "wonder",
+    "dark",
+    "elf",
+    "night",
+    "anime",
+    "girl",
+    "knight",
+    "souls",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shooter",
+    "hopeless",
+    "belov",
+    "pavel",
+    "ancient",
+    "armor",
+    "pirate",
+    "marta",
+    "zoewings",
+    "zhang",
+    "\u5DF4\u5C14",
+    "nan",
+    "xiang"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -361,
     "offset_y": -79,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7299999999999998,
     "offset_x": -283,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -408,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

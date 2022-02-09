@@ -9,27 +9,36 @@
     "barbarian",
     "tusk",
     "sword",
-    "human"
+    "human",
+    "instinct",
+    "gold",
+    "movie",
+    "\u543B",
+    "tian",
+    "dm"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -297,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6399999999999997,
     "offset_x": -208,
     "offset_y": -59,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.96,
     "offset_x": -184,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

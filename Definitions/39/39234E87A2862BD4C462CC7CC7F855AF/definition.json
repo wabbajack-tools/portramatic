@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/qmxvte5vihg41.jpg?width=640&crop=smart&auto=webp&s=175ca45c89997588911adb2741457469673b5dff",
+  "source": "https://preview.redd.it/qmxvte5vihg41.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=175ca45c89997588911adb2741457469673b5dff",
   "md5": "39234E87A2862BD4C462CC7CC7F855AF",
   "tags": [
     ""
@@ -26,6 +26,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

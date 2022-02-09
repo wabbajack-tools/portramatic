@@ -2,27 +2,55 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/011/578/083/large/rudy-siswanto-frostheart-lyvaanth-color-med.jpg?1530289405",
   "md5": "A9877036DECA025C6FE4BA1AAC1213A0",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "knight",
+    "concept",
+    "king",
+    "forest",
+    "castlevania",
+    "lords",
+    "shadow",
+    "daretti",
+    "ingenious",
+    "iconoclast",
+    "victor",
+    "adame",
+    "metal",
+    "heads",
+    "cain",
+    "\u0026",
+    "aven",
+    "jarold",
+    "sng",
+    "gow2",
+    "lambent",
+    "brumak",
+    "james",
+    "hawkins"
   ],
   "small": {
     "scale": 0.4499999999999995,
     "offset_x": -167.33333333333334,
     "offset_y": -182.00000000000009,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4399999999999995,
     "offset_x": -84.66666666666669,
     "offset_y": -68.66666666666671,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5999999999999996,
     "offset_x": -62.6666666666672,
     "offset_y": -69.33333333333371,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

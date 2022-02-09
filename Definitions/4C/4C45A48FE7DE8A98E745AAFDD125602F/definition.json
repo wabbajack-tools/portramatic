@@ -4,27 +4,53 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "white",
+    "dwarf",
+    "smith",
+    "actionfigures",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "athletic_shoes_or_sneakers",
+    "thief",
+    "micha\u0142",
+    "grabowski",
+    "batman",
+    "chevron",
+    "lowery",
+    "techwear",
+    "yeonju",
+    "kim"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -240,
     "offset_y": -97,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -125,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -34,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,25 +7,67 @@
     "person",
     "human",
     "people",
-    ""
+    "",
+    "concepts",
+    "harmony",
+    "duos-1",
+    "warrior",
+    "king",
+    "concept",
+    "films",
+    "dark",
+    "elf",
+    "female",
+    "assassin",
+    "high",
+    "wood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "queen",
+    "vanessa",
+    "\u0026",
+    "some",
+    "sketch",
+    "terry",
+    "wei",
+    "gravestone",
+    "oxana",
+    "che",
+    "warcraft",
+    "world",
+    "oni",
+    "victoria",
+    "yurkovets",
+    "https://www"
   ],
   "small": {
     "scale": 0.5099999999999996,
     "offset_x": -163,
     "offset_y": -40,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -138,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -136,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

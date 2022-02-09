@@ -2,27 +2,32 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94ab4f39-abaa-4df2-be08-05ed23e4e0ed/dav8by0-8f81dd86-712c-4603-b0f7-20dc1437c876.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk0YWI0ZjM5LWFiYWEtNGRmMi1iZTA4LTA1ZWQyM2U0ZTBlZFwvZGF2OGJ5MC04ZjgxZGQ4Ni03MTJjLTQ2MDMtYjBmNy0yMGRjMTQzN2M4NzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tdSCCecjaOB_nTcRITWV8WgB-BbfpUL0qvjapttKtvI",
   "md5": "49514458D4A5B25EA492765E3028FF2A",
   "tags": [
-    ""
+    "",
+    "nick",
+    "offerman"
   ],
   "small": {
     "scale": 0.8799999999999999,
     "offset_x": -289,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -126,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -90,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

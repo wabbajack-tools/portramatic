@@ -5,7 +5,12 @@
     "janna",
     "league",
     "legends",
-    "wind"
+    "wind",
+    "arrow",
+    "tile",
+    "arrows",
+    "f1",
+    "spinner"
   ],
   "small": {
     "scale": 1.600000000000001,
@@ -29,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

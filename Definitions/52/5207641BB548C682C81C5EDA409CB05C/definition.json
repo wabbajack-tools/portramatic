@@ -22,7 +22,14 @@
     "kyaw",
     "pixel",
     "brush",
-    "artstudio"
+    "artstudio",
+    "female",
+    "druid",
+    "character",
+    "concept",
+    "noble",
+    "vampire",
+    "masquerade"
   ],
   "small": {
     "scale": 0.5199999999999996,
@@ -46,6 +53,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

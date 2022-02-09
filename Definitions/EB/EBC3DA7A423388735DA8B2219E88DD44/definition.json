@@ -2,27 +2,48 @@
   "source": "https://cdn.discordapp.com/attachments/228773914489257985/931746445726453790/sample_d2aa25507aa846238429fdfa73278bfd.png",
   "md5": "EBC3DA7A423388735DA8B2219E88DD44",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "under_wear",
+    "bra",
+    "accessories",
+    "gloves",
+    "black",
+    "rose",
+    "a.k.a",
+    "scarlet",
+    "almighty",
+    "azmee"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -224,
     "offset_y": -49,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -224,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -64,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

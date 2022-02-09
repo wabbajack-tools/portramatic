@@ -10,27 +10,63 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "dark",
+    "creeper",
+    "female",
+    "elf",
+    "shadow",
+    "knight",
+    "armor",
+    "assassin",
+    "heavy",
+    "suit",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "bloodborne",
+    "ii",
+    "yohanna",
+    "silencer",
+    "cal",
+    "santiago",
+    "\u5218\u8D85\u6D0B-\u6BD5\u4E1A\u4F5C\u54C1student",
+    "work",
+    "\u5165\u7279\u6570\u7801",
+    "\u89D2\u8272\u57F9\u8BAD",
+    "srisuwan",
+    "worasak",
+    "suwannarach",
+    "http://www.artstation.com/artwork/srisuwan"
   ],
   "small": {
     "scale": 1.8600000000000008,
     "offset_x": -493.33333333333235,
     "offset_y": -33.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -257.6666666666667,
     "offset_y": -11.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2799999999999978,
     "offset_x": -22.000000000000455,
     "offset_y": -2.6666666666664014,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

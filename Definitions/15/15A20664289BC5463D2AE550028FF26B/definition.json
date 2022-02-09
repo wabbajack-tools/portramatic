@@ -22,7 +22,29 @@
     "demon",
     "slayer",
     "hitokiri",
-    "nguyen"
+    "nguyen",
+    "fairy",
+    "gothic",
+    "adult",
+    "goth",
+    "dark",
+    "costume",
+    "marvel",
+    "comics",
+    "bleach",
+    "dc",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "talon",
+    "blade\u0027s",
+    "shadow",
+    "cc",
+    "cida"
   ],
   "small": {
     "scale": 1.2500000000000002,
@@ -46,6 +68,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,67 @@
   "source": "https://i.pinimg.com/564x/f1/14/0e/f1140e59e632300453df27ba806c7e78.jpg",
   "md5": "243BCD5A8F2390734D1DDD23676071AB",
   "tags": [
-    ""
+    "",
+    "sorcerer",
+    "concept",
+    "wizard",
+    "staff",
+    "female",
+    "elf",
+    "character",
+    "knight",
+    "armor",
+    "dark",
+    "death",
+    "assassin",
+    "black",
+    "night",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "ether",
+    "blackfeather",
+    "dai",
+    "nguyen",
+    "d\u0026d",
+    "shadow",
+    "luca",
+    "mosqa",
+    "2021",
+    "design",
+    "inspiration",
+    "rah\u0027vyena",
+    "stephanie",
+    "brown",
+    "sorceress",
+    "witch",
+    "characters",
+    "portraits"
   ],
   "small": {
     "scale": 2.139999999999998,
     "offset_x": -536,
     "offset_y": -216,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4900000000000004,
     "offset_x": -249,
     "offset_y": -129,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -6,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

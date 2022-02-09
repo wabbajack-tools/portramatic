@@ -24,27 +24,37 @@
     "varian",
     "wrynn",
     "farhad",
-    "nojumi"
+    "nojumi",
+    "wow",
+    "paladin",
+    "knight",
+    "cyborg",
+    "samurai",
+    "jiunn",
+    "kuo"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -468,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -329,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1400000000000001,
     "offset_x": -634,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

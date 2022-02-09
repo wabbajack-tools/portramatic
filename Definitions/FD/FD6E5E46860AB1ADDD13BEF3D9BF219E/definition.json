@@ -2,27 +2,38 @@
   "source": "https://64.media.tumblr.com/c24a1420193454d8034e671bf7d8d83e/tumblr_pm3rr7pP501qk1m72o1_1280.png",
   "md5": "FD6E5E46860AB1ADDD13BEF3D9BF219E",
   "tags": [
-    ""
+    "",
+    "obscurity",
+    "jordan",
+    "knight",
+    "painty",
+    "stuffs",
+    "serge",
+    "birault",
+    "artwork"
   ],
   "small": {
     "scale": 1.3900000000000003,
     "offset_x": -435,
     "offset_y": -296,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -103,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.06,
     "offset_x": -42,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

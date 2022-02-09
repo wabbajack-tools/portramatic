@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/originals/aa/0f/be/aa0fbe2b5f8dfdc7327e5bcf65a3e673.png",
   "md5": "EEC1AA05BA08FF2E5F5F33830B6E457E",
   "tags": [
-    "Cleric of Thor"
+    "Cleric of Thor",
+    "rogue",
+    "character",
+    "rpg",
+    "assassin",
+    "concept",
+    "female",
+    "heavy",
+    "armor",
+    "samurai",
+    "medieval",
+    "knights",
+    "lord",
+    "rings",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "dead",
+    "knight",
+    "alexander",
+    "shatohin",
+    "https://www.artstation.com/artwork/x5ydm",
+    "spy",
+    "inna",
+    "kozak",
+    "rogues",
+    "artwork",
+    "characters"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -405.33333333333314,
     "offset_y": -118.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -210.66666666666674,
     "offset_y": -80.66666666666657,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

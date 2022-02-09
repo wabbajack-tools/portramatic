@@ -2,27 +2,54 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae87168b-d6c4-44ee-8ddc-39f84a8e771e/dcx4xhm-b8394266-c817-4a47-9129-583d09ace826.jpg/v1/fill/w_1024,h_1553,q_75,strp/snowgirl_by_baklaher_dcx4xhm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU1MyIsInBhdGgiOiJcL2ZcL2FlODcxNjhiLWQ2YzQtNDRlZS04ZGRjLTM5Zjg0YThlNzcxZVwvZGN4NHhobS1iODM5NDI2Ni1jODE3LTRhNDctOTEyOS01ODNkMDlhY2U4MjYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dBW7uGeUA9_nC6vTQB5NIeuWQOy85oA7eakCM7a7Fqc",
   "md5": "9D86F86B1F7DEE536D9C1CA3B663CEC1",
   "tags": [
-    ""
+    "",
+    "samurai",
+    "dragonborn",
+    "character",
+    "lord",
+    "rings",
+    "hobbit",
+    "medieval",
+    "knights",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "northern",
+    "undead",
+    "klaher",
+    "baklaher",
+    "2020",
+    "glass",
+    "cannon",
+    "crew",
+    "graey",
+    "erb",
+    "scifi"
   ],
   "small": {
     "scale": 1.12,
     "offset_x": -511,
     "offset_y": -119,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -310,
     "offset_y": -64,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7099999999999997,
     "offset_x": -12,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -6,25 +6,33 @@
     "art",
     "mural",
     "dark",
-    "monk"
+    "monk",
+    "dishonored",
+    "fan",
+    "corvo"
   ],
   "small": {
     "scale": 0.2099999999999993,
     "offset_x": -1.5999999999823729,
     "offset_y": -8.799999999998647,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -2.400000000010266,
     "offset_y": -4.799999999999869,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8299999999999998,
     "offset_x": -11.212962962963275,
     "offset_y": -24.027777777778056,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

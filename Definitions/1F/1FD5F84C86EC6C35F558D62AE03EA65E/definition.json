@@ -2,7 +2,12 @@
   "source": "https://i.pinimg.com/236x/7c/c5/d3/7cc5d3ddb3b638881cfc68b0ce01afde.jpg",
   "md5": "1FD5F84C86EC6C35F558D62AE03EA65E",
   "tags": [
-    ""
+    "",
+    "female",
+    "vampire",
+    "drawings",
+    "victorian",
+    "ancient"
   ],
   "small": {
     "scale": 1.1400000000000001,
@@ -21,11 +26,11 @@
   "full": {
     "scale": 2.96999999999998,
     "offset_x": -8.009259259258897,
-    "offset_y": 4.547473508864641e-13,
+    "offset_y": 4.547473508864641E-13,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

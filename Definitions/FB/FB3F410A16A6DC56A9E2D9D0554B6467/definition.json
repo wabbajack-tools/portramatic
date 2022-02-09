@@ -4,27 +4,53 @@
   "tags": [
     "rachel",
     "denton",
-    "umbra"
+    "umbra",
+    "aasimar",
+    "pictures",
+    "names",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "casual_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "ambrosia",
+    "tundra",
+    "rudin",
+    "dracula",
+    "castlevania",
+    "sotn",
+    "fanart",
+    "retrogasm",
+    "bat",
+    "hyungseok",
+    "yang",
+    "https://www"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -137.60000000000005,
     "offset_y": -23.199999999999932,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.27999999999999936,
     "offset_x": -19.200000000000102,
     "offset_y": -18.40000000000009,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5699999999999996,
     "offset_x": -25.629629629629335,
     "offset_y": -3.2037037037035816,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

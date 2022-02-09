@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/a1/11/3c/a1113c19b785a2733cc87f217d486d90.jpg",
   "md5": "0C5CFDACB295C991E42CE375CF04F569",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "true",
+    "damage",
+    "senna",
+    "skin",
+    "world",
+    "warcraft",
+    "rogue",
+    "combine",
+    "guildmage",
+    "yeong",
+    "hao",
+    "han",
+    "bakasura",
+    "artur",
+    "treffner",
+    "fine",
+    "artwork",
+    "broll",
+    "bearmantle",
+    "mark",
+    "abadier"
   ],
   "small": {
     "scale": 1.9200000000000008,
     "offset_x": -478,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2700000000000002,
     "offset_x": -163,
     "offset_y": -29,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9000000000000008,
     "offset_x": -32,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -47,7 +47,17 @@
     "xu",
     "2020",
     "evil",
-    "anime"
+    "anime",
+    "gwent",
+    "card",
+    "game",
+    "geralt",
+    "ciri",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -71,6 +81,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

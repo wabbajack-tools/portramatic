@@ -2,27 +2,48 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7fc3a4a1-deb3-40c3-a9a8-a1b7f5051834/d5br69r-d934ec69-427e-4b3c-ae7b-6c94de76e176.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmYzNhNGExLWRlYjMtNDBjMy1hOWE4LWExYjdmNTA1MTgzNFwvZDVicjY5ci1kOTM0ZWM2OS00MjdlLTRiM2MtYWU3Yi02Yzk0ZGU3NmUxNzYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4kSOSVU6ZhMxpLSDJ1VWAncQGi755EVV0zYdq_KbjFI",
   "md5": "96037C2F40DFB2621218295417E783C9",
   "tags": [
-    ""
+    "",
+    "blood",
+    "elf",
+    "fan",
+    "priest",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "foxy",
+    "sketch",
+    "artworks",
+    "tokyo",
+    "ghoul",
+    "rize",
+    "arubin",
+    "chia"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -123.99999999999841,
     "offset_y": -31.99999999999997,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7399999999999998,
     "offset_x": -51.333333333333314,
     "offset_y": -25.99999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -46.66666666666674,
     "offset_y": -44.00000000000051,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

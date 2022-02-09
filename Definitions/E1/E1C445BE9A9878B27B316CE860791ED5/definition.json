@@ -9,27 +9,47 @@
     "cabbia",
     "sciamano240",
     "explore",
-    "ladymaria"
+    "ladymaria",
+    "concept",
+    "cute",
+    "outfit",
+    "fate",
+    "stay",
+    "night",
+    "\u5173\u7FBD",
+    "tang",
+    "22",
+    "warriors",
+    "illustration",
+    "character",
+    "chinese",
+    "warrior",
+    "\u7834",
+    "xue",
+    "cheng"
   ],
   "small": {
     "scale": 0.3099999999999994,
     "offset_x": -25.666666666663673,
     "offset_y": 0.33333333331844983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -156.99999999999983,
     "offset_y": -17.66666666667456,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -347.00000000000034,
     "offset_y": -24.66666666666697,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

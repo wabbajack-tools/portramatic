@@ -2,25 +2,38 @@
   "source": "https://i.pinimg.com/564x/28/09/08/2809086fb0095b63f7a3dd2d053be30e.jpg",
   "md5": "B87068BBCCE2D8A160E864AB0D3F8DDD",
   "tags": [
-    ""
+    "",
+    "empire",
+    "chaos",
+    "danhu",
+    "moon",
+    "dota",
+    "knight",
+    "andrea",
+    "orioli"
   ],
   "small": {
     "scale": 2.219999999999996,
     "offset_x": -435,
     "offset_y": -321,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -165,
     "offset_y": -122,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5500000000000005,
     "offset_x": -46,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

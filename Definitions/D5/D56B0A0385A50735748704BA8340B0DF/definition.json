@@ -14,7 +14,7 @@
     "female",
     "assassin",
     "black",
-    "assassin's",
+    "assassin\u0027s",
     "anime",
     "guys",
     "cheolseung",
@@ -27,7 +27,22 @@
     "faith",
     "knight",
     "sergio",
-    "roman"
+    "roman",
+    "tiefling",
+    "hair",
+    "sketch",
+    "self",
+    "rina",
+    "rinara",
+    "huntress",
+    "grayscale",
+    "study",
+    "bea",
+    "navarro",
+    "portraits",
+    "rudi",
+    "indra",
+    "a"
   ],
   "small": {
     "scale": 0.4199999999999995,
@@ -51,6 +66,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

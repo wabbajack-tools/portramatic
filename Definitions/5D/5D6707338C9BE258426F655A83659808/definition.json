@@ -2,27 +2,40 @@
   "source": "http://games.northhaledongaming.com/DnD/SiteAssets/In%20Search%20of%20Adventure/Succubus/succubus2.jpg",
   "md5": "5D6707338C9BE258426F655A83659808",
   "tags": [
-    ""
+    "",
+    "succubi",
+    "dragon",
+    "succubus",
+    "list",
+    "feeds",
+    "love",
+    "bayushi",
+    "kachiko",
+    "wisnu",
+    "tan"
   ],
   "small": {
     "scale": 2.0599999999999987,
     "offset_x": -490,
     "offset_y": -325,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -250,
     "offset_y": -154,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8200000000000007,
     "offset_x": -354,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

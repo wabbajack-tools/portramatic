@@ -25,7 +25,22 @@
     "crews",
     "character",
     "jayden",
-    "arslan"
+    "arslan",
+    "legend",
+    "cryptids",
+    "characters",
+    "cards",
+    "fairies",
+    "greek",
+    "goddess",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.5000000000000004,
@@ -49,6 +64,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

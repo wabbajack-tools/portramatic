@@ -22,27 +22,55 @@
     "michael",
     "bridge",
     "https://www.artstation.com/artwork/6pzqx",
-    "2020"
+    "2020",
+    "guardian",
+    "angel",
+    "jophiel",
+    "sigil",
+    "prayer",
+    "league",
+    "angels",
+    "archangel",
+    "raphael",
+    "st.",
+    "anime",
+    "seraphim",
+    "fallen",
+    "\u9F99\u9A91",
+    "3q",
+    "studio",
+    "warrior",
+    "character",
+    "design",
+    "sunrise",
+    "martina",
+    "fa\u010Dkov\u00E1",
+    "fanart",
+    "jay",
+    "jiwoopark"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -331,
     "offset_y": -90,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -152,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -348,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

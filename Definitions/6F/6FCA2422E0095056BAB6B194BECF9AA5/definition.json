@@ -9,7 +9,28 @@
     "demon",
     "nightmare",
     "female",
-    "demons"
+    "demons",
+    "character",
+    "sorceress",
+    "dragonborn",
+    "sorcerer",
+    "assassin",
+    "miss",
+    "fortune",
+    "yupachu",
+    "arts",
+    "lol",
+    "league",
+    "legends",
+    "young",
+    "knight",
+    "jrobin",
+    "kim",
+    "https://www.artstation.com/artwork/964pn",
+    "katya",
+    "cyan",
+    "warrior",
+    "inspiration"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -27,12 +48,12 @@
   },
   "full": {
     "scale": 2.699999999999988,
-    "offset_x": -4.547473508864641e-13,
+    "offset_x": -4.547473508864641E-13,
     "offset_y": -10.000000000000227,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

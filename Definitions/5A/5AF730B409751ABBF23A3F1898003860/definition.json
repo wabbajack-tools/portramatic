@@ -1,5 +1,5 @@
 {
-  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/DD-Bard.jpeg?q=50&fit=crop&w=1400&dpr=1.5",
+  "source": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/DD-Bard.jpeg?q=50\u0026fit=crop\u0026w=1400\u0026dpr=1.5",
   "md5": "5AF730B409751ABBF23A3F1898003860",
   "tags": [
     "",
@@ -13,7 +13,7 @@
     "fashion_cosmetics_or_accessories",
     "shoes",
     "boots",
-    "aeg's",
+    "aeg\u0027s",
     "guildhall",
     "gunship",
     "revolution",
@@ -28,7 +28,16 @@
     "crew",
     "graey",
     "erb",
-    "krijger"
+    "krijger",
+    "male",
+    "pirate",
+    "captain",
+    "steampunk",
+    "famous",
+    "elves",
+    "conan",
+    "barbarian",
+    "wood"
   ],
   "small": {
     "scale": 0.7799999999999998,
@@ -52,6 +61,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

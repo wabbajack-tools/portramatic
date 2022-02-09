@@ -5,7 +5,21 @@
     "male",
     "hooded",
     "halfling",
-    "rogue"
+    "rogue",
+    "human",
+    "elf",
+    "dark",
+    "pilot",
+    "girl",
+    "mateusz",
+    "majewski",
+    "cyberpunk",
+    "ame",
+    "ina",
+    "wong",
+    "digital",
+    "artwork",
+    "character"
   ],
   "small": {
     "scale": 0.8599999999999999,
@@ -29,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

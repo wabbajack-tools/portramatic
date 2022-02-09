@@ -3,27 +3,53 @@
   "md5": "DAECF4F9DBCA606967229E5B544E3FB4",
   "tags": [
     "gold",
-    "paladin"
+    "paladin",
+    "dark",
+    "holy",
+    "human",
+    "kratos",
+    "witcher",
+    "skyrim",
+    "medieval",
+    "knights",
+    "zombie",
+    "token",
+    "vincent",
+    "proce",
+    "https://www.artstation.com/artwork/0ovg5",
+    "bubidoba",
+    "fred",
+    "alm\u00E9n",
+    "concept",
+    "characters",
+    "character",
+    "arabian",
+    "omar",
+    "samy",
+    "design"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -236.66666666666663,
     "offset_y": -100.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -114.66666666666674,
     "offset_y": -22.6666666666666,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -69.33333333333326,
     "offset_y": -9.333333333333258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

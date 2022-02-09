@@ -3,27 +3,41 @@
   "md5": "59F0238C4FC1A51B25BB8B98225E26C4",
   "tags": [
     "gold",
-    "dragon"
+    "dragon",
+    "cool",
+    "gallery",
+    "prints",
+    "african",
+    "animal",
+    "horned",
+    "owl",
+    "species",
+    "lion",
+    "lions",
+    "king"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -14.666666666666657,
     "offset_y": -27.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -6,
     "offset_y": -40.666666666666686,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

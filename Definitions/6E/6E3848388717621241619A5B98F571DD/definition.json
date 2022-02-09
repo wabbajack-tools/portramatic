@@ -2,27 +2,36 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/019/562/697/4k/miguel-iglesias-eisenhorn-cinematickeyframe2-2-artstation.jpg?1564045034",
   "md5": "6E3848388717621241619A5B98F571DD",
   "tags": [
-    ""
+    "",
+    "inquisitor",
+    "eisenhorn",
+    "40k",
+    "gregor",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.28999999999999937,
     "offset_x": -450.2857142857173,
-    "offset_y": 2.2737367544323206e-13,
-    "size": "small"
+    "offset_y": 2.2737367544323206E-13,
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3099999999999995,
     "offset_x": -419.42857142857133,
     "offset_y": -5.1428571428570535,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -919.9999999999998,
     "offset_y": -12.571428571428783,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

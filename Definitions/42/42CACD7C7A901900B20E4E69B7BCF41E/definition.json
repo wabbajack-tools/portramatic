@@ -22,7 +22,17 @@
     "exia",
     "xiaotong",
     "https://www.artstation.com/artwork/vgxe4",
-    "wow"
+    "wow",
+    "pillars",
+    "eternity",
+    "custom",
+    "portraits",
+    "female",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.8899999999999999,
@@ -46,6 +56,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,54 @@
   "source": "https://i.imgur.com/RTX7EiG.jpg",
   "md5": "DFEF1B4737229CECBD357A48C5CFC6FA",
   "tags": [
-    ""
+    "",
+    "death",
+    "knight",
+    "dark",
+    "elf",
+    "night",
+    "armor",
+    "blood",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "valkirie",
+    "dr.bono",
+    "peruru",
+    "kou",
+    "takano",
+    "auron",
+    "necromancer",
+    "reliah",
+    "a.",
+    "demon",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -519,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -152,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/736x/93/e5/91/93e591c7524bfcf29b3ddc7e528aa5ca--goblin-king-goblin-archer.jpg",
   "md5": "E7A20EE7DD221790D0F5B9B91C4A1FA4",
   "tags": [
-    ""
+    "",
+    "goblin",
+    "miniatures",
+    "ranger",
+    "hansel",
+    "gretel",
+    "brotherhood",
+    "steel",
+    "orcs",
+    "isengard",
+    "archer",
+    "tristan",
+    "denecke",
+    "forward",
+    "jacek",
+    "ogonowski",
+    "spy",
+    "https://www.artstation.com/p/zxgdz",
+    "inna",
+    "kozak",
+    "2d",
+    "artist",
+    "looking",
+    "for",
+    "freelance",
+    "innakozak4"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -230,
     "offset_y": -101,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -87,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -108,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

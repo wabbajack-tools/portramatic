@@ -32,11 +32,14 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "clothing",
+    "dress",
+    "formal_dress"
   ],
   "small": {
     "scale": 0.9099999999999999,
@@ -60,6 +63,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

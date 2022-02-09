@@ -1,5 +1,5 @@
 {
-  "source": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2018/02/15/griu7ktsn8iyauc1yqgo.png?auto=format&fit=fill&q=65&w=660",
+  "source": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2018/02/15/griu7ktsn8iyauc1yqgo.png?auto=format\u0026fit=fill\u0026q=65\u0026w=660",
   "md5": "45CE2F37540578D919D1325A1B132EF2",
   "tags": [
     "",
@@ -35,7 +35,9 @@
     "bangku",
     "an",
     "women",
-    "design"
+    "design",
+    "holy",
+    "paladin"
   ],
   "small": {
     "scale": 1.3500000000000003,
@@ -59,6 +61,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

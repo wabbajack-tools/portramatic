@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/564x/ee/66/09/ee6609302f0f12b059de86a4a910a7a5.jpg",
   "md5": "7D64CFE2A5AF190C3E23C5F162D227EF",
   "tags": [
-    ""
+    "",
+    "captain",
+    "america",
+    "from",
+    "avengers",
+    "costume",
+    "marvel",
+    "dark",
+    "guardians",
+    "galaxy",
+    "movie",
+    "man",
+    "steel",
+    "black",
+    "knight",
+    "iron",
+    "painting",
+    "jason",
+    "pastrana",
+    "sage",
+    "angy",
+    "p",
+    "cranial",
+    "aplha",
+    "neural",
+    "pods",
+    "paul",
+    "gerrard"
   ],
   "small": {
     "scale": 1,
     "offset_x": -204,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -98,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/6tqenyqt0c071.jpg?width=800&format=pjpg&auto=webp&s=810da9883aa86b0c60ec499ca466ca8d631ba3e3",
+  "source": "https://preview.redd.it/6tqenyqt0c071.jpg?width=800\u0026format=pjpg\u0026auto=webp\u0026s=810da9883aa86b0c60ec499ca466ca8d631ba3e3",
   "md5": "8017399ED19F79592C992C9DC2951334",
   "tags": [
     "dark",
@@ -10,7 +10,14 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "hot",
+    "toys",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +41,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

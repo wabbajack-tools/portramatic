@@ -2,27 +2,60 @@
   "source": "https://i.pinimg.com/originals/88/1b/ed/881bedd8b171a7bad18facd3eac97284.jpg",
   "md5": "BC104A51917CD8BE3E84F95D1D191AB2",
   "tags": [
-    ""
+    "",
+    "male",
+    "vampire",
+    "characters",
+    "hunter",
+    "concept",
+    "knight",
+    "armor",
+    "heavy",
+    "leather",
+    "female",
+    "pirate",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "black",
+    "panther",
+    "citidel",
+    "guard",
+    "concepts",
+    "keith",
+    "raid",
+    "shadow",
+    "legends",
+    "plarium",
+    "ukraine",
+    "general",
+    "kang",
+    "liu"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -312.5,
     "offset_y": -24.5,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8999999999999999,
     "offset_x": -155.5,
     "offset_y": -17,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6799999999999997,
     "offset_x": 114,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

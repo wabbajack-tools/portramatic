@@ -2,27 +2,33 @@
   "source": "https://1.bp.blogspot.com/-b9YepEqG-Sw/XpPZCOUrI-I/AAAAAAAAIOM/Vw3in94lkMYAkQd0UNPpxt8JSmpFgk5WQCLcBGAsYHQ/s1600/Part%2B2.jpg",
   "md5": "99B9BA61E95517A82AA9D015F817CE00",
   "tags": [
-    ""
+    "",
+    "yugio",
+    "yu-gi-oh",
+    "gx"
   ],
   "small": {
     "scale": 0.739999999999999,
     "offset_x": -172,
     "offset_y": -9.000000000000028,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -158,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3399999999999763,
     "offset_x": -484,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

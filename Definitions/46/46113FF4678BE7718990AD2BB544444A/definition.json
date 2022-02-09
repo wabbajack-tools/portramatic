@@ -2,27 +2,36 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/013/370/277/large/adrian-prado-guillimanfinal.jpg?1539274883",
   "md5": "46113FF4678BE7718990AD2BB544444A",
   "tags": [
-    ""
+    "",
+    "warhammer",
+    "40k",
+    "primarch",
+    "ultramarines",
+    "lost",
+    "primarchs"
   ],
   "small": {
     "scale": 0.2099999999999993,
     "offset_x": -90.28571428571422,
     "offset_y": -11.428571428571416,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999932,
     "offset_x": -39.99999999999994,
     "offset_y": -6.8571428571427475,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -122.2857142857149,
     "offset_y": -4.5714285714284415,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

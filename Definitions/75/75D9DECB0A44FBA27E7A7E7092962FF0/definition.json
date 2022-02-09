@@ -9,27 +9,45 @@
     "orc",
     "druid",
     "clash",
-    "titans"
+    "titans",
+    "character",
+    "female",
+    "mage",
+    "zombie",
+    "hunter",
+    "lvl",
+    "filipe",
+    "pagliuso",
+    "deer",
+    "peka",
+    "2020",
+    "rapier",
+    "christopher",
+    "gine",
+    "alejandro"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -148,
     "offset_y": -117,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -30,
     "offset_y": -103,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2900000000000003,
     "offset_x": -12,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,43 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/039/387/392/large/kim-sunhong-monodac003.jpg?1625752567",
   "md5": "E8100A90C368BCC22FAC68DD04025D69",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "costumes",
+    "halloween",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shoes",
+    "heels"
   ],
   "small": {
     "scale": 1,
     "offset_x": -888,
     "offset_y": -259,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -591,
     "offset_y": -170,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -124,
     "offset_y": -58,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

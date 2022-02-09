@@ -32,7 +32,13 @@
     "science",
     "fiction",
     "cyberpunk",
-    "artist"
+    "artist",
+    "one",
+    "punch",
+    "man",
+    "drawing",
+    "fan",
+    "name"
   ],
   "small": {
     "scale": 0.2999999999999994,
@@ -56,6 +62,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

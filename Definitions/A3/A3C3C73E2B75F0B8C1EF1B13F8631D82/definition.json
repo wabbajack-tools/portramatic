@@ -13,25 +13,53 @@
     "duel",
     "knight",
     "elf",
-    "Paladin"
+    "Paladin",
+    "diablo",
+    "necromancer",
+    "armor",
+    "iii",
+    "sniper",
+    "ghost",
+    "warrior",
+    "shell",
+    "heavy",
+    "death",
+    "korps",
+    "krieg",
+    "samurai",
+    "diablo3",
+    "crusader",
+    "carmicsart",
+    "pestilence",
+    "ferrari",
+    "jr.",
+    "llamzon",
+    "cobra-la",
+    "aron",
+    "elekes"
   ],
   "small": {
     "scale": 2.1999999999999966,
     "offset_x": -1176,
     "offset_y": -91,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -344,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3100000000000003,
     "offset_x": -509,
     "offset_y": -13,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

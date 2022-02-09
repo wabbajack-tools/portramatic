@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/36/db/fc/36dbfc7c474829764f3dbf734fe710a2.jpg",
   "md5": "1067D66E4D1DA91E807823B03B552058",
   "tags": [
-    ""
+    "",
+    "grim",
+    "reaper",
+    "character",
+    "armor",
+    "gothic",
+    "ramses",
+    "melendez",
+    "planescape",
+    "torment",
+    "fanart",
+    "alexey",
+    "stepanov",
+    "reveal",
+    "true",
+    "self",
+    "aidelank",
+    "yang"
   ],
   "small": {
     "scale": 1.7900000000000007,
     "offset_x": -359,
     "offset_y": -329,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3600000000000003,
     "offset_x": -150,
     "offset_y": -193,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

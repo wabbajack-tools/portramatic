@@ -17,9 +17,9 @@
     "samuel",
     "quell",
     "volibear",
-    "\"the",
+    "\u0022the",
     "relentless",
-    "storm\"",
+    "storm\u0022",
     "concept",
     "league",
     "legends",
@@ -28,7 +28,17 @@
     "em",
     "sicarius",
     "akih",
-    "hika"
+    "hika",
+    "dwarf",
+    "tempest",
+    "cleric",
+    "storm",
+    "annabelle",
+    "lily",
+    "grasso.",
+    "l.a.",
+    "night",
+    "vampire:the"
   ],
   "small": {
     "scale": 0.9199999999999999,
@@ -52,6 +62,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

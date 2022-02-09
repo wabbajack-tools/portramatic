@@ -20,9 +20,28 @@
     "guilherme",
     "batista",
     "jeanne",
-    "d'arc",
+    "d\u0027arc",
     "yun",
-    "sh"
+    "sh",
+    "cloak",
+    "image",
+    "sci-fi",
+    "princess",
+    "league",
+    "legends",
+    "morigan",
+    "vampire",
+    "marcelo",
+    "gorzoni",
+    "wsraars",
+    "champion",
+    "slaanesh",
+    "pietro",
+    "bastas",
+    "malfurion",
+    "stormrage",
+    "yaroslav",
+    "tarasenko"
   ],
   "small": {
     "scale": 1.3500000000000005,
@@ -46,6 +65,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

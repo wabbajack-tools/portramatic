@@ -7,27 +7,44 @@
     "mage",
     "warrior",
     "monk",
-    "rogue"
+    "rogue",
+    "granblue",
+    "ferry",
+    "yardy",
+    "cat",
+    "3d",
+    "girl",
+    "primrose",
+    "egypt",
+    "game",
+    "ready",
+    "resources",
+    "samurai",
+    "nazar",
+    "ponik"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -417,
     "offset_y": -138,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799166666666663,
     "offset_x": -253,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11975,
     "offset_x": -460,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,37 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/015/677/251/large/pauline-voss-025d1b8f-4803-4add-b384-a9e6dc25cc03.jpg?1549220602",
   "md5": "2CE4B6F3A495BBF30A601AA4C13E9ADF",
   "tags": [
-    ""
+    "",
+    "cynthia",
+    "artist",
+    "sheppard",
+    "paintings",
+    "discovered",
+    "steven",
+    "tobiasz"
   ],
   "small": {
     "scale": 0.1999999999999993,
     "offset_x": -101.9999999999995,
     "offset_y": -88.66666666666643,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999932,
     "offset_x": -54.00000000000023,
     "offset_y": -92.66666666666683,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.37999999999999945,
     "offset_x": -20.000000000000682,
     "offset_y": -3.999999999999943,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

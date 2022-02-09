@@ -2,27 +2,67 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96a87fe7-5797-4515-b6f8-cf7cf0936857/db9g59a-5c51d2b8-dc58-4095-ab96-2a79c7579036.jpg/v1/fill/w_1024,h_1449,q_75,strp/leshiy_by_encountermy18_db9g59a-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcLzk2YTg3ZmU3LTU3OTctNDUxNS1iNmY4LWNmN2NmMDkzNjg1N1wvZGI5ZzU5YS01YzUxZDJiOC1kYzU4LTQwOTUtYWI5Ni0yYTc5Yzc1NzkwMzYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9eqjuoOle-imItwAP1p4O7G5TaELaekszia7by9gO2c",
   "md5": "6578DBC18EF37B72197D25C60E4A3AA8",
   "tags": [
-    ""
+    "",
+    "viking",
+    "warrior",
+    "concept",
+    "templar",
+    "knight",
+    "character",
+    "armor",
+    "medieval",
+    "knights",
+    "armors",
+    "female",
+    "pirate",
+    "warriors",
+    "leshiy",
+    "roman",
+    "kupriyanov",
+    "design",
+    "rpg",
+    "glass",
+    "cannon",
+    "crew",
+    "graey",
+    "erb",
+    "2020",
+    "portraits",
+    "native",
+    "american",
+    "path",
+    "exile",
+    "npc",
+    "pack",
+    "boss",
+    "kupriianov",
+    "caravan",
+    "guard",
+    "sword",
+    "sorcery"
   ],
   "small": {
     "scale": 1.1700000000000002,
     "offset_x": -518.8571428571439,
     "offset_y": -162.28571428571365,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -300.0000000000005,
     "offset_y": -71.42857142857144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -64,
     "offset_y": -92.57142857142844,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

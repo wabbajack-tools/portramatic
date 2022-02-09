@@ -2,27 +2,44 @@
   "source": "https://i.pinimg.com/564x/47/f5/dd/47f5dd4f4c271a0138dcf59ea28993be.jpg",
   "md5": "85E1A800E66918DF8D3121F4C75F04D4",
   "tags": [
-    ""
+    "",
+    "nina",
+    "hagen",
+    "today",
+    "band",
+    "fearless",
+    "marvel",
+    "comics",
+    "guardians",
+    "galaxy",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.7600000000000007,
     "offset_x": -329,
     "offset_y": -200,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -77,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5200000000000005,
     "offset_x": -14,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

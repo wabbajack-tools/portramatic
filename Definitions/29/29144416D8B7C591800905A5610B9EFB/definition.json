@@ -2,27 +2,55 @@
   "source": "https://i.pinimg.com/564x/b4/18/96/b41896ec00c1ab8c3bcaed1388293dc1.jpg",
   "md5": "29144416D8B7C591800905A5610B9EFB",
   "tags": [
-    ""
+    "",
+    "genasi",
+    "monk",
+    "air",
+    "barbarian",
+    "druid",
+    "female",
+    "assassin",
+    "pirate",
+    "medieval",
+    "knights",
+    "high",
+    "elf",
+    "zombie",
+    "apocalypse",
+    "\u8776",
+    "kang",
+    "did",
+    "hanna",
+    "eunice",
+    "ye",
+    "https://www.artstation.com/artwork/9eylww",
+    "pirate\u3010\u8D30\u96F6\u58F9\u8D30\u3011",
+    "ares",
+    "woman",
+    "warrior"
   ],
   "small": {
     "scale": 1.2800000000000002,
     "offset_x": -241,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -111,
     "offset_y": -74,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6400000000000006,
     "offset_x": -78,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

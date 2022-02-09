@@ -16,7 +16,13 @@
     "bean",
     "assignment",
     "danny",
-    "thomson"
+    "thomson",
+    "shadowrun",
+    "male",
+    "rogue",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6299999999999997,
@@ -40,6 +46,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,31 @@
   "source": "https://i.pinimg.com/originals/86/4c/8c/864c8c705588c72e4a7352e569cf0dbc.jpg",
   "md5": "B62D07F9B736AE7E2E9038BC0202AA7E",
   "tags": [
-    ""
+    "",
+    "cleric",
+    "character",
+    "female",
+    "warrior",
+    "concept",
+    "alien",
+    "assassin",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "pirate",
+    "dark",
+    "black",
+    "dullahan",
+    "sure",
+    "wang",
+    "sorceress",
+    "garden_7",
+    "random",
+    "paint",
+    "#1",
+    "jordan",
+    "peoples"
   ],
   "small": {
     "scale": 1.6900000000000006,
@@ -20,12 +44,12 @@
   },
   "full": {
     "scale": 1.3600000000000003,
-    "offset_x": -2.2737367544323206e-13,
+    "offset_x": -2.2737367544323206E-13,
     "offset_y": -7.9999999999998295,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

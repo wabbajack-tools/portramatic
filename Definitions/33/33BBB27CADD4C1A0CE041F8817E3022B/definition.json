@@ -24,27 +24,40 @@
     "tiefling",
     "blackguard",
     "alessandro",
-    "rossi"
+    "rossi",
+    "chaos",
+    "warrior",
+    "artstation.com",
+    "twitter",
+    "characters",
+    "ciaran",
+    "demon",
+    "form",
+    "fred",
+    "rambaud"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -278.79999999999984,
     "offset_y": -110.60000000000008,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.44008333333333277,
     "offset_x": -130.0000000000005,
     "offset_y": -52.20000000000016,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.65575,
     "offset_x": -81.99999999999864,
     "offset_y": -14,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

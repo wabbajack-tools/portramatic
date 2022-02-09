@@ -21,7 +21,7 @@
     "gavr",
     "norse",
     "god",
-    "\"anguilar\"",
+    "\u0022anguilar\u0022",
     "javed",
     "ali",
     "monkey",
@@ -29,7 +29,17 @@
     "pt",
     "tacit",
     "sign",
-    "studio"
+    "studio",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "athletic_shoes_or_sneakers",
+    "belt",
+    "glasses",
+    "sonya",
+    "blade",
+    "osvaldo",
+    "ferreira"
   ],
   "small": {
     "scale": 0.94,
@@ -53,6 +63,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

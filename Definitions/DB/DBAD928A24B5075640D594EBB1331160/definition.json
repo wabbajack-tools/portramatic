@@ -12,7 +12,7 @@
     "warrior",
     "concept",
     "armor",
-    "god's",
+    "god\u0027s",
     "angels",
     "lich",
     "king",
@@ -30,7 +30,7 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
@@ -40,7 +40,9 @@
     "chris",
     "rallis",
     "2020",
-    "skyrim"
+    "skyrim",
+    "sophie",
+    "skelton"
   ],
   "small": {
     "scale": 0.25999999999999934,
@@ -64,6 +66,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

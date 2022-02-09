@@ -1,28 +1,51 @@
 {
-  "source": "https://pbs.twimg.com/media/Dut9wsVVAAAiV9Y?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/Dut9wsVVAAAiV9Y?format=jpg\u0026name=medium",
   "md5": "DF8F7C8C153878BC43FFF34A61831D4C",
   "tags": [
-    ""
+    "",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "high",
+    "pass",
+    "kyle",
+    "enochs",
+    "osprey",
+    "armor",
+    "mahealani",
+    "rodrigues",
+    "https://www.artstation.com/artwork/zaxard",
+    "aragorn",
+    "ranger",
+    "adam",
+    "middleton",
+    "lotr",
+    "tolkien",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -236,
     "offset_y": -100,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -198,
     "offset_y": -108,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

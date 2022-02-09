@@ -1,26 +1,47 @@
 {
-  "source": "https://img.wattpad.com/9bc6c932e1b385f081323b7a8324563e02f25933/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f736c64704748302d4830585756773d3d2d3534343830333339392e313532646266306331386337393666353636313436313436373132302e6a7067?s=fit&w=720&h=720",
+  "source": "https://img.wattpad.com/9bc6c932e1b385f081323b7a8324563e02f25933/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f736c64704748302d4830585756773d3d2d3534343830333339392e313532646266306331386337393666353636313436313436373132302e6a7067?s=fit\u0026w=720\u0026h=720",
   "md5": "4068E3A9853395013E1CFAAC4C2C6412",
   "tags": [
-    ""
+    "",
+    "nemean",
+    "lion",
+    "lost",
+    "world",
+    "jurassic",
+    "park",
+    "godzilla",
+    "kraken",
+    "tyrannosaurus",
+    "rex",
+    "wolf",
+    "eslam",
+    "zidan",
+    "tree",
+    "lee",
+    "b"
   ],
   "small": {
     "scale": 1.06,
     "offset_x": -58,
     "offset_y": -309,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -16,
     "offset_y": -159,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9800000000000009,
     "offset_x": -14,
     "offset_y": -342,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,7 +2,18 @@
   "source": "https://i.imgur.com/mMqpfRd.png",
   "md5": "B51A95F25613E3B189054B5479FAFB65",
   "tags": [
-    ""
+    "",
+    "female",
+    "dark",
+    "elf",
+    "shadowrun",
+    "male",
+    "rogue",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.7599999999999998,
@@ -26,6 +37,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

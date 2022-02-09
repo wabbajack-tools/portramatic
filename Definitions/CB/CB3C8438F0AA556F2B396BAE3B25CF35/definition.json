@@ -2,27 +2,37 @@
   "source": "https://i.pinimg.com/564x/46/71/0c/46710cd6c38859b657b1112ce8f5cf46.jpg",
   "md5": "CB3C8438F0AA556F2B396BAE3B25CF35",
   "tags": [
-    ""
+    "",
+    "dryad",
+    "monster",
+    "painting",
+    "little",
+    "animal",
+    "aleksei",
+    "vinogradov"
   ],
   "small": {
     "scale": 1.6800000000000006,
     "offset_x": -256,
     "offset_y": -55,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -85,
     "offset_y": -34,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.219999999999996,
     "offset_x": -4,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

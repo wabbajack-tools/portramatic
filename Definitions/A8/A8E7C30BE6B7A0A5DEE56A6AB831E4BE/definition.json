@@ -21,11 +21,29 @@
     "woman",
     "sinjin",
     "treharne",
-    "assassin's",
+    "assassin\u0027s",
     "creed",
     "odyssey",
     "immortal",
-    "outfit"
+    "outfit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "demon",
+    "child",
+    "miqdad",
+    "habibullah",
+    "practice",
+    "jee",
+    "wook",
+    "choi",
+    "c",
+    "juk",
+    "girl",
+    "art_vampire",
+    "east",
+    "river"
   ],
   "small": {
     "scale": 1.3900000000000003,
@@ -49,6 +67,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

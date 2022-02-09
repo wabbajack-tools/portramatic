@@ -31,7 +31,20 @@
     "armored",
     "jester",
     "daniel",
-    "brewer"
+    "brewer",
+    "swordsman",
+    "drawing",
+    "dark",
+    "sword",
+    "league",
+    "legends",
+    "spider-man",
+    "samurai",
+    "dragon",
+    "lothar",
+    "anduin",
+    "bramasta",
+    "aji"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -55,6 +68,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

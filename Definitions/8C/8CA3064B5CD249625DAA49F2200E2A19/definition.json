@@ -10,7 +10,26 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "dress_shoes",
+    "post",
+    "apocalyptic",
+    "characters",
+    "dylan",
+    "eurlings",
+    "swtor",
+    "infamous",
+    "bounty",
+    "hunter\u2019s",
+    "armor",
+    "set",
+    "slg",
+    "z",
+    "y",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.4100000000000004,
@@ -34,6 +53,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

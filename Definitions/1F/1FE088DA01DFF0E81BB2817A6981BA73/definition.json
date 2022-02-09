@@ -16,27 +16,39 @@
     "leesin",
     "fanart",
     "ckn",
-    "cuong"
+    "cuong",
+    "demons",
+    "imago",
+    "helen",
+    "blizzard",
+    "star",
+    "guardian",
+    "irelia",
+    "celestial",
+    "080"
   ],
   "small": {
     "scale": 1,
     "offset_x": -666.3333333333301,
     "offset_y": -137.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -438.66666666666674,
     "offset_y": -87.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -227.99999999999955,
     "offset_y": -11.333333333333428,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

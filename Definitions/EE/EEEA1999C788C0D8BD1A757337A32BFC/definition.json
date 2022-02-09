@@ -4,27 +4,52 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "fear",
+    "monsters",
+    "disney",
+    "inc",
+    "books",
+    "afraid",
+    "crimson",
+    "fox",
+    "jared",
+    "krichevsky",
+    "dc",
+    "comics",
+    "characters",
+    "character",
+    "falling",
+    "fiend",
+    "mikhail",
+    "palamarchuk",
+    "god",
+    "despair",
+    "tanawut",
+    "jittakanworakit"
   ],
   "small": {
     "scale": 3.5199999999999685,
     "offset_x": -332,
     "offset_y": -355,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7400000000000007,
     "offset_x": -40,
     "offset_y": -136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3099999999999943,
     "offset_x": -8,
     "offset_y": -138,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

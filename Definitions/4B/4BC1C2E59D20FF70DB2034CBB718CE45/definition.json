@@ -2,27 +2,50 @@
   "source": "https://static.wikia.nocookie.net/devilmaycry/images/4/4e/Vergil_DMC5.png/revision/latest/scale-to-width-down/1000?cb=20201021151922",
   "md5": "4BC1C2E59D20FF70DB2034CBB718CE45",
   "tags": [
-    ""
+    "",
+    "witcher",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "\u53F8\u9A6C\u61FF",
+    "joky",
+    "zhou",
+    "knight",
+    "dark",
+    "heewon",
+    "kim",
+    "digital",
+    "concept",
+    "ahmed",
+    "akib",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -447,
     "offset_y": -316,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -245,
     "offset_y": -179,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": 66,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

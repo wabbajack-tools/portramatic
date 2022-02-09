@@ -2,27 +2,50 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/037/531/094/large/ilya-ozornin-red-moons-spring.jpg?1620644754",
   "md5": "C71BFE5015085DC959894817DB2EA10E",
   "tags": [
-    ""
+    "",
+    "pirates",
+    "caribbean",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "swordsman",
+    "sonech",
+    ".",
+    "warrior",
+    "female",
+    "elf",
+    "https://www.artstation.com/artwork/lerkk",
+    "pirate",
+    "woman",
+    "japanese",
+    "samurai",
+    "untitled",
+    "hyein",
+    "go"
   ],
   "small": {
     "scale": 0.6999999999999997,
     "offset_x": -591,
     "offset_y": -266,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -328,
     "offset_y": -166,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -60,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

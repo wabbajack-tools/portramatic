@@ -12,25 +12,64 @@
     "art",
     "archer",
     "female. archer. hood",
-    "ranger"
+    "ranger",
+    "rpg",
+    "female",
+    "dd",
+    "concept",
+    "assassin",
+    "chaos",
+    "warrior",
+    "death",
+    "knight",
+    "game",
+    "thrones",
+    "vampire",
+    "manga",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "shoes",
+    "boots",
+    "zy",
+    "hwang",
+    "aftermath",
+    "p\u0026p",
+    "explorer",
+    "marco",
+    "hasmann",
+    "post",
+    "apocalyptic",
+    "costume",
+    "pirate",
+    "lim\u0027art",
+    "school",
+    "ynov"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -184,
     "offset_y": -133,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -43,
     "offset_y": -70,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -14,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -1,28 +1,50 @@
 {
-  "source": "https://external-preview.redd.it/tu3dXmAxoRD_3QG3nePmKfLyXiCj-LTWZUATaV42ZbE.jpg?auto=webp&s=1eb8d4e4f52dab528fdf4b4fbe3d8a8c2d7c421b",
+  "source": "https://external-preview.redd.it/tu3dXmAxoRD_3QG3nePmKfLyXiCj-LTWZUATaV42ZbE.jpg?auto=webp\u0026s=1eb8d4e4f52dab528fdf4b4fbe3d8a8c2d7c421b",
   "md5": "F89CC8FAF2E642FE36AFBF3190772363",
   "tags": [
-    ""
+    "",
+    "world",
+    "warcraft",
+    "cute",
+    "chibi",
+    "dragon",
+    "pin",
+    "up",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "battlefleet",
+    "gothic",
+    "armada",
+    "portraits"
   ],
   "small": {
     "scale": 0.3199999999999994,
     "offset_x": -76,
     "offset_y": -37,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -25,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -14,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

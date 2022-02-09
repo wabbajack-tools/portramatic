@@ -22,7 +22,28 @@
     "kyaw",
     "pixel",
     "brush",
-    "artstudio"
+    "artstudio",
+    "black",
+    "gothic",
+    "goth",
+    "digital",
+    "knight",
+    "star",
+    "wars",
+    "revenge",
+    "sith",
+    "emperor",
+    "angel",
+    "chaotic",
+    "evil",
+    "trace",
+    "block",
+    "octopus",
+    "hsh",
+    "three",
+    "queens",
+    "igor",
+    "sid"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -46,6 +67,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

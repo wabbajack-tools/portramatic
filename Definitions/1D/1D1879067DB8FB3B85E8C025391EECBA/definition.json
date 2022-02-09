@@ -2,27 +2,39 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a1435b8-3bb4-49e5-90fc-25139ed43610/d9rfez8-aae62294-40c5-4a7d-bf94-863dcc1d57cf.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhhMTQzNWI4LTNiYjQtNDllNS05MGZjLTI1MTM5ZWQ0MzYxMFwvZDlyZmV6OC1hYWU2MjI5NC00MGM1LTRhN2QtYmY5NC04NjNkY2MxZDU3Y2YuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7zW-72TN_RK2CgSqJZKnDOQa3E60pJZ6N2hhYZky4_s",
   "md5": "1D1879067DB8FB3B85E8C025391EECBA",
   "tags": [
-    ""
+    "",
+    "male",
+    "drawing",
+    "head",
+    "anime",
+    "curly",
+    "hair",
+    "natural",
+    "hairstyles",
+    "straight"
   ],
   "small": {
     "scale": 0.3499999999999994,
     "offset_x": -94.85714285714286,
     "offset_y": -16.57142857142847,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -35.428571428571274,
     "offset_y": -8.571428571428555,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -102.85714285714334,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

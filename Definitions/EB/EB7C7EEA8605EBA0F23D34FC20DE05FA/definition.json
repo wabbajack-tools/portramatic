@@ -30,27 +30,58 @@
     "bageumi",
     ".",
     "concept",
-    "warrior"
+    "warrior",
+    "elf",
+    "rogue",
+    "ideas",
+    "human",
+    "knight",
+    "armor",
+    "medieval",
+    "knights",
+    "pirate",
+    "armors",
+    "orc",
+    "assassin",
+    "heavy",
+    "leather",
+    "\u96C0\u7FBD",
+    "xiaosu",
+    "chen",
+    "portraits",
+    "adventurer",
+    "d\u0026d",
+    "dai",
+    "nguyen",
+    "d",
+    "characters",
+    "011-knight",
+    "eunsil",
+    "song",
+    "https://www.artstation.com/artwork/nqkmx9"
   ],
   "small": {
     "scale": 1.08,
     "offset_x": -278,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -121,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -96,
     "offset_y": -100,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

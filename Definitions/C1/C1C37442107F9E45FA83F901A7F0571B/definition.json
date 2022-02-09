@@ -17,7 +17,7 @@
     "thrones",
     "dark",
     "knight",
-    "warrior's",
+    "warrior\u0027s",
     "darkening#2",
     "mansik",
     "yang",
@@ -26,7 +26,22 @@
     "monkey",
     "king",
     "thien",
-    "nguyen"
+    "nguyen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "young",
+    "jrobin",
+    "kim",
+    "https://www.artstation.com/artwork/964pn",
+    "\u5E2B\u5320",
+    "\u8C46\u8C46",
+    "\u6708\u5446",
+    "ys",
+    "li",
+    "fengyang"
   ],
   "small": {
     "scale": 1.1500000000000001,
@@ -50,6 +65,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

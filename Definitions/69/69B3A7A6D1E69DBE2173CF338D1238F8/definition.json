@@ -2,27 +2,52 @@
   "source": "https://2.bp.blogspot.com/-XzDc-eGMbTI/Vvg9D6k_QDI/AAAAAAAA4Fs/04C8WiXHBuEQIAU01QhkG60qkexTm3pCQ/s1600/Gur%2527ash%2BIronjaw.jpg",
   "md5": "69B3A7A6D1E69DBE2173CF338D1238F8",
   "tags": [
-    ""
+    "",
+    "drizzt",
+    "artemis",
+    "entreri",
+    "game",
+    "thrones",
+    "man",
+    "steel",
+    "sergeant",
+    "mauro",
+    "alocci",
+    "characters",
+    "skull",
+    "harrington",
+    "jeff",
+    "chen",
+    "lord",
+    "captain",
+    "victarion",
+    "greyjoy",
+    "mike",
+    "hallstein",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.8999999999999999,
     "offset_x": -179,
     "offset_y": -14,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -55,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -36,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

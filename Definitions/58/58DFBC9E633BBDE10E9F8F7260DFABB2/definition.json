@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/6f/8d/f7/6f8df708f18fe3a0fc307ba7b5f75d28.jpg",
   "md5": "58DFBC9E633BBDE10E9F8F7260DFABB2",
   "tags": [
-    ""
+    "",
+    "daedric",
+    "armor",
+    "samurai",
+    "heavy",
+    "skyrim",
+    "female",
+    "assassin",
+    "blade",
+    "hoarder",
+    "erlend",
+    "capodanno",
+    "assassins",
+    "creed",
+    "identity",
+    "characters",
+    "andi",
+    "drude",
+    "boarork",
+    "executioners",
+    "sketch",
+    "takeshi",
+    "yoshida"
   ],
   "small": {
     "scale": 2.7299999999999853,
     "offset_x": -752,
     "offset_y": -441,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8600000000000008,
     "offset_x": -411,
     "offset_y": -265,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5100000000000005,
     "offset_x": -4,
     "offset_y": -164,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

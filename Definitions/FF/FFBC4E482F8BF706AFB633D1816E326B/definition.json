@@ -30,9 +30,26 @@
     "warlock",
     "bombardier",
     "catherine",
-    "o'connor",
+    "o\u0027connor",
     "warhammer",
-    "roleplay"
+    "roleplay",
+    "anime",
+    "half-elf",
+    "wizard",
+    "pictures",
+    "actionfigures",
+    "skyblivion",
+    "shrouded",
+    "armor",
+    "india-lee",
+    "crews",
+    "viking",
+    "broly",
+    "antoine",
+    "destailleurs",
+    "space",
+    "yevhen",
+    "motsak"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -56,6 +73,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

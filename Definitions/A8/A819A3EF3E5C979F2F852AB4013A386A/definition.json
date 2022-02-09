@@ -2,25 +2,56 @@
   "source": "https://i.pinimg.com/originals/cf/2b/8e/cf2b8e8969c187b553e753f9afe48f5a.png",
   "md5": "A819A3EF3E5C979F2F852AB4013A386A",
   "tags": [
-    "The Anti Paladin"
+    "The Anti Paladin",
+    "witch",
+    "hunter",
+    "artwork",
+    "steampunk",
+    "anime",
+    "samurai",
+    "armor",
+    "knight",
+    "death",
+    "sets",
+    "daedric",
+    "shadow",
+    "mordor",
+    "black",
+    "khajiit",
+    "executioner",
+    "mohammad",
+    "chowdhury",
+    "gunther_game",
+    "j",
+    "p",
+    "warrior",
+    "concept",
+    "breton",
+    "so",
+    "jihyun"
   ],
   "small": {
     "scale": 1.2300000000000002,
     "offset_x": -515.333333333333,
     "offset_y": -169.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9099999999999999,
     "offset_x": -305.9999999999999,
     "offset_y": -116.66666666666671,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8399999999999999,
     "offset_x": -57.33333333333371,
     "offset_y": -2.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

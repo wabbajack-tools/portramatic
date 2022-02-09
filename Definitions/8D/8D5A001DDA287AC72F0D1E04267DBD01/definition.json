@@ -5,27 +5,53 @@
     "pathfinder",
     "female",
     "tiefling",
-    "rogue"
+    "rogue",
+    "anime",
+    "girl",
+    "orcs",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "kallia",
+    "alchemist",
+    "sara",
+    "campolo",
+    "ingot",
+    "armor",
+    "monster",
+    "hunter",
+    "world",
+    "diego",
+    "easter",
+    "salberg",
+    "cristina",
+    "gallardo"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -523.2666666666667,
     "offset_y": -101.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -305.4,
     "offset_y": -39.13333333333324,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4599999999999995,
     "offset_x": -111.20000000000027,
     "offset_y": -32.666666666666515,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

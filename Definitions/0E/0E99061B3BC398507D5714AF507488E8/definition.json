@@ -2,25 +2,54 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7651153-b2cb-4cad-a632-d8766c35559a/d8730xo-333887ef-8c55-4720-8b56-2a86119ccba1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lNzY1MTE1My1iMmNiLTRjYWQtYTYzMi1kODc2NmMzNTU1OWEvZDg3MzB4by0zMzM4ODdlZi04YzU1LTQ3MjAtOGI1Ni0yYTg2MTE5Y2NiYTEuanBnIn1dXX0.BX5NY_eeUuNKR6CQOk2IFp0ktPtVVGN-Pqj9fnU7RFI",
   "md5": "0E99061B3BC398507D5714AF507488E8",
   "tags": [
-    "Qunari VII"
+    "Qunari VII",
+    "dragon",
+    "age",
+    "qunari",
+    "inquisition",
+    "inquisitor",
+    "female",
+    "characters",
+    "warriors",
+    "alien",
+    "warrior",
+    "malakir",
+    "soothsayer",
+    "greg",
+    "opalinski",
+    "sekiro",
+    "fanart",
+    "workshop",
+    "demo",
+    "ruan",
+    "jia",
+    "#",
+    "summoner",
+    "ramon",
+    "acedo"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -96.00000000000497,
     "offset_y": -6.000000000000654,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -51.333333333333485,
     "offset_y": -7.3333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -69.33333333333371,
-    "offset_y": -2.2737367544323206e-13,
-    "size": "full"
+    "offset_y": -2.2737367544323206E-13,
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

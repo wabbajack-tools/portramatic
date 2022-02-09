@@ -2,25 +2,37 @@
   "source": "https://i.pinimg.com/originals/04/99/f4/0499f473246131175282d856c9e8870e.png",
   "md5": "555BAAC6B5864777C88BBD21DF2F7BC1",
   "tags": [
-    "HR Emperor"
+    "HR Emperor",
+    "king",
+    "george",
+    "vi",
+    "louis",
+    "emperor",
+    "18th",
+    "century"
   ],
   "small": {
     "scale": 1.7000000000000006,
     "offset_x": -535.9999999999997,
     "offset_y": -125.3333333333332,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -239.33333333333337,
     "offset_y": -76.66666666666646,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1800000000000002,
     "offset_x": -109.33333333333348,
     "offset_y": -12.000000000000455,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,48 @@
   "source": "http://pm1.narvii.com/7014/1105e52c1569e618080486d668ea9cdff775249br1-752-1063v2_00.jpg",
   "md5": "3CDED172C7403EF628A286727A098895",
   "tags": [
-    ""
+    "",
+    "celtic",
+    "warrior",
+    "symbol",
+    "tattoo",
+    "scottish",
+    "drawing",
+    "women",
+    "st.",
+    "michael",
+    "archangels",
+    "lord",
+    "rings",
+    "pirates",
+    "caribbean",
+    "durotan",
+    "wang",
+    "xiao",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1,
     "offset_x": -74,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9400000000000008,
     "offset_x": -2,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

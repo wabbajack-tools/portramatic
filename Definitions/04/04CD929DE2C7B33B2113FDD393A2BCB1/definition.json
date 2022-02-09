@@ -9,27 +9,55 @@
     "orc",
     "druid",
     "clash",
-    "titans"
+    "titans",
+    "female",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "pirate",
+    "pagan",
+    "druid.",
+    "andrey",
+    "alexeev",
+    "https://www.artstation.com/artwork/a2mg8",
+    "character",
+    "hephaestus",
+    "entertainment",
+    "lovely",
+    "old",
+    "hag",
+    "todd",
+    "ulrich",
+    "creatures",
+    "witch",
+    "characters"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -345,
     "offset_y": -125,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -173,
     "offset_y": -67,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -198,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

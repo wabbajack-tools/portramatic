@@ -1,28 +1,49 @@
 {
-  "source": "https://external-preview.redd.it/dqvY0igdsSjiPjgvuXbk2rmmUZpsiwstRPrdrdfukcg.jpg?width=640&crop=smart&auto=webp&s=9c89abfbd192170acd8b929d49db73d5ca11d2fe",
+  "source": "https://external-preview.redd.it/dqvY0igdsSjiPjgvuXbk2rmmUZpsiwstRPrdrdfukcg.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026s=9c89abfbd192170acd8b929d49db73d5ca11d2fe",
   "md5": "34B59A33EC6102F45BBBE9B87B2DED57",
   "tags": [
-    ""
+    "",
+    "diablo",
+    "fan",
+    "female",
+    "monk",
+    "sets",
+    "orc",
+    "warrior",
+    "barbarians",
+    "dungeons",
+    "dragons",
+    "orcs",
+    "hurakan",
+    "artwork",
+    "pedro",
+    "sena",
+    "l\u0027antiquaire",
+    "vincent",
+    "joubert"
   ],
   "small": {
     "scale": 1.9800000000000009,
     "offset_x": -449,
     "offset_y": -245,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -223,
     "offset_y": -127,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": -104,
     "offset_y": -96,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

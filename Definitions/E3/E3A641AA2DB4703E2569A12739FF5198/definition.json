@@ -2,27 +2,51 @@
   "source": "https://theviraler.com/wp-content/uploads/2021/11/49-hot-pictures-of-ysera-from-the-world-of-warcraft-which-are-here-to-rock-your-world-best-of-comic-books-4.jpg",
   "md5": "E3A641AA2DB4703E2569A12739FF5198",
   "tags": [
-    ""
+    "",
+    "ysera",
+    "dragon",
+    "model",
+    "artwork",
+    "league",
+    "legends",
+    "demon",
+    "duke",
+    "eligos",
+    "boris",
+    "redli",
+    "mage",
+    "darya",
+    "kozhemyakina",
+    "concept",
+    "characters",
+    "shadow",
+    "lady",
+    "olynder",
+    "catherine",
+    "o\u0027connor"
   ],
   "small": {
     "scale": 0.3399999999999994,
     "offset_x": -331,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.28999999999999937,
     "offset_x": -192,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -426,
     "offset_y": -186,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

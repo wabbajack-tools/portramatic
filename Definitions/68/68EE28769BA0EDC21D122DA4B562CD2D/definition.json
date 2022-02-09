@@ -20,7 +20,12 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "outer_wear",
-    "jacket"
+    "jacket",
+    "indian",
+    "sari",
+    "sarees",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -44,6 +49,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

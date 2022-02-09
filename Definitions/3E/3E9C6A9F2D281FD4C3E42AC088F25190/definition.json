@@ -2,27 +2,54 @@
   "source": "https://i.pinimg.com/564x/7c/67/e5/7c67e56abad08ed6d4a8ad89cee0ba17.jpg",
   "md5": "3E9C6A9F2D281FD4C3E42AC088F25190",
   "tags": [
-    ""
+    "",
+    "heavy",
+    "armor",
+    "star",
+    "wars",
+    "clone",
+    "power",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "darkest",
+    "metal",
+    "20",
+    "jail",
+    "knight",
+    "wero",
+    "gallo",
+    "champion",
+    "gunship",
+    "revolution",
+    "skeleton",
+    "\uB028",
+    "\uB039\uC774"
   ],
   "small": {
     "scale": 2.469999999999991,
     "offset_x": -629,
     "offset_y": -318,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.04,
     "offset_x": -447,
     "offset_y": -228,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

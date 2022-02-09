@@ -32,11 +32,27 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "dragonborn",
+    "eldritch",
+    "elf",
+    "medieval",
+    "knights",
+    "game",
+    "thrones",
+    "witcher",
+    "paladin",
+    "roman",
+    "soldier",
+    "guard",
+    "\u6781\u5FF5",
+    "jin",
+    "rui",
+    "https://www.artstation.com/contests/wild-west/challenges/45/submissions/26383?sorting=latest"
   ],
   "small": {
     "scale": 1.8100000000000007,
@@ -60,6 +76,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

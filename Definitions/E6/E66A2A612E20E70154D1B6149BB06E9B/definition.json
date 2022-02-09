@@ -7,7 +7,19 @@
     "witcher",
     "warrior",
     "fighter",
-    "male"
+    "male",
+    "gwent",
+    "card",
+    "game",
+    "geralt",
+    "ciri",
+    "friday",
+    "13th",
+    "pirate",
+    "kim",
+    "junghun",
+    "https://www.artstation.com/artwork/xgbyw",
+    "woman"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -31,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

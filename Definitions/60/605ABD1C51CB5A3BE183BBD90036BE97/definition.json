@@ -2,27 +2,53 @@
   "source": "https://static.wikia.nocookie.net/gods_and_demons/images/5/5a/Demon_Portrait.jpg/revision/latest?cb=20210529094452",
   "md5": "605ABD1C51CB5A3BE183BBD90036BE97",
   "tags": [
-    ""
+    "",
+    "female",
+    "angel",
+    "demon",
+    "warrior",
+    "concept",
+    "dark",
+    "elf",
+    "skyrim",
+    "\u5FD8\u6218\u5FC5\u5371",
+    "mingxing",
+    "cui",
+    "personagens",
+    "vil\u00E3s",
+    "rpg",
+    "fallen",
+    "jason",
+    "nguyen",
+    "ximezci",
+    "warlord",
+    "ricardo",
+    "ow",
+    "creatures",
+    "monster"
   ],
   "small": {
     "scale": 0.48999999999999955,
     "offset_x": -129,
     "offset_y": -11,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4599999999999995,
     "offset_x": -63,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7799999999999998,
     "offset_x": -26,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

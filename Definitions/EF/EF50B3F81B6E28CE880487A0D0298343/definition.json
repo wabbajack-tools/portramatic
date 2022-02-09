@@ -20,7 +20,12 @@
     "slime",
     "king",
     "ian",
-    "hinley"
+    "hinley",
+    "classic",
+    "gnome",
+    "rogue",
+    "vs",
+    "hulk"
   ],
   "small": {
     "scale": 1.3400000000000003,
@@ -44,6 +49,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

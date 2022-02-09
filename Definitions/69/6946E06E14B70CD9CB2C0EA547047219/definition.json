@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/474x/5b/a4/be/5ba4be504bf169b30fa17b16cb501109.jpg",
   "md5": "6946E06E14B70CD9CB2C0EA547047219",
   "tags": [
-    ""
+    "",
+    "demon",
+    "hunter",
+    "captai",
+    "tong",
+    "yan",
+    "artwork",
+    "jinhoon",
+    "jeong",
+    "tiefling",
+    "mali",
+    "benedicto",
+    "vasanserekul",
+    "female"
   ],
   "small": {
     "scale": 1.3399999999999987,
     "offset_x": -201,
     "offset_y": -140,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -76,
     "offset_y": -83,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6300000000000006,
     "offset_x": -14,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

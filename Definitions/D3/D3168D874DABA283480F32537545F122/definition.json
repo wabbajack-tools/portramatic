@@ -31,27 +31,50 @@
     "2021",
     "marvel",
     "comics",
-    "wallpaper"
+    "wallpaper",
+    "girl",
+    "alien",
+    "concept",
+    "woman",
+    "green",
+    "assassin",
+    "blackdesert",
+    "polygon",
+    "fox",
+    "warrior",
+    "elf",
+    "barbarian",
+    "bailey",
+    "butel",
+    "character",
+    "story",
+    "ideas",
+    "9",
+    "julia",
+    "pimenova"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -271,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -56,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -28,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

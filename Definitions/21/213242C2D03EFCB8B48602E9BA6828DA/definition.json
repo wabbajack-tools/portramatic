@@ -22,27 +22,55 @@
     "michael",
     "bridge",
     "https://www.artstation.com/artwork/6pzqx",
-    "2020"
+    "2020",
+    "mtg",
+    "dwarves",
+    "dd",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "concept_eind",
+    "bae",
+    "yamile",
+    "https://www.artstation.com/artwork/pmrwxn",
+    "44",
+    "stepan",
+    "alekseev",
+    "concept",
+    "characters",
+    "character",
+    "illustration",
+    "beast",
+    "slayer",
+    "marmoset",
+    "toolbag",
+    "carlos",
+    "eduardo",
+    "florencio"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -357,
     "offset_y": -31,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4199999999999995,
     "offset_x": -174,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -482,
     "offset_y": -68,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

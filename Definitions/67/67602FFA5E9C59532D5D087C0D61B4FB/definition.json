@@ -9,7 +9,24 @@
     "demon",
     "nightmare",
     "female",
-    "demons"
+    "demons",
+    "character",
+    "sorceress",
+    "dragonborn",
+    "sorcerer",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "blood",
+    "tatiana",
+    "danilenko"
   ],
   "small": {
     "scale": 0.8599999999999999,
@@ -33,6 +50,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

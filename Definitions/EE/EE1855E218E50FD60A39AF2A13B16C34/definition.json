@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/16/48/5b/16485b51f152ec65696eabc3347cfb81.jpg",
   "md5": "EE1855E218E50FD60A39AF2A13B16C34",
   "tags": [
-    ""
+    "",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "dark",
+    "angel",
+    "anime",
+    "girl",
+    "targaryen",
+    "yunhao",
+    "zheng",
+    "https://www.artstation.com/artwork/3o3dxd",
+    "knight",
+    "sunong",
+    "https://www.artstation.com/artwork/4bwwwq",
+    "2020",
+    "o",
+    "tong",
+    "tou"
   ],
   "small": {
     "scale": 1,
     "offset_x": -158,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -1,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": 0,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

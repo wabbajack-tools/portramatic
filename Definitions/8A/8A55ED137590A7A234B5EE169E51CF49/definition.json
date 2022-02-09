@@ -20,27 +20,50 @@
     "martin",
     "paz",
     "james",
-    "churchill"
+    "churchill",
+    "knight",
+    "archer",
+    "black",
+    "demon",
+    "souls",
+    "witcher",
+    "death",
+    "dark",
+    "steam",
+    "ariel",
+    "perez",
+    "https://www",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2017",
+    "trace",
+    "studio"
   ],
   "small": {
     "scale": 0.7499999999999998,
     "offset_x": -244.66666666666663,
     "offset_y": -73.33333333333331,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -210.9999999999999,
     "offset_y": -55.6666666666668,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -227.33333333333303,
     "offset_y": -11.333333333333371,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

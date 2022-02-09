@@ -4,27 +4,54 @@
   "tags": [
     "girl",
     "female",
-    "tiefling"
+    "tiefling",
+    "character",
+    "concept",
+    "characters",
+    "samurai",
+    "dynasty",
+    "warriors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "asian",
+    "warrior",
+    "olya",
+    "didenko",
+    "rogue",
+    "alexey",
+    "ivanov",
+    "rogues",
+    "for",
+    "my",
+    "porfolio",
+    "isidro",
+    "moreno"
   ],
   "small": {
     "scale": 0.37999999999999945,
     "offset_x": -306,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3199999999999994,
     "offset_x": -133,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -35,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,7 +7,23 @@
     "woman",
     "dress",
     "crown",
-    "silverhead"
+    "silverhead",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "yizu",
+    "lia",
+    "cao",
+    "wlop",
+    "ice",
+    "princess",
+    "3d",
+    "fanart",
+    "lee",
+    "gh",
+    "beautiful"
   ],
   "small": {
     "scale": 0.2599999999999998,
@@ -31,6 +47,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

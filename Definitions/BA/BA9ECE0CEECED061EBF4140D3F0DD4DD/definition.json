@@ -4,27 +4,41 @@
   "tags": [
     "solar",
     "jasonengle",
-    "d&amp;d"
+    "d\u0026amp;d",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "goth",
+    "girl",
+    "v2",
+    "timothy",
+    "kong",
+    "https://www"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -211,
     "offset_y": -58,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -136,
     "offset_y": -36,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3300000000000003,
     "offset_x": -34,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/DDhAaGmUMAAg7yB?format=jpg&name=4096x4096",
+  "source": "https://pbs.twimg.com/media/DDhAaGmUMAAg7yB?format=jpg\u0026name=4096x4096",
   "md5": "42042EF32D0814F97DF83B41F8FF9903",
   "tags": [
     "tiefling",
@@ -32,7 +32,25 @@
     "tyrande",
     "whisperwind",
     "a",
-    "stas"
+    "stas",
+    "raven",
+    "queen",
+    "paladin",
+    "fan",
+    "symbol",
+    "blue",
+    "eyes",
+    "ultimate",
+    "dragon",
+    "lord",
+    "rings",
+    "maokai",
+    "yorick",
+    "peihao",
+    "female",
+    "warlock",
+    "kim",
+    "herbst"
   ],
   "small": {
     "scale": 0.22999999999999932,
@@ -56,6 +74,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

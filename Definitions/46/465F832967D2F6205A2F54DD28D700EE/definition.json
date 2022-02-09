@@ -2,27 +2,48 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/037/607/199/large/xiaoguang-sun-.jpg?1620827428",
   "md5": "465F832967D2F6205A2F54DD28D700EE",
   "tags": [
-    ""
+    "",
+    "tenchu",
+    "ninja",
+    "artwork",
+    "dragon",
+    "girl",
+    "chuby",
+    "mi",
+    "kronus",
+    "fist",
+    "rune",
+    "lord",
+    "sebastian",
+    "horoszko",
+    "works135",
+    "song",
+    "nan",
+    "li",
+    "warcraft"
   ],
   "small": {
     "scale": 1,
     "offset_x": -652.6666666666667,
     "offset_y": -88,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -272.0000000000002,
     "offset_y": -9.999999999999886,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -351.9999999999998,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,7 +3,24 @@
   "md5": "82BB72E9449857EEA1374E345792FB24",
   "tags": [
     "drow",
-    "female"
+    "female",
+    "elf",
+    "warlock",
+    "monk",
+    "artwork",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "cover",
+    "book",
+    "\u0022project",
+    "honora\u0022",
+    "eva",
+    "kosmos"
   ],
   "small": {
     "scale": 1.07,
@@ -27,6 +44,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

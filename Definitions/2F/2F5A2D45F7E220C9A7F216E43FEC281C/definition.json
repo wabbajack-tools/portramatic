@@ -6,7 +6,34 @@
     "witcher",
     "fighter",
     "mutation warrior",
-    ""
+    "",
+    "blood",
+    "elf",
+    "hunter",
+    "girl",
+    "gothic",
+    "clothing",
+    "zombie",
+    "apocalypse",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "owl",
+    "assassin",
+    "ming",
+    "li",
+    "character",
+    "design",
+    "kaneda",
+    "tetsuo.",
+    "akira",
+    "angela",
+    "\u0022jing"
   ],
   "small": {
     "scale": 0.98,
@@ -30,6 +57,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

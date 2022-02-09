@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/736x/67/8d/03/678d03bf7c12b399b4b90039210b348e--character-ideas-character-inspiration.jpg",
   "md5": "8D04E4DD3EE1D4CCBF2DA491C545DFC9",
   "tags": [
-    "elf"
+    "elf",
+    "dungeons",
+    "dragons",
+    "dragon",
+    "concept",
+    "character",
+    "sketch",
+    "game",
+    "thrones",
+    "clash",
+    "titans",
+    "wrath",
+    "heavy",
+    "armor",
+    "lord",
+    "rings",
+    "archer",
+    "artur",
+    "treffner",
+    "female",
+    "assassin",
+    "warrior",
+    "timi",
+    "hankimaa",
+    "zizka",
+    "tomas",
+    "duchek",
+    "https://www"
   ],
   "small": {
     "scale": 0.8199999999999998,
     "offset_x": -163,
     "offset_y": -69,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -38,
     "offset_y": -46,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.95,
     "offset_x": -10,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

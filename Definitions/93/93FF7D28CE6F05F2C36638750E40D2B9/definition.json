@@ -2,27 +2,56 @@
   "source": "https://i.imgur.com/uvk75Lo.jpeg",
   "md5": "93FF7D28CE6F05F2C36638750E40D2B9",
   "tags": [
-    ""
+    "",
+    "berserk",
+    "guts",
+    "tattoo",
+    "casca",
+    "artwork",
+    "female",
+    "assassin",
+    "orc",
+    "warrior",
+    "dragon",
+    "armor",
+    "kingmaker",
+    "dwarf",
+    "archer",
+    "vyacheslav",
+    "safronov",
+    "https://www",
+    "persia",
+    "junq",
+    "jeon",
+    "women",
+    "anime",
+    "concept",
+    "swordswoman",
+    "sikarin",
+    "susirakarn"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -180.66666666666669,
     "offset_y": -39.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -158,
     "offset_y": -29.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

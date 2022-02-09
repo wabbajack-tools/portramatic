@@ -2,27 +2,65 @@
   "source": "https://i.pinimg.com/originals/da/51/4a/da514aecb22d601c0ed5d1ea843e5dbd.jpg",
   "md5": "58AFF3BF1A87EE49A198CC2168C4A793",
   "tags": [
-    ""
+    "",
+    "funny",
+    "characters",
+    "character",
+    "sketches",
+    "druid",
+    "renaissance",
+    "costumes",
+    "coats",
+    "trench",
+    "coat",
+    "female",
+    "assassin",
+    "leather",
+    "armor",
+    "armors",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "shoes",
+    "boots",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "\u9879\u76EE\u5E9F\u56FE",
+    "tao",
+    "xian",
+    "https://www.artstation.com",
+    "concept",
+    "mariia",
+    "bulgakova",
+    "patricc",
+    "woo",
+    "kyungzin",
+    "https://www"
   ],
   "small": {
     "scale": 1.2200000000000002,
     "offset_x": -381.142857142857,
     "offset_y": -33.714285714285666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1700000000000002,
     "offset_x": -304.57142857142844,
     "offset_y": -30.857142857142833,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -1.1428571428571104,
     "offset_y": -3.428571428571331,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

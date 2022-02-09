@@ -1,30 +1,51 @@
 {
-  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fheroesofthestorm%2Fimages%2F5%2F5e%2FRexxar_champion_of_the_horde_by_mr_jack.jpg%2Frevision%2Flatest%3Fcb%3D20180129152412&f=1&nofb=1",
+  "source": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fheroesofthestorm%2Fimages%2F5%2F5e%2FRexxar_champion_of_the_horde_by_mr_jack.jpg%2Frevision%2Flatest%3Fcb%3D20180129152412\u0026f=1\u0026nofb=1",
   "md5": "098B8D71495F2A18FC6EABF298CE84B0",
   "tags": [
     "rexxar",
     "orc",
-    "warcraft"
+    "warcraft",
+    "wow",
+    "wallpaper",
+    "st.",
+    "michael",
+    "orcs",
+    "legend",
+    "cryptids",
+    "lius",
+    "lasahido",
+    "alba",
+    "armored",
+    "division",
+    "grafit",
+    "studio",
+    "huangzhong2",
+    "hua",
+    "lu",
+    "https://www"
   ],
   "small": {
     "scale": 1,
     "offset_x": -600,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -508,
     "offset_y": -7,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -164,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

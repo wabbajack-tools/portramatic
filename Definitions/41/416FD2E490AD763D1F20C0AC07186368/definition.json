@@ -7,7 +7,30 @@
     "witcher",
     "warrior",
     "fighter",
-    "male"
+    "male",
+    "creatures",
+    "armor",
+    "weapons",
+    "chaos",
+    "game",
+    "thrones",
+    "spartan",
+    "medieval",
+    "knights",
+    "samurai",
+    "heavy",
+    "african",
+    "american",
+    "wastelander",
+    "axel",
+    "sellsword",
+    "cher",
+    "see",
+    "goh",
+    "https://www",
+    "kingmaker",
+    "ashman",
+    "akim"
   ],
   "small": {
     "scale": 1.1900000000000002,
@@ -31,6 +54,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

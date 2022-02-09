@@ -22,7 +22,23 @@
     "demon",
     "slayer",
     "hitokiri",
-    "nguyen"
+    "nguyen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "blind",
+    "mage",
+    "linn",
+    "kristine",
+    "pettersen",
+    "witch",
+    "jordan",
+    "jardine",
+    "tiefling",
+    "rogue",
+    "illustration"
   ],
   "small": {
     "scale": 0.36999999999999944,
@@ -46,6 +62,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

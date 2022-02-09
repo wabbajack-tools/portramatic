@@ -20,7 +20,7 @@
     "bing",
     "https://www.artstation",
     "sylvanas",
-    "val'kyr",
+    "val\u0027kyr",
     "leslie",
     "casilli"
   ],
@@ -46,6 +46,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

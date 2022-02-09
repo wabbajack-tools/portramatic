@@ -13,25 +13,54 @@
     "comics",
     "female",
     "demon",
-    "succubus"
+    "succubus",
+    "girl",
+    "wings",
+    "anime",
+    "with",
+    "league",
+    "legends",
+    "black",
+    "dragon",
+    "chinese",
+    "red",
+    "avatar",
+    "haila",
+    "hela",
+    "zhang",
+    "dameng",
+    "concept",
+    "morrigan",
+    "moonlight",
+    "michelle",
+    "pao",
+    "dark",
+    "elves",
+    "ennn",
+    "liao"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -193.00000000000654,
     "offset_y": -100.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -18.800000000000125,
     "offset_y": -70.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -28.379629629629335,
     "offset_y": -60.435185185184764,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

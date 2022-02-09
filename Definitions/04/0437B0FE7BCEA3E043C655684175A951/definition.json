@@ -2,27 +2,58 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/002/930/847/large/clint-cearley-gisela-da.jpg?1467399272",
   "md5": "0437B0FE7BCEA3E043C655684175A951",
   "tags": [
-    ""
+    "",
+    "mtg",
+    "angel",
+    "cards",
+    "brisela",
+    "magic",
+    "gathering",
+    "gisela",
+    "anime",
+    "girl",
+    "broken",
+    "blade",
+    "clint",
+    "cearley",
+    "\uC694\uAD34",
+    "\uD32C\uC544\uD2B8",
+    "wan",
+    "young",
+    "yun",
+    "character",
+    "design",
+    "male",
+    "wuxia",
+    "wolf",
+    "tyson",
+    "murphy",
+    "werewolf",
+    "cartoon",
+    "drawing"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -617.3333333333329,
     "offset_y": -211.99999999999977,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -371.3333333333336,
     "offset_y": -133.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -372.0000000000002,
     "offset_y": -19.99999999999983,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

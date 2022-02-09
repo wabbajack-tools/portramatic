@@ -10,27 +10,37 @@
     "ye",
     "ol",
     "turt",
-    "tavern"
+    "tavern",
+    "anime",
+    "girl",
+    "felix",
+    "trap",
+    "ever",
+    "xd",
+    "noragoto"
   ],
   "small": {
     "scale": 0.97,
     "offset_x": -402,
     "offset_y": -81,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -207,
     "offset_y": -15,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -133,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

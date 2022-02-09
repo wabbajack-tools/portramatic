@@ -16,27 +16,39 @@
     "leesin",
     "fanart",
     "ckn",
-    "cuong"
+    "cuong",
+    "tamamo",
+    "no",
+    "mae",
+    "meme",
+    "animation",
+    "zombies",
+    "egypt",
+    "vasilyna",
+    "holod"
   ],
   "small": {
     "scale": 0.94,
     "offset_x": -466.3333333333301,
     "offset_y": -193.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -197.66666666666674,
     "offset_y": -94.33333333333334,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6599999999999997,
     "offset_x": -17.999999999999545,
     "offset_y": -7.333333333333428,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

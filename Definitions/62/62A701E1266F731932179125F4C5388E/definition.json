@@ -23,27 +23,57 @@
     "stars",
     "muscle",
     "johan",
-    "egerkrans"
+    "egerkrans",
+    "league",
+    "concept",
+    "summoner",
+    "lol",
+    "guardians",
+    "galaxy",
+    "castlevania",
+    "lords",
+    "shadow",
+    "rise",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "griffin",
+    "archer",
+    "hunter",
+    "schulz",
+    "world",
+    "j",
+    "lan",
+    "artstation.",
+    "pictures",
+    "anime",
+    "spectrum",
+    "magic",
+    "mansik",
+    "yang"
   ],
   "small": {
     "scale": 1.4900000000000004,
     "offset_x": -485.66666666666674,
     "offset_y": -504.3333333333335,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999999,
     "offset_x": -116.66666666666663,
     "offset_y": -152,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -207.33333333333326,
     "offset_y": -242.66666666666652,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

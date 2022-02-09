@@ -9,7 +9,22 @@
     "nature",
     "birds",
     "flowers",
-    "wings"
+    "wings",
+    "magic",
+    "wood",
+    "armor",
+    "tregis",
+    "forest",
+    "dryade",
+    "ramza",
+    "ardyputra",
+    "jungle",
+    "artwork",
+    "spirit",
+    "marta",
+    "nael",
+    "digital",
+    "illustration"
   ],
   "small": {
     "scale": 0.6500000000000001,
@@ -33,6 +48,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

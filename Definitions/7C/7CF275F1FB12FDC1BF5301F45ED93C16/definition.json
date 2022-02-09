@@ -19,7 +19,7 @@
     "knight",
     "tiefling",
     "theresa",
-    "königseder-haller",
+    "k\uFFFDnigseder-haller",
     "dungeons",
     "rogue",
     "alexey",
@@ -28,7 +28,24 @@
     "red",
     "mikhail",
     "palamarchuk",
-    "design"
+    "design",
+    "drawing",
+    "dark",
+    "orc",
+    "warrior",
+    "souls",
+    "\u4E2D\u4E16\u7EAA\u9A91\u58EB",
+    "yunhao",
+    "zheng",
+    "rpg",
+    "sun",
+    "wukong",
+    "huifeng",
+    "huang",
+    "wood",
+    "archer",
+    "alfonso",
+    "maesa"
   ],
   "small": {
     "scale": 1,
@@ -52,6 +69,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

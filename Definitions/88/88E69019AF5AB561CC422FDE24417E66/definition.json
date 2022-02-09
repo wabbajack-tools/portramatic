@@ -20,7 +20,13 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "outer_wear",
-    "jacket"
+    "jacket",
+    "trish",
+    "witcher",
+    "cosplay",
+    "tess",
+    "triss",
+    "dress"
   ],
   "small": {
     "scale": 0.46999999999999953,
@@ -44,6 +50,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

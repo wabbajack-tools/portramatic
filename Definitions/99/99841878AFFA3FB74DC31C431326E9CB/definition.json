@@ -2,27 +2,43 @@
   "source": "https://i.redd.it/xlfmen4l4f681.jpg",
   "md5": "99841878AFFA3FB74DC31C431326E9CB",
   "tags": [
-    ""
+    "",
+    "four",
+    "horsemen",
+    "marvel",
+    "comics",
+    "guardians",
+    "galaxy",
+    "dc",
+    "dice",
+    "will",
+    "roll",
+    "podcast",
+    "characters",
+    "david"
   ],
   "small": {
     "scale": 1.5500000000000005,
     "offset_x": -1825,
     "offset_y": -304,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -943,
     "offset_y": -135,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -992,
     "offset_y": -158,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

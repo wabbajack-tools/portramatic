@@ -12,7 +12,12 @@
     "frost",
     "ahri",
     "casper",
-    "hansen"
+    "hansen",
+    "dragon",
+    "warrior",
+    "anime",
+    "cool",
+    "girl"
   ],
   "small": {
     "scale": 0.26999999999999935,
@@ -36,6 +41,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

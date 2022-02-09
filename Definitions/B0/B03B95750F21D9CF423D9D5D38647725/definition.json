@@ -4,27 +4,44 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "gothic",
+    "demons",
+    "queen",
+    "demon",
+    "western",
+    "valeera",
+    "sanguinar",
+    "anastasia",
+    "yakovleva",
+    "fel",
+    "prince",
+    "gallywix",
+    "ivan",
+    "fomin"
   ],
   "small": {
     "scale": 2.279999999999993,
     "offset_x": -667,
     "offset_y": -263,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6300000000000006,
     "offset_x": -331,
     "offset_y": -156,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4200000000000004,
     "offset_x": -92,
     "offset_y": -62,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

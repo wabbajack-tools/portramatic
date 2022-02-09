@@ -1,10 +1,22 @@
 {
-  "source": "https://pbs.twimg.com/media/EFAPzAHU8AAJC-Q?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EFAPzAHU8AAJC-Q?format=jpg\u0026name=large",
   "md5": "56F1120BBB49D68893ED7CBC69FB8306",
   "tags": [
     "angelic",
     "gift",
-    "mtg"
+    "mtg",
+    "regal",
+    "force",
+    "nissa",
+    "despair",
+    "lord",
+    "rings",
+    "dungeons",
+    "dragons",
+    "magic",
+    "gathering",
+    "concept",
+    "house"
   ],
   "small": {
     "scale": 0.9299999999999999,
@@ -28,6 +40,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

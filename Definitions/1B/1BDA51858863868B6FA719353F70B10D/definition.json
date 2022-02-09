@@ -12,7 +12,7 @@
     "warrior",
     "concept",
     "armor",
-    "god's",
+    "god\u0027s",
     "angels",
     "lich",
     "king",
@@ -30,7 +30,7 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
@@ -40,7 +40,19 @@
     "chris",
     "rallis",
     "2020",
-    "skyrim"
+    "skyrim",
+    "cher",
+    "drawings",
+    "headdress",
+    "pin",
+    "up",
+    "league",
+    "legends",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.26999999999999935,
@@ -64,6 +76,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

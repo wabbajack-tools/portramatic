@@ -2,7 +2,14 @@
   "source": "https://static.wikia.nocookie.net/eternitywiki/images/5/5c/Portrait_Rekke_lg.png/revision/latest/scale-to-width-down/250?cb=20180511105709",
   "md5": "CE86B2D380BC9C21848637FE36598DA3",
   "tags": [
-    ""
+    "",
+    "dead",
+    "fire",
+    "portraits",
+    "pillars",
+    "eternity",
+    "companions",
+    "characters"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +33,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

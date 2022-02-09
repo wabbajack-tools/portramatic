@@ -32,7 +32,24 @@
     "tyrande",
     "whisperwind",
     "a",
-    "stas"
+    "stas",
+    "critical",
+    "role",
+    "fan",
+    "character",
+    "vox",
+    "machina",
+    "take",
+    "vengeance",
+    "mtg",
+    "randy",
+    "vargas",
+    "vargasni",
+    "demonologist",
+    "irina",
+    "nordsol",
+    "kuzmina",
+    "artist"
   ],
   "small": {
     "scale": 0.8399999999999999,
@@ -56,6 +73,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

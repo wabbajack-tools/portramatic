@@ -2,25 +2,60 @@
   "source": "https://i.pinimg.com/474x/0d/65/b2/0d65b23bfdfdc975509f176a0d498bcd--character-concept-character-ideas.jpg",
   "md5": "DD3AA2666A4636BF428D57AB89D78CC6",
   "tags": [
-    ""
+    "",
+    "percy",
+    "jackson",
+    "poems",
+    "fan",
+    "fandom",
+    "league",
+    "legends",
+    "star",
+    "wars",
+    "clone",
+    "jill",
+    "valentine",
+    "jerry",
+    "luo",
+    "resident",
+    "evil",
+    "girl",
+    "genevieve",
+    "oc",
+    "nopeys",
+    "norman",
+    "de",
+    "mesa",
+    "avengers",
+    "endgame",
+    "fan-made",
+    "poster",
+    "shawn",
+    "lee",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 1,
     "offset_x": -120,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -53,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6000000000000005,
     "offset_x": -46,
     "offset_y": 40,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

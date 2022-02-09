@@ -2,27 +2,53 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4e353a0-ccb6-4967-995f-8317019a1b8f/d5kg88e-15e68bb7-0700-47de-b5cf-f383a1258683.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0ZTM1M2EwLWNjYjYtNDk2Ny05OTVmLTgzMTcwMTlhMWI4ZlwvZDVrZzg4ZS0xNWU2OGJiNy0wNzAwLTQ3ZGUtYjVjZi1mMzgzYTEyNTg2ODMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PXF5kt-Y2GVnUtYJgpBN1_HMGxHkgnydH6swyFky0X4",
   "md5": "F70D67B424E4704731F624F3CFDA6776",
   "tags": [
-    ""
+    "",
+    "corrupt",
+    "knight",
+    "skeleton",
+    "corrupted",
+    "monster",
+    "world",
+    "warcraft",
+    "rogue",
+    "wow",
+    "druid",
+    "dodge",
+    "demon",
+    "humanoid",
+    "concept",
+    "design",
+    "andrea",
+    "chiampo",
+    "armor",
+    "robot",
+    "undying",
+    "set",
+    "rodion",
+    "vlasov"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -3785,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -2212,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8799999999999999,
     "offset_x": -2310,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

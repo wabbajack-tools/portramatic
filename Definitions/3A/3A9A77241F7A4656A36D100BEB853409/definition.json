@@ -9,7 +9,29 @@
     "demon",
     "nightmare",
     "female",
-    "demons"
+    "demons",
+    "league",
+    "legends",
+    "reaper",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "\u5149\u7FFC\u5B66\u56ED\u5546\u4E1A\u6280\u6CD5\u7F51\u7EDC\u539F\u753B\u73ED\u4F18\u79C0\u4F5C\u54C1",
+    "\u5149\u7FFC\u5B66\u56ED",
+    "lightwing",
+    "academy",
+    "bloodmoon",
+    "zilean",
+    "christian",
+    "fell",
+    "overwatch",
+    "halloween",
+    "skins",
+    "props",
+    "renaud",
+    "galand"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -28,11 +50,11 @@
   "full": {
     "scale": 2.069999999999998,
     "offset_x": -59.33333333333303,
-    "offset_y": -1.1368683772161603e-13,
+    "offset_y": -1.1368683772161603E-13,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

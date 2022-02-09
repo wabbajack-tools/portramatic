@@ -2,27 +2,33 @@
   "source": "https://pbs.twimg.com/media/C8BQK6CXkAACyq6.jpg",
   "md5": "F38258AF9B2446CB93465191DB01E25C",
   "tags": [
-    ""
+    "",
+    "succubus",
+    "offering",
+    "call"
   ],
   "small": {
     "scale": 1.4400000000000004,
     "offset_x": -1106,
     "offset_y": -82,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -594,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5600000000000005,
     "offset_x": -772,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

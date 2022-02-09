@@ -30,7 +30,22 @@
     "back",
     "rkka",
     "batalion",
-    "commissar"
+    "commissar",
+    "curse",
+    "strahd",
+    "amber",
+    "temple",
+    "baba",
+    "lysaga",
+    "vallaki",
+    "ray",
+    "stevenson",
+    "actor",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -54,6 +69,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

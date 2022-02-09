@@ -10,27 +10,58 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "female",
+    "rogue",
+    "character",
+    "assassin",
+    "knight",
+    "armor",
+    "pirate",
+    "plate",
+    "dragon",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "athletic_shoes_or_sneakers",
+    "kessa",
+    "bard",
+    "monica",
+    "doss",
+    "dungeons",
+    "dragons",
+    "characters",
+    "witch",
+    "aymeric",
+    "ruiz",
+    "peredhil",
+    "ranger",
+    "conzi",
+    "tool"
   ],
   "small": {
     "scale": 2.4199999999999937,
     "offset_x": -529.3333333333323,
     "offset_y": -123.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7700000000000007,
     "offset_x": -308.6666666666667,
     "offset_y": -63.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.579999999999998,
     "offset_x": -68.00000000000045,
     "offset_y": -40.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -3,27 +3,54 @@
   "md5": "1E3A7F36833BC7512A5FCA06AF38469B",
   "tags": [
     "male",
-    "warrior"
+    "warrior",
+    "httyd",
+    "oc",
+    "viking",
+    "warriors",
+    "chaos",
+    "hobbit",
+    "samurai",
+    "armor",
+    "old",
+    "work",
+    "for",
+    "fantasica",
+    "card",
+    "game.",
+    "yutthaphong",
+    "kaewsuk",
+    "fighter",
+    "knight",
+    "again",
+    "akha",
+    "demon",
+    "hunter",
+    "nele",
+    "diel"
   ],
   "small": {
     "scale": 1,
     "offset_x": -423,
     "offset_y": -177,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -357,
     "offset_y": -168,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -134,
     "offset_y": -157,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,19 @@
   "source": "https://i.pinimg.com/564x/81/5a/a0/815aa09ec6773d4f060e3ebd0dc0c73d.jpg",
   "md5": "0A8A232C98882926CA5A6D30F2A2F0DD",
   "tags": [
-    ""
+    "",
+    "generator",
+    "dd",
+    "portraits",
+    "female",
+    "elf",
+    "thin",
+    "hair",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.7999999999999998,
@@ -26,6 +38,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

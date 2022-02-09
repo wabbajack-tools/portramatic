@@ -2,27 +2,49 @@
   "source": "https://images.wallpapersden.com/image/download/crusader-diablo-3_bGZsZmmUmZqaraWkpJRmZmdqrWdpaGs.jpg",
   "md5": "2B4327A8327450E681B5B924529BBAAF",
   "tags": [
-    ""
+    "",
+    "crispy",
+    "chicken",
+    "nuggets",
+    "air",
+    "fryer",
+    "with",
+    "cheese",
+    "orc",
+    "warrior",
+    "orcs",
+    "medieval",
+    "knight",
+    "julian",
+    "schadt",
+    "https://www.artstation.com/artwork/8awpq",
+    "female",
+    "jin",
+    "woo",
+    "park"
   ],
   "small": {
     "scale": 0.8399999999999999,
     "offset_x": -383,
     "offset_y": -402,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -266,
     "offset_y": -331,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8199999999999998,
     "offset_x": -94,
     "offset_y": -290,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,64 @@
   "source": "https://i.pinimg.com/originals/45/f2/cf/45f2cffc5efe508035843e809aaf3f69.png",
   "md5": "52434294062C6A0DB963499F8EA9158C",
   "tags": [
-    ""
+    "",
+    "orc",
+    "druid",
+    "wizard",
+    "monk",
+    "concept",
+    "knight",
+    "armor",
+    "god",
+    "war",
+    "ghost",
+    "sparta",
+    "kratos",
+    "heavy",
+    "armors",
+    "renaissance",
+    "costumes",
+    "dark",
+    "elf",
+    "knights",
+    "warriors",
+    "yerbol",
+    "bulentayev",
+    "lord",
+    "necromancer",
+    "swame",
+    "studio",
+    "character",
+    "design",
+    "monster",
+    "edan",
+    "guardians",
+    "pierre-alain",
+    "reymond",
+    "warrior"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -238,
     "offset_y": -13,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6199999999999997,
     "offset_x": -110,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": 0,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

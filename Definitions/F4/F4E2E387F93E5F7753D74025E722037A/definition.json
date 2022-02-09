@@ -2,25 +2,56 @@
   "source": "https://i.pinimg.com/originals/4f/43/50/4f4350baa06fcf75abc661c4c355705d.jpg",
   "md5": "F4E2E387F93E5F7753D74025E722037A",
   "tags": [
-    ""
+    "",
+    "babau",
+    "baba",
+    "yaga",
+    "atropus",
+    "dark",
+    "elf",
+    "vampire",
+    "counts",
+    "angel",
+    "knight",
+    "rises",
+    "yuan",
+    "minzhe",
+    "#technoskullmonday",
+    "vitaly",
+    "bulgarov",
+    "badass",
+    "drawings",
+    "sci",
+    "fi",
+    "concept",
+    "big",
+    "bad",
+    "beast",
+    "daumantas",
+    "goda"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -347,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.37999999999999945,
     "offset_x": -101,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7599999999999998,
     "offset_x": -165,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,40 @@
   "source": "https://w0.peakpx.com/wallpaper/317/156/HD-wallpaper-tanjiro-fan-art-anime-demon-slayer-kimetsu-no-yaiba-otaku-tanjiro-kamado-tanjirou.jpg",
   "md5": "485D049B6F57A1C43F78418F8E8A91F3",
   "tags": [
-    ""
+    "",
+    "demon",
+    "slayer",
+    "concept",
+    "blood",
+    "halloween",
+    "anime",
+    "girl",
+    "\uFF032019\u79CB\u5B63\u89D2\u8272\u73ED\uFF03\u5B66\u5458\u4F5C\u4E1A\u9009\u767B",
+    "star",
+    "academy"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -87,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -4,
     "offset_y": -28,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -40,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

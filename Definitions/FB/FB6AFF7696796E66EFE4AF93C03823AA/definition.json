@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/originals/d7/50/03/d75003c2d8a889e4d9f785cf180c33ea.jpg",
   "md5": "FB6AFF7696796E66EFE4AF93C03823AA",
   "tags": [
-    ""
+    "",
+    "shadar-kai",
+    "character",
+    "rogue",
+    "hobbit",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5899999999999996,
@@ -26,6 +35,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

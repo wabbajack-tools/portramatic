@@ -2,27 +2,33 @@
   "source": "https://i.pinimg.com/564x/1b/66/cb/1b66cb16dd4c9e18ab3ceb7b07e83f57.jpg",
   "md5": "0951B234051B9E15E169FAEF88FC0EEA",
   "tags": [
-    ""
+    "",
+    "mdzs",
+    "barazoku",
+    "\u8594\u8587\u65CFart"
   ],
   "small": {
     "scale": 1.8500000000000008,
     "offset_x": -372,
     "offset_y": -28,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -143,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -26,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

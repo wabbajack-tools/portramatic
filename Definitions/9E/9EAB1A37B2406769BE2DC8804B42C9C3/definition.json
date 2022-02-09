@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/736x/83/24/7f/83247f0f3eee03cafa5bd80e3103e5c9.jpg",
   "md5": "9EAB1A37B2406769BE2DC8804B42C9C3",
   "tags": [
-    ""
+    "",
+    "black",
+    "woman",
+    "character",
+    "african",
+    "american",
+    "female",
+    "warrior",
+    "concept",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "vest"
   ],
   "small": {
     "scale": 0.98,
     "offset_x": -209,
     "offset_y": -65,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.07,
     "offset_x": -162,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6900000000000006,
     "offset_x": -170,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

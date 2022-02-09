@@ -2,27 +2,45 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa9affc9-14cf-489f-a816-b93e8059bbad/de6sf8y-b69af370-cc11-431f-989c-f3b6a5a4434f.png/v1/fill/w_1920,h_2638,q_80,strp/tiefling_commission_by_coyotic_de6sf8y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjYzOCIsInBhdGgiOiJcL2ZcL2ZhOWFmZmM5LTE0Y2YtNDg5Zi1hODE2LWI5M2U4MDU5YmJhZFwvZGU2c2Y4eS1iNjlhZjM3MC1jYzExLTQzMWYtOTg5Yy1mM2I2YTVhNDQzNGYucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DIhlMg6X3nDu0OnU2c1XmFWDnSo2VF_8dtS_YCeR-nY",
   "md5": "CFB23115A666BFBCD48BCFA766976207",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "fan",
+    "scarlet",
+    "witch",
+    "apinan",
+    "phasukgowitsiri",
+    "oksana",
+    "olga",
+    "ivanova"
   ],
   "small": {
     "scale": 0.47999999999999954,
     "offset_x": -303,
     "offset_y": -107,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.26999999999999935,
     "offset_x": -74,
     "offset_y": -5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.39999999999999947,
     "offset_x": -6,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,7 +7,10 @@
     "warrior",
     "paladin",
     "knight",
-    "sword"
+    "sword",
+    "dark",
+    "concept",
+    "helmet"
   ],
   "small": {
     "scale": 0.5399999999999996,
@@ -31,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

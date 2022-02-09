@@ -2,27 +2,37 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/feac120a-4482-4a91-9cee-fce7fbde0dbe/deewokf-5beb4b61-927a-4929-8955-38bd5378286f.png/v1/fill/w_1280,h_1705,q_80,strp/dying_light_by_astri_lohne_deewokf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwNSIsInBhdGgiOiJcL2ZcL2ZlYWMxMjBhLTQ0ODItNGE5MS05Y2VlLWZjZTdmYmRlMGRiZVwvZGVld29rZi01YmViNGI2MS05MjdhLTQ5MjktODk1NS0zOGJkNTM3ODI4NmYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LhbXmWeXfj4UvRHB_YJVUk1rWiLCzeq2No0XCK9xZZg",
   "md5": "A1898387E6AD9F2ED32C5C0657D9FD03",
   "tags": [
-    ""
+    "",
+    "lover",
+    "\u9149",
+    "\u94B2",
+    "slan",
+    "berserk",
+    "anato",
+    "finnstark"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -97,
     "offset_y": -17,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299999999999994,
     "offset_x": -47,
     "offset_y": -8,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6299999999999997,
     "offset_x": -42,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

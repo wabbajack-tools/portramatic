@@ -2,27 +2,56 @@
   "source": "https://i.pinimg.com/564x/53/9d/1e/539d1e46d5217b2569a3fa8ba09408f8.jpg",
   "md5": "AF595CCDF406A19C512B80AD751A89DA",
   "tags": [
-    ""
+    "",
+    "death",
+    "knight",
+    "sniper",
+    "ghost",
+    "warrior",
+    "armor",
+    "armors",
+    "umbral",
+    "wraiths",
+    "dark",
+    "angels",
+    "chapter",
+    "master",
+    "l",
+    "fire",
+    "raymond",
+    "minnaar",
+    "concept",
+    "wwe",
+    "immortals",
+    "paige",
+    "02",
+    "zhao",
+    "yan",
+    "\u256E(\uFFE3",
+    "\uFFE3\u0022)\u256D"
   ],
   "small": {
     "scale": 1.7100000000000006,
     "offset_x": -371,
     "offset_y": -118,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -113,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4300000000000004,
     "offset_x": -64,
     "offset_y": -20,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

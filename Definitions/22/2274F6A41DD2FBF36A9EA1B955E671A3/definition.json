@@ -6,7 +6,24 @@
     "doctor",
     "mad",
     "sientist",
-    ""
+    "",
+    "scientist",
+    "logo",
+    "experiment",
+    "halloween",
+    "pirates",
+    "caribbean",
+    "guardians",
+    "galaxy",
+    "joker",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "glasses",
+    "steampunk",
+    "girl",
+    "maksym",
+    "haydar"
   ],
   "small": {
     "scale": 0.5099999999999996,
@@ -30,6 +47,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

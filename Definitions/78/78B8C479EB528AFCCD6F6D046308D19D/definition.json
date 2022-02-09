@@ -13,7 +13,27 @@
     "fashion_cosmetics_or_accessories",
     "accessories",
     "jewelry",
-    "necklace"
+    "necklace",
+    "xu",
+    "wen",
+    "ting",
+    "ya",
+    "yu",
+    "predator",
+    "skyrim",
+    "forest",
+    "watchara",
+    "horthong",
+    "https://www",
+    "witcher",
+    "wild",
+    "hunt",
+    "illustrations",
+    "song",
+    "ice",
+    "fire",
+    "diego",
+    "navarrete"
   ],
   "small": {
     "scale": 1.2700000000000002,
@@ -32,11 +52,11 @@
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -323.5740740740739,
-    "offset_y": -1.1368683772161603e-13,
+    "offset_y": -1.1368683772161603E-13,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

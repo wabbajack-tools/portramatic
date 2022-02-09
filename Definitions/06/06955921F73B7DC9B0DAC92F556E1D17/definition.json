@@ -37,7 +37,26 @@
     "characters",
     "order",
     "dix",
-    "shou"
+    "shou",
+    "d\u0026d",
+    "armor",
+    "armors",
+    "samurai",
+    "plate",
+    "dress_shoes",
+    "tsas",
+    "chiher",
+    "naranbaatar",
+    "ganbold",
+    "concept",
+    "dead",
+    "alexander",
+    "shatohin",
+    "design",
+    "link",
+    "redesign",
+    "andrew",
+    "doris"
   ],
   "small": {
     "scale": 1.5000000000000004,
@@ -61,6 +80,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

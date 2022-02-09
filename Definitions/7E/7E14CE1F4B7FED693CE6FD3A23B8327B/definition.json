@@ -1,5 +1,5 @@
 {
-  "source": "https://steamuserimages-a.akamaihd.net/ugc/932690098346232256/B0D04DCCB857C6095D544B4E66624BEFCA511D1A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "source": "https://steamuserimages-a.akamaihd.net/ugc/932690098346232256/B0D04DCCB857C6095D544B4E66624BEFCA511D1A/?imw=5000\u0026imh=5000\u0026ima=fit\u0026impolicy=Letterbox\u0026imcolor=%23000000\u0026letterbox=false",
   "md5": "7E14CE1F4B7FED693CE6FD3A23B8327B",
   "tags": [
     "sorcerer",
@@ -8,7 +8,25 @@
     "male",
     "hunter",
     "fury",
-    "young"
+    "young",
+    "wizard",
+    "vs",
+    "cool",
+    "chaos",
+    "warrior",
+    "dragon",
+    "age",
+    "origins",
+    "gears",
+    "war",
+    "mark",
+    "thor",
+    "aleksi",
+    "briclot",
+    "loc",
+    "mansik",
+    "yang",
+    "character"
   ],
   "small": {
     "scale": 1.8446666666666671,
@@ -32,6 +50,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

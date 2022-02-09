@@ -20,27 +20,57 @@
     "afterlife",
     "online",
     "moniek",
-    "schilder"
+    "schilder",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "dark",
+    "souls",
+    "league",
+    "legends",
+    "knight",
+    "archer",
+    "dmitry",
+    "lyapin",
+    "sci",
+    "fi",
+    "design",
+    "thor",
+    "ragnarok",
+    "surtur",
+    "wounded",
+    "aleksi",
+    "briclot",
+    "orc",
+    "hyunjoong",
+    ".",
+    "artwork",
+    "dragon"
   ],
   "small": {
     "scale": 1.1600000000000001,
     "offset_x": -605,
     "offset_y": -94,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8099999999999998,
     "offset_x": -353.5,
     "offset_y": -50.5,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8999999999999999,
     "offset_x": -176,
     "offset_y": -5,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,38 @@
   "source": "https://staticdelivery.nexusmods.com/mods/1704/images/50386/50386-1621912600-8675677.jpeg",
   "md5": "8B0C090C75E2207F7D42E8D6785995C4",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots",
+    "panties"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -190,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -94,
     "offset_y": -6,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -132,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

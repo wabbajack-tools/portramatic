@@ -28,7 +28,26 @@
     "creatures",
     "tribe",
     "joart",
-    "14"
+    "14",
+    "race",
+    "human_made_object",
+    "tools_equipments_instruments",
+    "musical_instrument",
+    "junk_ssakimetel_04",
+    "ssaki",
+    "metel",
+    "female",
+    "bane",
+    "starwas",
+    "pierre",
+    "leissler",
+    "aka",
+    "ples",
+    "flame",
+    "lasher",
+    "taylor",
+    "payton",
+    "arcane"
   ],
   "small": {
     "scale": 1.1,
@@ -52,6 +71,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

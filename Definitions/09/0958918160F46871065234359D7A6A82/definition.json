@@ -3,27 +3,43 @@
   "md5": "0958918160F46871065234359D7A6A82",
   "tags": [
     "leona",
-    "sevenbees"
+    "sevenbees",
+    "lol",
+    "fan",
+    "pool",
+    "party",
+    "skin",
+    "vi",
+    "snow",
+    "white",
+    "huntsman",
+    "auric",
+    "pen-draig",
+    "emperor",
+    "crown-nidea"
   ],
   "small": {
     "scale": 0.2999999999999994,
     "offset_x": -44,
     "offset_y": -40.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4299999999999995,
     "offset_x": -35.19999999999999,
     "offset_y": -58.39999999999998,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -9.611111111111313,
     "offset_y": -6.407407407407277,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

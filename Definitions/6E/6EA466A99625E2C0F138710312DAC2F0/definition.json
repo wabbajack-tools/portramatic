@@ -6,27 +6,50 @@
     "ice",
     "fire",
     "victarion",
-    "greyjoy"
+    "greyjoy",
+    "knight",
+    "armor",
+    "heavy",
+    "armors",
+    "samurai",
+    "plate",
+    "dragon",
+    "grumm",
+    "oleg",
+    "kapustin",
+    "\uC2B54",
+    "k",
+    "ei",
+    "character",
+    "warrior",
+    "design",
+    "betrayer",
+    "\u3147\u3147",
+    "joo",
+    "https://www.artstation.com/artwork/3oo22"
   ],
   "small": {
     "scale": 2.9099999999999815,
     "offset_x": -375,
     "offset_y": -116,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3300000000000003,
     "offset_x": -50,
     "offset_y": -19,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.3899999999999926,
     "offset_x": -22,
     "offset_y": -36,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

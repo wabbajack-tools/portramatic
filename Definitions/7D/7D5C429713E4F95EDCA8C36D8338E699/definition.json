@@ -4,27 +4,30 @@
   "tags": [
     "solar",
     "jasonengle",
-    "d&amp;d"
+    "d\u0026amp;d"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": -252,
     "offset_y": -153,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -44,
     "offset_y": -44,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -54,
     "offset_y": -42,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

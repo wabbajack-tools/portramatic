@@ -2,27 +2,53 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f1cc1b2-31e1-4488-b6d9-ccb346ec5fb3/d7q6zmt-30d40aa2-fd4b-4ba5-8618-a086ccdeea7e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmMWNjMWIyLTMxZTEtNDQ4OC1iNmQ5LWNjYjM0NmVjNWZiM1wvZDdxNnptdC0zMGQ0MGFhMi1mZDRiLTRiYTUtODYxOC1hMDg2Y2NkZWVhN2UuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bUZTTc1bOEn12_S_0p4TKbB9-EcBLZJQ3jQ70cC4wmE",
   "md5": "DD0102FD03646105A03976EC5D0284A9",
   "tags": [
-    ""
+    "",
+    "legend",
+    "cryptids",
+    "characters",
+    "cards",
+    "korra",
+    "dark",
+    "elf",
+    "anime",
+    "girl",
+    "ep",
+    "01",
+    "tr\u01B0\u01A1ng",
+    "mai",
+    "tr\u00FAc",
+    "character",
+    "beatrix",
+    "flores",
+    "philip",
+    "puskalyov",
+    "monster",
+    "drawings",
+    "caio",
+    "monteiro"
   ],
   "small": {
     "scale": 1.8500000000000008,
     "offset_x": -826,
     "offset_y": -357,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.08,
     "offset_x": -368,
     "offset_y": -175,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -78,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

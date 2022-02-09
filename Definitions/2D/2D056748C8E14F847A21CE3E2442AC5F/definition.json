@@ -22,7 +22,7 @@
     "random",
     "sketch",
     "und",
-    "unveröffentlichte",
+    "unver\uFFFDffentlichte",
     "art.",
     "jeremy",
     "chong",
@@ -42,7 +42,27 @@
     "zack",
     "stella",
     "mtg",
-    "magic"
+    "magic",
+    "wizard",
+    "sorcerer",
+    "demon",
+    "necromancer",
+    "orc",
+    "pirates",
+    "caribbean",
+    "death",
+    "arikh",
+    "evergreen",
+    "joseph",
+    "weston",
+    "harvest",
+    "livia",
+    "prima",
+    "elves",
+    "concept",
+    "surrounded",
+    "steven",
+    "shan"
   ],
   "small": {
     "scale": 0.7799999999999998,
@@ -66,6 +86,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,51 @@
   "source": "https://pbs.twimg.com/media/D_dC9UnXsAIBWLO.jpg",
   "md5": "FB6DD829A9C1FAD1EE7D4E3EF656348B",
   "tags": [
-    "Qunari III"
+    "Qunari III",
+    "knight",
+    "armor",
+    "samurai",
+    "dragon",
+    "black",
+    "knights",
+    "plate",
+    "thorns",
+    "daniel",
+    "kim",
+    "character",
+    "tabaxi",
+    "shadow",
+    "sorcerer",
+    "hound",
+    "ill",
+    "omen",
+    "tiefling",
+    "dark",
+    "leonardo",
+    "domingues"
   ],
   "small": {
     "scale": 1.04,
     "offset_x": -272.66666666666663,
     "offset_y": -242.00000000000006,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999996,
     "offset_x": -29.3333333333332,
     "offset_y": -79.33333333333323,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.07,
     "offset_x": -2.66666666666697,
     "offset_y": -156.00000000000023,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -1,8 +1,14 @@
 {
-  "source": "https://pbs.twimg.com/media/EQmALQ8XsAA3kIk?format=jpg&name=large",
+  "source": "https://pbs.twimg.com/media/EQmALQ8XsAA3kIk?format=jpg\u0026name=large",
   "md5": "F432B649888B781A49B03B0BD24D8530",
   "tags": [
-    ""
+    "",
+    "cartoon",
+    "characters",
+    "pokemon",
+    "trainer",
+    "anime",
+    "girl"
   ],
   "small": {
     "scale": 0.37999999999999945,
@@ -26,6 +32,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

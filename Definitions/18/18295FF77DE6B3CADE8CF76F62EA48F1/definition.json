@@ -2,27 +2,46 @@
   "source": "https://i.pinimg.com/564x/3c/66/43/3c664380ac70a13b9f5f2be3731c3af6.jpg",
   "md5": "18295FF77DE6B3CADE8CF76F62EA48F1",
   "tags": [
-    ""
+    "",
+    "skyrim",
+    "heavy",
+    "armor",
+    "game",
+    "thrones",
+    "elder",
+    "scrolls",
+    "online",
+    "lord",
+    "rings",
+    "arthas",
+    "menethil",
+    "armies",
+    "azeroth",
+    "poneti",
+    "studio"
   ],
   "small": {
     "scale": 2.50999999999999,
     "offset_x": -622,
     "offset_y": -261,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.079999999999999,
     "offset_x": -422,
     "offset_y": -190,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6500000000000006,
     "offset_x": -98,
     "offset_y": -84,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

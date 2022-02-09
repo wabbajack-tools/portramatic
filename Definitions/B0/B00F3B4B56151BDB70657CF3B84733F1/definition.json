@@ -8,27 +8,32 @@
     "eternal",
     "masters",
     "yohann",
-    "schepacz"
+    "schepacz",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 0.5199999999999996,
     "offset_x": -261.0000000000002,
     "offset_y": -58.60000000000002,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6899999999999997,
     "offset_x": -287,
     "offset_y": -59.400000000000034,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -466.8148148148148,
     "offset_y": -79.20370370370381,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

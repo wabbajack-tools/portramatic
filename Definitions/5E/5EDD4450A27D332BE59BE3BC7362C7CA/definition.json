@@ -10,7 +10,17 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "amazing",
+    "princess",
+    "zelda",
+    "cosplay",
+    "costume",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +44,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

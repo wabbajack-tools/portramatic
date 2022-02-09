@@ -2,7 +2,21 @@
   "source": "https://static.wikia.nocookie.net/dharrenalrpg/images/b/b1/DQHTq7c.jpg/revision/latest?cb=20200421093319",
   "md5": "8E38256CA720405F6F2312CF808B2772",
   "tags": [
-    "fetchling female"
+    "fetchling female",
+    "aasimar",
+    "pictures",
+    "warrior",
+    "druid",
+    "concept",
+    "predator",
+    "swamp",
+    "nikola",
+    "sinitsa",
+    "aku",
+    "\u60AA",
+    "cyberpunk",
+    "mexican",
+    "party"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -21,11 +35,11 @@
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -4.000000000000455,
-    "offset_y": -5.684341886080802e-14,
+    "offset_y": -5.684341886080802E-14,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

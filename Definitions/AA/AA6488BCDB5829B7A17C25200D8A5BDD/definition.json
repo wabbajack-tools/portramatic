@@ -4,27 +4,34 @@
   "tags": [
     "girl",
     "female",
-    "tiefling"
+    "tiefling",
+    "herbs",
+    "mess",
+    "kit",
+    "anime"
   ],
   "small": {
     "scale": 0.10999999999999924,
     "offset_x": -45,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.14999999999999925,
     "offset_x": -30,
     "offset_y": -37,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.3099999999999994,
     "offset_x": -19,
     "offset_y": -11,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

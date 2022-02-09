@@ -2,25 +2,44 @@
   "source": "https://i.redd.it/8dxff7dqyvr31.jpg",
   "md5": "DE9369FB3E204420A7DB032E0E9C951D",
   "tags": [
-    ""
+    "",
+    "chocobo",
+    "black",
+    "mage",
+    "vivi",
+    "ffxiv",
+    "legend",
+    "zelda",
+    "knight",
+    "rick",
+    "troula",
+    "astit",
+    "gray",
+    "pavel",
+    "tomashevskiy"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -57,
     "offset_y": -186,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.04,
     "offset_x": -54,
     "offset_y": -270,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -28,
     "offset_y": -97,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

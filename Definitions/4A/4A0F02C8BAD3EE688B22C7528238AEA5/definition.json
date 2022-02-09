@@ -2,7 +2,15 @@
   "source": "https://static.wikia.nocookie.net/eternitywiki/images/4/46/Durance-portrait.png/revision/latest?cb=20181112205619",
   "md5": "4A0F02C8BAD3EE688B22C7528238AEA5",
   "tags": [
-    ""
+    "",
+    "pillars",
+    "eternity",
+    "custom",
+    "portraits",
+    "female",
+    "character",
+    "mummy",
+    "hobbit"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

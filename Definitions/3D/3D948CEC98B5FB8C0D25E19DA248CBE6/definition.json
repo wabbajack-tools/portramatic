@@ -2,27 +2,57 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/029/189/885/large/tazio-bettin-ymru.jpg?1596729847",
   "md5": "3D948CEC98B5FB8C0D25E19DA248CBE6",
   "tags": [
-    ""
+    "",
+    "genasi",
+    "air",
+    "barbarian",
+    "dd",
+    "female",
+    "fire",
+    "anime",
+    "characters",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shoes",
+    "heels",
+    "jianmo",
+    "yunlong",
+    "wen",
+    "character",
+    "design",
+    "male",
+    "widowmaker",
+    "1111.psd",
+    "assassin_sister_thief",
+    "stta",
+    "_nohbyeol"
   ],
   "small": {
     "scale": 1,
     "offset_x": -310,
     "offset_y": -34,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": -206,
     "offset_y": -30,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8899999999999999,
     "offset_x": -2,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

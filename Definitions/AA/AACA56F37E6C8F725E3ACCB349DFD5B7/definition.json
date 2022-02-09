@@ -2,27 +2,58 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/027/044/599/large/natalie-bernard-4-1thiefremake-nataliebernardx.jpg?1590435643",
   "md5": "AACA56F37E6C8F725E3ACCB349DFD5B7",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "dark",
+    "elf",
+    "knight",
+    "armor",
+    "black",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "jacket",
+    "darien",
+    "gerry",
+    "arthur",
+    "character",
+    "portraits",
+    "practice",
+    "mage",
+    "terry",
+    "wei",
+    "https://www",
+    "kato",
+    "danzo",
+    "fanart",
+    "phichaya(scykiazor",
+    "boonton"
   ],
   "small": {
     "scale": 1,
     "offset_x": -282.40000000000055,
     "offset_y": -80.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -206.40000000000003,
     "offset_y": -60.80000000000001,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.98,
     "offset_x": -48.05555555555543,
     "offset_y": -68.87962962962968,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

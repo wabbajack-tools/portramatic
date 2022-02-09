@@ -2,27 +2,43 @@
   "source": "https://64.media.tumblr.com/5c65d03c851464d8aae978a9b4ece399/3772fef140ff6900-a3/s1280x1920/657073647f403f7ae287cd50bade392826e187e1.jpg",
   "md5": "66055E4FFA90C62C2E3981ADE202295A",
   "tags": [
-    ""
+    "",
+    "scarlet",
+    "witch",
+    "league",
+    "legends",
+    "ironwomen",
+    "jarhudpong",
+    "khewgor",
+    "riven",
+    "jingwen",
+    "lin",
+    "sombra",
+    "talon",
+    "fanart"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -479.33333333333326,
     "offset_y": -150.66666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.46999999999999953,
     "offset_x": -62.666666666666686,
     "offset_y": -7.333333333333343,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -77.33333333333326,
     "offset_y": -13.333333333333371,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -32,11 +32,22 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "moon",
+    "elf",
+    "ranger",
+    "concept",
+    "lord",
+    "rings",
+    "pirates",
+    "caribbean",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.5799999999999996,
@@ -60,6 +71,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

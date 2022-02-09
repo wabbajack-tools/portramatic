@@ -2,25 +2,57 @@
   "source": "https://i.pinimg.com/originals/4a/46/86/4a46861fb92b78291ce71340e3e2b7b6.jpg",
   "md5": "8A268523C52440190CDC5059FA4C2493",
   "tags": [
-    ""
+    "",
+    "male",
+    "warrior",
+    "concept",
+    "character",
+    "human",
+    "lord",
+    "rings",
+    "game",
+    "thrones",
+    "hobbit",
+    "female",
+    "assassin",
+    "medieval",
+    "knights",
+    "crossbowman",
+    "mauro",
+    "alocci",
+    "witcher",
+    "oc",
+    "elf",
+    "bard",
+    "laylton",
+    "sousa",
+    "peacemaker",
+    "cover",
+    "ricardo",
+    "padierne"
   ],
   "small": {
     "scale": 0.5699999999999996,
     "offset_x": -164.5,
     "offset_y": -64,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -97.5,
     "offset_y": -42,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -1,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

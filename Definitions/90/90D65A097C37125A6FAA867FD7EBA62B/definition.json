@@ -2,27 +2,61 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/043/970/815/large/omar-atef-web2-2.jpg?1638777824",
   "md5": "90D65A097C37125A6FAA867FD7EBA62B",
   "tags": [
-    ""
+    "",
+    "demon",
+    "hunter",
+    "sniper",
+    "ghost",
+    "warrior",
+    "death",
+    "knight",
+    "dark",
+    "angel",
+    "gears",
+    "war",
+    "old",
+    "work",
+    "sohee",
+    "kim",
+    "2020",
+    "character",
+    "design",
+    "elf",
+    "nika",
+    "kuznetsova",
+    "https://www.artstation.com/artwork/qa6vea",
+    "dungeons",
+    "king",
+    "calcium",
+    "mohamed",
+    "saad",
+    "necromancer",
+    "male",
+    "human",
+    "diablo"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -455,
     "offset_y": -122,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -366,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -230,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

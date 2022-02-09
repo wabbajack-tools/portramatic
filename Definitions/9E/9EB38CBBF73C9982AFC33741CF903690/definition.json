@@ -2,27 +2,40 @@
   "source": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2889c3c6-a737-4ffc-9436-4de0b1b5d8c0/de0s1tb-a073ef05-42a3-49bc-9fe5-f5224773c368.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4ODljM2M2LWE3MzctNGZmYy05NDM2LTRkZTBiMWI1ZDhjMFwvZGUwczF0Yi1hMDczZWYwNS00MmEzLTQ5YmMtOWZlNS1mNTIyNDc3M2MzNjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W73SYY83z_8JscsVEoa2UCNV-UMOPYsRpsO1v1kIPG0",
   "md5": "9EB38CBBF73C9982AFC33741CF903690",
   "tags": [
-    ""
+    "",
+    "bikini",
+    "top",
+    "swimsuits",
+    "brazilian",
+    "bathing",
+    "suits",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear"
   ],
   "small": {
     "scale": 0.49999999999999956,
     "offset_x": -387,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.2999999999999994,
     "offset_x": -105,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.49999999999999956,
     "offset_x": -114,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

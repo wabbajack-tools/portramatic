@@ -11,25 +11,58 @@
     "crowd",
     "elf",
     "necromancer",
-    "C:\\Users\\dario.tassisto\\Downloads\\prova"
+    "C:\\Users\\dario.tassisto\\Downloads\\prova",
+    "japanese",
+    "fox",
+    "spirit",
+    "white",
+    "kitsune",
+    "demon",
+    "anime",
+    "girl",
+    "demons",
+    "tales",
+    "abyss",
+    "magis",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "heels",
+    "lux",
+    "descendants",
+    "dragon",
+    "nationality",
+    "colored",
+    "lord",
+    "anika",
+    "burrell"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -611,
     "offset_y": -21,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.09,
     "offset_x": -531,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -438,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

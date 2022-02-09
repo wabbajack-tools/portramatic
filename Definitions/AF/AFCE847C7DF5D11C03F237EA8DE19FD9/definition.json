@@ -1,28 +1,38 @@
 {
-  "source": "https://pbs.twimg.com/media/FBljDd6WQAICPlu?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/FBljDd6WQAICPlu?format=jpg\u0026name=medium",
   "md5": "AFCE847C7DF5D11C03F237EA8DE19FD9",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "age",
+    "origins",
+    "royal",
+    "guard",
+    "king",
+    "chen"
   ],
   "small": {
     "scale": 1.1800000000000002,
     "offset_x": -294,
     "offset_y": -43,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -164,
     "offset_y": -39,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -4,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -34,25 +34,38 @@
     "book",
     "comics",
     "succubus",
-    "demon"
+    "demon",
+    "huntress",
+    "cosplay",
+    "hot",
+    "bound",
+    "heat",
+    "pics",
+    "dc",
+    "pinup"
   ],
   "small": {
     "scale": 1.1900000000000002,
     "offset_x": -408.3999999999912,
     "offset_y": -184.99999999999727,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9,
     "offset_x": -189.60000000000207,
     "offset_y": -125.59999999999997,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -105.75000000000068,
     "offset_y": -121.39814814814827,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

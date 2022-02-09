@@ -2,27 +2,48 @@
   "source": "https://webcdn.hirezstudios.com/smite/god-skins/the_morrigan_charm-caster.jpg",
   "md5": "0D8B096B9ECC1B7AE2E96521CE3B2002",
   "tags": [
-    ""
+    "",
+    "smite",
+    "kuzenbo",
+    "athena",
+    "skins",
+    "loki",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "heels",
+    "owl",
+    "fighter",
+    "jae",
+    "hyeok",
+    "jang",
+    "zweihander",
+    "danila",
+    "kalinin",
+    "https://www"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -256,
     "offset_y": -258,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8699999999999999,
     "offset_x": -73,
     "offset_y": -123,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.04,
     "offset_x": -68,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

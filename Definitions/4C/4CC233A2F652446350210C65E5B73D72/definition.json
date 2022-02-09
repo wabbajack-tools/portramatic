@@ -2,25 +2,43 @@
   "source": "https://i.pinimg.com/originals/fa/ce/8c/face8ca415c5521e11def533ce1c2145.jpg",
   "md5": "4CC233A2F652446350210C65E5B73D72",
   "tags": [
-    ""
+    "",
+    "shaman",
+    "magic",
+    "artwork",
+    "deathrite",
+    "mtg",
+    "legend",
+    "zelda",
+    "ocarina",
+    "time",
+    "forest",
+    "guy",
+    "eugene",
+    "dlinnov"
   ],
   "small": {
     "scale": 1,
     "offset_x": -275,
     "offset_y": -99,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -187,
     "offset_y": -85,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2800000000000002,
     "offset_x": -128,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

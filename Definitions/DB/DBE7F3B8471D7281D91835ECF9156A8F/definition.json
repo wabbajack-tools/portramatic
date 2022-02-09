@@ -1,8 +1,13 @@
 {
-  "source": "https://images.squarespace-cdn.com/content/v1/56ba8ce41d07c00ab0623a65/1558671405069-Q2HIMGSEH1ZV46PFC1ST/Photo+Nov+17%2C+2+27+34+PM.jpg?format=2500w",
+  "source": "https://images.squarespace-cdn.com/content/v1/56ba8ce41d07c00ab0623a65/1558671405069-Q2HIMGSEH1ZV46PFC1ST/Photo\u002BNov\u002B17%2C\u002B2\u002B27\u002B34\u002BPM.jpg?format=2500w",
   "md5": "DBE7F3B8471D7281D91835ECF9156A8F",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.2099999999999993,
@@ -26,6 +31,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

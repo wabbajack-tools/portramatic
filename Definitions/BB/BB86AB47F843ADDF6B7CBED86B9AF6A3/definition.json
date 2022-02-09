@@ -2,27 +2,37 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/014/047/331/large/adrian-prado-rogal.jpg?1542221642",
   "md5": "BB86AB47F843ADDF6B7CBED86B9AF6A3",
   "tags": [
-    ""
+    "",
+    "rogal",
+    "dorn",
+    "model",
+    "warhammer",
+    "40k",
+    "horus",
+    "heresy"
   ],
   "small": {
     "scale": 0.2099999999999993,
     "offset_x": -84.5714285714285,
     "offset_y": -8.571428571428527,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.22999999999999932,
     "offset_x": -34.857142857142776,
     "offset_y": -7.999999999999915,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5399999999999996,
     "offset_x": -109.71428571428646,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

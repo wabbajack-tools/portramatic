@@ -2,27 +2,56 @@
   "source": "https://64.media.tumblr.com/c06839e3cfd634891c990963ee2ad333/tumblr_n85nmd2W6J1qh0iv0o1_1280.jpg",
   "md5": "DA6988EDA41ADA742498B243D81B312A",
   "tags": [
-    ""
+    "",
+    "orc",
+    "warrior",
+    "anime",
+    "warcraft",
+    "characters",
+    "four",
+    "horsemen",
+    "dungeons",
+    "dragons",
+    "western",
+    "orcs",
+    "dark",
+    "souls",
+    "battlefield...",
+    "kirill",
+    "skachkov",
+    "druid",
+    "tomas",
+    "duchek",
+    "https://www.artstation.com/artwork/kynjr",
+    "160",
+    "paul",
+    "shut",
+    "creature",
+    "design",
+    "monster"
   ],
   "small": {
     "scale": 1.4100000000000004,
     "offset_x": -716,
     "offset_y": -604,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -388,
     "offset_y": -364,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9299999999999999,
     "offset_x": -176,
     "offset_y": -298,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

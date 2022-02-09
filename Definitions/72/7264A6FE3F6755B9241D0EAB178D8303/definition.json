@@ -4,27 +4,60 @@
   "tags": [
     "female",
     "character",
-    "magic"
+    "magic",
+    "steampunk",
+    "witch",
+    "gothic",
+    "fantasia",
+    "concept",
+    "dark",
+    "elf",
+    "assassin",
+    "skyrim",
+    "samurai",
+    "armor",
+    "knight",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "boots",
+    "crow",
+    "mage",
+    "tom",
+    "namielski",
+    "drow",
+    "sorcerer",
+    "elisa",
+    "serio",
+    "jang",
+    "tae-hwan"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -248.79999999999922,
     "offset_y": -30.000000000002274,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9900000000000001,
     "offset_x": -111.99999999999983,
     "offset_y": -27,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3600000000000003,
     "offset_x": -46.731481481481524,
     "offset_y": -37.02777777777828,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

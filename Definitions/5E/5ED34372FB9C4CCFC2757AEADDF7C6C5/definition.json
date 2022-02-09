@@ -2,27 +2,53 @@
   "source": "https://i.imgur.com/QtEGZOd.jpg",
   "md5": "5ED34372FB9C4CCFC2757AEADDF7C6C5",
   "tags": [
-    ""
+    "",
+    "dark",
+    "knight",
+    "concept",
+    "demon",
+    "warrior",
+    "anime",
+    "archangels",
+    "chaos",
+    "metal",
+    "zzz",
+    "immortal",
+    "\u3147\u3147",
+    "joo",
+    "https://www.artstation.com/artwork/k4ded6",
+    "guerreira",
+    "fantasia",
+    "chroma",
+    "\u0022thyrus\u0022",
+    "warframe",
+    "tennogen",
+    "marco",
+    "hasmann",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 1.2899999999999998,
     "offset_x": -274,
     "offset_y": -236,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -104,
     "offset_y": -170,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -30,
     "offset_y": -104,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

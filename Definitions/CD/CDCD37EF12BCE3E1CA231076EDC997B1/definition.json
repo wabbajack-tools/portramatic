@@ -1,8 +1,29 @@
 {
-  "source": "https://pbs.twimg.com/media/E34IXAnX0AMVG8Z?format=jpg&name=medium",
+  "source": "https://pbs.twimg.com/media/E34IXAnX0AMVG8Z?format=jpg\u0026name=medium",
   "md5": "CDCD37EF12BCE3E1CA231076EDC997B1",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "role",
+    "zeng",
+    "bin",
+    "character",
+    "design",
+    "artwork",
+    "orc",
+    "warrior",
+    "konstantin",
+    "gorelov",
+    "kothar",
+    "josephine",
+    "chang",
+    "dungeons",
+    "dragons",
+    "characters"
   ],
   "small": {
     "scale": 1.05,
@@ -26,6 +47,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,61 @@
   "source": "https://i.pinimg.com/564x/d6/a1/47/d6a14794c196262cda64a113803e30a0.jpg",
   "md5": "ED5E48CA792EA681EF8710F26BAC4A2F",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "armor",
+    "concept",
+    "rogue",
+    "character",
+    "star",
+    "wars",
+    "toys",
+    "mandalorian",
+    "dark",
+    "elf",
+    "knight",
+    "vampire",
+    "manga",
+    "frost",
+    "wolf",
+    "chulwoon",
+    "yang",
+    "https://www.artstation.com/artwork/qzvv0l",
+    "project",
+    "ebon",
+    "blade",
+    "zach",
+    "fischer",
+    "warcraft",
+    "world",
+    "orc",
+    "casket",
+    "jessica",
+    "bellamy"
   ],
   "small": {
     "scale": 2.1199999999999983,
     "offset_x": -472.00000000000034,
     "offset_y": -36,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3700000000000003,
     "offset_x": -205.59999999999997,
     "offset_y": -9.599999999999966,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4500000000000004,
     "offset_x": -52.86111111111131,
     "offset_y": -1.6018518518518476,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

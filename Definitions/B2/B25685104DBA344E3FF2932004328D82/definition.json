@@ -14,7 +14,7 @@
     "female",
     "assassin",
     "black",
-    "assassin's",
+    "assassin\u0027s",
     "anime",
     "guys",
     "cheolseung",
@@ -27,7 +27,17 @@
     "faith",
     "knight",
     "sergio",
-    "roman"
+    "roman",
+    "demon",
+    "girl",
+    "hair",
+    "white",
+    "red",
+    "hpn",
+    "david",
+    "benzal",
+    "digital",
+    "portfolio"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -51,6 +61,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

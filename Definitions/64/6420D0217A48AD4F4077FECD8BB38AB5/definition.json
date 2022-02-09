@@ -31,27 +31,40 @@
     "character",
     "punisher",
     "kupriianov",
-    "clothing"
+    "clothing",
+    "paladin",
+    "orcs",
+    "characters",
+    "concept",
+    "red",
+    "knight",
+    "lienum",
+    "thiago",
+    "reis",
+    "https://www.artstation.com/artwork/24dak"
   ],
   "small": {
     "scale": 1,
     "offset_x": -329,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -283,
     "offset_y": -88,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -64,
     "offset_y": -86,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

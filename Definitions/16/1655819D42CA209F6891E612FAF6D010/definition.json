@@ -2,25 +2,54 @@
   "source": "https://www.this-is-cool.co.uk/wp-content/gallery/alex-negrea/alex-negrea-digital-illustrations.jpg",
   "md5": "1655819D42CA209F6891E612FAF6D010",
   "tags": [
-    ""
+    "",
+    "applibot",
+    "wallpapers",
+    "female",
+    "digital",
+    "illustration",
+    "character",
+    "world",
+    "warcraft",
+    "rogue",
+    "dark",
+    "elf",
+    "dungeons",
+    "dragons",
+    "game",
+    "thrones",
+    "arctic",
+    "ops",
+    "caitlyn",
+    "league",
+    "legends",
+    "fan",
+    "splash",
+    "adrien",
+    "gonzalez"
   ],
   "small": {
     "scale": 1.3400000000000003,
     "offset_x": -395,
     "offset_y": -165,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -88,
     "offset_y": -56,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -74,
     "offset_y": -118,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

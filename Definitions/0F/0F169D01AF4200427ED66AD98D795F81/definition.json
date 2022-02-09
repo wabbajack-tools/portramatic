@@ -10,27 +10,52 @@
     "ye",
     "ol",
     "turt",
-    "tavern"
+    "tavern",
+    "female",
+    "pirate",
+    "drawings",
+    "girl",
+    "anime",
+    "women",
+    "painting",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "free",
+    "puzzle",
+    "summer",
+    "underworld",
+    "empire",
+    "2015",
+    "phillip",
+    "wong",
+    "\u8346\u68D8",
+    "\u6653\u70FD",
+    "\u674E"
   ],
   "small": {
     "scale": 1.2500000000000002,
     "offset_x": -516,
     "offset_y": -109,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.95,
     "offset_x": -315,
     "offset_y": -50,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2400000000000002,
     "offset_x": -201,
     "offset_y": -61,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

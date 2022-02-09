@@ -2,27 +2,45 @@
   "source": "https://webcdn.hirezstudios.com/smite/god-skins/freya_weiss-schnee.jpg",
   "md5": "157E5DFC4C19BD5A2AD7E34856695C54",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "tales",
+    "runeterra",
+    "freljord",
+    "bram",
+    "sels",
+    "poses",
+    "character",
+    "design",
+    "league",
+    "legends"
   ],
   "small": {
     "scale": 1.2000000000000002,
     "offset_x": -311,
     "offset_y": -102,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -123,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

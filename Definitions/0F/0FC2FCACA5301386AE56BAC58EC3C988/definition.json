@@ -13,7 +13,13 @@
     "stay",
     "night",
     "anime",
-    "series"
+    "series",
+    "scholar",
+    "cartoon",
+    "fortune",
+    "teller",
+    "aleksandra",
+    "wojtas"
   ],
   "small": {
     "scale": 0.7399999999999989,
@@ -37,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

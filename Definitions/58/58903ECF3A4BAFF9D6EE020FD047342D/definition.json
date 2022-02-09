@@ -23,43 +23,59 @@
     "09/13/19",
     "practice",
     "banjiu",
-    "e'vik",
+    "e\u0027vik",
     "vik",
     "zelda",
     "characters",
     "vitaliy",
-    "tyukin's",
+    "tyukin\u0027s",
     "submission",
     "ancient",
     "civilizations",
     "lost",
-    "&",
+    "\u0026",
     "found",
     "youngmin",
     "seo",
     "drawing",
     "ranger",
-    "https://www.artstation"
+    "https://www.artstation",
+    "renaissance",
+    "costumes",
+    "steampunk",
+    "2017",
+    "personal",
+    "work",
+    "woman",
+    "sungryun",
+    "park",
+    "dungeonslayers",
+    "doan",
+    "xuan",
+    "minh"
   ],
   "small": {
     "scale": 1.02,
     "offset_x": -463,
     "offset_y": -215,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -274,
     "offset_y": -173,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": 0,
     "offset_y": -144,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,10 @@
   "source": "http://alphyna.org/wp-content/gallery/planescape-tarot/11-justice-copy.jpg",
   "md5": "1A62A6F502E1358857CA54D8D849CC8D",
   "tags": [
-    "Vhailor Planescape Torment"
+    "Vhailor Planescape Torment",
+    "marvel",
+    "comics",
+    "dc"
   ],
   "small": {
     "scale": 1.1700000000000002,
@@ -26,6 +29,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

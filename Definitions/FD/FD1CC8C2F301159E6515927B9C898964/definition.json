@@ -4,7 +4,28 @@
   "tags": [
     "arab",
     "warrior",
-    "male"
+    "male",
+    "thief",
+    "concept",
+    "female",
+    "medieval",
+    "star",
+    "wars",
+    "force",
+    "unleashed",
+    "battlefront",
+    "dark",
+    "brotherhood",
+    "attack",
+    "clones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "aeg\u0027s",
+    "guildhall",
+    "gunship",
+    "revolution"
   ],
   "small": {
     "scale": 1.05,
@@ -28,6 +49,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -10,25 +10,43 @@
     "Anime",
     "Butler",
     "Demon",
-    "Crow"
+    "Crow",
+    "blood",
+    "moon",
+    "werewolf",
+    "painting",
+    "full",
+    "vampire",
+    "old",
+    "man",
+    "thor",
+    "wip",
+    "update",
+    "john",
+    "amos"
   ],
   "small": {
     "scale": 0.7099999999999997,
     "offset_x": -227.40000000000003,
     "offset_y": -1.1999999999999886,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -102.39999999999998,
     "offset_y": -3.7999999999999545,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.08,
     "offset_x": -98.50925925925958,
     "offset_y": -0.7685185185184764,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

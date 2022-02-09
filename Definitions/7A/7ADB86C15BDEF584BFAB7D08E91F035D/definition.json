@@ -4,27 +4,45 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "\uC548\uB0B4\uC778",
+    "lana",
+    "g",
+    "veronica",
+    "jones",
+    "maxime",
+    "delcambre",
+    "2020",
+    "tempest",
+    "han",
+    "song",
+    "i",
+    "kang",
+    "evil",
+    "game"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -426,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3699166666666661,
     "offset_x": -167,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5497499999999996,
     "offset_x": -142,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

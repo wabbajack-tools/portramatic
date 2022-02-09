@@ -2,27 +2,57 @@
   "source": "https://db4sgowjqfwig.cloudfront.net/images/1793268/Winter_Witch.jpg",
   "md5": "4C25E331E0E43BCF666FF7A10BD20177",
   "tags": [
-    ""
+    "",
+    "johannes",
+    "helgeson",
+    "moon",
+    "river",
+    "painting",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "shoes",
+    "heels",
+    "wwe",
+    "immortals",
+    "paige",
+    "02",
+    "zhao",
+    "yan",
+    "nineya",
+    "aasimar",
+    "cleric/monk",
+    "stephanie",
+    "sigel",
+    "nyavka",
+    "maryna",
+    "shcherbakova",
+    "ukrainian"
   ],
   "small": {
     "scale": 1.2700000000000002,
     "offset_x": -371,
     "offset_y": -110,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8799999999999999,
     "offset_x": -161,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1900000000000002,
     "offset_x": -22,
     "offset_y": -34,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

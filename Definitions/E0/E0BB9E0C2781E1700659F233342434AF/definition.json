@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/61/bc/d0/61bcd0434a30adc1274252ed5b9734b9.jpg",
   "md5": "E0BB9E0C2781E1700659F233342434AF",
   "tags": [
-    ""
+    "",
+    "dark",
+    "elf",
+    "faerie",
+    "kingdom",
+    "carlos",
+    "hernandez",
+    "https://www.artstation.com/artwork/xng8bn",
+    "anarchy",
+    "jeanne",
+    "ilicheva",
+    "stylized",
+    "he-man",
+    "lisandro",
+    "pe\u00F1a",
+    "2020",
+    "man",
+    "superhero"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -269,
     "offset_y": -159,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -183,
     "offset_y": -144,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4700000000000004,
     "offset_x": -68,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

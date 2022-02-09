@@ -4,27 +4,60 @@
   "tags": [
     "human",
     "female",
-    "warrior"
+    "warrior",
+    "suman",
+    "shashi",
+    "kant",
+    "pandey",
+    "balamik",
+    "gears",
+    "war",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "owl",
+    "knight",
+    "jae",
+    "hyuck",
+    "jang",
+    "personal",
+    "concept",
+    "assassin",
+    "r",
+    "k",
+    "2020",
+    "lineage",
+    "remastered",
+    "fencer",
+    "m",
+    "kim",
+    "sung",
+    "hwan"
   ],
   "small": {
     "scale": 0.5799999999999996,
     "offset_x": -426,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3699166666666661,
     "offset_x": -167,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7397499999999998,
     "offset_x": -546,
     "offset_y": -102,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

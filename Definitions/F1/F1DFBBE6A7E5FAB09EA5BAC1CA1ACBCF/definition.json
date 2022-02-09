@@ -8,27 +8,58 @@
     "wood",
     "elf",
     "ranger",
-    "innervalue"
+    "innervalue",
+    "warrior",
+    "costume",
+    "high",
+    "digital",
+    "elder",
+    "scrolls",
+    "online",
+    "skyrim",
+    "lord",
+    "rings",
+    "hobbit",
+    "game",
+    "thrones",
+    "dark",
+    "dungeons",
+    "dragons",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "gone",
+    "fishing",
+    "brock",
+    "grossman",
+    "characters",
+    "hzz",
+    "vv",
+    "nan"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -663,
     "offset_y": -218,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4000000000000004,
     "offset_x": -567,
     "offset_y": -212,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5700000000000005,
     "offset_x": -476,
     "offset_y": -212,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

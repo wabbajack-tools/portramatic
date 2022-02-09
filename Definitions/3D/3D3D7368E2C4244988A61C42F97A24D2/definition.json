@@ -35,7 +35,14 @@
     "bangku",
     "an",
     "women",
-    "design"
+    "design",
+    "direction",
+    "arrow",
+    "icons",
+    "symbols",
+    "forward",
+    "icon",
+    "skyrim"
   ],
   "small": {
     "scale": 1.02,
@@ -56,9 +63,9 @@
     "offset_x": -228,
     "offset_y": -2,
     "size": "full",
-    "rotation": 3.469446951953614e-18
+    "rotation": 3.469446951953614E-18
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

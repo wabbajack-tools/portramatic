@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/564x/8e/7b/fd/8e7bfdb997caa4e6907daea4aa2b7c40.jpg",
   "md5": "0CD8E5F97AB4F35F36B6976D6F674822",
   "tags": [
-    ""
+    "",
+    "halfling",
+    "rogue",
+    "female",
+    "conan",
+    "barbarian",
+    "dark",
+    "elf",
+    "wood",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "dwarf",
+    "war",
+    "drummer",
+    "dionisis",
+    "milonas"
   ],
   "small": {
     "scale": 1.3600000000000003,
     "offset_x": -282,
     "offset_y": -421,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1600000000000001,
     "offset_x": -151,
     "offset_y": -325,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -8,
     "offset_y": -194,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

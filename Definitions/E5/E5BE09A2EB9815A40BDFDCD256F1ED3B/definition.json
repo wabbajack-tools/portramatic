@@ -2,25 +2,58 @@
   "source": "https://i.pinimg.com/564x/02/d0/a4/02d0a4d065136dfa7458f11509bbdaea.jpg",
   "md5": "E5BE09A2EB9815A40BDFDCD256F1ED3B",
   "tags": [
-    ""
+    "",
+    "angel",
+    "warrior",
+    "concept",
+    "dark",
+    "male",
+    "fallen",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "wandering",
+    "striker",
+    "mansik",
+    "yang",
+    "artwork",
+    "world",
+    "auron",
+    "necromancer",
+    "reliah",
+    "a.",
+    "szade",
+    "2020",
+    "undead",
+    "demon",
+    "valkyrja",
+    "\u5357",
+    "\u91CE"
   ],
   "small": {
     "scale": 1.6700000000000006,
     "offset_x": -380,
     "offset_y": -402,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -178,
     "offset_y": -258,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3800000000000003,
     "offset_x": -16,
     "offset_y": -79,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

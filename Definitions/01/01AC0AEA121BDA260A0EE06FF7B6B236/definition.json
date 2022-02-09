@@ -28,33 +28,55 @@
     "character",
     "illustration",
     "dennis",
-    "fröhlich",
+    "fr\uFFFDhlich",
     "science",
     "fiction",
     "retro",
     "women",
     "persian",
-    "warrior"
+    "warrior",
+    "myth",
+    "mythological",
+    "creatures",
+    "medusa",
+    "heroes",
+    "rise",
+    "guardians",
+    "shadows",
+    "num\u00E9rique",
+    "diana",
+    "wonder",
+    "woman",
+    "worst",
+    "nightmare",
+    "dc",
+    "fanart",
+    "series",
+    "royy",
+    "_ledger"
   ],
   "small": {
     "scale": 0.87,
     "offset_x": -355,
     "offset_y": -209,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5799999999999997,
     "offset_x": -133,
     "offset_y": -112,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.92,
     "offset_x": -96,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

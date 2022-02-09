@@ -17,9 +17,9 @@
     "samuel",
     "quell",
     "volibear",
-    "\"the",
+    "\u0022the",
     "relentless",
-    "storm\"",
+    "storm\u0022",
     "concept",
     "league",
     "legends",
@@ -28,7 +28,21 @@
     "em",
     "sicarius",
     "akih",
-    "hika"
+    "hika",
+    "dragon",
+    "boss",
+    "yuliya",
+    "zabelina",
+    "evil",
+    "mermaid",
+    "ikhsan",
+    "oktrian",
+    "fanart",
+    "nerdcastrpg",
+    "reginaldo",
+    "pereira",
+    "kronicart).",
+    "https://www.artstation.com/artwork/xbobjl"
   ],
   "small": {
     "scale": 1.3700000000000003,
@@ -52,6 +66,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

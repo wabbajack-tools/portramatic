@@ -10,7 +10,18 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "sawaka",
+    "cosplay",
+    "bongo",
+    "movie",
+    "datto",
+    "2b",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +45,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

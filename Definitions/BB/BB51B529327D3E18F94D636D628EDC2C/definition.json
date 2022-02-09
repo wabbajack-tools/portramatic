@@ -5,7 +5,21 @@
     "male",
     "witcher",
     "cleric",
-    "gwent"
+    "gwent",
+    "inspirational",
+    "paintings",
+    "creative",
+    "inspiration",
+    "for",
+    "painting",
+    "harry",
+    "potter",
+    "chamber",
+    "secrets",
+    "prisoner",
+    "azkaban",
+    "dark",
+    "brotherhood"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -29,6 +43,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

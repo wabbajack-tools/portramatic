@@ -27,7 +27,15 @@
     "beleren",
     "nick",
     "gaul",
-    "character"
+    "character",
+    "alucard",
+    "castlevania",
+    "maria",
+    "adrian",
+    "tepes",
+    "curly",
+    "hair",
+    "gray"
   ],
   "small": {
     "scale": 0.48999999999999955,
@@ -51,6 +59,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

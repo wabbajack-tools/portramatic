@@ -5,7 +5,29 @@
     "human",
     "female",
     "warrior",
-    "paladin"
+    "paladin",
+    "elven",
+    "character",
+    "game",
+    "thrones",
+    "dark",
+    "elf",
+    "lord",
+    "rings",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "euron",
+    "greyjoy",
+    "bella",
+    "bergolts",
+    "lazar",
+    "school",
+    "viper",
+    "no\u00E9mi",
+    "v\u00E1rnai"
   ],
   "small": {
     "scale": 0.4299999999999995,
@@ -29,6 +51,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

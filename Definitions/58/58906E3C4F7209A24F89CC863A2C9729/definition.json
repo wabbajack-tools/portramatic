@@ -2,27 +2,47 @@
   "source": "https://pg4d.files.wordpress.com/2010/11/affyria1.jpg",
   "md5": "58906E3C4F7209A24F89CC863A2C9729",
   "tags": [
-    ""
+    "",
+    "planescape",
+    "tiefling",
+    "half",
+    "demon",
+    "appearance",
+    "league",
+    "legends",
+    "skull",
+    "castle",
+    "witch",
+    "adv",
+    "fajareka",
+    "setiawan",
+    "lobezno",
+    "wolverine",
+    "juanjo",
+    "lopez"
   ],
   "small": {
     "scale": 0.9199999999999999,
     "offset_x": -221,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -79,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -40,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

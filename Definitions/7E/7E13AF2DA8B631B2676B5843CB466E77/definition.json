@@ -1,5 +1,5 @@
 {
-  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3k3ih9PO1JXd4ophf2w_V5tbplcvDOtlVa3zBIFYhgQsWv3URBKgNbDrryAX0DPYnCTQ&usqp=CAU",
+  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3k3ih9PO1JXd4ophf2w_V5tbplcvDOtlVa3zBIFYhgQsWv3URBKgNbDrryAX0DPYnCTQ\u0026usqp=CAU",
   "md5": "7E13AF2DA8B631B2676B5843CB466E77",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 1.8000000000000007,
     "offset_x": -66,
     "offset_y": -22,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 2.1699999999999973,
     "offset_x": -34,
     "offset_y": -23,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 3.819999999999962,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

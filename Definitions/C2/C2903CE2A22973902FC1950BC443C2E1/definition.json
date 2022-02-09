@@ -31,27 +31,50 @@
     "2021",
     "marvel",
     "comics",
-    "wallpaper"
+    "wallpaper",
+    "warrior",
+    "pencil",
+    "drawings",
+    "angel",
+    "drawing",
+    "angels",
+    "god",
+    "pirate",
+    "aluella",
+    "skitwick",
+    "david",
+    "valdez",
+    "https://www.artstation.com/artwork/8mbko",
+    "d",
+    "autumn",
+    "xiaodi",
+    "jin",
+    "https://www.artstation.com/artwork/mqqdlz",
+    "horror",
+    "dark"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -122,
     "offset_y": -20,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.1400000000000001,
     "offset_x": -59,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6700000000000006,
     "offset_x": -136,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

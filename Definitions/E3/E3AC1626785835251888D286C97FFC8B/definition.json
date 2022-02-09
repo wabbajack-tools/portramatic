@@ -2,7 +2,24 @@
   "source": "http://static.zerochan.net/Acnologia.full.1937057.jpg",
   "md5": "E3AC1626785835251888D286C97FFC8B",
   "tags": [
-    ""
+    "",
+    "fairy",
+    "tail",
+    "dragons",
+    "human",
+    "form",
+    "igneel",
+    "dragon",
+    "king",
+    "stone",
+    "age",
+    "shaman",
+    "hut",
+    "stoyan",
+    "stoyanov",
+    "game",
+    "concept",
+    "props"
   ],
   "small": {
     "scale": 0.6799999999999997,
@@ -20,12 +37,12 @@
   },
   "full": {
     "scale": 0.6899999999999998,
-    "offset_x": -4.547473508864641e-13,
+    "offset_x": -4.547473508864641E-13,
     "offset_y": 80.0925925925925,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,60 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/026/281/537/large/tatiana-hordiienko-elfqsmall.jpg?1588355258",
   "md5": "653B75EDE8AE193FCF2B53D3067F5B70",
   "tags": [
-    ""
+    "",
+    "greek",
+    "gods",
+    "goddess",
+    "dark",
+    "elf",
+    "fairies",
+    "indian",
+    "sorcerer",
+    "sung",
+    "uk",
+    "kim",
+    "rpg",
+    "personagens",
+    "de",
+    "anime",
+    "persephone",
+    "mastery",
+    "skin",
+    "card",
+    "smite",
+    "jaggu",
+    "dada",
+    "dragon",
+    "blood",
+    "wu",
+    "ji",
+    "shivana",
+    "ice",
+    "\u6CE0\u5F71",
+    "\u6C5F"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -188,
     "offset_y": -214,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -93,
     "offset_y": -187,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7299999999999998,
     "offset_x": -136,
     "offset_y": -124,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

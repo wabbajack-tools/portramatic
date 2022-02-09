@@ -9,25 +9,57 @@
     "bow",
     "sport",
     "sports",
-    "archer"
+    "archer",
+    "halloween",
+    "costumes",
+    "scarecrow",
+    "wizard",
+    "costume",
+    "anime",
+    "girl",
+    "couples",
+    "kids",
+    "for",
+    "adults",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "chardiz",
+    "2017",
+    "dima",
+    "dmitriev",
+    "concept",
+    "characters",
+    "illustration",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 0.7699999999999998,
     "offset_x": -292,
     "offset_y": -129,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6699999999999997,
     "offset_x": -160,
     "offset_y": -99,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.02,
     "offset_x": -175,
     "offset_y": -172,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

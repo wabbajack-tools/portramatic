@@ -2,27 +2,57 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/035/131/357/large/ilya-ozornin-red-moons-snowdrop.jpg?1614178349",
   "md5": "D09833B88187A2C5B9570BF978F35FC3",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "shoes",
+    "boots",
+    "kyparis",
+    "alliance",
+    "deer",
+    "naz",
+    "nemati",
+    "monster",
+    "boy",
+    "modern",
+    "changeling",
+    "last",
+    "knight",
+    "davood",
+    "diba",
+    "dishonored",
+    "arkane",
+    "studios",
+    "digital",
+    "frontiers"
   ],
   "small": {
     "scale": 0.7399999999999998,
     "offset_x": -598,
     "offset_y": -280,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5099999999999996,
     "offset_x": -337,
     "offset_y": -147,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.4299999999999995,
     "offset_x": -114,
     "offset_y": -92,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

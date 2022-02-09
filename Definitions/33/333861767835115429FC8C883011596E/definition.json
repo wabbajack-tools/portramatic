@@ -4,7 +4,14 @@
   "tags": [
     "arab",
     "warrior",
-    "male"
+    "male",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -28,6 +35,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

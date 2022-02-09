@@ -2,27 +2,50 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/015/528/829/large/omar-atef-warr4s.jpg?1548698513",
   "md5": "8BDB2796995EA3C297570308ADF94ABA",
   "tags": [
-    ""
+    "",
+    "female",
+    "warrior",
+    "aqw",
+    "class",
+    "hall",
+    "mount",
+    "orc",
+    "syrendis",
+    "omar",
+    "atef",
+    "world",
+    "red",
+    "moon",
+    "lixin",
+    "yin",
+    "https://www",
+    "tiefling",
+    "binder",
+    "tam\u00E1s",
+    "patk\u00F3s"
   ],
   "small": {
     "scale": 0.99,
     "offset_x": -552,
     "offset_y": -274,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -472,
     "offset_y": -211,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -230,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

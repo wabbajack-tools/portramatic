@@ -4,27 +4,58 @@
   "tags": [
     "solar",
     "jasonengle",
-    "d&amp;d"
+    "d\u0026amp;d",
+    "skeleton",
+    "concept",
+    "necromancer",
+    "drawing",
+    "artwork",
+    "dark",
+    "elf",
+    "vampire",
+    "masquerade",
+    "knight",
+    "bat",
+    "black",
+    "dragon",
+    "fullbody",
+    "character",
+    "joma",
+    "cueto",
+    "design",
+    "armor",
+    "evgeny",
+    "zakharov",
+    "https://www.artstation.com/artwork/laqyv",
+    "scifi",
+    "concepting",
+    "practice",
+    "alex",
+    "vasin",
+    "characters"
   ],
   "small": {
     "scale": 1.3500000000000003,
     "offset_x": -536,
     "offset_y": -78,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3800000000000003,
     "offset_x": -505,
     "offset_y": -63,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -282,
     "offset_y": -78,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

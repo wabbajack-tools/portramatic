@@ -2,27 +2,68 @@
   "source": "https://i.pinimg.com/564x/68/d1/04/68d104631d49a3b691c4337425e20c8a.jpg",
   "md5": "BB78FF587E7872B497441DB0314842DF",
   "tags": [
-    ""
+    "",
+    "awesome",
+    "character",
+    "design",
+    "illustration",
+    "stylized",
+    "star",
+    "wars",
+    "clone",
+    "darth",
+    "vader",
+    "revenge",
+    "sith",
+    "old",
+    "republic",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "head_wear",
+    "hat",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "dress_shoes",
+    "\u53F8\u9A6C\u61FF",
+    "joky",
+    "zhou",
+    "akrolyt",
+    "nino",
+    "is",
+    "https://www.artstation",
+    "jedi",
+    "fallen",
+    "order",
+    "inquisitor",
+    "second",
+    "sister"
   ],
   "small": {
     "scale": 2.609999999999988,
     "offset_x": -594,
     "offset_y": -247,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6500000000000006,
     "offset_x": -253,
     "offset_y": -140,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4100000000000004,
     "offset_x": -12,
     "offset_y": -32,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

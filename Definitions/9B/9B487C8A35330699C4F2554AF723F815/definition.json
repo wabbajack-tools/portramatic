@@ -2,7 +2,13 @@
   "source": "https://images2.imagebam.com/e5/a3/b0/9b487c1371532421.jpg",
   "md5": "9B487C8A35330699C4F2554AF723F815",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties"
   ],
   "small": {
     "scale": 0.6199999999999997,
@@ -26,6 +32,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

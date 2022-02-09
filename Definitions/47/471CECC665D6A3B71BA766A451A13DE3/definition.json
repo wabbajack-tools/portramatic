@@ -2,27 +2,57 @@
   "source": "https://i.pinimg.com/originals/74/0d/41/740d41a31929a60fd30b43118dc7224a.jpg",
   "md5": "471CECC665D6A3B71BA766A451A13DE3",
   "tags": [
-    ""
+    "",
+    "viking",
+    "women",
+    "cosplay",
+    "old",
+    "woman",
+    "scandinavian",
+    "female",
+    "pirate",
+    "knight",
+    "armor",
+    "pirates",
+    "caribbean",
+    "hobbit",
+    "haracter",
+    "concept",
+    "for",
+    "\u0027iron",
+    "throne\u0027,mmo",
+    "loc",
+    "mansik",
+    "yang",
+    "warrior",
+    "mirage",
+    "zejn",
+    "ii",
+    "janna",
+    "sophia"
   ],
   "small": {
     "scale": 0.7799999999999998,
     "offset_x": -228,
     "offset_y": -23,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -191,
     "offset_y": -20,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.97,
     "offset_x": -12,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

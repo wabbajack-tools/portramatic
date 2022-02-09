@@ -2,25 +2,51 @@
   "source": "https://static.wikia.nocookie.net/planes-of-ruin/images/e/e6/Old_Iron_King.jpg/revision/latest/top-crop/width/360/height/450?cb=20181205094404",
   "md5": "3D72A1A14177C39307095CB2B970ECB1",
   "tags": [
-    "Barbarossa"
+    "Barbarossa",
+    "norse",
+    "mythology",
+    "demons",
+    "fire",
+    "giant",
+    "minotaur",
+    "dragon",
+    "armor",
+    "old",
+    "king",
+    "polypainter",
+    ".",
+    "concept",
+    "raktagar",
+    "daniel",
+    "zrom",
+    "dark",
+    "designer",
+    "paul",
+    "tobin",
+    "magazine"
   ],
   "small": {
     "scale": 1.540000000000001,
     "offset_x": -159.3333333333323,
     "offset_y": -188.66666666666657,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.97,
     "offset_x": -2.0000000000001137,
-    "offset_y": 1.7053025658242404e-13,
-    "size": "medium"
+    "offset_y": 1.7053025658242404E-13,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.2899999999999947,
     "offset_x": -17.333333333333258,
     "offset_y": -5.333333333333883,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

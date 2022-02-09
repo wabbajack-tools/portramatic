@@ -5,27 +5,36 @@
     "human",
     "female",
     "warrior",
-    "princess"
+    "princess",
+    "medieval",
+    "crusader",
+    "holy",
+    "pics",
+    "day",
+    "dead"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -461,
     "offset_y": -233,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.31983333333333275,
     "offset_x": -154,
     "offset_y": -68,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.47999999999999954,
     "offset_x": -122,
     "offset_y": -72,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

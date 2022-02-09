@@ -2,27 +2,61 @@
   "source": "https://i.pinimg.com/564x/b3/c6/44/b3c644f9c2eb1fb84fb6cf850a71bec9.jpg",
   "md5": "07C3A4D48120B61E22D978B532E1E403",
   "tags": [
-    ""
+    "",
+    "rpg",
+    "character",
+    "design",
+    "unique",
+    "witch",
+    "female",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "bottom_wear",
+    "pants",
+    "league",
+    "legends",
+    "aphelios",
+    "fan",
+    "coax",
+    "\uCF55\uC2A4",
+    "lol",
+    "nalari",
+    "stephanie",
+    "brown",
+    "characters",
+    "dungeons",
+    "dragons",
+    "rogue",
+    "yui",
+    "la\u00EDs",
+    "rodrigues"
   ],
   "small": {
     "scale": 1.01,
     "offset_x": 99.58208955223884,
     "offset_y": 159.044776119403,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.01,
     "offset_x": 1277.3731343283582,
     "offset_y": 563.8208955223881,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -779.4626865671639,
     "offset_y": -80.23880597014897,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

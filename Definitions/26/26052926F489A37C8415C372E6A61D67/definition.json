@@ -2,25 +2,63 @@
   "source": "https://i.pinimg.com/originals/d0/67/7f/d0677f62e69070455ee9e5c58cd8f79a.jpg",
   "md5": "26052926F489A37C8415C372E6A61D67",
   "tags": [
-    ""
+    "",
+    "steampunk",
+    "male",
+    "drawing",
+    "pirate",
+    "anime",
+    "death",
+    "knight",
+    "dark",
+    "souls",
+    "elf",
+    "star",
+    "wars",
+    "clone",
+    "old",
+    "republic",
+    "pirates",
+    "caribbean",
+    "58",
+    "ellirh",
+    "shaan",
+    "https://www.artstation.com/artwork/beyyl",
+    "2020",
+    "artwork",
+    "warrior",
+    "weihao",
+    "wei",
+    "cyberpunk",
+    "concept",
+    "characters",
+    "notifications",
+    "superhero",
+    "armor",
+    "character"
   ],
   "small": {
     "scale": 0.6699999999999997,
     "offset_x": -253.33333333333331,
     "offset_y": -176.66666666666674,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -116.00000000000011,
     "offset_y": -131.3333333333332,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5099999999999996,
     "offset_x": -3.9999999999995453,
     "offset_y": -33.33333333333297,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

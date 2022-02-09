@@ -2,27 +2,39 @@
   "source": "https://cdn.discordapp.com/attachments/413660696270864384/940448295355035738/Ah.PNG",
   "md5": "DEE6BCDF19ADE4A53E4D796AFEA1CB64",
   "tags": [
-    ""
+    "",
+    "anime",
+    "girl",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "leggings",
+    "under_wear",
+    "bra"
   ],
   "small": {
     "scale": 0.5399999999999996,
     "offset_x": -54.00000000000003,
     "offset_y": -13.999999999999943,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5999999999999996,
     "offset_x": -16,
     "offset_y": -29.33333333333337,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.01,
     "offset_x": -42.666666666666515,
     "offset_y": -9.333333333333258,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

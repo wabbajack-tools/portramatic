@@ -2,25 +2,52 @@
   "source": "https://wrathofzombie.files.wordpress.com/2017/08/half-orc.jpg",
   "md5": "70FA8204187CFD0053308B225AACE89B",
   "tags": [
-    ""
+    "",
+    "half-orc",
+    "character",
+    "monk",
+    "orc",
+    "warrior",
+    "dark",
+    "elf",
+    "skyrim",
+    "dungeons",
+    "dragons",
+    "none",
+    "shall",
+    "pass",
+    "kim",
+    "van",
+    "deun",
+    "red",
+    "rod",
+    "wong",
+    "legolas",
+    "paul",
+    "tobin"
   ],
   "small": {
     "scale": 1.5100000000000005,
     "offset_x": -542,
     "offset_y": -30,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8599999999999999,
     "offset_x": -194,
     "offset_y": -11,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.5300000000000005,
     "offset_x": -212,
     "offset_y": -2,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

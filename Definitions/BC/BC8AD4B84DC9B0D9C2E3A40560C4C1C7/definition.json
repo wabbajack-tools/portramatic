@@ -2,25 +2,52 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/004/715/184/4k/jeff-chen-25.jpg?1485744115",
   "md5": "BC8AD4B84DC9B0D9C2E3A40560C4C1C7",
   "tags": [
-    ""
+    "",
+    "tiefling",
+    "hexblade",
+    "mage",
+    "wow",
+    "warlock",
+    "lord",
+    "rings",
+    "ignaria",
+    "adam",
+    "barker",
+    "dungeons",
+    "dragons",
+    "siraxta",
+    "solivagant",
+    "matt",
+    "pegoraro",
+    "smite",
+    "spectral",
+    "sword",
+    "ares",
+    "stephen",
+    "nickel"
   ],
   "small": {
     "scale": 0.20999999999999938,
     "offset_x": -343,
     "offset_y": -72,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.23999999999999938,
     "offset_x": -346,
     "offset_y": -82,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": -452,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

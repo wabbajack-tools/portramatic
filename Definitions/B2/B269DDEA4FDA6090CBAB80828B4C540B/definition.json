@@ -2,25 +2,51 @@
   "source": "https://i.pinimg.com/originals/b3/49/f2/b349f24b92e8190959c5c9f6ea316058.jpg",
   "md5": "B269DDEA4FDA6090CBAB80828B4C540B",
   "tags": [
-    ""
+    "",
+    "wizard",
+    "character",
+    "concept",
+    "steampunk",
+    "male",
+    "staff",
+    "is",
+    "leading",
+    "showcase",
+    "platform",
+    "for",
+    "games",
+    "edge",
+    "winter",
+    "taerin",
+    "bindweed",
+    "avghost",
+    "jarrod",
+    "owen",
+    "scary",
+    "beautiful"
   ],
   "small": {
     "scale": 1,
     "offset_x": -502.00000000000017,
     "offset_y": -179.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -268.6666666666668,
     "offset_y": -77.99999999999991,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6899999999999997,
     "offset_x": -78.66666666666629,
     "offset_y": -11.999999999999716,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

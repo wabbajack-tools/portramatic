@@ -2,25 +2,52 @@
   "source": "https://i.pinimg.com/736x/c8/b7/80/c8b780eb0d3d49b6eec52629d6cfa655.jpg",
   "md5": "5DA17EB27D6627DC8B8B44AF0EDBB396",
   "tags": [
-    ""
+    "",
+    "character",
+    "portraits",
+    "druid",
+    "concept",
+    "guardians",
+    "galaxy",
+    "dark",
+    "elf",
+    "merilliza",
+    "chan",
+    "characters",
+    "dungeons",
+    "dragons",
+    "catharina",
+    "witch",
+    "guilherme",
+    "batista",
+    "female",
+    "assassin",
+    "tiefling",
+    "flo",
+    "young"
   ],
   "small": {
     "scale": 1.5200000000000005,
     "offset_x": -400,
     "offset_y": -397,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.02,
     "offset_x": -172,
     "offset_y": -210,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.09,
     "offset_x": -7,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

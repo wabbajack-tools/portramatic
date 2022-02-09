@@ -1,5 +1,5 @@
 {
-  "source": "https://nomorsiapa.com/images/v/th/id/OIP.p_DlAOFFVNy26q9TqlrXeAHaJ4?w=194&h=259&c=7&r=0&o=5&pid=1.7",
+  "source": "https://nomorsiapa.com/images/v/th/id/OIP.p_DlAOFFVNy26q9TqlrXeAHaJ4?w=194\u0026h=259\u0026c=7\u0026r=0\u0026o=5\u0026pid=1.7",
   "md5": "8424E15A369B88F00E2A40B5277A41CF",
   "tags": [
     "medieval",
@@ -19,7 +19,7 @@
     "jeremy",
     "chong",
     "https://www.artstation.com/artwork/y5lak?utm",
-    "heaven's",
+    "heaven\u0027s",
     "guardian",
     "yangtian",
     "li",
@@ -31,27 +31,59 @@
     "archer",
     "schulz",
     "concept",
-    "world"
+    "world",
+    "clothing",
+    "ranger",
+    "outfit",
+    "welsh",
+    "knight",
+    "suit",
+    "female",
+    "assassin",
+    "game",
+    "thrones",
+    "lamellar",
+    "knights",
+    "black",
+    "elven",
+    "skirmisher",
+    "un",
+    "lee",
+    "https://www.artstation.com/artwork/yo\u2026",
+    "dungeons",
+    "yuri",
+    "choi",
+    "https://www.artstation.com/artwork/w2noed",
+    "witcher",
+    "geralt",
+    "wonki",
+    "cho",
+    "wizard",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -226,
     "offset_y": -38,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7099999999999997,
     "offset_x": -4,
     "offset_y": -13,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.7200000000000006,
     "offset_x": -30,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

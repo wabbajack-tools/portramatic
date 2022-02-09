@@ -2,27 +2,48 @@
   "source": "https://i.pinimg.com/564x/f3/13/d2/f313d202f909d682266656fb2748c87e.jpg",
   "md5": "7F4DB4BF0436F005207BB0CC497711A3",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "armor",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "06",
+    "bbang",
+    "q",
+    "girl",
+    "feline",
+    "jay",
+    "jiwoopark",
+    "character",
+    "\uC774\uC6A9\uBE48[dylan",
+    "https://www.artstation.com/artist/lxxdylan"
   ],
   "small": {
     "scale": 2.4899999999999927,
     "offset_x": -597,
     "offset_y": -380,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.6500000000000006,
     "offset_x": -319,
     "offset_y": -214,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": 0,
     "offset_y": -110,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -15,7 +15,17 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "under_wear",
-    "lingerie"
+    "lingerie",
+    "witcher",
+    "full",
+    "map",
+    "game",
+    "world",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -39,6 +49,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

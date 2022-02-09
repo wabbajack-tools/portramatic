@@ -2,7 +2,15 @@
   "source": "https://i.pinimg.com/564x/42/b7/c4/42b7c43e7fc82fde54d9837db2eb0a3b.jpg",
   "md5": "A2C3CB6BED97E626423254E3FA31C477",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 0.6999999999999997,
@@ -26,6 +34,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -8,21 +8,24 @@
     "scale": 1.07,
     "offset_x": -272,
     "offset_y": -115,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -97,
     "offset_y": -33,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": 0,
     "offset_y": -26,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

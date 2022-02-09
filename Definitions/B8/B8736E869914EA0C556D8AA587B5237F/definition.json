@@ -1,5 +1,5 @@
 {
-  "source": "https://preview.redd.it/e75xozqt0c071.jpg?width=800&format=pjpg&auto=webp&s=0388c0ea3a040c4dfe94dd2908c9bfdbb0488fbd",
+  "source": "https://preview.redd.it/e75xozqt0c071.jpg?width=800\u0026format=pjpg\u0026auto=webp\u0026s=0388c0ea3a040c4dfe94dd2908c9bfdbb0488fbd",
   "md5": "B8736E869914EA0C556D8AA587B5237F",
   "tags": [
     "dark",
@@ -10,7 +10,18 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "predator",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "leggings",
+    "shoes",
+    "boots",
+    "argonian",
+    "dmitry",
+    "yakhovsky"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +45,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

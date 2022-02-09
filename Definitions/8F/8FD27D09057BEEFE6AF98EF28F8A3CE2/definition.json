@@ -2,27 +2,53 @@
   "source": "https://i.pinimg.com/564x/fb/3b/9a/fb3b9aa9fdbfaa3109c88e75d8352694.jpg",
   "md5": "8FD27D09057BEEFE6AF98EF28F8A3CE2",
   "tags": [
-    ""
+    "",
+    "half",
+    "elf",
+    "warrior",
+    "high",
+    "monk",
+    "barbarian",
+    "dungeons",
+    "dragons",
+    "wood",
+    "dark",
+    "female",
+    "assassin",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "\u7EC3\u4E60",
+    "zhen",
+    "long",
+    "character",
+    "artwork",
+    "design"
   ],
   "small": {
     "scale": 1.6900000000000006,
     "offset_x": -460,
     "offset_y": -71,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -146,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3700000000000003,
     "offset_x": -42,
     "offset_y": -24,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

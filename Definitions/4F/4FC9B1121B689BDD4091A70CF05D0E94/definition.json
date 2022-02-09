@@ -2,25 +2,58 @@
   "source": "https://forum.owlcatgames.com/uploads/default/original/2X/1/1f35697d8977b66ebf58bb7b342666a8e1adbd10.jpeg",
   "md5": "4FC9B1121B689BDD4091A70CF05D0E94",
   "tags": [
-    ""
+    "",
+    "cute",
+    "anime",
+    "werewolf",
+    "werewolves",
+    "transformation",
+    "boys",
+    "four",
+    "horsemen",
+    "ronin",
+    "warriors",
+    "wow",
+    "undead",
+    "witcher",
+    "bluehair",
+    "ork",
+    "mansik",
+    "yang",
+    "warcraft",
+    "orc",
+    "character",
+    "design",
+    "knight",
+    "chaos",
+    "blood",
+    "frenzy",
+    "dmitry",
+    "skvortsov",
+    "https://www.artstation.com/artwork/w80qbo"
   ],
   "small": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9299999999999999,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.94,
     "offset_x": -304,
     "offset_y": -128,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

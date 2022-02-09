@@ -23,7 +23,12 @@
     "ran",
     "hak",
     "sun",
-    "kim"
+    "kim",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "swim_wear",
+    "bikini"
   ],
   "small": {
     "scale": 1.589999999999998,
@@ -47,6 +52,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

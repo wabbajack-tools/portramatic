@@ -10,27 +10,57 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "rogue",
+    "drawing",
+    "thief",
+    "character",
+    "concept",
+    "female",
+    "assassin",
+    "suit",
+    "armor",
+    "renaissance",
+    "costumes",
+    "pirate",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "warrior",
+    "serim",
+    "hwang",
+    "https://www.artstation.com/artwork/ge8vq",
+    "lorekeeper",
+    "muyoung",
+    "kim"
   ],
   "small": {
     "scale": 1.6600000000000008,
     "offset_x": -366.3333333333324,
     "offset_y": -11.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -187.66666666666669,
     "offset_y": -2.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2399999999999978,
     "offset_x": -4.000000000000455,
     "offset_y": -4.666666666666401,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,50 @@
   "source": "https://i.pinimg.com/originals/6a/0b/6d/6a0b6d0b90a561722f1c6b4b14d365ba.jpg",
   "md5": "413C1E6957115EC9B68E3D1C0CE3414D",
   "tags": [
-    ""
+    "",
+    "elf",
+    "druid",
+    "female",
+    "male",
+    "hercules",
+    "amazon",
+    "women",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "panties",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "girl",
+    "toon",
+    "van",
+    "boxstael"
   ],
   "small": {
     "scale": 0.6599999999999997,
     "offset_x": -320,
     "offset_y": -46,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -207,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8599999999999999,
     "offset_x": -182,
     "offset_y": -3,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

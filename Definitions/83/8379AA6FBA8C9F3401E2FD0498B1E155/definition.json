@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/736x/67/36/7f/67367f3d19fc53bca288bc5b2234c65d.jpg",
   "md5": "8379AA6FBA8C9F3401E2FD0498B1E155",
   "tags": [
-    ""
+    "",
+    "female",
+    "knight",
+    "warrior",
+    "girl",
+    "armor",
+    "medieval",
+    "knights",
+    "assassin",
+    "plate",
+    "samurai",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "heels",
+    "personal",
+    "work",
+    "huntsman",
+    "seok",
+    "jeon",
+    "concept",
+    "characters",
+    "character",
+    "succubus",
+    "jaeyoung",
+    "jeong",
+    "women",
+    "sniper",
+    "soo",
+    "young",
+    "park",
+    "#girlswithguns,gungirls,sexygungirls,gun2girls,airsoftgirls"
   ],
   "small": {
     "scale": 1.07,
     "offset_x": -281,
     "offset_y": -86,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -182,
     "offset_y": -75,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -50,
     "offset_y": -76,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

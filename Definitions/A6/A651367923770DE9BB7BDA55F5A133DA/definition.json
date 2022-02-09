@@ -6,25 +6,52 @@
     "human",
     "armor",
     "bronze",
-    ""
+    "",
+    "half-orc",
+    "orc",
+    "monk",
+    "man",
+    "hulk",
+    "marvel",
+    "legends",
+    "statue",
+    "avengers",
+    "goliath",
+    "gladiator",
+    "kevin",
+    "webb",
+    "creature",
+    "base",
+    "body",
+    "yongseok",
+    "jung",
+    "standing",
+    "monster",
+    "hunter",
+    "gh_yun"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -171,
     "offset_y": -57,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -37,
     "offset_y": -24,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.179999999999997,
     "offset_x": -50,
     "offset_y": -30,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

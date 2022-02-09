@@ -2,25 +2,48 @@
   "source": "https://i.pinimg.com/564x/33/a4/46/33a446fcf3bd476aa75d5a054564551a.jpg",
   "md5": "96B2FE4B6A0BA22604B0065222893233",
   "tags": [
-    ""
+    "",
+    "warrior",
+    "legends",
+    "cryptids",
+    "legend",
+    "cards",
+    "female",
+    "characters",
+    "javier",
+    "charro",
+    "artstation.",
+    "new",
+    "classic",
+    "races",
+    "with",
+    "different",
+    "classes",
+    "for",
+    "rise"
   ],
   "small": {
     "scale": 0.7899999999999998,
     "offset_x": -118,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5899999999999996,
     "offset_x": -1,
     "offset_y": -2,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.4400000000000004,
     "offset_x": -54,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

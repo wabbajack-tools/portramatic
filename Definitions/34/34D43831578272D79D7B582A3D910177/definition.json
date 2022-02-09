@@ -1,28 +1,61 @@
 {
-  "source": "https://steamuserimages-a.akamaihd.net/ugc/1865050644914751670/E1AA95106326AF3472AC0F7919E0ECA7BBA5560B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "source": "https://steamuserimages-a.akamaihd.net/ugc/1865050644914751670/E1AA95106326AF3472AC0F7919E0ECA7BBA5560B/?imw=5000\u0026imh=5000\u0026ima=fit\u0026impolicy=Letterbox\u0026imcolor=%23000000\u0026letterbox=false",
   "md5": "34D43831578272D79D7B582A3D910177",
   "tags": [
-    ""
+    "",
+    "aasimar",
+    "male",
+    "paladin",
+    "dark",
+    "souls",
+    "knight",
+    "armor",
+    "anubis",
+    "zone",
+    "ender\u0027s",
+    "elf",
+    "female",
+    "assassin",
+    "medieval",
+    "knights",
+    "let\u0027s",
+    "dance",
+    "thorkild",
+    "skov",
+    "models",
+    "crowd",
+    "turntable",
+    "video.",
+    "david",
+    "munoz",
+    "velazquez",
+    "lady",
+    "white",
+    "anthony",
+    "jones"
   ],
   "small": {
     "scale": 1,
     "offset_x": -249,
     "offset_y": -95,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1,
     "offset_x": -174,
     "offset_y": -94,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,44 @@
   "source": "https://w0.peakpx.com/wallpaper/160/858/HD-wallpaper-kratos-in-god-of-war-ragnarok.jpg",
   "md5": "93E79881CB3A9DDA933C828DB7BD6BA0",
   "tags": [
-    "Vikingr Kratos II"
+    "Vikingr Kratos II",
+    "god",
+    "war",
+    "4",
+    "theme",
+    "valkyrie",
+    "atreus",
+    "gears",
+    "characters",
+    "kratos",
+    "game",
+    "thrones",
+    "centurion",
+    "tomas",
+    "duchek"
   ],
   "small": {
     "scale": 0.95,
     "offset_x": -305.99999999999955,
     "offset_y": -35.33333333333334,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6099999999999997,
     "offset_x": -79.33333333333348,
     "offset_y": -2.6666666666667425,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -72.00000000000023,
     "offset_y": -4.000000000000455,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

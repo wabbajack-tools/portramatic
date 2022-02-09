@@ -2,7 +2,16 @@
   "source": "https://images2.imagebam.com/b3/7d/03/6ae6291350445641.JPG",
   "md5": "6AE629312F8727B4952DA2CF10A587CD",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "shorts",
+    "under_wear",
+    "bra",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 2.3499999999999934,
@@ -26,6 +35,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

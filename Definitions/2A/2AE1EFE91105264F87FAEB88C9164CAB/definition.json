@@ -1,5 +1,5 @@
 {
-  "source": "http://tse4.mm.bing.net/th?id=OIP.-BhK6iBQwa8nN9MA7UgKWAHaF7&pid=15.1",
+  "source": "http://tse4.mm.bing.net/th?id=OIP.-BhK6iBQwa8nN9MA7UgKWAHaF7\u0026pid=15.1",
   "md5": "2AE1EFE91105264F87FAEB88C9164CAB",
   "tags": [
     ""
@@ -8,21 +8,24 @@
     "scale": 1.05,
     "offset_x": -157,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3900000000000003,
     "offset_x": -125,
     "offset_y": -1,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.7199999999999855,
     "offset_x": -260,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
-  "nsfw": false
+  "requeried": true,
+  "nsfw": true
 }

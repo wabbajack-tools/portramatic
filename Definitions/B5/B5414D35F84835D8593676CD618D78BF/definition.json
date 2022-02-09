@@ -28,7 +28,21 @@
     "creatures",
     "tribe",
     "joart",
-    "14"
+    "14",
+    "miniature",
+    "pirates",
+    "caribbean",
+    "game",
+    "thrones",
+    "ne",
+    "zha",
+    "simon",
+    "zhong",
+    "nile",
+    "order",
+    "batu",
+    "ince",
+    "concept"
   ],
   "small": {
     "scale": 1.2400000000000002,
@@ -52,6 +66,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

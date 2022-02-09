@@ -2,7 +2,17 @@
   "source": "https://www.jp.square-enix.com/vocm/img/top/chara_card_hyde.png",
   "md5": "58AD870938CAFC63C6F1B269D110635C",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "skirt",
+    "shoes",
+    "boots",
+    "under_wear",
+    "socks",
+    "flats"
   ],
   "small": {
     "scale": 2.5390833333333234,
@@ -26,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

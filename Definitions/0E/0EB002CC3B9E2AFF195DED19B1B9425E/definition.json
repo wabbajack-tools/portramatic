@@ -10,25 +10,55 @@
     "symbol",
     "samurai",
     "people",
-    "knight"
+    "knight",
+    "cultist",
+    "drawing",
+    "costume",
+    "warrior",
+    "native",
+    "american",
+    "sniper",
+    "ghost",
+    "haida",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "shadow",
+    "tomb",
+    "raider",
+    "micha\u00EBl",
+    "verhaaf",
+    "\u5218\u6377-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "tenoch",
+    "hybridmink"
   ],
   "small": {
     "scale": 0.8599999999999999,
     "offset_x": -360,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -129,
     "offset_y": -18,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6699999999999997,
     "offset_x": -14,
     "offset_y": -54,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

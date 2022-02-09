@@ -2,27 +2,35 @@
   "source": "https://i.pinimg.com/originals/4f/9e/e7/4f9ee7925446334bc3859f7b94b8bc8a.jpg",
   "md5": "5BBD2D467D9890E83BC3B90AE8DBB89E",
   "tags": [
-    ""
+    "",
+    "paladin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots"
   ],
   "small": {
     "scale": 2.469999999999991,
     "offset_x": -527,
     "offset_y": -340,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.8500000000000008,
     "offset_x": -298,
     "offset_y": -216,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3400000000000003,
     "offset_x": -16,
     "offset_y": -56,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

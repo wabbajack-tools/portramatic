@@ -2,27 +2,35 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/031/410/842/large/javier-charro-survive-33.jpg?1603544926",
   "md5": "347691282A520B473008EB8186BB7364",
   "tags": [
-    ""
+    "",
+    "lord",
+    "rings",
+    "orc",
+    "warrior",
+    "witcher"
   ],
   "small": {
     "scale": 0.5599999999999996,
     "offset_x": -510.6666666666648,
     "offset_y": -90.66666666666649,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.4099999999999995,
     "offset_x": -207.3333333333336,
     "offset_y": -11.333333333333456,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -277.3333333333335,
     "offset_y": -1.3333333333332575,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

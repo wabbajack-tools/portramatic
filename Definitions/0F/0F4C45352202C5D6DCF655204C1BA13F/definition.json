@@ -9,27 +9,41 @@
     "assassin",
     "concept",
     "female",
-    "rogue"
+    "rogue",
+    "keos",
+    "masons",
+    "interview",
+    "\u0026",
+    "tutorials",
+    "magazine",
+    "moosehound",
+    "rider",
+    "andrius",
+    "matijosius",
+    "2020"
   ],
   "small": {
     "scale": 0.5499999999999996,
     "offset_x": -209.6,
     "offset_y": -43.1999999999999,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.49999999999999956,
     "offset_x": -146.39999999999992,
     "offset_y": -37.60000000000008,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6099999999999997,
     "offset_x": -1.6018518518515066,
-    "offset_y": -2.2737367544323206e-13,
-    "size": "full"
+    "offset_y": -2.2737367544323206E-13,
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

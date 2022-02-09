@@ -9,7 +9,15 @@
     "demon",
     "nightmare",
     "female",
-    "demons"
+    "demons",
+    "bard",
+    "d",
+    "appearance",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet"
   ],
   "small": {
     "scale": 0.95,
@@ -28,11 +36,11 @@
   "full": {
     "scale": 1.559999999999999,
     "offset_x": -52.00000000000091,
-    "offset_y": -3.410605131648481e-13,
+    "offset_y": -3.410605131648481E-13,
     "size": "full",
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

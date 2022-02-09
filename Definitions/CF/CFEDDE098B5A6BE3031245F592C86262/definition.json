@@ -2,27 +2,44 @@
   "source": "https://i.pinimg.com/564x/9c/4a/f3/9c4af3e44b15cb1816fd04c50fc08530.jpg",
   "md5": "CFEDDE098B5A6BE3031245F592C86262",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "archeage",
+    "characters",
+    "#26",
+    "artyom",
+    "smirnov",
+    "dota",
+    "cristal",
+    "maiden",
+    "matte",
+    "painting",
+    "bhaskar",
+    "udupa"
   ],
   "small": {
     "scale": 0.8899999999999999,
     "offset_x": -149,
     "offset_y": -8,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.96,
     "offset_x": -114,
     "offset_y": -32,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3000000000000003,
     "offset_x": -30,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

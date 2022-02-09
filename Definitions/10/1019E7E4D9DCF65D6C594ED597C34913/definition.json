@@ -16,27 +16,58 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "under_wear",
-    "lingerie"
+    "lingerie",
+    "demon",
+    "angel",
+    "cool",
+    "beautiful",
+    "angels",
+    "fairies",
+    "greek",
+    "gods",
+    "lord",
+    "rings",
+    "jacob",
+    "wrestling",
+    "with",
+    "goddess",
+    "guardian",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "unicorn",
+    "princess",
+    "al",
+    "so",
+    "dd",
+    "bamuth",
+    "lai",
+    "firewatch",
+    "ktna",
+    "rein"
   ],
   "small": {
     "scale": 0.9299999999999999,
     "offset_x": -295.99999999999994,
     "offset_y": -191.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8199999999999998,
     "offset_x": -190.66666666666663,
     "offset_y": -137.33333333333331,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7499999999999998,
     "offset_x": -24,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

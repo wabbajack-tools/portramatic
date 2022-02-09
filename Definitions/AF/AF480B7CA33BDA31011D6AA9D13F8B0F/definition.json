@@ -9,25 +9,52 @@
     "painting",
     "art",
     "graphics",
-    ""
+    "",
+    "dark",
+    "necromancer",
+    "girl",
+    "artwork",
+    "night",
+    "blood",
+    "dragon",
+    "age",
+    "origins",
+    "demons",
+    "harbinger",
+    "plague",
+    "adam",
+    "burn",
+    "anika",
+    "ageless",
+    "reiko",
+    "murakami",
+    "solforge",
+    "raiders",
+    "unchained",
+    "bride"
   ],
   "small": {
     "scale": 0.39999999999999947,
     "offset_x": -398,
     "offset_y": -98,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.25999999999999934,
     "offset_x": -165,
     "offset_y": -61,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.2999999999999994,
     "offset_x": -30,
     "offset_y": -50,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

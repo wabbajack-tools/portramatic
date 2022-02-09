@@ -1,5 +1,5 @@
 {
-  "source": "https://www.thetolkienforum.com/wiki-asset/?pid=1389&d=1627813974",
+  "source": "https://www.thetolkienforum.com/wiki-asset/?pid=1389\u0026d=1627813974",
   "md5": "AC5C8FF0C78DE82EFD6C3ED276A1DADA",
   "tags": [
     "",
@@ -38,7 +38,14 @@
     "song",
     "nan",
     "li",
-    "https://www.artstation.com/artwork/e0x1kd"
+    "https://www.artstation.com/artwork/e0x1kd",
+    "elven",
+    "prince",
+    "high",
+    "dragon",
+    "accessories",
+    "head_wear",
+    "scarf"
   ],
   "small": {
     "scale": 0.8699999999999999,
@@ -62,6 +69,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

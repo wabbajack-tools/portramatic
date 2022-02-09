@@ -10,7 +10,21 @@
     "swim",
     "tasya",
     "van",
-    "ree"
+    "ree",
+    "cosplay",
+    "lada",
+    "hot",
+    "lyumos",
+    "witcher",
+    "keira",
+    "metz",
+    "cos",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "bra",
+    "panties"
   ],
   "small": {
     "scale": 0.8999999999999999,
@@ -34,6 +48,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

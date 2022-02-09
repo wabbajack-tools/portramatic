@@ -7,27 +7,50 @@
     "mage",
     "warrior",
     "monk",
-    "rogue"
+    "rogue",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "dual",
+    "sword",
+    "girl",
+    "gwang-beom",
+    "kho",
+    "\u8C22\u540C\u5B66-ycf-student",
+    "showcase",
+    "\u7FFC\u6B21\u65B9",
+    "www.ycfcg.com",
+    "2018",
+    "ndc",
+    "axe",
+    "yeonkyoung",
+    "kim"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -466,
     "offset_y": -106,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.3299166666666661,
     "offset_x": -126,
     "offset_y": -4,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5497499999999996,
     "offset_x": -122,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -1,8 +1,10 @@
 {
-  "source": "https://sun9-50.userapi.com/impg/k0NDXilp9wd8i4EN_Sht2RdXm1se7K2pyw3sGg/XUcNy4bkiBo.jpg?size=1685x2160&quality=96&sign=8324598ebe6e1a00007eafdac5d29d2a&type=album",
+  "source": "https://sun9-50.userapi.com/impg/k0NDXilp9wd8i4EN_Sht2RdXm1se7K2pyw3sGg/XUcNy4bkiBo.jpg?size=1685x2160\u0026quality=96\u0026sign=8324598ebe6e1a00007eafdac5d29d2a\u0026type=album",
   "md5": "8E538C6757C73E27D357928D07B5F1AC",
   "tags": [
-    ""
+    "",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.2099999999999993,
@@ -26,6 +28,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

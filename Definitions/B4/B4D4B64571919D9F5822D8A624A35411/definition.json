@@ -2,27 +2,54 @@
   "source": "https://webcdn.hirezstudios.com/smite/god-skins/bellona_battle-maiden.jpg",
   "md5": "B4D4B64571919D9F5822D8A624A35411",
   "tags": [
-    ""
+    "",
+    "bellona",
+    "smite",
+    "fan",
+    "roman",
+    "goddess",
+    "war",
+    "female",
+    "pirate",
+    "dynasty",
+    "warriors",
+    "anime",
+    "girl",
+    "knights",
+    "silkroad",
+    "doha",
+    "studio",
+    "teria",
+    "basic",
+    "version",
+    "j.c",
+    "yuan",
+    "gladiator",
+    "smal",
+    "lang"
   ],
   "small": {
     "scale": 1.1500000000000001,
     "offset_x": -308,
     "offset_y": -147,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7499999999999998,
     "offset_x": -104,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.05,
     "offset_x": -26,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

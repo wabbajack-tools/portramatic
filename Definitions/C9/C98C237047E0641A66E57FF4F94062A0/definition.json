@@ -17,27 +17,59 @@
     "familia",
     "crossbow",
     "man",
-    "concept"
+    "concept",
+    "medieval",
+    "crossbowmen",
+    "dwarven",
+    "elder",
+    "scrolls",
+    "online",
+    "orc",
+    "warrior",
+    "lord",
+    "rings",
+    "skyrim",
+    "conan",
+    "barbarian",
+    "vikings",
+    "name",
+    "odin",
+    "victor",
+    "perez",
+    "corbella",
+    "evil",
+    "alchemist",
+    "https://www.artstation.com/artwork/w1ken",
+    "dark",
+    "bronn",
+    "romain",
+    "leguay",
+    "https://www.artstation.com/artwork/qo8dp",
+    "game",
+    "thrones"
   ],
   "small": {
     "scale": 0.35999999999999943,
     "offset_x": -311,
     "offset_y": -199,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -478,
     "offset_y": -269,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1,
     "offset_x": -823,
     "offset_y": -539,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

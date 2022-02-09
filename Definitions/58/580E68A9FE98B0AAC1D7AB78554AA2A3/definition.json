@@ -4,27 +4,49 @@
   "tags": [
     "mtg",
     "bishop",
-    "rebirth"
+    "rebirth",
+    "vampire",
+    "lord",
+    "concept",
+    "warriors",
+    "elder",
+    "scrolls",
+    "online",
+    "jaina",
+    "proudmoore",
+    "aku",
+    "\u60AA",
+    "some",
+    "my",
+    "artworks",
+    "way",
+    "angel",
+    "arrigo",
+    "verderosa",
+    "warrior"
   ],
   "small": {
     "scale": 0.6099999999999997,
     "offset_x": -431.73333333333346,
     "offset_y": -104.0666666666666,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5399999999999996,
     "offset_x": -303.06666666666666,
     "offset_y": -70.13333333333333,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8400833333333331,
     "offset_x": -375.08333333333326,
     "offset_y": -2.805555555555543,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

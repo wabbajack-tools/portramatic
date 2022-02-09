@@ -2,7 +2,17 @@
   "source": "https://upload.wikimedia.org/wikipedia/en/a/ac/Arthur_Morgan_-_Red_Dead_Redemption_2.png",
   "md5": "AA6CD14139CE29EF6FFED8E609BEA556",
   "tags": [
-    ""
+    "",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "bottom_wear",
+    "jeans",
+    "accessories",
+    "head_wear",
+    "hat",
+    "shoes",
+    "dress_shoes"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

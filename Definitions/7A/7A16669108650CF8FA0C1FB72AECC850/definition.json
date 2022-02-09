@@ -5,27 +5,45 @@
     "blood",
     "spells",
     "elf",
-    "mage"
+    "mage",
+    "witch",
+    "artist",
+    "magic",
+    "tauren",
+    "nina",
+    "ward",
+    "shaman",
+    "centaur",
+    "youcef",
+    "agaba",
+    "rytlock",
+    "brimstone",
+    "guild",
+    "wars",
+    "angelique"
   ],
   "small": {
     "scale": 0.8299999999999994,
     "offset_x": -285,
     "offset_y": -124,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5499999999999996,
     "offset_x": -81,
     "offset_y": -49,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8699999999999999,
     "offset_x": -45,
     "offset_y": -8,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

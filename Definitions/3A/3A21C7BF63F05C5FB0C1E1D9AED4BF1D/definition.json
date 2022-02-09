@@ -2,25 +2,55 @@
   "source": "https://cdnb.artstation.com/p/assets/images/images/011/187/775/large/jg-yoon-180525-3.jpg?1528287201",
   "md5": "3A21C7BF63F05C5FB0C1E1D9AED4BF1D",
   "tags": [
-    ""
+    "",
+    "jeong",
+    "yoon",
+    "jung",
+    "ji",
+    "sun",
+    "vampire",
+    "hunters",
+    "charee",
+    "kim",
+    "wefire",
+    "\u5168\u6C11\u7A81\u51FB",
+    "\u6D77\u76D7",
+    "tian",
+    "zi",
+    "women",
+    "warrior",
+    "woman",
+    "girl",
+    "black",
+    "armory-raid",
+    "armor",
+    "concept",
+    "zaki",
+    "zou",
+    "character"
   ],
   "small": {
     "scale": 1.3800000000000003,
     "offset_x": -561,
     "offset_y": -163,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7899999999999998,
     "offset_x": -211,
     "offset_y": -69,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.8499999999999999,
     "offset_x": -33,
     "offset_y": -46,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

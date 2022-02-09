@@ -6,7 +6,31 @@
     "sorcerer",
     "elven",
     "tales",
-    "vesperia"
+    "vesperia",
+    "male",
+    "elf",
+    "character",
+    "half",
+    "mage",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "vampire",
+    "sanha",
+    "kim",
+    "concept",
+    "characters",
+    "valkyrie",
+    "jae",
+    "hyeok",
+    "jang",
+    "warrior",
+    "steampunk",
+    "alchemist",
+    "\uD558\uD2B8\uD0A4",
+    "heartki"
   ],
   "small": {
     "scale": 0.6399999999999997,
@@ -30,6 +54,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

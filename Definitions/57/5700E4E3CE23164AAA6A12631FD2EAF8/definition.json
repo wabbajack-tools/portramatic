@@ -2,25 +2,49 @@
   "source": "https://apptrigger.com/files/2021/05/Cosmic_Yasuo_Level02_1920x1080.jpg",
   "md5": "5700E4E3CE23164AAA6A12631FD2EAF8",
   "tags": [
-    ""
+    "",
+    "league",
+    "legends",
+    "dragons",
+    "red",
+    "dragon",
+    "\u5F20\u89D21",
+    "m",
+    "z",
+    "my",
+    "artwork",
+    "for",
+    "arena",
+    "valor",
+    "phu",
+    "thieu",
+    "186",
+    "kurt",
+    "jakobi",
+    "https://www.artstation"
   ],
   "small": {
     "scale": 1.2400000000000002,
     "offset_x": -215.99999999999994,
     "offset_y": -582.3999999999992,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8399999999999999,
     "offset_x": -130.39999999999992,
     "offset_y": -288.80000000000007,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.99,
     "offset_x": -153.7777777777776,
     "offset_y": -43.250000000000114,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

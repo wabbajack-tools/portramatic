@@ -23,8 +23,31 @@
     "horoszko",
     "nel",
     "8_2017_10",
-    "ildikó",
-    "tóth"
+    "ildik\uFFFD",
+    "t\uFFFDth",
+    "female",
+    "rogue",
+    "concept",
+    "assassin",
+    "pirate",
+    "night",
+    "prowl",
+    "frida",
+    "arntsen",
+    "vampires",
+    "werewolves",
+    "artwork",
+    "anna",
+    "dominic",
+    "barrios",
+    "dungeons",
+    "dragons",
+    "characters",
+    "vespa",
+    "girl",
+    "ding",
+    "xiong",
+    "leong"
   ],
   "small": {
     "scale": 1.09,
@@ -48,6 +71,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

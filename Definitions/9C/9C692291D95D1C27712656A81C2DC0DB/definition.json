@@ -7,27 +7,34 @@
     "drawings",
     "assassin",
     "elves",
-    "cosplay"
+    "cosplay",
+    "rpg",
+    "wizard",
+    "gnome",
+    "male"
   ],
   "small": {
     "scale": 1.3800000000000001,
     "offset_x": -474.6666666666668,
     "offset_y": -108.66666666666671,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -173.66666666666657,
-    "offset_y": -5.684341886080802e-14,
-    "size": "medium"
+    "offset_y": -5.684341886080802E-14,
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2600000000000002,
     "offset_x": -142.66666666666652,
     "offset_y": -79.33333333333337,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

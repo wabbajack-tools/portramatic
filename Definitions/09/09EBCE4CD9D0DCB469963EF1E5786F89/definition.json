@@ -2,25 +2,47 @@
   "source": "https://i.pinimg.com/736x/7d/3f/5e/7d3f5e387e728dd2326cd2eaed6de16c.jpg",
   "md5": "09EBCE4CD9D0DCB469963EF1E5786F89",
   "tags": [
-    ""
+    "",
+    "vampire",
+    "bat",
+    "concept",
+    "hunter",
+    "masquerade",
+    "demon",
+    "characters",
+    "for",
+    "darko",
+    "stojanovic",
+    "scp",
+    "746",
+    "birdman",
+    "ann",
+    "kovaleva",
+    "\uC774\uC6A9\uBE48[dylan",
+    "https://www.artstation.com/artist/lxxdylan"
   ],
   "small": {
     "scale": 1.9500000000000008,
     "offset_x": -571,
     "offset_y": -416,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2500000000000002,
     "offset_x": -278,
     "offset_y": -249,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.12,
     "offset_x": -69,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

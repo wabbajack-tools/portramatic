@@ -28,7 +28,28 @@
     "unit",
     "01",
     "f",
-    "bridge"
+    "bridge",
+    "male",
+    "archer",
+    "elf",
+    "ranger",
+    "human",
+    "dungeons",
+    "dragons",
+    "gnomon",
+    "tutorial",
+    "johnny",
+    "fraser-allen",
+    "characters",
+    "8",
+    "pinterest",
+    "artworks",
+    "iv",
+    "emperor",
+    "matteo",
+    "spirito",
+    "2021",
+    "artwork"
   ],
   "small": {
     "scale": 1.5700000000000005,
@@ -52,6 +73,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

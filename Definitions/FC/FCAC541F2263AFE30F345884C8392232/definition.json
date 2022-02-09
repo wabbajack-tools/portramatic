@@ -9,7 +9,27 @@
     "drawings",
     "woman",
     "praying",
-    "american"
+    "american",
+    "half-orc",
+    "paladin",
+    "half-elf",
+    "warlock",
+    "male",
+    "elf",
+    "female",
+    "forest",
+    "gnome",
+    "wizard",
+    "john-paul",
+    "balmet",
+    "brifan",
+    "druid",
+    "moe",
+    "balinger",
+    "tribal",
+    "skull",
+    "lennon",
+    "hao"
   ],
   "small": {
     "scale": 0.99,
@@ -33,6 +53,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,7 +2,22 @@
   "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_buran.png",
   "md5": "8D024C48526B661FF29FA23480AB321E",
   "tags": [
-    ""
+    "",
+    "pencil",
+    "drawings",
+    "dungeons",
+    "dragons",
+    "knight",
+    "rage",
+    "maria",
+    "ponomareva",
+    "berserker",
+    "bekarys",
+    "zhabagin",
+    "freya",
+    "valkyrie",
+    "jon",
+    "neimeister"
   ],
   "small": {
     "scale": 2.0188333333333324,
@@ -26,6 +41,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

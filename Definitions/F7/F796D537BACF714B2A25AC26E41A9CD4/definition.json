@@ -18,27 +18,65 @@
     "jaheira",
     "ted",
     "chow",
-    "https://www.artstation"
+    "https://www.artstation",
+    "skyrim",
+    "pc",
+    "new",
+    "elder",
+    "scrolls",
+    "6",
+    "xbox",
+    "360",
+    "knight",
+    "armor",
+    "black",
+    "dark",
+    "gears",
+    "war",
+    "dragon",
+    "death",
+    "templars",
+    "assassin\u0027s",
+    "draugr",
+    "olya",
+    "sh",
+    "strixhaven",
+    "booster",
+    "packs",
+    "anna",
+    "podedworna",
+    "2021",
+    "medieval",
+    "characters",
+    "batman",
+    "azrael",
+    "limkuk",
+    "3d",
+    "pinterest",
+    "comic"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -191,
     "offset_y": -40.16666666666663,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.39999999999999947,
     "offset_x": -7.6666666666667425,
     "offset_y": -38.66666666666663,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7999999999999998,
     "offset_x": -101.5,
     "offset_y": -72.16666666666663,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,56 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/040/622/970/large/joshua-raphael-wraithmarked-battle-mage-color-uplox.jpg?1629397925",
   "md5": "87B96945EE2FF7A567E298A4E66FD3C1",
   "tags": [
-    ""
+    "",
+    "dragon",
+    "armor",
+    "league",
+    "legends",
+    "vampire",
+    "knight",
+    "manga",
+    "star",
+    "wars",
+    "clone",
+    "female",
+    "assassin",
+    "slayer",
+    "jackie",
+    "felix",
+    "red",
+    "army",
+    "warhammer",
+    "yaroslav",
+    "radetskyi",
+    "angela",
+    "marshal",
+    "underworld",
+    "aldo",
+    "dom\u00EDnguez",
+    "https://www.artstation.com"
   ],
   "small": {
     "scale": 0.7199999999999998,
     "offset_x": -277,
     "offset_y": -198,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.47999999999999954,
     "offset_x": -76,
     "offset_y": -136,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.6999999999999997,
     "offset_x": -7,
     "offset_y": -1,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,27 +2,45 @@
   "source": "http://www.succubus.net/wiki/images/9/99/P2.jpg",
   "md5": "6893622EEFB20E304422446EF611B7BC",
   "tags": [
-    ""
+    "",
+    "demon",
+    "elves",
+    "succubus",
+    "list",
+    "signs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "deadpool",
+    "\u0026",
+    "ted",
+    "pasquale",
+    "ferrara"
   ],
   "small": {
     "scale": 2.509999999999989,
     "offset_x": -637,
     "offset_y": -448,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3400000000000003,
     "offset_x": -146,
     "offset_y": -225,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9400000000000008,
     "offset_x": -14,
     "offset_y": -38,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

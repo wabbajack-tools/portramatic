@@ -2,25 +2,59 @@
   "source": "https://www.gamersdecide.com/sites/default/files/authors/u147798/ninja.jpg",
   "md5": "0B3606004BEC9438BB834B76A144D31C",
   "tags": [
-    ""
+    "",
+    "female",
+    "ninja",
+    "costume",
+    "assassin",
+    "outfit",
+    "knight",
+    "armor",
+    "dungeons",
+    "dragons",
+    "samurai",
+    "warriors",
+    "hansel",
+    "gretel",
+    "crossbow",
+    "todd",
+    "ulrich",
+    "character",
+    "viking",
+    "for",
+    "honor",
+    "fan",
+    "florentino",
+    "iv",
+    "cuevas",
+    "kimahri",
+    "phantom",
+    "lancer",
+    "andr\u00E9",
+    "castro"
   ],
   "small": {
     "scale": 1.2600000000000002,
     "offset_x": -500,
     "offset_y": -105,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8899999999999999,
     "offset_x": -237,
     "offset_y": -25,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1,
     "offset_x": -186,
     "offset_y": -22,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -2,25 +2,59 @@
   "source": "http://img2.joyreactor.cc/pics/post/full/MTG-%D0%98%D0%B3%D1%80%D1%8B-%D0%9C%D0%B0%D0%B3%D0%B8%28Fantasy%29-Fantasy-5275677.jpeg",
   "md5": "8511984678221A73CC40C12BDB30A28A",
   "tags": [
-    ""
+    "",
+    "male",
+    "dark",
+    "elf",
+    "mage",
+    "anime",
+    "magician",
+    "sorcerer",
+    "dragon",
+    "age",
+    "origins",
+    "magis",
+    "mtg",
+    "thick",
+    "cover",
+    "hugh",
+    "pindur",
+    "illustration",
+    "character",
+    "artwork",
+    "afterlife",
+    "tony",
+    "sart",
+    "creature",
+    "concept",
+    "demon",
+    "stone",
+    "defender",
+    "valeria",
+    "dryzhak"
   ],
   "small": {
     "scale": 1.2100000000000002,
     "offset_x": -635,
     "offset_y": -172,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2300000000000002,
     "offset_x": -593,
     "offset_y": -155,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.11,
     "offset_x": -430,
     "offset_y": -82,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

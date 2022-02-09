@@ -3,27 +3,59 @@
   "md5": "9FB4CE9D2D62B7FC51785CE28D3F6F26",
   "tags": [
     "gnome",
-    "wizard"
+    "wizard",
+    "halfling",
+    "rogue",
+    "concept",
+    "thief",
+    "orc",
+    "warrior",
+    "medieval",
+    "knights",
+    "samurai",
+    "armor",
+    "assassin",
+    "female",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "shoes",
+    "boots",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "early",
+    "development",
+    "sky",
+    "nomad",
+    "khoa",
+    "viet"
   ],
   "small": {
     "scale": 1.4500000000000004,
     "offset_x": -296.66666666666686,
     "offset_y": -203.66666666666669,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.8299999999999998,
     "offset_x": -62.999999999999915,
     "offset_y": -80,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.3500000000000003,
     "offset_x": -40.666666666666515,
     "offset_y": -116.66666666666657,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

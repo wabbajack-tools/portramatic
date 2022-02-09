@@ -1,8 +1,14 @@
 {
-  "source": "https://external-preview.redd.it/oZIAGyN5i-w2Q27cGCl8ZqFOm9yW5fqeXc4_xHuOmfQ.jpg?auto=webp&s=6532920d96514470a43688c8ab14ab27db4eaa61",
+  "source": "https://external-preview.redd.it/oZIAGyN5i-w2Q27cGCl8ZqFOm9yW5fqeXc4_xHuOmfQ.jpg?auto=webp\u0026s=6532920d96514470a43688c8ab14ab27db4eaa61",
   "md5": "8A0F77661FA80039CBAF63413634E178",
   "tags": [
-    ""
+    "",
+    "emilia",
+    "clarke",
+    "game",
+    "thrones",
+    "name",
+    "hair"
   ],
   "small": {
     "scale": 1,
@@ -26,6 +32,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

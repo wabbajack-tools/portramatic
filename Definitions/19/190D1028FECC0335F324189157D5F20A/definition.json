@@ -2,27 +2,47 @@
   "source": "https://i.pinimg.com/originals/f7/37/e5/f737e5fc518f46d6a39fbbffeb95425a.jpg",
   "md5": "190D1028FECC0335F324189157D5F20A",
   "tags": [
-    ""
+    "",
+    "castlevania",
+    "symphony",
+    "night",
+    "samurai",
+    "armor",
+    "elf",
+    "knight",
+    "character",
+    "design",
+    "practice",
+    "jose",
+    "parodi",
+    "scifi",
+    "maysketchaday",
+    "week",
+    "jessie",
+    "lam"
   ],
   "small": {
     "scale": 2.4299999999999917,
     "offset_x": -665,
     "offset_y": -319,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.9500000000000008,
     "offset_x": -437,
     "offset_y": -222,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2200000000000002,
     "offset_x": -16,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

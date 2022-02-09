@@ -4,27 +4,49 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "dark",
+    "elf",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "athletic_shoes_or_sneakers",
+    "witcher",
+    "geralt",
+    "wonki",
+    "cho",
+    "\u674E\u540C\u5B66",
+    "yiihuu",
+    "workshop",
+    "artwork",
+    "man",
+    "leibo",
+    "luo",
+    "character",
+    "design"
   ],
   "small": {
     "scale": 2.279999999999994,
     "offset_x": -534,
     "offset_y": -83,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.7700000000000007,
     "offset_x": -334,
     "offset_y": -41,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8799999999999988,
     "offset_x": -188,
     "offset_y": -10,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

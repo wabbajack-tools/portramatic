@@ -2,7 +2,16 @@
   "source": "https://i.pinimg.com/564x/3f/19/87/3f19872a32ebe5305c8ebba7433fe978.jpg",
   "md5": "9298F8EF08C4C7D201C3B6E73A79AEFD",
   "tags": [
-    ""
+    "",
+    "eladrin",
+    "wizard",
+    "mage",
+    "knight",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "blazer"
   ],
   "small": {
     "scale": 0.6599999999999997,
@@ -26,6 +35,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

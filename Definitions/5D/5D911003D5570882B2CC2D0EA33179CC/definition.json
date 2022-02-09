@@ -2,27 +2,52 @@
   "source": "https://i.pinimg.com/564x/ff/90/20/ff90207ccd837002b56e24722f4680d6.jpg",
   "md5": "5D911003D5570882B2CC2D0EA33179CC",
   "tags": [
-    ""
+    "",
+    "avengers",
+    "fan",
+    "4",
+    "loki",
+    "four",
+    "horsemen",
+    "orc",
+    "warrior",
+    "alien",
+    "vs",
+    "predator",
+    "lord",
+    "rings",
+    "da",
+    "ist",
+    "ein",
+    "loch",
+    "n/a",
+    "guardian",
+    "catur",
+    "kurniawan",
+    "https://www.artstation.com/artwork/arydvk"
   ],
   "small": {
     "scale": 1,
     "offset_x": -198,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -98,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

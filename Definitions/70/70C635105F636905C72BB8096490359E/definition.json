@@ -2,27 +2,43 @@
   "source": "https://i.pinimg.com/564x/39/b8/a5/39b8a5c35ff1b7c1027852c147e8f393.jpg",
   "md5": "70C635105F636905C72BB8096490359E",
   "tags": [
-    ""
+    "",
+    "amazing",
+    "3d",
+    "character",
+    "modeling",
+    "realistic",
+    "characters",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "under_wear",
+    "briefs",
+    "accessories",
+    "gloves"
   ],
   "small": {
     "scale": 1.3300000000000003,
     "offset_x": -90,
     "offset_y": -9,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -17,
     "offset_y": -3,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.5399999999999894,
     "offset_x": 0,
     "offset_y": 0,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

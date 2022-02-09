@@ -16,27 +16,57 @@
     "fashion_cosmetics_or_accessories",
     "clothing",
     "under_wear",
-    "lingerie"
+    "lingerie",
+    "lion",
+    "knight",
+    "armor",
+    "paladin",
+    "crusader",
+    "orc",
+    "warrior",
+    "dark",
+    "elf",
+    "greek",
+    "gods",
+    "dungeons",
+    "dragons",
+    "monster",
+    "attack",
+    "yosi",
+    "saputras",
+    "poseidon",
+    "\u9E64\u5EB5",
+    "\u6CE2\u5F71",
+    "\u68EE\u6797\u738B\u5B50",
+    "fei",
+    "wang",
+    "artwork",
+    "character",
+    "design",
+    "male"
   ],
   "small": {
     "scale": 1.05,
     "offset_x": -188.99999999999994,
     "offset_y": -76.33333333333337,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6299999999999997,
     "offset_x": -18.66666666666663,
     "offset_y": -8.333333333333314,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1600000000000001,
     "offset_x": -16,
     "offset_y": -48,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

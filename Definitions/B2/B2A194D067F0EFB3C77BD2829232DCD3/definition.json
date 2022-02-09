@@ -2,25 +2,51 @@
   "source": "https://cdna.artstation.com/p/assets/images/images/036/471/748/large/yao-rong-2.jpg?1617766687",
   "md5": "B2A194D067F0EFB3C77BD2829232DCD3",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "pirate",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "dress",
+    "formal_dress",
+    "accessories",
+    "jewelry",
+    "necklace",
+    "wizard",
+    "cotta",
+    "https://www.artstation",
+    "sorceress",
+    "jang",
+    "minho",
+    "character",
+    "snake",
+    "kim",
+    "jongeun"
   ],
   "small": {
     "scale": 0.6399999999999997,
     "offset_x": -535,
     "offset_y": -220,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.5599999999999996,
     "offset_x": -375,
     "offset_y": -186,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.38999999999999946,
     "offset_x": 0,
     "offset_y": -126,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

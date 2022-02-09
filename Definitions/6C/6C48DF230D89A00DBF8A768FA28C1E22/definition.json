@@ -2,27 +2,64 @@
   "source": "https://i.pinimg.com/564x/a9/a7/df/a9a7df372cf52ec73f71edfb314b8422.jpg",
   "md5": "6C48DF230D89A00DBF8A768FA28C1E22",
   "tags": [
-    ""
+    "",
+    "iron",
+    "man",
+    "from",
+    "avengers",
+    "toys",
+    "dark",
+    "spiderman",
+    "league",
+    "legends",
+    "death",
+    "knight",
+    "elf",
+    "blood",
+    "night",
+    "tcg",
+    "illust",
+    "k",
+    "ei",
+    "high",
+    "wizard",
+    "artinax",
+    "david",
+    "simons",
+    "character",
+    "design",
+    "artwork",
+    "d",
+    "characters",
+    "catgirl",
+    "oliver",
+    "liu",
+    "https://www.artstation.com/artwork/eg3o0",
+    "cat",
+    "girl"
   ],
   "small": {
     "scale": 1,
     "offset_x": -198,
     "offset_y": -26,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -98,
     "offset_y": -9,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -8,
     "offset_y": -28,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

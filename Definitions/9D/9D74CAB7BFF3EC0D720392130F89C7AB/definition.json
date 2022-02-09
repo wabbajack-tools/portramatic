@@ -2,27 +2,51 @@
   "source": "https://i.pinimg.com/564x/1b/fd/da/1bfddaff37fcd8ebca64cb75c5bfb99b.jpg",
   "md5": "9D74CAB7BFF3EC0D720392130F89C7AB",
   "tags": [
-    ""
+    "",
+    "female",
+    "assassin",
+    "street",
+    "fighter",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "shoes",
+    "boots",
+    "fire",
+    "genasi",
+    "wizard",
+    "j",
+    "zirebiec",
+    "swordsman",
+    "guo",
+    "wu",
+    "beastmaster",
+    "josh",
+    "corpuz",
+    "artstation.",
+    "dungeons"
   ],
   "small": {
     "scale": 2.549999999999989,
     "offset_x": -304,
     "offset_y": -204,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.4200000000000004,
     "offset_x": -175,
     "offset_y": -97,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.8500000000000008,
     "offset_x": -94,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

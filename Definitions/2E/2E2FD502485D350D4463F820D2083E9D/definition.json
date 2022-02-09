@@ -32,11 +32,30 @@
     "unforgiving",
     "rasdrax",
     "reg",
-    "&",
+    "\u0026",
     "adv",
     "billy",
     "christian",
-    "https://www.artstation.com"
+    "https://www.artstation.com",
+    "elf",
+    "ranger",
+    "moon",
+    "elves",
+    "dark",
+    "armor",
+    "medieval",
+    "knights",
+    "high",
+    "https://cdnb.artstation.com/p/assets/images/images/016/949",
+    "infected",
+    "fighter",
+    "luis",
+    "g\u00F3mez",
+    "weyler",
+    "magitek",
+    "world",
+    "alessia",
+    "desert"
   ],
   "small": {
     "scale": 1.5900000000000005,
@@ -60,6 +79,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

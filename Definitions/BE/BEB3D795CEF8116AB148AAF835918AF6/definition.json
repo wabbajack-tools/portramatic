@@ -4,27 +4,47 @@
   "tags": [
     "female",
     "ice",
-    "mage"
+    "mage",
+    "dwarf",
+    "character",
+    "wow",
+    "warrior",
+    "concept",
+    "dawn",
+    "war",
+    "doom",
+    "game",
+    "sisters",
+    "battle",
+    "paul",
+    "dainton",
+    "warhammer",
+    "40k",
+    "artwork",
+    "adepta"
   ],
   "small": {
     "scale": 0.96,
     "offset_x": -269.3333333333336,
     "offset_y": -102.33333333333326,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.6999999999999997,
     "offset_x": -89.66666666666663,
     "offset_y": -68.33333333333326,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2300000000000002,
     "offset_x": -119.33333333333348,
     "offset_y": -80,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

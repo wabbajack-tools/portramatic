@@ -24,27 +24,49 @@
     "realm",
     "richard",
     "sashigane",
-    "https://www.artstation.com/artwork"
+    "https://www.artstation.com/artwork",
+    "barbarian",
+    "warrior",
+    "drawing",
+    "vs",
+    "viking",
+    "concept",
+    "conan",
+    "solomon",
+    "kane",
+    "anton",
+    "tareev",
+    "character",
+    "design",
+    "dark",
+    "nathan",
+    "gordon",
+    "races",
+    "mythical",
+    "creatures"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -402,
     "offset_y": -154,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7699999999999998,
     "offset_x": -140,
     "offset_y": -65,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1700000000000002,
     "offset_x": -105,
     "offset_y": -101,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -7,27 +7,55 @@
     "elf",
     "hunter",
     "warcraft",
-    "demon"
+    "demon",
+    "night",
+    "characters",
+    "league",
+    "legends",
+    "spyro",
+    "share",
+    "via",
+    "ios",
+    "app",
+    "\u00A9",
+    "2016",
+    "dark",
+    "witch",
+    "doctor",
+    "summons",
+    "anastasiia",
+    "krutova",
+    "smite",
+    "spectral",
+    "blade",
+    "pele",
+    "jordan",
+    "kerbow",
+    "en",
+    "2020"
   ],
   "small": {
     "scale": 1.7000000000000006,
     "offset_x": -486,
     "offset_y": -739,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2200000000000002,
     "offset_x": -223,
     "offset_y": -439,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2500000000000002,
     "offset_x": -54,
     "offset_y": -246,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -22,7 +22,15 @@
     "kyaw",
     "pixel",
     "brush",
-    "artstudio"
+    "artstudio",
+    "sci-fi",
+    "character",
+    "concept",
+    "sketch",
+    "cool",
+    "anime",
+    "girl",
+    "angel"
   ],
   "small": {
     "scale": 0.8799999999999999,
@@ -46,6 +54,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

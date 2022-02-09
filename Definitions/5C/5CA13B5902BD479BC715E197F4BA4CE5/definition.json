@@ -46,7 +46,20 @@
     "character",
     "female",
     "elves",
-    "mage"
+    "mage",
+    "viking",
+    "woman",
+    "drawing",
+    "sword",
+    "pirate",
+    "https://cdna.artstation.com/p/assets/images/images/003/161",
+    "barbarian",
+    "diablo",
+    "gustavo",
+    "pelissari",
+    "credit",
+    "https://www.artstation.com/tonysart",
+    "dndmemes"
   ],
   "small": {
     "scale": 1.1600000000000001,
@@ -70,6 +83,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

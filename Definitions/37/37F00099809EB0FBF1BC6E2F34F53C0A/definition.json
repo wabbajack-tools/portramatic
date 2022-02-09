@@ -4,7 +4,15 @@
   "tags": [
     "vi",
     "league",
-    "legends"
+    "legends",
+    "splash",
+    "ezreal",
+    "shen",
+    "monkey",
+    "king",
+    "monsters",
+    "chen",
+    "bo"
   ],
   "small": {
     "scale": 0.99,
@@ -28,6 +36,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

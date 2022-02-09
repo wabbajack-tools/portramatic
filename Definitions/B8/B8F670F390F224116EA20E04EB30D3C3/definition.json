@@ -10,27 +10,50 @@
     "armors",
     "archer",
     "paladin",
-    "goblin"
+    "goblin",
+    "cahir",
+    "witcher",
+    "gwent",
+    "nilfgaardian",
+    "skyrim",
+    "medieval",
+    "knights",
+    "knight",
+    "armor",
+    "game",
+    "thrones",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "coat",
+    "eye",
+    "karduhm",
+    "twins",
+    "andrew"
   ],
   "small": {
     "scale": 2.000000000000001,
     "offset_x": -546.3333333333323,
     "offset_y": -191.99999999999983,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.5900000000000005,
     "offset_x": -348.6666666666667,
     "offset_y": -139.66666666666697,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.459999999999998,
     "offset_x": -124.00000000000045,
     "offset_y": -86.6666666666664,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

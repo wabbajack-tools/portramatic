@@ -15,12 +15,12 @@
     "jake",
     "siano",
     "max",
-    "duran's",
+    "duran\u0027s",
     "submission",
     "ancient",
     "civilizations",
     "lost",
-    "&",
+    "\u0026",
     "found",
     "character",
     "design",
@@ -35,7 +35,20 @@
     "greatsword",
     "underdark",
     "andrew",
-    "erickson"
+    "erickson",
+    "male",
+    "wood",
+    "archer",
+    "concept",
+    "dark",
+    "souls",
+    "lords",
+    "salem",
+    "witch",
+    "elisa",
+    "moraes",
+    "personnage",
+    "histoire"
   ],
   "small": {
     "scale": 0.41999999999999954,
@@ -59,6 +72,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

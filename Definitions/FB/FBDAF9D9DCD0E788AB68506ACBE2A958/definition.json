@@ -3,27 +3,47 @@
   "md5": "FBDAF9D9DCD0E788AB68506ACBE2A958",
   "tags": [
     "holy",
-    "goddess"
+    "goddess",
+    "ff14",
+    "shadowbringers",
+    "ffxiv",
+    "sin",
+    "eater",
+    "black",
+    "lagoon",
+    "archangels",
+    "anime",
+    "girl",
+    "old",
+    "work",
+    "doha",
+    "studio",
+    "angels",
+    "eirene",
+    "zineryl"
   ],
   "small": {
     "scale": 0.6199999999999997,
     "offset_x": -290.60000000000014,
     "offset_y": -42.80000000000001,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7599999999999998,
     "offset_x": -290.59999999999997,
     "offset_y": -8.399999999999977,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.9199999999999999,
     "offset_x": -140.1759259259261,
     "offset_y": -10.138888888888914,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,27 +2,49 @@
   "source": "https://i.pinimg.com/564x/54/70/11/5470111cdf2725439cd2739cc147fb22.jpg",
   "md5": "EF21FD440297744DC6A8847BEFDD765B",
   "tags": [
-    ""
+    "",
+    "orcs",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "jewelry",
+    "bracelet",
+    "maroon",
+    "town",
+    "assassin",
+    "carl",
+    "springer",
+    "confidence",
+    "bright",
+    "a",
+    "cage",
+    "sustained",
+    "illustration",
+    "beatrice",
+    "pelagatti"
   ],
   "small": {
     "scale": 1.4599999999999989,
     "offset_x": -224,
     "offset_y": -233,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.12,
     "offset_x": -135,
     "offset_y": -114,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.2700000000000002,
     "offset_x": -12,
     "offset_y": -12,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -2,25 +2,67 @@
   "source": "https://fsa.zobj.net/crop.php?r=doBxyYMjFOK71nw3GSpA29YsYEk2HayAP7otClIe6GzCNASliH5tvjibcWU5aczJJlS396REfHA0gT7eFuwOQn6nzABqNmJFVyEIe9Qk56IKIU85Fmh2KGPJJ5LRptMmkKoY8aL-gUXb1HXCPEKcnqvniGDr8TIfoi1YQEgW73PtOOXjTqSFX6AFxhlW8UxVpqu4tAJBkQuTA9Z9",
   "md5": "C0EE006B0FD13D3F389B1C3789D5CBF5",
   "tags": [
-    ""
+    "",
+    "female",
+    "elf",
+    "cleric",
+    "fighter",
+    "rogue",
+    "knight",
+    "armor",
+    "suit",
+    "armors",
+    "body",
+    "orc",
+    "warrior",
+    "assassin",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "accessories",
+    "head_wear",
+    "scarf",
+    "shoes",
+    "heels",
+    "epic",
+    "tia",
+    "jaehong",
+    "jeon",
+    "concept",
+    "dungeons",
+    "dragons",
+    "dina",
+    "lvl4",
+    "alina",
+    "fuhrmann",
+    "https://www.artstation.com/artwork/mqogdv",
+    "creature",
+    "guardians-tess",
+    "olivier",
+    "sam",
+    "woman"
   ],
   "small": {
     "scale": 1,
     "offset_x": -223,
     "offset_y": -16,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.9199999999999999,
     "offset_x": -124,
     "offset_y": -10,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.1500000000000001,
     "offset_x": -20,
     "offset_y": -4,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -5,27 +5,48 @@
     "fang",
     "yuan",
     "reverend",
-    "insanity"
+    "insanity",
+    "league",
+    "legends",
+    "witch",
+    "king",
+    "angmar",
+    "dark",
+    "elf",
+    "enaeri",
+    "sebastian",
+    "wagner",
+    "character",
+    "cassiopeia",
+    "jp",
+    "targete",
+    "geralt",
+    "azeroth",
+    "steven",
+    "crowe"
   ],
   "small": {
     "scale": 0.6799999999999997,
     "offset_x": -535.2000000000011,
     "offset_y": -304.80000000000007,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.36999999999999944,
     "offset_x": -212.39999999999998,
     "offset_y": -159.1999999999996,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.36999999999999944,
     "offset_x": -6.407407407405799,
     "offset_y": -59.26851851851825,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

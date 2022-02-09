@@ -1,5 +1,5 @@
 {
-  "source": "https://pbs.twimg.com/media/FEvgBuTXMA0Jv-C?format=jpg&name=small",
+  "source": "https://pbs.twimg.com/media/FEvgBuTXMA0Jv-C?format=jpg\u0026name=small",
   "md5": "6DAD9F682635999CCCCCE2200FAF0F03",
   "tags": [
     "warrior",
@@ -8,27 +8,38 @@
     "femalewarrior",
     "female",
     "scantily",
-    "clad"
+    "clad",
+    "human_made_object",
+    "fashion_cosmetics_or_accessories",
+    "clothing",
+    "outer_wear",
+    "jacket",
+    "accessories",
+    "jewelry",
+    "necklace"
   ],
   "small": {
     "scale": 1.3100000000000003,
     "offset_x": -164.5,
     "offset_y": -15,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.3000000000000003,
     "offset_x": -80.5,
     "offset_y": -12,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.399999999999993,
     "offset_x": -79,
     "offset_y": -9,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

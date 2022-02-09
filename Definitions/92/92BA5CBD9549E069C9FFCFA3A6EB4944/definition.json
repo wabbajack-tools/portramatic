@@ -2,25 +2,53 @@
   "source": "https://markgrahamartist.com/wp-content/uploads/2020/09/mortarion-scaled.jpg",
   "md5": "92BA5CBD9549E069C9FFCFA3A6EB4944",
   "tags": [
-    ""
+    "",
+    "daemon",
+    "primarch",
+    "death",
+    "guard",
+    "mortarion",
+    "warhammer",
+    "lich",
+    "king",
+    "ancient",
+    "god",
+    "forest",
+    "l",
+    "taurtiris",
+    "sasha",
+    "de",
+    "trafo",
+    "skinwalker",
+    "scott",
+    "purdy",
+    "cerberus",
+    "edward",
+    "j",
+    "chua"
   ],
   "small": {
     "scale": 0.5299999999999996,
     "offset_x": -426,
     "offset_y": -247,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.48999999999999955,
     "offset_x": -309,
     "offset_y": -149,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.7399999999999998,
     "offset_x": -368,
     "offset_y": -208,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

@@ -31,7 +31,24 @@
     "alejdark",
     "red",
     "potion",
-    "studios"
+    "studios",
+    "fantastic",
+    "beasts",
+    "concept",
+    "drawings",
+    "fan",
+    "devilman",
+    "wip",
+    "maria",
+    "panfilova",
+    "latest",
+    "predator\u2014\u2014giant",
+    "warrior",
+    "mist",
+    "xg",
+    "x",
+    "takuma",
+    "tokashiki"
   ],
   "small": {
     "scale": 0.8599999999999999,
@@ -42,7 +59,7 @@
   },
   "medium": {
     "scale": 0.5899999999999996,
-    "offset_x": 1.7053025658242404e-13,
+    "offset_x": 1.7053025658242404E-13,
     "offset_y": -28.799999999999983,
     "size": "medium",
     "rotation": 0
@@ -55,6 +72,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

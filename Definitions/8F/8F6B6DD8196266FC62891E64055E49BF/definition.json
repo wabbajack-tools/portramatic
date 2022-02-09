@@ -2,27 +2,62 @@
   "source": "https://i.pinimg.com/564x/52/22/09/522209d605a45672a2cc912aa50a009b.jpg",
   "md5": "8F6B6DD8196266FC62891E64055E49BF",
   "tags": [
-    ""
+    "",
+    "karl",
+    "kopinski",
+    "sketchbook",
+    "pencil",
+    "bretonnian",
+    "knight",
+    "game",
+    "thrones",
+    "rise",
+    "guardians",
+    "female",
+    "assassin",
+    "elder",
+    "scrolls",
+    "online",
+    "dragon",
+    "armor",
+    "ursa",
+    "druid",
+    "barbarian",
+    "elizabeth",
+    "giuchici",
+    "https://www.artstation.com/artwork",
+    "lord",
+    "snow",
+    "alec",
+    "acevedo",
+    "mao",
+    "dong",
+    "https://www.artstation.com/artwork/r2dzj",
+    "dungeons",
+    "dragons"
   ],
   "small": {
     "scale": 3.069999999999978,
     "offset_x": -731,
     "offset_y": -103,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.9200000000000008,
     "offset_x": -348,
     "offset_y": -16,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 2.079999999999999,
     "offset_x": -178,
     "offset_y": -6,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

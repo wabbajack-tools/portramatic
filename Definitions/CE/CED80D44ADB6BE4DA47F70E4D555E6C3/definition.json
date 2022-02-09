@@ -2,27 +2,50 @@
   "source": "https://i.pinimg.com/564x/c6/d7/a4/c6d7a457b153a0baf725958530acb5e2.jpg",
   "md5": "CED80D44ADB6BE4DA47F70E4D555E6C3",
   "tags": [
-    ""
+    "",
+    "intelligent",
+    "animals",
+    "most",
+    "dogs",
+    "yugio",
+    "yu",
+    "gi",
+    "oh",
+    "zexal",
+    "yu-gi-oh",
+    "gx",
+    "sonic",
+    "hedgehog",
+    "legend",
+    "zelda",
+    "tora",
+    "artwork",
+    "geoffroy",
+    "bernard",
+    "https://www.artstation.com/artwork/8nakw"
   ],
   "small": {
     "scale": 1,
     "offset_x": -321,
     "offset_y": -92,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.98,
     "offset_x": -122,
     "offset_y": 0,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.9100000000000008,
     "offset_x": -318,
     "offset_y": -16,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

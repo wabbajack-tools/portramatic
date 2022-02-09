@@ -29,7 +29,14 @@
     "calviz",
     "david",
     "villegas",
-    "https://www.artstation.com/artwork"
+    "https://www.artstation.com/artwork",
+    "comic",
+    "book",
+    "darth",
+    "vader",
+    "buster",
+    "moody",
+    "https://www"
   ],
   "small": {
     "scale": 0.6099999999999997,
@@ -53,6 +60,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -5,27 +5,50 @@
     "magic",
     "gathering",
     "planeswalker",
-    "artwork"
+    "artwork",
+    "mtg",
+    "fan",
+    "eldrazi",
+    "nissa",
+    "dungeons",
+    "dragons",
+    "starcraft",
+    "brood",
+    "war",
+    "kaia",
+    "ond\u0159ej",
+    "hrdina",
+    "archer",
+    "ahmad",
+    "said",
+    "garden",
+    "enchantress",
+    "raoul",
+    "vitale",
+    "https://www.artstation.com/artwork"
   ],
   "small": {
     "scale": 0.7999999999999998,
     "offset_x": -451,
     "offset_y": -166,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.38999999999999946,
     "offset_x": -74,
     "offset_y": -52,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 0.5899999999999996,
     "offset_x": -68,
     "offset_y": -18,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

@@ -26,25 +26,54 @@
     "fashion",
     "people",
     "angel",
-    "aasimar"
+    "aasimar",
+    "half-elves",
+    "dark",
+    "elf",
+    "mage",
+    "male",
+    "orcs",
+    "innocentia",
+    "et",
+    "superbia",
+    "carhvax",
+    "simons",
+    "https://www.artstation.com/artwork/kkle6",
+    "titanus",
+    "behemoth",
+    "alex",
+    "crow",
+    "https://www.artstation.com/artwork/xz45e2",
+    "magic",
+    "etharis",
+    "marius",
+    "bota",
+    "2021",
+    "digital",
+    "artwork"
   ],
   "small": {
     "scale": 1.4800000000000004,
     "offset_x": -482,
     "offset_y": -450,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 1.2800000000000002,
     "offset_x": -293,
     "offset_y": -355,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.03,
     "offset_x": -17,
     "offset_y": -67,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
-  "version": 2
+  "version": 2,
+  "requeried": true,
+  "nsfw": false
 }

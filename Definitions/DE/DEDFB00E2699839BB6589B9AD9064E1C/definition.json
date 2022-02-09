@@ -9,7 +9,7 @@
     "female",
     "knight",
     "black",
-    "assassin's",
+    "assassin\u0027s",
     "elf",
     "thief",
     "assassin",
@@ -23,7 +23,7 @@
     "life",
     "artwork",
     "giovane",
-    "henriques's",
+    "henriques\u0027s",
     "submission",
     "beneath",
     "waves",
@@ -36,7 +36,22 @@
     "illyana",
     "fanfoxy",
     "_",
-    "https://www.artstation"
+    "https://www.artstation",
+    "mutsumi",
+    "pat",
+    "sentinel",
+    "guilherme",
+    "batista",
+    "concept",
+    "characters",
+    "design",
+    "astari",
+    "mirkheart",
+    "n/",
+    "ithilnaur",
+    "2020",
+    "night",
+    "elves"
   ],
   "small": {
     "scale": 1,
@@ -60,6 +75,6 @@
     "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

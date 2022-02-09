@@ -9,27 +9,35 @@
     "orc",
     "druid",
     "clash",
-    "titans"
+    "titans",
+    "female",
+    "elf",
+    "names",
+    "half-orcs",
+    "cute"
   ],
   "small": {
     "scale": 0.6899999999999997,
     "offset_x": -66,
     "offset_y": -25,
-    "size": "small"
+    "size": "small",
+    "rotation": 0
   },
   "medium": {
     "scale": 0.7799999999999998,
     "offset_x": -26,
     "offset_y": -21,
-    "size": "medium"
+    "size": "medium",
+    "rotation": 0
   },
   "full": {
     "scale": 1.6200000000000006,
     "offset_x": -46,
     "offset_y": -44,
-    "size": "full"
+    "size": "full",
+    "rotation": 0
   },
   "version": 2,
-  "requeried": false,
+  "requeried": true,
   "nsfw": false
 }

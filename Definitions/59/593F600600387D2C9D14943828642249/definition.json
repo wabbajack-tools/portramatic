@@ -1,0 +1,35 @@
+{
+  "source": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdungeonsmaster.com%2Fwp-content%2Fuploads%2F2012%2F10%2Fundead-king.jpg&f=1&nofb=1",
+  "md5": "593F600600387D2C9D14943828642249",
+  "tags": [
+    "lich",
+    "achlich",
+    "necromancer",
+    "dark mage",
+    "graveyard"
+  ],
+  "small": {
+    "scale": 0.7099999999999997,
+    "offset_x": -129.20000000000016,
+    "offset_y": -19.00000000000003,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -90,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.11,
+    "offset_x": -156.47222222222285,
+    "offset_y": -2.4444444444438886,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

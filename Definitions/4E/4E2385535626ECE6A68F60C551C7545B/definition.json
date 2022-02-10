@@ -1,0 +1,30 @@
+{
+  "source": "https://s3.amazonaws.com/files.d20.io/images/8400698/5TOFRiciFHqWW1OHkrvLyg/original.jpg?1427055401",
+  "md5": "4E2385535626ECE6A68F60C551C7545B",
+  "tags": [
+    "male",
+    "elf",
+    "alchemist"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -248,
+    "offset_y": -4,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -179,
+    "offset_y": -7,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.5400000000000005,
+    "offset_x": -72,
+    "offset_y": -6,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

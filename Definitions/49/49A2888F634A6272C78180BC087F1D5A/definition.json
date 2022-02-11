@@ -1,0 +1,38 @@
+{
+  "source": "https://artfiles.alphacoders.com/345/34528.jpg",
+  "md5": "49A2888F634A6272C78180BC087F1D5A",
+  "tags": [
+    "female",
+    "half orc",
+    "death knight",
+    "knight",
+    "magus",
+    "necromancer",
+    "lich",
+    "hellknight"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -92,
+    "offset_y": -114,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -24,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -6,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

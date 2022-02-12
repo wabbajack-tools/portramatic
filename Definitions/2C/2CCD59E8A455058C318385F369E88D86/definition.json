@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/GygzTAr.jpeg",
+  "md5": "2CCD59E8A455058C318385F369E88D86",
+  "tags": [
+    "human",
+    "eldritch",
+    "knight"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -283,
+    "offset_y": -31,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -196,
+    "offset_y": -37,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -32,
+    "offset_y": -26,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/jnqcspjpzlu51.jpg",
+  "md5": "79C2A76283C73E973C21D3B96B74F8AC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.86,
+    "offset_x": -276.00000000000136,
+    "offset_y": -44.66666666666603,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6699999999999998,
+    "offset_x": -127.333333333334,
+    "offset_y": -7.33333333333303,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.91,
+    "offset_x": -2.6666666666656056,
+    "offset_y": -5.333333333333599,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

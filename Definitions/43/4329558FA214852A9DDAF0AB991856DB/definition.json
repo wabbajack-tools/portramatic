@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/9mzidfinily41.jpg",
+  "md5": "4329558FA214852A9DDAF0AB991856DB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7299999999999998,
+    "offset_x": -201.33333333333564,
+    "offset_y": -75.33333333333218,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -56.00000000000006,
+    "offset_y": -16.66666666666677,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.93,
+    "offset_x": -69.33333333333337,
+    "offset_y": -51.999999999999375,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

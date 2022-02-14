@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/zgfwkifbjuw51.jpg",
+  "md5": "E32ACDD39FF11B3548C9A18450A43999",
+  "tags": [
+    "drow"
+  ],
+  "small": {
+    "scale": 0.6199999999999997,
+    "offset_x": -668,
+    "offset_y": -144,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": -382,
+    "offset_y": -102,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.47999999999999954,
+    "offset_x": -192,
+    "offset_y": -88,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

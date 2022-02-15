@@ -1,0 +1,33 @@
+{
+  "source": "http://i.imgur.com/Zu4AdvW.jpg",
+  "md5": "721937D5FB2454B0CB738343CDEAC8F5",
+  "tags": [
+    "ral",
+    "storm",
+    "conduit"
+  ],
+  "small": {
+    "scale": 0.7099999999999997,
+    "offset_x": -345,
+    "offset_y": -152.0000000000001,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3399999999999994,
+    "offset_x": -12.666666666666686,
+    "offset_y": -9.666666666666686,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": -14.333333333333485,
+    "offset_y": -0.9999999999998863,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

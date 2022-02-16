@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/hmDnsZP.jpeg",
+  "md5": "0821B49669647D1BECC1C5C945CD9E8C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.4600000000000004,
+    "offset_x": -505.42857142857395,
+    "offset_y": -123.42857142857116,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -317.8571428571427,
+    "offset_y": -90.42857142857133,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.02,
+    "offset_x": -75.71428571428555,
+    "offset_y": -26.571428571428783,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

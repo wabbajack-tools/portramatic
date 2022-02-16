@@ -1,0 +1,36 @@
+{
+  "source": "https://i.redd.it/d2b05t7oabl71.jpg",
+  "md5": "9E8DB546E501CC5E316DF34B5AD52BD1",
+  "tags": [
+    "dark",
+    "warrior",
+    "hell",
+    "knight",
+    "fighter",
+    "devil"
+  ],
+  "small": {
+    "scale": 1.1800000000000002,
+    "offset_x": -684.7999999999994,
+    "offset_y": -203.80000000000018,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -227.39999999999998,
+    "offset_y": -1.3999999999999204,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6299999999999997,
+    "offset_x": -108.65740740740762,
+    "offset_y": -2.018518518518704,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

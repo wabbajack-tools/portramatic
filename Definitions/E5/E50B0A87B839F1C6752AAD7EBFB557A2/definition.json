@@ -1,0 +1,38 @@
+{
+  "source": "https://i.pinimg.com/564x/6c/30/6e/6c306ef311367c484adaccb9afcc4175.jpg",
+  "md5": "E50B0A87B839F1C6752AAD7EBFB557A2",
+  "tags": [
+    "female",
+    "human",
+    "bard",
+    "violin",
+    "caster",
+    "dress",
+    "long hair",
+    "noble"
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -210,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -67,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -18,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

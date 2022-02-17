@@ -1,0 +1,42 @@
+{
+  "source": "https://pbs.twimg.com/media/D5BBIAZW4AAYcCu?format=jpg&name=large",
+  "md5": "310C9871311A439A41EE79C1BE51DC6C",
+  "tags": [
+    "human",
+    "paladin",
+    "fighter",
+    "black hair",
+    "long hair",
+    "ear ring",
+    "tan",
+    "asian",
+    "sword",
+    "shield",
+    "armor",
+    "tabard"
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -194,
+    "offset_y": -34,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.38999999999999946,
+    "offset_x": -60,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6099999999999997,
+    "offset_x": -14,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

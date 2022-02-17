@@ -1,0 +1,35 @@
+{
+  "source": "http://static.minitokyo.net/downloads/35/23/546185.jpg",
+  "md5": "E3418F3C18B69286A59790132D31126A",
+  "tags": [
+    "remnant",
+    "game",
+    "last",
+    "characters",
+    "map"
+  ],
+  "small": {
+    "scale": 0.47999999999999954,
+    "offset_x": -355,
+    "offset_y": -11,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.35999999999999943,
+    "offset_x": -189,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6499999999999997,
+    "offset_x": -296,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

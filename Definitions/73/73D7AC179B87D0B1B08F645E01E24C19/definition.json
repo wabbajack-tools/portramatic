@@ -1,0 +1,37 @@
+{
+  "source": "https://i.redd.it/p3fmja2gxzi31.png",
+  "md5": "73D7AC179B87D0B1B08F645E01E24C19",
+  "tags": [
+    "tiefling",
+    "cleric",
+    "horns",
+    "short hair",
+    "caster",
+    "tail",
+    "priestess"
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -367,
+    "offset_y": -205,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.18999999999999942,
+    "offset_x": -103,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.25999999999999934,
+    "offset_x": -18,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://m.media-amazon.com/images/I/51nMsSNqbnL._AC_.jpg",
+  "md5": "98CA80C9A6122F6D217AD76A1ADFD77A",
+  "tags": [
+    "whip",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.8100000000000007,
+    "offset_x": -243.33333333333348,
+    "offset_y": -85.33333333333337,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.7200000000000006,
+    "offset_x": -110.99999999999977,
+    "offset_y": -65,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.4499999999999913,
+    "offset_x": -90.66666666666663,
+    "offset_y": -55.99999999999983,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

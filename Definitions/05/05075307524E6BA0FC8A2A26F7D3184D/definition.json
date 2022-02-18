@@ -1,0 +1,31 @@
+{
+  "source": "http://tespedia.ru/images/base/0/15/queen_ayrenn.jpg",
+  "md5": "05075307524E6BA0FC8A2A26F7D3184D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -426,
+    "offset_y": -85,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7799999999999998,
+    "offset_x": -305,
+    "offset_y": -54,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": -330,
+    "offset_y": -80,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

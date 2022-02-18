@@ -1,0 +1,31 @@
+{
+  "source": "https://artlords-artwork.s3.amazonaws.com/uploads/image/9407/display_AP.jpg",
+  "md5": "2A2EED953AD984B6CA7511A55F9D6323",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6499999999999997,
+    "offset_x": -192.79999999999995,
+    "offset_y": -9.599999999999966,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -151.9999999999999,
+    "offset_y": -0.8000000000000682,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -152.1759259259254,
+    "offset_y": -6.407407407407163,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

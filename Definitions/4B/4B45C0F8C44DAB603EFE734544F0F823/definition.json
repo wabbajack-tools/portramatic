@@ -1,0 +1,31 @@
+{
+  "source": "https://artlords-artwork.s3.amazonaws.com/uploads/image/9313/display_B2P.jpg",
+  "md5": "4B45C0F8C44DAB603EFE734544F0F823",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -102.39999999999998,
+    "offset_y": -53.599999999999966,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -100.79999999999984,
+    "offset_y": -26.40000000000009,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -48.055555555554974,
+    "offset_y": -27.231481481481183,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

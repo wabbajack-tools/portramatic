@@ -1,0 +1,32 @@
+{
+  "source": "https://pbs.twimg.com/media/EUrDdyPUwAUaUsM?format=jpg&name=medium",
+  "md5": "97D41746AEAE9CFCF64D1949F70E0845",
+  "tags": [
+    "kitsune",
+    "arrow"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -268,
+    "offset_y": -130,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -182,
+    "offset_y": -137,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -16,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

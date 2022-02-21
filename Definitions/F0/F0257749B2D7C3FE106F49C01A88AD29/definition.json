@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/jca5g2wrqch81.jpg",
+  "md5": "F0257749B2D7C3FE106F49C01A88AD29",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.98,
+    "offset_x": -319,
+    "offset_y": -279,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -232,
+    "offset_y": -286,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -144,
+    "offset_y": -82,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

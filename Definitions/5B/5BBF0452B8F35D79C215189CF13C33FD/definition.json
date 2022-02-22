@@ -1,0 +1,33 @@
+{
+  "source": "https://artfiles.alphacoders.com/881/88148.jpg",
+  "md5": "5BBF0452B8F35D79C215189CF13C33FD",
+  "tags": [
+    "female",
+    "warrior",
+    "armor"
+  ],
+  "small": {
+    "scale": 0.7199999999999998,
+    "offset_x": -253,
+    "offset_y": -60,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -142,
+    "offset_y": -41,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7499999999999998,
+    "offset_x": -14,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

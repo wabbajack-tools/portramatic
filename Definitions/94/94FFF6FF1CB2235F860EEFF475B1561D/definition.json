@@ -1,0 +1,35 @@
+{
+  "source": "https://www.tebeosfera.com/imagenes/personajes/4/1/personajes-F856-692-308-841.jpg",
+  "md5": "94FFF6FF1CB2235F860EEFF475B1561D",
+  "tags": [
+    "Barbarian",
+    "rogue",
+    "ranger",
+    "pirate",
+    "female"
+  ],
+  "small": {
+    "scale": 1.4900000000000004,
+    "offset_x": -219,
+    "offset_y": -19,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3400000000000003,
+    "offset_x": -109,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7800000000000007,
+    "offset_x": -20,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

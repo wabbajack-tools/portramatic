@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f3/20/d3/f320d3788bf97f9281dba7d39474fadd.jpg",
+  "md5": "B43DA7F2A2FF1EBD762EEBB8F3924478",
+  "tags": [
+    "demon",
+    "male",
+    "fire"
+  ],
+  "small": {
+    "scale": 1.4200000000000004,
+    "offset_x": -292.0000000000002,
+    "offset_y": -275.99999999999994,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.11,
+    "offset_x": -137.99999999999994,
+    "offset_y": -183.33333333333326,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4800000000000004,
+    "offset_x": -59.99999999999977,
+    "offset_y": -152,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

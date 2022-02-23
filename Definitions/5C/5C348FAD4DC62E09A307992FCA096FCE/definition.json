@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/7b/54/62/7b546234bbabde6cd004fafe46672b70.jpg",
+  "md5": "5C348FAD4DC62E09A307992FCA096FCE",
+  "tags": [
+    "rogue",
+    "pirate",
+    "female"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -165,
+    "offset_y": -13,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -13,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -6,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

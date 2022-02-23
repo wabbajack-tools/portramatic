@@ -1,0 +1,26 @@
+{
+  "source": "http://s9.uploads.ru/3PHGv.jpg",
+  "md5": "E6EE36609EE5E40FF3205C165A3BCC85",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6699999999999997,
+    "offset_x": -26,
+    "offset_y": -17,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 2.04,
+    "offset_x": -10,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2
+}

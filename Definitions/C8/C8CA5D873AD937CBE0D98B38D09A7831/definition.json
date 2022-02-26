@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/wow/images/b/b1/Kael%27thas_HS.jpg/revision/latest?cb=20200618180530&path-prefix=fr",
+  "md5": "C8CA5D873AD937CBE0D98B38D09A7831",
+  "tags": [
+    "Kael'thas"
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -197,
+    "offset_y": -83,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3499999999999994,
+    "offset_x": -113,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.48999999999999955,
+    "offset_x": -20,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

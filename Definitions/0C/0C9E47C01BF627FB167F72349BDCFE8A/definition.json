@@ -1,0 +1,31 @@
+{
+  "source": "https://lorewowblog.files.wordpress.com/2016/03/muradin1.jpg",
+  "md5": "0C9E47C01BF627FB167F72349BDCFE8A",
+  "tags": [
+    "Muradin"
+  ],
+  "small": {
+    "scale": 1.09,
+    "offset_x": -268,
+    "offset_y": -89,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.09,
+    "offset_x": -177,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7100000000000006,
+    "offset_x": -266,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

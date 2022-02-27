@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/8bx71eelgru41.jpg",
+  "md5": "606F3AE4C17A8C13E32B43660CC93D2F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.18999999999999928,
+    "offset_x": -56,
+    "offset_y": -17.600000000000023,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.24999999999999933,
+    "offset_x": -31.999999999999886,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5199999999999996,
+    "offset_x": -72.08333333333326,
+    "offset_y": -1.6018518518518476,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

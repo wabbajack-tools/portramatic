@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/72/f7/f9/72f7f90326e4b0c8db0e401a755bd28a.jpg",
+  "md5": "93E0BBA1236AFDD5BD47C6598A779259",
+  "tags": [
+    "barbarian",
+    "male",
+    "handaxe"
+  ],
+  "small": {
+    "scale": 0.6099999999999997,
+    "offset_x": -287,
+    "offset_y": -58,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -187,
+    "offset_y": -59,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6299999999999997,
+    "offset_x": -36,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

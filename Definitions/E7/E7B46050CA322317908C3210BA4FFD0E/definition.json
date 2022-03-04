@@ -1,0 +1,34 @@
+{
+  "source": "https://i.redd.it/bxuc58sqadk51.jpg",
+  "md5": "E7B46050CA322317908C3210BA4FFD0E",
+  "tags": [
+    "dark",
+    "female",
+    "elf",
+    "necromancer"
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -381,
+    "offset_y": -230,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -302,
+    "offset_y": -242,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8899999999999999,
+    "offset_x": -102,
+    "offset_y": -84,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

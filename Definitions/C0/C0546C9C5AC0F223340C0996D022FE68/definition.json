@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.amazonaws.com/tci-assets/uploads/ericpic.jpg",
+  "md5": "C0546C9C5AC0F223340C0996D022FE68",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.25999999999999934,
+    "offset_x": -106,
+    "offset_y": -24,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2999999999999994,
+    "offset_x": -90,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5099999999999996,
+    "offset_x": -36,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

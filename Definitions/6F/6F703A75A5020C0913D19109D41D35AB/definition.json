@@ -1,0 +1,35 @@
+{
+  "source": "https://i.imgur.com/Tn8PLVo.jpeg",
+  "md5": "6F703A75A5020C0913D19109D41D35AB",
+  "tags": [
+    "male",
+    "elf",
+    "wizard",
+    "robe",
+    "sorcerer"
+  ],
+  "small": {
+    "scale": 0.6199999999999997,
+    "offset_x": -128.66666666666666,
+    "offset_y": -44,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -44,
+    "offset_y": -27.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.99,
+    "offset_x": -5.3333333333332575,
+    "offset_y": -45.3333333333332,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

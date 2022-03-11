@@ -1,0 +1,32 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/495641471719047213/501207437924106250/95dfaa75dd45a4904a039432531803fa.png",
+  "md5": "2D4D0E342E996937E2778B31F4809C69",
+  "tags": [
+    "female",
+    "monk"
+  ],
+  "small": {
+    "scale": 0.7299999999999998,
+    "offset_x": -141,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7599999999999998,
+    "offset_x": -84,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.12,
+    "offset_x": -38,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/2f/12/67/2f1267b6b57b425e61fd7cea3795168d.jpg",
+  "md5": "96B836549F82FAE72D0CCD7E51BA53E1",
+  "tags": [
+    "Orc",
+    "monk",
+    "druid"
+  ],
+  "small": {
+    "scale": 0.9299999999999999,
+    "offset_x": -162,
+    "offset_y": -11,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -114,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -26,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

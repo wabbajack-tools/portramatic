@@ -1,0 +1,42 @@
+{
+  "source": "https://images.fineartamerica.com/images-medium-large-5/thorin-oakenshield-mustafa-okan-bulbul.jpg",
+  "md5": "3C8157F7DE6D4A5CC758385C40E6A8C4",
+  "tags": [
+    "dwarf",
+    "human",
+    "ranger",
+    "archer",
+    "fighter",
+    "swordsman",
+    "thorin",
+    "oakenshield",
+    "beard",
+    "forest",
+    "fur",
+    "brown"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -298,
+    "offset_y": -222,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -132,
+    "offset_y": -106,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1400000000000001,
+    "offset_x": -96,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

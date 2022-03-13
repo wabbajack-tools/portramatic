@@ -1,0 +1,31 @@
+{
+  "source": "https://www.jp.square-enix.com/vocd/img/top/chara_card_shiroku.png",
+  "md5": "3E81B26C7ED3FE2D291E9A27998B6143",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.9600000000000009,
+    "offset_x": -675.1999999999985,
+    "offset_y": -57.599999999999966,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -207.2,
+    "offset_y": -4.800000000000011,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4600000000000004,
+    "offset_x": -224.25925925925912,
+    "offset_y": -1.6018518518518476,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

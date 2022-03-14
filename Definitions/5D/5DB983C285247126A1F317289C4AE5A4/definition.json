@@ -1,0 +1,38 @@
+{
+  "source": "http://vignette3.wikia.nocookie.net/stormlightarchive/images/d/d4/Stormblessed.jpg/revision/latest?cb=20140606065944",
+  "md5": "5DB983C285247126A1F317289C4AE5A4",
+  "tags": [
+    "male",
+    "human",
+    "sorcerer",
+    "kineticist",
+    "magus",
+    "elemental",
+    "lightning",
+    "arcane"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -320,
+    "offset_y": -153,
+    "size": "small",
+    "rotation": -0.3200000000000001
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -149,
+    "offset_y": -208,
+    "size": "medium",
+    "rotation": -0.15
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -12,
+    "offset_y": -364,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

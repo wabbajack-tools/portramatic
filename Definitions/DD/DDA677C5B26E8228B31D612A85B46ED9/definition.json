@@ -1,0 +1,37 @@
+{
+  "source": "https://i.imgur.com/Qv0V2Yo.jpeg",
+  "md5": "DDA677C5B26E8228B31D612A85B46ED9",
+  "tags": [
+    "male",
+    "human",
+    "kineticist",
+    "sorcerer",
+    "aasimar",
+    "fire",
+    "ice"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -262,
+    "offset_y": -190,
+    "size": "small",
+    "rotation": 0.35000000000000014
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -83,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": -0.03
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -210,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

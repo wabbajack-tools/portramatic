@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/originals/e8/7a/b3/e87ab3da7c6e4dc8afcb707cf8ac83cb.jpg",
+  "md5": "DF969CBC063B913A2DCA19E4B37EF544",
+  "tags": [
+    "human",
+    "elf",
+    "woman",
+    "warrior",
+    "sword",
+    "heavy armor"
+  ],
+  "small": {
+    "scale": 0.7699999999999998,
+    "offset_x": -189.00000000000006,
+    "offset_y": -49.19999999999993,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7699999999999998,
+    "offset_x": -118.40000000000015,
+    "offset_y": -45.19999999999999,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2439166666666666,
+    "offset_x": -92.89814814814804,
+    "offset_y": -52.80555555555566,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

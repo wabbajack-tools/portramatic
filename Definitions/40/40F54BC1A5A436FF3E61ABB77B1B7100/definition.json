@@ -1,0 +1,35 @@
+{
+  "source": "https://static.wikia.nocookie.net/diablo/images/1/1c/D4_Druid_concept_art.png/revision/latest/scale-to-width-down/1000?cb=20191101205304",
+  "md5": "40F54BC1A5A436FF3E61ABB77B1B7100",
+  "tags": [
+    "druid",
+    "male",
+    "human",
+    "person",
+    "horns"
+  ],
+  "small": {
+    "scale": 1.11,
+    "offset_x": -459.20000000000005,
+    "offset_y": -246.40000000000003,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -179.99999999999994,
+    "offset_y": -92.80000000000007,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8099999999999998,
+    "offset_x": -28.833333333332803,
+    "offset_y": -38.444444444444684,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

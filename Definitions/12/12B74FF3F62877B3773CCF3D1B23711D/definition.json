@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/736x/83/7b/e6/837be67b568f2378998f8e7fbb7ca575--lee.jpg",
+  "md5": "12B74FF3F62877B3773CCF3D1B23711D",
+  "tags": [
+    "barbarian",
+    "male",
+    "human",
+    "person",
+    "warrior",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -310.4,
+    "offset_y": -97.59999999999991,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -162.40000000000003,
+    "offset_y": -58.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -11.212962962962592,
+    "offset_y": -49.657407407407504,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

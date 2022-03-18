@@ -1,0 +1,34 @@
+{
+  "source": "https://i.imgur.com/Y81FVD0.png",
+  "md5": "07EFFE442035D7EAAA261C15B7C7D76E",
+  "tags": [
+    "kineticist",
+    "sorcerer",
+    "male",
+    "wizard"
+  ],
+  "small": {
+    "scale": 1.5000000000000004,
+    "offset_x": -532,
+    "offset_y": 118,
+    "size": "small",
+    "rotation": -0.4200000000000002
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -211,
+    "offset_y": -73,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.11,
+    "offset_x": -74,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

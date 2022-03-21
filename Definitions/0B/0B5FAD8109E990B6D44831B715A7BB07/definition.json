@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/57/f5/78/57f57872f7aa02adaa0f46876ea889ae.jpg",
+  "md5": "0B5FAD8109E990B6D44831B715A7BB07",
+  "tags": [
+    "vampire",
+    "dhampir",
+    "hellknight",
+    "knight"
+  ],
+  "small": {
+    "scale": 1.2100000000000002,
+    "offset_x": -247.33333333333354,
+    "offset_y": -75.99999999999994,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -109.66666666666669,
+    "offset_y": -65.66666666666654,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -11.333333333333258,
+    "offset_y": -64.66666666666663,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

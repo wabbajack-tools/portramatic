@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/0d/ee/91/0dee91f24a23ad91de74979ed19c80df.png",
+  "md5": "192316E1469B1C0D63352552EBDD53F1",
+  "tags": [
+    "tiefling",
+    "cleric",
+    "paladin"
+  ],
+  "small": {
+    "scale": 1.11,
+    "offset_x": -288,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -224,
+    "offset_y": -15,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": -28,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

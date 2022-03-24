@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/1/1f/LG-cardart-Cheydinhal_Sapper.png",
+  "md5": "2EB1830BC866D549B206EB071566B34F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.6300000000000001,
+    "offset_x": -228,
+    "offset_y": -68,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2700000000000002,
+    "offset_x": -48,
+    "offset_y": -52,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.05,
+    "offset_x": -10,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

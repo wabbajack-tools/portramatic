@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/4/4a/LG-cardart-Corsair.png",
+  "md5": "44BB346D17DC135731B9137015F24A10",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.48,
+    "offset_x": -204,
+    "offset_y": -66,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -58,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.039999999999999,
+    "offset_x": 0,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

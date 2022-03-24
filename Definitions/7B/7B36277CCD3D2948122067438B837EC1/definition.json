@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/8/83/LG-avatar-High_Elf_Female_2.png",
+  "md5": "7B36277CCD3D2948122067438B837EC1",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.51,
+    "offset_x": -162,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5800000000000005,
+    "offset_x": -45,
+    "offset_y": -29,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.6099999999999874,
+    "offset_x": 0,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/3/37/LG-avatar-Dark_Elf_Female_2.png",
+  "md5": "E66BE296A2EFDCB5AFBBD42B12D3F6FD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.51,
+    "offset_x": -96,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5800000000000005,
+    "offset_x": -39,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.8499999999999823,
+    "offset_x": -14,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

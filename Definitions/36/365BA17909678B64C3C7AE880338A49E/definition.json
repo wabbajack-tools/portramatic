@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/6/6d/LG-avatar-High_Elf_Male_1.png",
+  "md5": "365BA17909678B64C3C7AE880338A49E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.8700000000000003,
+    "offset_x": -176,
+    "offset_y": -27,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5800000000000005,
+    "offset_x": -29,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.6099999999999874,
+    "offset_x": 0,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

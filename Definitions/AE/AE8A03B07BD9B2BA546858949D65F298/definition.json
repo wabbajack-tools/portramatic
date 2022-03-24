@@ -1,0 +1,34 @@
+{
+  "source": "https://static.wikia.nocookie.net/baldursgategame/images/3/3f/Korgan_Bloodaxe_NKORGAN_Portrait_BG2.png/revision/latest?cb=20180926115740",
+  "md5": "AE8A03B07BD9B2BA546858949D65F298",
+  "tags": [
+    "korgan",
+    "dwarf",
+    "evil",
+    "melee"
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": 0,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5800000000000005,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 3.349999999999972,
+    "offset_x": -14,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

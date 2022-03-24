@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/1/18/LG-avatar-Imperial_Male_2.png",
+  "md5": "FA90C7EBE0DCB0C6405958DAD18A90B9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.9900000000000004,
+    "offset_x": -159,
+    "offset_y": -37,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5800000000000005,
+    "offset_x": -50,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.6199999999999872,
+    "offset_x": -2,
+    "offset_y": -90,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

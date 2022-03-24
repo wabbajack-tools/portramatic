@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/c/c7/BL-icon-avatar-Variant_Breton_Male.png",
+  "md5": "51AB5C249C5DEA919C88A5F7BCEB7920",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.0399999999999996,
+    "offset_x": -41,
+    "offset_y": -8,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.7200000000000006,
+    "offset_x": -17,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.9699999999999798,
+    "offset_x": -42,
+    "offset_y": 124,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

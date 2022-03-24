@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/thumb/4/4c/LG-cardart-Aela_the_Huntress_02.jpg/600px-LG-cardart-Aela_the_Huntress_02.jpg",
+  "md5": "595F17B77F23F4E0485962CD59D955FE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.5,
+    "offset_x": -275,
+    "offset_y": -175,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -167,
+    "offset_y": -67,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7799999999999996,
+    "offset_x": -248,
+    "offset_y": -42,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

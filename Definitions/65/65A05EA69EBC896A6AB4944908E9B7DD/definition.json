@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/originals/3b/04/1c/3b041cc9e3768bfcb77695654b78ec85.jpg",
+  "md5": "65A05EA69EBC896A6AB4944908E9B7DD",
+  "tags": [
+    "male",
+    "adventurer"
+  ],
+  "small": {
+    "scale": 0.97,
+    "offset_x": -268.99999999999943,
+    "offset_y": -70.0000000000002,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6999999999999997,
+    "offset_x": -127.66666666666691,
+    "offset_y": -31.9999999999998,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7399999999999998,
+    "offset_x": 35.33333333333303,
+    "offset_y": -21.333333333333258,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

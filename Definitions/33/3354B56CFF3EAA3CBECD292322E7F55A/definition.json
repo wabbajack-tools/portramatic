@@ -1,0 +1,31 @@
+{
+  "source": "https://images.unsplash.com/photo-1617577237120-7b68940cc1fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+  "md5": "3354B56CFF3EAA3CBECD292322E7F55A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.2099999999999993,
+    "offset_x": -14.666666666666657,
+    "offset_y": -11.333333333333286,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4299999999999995,
+    "offset_x": -38.666666666666686,
+    "offset_y": -24.666666666666657,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7599999999999998,
+    "offset_x": -35.99999999999977,
+    "offset_y": -78.66666666666652,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

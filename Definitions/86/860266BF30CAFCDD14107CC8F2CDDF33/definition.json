@@ -1,0 +1,41 @@
+{
+  "source": "https://i.pinimg.com/564x/35/3b/c3/353bc3e80066c2fd36e97ff384a873f8.jpg",
+  "md5": "860266BF30CAFCDD14107CC8F2CDDF33",
+  "tags": [
+    "dwarf",
+    "female",
+    "hungry",
+    "druid",
+    "shaman",
+    "barbarian",
+    "warrior",
+    "character",
+    "dungeons",
+    "dragons",
+    "devil"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -153.60000000000002,
+    "offset_y": -42.59999999999991,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -14.799999999999955,
+    "offset_y": -30,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -1.1999999999999318,
+    "offset_y": -12.399999999999864,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

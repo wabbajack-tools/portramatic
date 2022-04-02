@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/sf76xtgb53x61.jpg",
+  "md5": "E2848BF6E1253D4BD6E0006E872C4441",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.5200000000000005,
+    "offset_x": -2142,
+    "offset_y": -454,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.97,
+    "offset_x": -1269,
+    "offset_y": -214,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -1664,
+    "offset_y": -122,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

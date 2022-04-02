@@ -1,0 +1,37 @@
+{
+  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJpC9CSX4buMPZ4hJBicNO7p14wSxp9I-0w&usqp=CAU",
+  "md5": "761D21962769F6ADA3C8AA1A106BFC87",
+  "tags": [
+    "druid",
+    "shapeshifter",
+    "conan",
+    "barbarian",
+    "goblin",
+    "travis",
+    "purvis"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.8300000000000007,
+    "offset_x": -8,
+    "offset_y": -16,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 3.9499999999999593,
+    "offset_x": -52,
+    "offset_y": 4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

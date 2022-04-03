@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/d7/29/a0/d729a0e07c9c0c41f5810cc3ac2c2a1b.jpg",
+  "md5": "272880A1FDC1D4345D42527A491CC387",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -77,
+    "offset_y": -111,
+    "size": "small",
+    "rotation": 0.2900000000000001
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -26,
+    "offset_y": -60,
+    "size": "medium",
+    "rotation": 0.16
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -22,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://upload.wikimedia.org/wikipedia/en/e/ec/Twelfth_Doctor_%28Doctor_Who%29.jpg",
+  "md5": "47F582811F019530460E03717C868733",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -223,
+    "offset_y": 135,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -63,
+    "offset_y": 131,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

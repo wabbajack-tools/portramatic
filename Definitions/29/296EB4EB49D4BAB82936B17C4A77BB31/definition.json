@@ -1,0 +1,31 @@
+{
+  "source": "https://pbs.twimg.com/media/FD8Rk5NXMAIO6GA?format=jpg&name=medium",
+  "md5": "296EB4EB49D4BAB82936B17C4A77BB31",
+  "tags": [
+    "wizard"
+  ],
+  "small": {
+    "scale": 0.4199999999999995,
+    "offset_x": -71,
+    "offset_y": -23,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -12.5,
+    "offset_y": -38,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9199999999999999,
+    "offset_x": -44,
+    "offset_y": -79,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

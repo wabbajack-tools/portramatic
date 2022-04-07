@@ -1,0 +1,31 @@
+{
+  "source": "https://sv.bagoum.com/getRawImage/1/0/108311020",
+  "md5": "1FEB1B1B209D5B5EFF84E27CD847B1C3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2600000000000002,
+    "offset_x": -440.80000000000035,
+    "offset_y": -275.19999999999993,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7899999999999998,
+    "offset_x": -165.6000000000003,
+    "offset_y": -82.40000000000003,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -105.7222222222224,
+    "offset_y": -24.027777777778113,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

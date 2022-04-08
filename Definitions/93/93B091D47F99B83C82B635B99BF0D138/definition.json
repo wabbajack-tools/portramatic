@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/EYF9wJBWsAAwDHB.jpg",
+  "md5": "93B091D47F99B83C82B635B99BF0D138",
+  "tags": [
+    "d&amp;d",
+    "archer",
+    "character"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -424,
+    "offset_y": -133,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2200000000000002,
+    "offset_x": -398,
+    "offset_y": -144,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -68,
+    "offset_y": -60,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

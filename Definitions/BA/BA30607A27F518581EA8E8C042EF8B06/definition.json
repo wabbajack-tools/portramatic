@@ -1,0 +1,31 @@
+{
+  "source": "https://pbs.twimg.com/media/FKII2_WXwAMiz9B?format=jpg&name=large",
+  "md5": "BA30607A27F518581EA8E8C042EF8B06",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.2099999999999993,
+    "offset_x": -24,
+    "offset_y": -29.5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.38999999999999946,
+    "offset_x": -8.5,
+    "offset_y": -81.5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6599999999999997,
+    "offset_x": 1,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

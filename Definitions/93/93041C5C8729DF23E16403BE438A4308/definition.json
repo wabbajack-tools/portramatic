@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/f9/73/1f/f9731fcc9d2e7d210112bf61010c011d.jpg",
+  "md5": "93041C5C8729DF23E16403BE438A4308",
+  "tags": [
+    "human",
+    "bard",
+    "female"
+  ],
+  "small": {
+    "scale": 0.7699999999999998,
+    "offset_x": -181.66666666666674,
+    "offset_y": -20.46666666666681,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6699999999999997,
+    "offset_x": -65.40000000000003,
+    "offset_y": -17.066666666666663,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0699999999999996,
+    "offset_x": -20.490740740739966,
+    "offset_y": -25.157407407407277,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

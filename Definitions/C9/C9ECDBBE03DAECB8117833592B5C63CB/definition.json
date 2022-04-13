@@ -1,0 +1,31 @@
+{
+  "source": "https://pbs.twimg.com/media/FJ-x-F2XwAA0I2p?format=jpg&name=900x900",
+  "md5": "C9ECDBBE03DAECB8117833592B5C63CB",
+  "tags": [
+    "EldenRing"
+  ],
+  "small": {
+    "scale": 0.7199999999999998,
+    "offset_x": -170,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -125,
+    "offset_y": -9,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1700000000000002,
+    "offset_x": -66,
+    "offset_y": -30,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

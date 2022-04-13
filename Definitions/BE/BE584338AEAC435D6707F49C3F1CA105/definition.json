@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/3e/6f/67/3e6f672b98bc618021ccd1c8c4447a97.jpg",
+  "md5": "BE584338AEAC435D6707F49C3F1CA105",
+  "tags": [
+    "berserker",
+    "warrior",
+    "fantast"
+  ],
+  "small": {
+    "scale": 1.6000000000000005,
+    "offset_x": -386,
+    "offset_y": -154,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3100000000000003,
+    "offset_x": -234,
+    "offset_y": -120,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5700000000000005,
+    "offset_x": -154,
+    "offset_y": -148,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

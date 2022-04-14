@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/550x/25/9e/4e/259e4ee4bd4c83d788c223b1e63e94ec.jpg",
+  "md5": "1325FB6FA48104DBE2830D874389049C",
+  "tags": [
+    "jon",
+    "snow",
+    "ghost"
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -265,
+    "offset_y": -31,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -140,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7400000000000007,
+    "offset_x": -166,
+    "offset_y": -47,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/pku53b7azvf31.jpg",
+  "md5": "60BDF8FA7F21C40352F89902B4639FF3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -567.9999999999998,
+    "offset_y": -180.00000000000006,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5799999999999996,
+    "offset_x": -194.66666666666686,
+    "offset_y": -95.99999999999994,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5299999999999996,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/956911831757226045/956913485172854854/Merlin_robes.jpg",
+  "md5": "7AA12DF0A24F250B73BF55FD716E8EB9",
+  "tags": [
+    "Godrick"
+  ],
+  "small": {
+    "scale": 0.7499999999999998,
+    "offset_x": -110,
+    "offset_y": -19,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -20,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2600000000000002,
+    "offset_x": 0,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

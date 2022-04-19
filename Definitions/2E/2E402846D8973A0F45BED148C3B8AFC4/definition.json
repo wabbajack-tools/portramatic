@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/ml22b04ym7g61.jpg",
+  "md5": "2E402846D8973A0F45BED148C3B8AFC4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.17999999999999935,
+    "offset_x": -123.33333333333282,
+    "offset_y": -19.99999999999997,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.1799999999999994,
+    "offset_x": -49.33333333333337,
+    "offset_y": -25.333333333333314,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.27999999999999936,
+    "offset_x": -6.666666666666288,
+    "offset_y": -16.000000000000227,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

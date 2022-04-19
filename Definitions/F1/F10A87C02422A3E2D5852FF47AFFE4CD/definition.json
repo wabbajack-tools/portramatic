@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/dki6420ym3i61.jpg",
+  "md5": "F10A87C02422A3E2D5852FF47AFFE4CD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.11999999999999929,
+    "offset_x": -61.999999999999474,
+    "offset_y": -11.3333333333334,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.11999999999999932,
+    "offset_x": -7.333333333333371,
+    "offset_y": -0.6666666666665719,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.25999999999999934,
+    "offset_x": -5.333333333333485,
+    "offset_y": -1.333333333333428,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

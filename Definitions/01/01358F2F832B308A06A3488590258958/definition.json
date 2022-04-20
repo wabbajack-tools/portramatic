@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/f2/b6/c3/f2b6c3ea101c7d6237ee97e2ed3d9589.jpg",
+  "md5": "01358F2F832B308A06A3488590258958",
+  "tags": [
+    "vampire",
+    "caster",
+    "male"
+  ],
+  "small": {
+    "scale": 1.04,
+    "offset_x": -212,
+    "offset_y": -80,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -14,
+    "offset_y": -65,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.08,
+    "offset_x": -12,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

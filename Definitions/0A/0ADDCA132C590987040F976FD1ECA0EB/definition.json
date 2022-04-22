@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Krul.Tepes.full.1911170.jpg",
+  "md5": "0ADDCA132C590987040F976FD1ECA0EB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -212,
+    "offset_y": -52,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -139,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1600000000000001,
+    "offset_x": -80,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://w.wallhaven.cc/full/1k/wallhaven-1k1mgg.jpg",
+  "md5": "3735C4087AA5E1585EADF7965E125612",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -416,
+    "offset_y": -212,
+    "size": "small",
+    "rotation": 0.03
+  },
+  "medium": {
+    "scale": 0.49999999999999956,
+    "offset_x": -321,
+    "offset_y": -179,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.39999999999999947,
+    "offset_x": -32,
+    "offset_y": -32,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

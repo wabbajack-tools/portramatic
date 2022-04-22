@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/3b/5b/db/3b5bdbc2432eb462e32e765800af099b.png",
+  "md5": "C6E1316083C4FC6951808DC1B40077E6",
+  "tags": [
+    "orc",
+    "half-orc",
+    "fighter",
+    "leather"
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -150,
+    "offset_y": -101,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -91,
+    "offset_y": -105,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8599999999999999,
+    "offset_x": -62,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

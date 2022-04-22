@@ -1,0 +1,26 @@
+{
+  "source": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/03724ec1-6337-4f97-bd45-bf575674c62b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220422T081101Z&X-Amz-Expires=86400&X-Amz-Signature=8ada24ed9870d6c4925ca8f2076e0e3ae83b099d589bb606e1d49c89866792ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject",
+  "md5": "0CAD7A9B6A2E03F601906731AF08A970",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1600000000000001,
+    "offset_x": -812,
+    "offset_y": -313,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1.3800000000000003,
+    "offset_x": -895,
+    "offset_y": -378,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": -414,
+    "offset_y": -130,
+    "size": "full"
+  },
+  "version": 2
+}

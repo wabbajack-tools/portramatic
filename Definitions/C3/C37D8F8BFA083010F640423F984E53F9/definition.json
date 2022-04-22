@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/g485std2b4621.jpg",
+  "md5": "C37D8F8BFA083010F640423F984E53F9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.1799999999999995,
+    "offset_x": -556,
+    "offset_y": -258,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.28,
+    "offset_x": -830,
+    "offset_y": -410,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5299999999999996,
+    "offset_x": -1524,
+    "offset_y": -752,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

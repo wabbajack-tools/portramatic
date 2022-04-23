@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/4f/81/d6/4f81d6e6bb1dc344e60dddbe1cb99a30.jpg",
+  "md5": "BD9BA2E9A7CAD4A11C105D1AB2B3575A",
+  "tags": [
+    "blonde",
+    "female",
+    "knight"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -199,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -123,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -32,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

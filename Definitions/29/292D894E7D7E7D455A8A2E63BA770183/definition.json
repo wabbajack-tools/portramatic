@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/fyz058pdsxj71.jpg",
+  "md5": "292D894E7D7E7D455A8A2E63BA770183",
+  "tags": [
+    "Soldier",
+    "Light Armor",
+    "Male",
+    "Human",
+    "Sword"
+  ],
+  "small": {
+    "scale": 0.4299999999999995,
+    "offset_x": -427.99999999999557,
+    "offset_y": -98.00000000000023,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.36999999999999944,
+    "offset_x": -275.33333333333314,
+    "offset_y": -44.66666666666649,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.2999999999999994,
+    "offset_x": -4,
+    "offset_y": -29.333333333333144,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

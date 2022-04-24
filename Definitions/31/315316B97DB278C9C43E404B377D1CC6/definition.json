@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/52/54/3d/52543dffb37ff6238f6de69a2d31e82a.jpg",
+  "md5": "315316B97DB278C9C43E404B377D1CC6",
+  "tags": [
+    "female",
+    "warrior",
+    "armor"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -165.14285714285714,
+    "offset_y": -23.42857142857133,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -61.71428571428561,
+    "offset_y": -17.142857142857224,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -2.2857142857139934,
+    "offset_y": -28.571428571428783,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

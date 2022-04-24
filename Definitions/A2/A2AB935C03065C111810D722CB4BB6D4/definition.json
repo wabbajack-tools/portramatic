@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/originals/ac/22/33/ac22331ff64a28d9aadefb0c579c1190.jpg",
+  "md5": "A2AB935C03065C111810D722CB4BB6D4",
+  "tags": [
+    "Soldier",
+    "Light Armor",
+    "Male",
+    "Human",
+    "Sword"
+  ],
+  "small": {
+    "scale": 1.5600000000000005,
+    "offset_x": -411.99999999999534,
+    "offset_y": -236.6666666666668,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2900000000000003,
+    "offset_x": -253.33333333333314,
+    "offset_y": -155.33333333333303,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8699999999999999,
+    "offset_x": 54.66666666666674,
+    "offset_y": -1.3333333333332007,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

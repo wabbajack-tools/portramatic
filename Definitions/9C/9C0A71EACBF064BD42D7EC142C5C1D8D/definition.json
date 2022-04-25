@@ -1,0 +1,37 @@
+{
+  "source": "https://i.redd.it/gj0lb9fz8ke41.jpg",
+  "md5": "9C0A71EACBF064BD42D7EC142C5C1D8D",
+  "tags": [
+    "Knight",
+    "fat",
+    "chubby",
+    "armor",
+    "helmet",
+    "heavy armor",
+    "axe"
+  ],
+  "small": {
+    "scale": 0.9199999999999999,
+    "offset_x": -405,
+    "offset_y": -224,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -222,
+    "offset_y": -138,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8999999999999999,
+    "offset_x": -140,
+    "offset_y": -120,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

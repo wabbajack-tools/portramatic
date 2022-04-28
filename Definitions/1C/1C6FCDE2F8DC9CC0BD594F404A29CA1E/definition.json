@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/gqkc15l7gt241.jpg",
+  "md5": "1C6FCDE2F8DC9CC0BD594F404A29CA1E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3399999999999994,
+    "offset_x": -204.0000000000002,
+    "offset_y": -148.60000000000002,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.36999999999999944,
+    "offset_x": -150.40000000000003,
+    "offset_y": -91.60000000000008,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.48999999999999955,
+    "offset_x": -16.731481481481296,
+    "offset_y": -18.814814814814895,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

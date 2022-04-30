@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/00/40/94/004094a0e404c02086b9182164bc10ef.jpg",
+  "md5": "8DAE78BC6078EDB2AD0160B52908FFEE",
+  "tags": [
+    "Wolf",
+    "Pet",
+    "Summon"
+  ],
+  "small": {
+    "scale": 0.4299999999999995,
+    "offset_x": -70,
+    "offset_y": -30,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -138,
+    "offset_y": -78,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -34,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,28 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2021/06/14/02/01/woman-6334785_960_720.jpg",
+  "md5": "88F8225043F8073E9A12633D24FA29FB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -152.00000000000057,
+    "offset_y": -135.80000000000018,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.4299999999999995,
+    "offset_x": 65.00000000000006,
+    "offset_y": 56.200000000000216,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": 155.18518518518545,
+    "offset_y": 178.79629629629653,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

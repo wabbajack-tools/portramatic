@@ -1,0 +1,32 @@
+{
+  "source": "https://pbs.twimg.com/media/DAcnm3-XkAAh4aq.jpg",
+  "md5": "1547DA83DE5F39D4D236C997AB5FC78C",
+  "tags": [
+    "tiefling",
+    "female"
+  ],
+  "small": {
+    "scale": 0.24999999999999933,
+    "offset_x": -8,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.39999999999999947,
+    "offset_x": -1,
+    "offset_y": -30,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8999999999999999,
+    "offset_x": -23,
+    "offset_y": -55,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

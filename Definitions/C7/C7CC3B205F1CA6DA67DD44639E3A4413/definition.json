@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/EZxfuQIWkAI6bY9?format=jpg&name=large",
+  "md5": "C7CC3B205F1CA6DA67DD44639E3A4413",
+  "tags": [
+    "female",
+    "paladin",
+    "knight"
+  ],
+  "small": {
+    "scale": 0.14999999999999925,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.25999999999999934,
+    "offset_x": 0,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5499999999999996,
+    "offset_x": -2,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

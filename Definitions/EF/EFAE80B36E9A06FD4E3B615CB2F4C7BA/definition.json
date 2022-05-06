@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/persephone_oblivion-ruler.jpg",
+  "md5": "EFAE80B36E9A06FD4E3B615CB2F4C7BA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -340,
+    "offset_y": -81,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -198,
+    "offset_y": -60,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.06,
+    "offset_x": -44,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

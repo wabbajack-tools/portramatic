@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/eset_scarlet-coven.jpg",
+  "md5": "ABD1F14916C55253E9A5154ADDA0B2A0",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -240,
+    "offset_y": -120,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -163,
+    "offset_y": -74,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": -64,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://static.wikia.nocookie.net/witcher/images/4/45/Gwent_cardart_skellige_arnaghad.png/revision/latest?cb=20201210103344",
+  "md5": "9AAAA57FC79F35C4E4C7BB33698C2D92",
+  "tags": [
+    "male",
+    "fighter",
+    "warrior",
+    "witcher",
+    "mutation_warrior"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -536,
+    "offset_y": -219,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5699999999999996,
+    "offset_x": -125,
+    "offset_y": -78,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8299999999999998,
+    "offset_x": -52,
+    "offset_y": -96,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

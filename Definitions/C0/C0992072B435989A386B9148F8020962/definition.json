@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/sol_polaris.jpg",
+  "md5": "C0992072B435989A386B9148F8020962",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.97,
+    "offset_x": -185,
+    "offset_y": -110,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -98,
+    "offset_y": -97,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -66,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

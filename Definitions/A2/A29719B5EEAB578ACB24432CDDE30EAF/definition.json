@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/nox_depths-of-atlantis.jpg",
+  "md5": "A29719B5EEAB578ACB24432CDDE30EAF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -445,
+    "offset_y": -116,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.97,
+    "offset_x": -267,
+    "offset_y": -85,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -38,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

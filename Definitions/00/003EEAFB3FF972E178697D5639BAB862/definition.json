@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/nu_wa_playful-bunny.jpg",
+  "md5": "003EEAFB3FF972E178697D5639BAB862",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -291,
+    "offset_y": -62,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -221,
+    "offset_y": -53,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -10,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

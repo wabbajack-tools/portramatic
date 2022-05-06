@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/awilix_blood-moon.jpg",
+  "md5": "C842DBB6DC034CBC0EA6547878349FFA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -311,
+    "offset_y": -56,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1400000000000001,
+    "offset_x": -278,
+    "offset_y": -61,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1300000000000001,
+    "offset_x": -74,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

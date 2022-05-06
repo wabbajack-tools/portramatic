@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/nemesis_standard-nemesis.jpg",
+  "md5": "D0F78FE6AB1B72A7E36D163322B6C3DD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.9199999999999999,
+    "offset_x": -274,
+    "offset_y": -130,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7799999999999998,
+    "offset_x": -139,
+    "offset_y": -79,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -68,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://static.wikia.nocookie.net/witcher/images/3/3a/Gwent_cardart_skellige_bear_witcher_mentor.png/revision/latest?cb=20201210182708",
+  "md5": "E083526B0E6B2F2A48EAD4CFBF7C4EBD",
+  "tags": [
+    "male",
+    "fighter",
+    "warrior",
+    "witcher",
+    "mutation_warrior"
+  ],
+  "small": {
+    "scale": 1.3300000000000003,
+    "offset_x": -666,
+    "offset_y": -229,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -304,
+    "offset_y": -137,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -384,
+    "offset_y": -198,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

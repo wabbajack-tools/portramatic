@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/athena_red-star.jpg",
+  "md5": "7431B514EA3F460949767077ED26B5B3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -311,
+    "offset_y": -95,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7899999999999998,
+    "offset_x": -129,
+    "offset_y": -49,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -74,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

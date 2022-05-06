@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/medusa_brood-mother.jpg",
+  "md5": "6FE016FA769BB6EB311A16FD3C59EB5C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -368,
+    "offset_y": -38,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -272,
+    "offset_y": -38,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": -64,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

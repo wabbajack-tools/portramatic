@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/nox_bunbun.jpg",
+  "md5": "20A333B5AE6CC870C4B8ED16A875F8EF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -478,
+    "offset_y": -230,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.97,
+    "offset_x": -309,
+    "offset_y": -113,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -38,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2018/03/28/05/53/girl-3268337_960_720.jpg",
+  "md5": "CE402B53039B462A4972C3054A9035EE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -127,
+    "offset_y": -73,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -62,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 88,
+    "offset_y": 128,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

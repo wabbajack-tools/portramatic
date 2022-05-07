@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2016/12/04/02/01/celtic-woman-1880944_960_720.jpg",
+  "md5": "70B75911407EBF1300F9C4FC7F69A41E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -355,
+    "offset_y": -28,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -280,
+    "offset_y": -27,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -104,
+    "offset_y": 174,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

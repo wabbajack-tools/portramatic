@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2018/09/12/21/10/gothic-3673246_960_720.jpg",
+  "md5": "A0E3DE1CB57AD2B40DC2BEBACA1F236E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -390,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -312,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -140,
+    "offset_y": 144,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

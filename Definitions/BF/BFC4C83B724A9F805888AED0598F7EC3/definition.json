@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2015/05/02/08/02/angel-749625_960_720.jpg",
+  "md5": "BFC4C83B724A9F805888AED0598F7EC3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -400,
+    "offset_y": -80,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -330,
+    "offset_y": -83,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -152,
+    "offset_y": 140,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

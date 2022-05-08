@@ -1,0 +1,32 @@
+{
+  "source": "https://pbs.twimg.com/media/FDddZYgXoAAlzXg.jpg:large",
+  "md5": "E8FF256B00DC2CC48CF8E975056A0FC9",
+  "tags": [
+    "Knight",
+    "MTG"
+  ],
+  "small": {
+    "scale": 0.2199999999999993,
+    "offset_x": -53.33333333333336,
+    "offset_y": -2.000000000000057,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -148.66666666666708,
+    "offset_y": -8.666666666666572,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9299999999999999,
+    "offset_x": -333.33333333333326,
+    "offset_y": -3.999999999999261,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

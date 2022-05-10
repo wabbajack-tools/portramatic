@@ -1,0 +1,31 @@
+{
+  "source": "http://lol-stats.net/uploads/S6I6TXmZ4ziaatHPDaLyDzhGj5ldAjoKT6xfFbMP.jpeg",
+  "md5": "798D28820A8B54E2487A1FDC1289F0EF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -362,
+    "offset_y": -90,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7599999999999998,
+    "offset_x": -169,
+    "offset_y": -66,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -88,
+    "offset_y": -96,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

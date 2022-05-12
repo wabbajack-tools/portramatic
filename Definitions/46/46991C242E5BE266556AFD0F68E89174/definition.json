@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/f6/dc/12/f6dc1218c703e3212e423f792e278e41.jpg",
+  "md5": "46991C242E5BE266556AFD0F68E89174",
+  "tags": [
+    "knight",
+    "male",
+    "sword",
+    "silver",
+    "iron",
+    "armor"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -189,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -50,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -6,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

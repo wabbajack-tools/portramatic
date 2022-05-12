@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/bastet_crimson-ops.jpg",
+  "md5": "0F488B6102B09D801B6BCCF4EE41788E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -255,
+    "offset_y": -74,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9199999999999999,
+    "offset_x": -149,
+    "offset_y": -60,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -66,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

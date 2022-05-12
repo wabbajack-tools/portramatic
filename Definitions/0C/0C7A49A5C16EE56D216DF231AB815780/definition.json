@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/awilix_midnight-dove.jpg",
+  "md5": "0C7A49A5C16EE56D216DF231AB815780",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -355,
+    "offset_y": -191,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -223,
+    "offset_y": -139,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -32,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

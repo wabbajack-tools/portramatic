@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/amaterasu_vampiress.jpg",
+  "md5": "15263A38F32B5F7BB25518BC9CFC5976",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7199999999999998,
+    "offset_x": -57,
+    "offset_y": -14,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -6,
+    "offset_y": -16,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -40,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

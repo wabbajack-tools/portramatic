@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/bastet_shadow-prowler.jpg",
+  "md5": "9C0C82ACD7A804E797B03835D188C5C6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -416,
+    "offset_y": -118,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -305,
+    "offset_y": -120,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -24,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

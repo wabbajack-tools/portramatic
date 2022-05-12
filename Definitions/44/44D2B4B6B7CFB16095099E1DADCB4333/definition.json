@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/arachne_black-widow.jpg",
+  "md5": "44D2B4B6B7CFB16095099E1DADCB4333",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -56,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -58,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

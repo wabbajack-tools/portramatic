@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/nemesis_elegant.jpg",
+  "md5": "C1A26B55A6DE63AC20430575FB326267",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.07,
+    "offset_x": -437,
+    "offset_y": -151,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -215,
+    "offset_y": -121,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9199999999999999,
+    "offset_x": -98,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

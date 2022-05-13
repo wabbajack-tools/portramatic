@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/sol_cherrybomb.jpg",
+  "md5": "1AC72167D48CB1E0FED51BDF82F56E80",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -21,
+    "offset_y": -162,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8699999999999999,
+    "offset_x": -14,
+    "offset_y": -78,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -32,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

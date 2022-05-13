@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/2f/aa/4e/2faa4e52e23543352a6d2a0ed5fca1f6.jpg",
+  "md5": "7FB4C723B4F9BD999D444E622716CAA9",
+  "tags": [
+    "noble",
+    "blond",
+    "pale",
+    "belt",
+    "male"
+  ],
+  "small": {
+    "scale": 1.11,
+    "offset_x": -224.8000000000001,
+    "offset_y": -61.599999999999966,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -121.60000000000002,
+    "offset_y": -48.799999999999955,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3600000000000003,
+    "offset_x": -38.44444444444434,
+    "offset_y": -54.46296296296305,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/pele_golden.jpg",
+  "md5": "171791C90E376C86524CB6B457C17105",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -235,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -117,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -30,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

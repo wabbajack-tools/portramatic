@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/hera_ragnarok.jpg",
+  "md5": "71B8094F52DFA3E98ED5691FF6BAC1F9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1800000000000002,
+    "offset_x": -373,
+    "offset_y": -336,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -212,
+    "offset_y": -200,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1800000000000002,
+    "offset_x": -158,
+    "offset_y": -118,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

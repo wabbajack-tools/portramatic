@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/pele_darkblade.jpg",
+  "md5": "E183922725DAD2FEF609F394E725379E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -260,
+    "offset_y": -51,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -118,
+    "offset_y": -9,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -30,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

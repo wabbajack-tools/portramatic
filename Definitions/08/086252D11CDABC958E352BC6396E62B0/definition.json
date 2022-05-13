@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/terra_spriggan.jpg",
+  "md5": "086252D11CDABC958E352BC6396E62B0",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -270,
+    "offset_y": -88,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8699999999999999,
+    "offset_x": -138,
+    "offset_y": -40,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -36,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

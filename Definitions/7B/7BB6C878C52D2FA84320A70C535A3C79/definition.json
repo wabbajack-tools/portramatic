@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/neith_harajuku.jpg",
+  "md5": "7BB6C878C52D2FA84320A70C535A3C79",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -305,
+    "offset_y": -73,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -187,
+    "offset_y": -57,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

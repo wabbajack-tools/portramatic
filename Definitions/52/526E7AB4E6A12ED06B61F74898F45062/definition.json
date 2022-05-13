@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/freya_valkyrie.jpg",
+  "md5": "526E7AB4E6A12ED06B61F74898F45062",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8999999999999999,
+    "offset_x": -238,
+    "offset_y": -35,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -113,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -12,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

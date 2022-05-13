@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/bellona_rock-a-bellona.jpg",
+  "md5": "F38A2C252C8571E8446CD4667D9F9760",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.9199999999999999,
+    "offset_x": -212,
+    "offset_y": -8,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -203,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -24,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

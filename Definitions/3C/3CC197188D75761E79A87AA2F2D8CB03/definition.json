@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/ac/63/f7/ac63f78d6a62aeaa352f7f0e0b5a25f3.jpg",
+  "md5": "3CC197188D75761E79A87AA2F2D8CB03",
+  "tags": [
+    "knight",
+    "male",
+    "dark"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -161,
+    "offset_y": -55,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -82,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -4,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

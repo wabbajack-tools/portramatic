@@ -1,0 +1,31 @@
+{
+  "source": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/wolf-man-hannes-sefyrin.jpg",
+  "md5": "604E56F745F12C3A0B6C33B8006FD71C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.2999999999999994,
+    "offset_x": -5,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1500000000000001,
+    "offset_x": -86,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

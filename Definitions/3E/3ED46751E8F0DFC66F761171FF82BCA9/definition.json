@@ -1,0 +1,31 @@
+{
+  "source": "https://static01.nyt.com/images/2022/02/14/arts/14INVENTING-ANNA1-sub/14INVENTING-ANNA1-sub-mediumSquareAt3X.jpg",
+  "md5": "3ED46751E8F0DFC66F761171FF82BCA9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -205,
+    "offset_y": -60,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3199999999999994,
+    "offset_x": -40,
+    "offset_y": -66,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5799999999999996,
+    "offset_x": -150,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/ib5VD3a.jpeg",
+  "md5": "7896F6A4EB69F52EFCFDA28F32CA4D3D",
+  "tags": [
+    "orc",
+    "samurai",
+    "fighter"
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -196,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -106,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -16,
+    "offset_y": -62,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

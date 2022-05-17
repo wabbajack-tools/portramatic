@@ -1,0 +1,35 @@
+{
+  "source": "https://pbs.twimg.com/media/EJY3_XzXkAEWmsJ.jpg",
+  "md5": "A3C5E65FB0E19DC44A5792FF073DD6CC",
+  "tags": [
+    "lich",
+    "tiefling",
+    "magic",
+    "purple",
+    "undead"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -202,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7499999999999998,
+    "offset_x": -72,
+    "offset_y": -30,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.06,
+    "offset_x": -17,
+    "offset_y": -23,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

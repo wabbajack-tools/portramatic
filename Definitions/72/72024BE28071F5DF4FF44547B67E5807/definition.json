@@ -1,0 +1,31 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg",
+  "md5": "72024BE28071F5DF4FF44547B67E5807",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -918,
+    "offset_y": 313,
+    "size": "small",
+    "rotation": -0.3200000000000001
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -620,
+    "offset_y": 316,
+    "size": "medium",
+    "rotation": -0.4000000000000002
+  },
+  "full": {
+    "scale": 1.4399999999999988,
+    "offset_x": -868,
+    "offset_y": 616,
+    "size": "full",
+    "rotation": -0.5100000000000002
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/a0/aa/18/a0aa18fd9dfd3535cf702c0cadb6886b.jpg",
+  "md5": "D50E2134B028A7D175F0CC5EA299D264",
+  "tags": [
+    "elf",
+    "ranger",
+    "hunter",
+    "archer"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -319,
+    "offset_y": -45,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -227,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.08,
+    "offset_x": 2,
+    "offset_y": -22,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

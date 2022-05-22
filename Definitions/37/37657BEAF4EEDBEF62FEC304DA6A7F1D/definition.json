@@ -1,0 +1,35 @@
+{
+  "source": "https://www.candb.com/site/candb/images/artwork/Aloy-Horizon-Zero-Dawn_Guerrilla.jpg",
+  "md5": "37657BEAF4EEDBEF62FEC304DA6A7F1D",
+  "tags": [
+    "human",
+    "female",
+    "warrior",
+    "archer",
+    "aloy"
+  ],
+  "small": {
+    "scale": 0.8999999999999999,
+    "offset_x": -376,
+    "offset_y": -287,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6399999999999997,
+    "offset_x": -184,
+    "offset_y": -206,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -158,
+    "offset_y": -268,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/1qt7spiwasa41.jpg",
+  "md5": "12884DC03EB722DC0D99006BC592D6DA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -173,
+    "offset_y": -81,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -210,
+    "offset_y": -128,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9199999999999999,
+    "offset_x": -38,
+    "offset_y": -122,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/0f/2a/ed/0f2aed71e88a661dc02f7a034c592d85.jpg",
+  "md5": "352EC97FAADE667A17ADB894983537C0",
+  "tags": [
+    "man",
+    "male",
+    "knight",
+    "fighter",
+    "armor"
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -137.66666666666606,
+    "offset_y": -114,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -75.66666666666657,
+    "offset_y": -103.00000000000011,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7700000000000007,
+    "offset_x": -57.333333333333485,
+    "offset_y": -139.33333333333303,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

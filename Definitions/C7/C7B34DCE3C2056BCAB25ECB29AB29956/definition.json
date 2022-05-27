@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/1/18/MER-art-Wood_Elf.webp",
+  "md5": "C7B34DCE3C2056BCAB25ECB29AB29956",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -409,
+    "offset_y": -164,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -188,
+    "offset_y": -117,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9299999999999999,
+    "offset_x": -70,
+    "offset_y": -36,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

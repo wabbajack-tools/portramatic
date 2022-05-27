@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/35/cd/e5/35cde5850cd2fe2f8790beb37a107bd8.jpg",
+  "md5": "663700964C74593F8F75FBD3F5576C39",
+  "tags": [
+    "dhampir",
+    "warrior",
+    "male"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -113.99999999999991,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": -0.01
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -53.333333333333314,
+    "offset_y": -21.999999999999943,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -21.333333333333258,
+    "offset_y": -1.3333333333335418,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

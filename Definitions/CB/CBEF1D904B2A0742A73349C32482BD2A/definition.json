@@ -1,0 +1,31 @@
+{
+  "source": "https://cmon-files.s3.amazonaws.com/images/product/avatar/302/Baratheon-Heroes-I_Avatar.jpg",
+  "md5": "CBEF1D904B2A0742A73349C32482BD2A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -40,
+    "offset_y": -55,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -4,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -6,
+    "offset_y": 62,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

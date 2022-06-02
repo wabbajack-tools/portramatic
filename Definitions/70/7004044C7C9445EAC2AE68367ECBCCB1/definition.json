@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/fb/cb/97/fbcb97f3896acb260e2ad48249ef2f18.jpg",
+  "md5": "7004044C7C9445EAC2AE68367ECBCCB1",
+  "tags": [
+    "Tiefling",
+    "sorcerer",
+    "warlock"
+  ],
+  "small": {
+    "scale": 0.7899999999999998,
+    "offset_x": -118.40000000000006,
+    "offset_y": -2.3999999999999773,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -114.39999999999998,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": -0.010000000000000004
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -4.805555555555202,
+    "offset_y": -11.212962962962706,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

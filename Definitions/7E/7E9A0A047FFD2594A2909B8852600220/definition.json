@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/a5/e8/fb/a5e8fb23fd6d33de2933b3df16fbdf1e.jpg",
+  "md5": "7E9A0A047FFD2594A2909B8852600220",
+  "tags": [
+    "Tiefling",
+    "Rogue",
+    "Hunter"
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -132.80000000000007,
+    "offset_y": -10.399999999999977,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -100,
+    "offset_y": -15.199999999999989,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -20.82407407407368,
+    "offset_y": -16.018518518518363,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

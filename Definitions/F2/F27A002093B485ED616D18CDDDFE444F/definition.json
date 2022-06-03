@@ -1,0 +1,37 @@
+{
+  "source": "https://www.elwiki.net/wiki/images/2/2f/Portrait_-_Twilight.png",
+  "md5": "F27A002093B485ED616D18CDDDFE444F",
+  "tags": [
+    "elf",
+    "elsword",
+    "halfelf",
+    "half-elf",
+    "female",
+    "assassin",
+    "archer"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -1252.399999999999,
+    "offset_y": -77.39999999999998,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -1165.999999999998,
+    "offset_y": -78.99999999999989,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -1519.1851851851848,
+    "offset_y": -108.87037037037021,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/fe/53/fc/fe53fc1d22e359947336f121bfa0763f.jpg",
+  "md5": "FE176DB7E44AA5638B06501359C46811",
+  "tags": [
+    "elf",
+    "half",
+    "female"
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -121,
+    "offset_y": -131,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.47999999999999954,
+    "offset_x": -21,
+    "offset_y": -48,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -64,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

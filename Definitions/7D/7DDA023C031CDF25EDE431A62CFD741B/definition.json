@@ -1,0 +1,31 @@
+{
+  "source": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+  "md5": "7DDA023C031CDF25EDE431A62CFD741B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -442,
+    "offset_y": -54,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -438,
+    "offset_y": -34,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -536,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

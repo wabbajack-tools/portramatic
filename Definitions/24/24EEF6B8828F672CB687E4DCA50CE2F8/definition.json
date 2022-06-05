@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/osetlh9tud081.jpg",
+  "md5": "24EEF6B8828F672CB687E4DCA50CE2F8",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -535,
+    "offset_y": -80,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2499999999999994,
+    "offset_x": -330,
+    "offset_y": -43,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.25999999999999934,
+    "offset_x": -188,
+    "offset_y": -48,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

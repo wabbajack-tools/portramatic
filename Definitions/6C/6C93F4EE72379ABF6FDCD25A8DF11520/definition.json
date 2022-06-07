@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/3d/0c/b8/3d0cb80645a3645e2def118aa3aa5818.jpg",
+  "md5": "6C93F4EE72379ABF6FDCD25A8DF11520",
+  "tags": [
+    "facemag"
+  ],
+  "small": {
+    "scale": 0.35999999999999943,
+    "offset_x": -4,
+    "offset_y": -7,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -9,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2800000000000002,
+    "offset_x": -24,
+    "offset_y": -46,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

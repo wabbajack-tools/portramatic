@@ -1,0 +1,31 @@
+{
+  "source": "https://www.hgunified.com/wp-content/uploads/2020/11/King-Arthur.jpg",
+  "md5": "3CC024355AD353CC2DF317F9B5701136",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -278,
+    "offset_y": -57,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -99,
+    "offset_y": -14,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5200000000000005,
+    "offset_x": -110,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

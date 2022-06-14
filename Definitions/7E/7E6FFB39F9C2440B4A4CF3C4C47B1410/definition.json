@@ -1,0 +1,33 @@
+{
+  "source": "https://static.wikia.nocookie.net/pacg/images/8/83/Wizard_-_Melindra.png/revision/latest?cb=20180521084105",
+  "md5": "7E6FFB39F9C2440B4A4CF3C4C47B1410",
+  "tags": [
+    "pathfinder",
+    "gnome",
+    "druid"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -181.6000000000001,
+    "offset_y": -13.600000000000023,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -133.60000000000008,
+    "offset_y": -3.999999999999943,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 30.43518518518499,
+    "offset_y": 19.222222222222285,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

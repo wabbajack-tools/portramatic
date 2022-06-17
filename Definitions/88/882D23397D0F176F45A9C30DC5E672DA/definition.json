@@ -1,0 +1,38 @@
+{
+  "source": "https://i.pinimg.com/564x/ff/7f/6b/ff7f6b8c486b373f91fe922b01995ccf.jpg",
+  "md5": "882D23397D0F176F45A9C30DC5E672DA",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "plate",
+    "shield",
+    "paladin",
+    "fur",
+    "cold"
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -150,
+    "offset_y": -152,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -51,
+    "offset_y": -128,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -2,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/ea/f7/e7/eaf7e75f30b638fa8f87d1352ae599ee.jpg",
+  "md5": "9BF9484496B84BD35450565E449A0B23",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "pathfinder",
+    "staff",
+    "caster"
+  ],
+  "small": {
+    "scale": 1.1800000000000002,
+    "offset_x": -248,
+    "offset_y": -81,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -141,
+    "offset_y": -75,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5400000000000005,
+    "offset_x": -106,
+    "offset_y": -76,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

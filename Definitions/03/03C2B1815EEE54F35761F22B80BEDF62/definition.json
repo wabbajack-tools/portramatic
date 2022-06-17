@@ -1,0 +1,37 @@
+{
+  "source": "https://i.pinimg.com/564x/1f/ce/9c/1fce9cf567130b9fd93c008592c83856.jpg",
+  "md5": "03C2B1815EEE54F35761F22B80BEDF62",
+  "tags": [
+    "human",
+    "male",
+    "facial hair",
+    "wild",
+    "druid",
+    "hunter",
+    "wolf"
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -133,
+    "offset_y": -7,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2200000000000002,
+    "offset_x": -106,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8000000000000007,
+    "offset_x": -22,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

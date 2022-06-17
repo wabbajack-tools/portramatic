@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/e1/f3/97/e1f397ef7b56f60c2a772efd6c8b69a7.jpg",
+  "md5": "50F143ED7B9E618B729CC54C99A6A7A0",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "druid",
+    "brawler",
+    "shirtless"
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -261,
+    "offset_y": -68,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2200000000000002,
+    "offset_x": -182,
+    "offset_y": -71,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.45,
+    "offset_x": -62,
+    "offset_y": -82,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

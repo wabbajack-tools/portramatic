@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/1d/12/5a/1d125aaadc6425cd21234e431163c7d0.jpg",
+  "md5": "ADEF02C5B019640560E9605F3286398C",
+  "tags": [
+    "Human",
+    "Male",
+    "sword",
+    "scalemail",
+    "bearded"
+  ],
+  "small": {
+    "scale": 1.1800000000000002,
+    "offset_x": -244,
+    "offset_y": -40,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -188,
+    "offset_y": -57,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -54,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

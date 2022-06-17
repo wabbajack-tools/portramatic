@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/ee/42/d0/ee42d06a0f8628e8c7ea26b52b8efbc0.jpg",
+  "md5": "AC3DEB43CA6A13BE9B2BA4120CD3C84E",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "spellcaster",
+    "arcane",
+    "psychic"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -242,
+    "offset_y": -63,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -132,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5600000000000005,
+    "offset_x": -88,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

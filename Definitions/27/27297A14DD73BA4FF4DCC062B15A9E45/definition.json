@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/ae/db/75/aedb754044b45c2ab6224e2e9967d874.jpg",
+  "md5": "27297A14DD73BA4FF4DCC062B15A9E45",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "druid",
+    "fur",
+    "nature"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -214,
+    "offset_y": -80,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2200000000000002,
+    "offset_x": -167,
+    "offset_y": -69,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.45,
+    "offset_x": -62,
+    "offset_y": -82,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/7e/79/2a/7e792a039a8d036f3c1ea74d0a532e37.jpg",
+  "md5": "3F879FFE5FEAF37221C2F002FEC57600",
+  "tags": [
+    "Human",
+    "male",
+    "bearded",
+    "green",
+    "adventurer",
+    "grey-haired"
+  ],
+  "small": {
+    "scale": 1.3500000000000003,
+    "offset_x": -252,
+    "offset_y": -83,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2300000000000002,
+    "offset_x": -151,
+    "offset_y": -56,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2700000000000002,
+    "offset_x": -4,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

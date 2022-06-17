@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/68/96/4b/68964baa0d2caabd8f030f347e596ba4.jpg",
+  "md5": "DAAFD92E3B265CB185E005507EF3D4A1",
+  "tags": [
+    "Human",
+    "Male",
+    "mage",
+    "tunic",
+    "handsome"
+  ],
+  "small": {
+    "scale": 1.04,
+    "offset_x": -203,
+    "offset_y": -6,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -141,
+    "offset_y": -19,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3600000000000003,
+    "offset_x": -52,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

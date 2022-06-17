@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/94/06/d0/9406d0fa571ddd7be59d2824ace474e7.jpg",
+  "md5": "BE8BEE41E789A58C2C81F53324C858CB",
+  "tags": [
+    "Traditional monk",
+    "bearded",
+    "jungle"
+  ],
+  "small": {
+    "scale": 1.2700000000000002,
+    "offset_x": -224,
+    "offset_y": -229,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -129,
+    "offset_y": -151,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2800000000000002,
+    "offset_x": -6,
+    "offset_y": -30,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

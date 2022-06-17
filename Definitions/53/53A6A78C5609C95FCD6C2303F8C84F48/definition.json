@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/e4/ec/04/e4ec041150ae7928a2128b6d62cde229.jpg",
+  "md5": "53A6A78C5609C95FCD6C2303F8C84F48",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "fighter",
+    "ranger. hunter"
+  ],
+  "small": {
+    "scale": 1.3200000000000003,
+    "offset_x": -273,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1300000000000001,
+    "offset_x": -145,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -24,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

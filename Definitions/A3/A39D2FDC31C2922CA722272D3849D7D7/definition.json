@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/ef/64/86/ef6486a59d9722aea5c4047908241cc5.jpg",
+  "md5": "A39D2FDC31C2922CA722272D3849D7D7",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "rogue",
+    "magus",
+    "archer"
+  ],
+  "small": {
+    "scale": 1.04,
+    "offset_x": -208,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -137,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2899999999999998,
+    "offset_x": -32,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

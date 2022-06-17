@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/f5/42/23/f54223c92ffe1c3a53d0d9a14ef8443c.jpg",
+  "md5": "50AE7F7C56A9638F751D1235DD69F222",
+  "tags": [
+    "Human",
+    "Male",
+    "bearded",
+    "older",
+    "paladin"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -236,
+    "offset_y": -26,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.12,
+    "offset_x": -131,
+    "offset_y": -26,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3300000000000003,
+    "offset_x": -22,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

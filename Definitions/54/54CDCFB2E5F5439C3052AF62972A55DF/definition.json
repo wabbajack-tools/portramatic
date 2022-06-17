@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/ba/36/8b/ba368b69f35fa24e6d6f192488ccaff9.jpg",
+  "md5": "54CDCFB2E5F5439C3052AF62972A55DF",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "druid tank",
+    "nature"
+  ],
+  "small": {
+    "scale": 1.3800000000000003,
+    "offset_x": -302,
+    "offset_y": -52,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08,
+    "offset_x": -150,
+    "offset_y": -33,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.42,
+    "offset_x": -34,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

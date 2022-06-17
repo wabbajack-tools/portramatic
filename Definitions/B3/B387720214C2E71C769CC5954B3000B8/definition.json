@@ -1,0 +1,37 @@
+{
+  "source": "https://i.pinimg.com/564x/ba/8b/ed/ba8bedbb74368021206bf9d5229e645e.jpg",
+  "md5": "B387720214C2E71C769CC5954B3000B8",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "mage",
+    "arcanist",
+    "robed",
+    "wizard"
+  ],
+  "small": {
+    "scale": 1.3300000000000003,
+    "offset_x": -281,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2600000000000002,
+    "offset_x": -185,
+    "offset_y": -95,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5900000000000005,
+    "offset_x": -158,
+    "offset_y": -84,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

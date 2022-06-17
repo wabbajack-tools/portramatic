@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/1f/a5/11/1fa5111bb97432c38a9979f3056cbbb8.jpg",
+  "md5": "B62BD92549EACFD2A4C0CA0847BA1067",
+  "tags": [
+    "human",
+    "male",
+    "facial hair",
+    "warrior",
+    "medium armor",
+    "sword"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -155,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -70,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3400000000000003,
+    "offset_x": -6,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

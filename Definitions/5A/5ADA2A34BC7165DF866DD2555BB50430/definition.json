@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/b8/b6/e7/b8b6e747f98d20e1fdff54a9b3b0a4ec.jpg",
+  "md5": "5ADA2A34BC7165DF866DD2555BB50430",
+  "tags": [
+    "Human",
+    "male",
+    "bearded",
+    "plate armor",
+    "gloves",
+    "paladin"
+  ],
+  "small": {
+    "scale": 1.3700000000000003,
+    "offset_x": -329,
+    "offset_y": -74,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1900000000000002,
+    "offset_x": -233,
+    "offset_y": -60,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4000000000000004,
+    "offset_x": -8,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

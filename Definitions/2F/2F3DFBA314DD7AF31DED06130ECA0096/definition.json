@@ -1,0 +1,39 @@
+{
+  "source": "https://i.pinimg.com/564x/15/07/96/150796b322d6e66ea4ae080728b22c7e.jpg",
+  "md5": "2F3DFBA314DD7AF31DED06130ECA0096",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "plate",
+    "shield",
+    "paladin",
+    "fur",
+    "grey",
+    "older"
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -120,
+    "offset_y": -17,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1500000000000001,
+    "offset_x": -67,
+    "offset_y": -14,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8600000000000008,
+    "offset_x": -12,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

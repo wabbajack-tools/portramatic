@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/22/dc/4a/22dc4a1cffc01ff8ea11ba259632c652.jpg",
+  "md5": "ED0E9B3F06830A6AD365ACAA0686350E",
+  "tags": [
+    "Human",
+    "male",
+    "bearded",
+    "armoured",
+    "handsome",
+    "sword"
+  ],
+  "small": {
+    "scale": 1.1900000000000002,
+    "offset_x": -267,
+    "offset_y": -39,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -161,
+    "offset_y": -45,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -30,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

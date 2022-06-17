@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/15/f7/76/15f77647873d01a077fef19229797f44.jpg",
+  "md5": "C1397D530A404D17DEA5DB5327F135E2",
+  "tags": [
+    "human",
+    "warrior",
+    "plate",
+    "bearded"
+  ],
+  "small": {
+    "scale": 0.7899999999999998,
+    "offset_x": -141,
+    "offset_y": -22,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -113,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -36,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

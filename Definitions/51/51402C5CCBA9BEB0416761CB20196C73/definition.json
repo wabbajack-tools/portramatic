@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/4c/8c/47/4c8c478b166b8c3c04e1b0f22a386405.jpg",
+  "md5": "51402C5CCBA9BEB0416761CB20196C73",
+  "tags": [
+    "human",
+    "male",
+    "bearded",
+    "armor",
+    "cavalier",
+    "shielded"
+  ],
+  "small": {
+    "scale": 1.2300000000000002,
+    "offset_x": -275,
+    "offset_y": -92,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2600000000000002,
+    "offset_x": -181,
+    "offset_y": -86,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4400000000000004,
+    "offset_x": -62,
+    "offset_y": -92,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

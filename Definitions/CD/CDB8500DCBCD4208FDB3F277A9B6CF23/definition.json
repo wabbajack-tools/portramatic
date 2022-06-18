@@ -1,0 +1,36 @@
+{
+  "source": "https://64.media.tumblr.com/tumblr_m2v4mdCitS1qdqlkxo1_1280.jpg",
+  "md5": "CDB8500DCBCD4208FDB3F277A9B6CF23",
+  "tags": [
+    "barbarian",
+    "viking",
+    "axe",
+    "red",
+    "horns",
+    "berserker"
+  ],
+  "small": {
+    "scale": 1.07,
+    "offset_x": -230,
+    "offset_y": -61,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -158,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7000000000000006,
+    "offset_x": -182,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

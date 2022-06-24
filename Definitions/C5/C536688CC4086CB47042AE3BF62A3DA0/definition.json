@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/ed/27/c2/ed27c2a1b79449dbd6e438c4ff4303f5.jpg",
+  "md5": "C536688CC4086CB47042AE3BF62A3DA0",
+  "tags": [
+    "Male. beard",
+    "witcher",
+    "leather armor",
+    "sword",
+    "scar"
+  ],
+  "small": {
+    "scale": 1.06,
+    "offset_x": -185,
+    "offset_y": -43,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -71,
+    "offset_y": -30,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2999999999999998,
+    "offset_x": -6,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

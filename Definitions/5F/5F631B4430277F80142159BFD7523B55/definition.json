@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/63/78/f2/6378f2353288c40130cd8b952d890609.jpg",
+  "md5": "5F631B4430277F80142159BFD7523B55",
+  "tags": [
+    "Male. beard",
+    "viking",
+    "knight",
+    "barb",
+    "skald"
+  ],
+  "small": {
+    "scale": 1.4700000000000004,
+    "offset_x": -200,
+    "offset_y": -40,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -45,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.47,
+    "offset_x": -6,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

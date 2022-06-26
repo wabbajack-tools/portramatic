@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/66/76/c4/6676c4d697d6668818b97d0bbeb5b453.jpg",
+  "md5": "1043E9385511F1A7F5CB137887C2F303",
+  "tags": [
+    "paladin",
+    "aasimar"
+  ],
+  "small": {
+    "scale": 1.2300000000000002,
+    "offset_x": -200,
+    "offset_y": -92,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -24,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": -1,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

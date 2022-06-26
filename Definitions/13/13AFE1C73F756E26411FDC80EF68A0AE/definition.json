@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/mdkxdq2ek3x01.jpg",
+  "md5": "13AFE1C73F756E26411FDC80EF68A0AE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2900000000000003,
+    "offset_x": -601,
+    "offset_y": -1305,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2400000000000002,
+    "offset_x": -493,
+    "offset_y": -1247,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8800000000000008,
+    "offset_x": -638,
+    "offset_y": -1812,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

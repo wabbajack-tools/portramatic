@@ -1,0 +1,31 @@
+{
+  "source": "https://cdngarenanow-a.akamaihd.net/webmain/static/pss/lol/items_splash/pantheon_0.jpg",
+  "md5": "4E7BB20C53DF8E6B73DF7371F596B377",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7599999999999998,
+    "offset_x": -383,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -355,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -530,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/originals/22/5c/d5/225cd576e029ba7c349d866f4c2ffa57.jpg",
+  "md5": "5B06A9DBCA1D77C25CC62249AB58B1B5",
+  "tags": [
+    "Tiefling",
+    "Male"
+  ],
+  "small": {
+    "scale": 0.4199999999999995,
+    "offset_x": -95,
+    "offset_y": -45,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4199999999999995,
+    "offset_x": -78,
+    "offset_y": -54,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7199999999999998,
+    "offset_x": -4,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

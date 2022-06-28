@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.amazonaws.com/ganbreederpublic/hires/2b6d5945e36e851e.jpeg",
+  "md5": "B17838419726AD058F840A815503DD2F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.11999999999999923,
+    "offset_x": -29.60000000000005,
+    "offset_y": -2.400000000000034,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.22999999999999932,
+    "offset_x": -88.7999999999999,
+    "offset_y": -36.799999999999955,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.46999999999999953,
+    "offset_x": -142.56481481481455,
+    "offset_y": 16.018518518518476,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

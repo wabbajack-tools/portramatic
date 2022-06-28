@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/4c/05/bc/4c05bc2dae0bd5de2b700a00f7bdcb1e.jpg",
+  "md5": "86C8412E7CF61967795C552D21D4D726",
+  "tags": [
+    "elf",
+    "female",
+    "mage",
+    "witch",
+    "cat"
+  ],
+  "small": {
+    "scale": 1.2000000000000002,
+    "offset_x": -416.00000000000006,
+    "offset_y": -43.99999999999983,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -202.40000000000003,
+    "offset_y": -45.60000000000002,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4300000000000004,
+    "offset_x": -91.30555555555566,
+    "offset_y": -4.805555555555543,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

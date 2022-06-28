@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2019/08/26/07/29/portrait-4430991_960_720.jpg",
+  "md5": "82A9689BE786EB719EBC4E7282ED650D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6899999999999997,
+    "offset_x": -94,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7699999999999998,
+    "offset_x": -26,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4400000000000004,
+    "offset_x": 0,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/5e/fe/1d/5efe1d2e3606ad9134d45f6c652e291d.jpg",
+  "md5": "A85A6EDB1B983F15BFC00751F6BE8FB2",
+  "tags": [
+    "warrior",
+    "magic",
+    "poc",
+    "fighter",
+    "female"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -183.39999999999978,
+    "offset_y": -80.99999999999986,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -27.40000000000009,
+    "offset_y": -38.599999999999966,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5700000000000005,
+    "offset_x": -14.361111111110858,
+    "offset_y": -11.583333333333599,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

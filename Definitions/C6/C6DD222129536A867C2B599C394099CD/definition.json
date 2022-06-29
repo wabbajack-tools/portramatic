@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Rory.Mercury.full.1910015.jpg",
+  "md5": "C6DD222129536A867C2B599C394099CD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -418.0000000000001,
+    "offset_y": -58,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -162.66666666666669,
+    "offset_y": -6.666666666666629,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -17.333333333333258,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/99/a6/d9/99a6d9b773a019421d2944ebbc5f20cf.jpg",
+  "md5": "A519A4BCF88DE67ED09D5AEFE0BB4F9B",
+  "tags": [
+    "woman",
+    "villager",
+    "farmer"
+  ],
+  "small": {
+    "scale": 1.3000000000000003,
+    "offset_x": -321,
+    "offset_y": -177,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9199999999999999,
+    "offset_x": -133,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": 3,
+    "offset_y": -45,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

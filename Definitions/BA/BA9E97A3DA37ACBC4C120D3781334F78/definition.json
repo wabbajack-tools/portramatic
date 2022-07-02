@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/73/1b/a4/731ba44944fc56ecef40f2e00c4a91d3.jpg",
+  "md5": "BA9E97A3DA37ACBC4C120D3781334F78",
+  "tags": [
+    "dark",
+    "world",
+    "knight",
+    "guard"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -222,
+    "offset_y": -211,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -114,
+    "offset_y": -180,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3700000000000003,
+    "offset_x": -46,
+    "offset_y": -54,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

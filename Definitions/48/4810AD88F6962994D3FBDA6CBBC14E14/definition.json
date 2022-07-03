@@ -1,0 +1,31 @@
+{
+  "source": "http://frankfrazetta.org/images/frank_frazetta_catgirl.jpg",
+  "md5": "4810AD88F6962994D3FBDA6CBBC14E14",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -642,
+    "offset_y": -382,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -581,
+    "offset_y": -361,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -362,
+    "offset_y": -192,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

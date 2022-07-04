@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/d6/a8/c9/d6a8c9394132ccb0c9113c4015417bab.jpg",
+  "md5": "60173DB7F6682260E0A33B236F103AC2",
+  "tags": [
+    "male knight lancer"
+  ],
+  "small": {
+    "scale": 1.3000000000000003,
+    "offset_x": -365,
+    "offset_y": -357,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -209,
+    "offset_y": -306,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -34,
+    "offset_y": -372,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

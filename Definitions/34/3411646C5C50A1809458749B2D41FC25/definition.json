@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/d5/85/ca/d585cacf6b382bf12d297a402ccbded2.jpg",
+  "md5": "3411646C5C50A1809458749B2D41FC25",
+  "tags": [
+    "male knight"
+  ],
+  "small": {
+    "scale": 1.3600000000000003,
+    "offset_x": -288,
+    "offset_y": -50,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -127,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -18,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

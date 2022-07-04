@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/37/61/aa/3761aa73bb531897a9c232521e79273f.jpg",
+  "md5": "1889E81F4C11366D2101E56BCB63B45D",
+  "tags": [
+    "male knight cavalier"
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -122,
+    "offset_y": -11,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": -54,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7500000000000007,
+    "offset_x": -2,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.gyazo.com/a4d23782d5d4bbdd0099c458467799d5.png",
+  "md5": "A4D23782D5D4BBDD0099C458467799D5",
+  "tags": [
+    "spear",
+    "shield",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -319.66666666666697,
+    "offset_y": -4.666666666666572,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -21.666666666666572,
+    "offset_y": 0.33333333333325754,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6100000000000005,
+    "offset_x": -129.99999999999977,
+    "offset_y": -0.6666666666666856,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

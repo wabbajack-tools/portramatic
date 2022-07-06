@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/9/94/LG-cardart-Brotherhood_Slayer_02.jpg",
+  "md5": "788B8264AD3E94A408CD5B8E0C92E064",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8975000000000006,
+    "offset_x": -447.20000000000005,
+    "offset_y": -673.5999999999985,
+    "size": "small",
+    "rotation": 0.4925000000000003
+  },
+  "medium": {
+    "scale": 0.7125000000000006,
+    "offset_x": -584.8000000000004,
+    "offset_y": -238.4000000000001,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7775000000000003,
+    "offset_x": -469.3425925925924,
+    "offset_y": -211.44444444444423,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

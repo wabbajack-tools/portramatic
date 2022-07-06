@@ -1,0 +1,31 @@
+{
+  "source": "https://images.uesp.net/d/d4/LG-cardart-Ebonheart_Oracle.jpg",
+  "md5": "C663F9EBE1133E8F932D5654F357FADB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.32250000000000184,
+    "offset_x": -571.1999999999994,
+    "offset_y": 10.399999999999864,
+    "size": "small",
+    "rotation": -0.2575000000000001
+  },
+  "medium": {
+    "scale": 0.25250000000000167,
+    "offset_x": -394.4000000000002,
+    "offset_y": -9.599999999999966,
+    "size": "medium",
+    "rotation": -0.21750000000000005
+  },
+  "full": {
+    "scale": 0.2600000000000019,
+    "offset_x": -148.97222222222217,
+    "offset_y": -9.611111111110972,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

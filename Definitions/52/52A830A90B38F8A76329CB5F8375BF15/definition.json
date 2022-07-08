@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/nlvn5zmxywd81.jpg",
+  "md5": "52A830A90B38F8A76329CB5F8375BF15",
+  "tags": [
+    "tiefling sorcerer"
+  ],
+  "small": {
+    "scale": 0.9199999999999999,
+    "offset_x": -571,
+    "offset_y": -124,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -506,
+    "offset_y": -53,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -388,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

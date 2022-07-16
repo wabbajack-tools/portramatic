@@ -1,0 +1,31 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_1.jpg",
+  "md5": "09ED692C49888BF2FAE397AB8310A928",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.4000000000000004,
+    "offset_x": -1024,
+    "offset_y": -49,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -665,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4800000000000004,
+    "offset_x": -908,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

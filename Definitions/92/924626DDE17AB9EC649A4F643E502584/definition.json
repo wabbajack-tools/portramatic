@@ -1,0 +1,31 @@
+{
+  "source": "https://preview.redd.it/m2su07qbet761.jpg?width=640&crop=smart&auto=webp&s=37c35d7a64cf4be6ae35bb8786f42ddb8abdc643",
+  "md5": "924626DDE17AB9EC649A4F643E502584",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.2999999999999994,
+    "offset_x": -5,
+    "offset_y": -8,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5199999999999996,
+    "offset_x": -1,
+    "offset_y": -26,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1700000000000002,
+    "offset_x": -32,
+    "offset_y": -26,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

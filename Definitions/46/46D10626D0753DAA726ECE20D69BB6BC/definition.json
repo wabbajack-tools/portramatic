@@ -1,0 +1,31 @@
+{
+  "source": "https://d3gz42uwgl1r1y.cloudfront.net/ne/neilos/submission/2016/07/c483842e33637185f484294367b585d4/2500x1500.jpg",
+  "md5": "46D10626D0753DAA726ECE20D69BB6BC",
+  "tags": [
+    "Wolf"
+  ],
+  "small": {
+    "scale": 0.6899999999999997,
+    "offset_x": -294.00000000000017,
+    "offset_y": -10.000000000000057,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -286.66666666666663,
+    "offset_y": -3.999999999999943,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9199999999999999,
+    "offset_x": -41.33333333333326,
+    "offset_y": -31.999999999999943,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

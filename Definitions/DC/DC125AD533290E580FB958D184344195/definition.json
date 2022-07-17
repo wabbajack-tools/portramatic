@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/d8/11/17/d811170f663ad302e5274709e7cd0741.jpg",
+  "md5": "DC125AD533290E580FB958D184344195",
+  "tags": [
+    "blood witch",
+    "warlock",
+    "tomes"
+  ],
+  "small": {
+    "scale": 1.9600000000000009,
+    "offset_x": -365,
+    "offset_y": -135,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.6000000000000005,
+    "offset_x": -206,
+    "offset_y": -85,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.62,
+    "offset_x": -18,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/eternitywiki/images/9/9a/Elf_female_PoE1_portrait_3_lg.png/",
+  "md5": "CE854B12E185052281DDC2DED41323C7",
+  "tags": [
+    "pale elf"
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -8.599999999999994,
+    "offset_y": -16.399999999999977,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.6700000000000006,
+    "offset_x": -15,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 3.6599999999999877,
+    "offset_x": -64,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

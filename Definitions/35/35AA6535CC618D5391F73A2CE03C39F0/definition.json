@@ -1,0 +1,32 @@
+{
+  "source": "https://i.redd.it/9v4z2v1k8vn71.jpg",
+  "md5": "35AA6535CC618D5391F73A2CE03C39F0",
+  "tags": [
+    "Kitsune",
+    "Archer"
+  ],
+  "small": {
+    "scale": 0.7399999999999998,
+    "offset_x": -167,
+    "offset_y": -94,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -62,
+    "offset_y": -45,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7999999999999998,
+    "offset_x": -36,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

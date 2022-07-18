@@ -1,0 +1,31 @@
+{
+  "source": "https://gwent.pro/img/1216-big.jpg",
+  "md5": "63FA0D9458D0968DECDF1F1D1B58D5BD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.5624999999999976,
+    "offset_x": -654.3999999999999,
+    "offset_y": -511.2000000000002,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -316.00000000000006,
+    "offset_y": -279.20000000000005,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7300000000000009,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

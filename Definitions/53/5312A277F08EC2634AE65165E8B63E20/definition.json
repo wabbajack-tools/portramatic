@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/51/58/51/515851c25f18c9b2ceea302d1419c63a.jpg",
+  "md5": "5312A277F08EC2634AE65165E8B63E20",
+  "tags": [
+    "female",
+    "halfling",
+    "fantasy-npc"
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -111.80000000000013,
+    "offset_y": -0.599999999999909,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5899999999999996,
+    "offset_x": -78.39999999999992,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -20.82407407407436,
+    "offset_y": 2.2737367544323206e-13,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/736x/d5/b0/5e/d5b05e2b519ccde019b4b97f01b50c8f.jpg",
+  "md5": "37D799DB8D2808DC50FB0E35C21EAC4E",
+  "tags": [
+    "male",
+    "halfling",
+    "fantasy-npc",
+    "knight"
+  ],
+  "small": {
+    "scale": 1.3800000000000003,
+    "offset_x": -266.20000000000016,
+    "offset_y": -22.999999999999943,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5000000000000004,
+    "offset_x": -224.7999999999999,
+    "offset_y": -14.600000000000023,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.6699999999999866,
+    "offset_x": -546.2314814814813,
+    "offset_y": -4.805555555555543,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

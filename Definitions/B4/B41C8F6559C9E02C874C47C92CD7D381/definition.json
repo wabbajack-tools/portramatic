@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/7c/b8/aa/7cb8aae5e06ad4936e09af7ab5c07c0c.jpg",
+  "md5": "B41C8F6559C9E02C874C47C92CD7D381",
+  "tags": [
+    "Male",
+    "Orc",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -210,
+    "offset_y": -58,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -137,
+    "offset_y": -52,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": 0,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

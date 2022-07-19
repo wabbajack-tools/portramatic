@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/d1/43/99/d14399106d36ea17c35c2d53edd880a4.jpg",
+  "md5": "C2439F0611248D001420416C635DDFD0",
+  "tags": [
+    "male",
+    "fantasy-npc",
+    "knight"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -301.40000000000015,
+    "offset_y": -14.199999999999989,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -212.79999999999995,
+    "offset_y": -3.400000000000091,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -3.203703703703468,
+    "offset_y": -3.2037037037039227,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

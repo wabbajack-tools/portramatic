@@ -1,0 +1,33 @@
+{
+  "source": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/halfling-bard-aaron-spong.jpg",
+  "md5": "3F89E3ED718E38AD3B9BCA8F2188D5BF",
+  "tags": [
+    "male",
+    "halfling",
+    "fantasy-npc"
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -275.00000000000006,
+    "offset_y": -184.59999999999997,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -164,
+    "offset_y": -145,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -4.805555555556111,
+    "offset_y": -52.861111111111086,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

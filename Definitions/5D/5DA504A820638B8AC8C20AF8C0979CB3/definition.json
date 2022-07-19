@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/d7/de/a9/d7dea9d8f3f1ec0b19226d92403bece1.jpg",
+  "md5": "5DA504A820638B8AC8C20AF8C0979CB3",
+  "tags": [
+    "Male",
+    "wizard",
+    "necro"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": -266,
+    "offset_y": -81,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -226,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -12,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

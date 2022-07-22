@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/uago0meb63091.jpg",
+  "md5": "52ACBA9FC50AD3A6C7097C010F65A31B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.6600000000000006,
+    "offset_x": -832,
+    "offset_y": -286,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08,
+    "offset_x": -424,
+    "offset_y": -153,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -90,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

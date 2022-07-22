@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/gt8sd9mbo5791.jpg",
+  "md5": "7731B6C2D5A491C2EABA9A4C5BB88E2D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4399999999999995,
+    "offset_x": -486,
+    "offset_y": -296,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.25999999999999945,
+    "offset_x": -175,
+    "offset_y": -126,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.2799999999999995,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

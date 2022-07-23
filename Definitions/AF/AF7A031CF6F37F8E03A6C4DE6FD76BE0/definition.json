@@ -1,0 +1,28 @@
+{
+  "source": "https://i.imgur.com/avlkOCG.jpeg",
+  "md5": "AF7A031CF6F37F8E03A6C4DE6FD76BE0",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -312,
+    "offset_y": -58,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -244,
+    "offset_y": -56,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -82,
+    "offset_y": -56,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

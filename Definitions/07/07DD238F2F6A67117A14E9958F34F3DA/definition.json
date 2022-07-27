@@ -1,0 +1,31 @@
+{
+  "source": "http://img.sccnn.com/bimg/338/30889.jpg",
+  "md5": "07DD238F2F6A67117A14E9958F34F3DA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1900000000000002,
+    "offset_x": -314.3999999999995,
+    "offset_y": -48.79999999999998,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -175.2,
+    "offset_y": -6.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/715191312609050638/1002630631815139409/poshkeppler.jpg",
+  "md5": "DBE7C10DDF2E54D7844981321576BC3E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -45,
+    "offset_y": -22,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.12,
+    "offset_x": -6,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6900000000000006,
+    "offset_x": 0,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

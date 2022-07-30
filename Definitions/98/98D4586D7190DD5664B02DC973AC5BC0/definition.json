@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/ef/79/34/ef7934857deb4b32356e44dbabf83e54.jpg",
+  "md5": "98D4586D7190DD5664B02DC973AC5BC0",
+  "tags": [
+    "black",
+    "fantasy",
+    "female"
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -64,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -42,
+    "offset_y": -14,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3800000000000003,
+    "offset_x": -42,
+    "offset_y": 6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/jlo1jq3efde91.jpg",
+  "md5": "9FC2CDFBCE6E575CB311546C500F2BC0",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7999999999999998,
+    "offset_x": -676,
+    "offset_y": -398,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": -297,
+    "offset_y": -231,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.35999999999999943,
+    "offset_x": 0,
+    "offset_y": -46,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

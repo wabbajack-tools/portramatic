@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/qyivMOel.jpg",
+  "md5": "6B056A74C18C80097BF5900B9A88C84F",
+  "tags": [
+    "fire",
+    "demon"
+  ],
+  "small": {
+    "scale": 0.7799999999999998,
+    "offset_x": -219.65714285714265,
+    "offset_y": -2.628571428571462,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -304,
+    "offset_y": -0.11428571428564283,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.3999999999999924,
+    "offset_x": -625.6031746031745,
+    "offset_y": 58.002645502645805,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

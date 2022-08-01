@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/b48vh6libre91.png",
+  "md5": "3B52A6F2571E468610CDEED4A6C3A298",
+  "tags": [
+    "barbarian"
+  ],
+  "small": {
+    "scale": 1.5200000000000005,
+    "offset_x": -378,
+    "offset_y": -55,
+    "size": "small",
+    "rotation": -0.03
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -26,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

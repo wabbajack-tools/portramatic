@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/17/TFoE_Morshu_Sprite.png/revision/latest?cb=20150509134207",
+  "md5": "790E3AD1DA2621C8EC9618EF5AFE8D18",
+  "tags": [
+    "bombs"
+  ],
+  "small": {
+    "scale": 1.2600000000000002,
+    "offset_x": -113,
+    "offset_y": 14,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.8200000000000007,
+    "offset_x": -85,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 3.1399999999999766,
+    "offset_x": -98,
+    "offset_y": 276,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

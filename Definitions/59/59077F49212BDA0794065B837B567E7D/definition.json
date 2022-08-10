@@ -1,0 +1,31 @@
+{
+  "source": "https://www.magic-ville.com/fr/scan_art?imid=44561",
+  "md5": "59077F49212BDA0794065B837B567E7D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -297,
+    "offset_y": -180,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -241,
+    "offset_y": -149,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

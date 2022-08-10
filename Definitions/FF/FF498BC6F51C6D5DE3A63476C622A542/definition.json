@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/564x/4d/8a/1e/4d8a1e880aa0f9956a18af6791384d94.jpg",
+  "md5": "FF498BC6F51C6D5DE3A63476C622A542",
+  "tags": [
+    "female",
+    "vampire",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.1,
+    "offset_x": -325,
+    "offset_y": -234,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -243,
+    "offset_y": -194,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.07,
+    "offset_x": -112,
+    "offset_y": -10,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

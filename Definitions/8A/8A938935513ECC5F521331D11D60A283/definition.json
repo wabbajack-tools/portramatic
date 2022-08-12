@@ -1,0 +1,31 @@
+{
+  "source": "https://www.kingsraid.com/upload/character/20210525/25114001_13.jpg",
+  "md5": "8A938935513ECC5F521331D11D60A283",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5099999999999996,
+    "offset_x": -344.5,
+    "offset_y": -27,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -364.5,
+    "offset_y": -33.5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.11,
+    "offset_x": -626,
+    "offset_y": -52,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

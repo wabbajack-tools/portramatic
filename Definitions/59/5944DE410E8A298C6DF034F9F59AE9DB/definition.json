@@ -1,0 +1,31 @@
+{
+  "source": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/black-sabertooth-jerry-lofaro.jpg",
+  "md5": "5944DE410E8A298C6DF034F9F59AE9DB",
+  "tags": [
+    "animal"
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -128,
+    "offset_y": -60,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5899999999999996,
+    "offset_x": -112,
+    "offset_y": -61,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -210,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

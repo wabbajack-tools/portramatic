@@ -1,0 +1,33 @@
+{
+  "source": "https://f8n-ipfs-production.imgix.net/QmRKZMwxwZ5ZpzGdKsi34wxFjcyKfaYSBDPdJGgYXLD2dV/nft.jpg?q=80&w=1680&fit=fill&max-h=1680",
+  "md5": "B2982D51FC9957C8CD39919DEC199AB0",
+  "tags": [
+    "succubus",
+    "lord",
+    "book"
+  ],
+  "small": {
+    "scale": 1.07,
+    "offset_x": -285,
+    "offset_y": -472,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -118,
+    "offset_y": -158,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6199999999999997,
+    "offset_x": -36,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

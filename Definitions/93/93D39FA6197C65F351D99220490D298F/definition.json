@@ -1,0 +1,34 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/886700482909859880/928990264419319808/Godslayer2.0.DCjpg.jpg",
+  "md5": "93D39FA6197C65F351D99220490D298F",
+  "tags": [
+    "male",
+    "monk",
+    "sorcerer",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -446,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -363,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -176,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

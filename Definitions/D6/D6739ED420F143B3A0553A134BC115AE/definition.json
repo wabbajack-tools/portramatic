@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/originals/47/62/1e/47621e03971b118a9570e1362f12b9a8.jpg",
+  "md5": "D6739ED420F143B3A0553A134BC115AE",
+  "tags": [
+    "hood",
+    "swordsman",
+    "warrior",
+    "armor",
+    "dark"
+  ],
+  "small": {
+    "scale": 0.8099999999999998,
+    "offset_x": -261.7999999999997,
+    "offset_y": -9.200000000000074,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.12,
+    "offset_x": -322.9999999999999,
+    "offset_y": -8.000000000000398,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -201.75000000000068,
+    "offset_y": -37.61111111111205,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

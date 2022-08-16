@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/md29eaibwop21.jpg",
+  "md5": "996C4057792B90E0263AFCBF62C34375",
+  "tags": [
+    "human",
+    "aasimar",
+    "hunter",
+    "ranger",
+    "archer"
+  ],
+  "small": {
+    "scale": 0.7899999999999998,
+    "offset_x": -548,
+    "offset_y": -158,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -285,
+    "offset_y": -96,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5599999999999996,
+    "offset_x": -84,
+    "offset_y": -32,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

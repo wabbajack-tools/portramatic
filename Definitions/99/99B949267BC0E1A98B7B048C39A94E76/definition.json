@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/ad/f6/3d/adf63dc1c8a59866b5d27990620b4ef1.jpg",
+  "md5": "99B949267BC0E1A98B7B048C39A94E76",
+  "tags": [
+    "monk",
+    "female",
+    "human"
+  ],
+  "small": {
+    "scale": 1.2100000000000002,
+    "offset_x": -347,
+    "offset_y": -77,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -189,
+    "offset_y": -63,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -98,
+    "offset_y": -52,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

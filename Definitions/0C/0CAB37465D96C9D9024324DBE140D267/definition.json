@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/86/a9/bb/86a9bba809a5cb5b6bf9d2dd46a55b07.jpg",
+  "md5": "0CAB37465D96C9D9024324DBE140D267",
+  "tags": [
+    "male",
+    "cavalier",
+    "knight"
+  ],
+  "small": {
+    "scale": 1.1,
+    "offset_x": -268.5714285714274,
+    "offset_y": -65.14285714285711,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -143.4285714285714,
+    "offset_y": -54.28571428571428,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3700000000000003,
+    "offset_x": -37.71428571428578,
+    "offset_y": -49.14285714285711,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

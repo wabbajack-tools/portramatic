@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/wibc8ntok7p61.jpg",
+  "md5": "2E80B0BAE48BEAC1AFB3E8960B7EB1F6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8899999999999999,
+    "offset_x": -356,
+    "offset_y": -84,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -242,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7999999999999998,
+    "offset_x": -52,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

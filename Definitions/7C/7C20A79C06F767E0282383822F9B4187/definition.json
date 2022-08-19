@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/27/b7/84/27b784d5fd4f69255800435acd4ee16f.jpg",
+  "md5": "7C20A79C06F767E0282383822F9B4187",
+  "tags": [
+    "Knight",
+    "helmet",
+    "greatsword"
+  ],
+  "small": {
+    "scale": 1.1600000000000001,
+    "offset_x": -194.85714285714292,
+    "offset_y": -35.42857142857133,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -68.57142857142861,
+    "offset_y": -9.14285714285711,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4700000000000004,
+    "offset_x": -3.4285714285715585,
+    "offset_y": 1.142857142857224,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

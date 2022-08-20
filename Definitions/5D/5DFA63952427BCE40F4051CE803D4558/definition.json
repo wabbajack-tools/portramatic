@@ -1,0 +1,31 @@
+{
+  "source": "https://photos.characterartgallery.com/original/character-art-gallery-photo_1000000489.jpg",
+  "md5": "5DFA63952427BCE40F4051CE803D4558",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -333,
+    "offset_y": -175,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6699999999999997,
+    "offset_x": -136,
+    "offset_y": -92,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.99,
+    "offset_x": -146,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

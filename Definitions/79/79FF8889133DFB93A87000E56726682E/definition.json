@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/discordia_golden.jpg",
+  "md5": "79FF8889133DFB93A87000E56726682E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.20999999999999946,
+    "offset_x": -152,
+    "offset_y": -27,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2299999999999995,
+    "offset_x": -127,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.33999999999999897,
+    "offset_x": -110,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

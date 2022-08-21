@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/horus_seraph.jpg",
+  "md5": "293E8D3E4AE32289DB0BB76EAD76134D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -146,
+    "offset_y": -33,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -69,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2899999999999998,
+    "offset_x": -132,
+    "offset_y": -60,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

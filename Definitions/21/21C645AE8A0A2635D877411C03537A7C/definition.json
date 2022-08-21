@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/izanami_shadow-stalker.jpg",
+  "md5": "21C645AE8A0A2635D877411C03537A7C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -228,
+    "offset_y": -90,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": -32,
+    "offset_y": -27,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.05,
+    "offset_x": -6,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

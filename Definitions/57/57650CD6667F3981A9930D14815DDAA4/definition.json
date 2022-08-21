@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/skadi_dragonkin.jpg",
+  "md5": "57650CD6667F3981A9930D14815DDAA4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -50,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -38,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5600000000000005,
+    "offset_x": -192,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

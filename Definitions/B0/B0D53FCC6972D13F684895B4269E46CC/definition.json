@@ -1,0 +1,31 @@
+{
+  "source": "https://webcdn.hirezstudios.com/smite/god-skins/fafnir_golden.jpg",
+  "md5": "B0D53FCC6972D13F684895B4269E46CC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.06,
+    "offset_x": -171,
+    "offset_y": -155,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -66,
+    "offset_y": -76,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.059999999999999,
+    "offset_x": -58,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

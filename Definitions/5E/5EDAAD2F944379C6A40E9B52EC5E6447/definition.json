@@ -1,0 +1,31 @@
+{
+  "source": "https://nitter.domain.glass/pic/media%2FFBbV6WzX0AQaJIE.jpg%3Fname%3Dorig",
+  "md5": "5EDAAD2F944379C6A40E9B52EC5E6447",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -199.33333333333334,
+    "offset_y": -63.333333333333314,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -110.66666666666663,
+    "offset_y": -58.666666666666686,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.98,
+    "offset_x": -153.33333333333326,
+    "offset_y": -36.00000000000023,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

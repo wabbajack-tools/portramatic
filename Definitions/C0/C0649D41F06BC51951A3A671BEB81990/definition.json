@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/bg01s5uf28371.jpg",
+  "md5": "C0649D41F06BC51951A3A671BEB81990",
+  "tags": [
+    "Uriel"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -366,
+    "offset_y": -342,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6699999999999997,
+    "offset_x": -81,
+    "offset_y": -105,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7699999999999998,
+    "offset_x": 83,
+    "offset_y": 90,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

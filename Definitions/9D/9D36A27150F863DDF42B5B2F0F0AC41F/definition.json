@@ -1,0 +1,31 @@
+{
+  "source": "https://pbs.twimg.com/media/DVDTb7oWAAAnsZB?format=jpg&name=large",
+  "md5": "9D36A27150F863DDF42B5B2F0F0AC41F",
+  "tags": [
+    "tiefling bard"
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -156.80000000000055,
+    "offset_y": -54.400000000000034,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3499999999999994,
+    "offset_x": -39.19999999999982,
+    "offset_y": -38.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6199999999999997,
+    "offset_x": -48.055555555555884,
+    "offset_y": -54.46296296296282,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

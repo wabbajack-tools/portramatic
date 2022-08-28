@@ -1,0 +1,33 @@
+{
+  "source": "https://cdna.artstation.com/p/assets/images/images/006/283/526/large/max-hugo-unknown-shieldmaiden.jpg?1497389896",
+  "md5": "C86F283DF75E260B622BFEA87312DF31",
+  "tags": [
+    "female",
+    "sword",
+    "shield"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -370,
+    "offset_y": -104,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -290,
+    "offset_y": -99,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -112,
+    "offset_y": -64,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

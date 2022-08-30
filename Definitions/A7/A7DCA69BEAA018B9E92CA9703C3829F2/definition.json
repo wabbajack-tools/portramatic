@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/sm262sg2gjv81.jpg",
+  "md5": "A7DCA69BEAA018B9E92CA9703C3829F2",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.13999999999999932,
+    "offset_x": -332,
+    "offset_y": -56,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.10999999999999928,
+    "offset_x": -161,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.1499999999999994,
+    "offset_x": -68,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

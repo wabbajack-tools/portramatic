@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/cizlds2ae6i91.jpg",
+  "md5": "F3085281EBCBA864CBC1D31FF6018BF1",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -1098,
+    "offset_y": -987,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999997,
+    "offset_x": -587,
+    "offset_y": -570,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.48999999999999955,
+    "offset_x": -10,
+    "offset_y": -30,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

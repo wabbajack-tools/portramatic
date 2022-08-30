@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/im0oisl01u291.jpg",
+  "md5": "5C7F9E1E3C3068B49F62D903BD74E2C2",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -419,
+    "offset_y": -173,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2599999999999994,
+    "offset_x": -115,
+    "offset_y": -79,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.26999999999999935,
+    "offset_x": -54,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

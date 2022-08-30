@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/lpf88114s2t51.jpg",
+  "md5": "C61219D7E4F820D744ADE09E60122A48",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 2.2699999999999987,
+    "offset_x": -707,
+    "offset_y": -306,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.35,
+    "offset_x": -318,
+    "offset_y": -177,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.12,
+    "offset_x": -4,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

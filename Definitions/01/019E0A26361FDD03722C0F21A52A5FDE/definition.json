@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/ZNrule3.jpg",
+  "md5": "019E0A26361FDD03722C0F21A52A5FDE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.24999999999999933,
+    "offset_x": -49,
+    "offset_y": -47,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.22999999999999932,
+    "offset_x": -25,
+    "offset_y": -28,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.4499999999999995,
+    "offset_x": -38,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

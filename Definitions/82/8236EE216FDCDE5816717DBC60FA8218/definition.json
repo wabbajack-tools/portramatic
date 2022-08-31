@@ -1,0 +1,34 @@
+{
+  "source": "https://i.imgur.com/bfgzu1G.png",
+  "md5": "8236EE216FDCDE5816717DBC60FA8218",
+  "tags": [
+    "elf",
+    "male",
+    "bard",
+    "half-elf"
+  ],
+  "small": {
+    "scale": 0.8999999999999999,
+    "offset_x": -447,
+    "offset_y": -51,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -195,
+    "offset_y": -27,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -109,
+    "offset_y": -17,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

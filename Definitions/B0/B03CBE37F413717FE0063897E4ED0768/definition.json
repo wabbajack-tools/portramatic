@@ -1,0 +1,34 @@
+{
+  "source": "https://i.redd.it/3hgxjxalcih91.jpg",
+  "md5": "B03CBE37F413717FE0063897E4ED0768",
+  "tags": [
+    "female",
+    "halfling",
+    "thief",
+    "portrait"
+  ],
+  "small": {
+    "scale": 0.6699999999999968,
+    "offset_x": -716,
+    "offset_y": -320,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3399999999999994,
+    "offset_x": -156,
+    "offset_y": -151,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.34999999999999953,
+    "offset_x": 0,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

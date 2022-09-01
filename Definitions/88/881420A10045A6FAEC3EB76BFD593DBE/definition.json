@@ -1,0 +1,33 @@
+{
+  "source": "https://i.redd.it/8osyqufd1i831.jpg",
+  "md5": "881420A10045A6FAEC3EB76BFD593DBE",
+  "tags": [
+    "elf",
+    "mage",
+    "red hair"
+  ],
+  "small": {
+    "scale": 0.22999999999999932,
+    "offset_x": -64,
+    "offset_y": -50,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3199999999999994,
+    "offset_x": -57,
+    "offset_y": -74,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7099999999999997,
+    "offset_x": -164,
+    "offset_y": -172,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

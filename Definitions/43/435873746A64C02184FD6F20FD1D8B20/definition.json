@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/a1/55/3d/a1553d1073a111da9419ec40c8156a26.jpg",
+  "md5": "435873746A64C02184FD6F20FD1D8B20",
+  "tags": [
+    "Warrior",
+    "Dwarf"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -178,
+    "offset_y": -78,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -29,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4100000000000004,
+    "offset_x": -72,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

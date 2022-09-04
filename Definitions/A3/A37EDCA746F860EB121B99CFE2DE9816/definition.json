@@ -1,0 +1,35 @@
+{
+  "source": "https://pbs.twimg.com/media/E0BYWxsVIAEoak8?format=jpg&name=4096x4096",
+  "md5": "A37EDCA746F860EB121B99CFE2DE9816",
+  "tags": [
+    "Female",
+    "Tiefling",
+    "Elf",
+    "Knight",
+    "Glaive"
+  ],
+  "small": {
+    "scale": 0.7399999999999998,
+    "offset_x": -805,
+    "offset_y": -299,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5699999999999996,
+    "offset_x": -520,
+    "offset_y": -188,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5099999999999996,
+    "offset_x": -266,
+    "offset_y": -164,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/1200x/c7/50/6e/c7506e25eafc1a9f4a318a8bb6c16981.jpg",
+  "md5": "72D8326BB713130E2FD9FE378BA1D5E1",
+  "tags": [
+    "Female",
+    "Elf",
+    "Knight"
+  ],
+  "small": {
+    "scale": 0.97,
+    "offset_x": -186,
+    "offset_y": -129,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -134,
+    "offset_y": -99,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2800000000000002,
+    "offset_x": -68,
+    "offset_y": -114,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

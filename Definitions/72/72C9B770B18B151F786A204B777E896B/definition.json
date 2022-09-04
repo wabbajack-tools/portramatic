@@ -1,0 +1,32 @@
+{
+  "source": "https://pbs.twimg.com/media/E2kFHRUWEAImSSc?format=jpg&name=large",
+  "md5": "72C9B770B18B151F786A204B777E896B",
+  "tags": [
+    "tom",
+    "bagshaw"
+  ],
+  "small": {
+    "scale": 0.28999999999999937,
+    "offset_x": -64,
+    "offset_y": -6,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -120,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1500000000000001,
+    "offset_x": -232,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/as0hkzr6fgx51.jpg",
+  "md5": "9D1666AF0FE655FE2F4D0E84BB14E29F",
+  "tags": [
+    "wizard",
+    "magic",
+    "sorcerer",
+    "illusionist",
+    "drow"
+  ],
+  "small": {
+    "scale": 1.9600000000000009,
+    "offset_x": -1138,
+    "offset_y": -1040,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -429,
+    "offset_y": -444,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6599999999999986,
+    "offset_x": -60,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

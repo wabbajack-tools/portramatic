@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.amazonaws.com/hallofbeorn-resources/Images/LotR/Characters/Arwen-Undomiel.jpg",
+  "md5": "54E80D5ABC1FAFCBDDED919F8DBCFFCB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -165.33333333333334,
+    "offset_y": -62.6666666666668,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08,
+    "offset_x": -106.66666666666663,
+    "offset_y": -54.66666666666674,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.2599999999999953,
+    "offset_x": -206.66666666666652,
+    "offset_y": -13.333333333333314,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

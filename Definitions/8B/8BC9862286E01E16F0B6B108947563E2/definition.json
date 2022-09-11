@@ -1,0 +1,31 @@
+{
+  "source": "https://wowlol.ru/img4/b9e7a77105f22203a0de8c441c2f9bbb.jpg",
+  "md5": "8BC9862286E01E16F0B6B108947563E2",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -81,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -140,
+    "offset_y": -80,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2000000000000002,
+    "offset_x": -12,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

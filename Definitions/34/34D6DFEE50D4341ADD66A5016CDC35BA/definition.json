@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/4f/3f/33/4f3f33f0ca62be429a9e6e81051c7c4b.jpg",
+  "md5": "34D6DFEE50D4341ADD66A5016CDC35BA",
+  "tags": [
+    "Azata",
+    "Male",
+    "Elf"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -234,
+    "offset_y": -158,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9099999999999999,
+    "offset_x": -166,
+    "offset_y": -148,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -10,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

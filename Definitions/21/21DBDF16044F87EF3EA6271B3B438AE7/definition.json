@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/18/cd/c6/18cdc684075a3f783774aa8323f29952.jpg",
+  "md5": "21DBDF16044F87EF3EA6271B3B438AE7",
+  "tags": [
+    "undead",
+    "kukri",
+    "male"
+  ],
+  "small": {
+    "scale": 0.7999999999999998,
+    "offset_x": -142,
+    "offset_y": -38,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -74,
+    "offset_y": -56,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3300000000000003,
+    "offset_x": -26,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

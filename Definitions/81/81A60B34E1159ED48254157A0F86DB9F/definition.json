@@ -1,0 +1,31 @@
+{
+  "source": "https://gamewith-en.akamaized.net/img/original_1963dc6d61439b5634f4a22817f8a2dd.jpg",
+  "md5": "81A60B34E1159ED48254157A0F86DB9F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.09,
+    "offset_x": -300,
+    "offset_y": -128,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -50,
+    "offset_y": -30,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8899999999999999,
+    "offset_x": -26,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

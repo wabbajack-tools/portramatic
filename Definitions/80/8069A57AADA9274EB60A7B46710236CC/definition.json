@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/mi25cz9r7d481.jpg",
+  "md5": "8069A57AADA9274EB60A7B46710236CC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.4700000000000004,
+    "offset_x": -379.99999999999636,
+    "offset_y": -176.00000000000014,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1500000000000001,
+    "offset_x": -210.6666666666672,
+    "offset_y": -136.00000000000017,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4800000000000004,
+    "offset_x": -98.66666666666697,
+    "offset_y": -103.9999999999992,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

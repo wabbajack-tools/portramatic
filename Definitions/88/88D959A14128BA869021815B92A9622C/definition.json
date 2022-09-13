@@ -1,0 +1,27 @@
+{
+  "source": "https://i.redd.it/eme9ngvmmhv51.jpg",
+  "md5": "88D959A14128BA869021815B92A9622C",
+  "tags": [
+    "elf",
+    "rogue"
+  ],
+  "small": {
+    "scale": 0.27999999999999936,
+    "offset_x": -255,
+    "offset_y": -99,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.18999999999999934,
+    "offset_x": -58,
+    "offset_y": -31,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 0.36999999999999944,
+    "offset_x": -62,
+    "offset_y": -22,
+    "size": "full"
+  },
+  "version": 2
+}

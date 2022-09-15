@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/Ua7gRmK.jpeg",
+  "md5": "6C65690B88D5C04DA6232D67A1E93467",
+  "tags": [
+    "halfling",
+    "warrior",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.13999999999999946,
+    "offset_x": -55.333333333333286,
+    "offset_y": -3.3333333333334565,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2099999999999993,
+    "offset_x": -25.999999999999943,
+    "offset_y": -19.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5199999999999996,
+    "offset_x": -137.3333333333337,
+    "offset_y": -50.66666666666714,
+    "size": "full",
+    "rotation": 0.020000000000000004
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

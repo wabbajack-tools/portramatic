@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/736x/ba/ca/57/baca5730be06cf7f2a12ef98653130c6.jpg",
+  "md5": "3B6EF7B7F6E0D92B2ADEB4C9CACF4B6E",
+  "tags": [
+    "wolf",
+    "female"
+  ],
+  "small": {
+    "scale": 0.4199999999999997,
+    "offset_x": -33.333333333333314,
+    "offset_y": -37.33333333333346,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -51.99999999999994,
+    "offset_y": -73.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6200000000000006,
+    "offset_x": -128.00000000000045,
+    "offset_y": -197.33333333333377,
+    "size": "full",
+    "rotation": 0.020000000000000004
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

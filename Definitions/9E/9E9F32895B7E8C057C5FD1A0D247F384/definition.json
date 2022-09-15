@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/x9yhOUy.jpeg",
+  "md5": "9E9F32895B7E8C057C5FD1A0D247F384",
+  "tags": [
+    "elf",
+    "monk"
+  ],
+  "small": {
+    "scale": 0.25999999999999956,
+    "offset_x": -95.33333333333326,
+    "offset_y": -19.333333333333513,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -161.33333333333331,
+    "offset_y": -67.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9199999999999999,
+    "offset_x": -309.3333333333337,
+    "offset_y": -114.66666666666708,
+    "size": "full",
+    "rotation": 0.020000000000000004
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

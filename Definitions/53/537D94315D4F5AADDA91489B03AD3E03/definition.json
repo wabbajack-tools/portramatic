@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/23/c1/86/23c18618e7c78aa1ad79682d018f0c9e.jpg",
+  "md5": "537D94315D4F5AADDA91489B03AD3E03",
+  "tags": [
+    "male",
+    "necromancer"
+  ],
+  "small": {
+    "scale": 1.3600000000000003,
+    "offset_x": -287,
+    "offset_y": -41,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.4243333333333337,
+    "offset_x": -245,
+    "offset_y": -65,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -20,
+    "offset_y": -48,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

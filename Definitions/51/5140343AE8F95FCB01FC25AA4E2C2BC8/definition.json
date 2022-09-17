@@ -1,0 +1,31 @@
+{
+  "source": "http://access.imglarger.com:8889/results/JoC0gzsa_4x.jpg",
+  "md5": "5140343AE8F95FCB01FC25AA4E2C2BC8",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.1699999999999994,
+    "offset_x": -142.85714285714286,
+    "offset_y": -2.857142857142833,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.1499999999999993,
+    "offset_x": -42.85714285714289,
+    "offset_y": -2.857142857142833,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.24999999999999933,
+    "offset_x": 0,
+    "offset_y": -1.1368683772161603e-13,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

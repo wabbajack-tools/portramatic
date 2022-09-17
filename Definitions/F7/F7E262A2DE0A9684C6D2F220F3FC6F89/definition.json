@@ -1,0 +1,42 @@
+{
+  "source": "https://pbs.twimg.com/media/ECvrLMRU0AA_N0Q?format=jpg&name=4096x4096",
+  "md5": "F7E262A2DE0A9684C6D2F220F3FC6F89",
+  "tags": [
+    "female",
+    "elf",
+    "cleric",
+    "half-elf",
+    "drawing",
+    "male",
+    "half",
+    "druid",
+    "pirate",
+    "roman",
+    "soldier",
+    "paladin"
+  ],
+  "small": {
+    "scale": 0.14999999999999947,
+    "offset_x": -26,
+    "offset_y": -18,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.20999999999999933,
+    "offset_x": 0,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.4499999999999996,
+    "offset_x": -12,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": -3.469446951953614e-18
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

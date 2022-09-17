@@ -1,0 +1,42 @@
+{
+  "source": "https://www.nawpic.com/media/2020/gojo-satoru-nawpic-26.jpg",
+  "md5": "D375AC6F2B3521CD7BF780038BCDC0C9",
+  "tags": [
+    "female",
+    "elf",
+    "cleric",
+    "half-elf",
+    "drawing",
+    "male",
+    "half",
+    "druid",
+    "pirate",
+    "roman",
+    "soldier",
+    "paladin"
+  ],
+  "small": {
+    "scale": 0.3399999999999994,
+    "offset_x": -42,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": -56,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -8,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

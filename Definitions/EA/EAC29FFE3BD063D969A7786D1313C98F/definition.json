@@ -1,0 +1,33 @@
+{
+  "source": "https://i.redd.it/z4skxzwhokv81.jpg",
+  "md5": "EAC29FFE3BD063D969A7786D1313C98F",
+  "tags": [
+    "aasimar",
+    "sorcerer",
+    "rudiindra"
+  ],
+  "small": {
+    "scale": 0.7499999999999998,
+    "offset_x": -322,
+    "offset_y": -28,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4099999999999995,
+    "offset_x": -58,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -122,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

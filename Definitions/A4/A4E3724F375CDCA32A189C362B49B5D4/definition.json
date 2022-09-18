@@ -1,0 +1,32 @@
+{
+  "source": "http://media.blizzard.com/wow/media/artwork/wow-classes/priest05-large.jpg",
+  "md5": "A4E3724F375CDCA32A189C362B49B5D4",
+  "tags": [
+    "winged",
+    "aasimar"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -474.5,
+    "offset_y": -48,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -206.5,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.0200000000000005,
+    "offset_x": -597,
+    "offset_y": -53,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

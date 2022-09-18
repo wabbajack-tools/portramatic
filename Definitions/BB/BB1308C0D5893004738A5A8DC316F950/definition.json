@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/f0/5d/40/f05d4018ba74426a0e1f032cc5db0098.jpg",
+  "md5": "BB1308C0D5893004738A5A8DC316F950",
+  "tags": [
+    "Male",
+    "Aasimar",
+    "Ranger",
+    "Archer"
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -181,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -45,
+    "offset_y": -9,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -4,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

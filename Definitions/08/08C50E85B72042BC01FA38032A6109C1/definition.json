@@ -1,0 +1,34 @@
+{
+  "source": "https://pbs.twimg.com/media/EqbHaxcXcAUpzhc.jpg",
+  "md5": "08C50E85B72042BC01FA38032A6109C1",
+  "tags": [
+    "monk",
+    "female",
+    "fist",
+    "human"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -105,
+    "offset_y": -317,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7699999999999998,
+    "offset_x": -39,
+    "offset_y": -183,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8599999999999999,
+    "offset_x": -20,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

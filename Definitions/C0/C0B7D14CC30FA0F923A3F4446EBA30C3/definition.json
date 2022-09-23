@@ -1,0 +1,31 @@
+{
+  "source": "http://cdn.gyxy.org/image/default/66F692765FF040118F23644880AE6906-6-2.jpg",
+  "md5": "C0B7D14CC30FA0F923A3F4446EBA30C3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1600000000000001,
+    "offset_x": -464,
+    "offset_y": -360,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.02,
+    "offset_x": -320,
+    "offset_y": -291,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1900000000000002,
+    "offset_x": -226,
+    "offset_y": -252,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

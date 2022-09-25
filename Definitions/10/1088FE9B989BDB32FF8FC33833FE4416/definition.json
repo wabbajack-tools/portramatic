@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/24/d3/0e/24d30ecf865b3c6ef20d66e1a5ca0b0b.jpg",
+  "md5": "1088FE9B989BDB32FF8FC33833FE4416",
+  "tags": [
+    "male",
+    "ranger",
+    "sword",
+    "shield"
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -77,
+    "offset_y": -31,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5699999999999996,
+    "offset_x": -24,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.95,
+    "offset_x": -2,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

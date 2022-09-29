@@ -1,0 +1,26 @@
+{
+  "source": "https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/bbe2bb0b-8921-4964-a06f-092c75220e7e/081921_mythiclich.jpg",
+  "md5": "4D9EDE9B30AC24787AF9FF1B840BF2A4",
+  "tags": [
+    "Lich"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -255,
+    "offset_y": -29,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -244,
+    "offset_y": -20,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -28,
+    "offset_y": -4,
+    "size": "full"
+  },
+  "version": 2
+}

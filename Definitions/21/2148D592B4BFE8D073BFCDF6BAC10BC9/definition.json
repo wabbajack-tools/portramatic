@@ -1,0 +1,31 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_15.jpg",
+  "md5": "2148D592B4BFE8D073BFCDF6BAC10BC9",
+  "tags": [
+    "Kayn"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -614,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -450,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4500000000000004,
+    "offset_x": -556,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

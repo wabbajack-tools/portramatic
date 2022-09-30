@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/30/97/98/3097984bf914b500433b306ea5777e19.jpg",
+  "md5": "A68FF676EE0427B9823752C704570E29",
+  "tags": [
+    "female",
+    "tiefling",
+    "archer"
+  ],
+  "small": {
+    "scale": 1.18,
+    "offset_x": -282,
+    "offset_y": -129,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.02,
+    "offset_x": -161,
+    "offset_y": -85,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2000000000000002,
+    "offset_x": -81,
+    "offset_y": -96,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

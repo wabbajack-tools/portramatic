@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/2vjotr103nr41.jpg",
+  "md5": "DE252C0F02C58F9B83FEAFE0CC6B657B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8786666666666665,
+    "offset_x": -808.8000000000009,
+    "offset_y": -272,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5383333333333327,
+    "offset_x": -387.2000000000002,
+    "offset_y": -119.19999999999987,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6819999999999988,
+    "offset_x": -317.16666666666674,
+    "offset_y": -145.76851851851825,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

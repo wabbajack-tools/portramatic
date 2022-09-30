@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.paizo.com/image/content/Blog/011020_divineblock.jpg",
+  "md5": "75872BC5C857BF95C9784EF5787CFF85",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.16999999999999954,
+    "offset_x": -558,
+    "offset_y": -30,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.12999999999999945,
+    "offset_x": -296,
+    "offset_y": -28,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.15999999999999945,
+    "offset_x": -146,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

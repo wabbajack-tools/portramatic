@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/FFs5TIKXMAIiBEn.jpg:large",
+  "md5": "1963A3BE6CB41EF078AD005738FB1670",
+  "tags": [
+    "knight",
+    "male",
+    "human"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -889,
+    "offset_y": -217,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -823,
+    "offset_y": -211,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -636,
+    "offset_y": -124,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

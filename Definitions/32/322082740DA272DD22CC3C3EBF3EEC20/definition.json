@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/8c/f6/68/8cf668756eab3ec7ff65c0c6d5c3c73e.jpg",
+  "md5": "322082740DA272DD22CC3C3EBF3EEC20",
+  "tags": [
+    "Dragon knight"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -185,
+    "offset_y": -71,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -73,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4400000000000004,
+    "offset_x": -8,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

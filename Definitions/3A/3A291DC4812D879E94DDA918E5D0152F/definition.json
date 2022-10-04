@@ -1,0 +1,41 @@
+{
+  "source": "https://i.pinimg.com/564x/dc/99/bb/dc99bbf2dad0695199840f7896068949.jpg",
+  "md5": "3A291DC4812D879E94DDA918E5D0152F",
+  "tags": [
+    "tiefling",
+    "elf",
+    "ranger",
+    "rogue",
+    "ninja",
+    "demon",
+    "dragon",
+    "legend",
+    "core",
+    "trickster",
+    "warriror"
+  ],
+  "small": {
+    "scale": 0.6099999999999997,
+    "offset_x": -69,
+    "offset_y": -18,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -31,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5900000000000005,
+    "offset_x": -80,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

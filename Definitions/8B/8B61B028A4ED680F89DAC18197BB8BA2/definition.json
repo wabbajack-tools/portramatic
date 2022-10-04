@@ -1,0 +1,37 @@
+{
+  "source": "https://i.pinimg.com/564x/d2/9a/67/d29a672298812d977ea4e7f3945a3775.jpg",
+  "md5": "8B61B028A4ED680F89DAC18197BB8BA2",
+  "tags": [
+    "tiefling",
+    "rogue",
+    "ninja",
+    "demon",
+    "dragon",
+    "core",
+    "trickster"
+  ],
+  "small": {
+    "scale": 0.6099999999999997,
+    "offset_x": -93,
+    "offset_y": -41,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -7,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -4,
+    "offset_y": -26,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

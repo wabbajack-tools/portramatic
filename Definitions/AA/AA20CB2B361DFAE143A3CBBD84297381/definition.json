@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/a4/7d/42/a47d420b1942324cf8a15cdf5181b40f.jpg",
+  "md5": "AA20CB2B361DFAE143A3CBBD84297381",
+  "tags": [
+    "human",
+    "fighter",
+    "paladin",
+    "cavalier"
+  ],
+  "small": {
+    "scale": 1.09,
+    "offset_x": -232,
+    "offset_y": -73,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2800000000000002,
+    "offset_x": -152,
+    "offset_y": -79,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8200000000000007,
+    "offset_x": -136,
+    "offset_y": -110,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

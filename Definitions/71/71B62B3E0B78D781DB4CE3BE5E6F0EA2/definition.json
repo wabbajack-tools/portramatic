@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/CVfope0.jpeg",
+  "md5": "71B62B3E0B78D781DB4CE3BE5E6F0EA2",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7299999999999998,
+    "offset_x": -165,
+    "offset_y": -127,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -90,
+    "offset_y": -125,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4800000000000026,
+    "offset_x": -154,
+    "offset_y": -252,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

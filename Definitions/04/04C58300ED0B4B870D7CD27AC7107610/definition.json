@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/2f/36/cd/2f36cd42dcf583da901afd854ab82cf1.jpg",
+  "md5": "04C58300ED0B4B870D7CD27AC7107610",
+  "tags": [
+    "aasimar",
+    "fighter",
+    "paladin"
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -331,
+    "offset_y": -34,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -230,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7700000000000007,
+    "offset_x": -258,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,39 @@
+{
+  "source": "https://pbs.twimg.com/media/FDMS4b4WYAQm_pz?format=jpg&name=large",
+  "md5": "F75D47B251A132FE30C108580F27FB86",
+  "tags": [
+    "Vampire",
+    "Dhampir",
+    "Rogue",
+    "Lich",
+    "Necromancer",
+    "Sorcerer",
+    "Wizard",
+    "Lawful",
+    "Evil"
+  ],
+  "small": {
+    "scale": 0.4599999999999995,
+    "offset_x": -134.66666666666663,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3199999999999994,
+    "offset_x": -8,
+    "offset_y": -6.999999999999943,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5899999999999996,
+    "offset_x": -8,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

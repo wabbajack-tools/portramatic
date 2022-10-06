@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/9f/8d/d8/9f8dd88c90403fbd4100fc9bd4103db4.jpg",
+  "md5": "49379F481DC19D52886BADE2B2B48F07",
+  "tags": [
+    "male",
+    "kitsune"
+  ],
+  "small": {
+    "scale": 1.3400000000000003,
+    "offset_x": -204,
+    "offset_y": -141,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3800000000000003,
+    "offset_x": -98,
+    "offset_y": -119,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.699999999999987,
+    "offset_x": -136,
+    "offset_y": -228,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

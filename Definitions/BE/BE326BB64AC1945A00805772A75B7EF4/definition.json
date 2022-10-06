@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/jwui95ngtad81.jpg",
+  "md5": "BE326BB64AC1945A00805772A75B7EF4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3000000000000003,
+    "offset_x": -223,
+    "offset_y": -33,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -74,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.9700000000000009,
+    "offset_x": -170,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

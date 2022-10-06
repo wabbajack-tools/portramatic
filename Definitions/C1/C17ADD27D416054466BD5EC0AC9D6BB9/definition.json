@@ -1,0 +1,32 @@
+{
+  "source": "https://static.zerochan.net/Gintama.full.1923708.jpg",
+  "md5": "C17ADD27D416054466BD5EC0AC9D6BB9",
+  "tags": [
+    "male",
+    "kitsune"
+  ],
+  "small": {
+    "scale": 0.7399999999999998,
+    "offset_x": -217,
+    "offset_y": -134,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7499999999999998,
+    "offset_x": -119,
+    "offset_y": -111,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4399999999999948,
+    "offset_x": -184,
+    "offset_y": -260,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/691091743868977192/993755666575528017/badgerportrait.png",
+  "md5": "AE61FC5D68BB00EB27A6B1E99E1BF17A",
+  "tags": [
+    "gnome",
+    "paladin"
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -253.60000000000224,
+    "offset_y": -104.5999999999998,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.37999999999999945,
+    "offset_x": -219.20000000000255,
+    "offset_y": -117.7999999999999,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6399999999999997,
+    "offset_x": -180.9814814814822,
+    "offset_y": -21.1666666666664,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

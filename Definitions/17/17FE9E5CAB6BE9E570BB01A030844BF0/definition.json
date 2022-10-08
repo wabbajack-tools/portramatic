@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/9d/38/5c/9d385c1e73763480902beec747aa9d48.jpg",
+  "md5": "17FE9E5CAB6BE9E570BB01A030844BF0",
+  "tags": [
+    "halfling",
+    "rogue",
+    "merchant"
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -178,
+    "offset_y": -81,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -142,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.2399999999999958,
+    "offset_x": -346,
+    "offset_y": -142,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

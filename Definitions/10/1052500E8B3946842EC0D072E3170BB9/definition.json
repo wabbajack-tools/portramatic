@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Azula.full.3003782.jpg",
+  "md5": "1052500E8B3946842EC0D072E3170BB9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -242,
+    "offset_y": -13,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -194,
+    "offset_y": -28,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.95,
+    "offset_x": -8,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

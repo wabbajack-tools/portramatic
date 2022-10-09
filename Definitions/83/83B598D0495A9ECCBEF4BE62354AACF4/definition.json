@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.zerochan.net/240/17/00/3392517.jpg",
+  "md5": "83B598D0495A9ECCBEF4BE62354AACF4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 2.0200000000000005,
+    "offset_x": -150,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.7500000000000007,
+    "offset_x": -46,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.909999999999985,
+    "offset_x": -6,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

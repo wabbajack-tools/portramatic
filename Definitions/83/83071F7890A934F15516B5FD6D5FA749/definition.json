@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/d2/3b/91/d23b918c58affe10bb768769b5623d07.jpg",
+  "md5": "83071F7890A934F15516B5FD6D5FA749",
+  "tags": [
+    "Tiefling",
+    "barbarian"
+  ],
+  "small": {
+    "scale": 1.6200000000000006,
+    "offset_x": -354,
+    "offset_y": -18,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1600000000000001,
+    "offset_x": -127,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7800000000000007,
+    "offset_x": -140,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

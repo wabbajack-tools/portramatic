@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/5k2sdnzfashy.jpg",
+  "md5": "C3DAA67AD201463526EA4F894A12F20A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.8800000000000008,
+    "offset_x": -116,
+    "offset_y": -11,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.7000000000000006,
+    "offset_x": -26,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.7699999999999845,
+    "offset_x": 4,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

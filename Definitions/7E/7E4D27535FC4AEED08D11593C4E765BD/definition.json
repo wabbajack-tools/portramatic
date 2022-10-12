@@ -1,0 +1,34 @@
+{
+  "source": "https://static.wikia.nocookie.net/cathays/images/d/d6/Linene_Graywind.png/revision/latest?cb=20190725011202",
+  "md5": "7E4D27535FC4AEED08D11593C4E765BD",
+  "tags": [
+    "elf",
+    "female",
+    "ranger",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.3200000000000003,
+    "offset_x": -312,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.12,
+    "offset_x": -127,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3400000000000003,
+    "offset_x": -14,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

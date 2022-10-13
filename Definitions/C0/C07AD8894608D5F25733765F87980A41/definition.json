@@ -1,0 +1,31 @@
+{
+  "source": "http://www.artofnicolecardiff.com/images/gnomewizard.jpg",
+  "md5": "C07AD8894608D5F25733765F87980A41",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -221,
+    "offset_y": -37,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2100000000000002,
+    "offset_x": -196,
+    "offset_y": -46,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -18,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

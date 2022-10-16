@@ -1,0 +1,33 @@
+{
+  "source": "https://pm1.narvii.com/6117/0610f5c868dcf13d4a2a87c5df5bbd19d934f056_hq.jpg",
+  "md5": "518BE34009ADFA85FB8FEE56BE7297E1",
+  "tags": [
+    "sorcerer",
+    "elf",
+    "blonde hair"
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -18,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1300000000000001,
+    "offset_x": -14,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7300000000000006,
+    "offset_x": -4,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

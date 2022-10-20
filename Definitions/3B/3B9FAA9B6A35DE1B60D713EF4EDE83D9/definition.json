@@ -1,0 +1,31 @@
+{
+  "source": "https://assets.mycast.io/characters/44015_normal.jpg?1533671097",
+  "md5": "3B9FAA9B6A35DE1B60D713EF4EDE83D9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -78,
+    "offset_y": -43,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -1,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.05,
+    "offset_x": -2,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

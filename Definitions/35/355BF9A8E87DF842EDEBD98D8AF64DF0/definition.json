@@ -1,0 +1,35 @@
+{
+  "source": "https://i.redd.it/wv7tjgyl2fh31.jpg",
+  "md5": "355BF9A8E87DF842EDEBD98D8AF64DF0",
+  "tags": [
+    "explore",
+    "pirategirl",
+    "pirateship",
+    "pirate",
+    "girl"
+  ],
+  "small": {
+    "scale": 0.39999999999999947,
+    "offset_x": -66,
+    "offset_y": -31,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -34,
+    "offset_y": -29,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.98,
+    "offset_x": -50,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

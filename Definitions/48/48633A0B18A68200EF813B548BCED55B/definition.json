@@ -1,0 +1,37 @@
+{
+  "source": "https://i.pinimg.com/736x/c9/8f/f2/c98ff27188a194eb305d33956db3fe2d.jpg",
+  "md5": "48633A0B18A68200EF813B548BCED55B",
+  "tags": [
+    "female",
+    "wizard",
+    "cleric",
+    "staff",
+    "black hair",
+    "necromancer",
+    "mage"
+  ],
+  "small": {
+    "scale": 1.2900000000000003,
+    "offset_x": -207,
+    "offset_y": -65,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 2.129999999999998,
+    "offset_x": -320,
+    "offset_y": -137,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4200000000000004,
+    "offset_x": -10,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

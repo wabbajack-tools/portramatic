@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/a0/33/d0/a033d0b8da922eb4d1bc592495dadb5c.jpg",
+  "md5": "2D58849DE37AC8DE364C2F81EFCFDC33",
+  "tags": [
+    "male",
+    "necromancer",
+    "wizard"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -249,
+    "offset_y": -80,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08,
+    "offset_x": -171,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": 0,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

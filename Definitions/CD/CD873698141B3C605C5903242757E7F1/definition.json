@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/736x/2d/2b/9a/2d2b9aca43bc23a57baec6e1fb18a3f3.jpg",
+  "md5": "CD873698141B3C605C5903242757E7F1",
+  "tags": [
+    "Female",
+    "human",
+    "monk",
+    "fighter",
+    "rogue"
+  ],
+  "small": {
+    "scale": 1.1600000000000001,
+    "offset_x": -258.6000000000038,
+    "offset_y": -26.00000000000057,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8399999999999999,
+    "offset_x": -104.59999999999985,
+    "offset_y": -18.599999999999966,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2200000000000002,
+    "offset_x": -75.25925925925753,
+    "offset_y": -17.97222222222223,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

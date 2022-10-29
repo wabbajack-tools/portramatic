@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/c5/a9/b8/c5a9b876a2d6792848792cc86436d94e--dark-brotherhood-midgard.jpg",
+  "md5": "C6DA0CB87C790D806041CDE17C9C7194",
+  "tags": [
+    "blue",
+    "tiefling",
+    "paladin"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -302,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -101,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.05,
+    "offset_x": 0,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,42 @@
+{
+  "source": "https://booru.allthefallen.moe/data/sample/8c/cd/sample-8ccd6ba0543743e553706cc72bcf8c67.jpg",
+  "md5": "15A3530F20767CA2A3E4BD763FF786A4",
+  "tags": [
+    "",
+    "comic",
+    "book",
+    "fgo",
+    "frankenstein",
+    "jisun",
+    "baek",
+    "fate",
+    "stay",
+    "night",
+    "anime",
+    "series"
+  ],
+  "small": {
+    "scale": 0.34999999999999853,
+    "offset_x": -35,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -64,
+    "offset_y": -68,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9199999999999999,
+    "offset_x": -12,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

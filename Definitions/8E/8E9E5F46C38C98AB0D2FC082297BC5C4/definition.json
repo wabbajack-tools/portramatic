@@ -1,0 +1,31 @@
+{
+  "source": "https://data.whicdn.com/images/217134801/original.jpg",
+  "md5": "8E9E5F46C38C98AB0D2FC082297BC5C4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6899999999999997,
+    "offset_x": -173,
+    "offset_y": -52,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -113,
+    "offset_y": -49,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -14,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

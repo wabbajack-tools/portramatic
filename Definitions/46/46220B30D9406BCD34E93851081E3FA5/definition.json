@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/i345v2ytv2w61.jpg",
+  "md5": "46220B30D9406BCD34E93851081E3FA5",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.2099999999999995,
+    "offset_x": -266,
+    "offset_y": -71,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.12999999999999937,
+    "offset_x": -51,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.19999999999999943,
+    "offset_x": -6,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

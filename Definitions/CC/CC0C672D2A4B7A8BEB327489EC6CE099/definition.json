@@ -1,0 +1,31 @@
+{
+  "source": "https://asoif.s3.amazonaws.com/images/product/hero_mobo/45/SmallHero_ASOIF-ThennWarrior.jpg",
+  "md5": "CC0C672D2A4B7A8BEB327489EC6CE099",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -340,
+    "offset_y": -67,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8699999999999999,
+    "offset_x": -193,
+    "offset_y": -51,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4500000000000004,
+    "offset_x": -170,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

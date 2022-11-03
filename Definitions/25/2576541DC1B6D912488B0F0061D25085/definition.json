@@ -1,0 +1,31 @@
+{
+  "source": "https://d2jv9003bew7ag.cloudfront.net/uploads/Aphrodite.jpeg",
+  "md5": "2576541DC1B6D912488B0F0061D25085",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2300000000000002,
+    "offset_x": -154,
+    "offset_y": -49,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.5700000000000005,
+    "offset_x": -93,
+    "offset_y": -41,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7400000000000007,
+    "offset_x": -4,
+    "offset_y": -76,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

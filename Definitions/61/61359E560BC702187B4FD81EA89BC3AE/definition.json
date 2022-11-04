@@ -1,0 +1,33 @@
+{
+  "source": "https://i.redd.it/fhkfgrmabcx91.png",
+  "md5": "61359E560BC702187B4FD81EA89BC3AE",
+  "tags": [
+    "skyrim",
+    "magus",
+    "build"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -122.99999999999994,
+    "offset_y": -77.33333333333326,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -19.999999999999943,
+    "offset_y": -18.6666666666664,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.05,
+    "offset_x": -11.999999999999773,
+    "offset_y": -39.666666666666515,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://kanka-user-assets.s3.eu-central-1.amazonaws.com/characters/VmAPFmWIWrVFF5lfAbXipktCBz4lb1a7uMYu2ioM.jpeg",
+  "md5": "6408E59DE744A66C02FA410E7A35BF52",
+  "tags": [
+    "blonde",
+    "human",
+    "female"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -143,
+    "offset_y": -19,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -45,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.089999999999999,
+    "offset_x": -126,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

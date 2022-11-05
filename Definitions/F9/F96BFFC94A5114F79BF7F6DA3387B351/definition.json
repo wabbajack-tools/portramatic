@@ -1,0 +1,31 @@
+{
+  "source": "https://tesall.ru/index.php?app=core&module=global&section=imgproxy&src=http%3A%2F%2Forig09.deviantart.net%2Fcde0%2Ff%2F2017%2F135%2Fe%2F9%2Fsylvanas_windrunner_by_enshanlee-db9ag0u.jpg",
+  "md5": "F96BFFC94A5114F79BF7F6DA3387B351",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6199999999999997,
+    "offset_x": -158.4000000000002,
+    "offset_y": -9.60000000000008,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3299999999999994,
+    "offset_x": -0.8000000000000114,
+    "offset_y": -8.000000000000057,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7099999999999997,
+    "offset_x": -9.611111111110631,
+    "offset_y": -19.22222222222217,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

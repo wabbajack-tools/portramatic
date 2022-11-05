@@ -1,0 +1,32 @@
+{
+  "source": "https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/7/71/SprigganArt.png/revision/latest?cb=20210619183941",
+  "md5": "A4489EE10031465304E542AC7DC954E4",
+  "tags": [
+    "spriggan",
+    "male"
+  ],
+  "small": {
+    "scale": 0.97,
+    "offset_x": -175,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -92,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0499999999999998,
+    "offset_x": 76,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

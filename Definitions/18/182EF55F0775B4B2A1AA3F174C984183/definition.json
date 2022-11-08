@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/d9/dd/69/d9dd69de824a72798e12e27b60611dc0.jpg",
+  "md5": "182EF55F0775B4B2A1AA3F174C984183",
+  "tags": [
+    "Half orc",
+    "female"
+  ],
+  "small": {
+    "scale": 0.7999999999999998,
+    "offset_x": -124,
+    "offset_y": -9,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -95,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5000000000000004,
+    "offset_x": -60,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

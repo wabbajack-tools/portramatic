@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/0b/14/d9/0b14d9256559fd7cc69f05107ec25bca.jpg",
+  "md5": "6C783FB1495E39A66586DD258A599874",
+  "tags": [
+    "Elf",
+    "male"
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -170,
+    "offset_y": -41,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -107,
+    "offset_y": -31,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5600000000000005,
+    "offset_x": -96,
+    "offset_y": -22,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

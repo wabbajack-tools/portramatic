@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/2a/3e/90/2a3e90c656ebf9ac28095342bb20850d.jpg",
+  "md5": "6CE6FEA1E585450BFA21D81E0D0A4F5E",
+  "tags": [
+    "Tiefling",
+    "female"
+  ],
+  "small": {
+    "scale": 0.4199999999999995,
+    "offset_x": -15,
+    "offset_y": -23,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -11,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5300000000000005,
+    "offset_x": -52,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://pbs.twimg.com/media/D5v3XAzUIAE1gWi.jpg",
+  "md5": "3B04CA2D052C0B0B980298D8326A3E19",
+  "tags": [
+    "Star Wars",
+    "DarthVader",
+    "DarkLord",
+    "Darkness",
+    "Medieval"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -353,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -174,
+    "offset_y": -78,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -174,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

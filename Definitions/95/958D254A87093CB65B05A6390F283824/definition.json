@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/40/2a/e5/402ae5e07e6dab230a8e2d7b3c87c577.jpg",
+  "md5": "958D254A87093CB65B05A6390F283824",
+  "tags": [
+    "cat",
+    "ninja",
+    "female",
+    "anime"
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -100,
+    "offset_y": -61,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -63,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4200000000000004,
+    "offset_x": -40,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

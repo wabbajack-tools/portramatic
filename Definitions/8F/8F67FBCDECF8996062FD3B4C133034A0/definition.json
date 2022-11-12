@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/1e/df/f8/1edff8d7dd2e6b402e99d9c76bdfb22e.jpg",
+  "md5": "8F67FBCDECF8996062FD3B4C133034A0",
+  "tags": [
+    "monk",
+    "ninja",
+    "female",
+    "samuria",
+    "red hair"
+  ],
+  "small": {
+    "scale": 0.98,
+    "offset_x": -135,
+    "offset_y": -111,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -48,
+    "offset_y": -23,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5400000000000005,
+    "offset_x": -90,
+    "offset_y": -32,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

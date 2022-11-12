@@ -1,0 +1,31 @@
+{
+  "source": "https://dungeonsmaster.com/wp-content/uploads/2014/03/bard-1.jpg",
+  "md5": "F0232A3A55D9B142FE80BDE2C0FDEBEC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -32,
+    "offset_y": -9,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2300000000000002,
+    "offset_x": -15,
+    "offset_y": -23,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.649999999999987,
+    "offset_x": -4,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Ainz.Ooal.Gown.full.3733969.jpg",
+  "md5": "6CE542A7A1289B87EDDF6253BB8EC97F",
+  "tags": [
+    "Overlord"
+  ],
+  "small": {
+    "scale": 0.4399999999999995,
+    "offset_x": -3,
+    "offset_y": -17,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.22999999999999932,
+    "offset_x": -1,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7499999999999998,
+    "offset_x": 210,
+    "offset_y": 216,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

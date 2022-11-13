@@ -1,0 +1,31 @@
+{
+  "source": "https://www.scabard.com/user/Valkrist/image/Halfling.jpg",
+  "md5": "D791D80A1B3993FC11713A89209E2D5E",
+  "tags": [
+    "halfling"
+  ],
+  "small": {
+    "scale": 1.7200000000000006,
+    "offset_x": -433.99999999999994,
+    "offset_y": -59.599999999999966,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9199999999999999,
+    "offset_x": -122,
+    "offset_y": -6.199999999999989,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": -2.7685185185184764,
+    "offset_y": -3.5833333333333712,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

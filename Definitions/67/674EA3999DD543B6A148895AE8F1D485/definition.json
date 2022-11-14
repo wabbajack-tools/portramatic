@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/ff/bf/ee/ffbfee511c290636b3b65d8c2150795b.jpg",
+  "md5": "674EA3999DD543B6A148895AE8F1D485",
+  "tags": [
+    "female",
+    "wizard",
+    "elf",
+    "human"
+  ],
+  "small": {
+    "scale": 0.7599999999999998,
+    "offset_x": -112,
+    "offset_y": -24,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -77,
+    "offset_y": -29,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7500000000000007,
+    "offset_x": -124,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

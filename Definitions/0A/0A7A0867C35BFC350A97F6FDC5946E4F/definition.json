@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/d30jauxj69931.jpg",
+  "md5": "0A7A0867C35BFC350A97F6FDC5946E4F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.18999999999999928,
+    "offset_x": -245,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.27999999999999947,
+    "offset_x": -311,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.4599999999999991,
+    "offset_x": -392,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

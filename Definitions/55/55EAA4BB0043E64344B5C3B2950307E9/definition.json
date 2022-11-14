@@ -1,0 +1,31 @@
+{
+  "source": "https://preview.redd.it/duaavc3zpdd91.jpg?width=640&crop=smart&auto=webp&s=c344faf65fb5daacfac00167d8b7253afb8742b0",
+  "md5": "55EAA4BB0043E64344B5C3B2950307E9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.5000000000000004,
+    "offset_x": -434,
+    "offset_y": -130,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -167,
+    "offset_y": -48,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.08,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

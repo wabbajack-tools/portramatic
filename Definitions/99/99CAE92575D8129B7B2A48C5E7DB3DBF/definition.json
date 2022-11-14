@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/1f/b2/ed/1fb2ed24658cb5d758d61f58e6f961fc.jpg",
+  "md5": "99CAE92575D8129B7B2A48C5E7DB3DBF",
+  "tags": [
+    "warrior",
+    "barbarian",
+    "strider"
+  ],
+  "small": {
+    "scale": 1.2100000000000002,
+    "offset_x": -125.79999999999984,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2600000000000002,
+    "offset_x": -41.00000000000006,
+    "offset_y": -7.199999999999932,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.649999999999987,
+    "offset_x": -53.21296296296259,
+    "offset_y": -11.259259259259238,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

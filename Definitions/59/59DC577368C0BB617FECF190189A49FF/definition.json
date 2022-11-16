@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/a9/ef/c6/a9efc69f6863cce3de17a049d7bea3b2.jpg",
+  "md5": "59DC577368C0BB617FECF190189A49FF",
+  "tags": [
+    "Cavalier",
+    "Male",
+    "Armor"
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -131.99999999999997,
+    "offset_y": -35.19999999999999,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -11.200000000000045,
+    "offset_y": -4.800000000000068,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3500000000000003,
+    "offset_x": -33.638888888889824,
+    "offset_y": -6.407407407407163,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

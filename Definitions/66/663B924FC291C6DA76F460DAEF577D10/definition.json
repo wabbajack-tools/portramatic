@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/kg56l3mt37v91.jpg",
+  "md5": "663B924FC291C6DA76F460DAEF577D10",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2000000000000002,
+    "offset_x": -514.3999999999976,
+    "offset_y": -143.99999999999955,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -214.4000000000002,
+    "offset_y": -44.00000000000014,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -33.638888888889824,
+    "offset_y": -25.629629629630017,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

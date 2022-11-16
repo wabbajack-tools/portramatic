@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/MGI3hrw.jpeg",
+  "md5": "0AC7002141E5C755C63E1359C251D89D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.8100000000000007,
+    "offset_x": -277.59999999999843,
+    "offset_y": -243.1999999999996,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2400000000000002,
+    "offset_x": -99.20000000000022,
+    "offset_y": -144,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1900000000000002,
+    "offset_x": -20.824074074074815,
+    "offset_y": -99.31481481481524,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

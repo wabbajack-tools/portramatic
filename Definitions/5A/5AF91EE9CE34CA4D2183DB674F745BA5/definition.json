@@ -1,0 +1,31 @@
+{
+  "source": "https://kanka-user-assets.s3.eu-central-1.amazonaws.com/races/5e6c3080eee5e_aa1fd0ad19d6d67fb32c7b7d5b0c2ad0.png",
+  "md5": "5AF91EE9CE34CA4D2183DB674F745BA5",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1300000000000001,
+    "offset_x": -247,
+    "offset_y": -39,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2800000000000002,
+    "offset_x": -214,
+    "offset_y": -59,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": 12,
+    "offset_y": -48,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

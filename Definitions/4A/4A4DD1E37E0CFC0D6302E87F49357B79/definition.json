@@ -1,0 +1,32 @@
+{
+  "source": "https://pbs.twimg.com/media/FOO6VUlVgAIUgq6?format=jpg&name=large",
+  "md5": "4A4DD1E37E0CFC0D6302E87F49357B79",
+  "tags": [
+    "caster",
+    "male"
+  ],
+  "small": {
+    "scale": 0.35999999999999943,
+    "offset_x": -48,
+    "offset_y": -32,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3299999999999994,
+    "offset_x": -15,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5399999999999996,
+    "offset_x": -16,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

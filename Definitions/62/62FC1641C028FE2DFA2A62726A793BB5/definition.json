@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/originals/c4/7b/70/c47b7077c3618709da5a806321d69268.jpg",
+  "md5": "62FC1641C028FE2DFA2A62726A793BB5",
+  "tags": [
+    "male",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -130,
+    "offset_y": -75,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5699999999999996,
+    "offset_x": -42,
+    "offset_y": -67,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.99,
+    "offset_x": -6,
+    "offset_y": -58,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

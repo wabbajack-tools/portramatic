@@ -1,0 +1,31 @@
+{
+  "source": "https://inkarnate-api-as-production.s3.amazonaws.com/0bkybmo13phioy8zzucap9a2ot3n",
+  "md5": "D1BB1BF8BD74724867B5F8DEA02DC7A8",
+  "tags": [
+    "bard"
+  ],
+  "small": {
+    "scale": 0.9400000000000004,
+    "offset_x": -183.99999999999997,
+    "offset_y": -6.400000000000034,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -15.199999999999989,
+    "offset_y": -1.599999999999966,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2200000000000037,
+    "offset_x": -8.009259259258215,
+    "offset_y": -8.009259259259352,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

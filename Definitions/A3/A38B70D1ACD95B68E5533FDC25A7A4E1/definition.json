@@ -1,0 +1,31 @@
+{
+  "source": "http://www.ex-astris-scientia.org/database/guinan/guinan-intheory.jpg",
+  "md5": "A38B70D1ACD95B68E5533FDC25A7A4E1",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4299999999999995,
+    "offset_x": -183.5,
+    "offset_y": -79.5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4299999999999995,
+    "offset_x": -95,
+    "offset_y": -5.5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.97,
+    "offset_x": -265,
+    "offset_y": -11,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

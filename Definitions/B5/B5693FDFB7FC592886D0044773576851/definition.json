@@ -1,0 +1,32 @@
+{
+  "source": "https://wiki.dfo-world.com/images/1/1d/SwordGodPortrait.png",
+  "md5": "B5693FDFB7FC592886D0044773576851",
+  "tags": [
+    "male",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.7899999999999998,
+    "offset_x": -252,
+    "offset_y": -33,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -115,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -106,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

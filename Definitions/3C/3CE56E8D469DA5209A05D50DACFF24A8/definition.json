@@ -1,0 +1,31 @@
+{
+  "source": "https://www.ex-astris-scientia.org/gallery/unknown/sisko-s7.jpg",
+  "md5": "3CE56E8D469DA5209A05D50DACFF24A8",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.47999999999999954,
+    "offset_x": -140.5,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -87,
+    "offset_y": -11.5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.98,
+    "offset_x": -129,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

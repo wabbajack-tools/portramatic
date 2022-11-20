@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/64/23/65/6423656d56e32f518fa8f2ef49206927.jpg",
+  "md5": "7EE699A4D58C1257C861C6B6980CDBA3",
+  "tags": [
+    "warrior",
+    "ogre",
+    "tiefling"
+  ],
+  "small": {
+    "scale": 1.4200000000000004,
+    "offset_x": -203,
+    "offset_y": -30,
+    "size": "small",
+    "rotation": 0.019999999999999997
+  },
+  "medium": {
+    "scale": 1.1500000000000001,
+    "offset_x": -142,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4900000000000004,
+    "offset_x": -40,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

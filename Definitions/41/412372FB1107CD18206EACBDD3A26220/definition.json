@@ -1,0 +1,31 @@
+{
+  "source": "https://pbs.twimg.com/media/Elpk4cXXYAMxVz6?format=jpg&name=large",
+  "md5": "412372FB1107CD18206EACBDD3A26220",
+  "tags": [
+    "berserk"
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -540,
+    "offset_y": -44,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -187,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -74,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

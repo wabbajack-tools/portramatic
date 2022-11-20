@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/02ArcAq.jpeg",
+  "md5": "C781374C9B5A8B8110C9E590631A3158",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.5200000000000005,
+    "offset_x": -423.19999999999857,
+    "offset_y": -80.00000000000006,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -80.80000000000001,
+    "offset_y": -5.599999999999852,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.07,
+    "offset_x": -22.425925925925867,
+    "offset_y": -3.203703703703468,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

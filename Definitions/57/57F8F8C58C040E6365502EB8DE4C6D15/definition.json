@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/Mic2veN.jpg",
+  "md5": "57F8F8C58C040E6365502EB8DE4C6D15",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3499999999999994,
+    "offset_x": -55,
+    "offset_y": -29,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -52,
+    "offset_y": -19,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.05,
+    "offset_x": -142,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

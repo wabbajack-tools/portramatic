@@ -1,0 +1,31 @@
+{
+  "source": "https://www.hollywoodchicago.com/sites/default/files/brutallegend.jpg",
+  "md5": "2BA74E4A3E52C0590F04A763031B40C4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3200000000000003,
+    "offset_x": -442.6666666666666,
+    "offset_y": -115.33333333333329,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -222.66666666666669,
+    "offset_y": -71.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2800000000000002,
+    "offset_x": -44,
+    "offset_y": -14.666666666666629,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

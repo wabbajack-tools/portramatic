@@ -1,0 +1,33 @@
+{
+  "source": "https://static.wikia.nocookie.net/warhammerfb/images/5/51/IronbreakerArmyBook.png/revision/latest?cb=20190503141857",
+  "md5": "9CB97E113566A80487BD545EED724912",
+  "tags": [
+    "dwarf",
+    "fighter",
+    "ironbreaker"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -149,
+    "offset_y": -59,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -17,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6000000000000005,
+    "offset_x": 0,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/sDpCcOa.jpg",
+  "md5": "5B6CDB393F92CDC7D985F7F9A19CE75C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -169,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -29,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7100000000000006,
+    "offset_x": -2,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

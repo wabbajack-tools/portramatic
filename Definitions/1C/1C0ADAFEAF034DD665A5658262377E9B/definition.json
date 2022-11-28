@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.amazonaws.com/files.d20.io/marketplace/324370/zcta6k21Iwfxdftkr9NbDg/max.jpg?1495049960&1497910560",
+  "md5": "1C0ADAFEAF034DD665A5658262377E9B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -366.83333333333337,
+    "offset_y": -229.83333333333331,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7499999999999998,
+    "offset_x": -113.50000000000006,
+    "offset_y": -140.66666666666663,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -123.66666666666674,
+    "offset_y": -151.33333333333343,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

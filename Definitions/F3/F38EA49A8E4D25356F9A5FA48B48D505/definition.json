@@ -1,0 +1,36 @@
+{
+  "source": "https://pbs.twimg.com/media/DTrRPu_VwAEBwo5.jpg",
+  "md5": "F38EA49A8E4D25356F9A5FA48B48D505",
+  "tags": [
+    "",
+    "rogue",
+    "character",
+    "halfling",
+    "male",
+    "portraits"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -225,
+    "offset_y": -204,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7599999999999998,
+    "offset_x": -42,
+    "offset_y": -123,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0099999999999958,
+    "offset_x": -12,
+    "offset_y": -106,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

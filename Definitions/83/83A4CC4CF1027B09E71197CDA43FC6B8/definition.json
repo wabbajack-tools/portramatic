@@ -1,0 +1,35 @@
+{
+  "source": "https://cdn.midjourney.com/8f620412-0a7b-4127-9094-cbe31f44e624/grid_0.png",
+  "md5": "83A4CC4CF1027B09E71197CDA43FC6B8",
+  "tags": [
+    "human",
+    "mage",
+    "male",
+    "dark",
+    "1"
+  ],
+  "small": {
+    "scale": 0.4199999999999995,
+    "offset_x": -250,
+    "offset_y": -173,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3499999999999994,
+    "offset_x": -126,
+    "offset_y": -128,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.4299999999999995,
+    "offset_x": -16,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

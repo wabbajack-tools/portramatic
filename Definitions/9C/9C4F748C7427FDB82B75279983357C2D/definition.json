@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/40/d1/85/40d1856e5c38126a40a5be4db07e853d.jpg",
+  "md5": "9C4F748C7427FDB82B75279983357C2D",
+  "tags": [
+    "Thunder",
+    "Hammer",
+    "Silver"
+  ],
+  "small": {
+    "scale": 1.3700000000000003,
+    "offset_x": -384,
+    "offset_y": -121,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -97,
+    "offset_y": -61,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6500000000000006,
+    "offset_x": -200,
+    "offset_y": -62,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

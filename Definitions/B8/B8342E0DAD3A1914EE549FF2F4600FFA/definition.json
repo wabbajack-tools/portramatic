@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/34/80/b3/3480b3190232d036932a78cfb206e5ae.jpg",
+  "md5": "B8342E0DAD3A1914EE549FF2F4600FFA",
+  "tags": [
+    "Barbarian",
+    "Axe",
+    "King"
+  ],
+  "small": {
+    "scale": 1.06,
+    "offset_x": -177,
+    "offset_y": -72,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -81,
+    "offset_y": -68,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7200000000000006,
+    "offset_x": -104,
+    "offset_y": -90,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

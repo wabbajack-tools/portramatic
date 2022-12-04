@@ -1,0 +1,31 @@
+{
+  "source": "https://images.pushsquare.com/18c1d4b4abd2d/1280x720.jpg",
+  "md5": "FF72C2D35A4E1C198443A061461038CE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.0399999999999996,
+    "offset_x": -141,
+    "offset_y": -220,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7799999999999998,
+    "offset_x": -56,
+    "offset_y": -143,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8200000000000007,
+    "offset_x": -150,
+    "offset_y": -318,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

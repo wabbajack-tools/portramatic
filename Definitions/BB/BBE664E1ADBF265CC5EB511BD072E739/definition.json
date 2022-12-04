@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/KE9tGeW.png",
+  "md5": "BBE664E1ADBF265CC5EB511BD072E739",
+  "tags": [
+    "orc"
+  ],
+  "small": {
+    "scale": 1.3600000000000003,
+    "offset_x": -469,
+    "offset_y": -125,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2500000000000002,
+    "offset_x": -335,
+    "offset_y": -116,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

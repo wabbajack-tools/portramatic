@@ -1,0 +1,35 @@
+{
+  "source": "https://i.imgur.com/49msKTF.jpg",
+  "md5": "A420990DEADDE8F0F94EAE40373D44A4",
+  "tags": [
+    "female",
+    "human",
+    "barbarian",
+    "savage",
+    "nsfw"
+  ],
+  "small": {
+    "scale": 0.49999999999999956,
+    "offset_x": -46,
+    "offset_y": -76,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5799999999999996,
+    "offset_x": -28,
+    "offset_y": -62,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.98,
+    "offset_x": -90,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

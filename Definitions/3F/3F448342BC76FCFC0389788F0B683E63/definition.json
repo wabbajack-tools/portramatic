@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/wgske446l1771.jpg",
+  "md5": "3F448342BC76FCFC0389788F0B683E63",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.26999999999999935,
+    "offset_x": -46.66666666666666,
+    "offset_y": -37.333333333333314,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3099999999999994,
+    "offset_x": -1.333333333333428,
+    "offset_y": -62.666666666666686,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6699999999999997,
+    "offset_x": -2.6666666666662877,
+    "offset_y": -17.333333333333258,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

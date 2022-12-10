@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/19/f0/a6/19f0a659b023581126cc6327e07c69c5.jpg",
+  "md5": "804C8F1BA17939EDDC532F8148FBB204",
+  "tags": [
+    "skyrim",
+    "magus",
+    "build"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -236,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1400000000000001,
+    "offset_x": -192,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3600000000000003,
+    "offset_x": -90,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

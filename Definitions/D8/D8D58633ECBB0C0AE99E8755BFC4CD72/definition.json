@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/rfmj6v5637i71.jpg",
+  "md5": "D8D58633ECBB0C0AE99E8755BFC4CD72",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -443,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -289,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1500000000000001,
+    "offset_x": -282,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

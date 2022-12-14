@@ -1,0 +1,32 @@
+{
+  "source": "https://i.redd.it/25rtxlsy9e251.jpg",
+  "md5": "A6B42964087E80BB5496AC39C852150E",
+  "tags": [
+    "human",
+    "male"
+  ],
+  "small": {
+    "scale": 0.6899999999999997,
+    "offset_x": -162,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -57,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2700000000000002,
+    "offset_x": -108,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://konachan.net/sample/27c427a0cc09cb111f817ebca535c320/Konachan.com%20-%20310894%20sample.jpg",
+  "md5": "85ADFD2A5BDA08EF373D6D32D55FED16",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -697,
+    "offset_y": -106,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -555,
+    "offset_y": -70,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8799999999999999,
+    "offset_x": -308,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

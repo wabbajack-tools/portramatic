@@ -1,0 +1,31 @@
+{
+  "source": "https://avsick.com/wp-content/uploads/2016/06/sample-d6afe295f2374fe585e3aea57039810d.jpg",
+  "md5": "D2751199FFB60EDFC01D2156C1C01225",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -89,
+    "offset_y": -56,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -40,
+    "offset_y": -59,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

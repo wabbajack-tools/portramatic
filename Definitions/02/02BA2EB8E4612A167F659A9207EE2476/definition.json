@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f0/92/77/f09277bb1cb7ecae1272765588655208.jpg",
+  "md5": "02BA2EB8E4612A167F659A9207EE2476",
+  "tags": [
+    "Skeleton",
+    "Warrior",
+    "Dual WIeld"
+  ],
+  "small": {
+    "scale": 1.2800000000000002,
+    "offset_x": -287,
+    "offset_y": -84,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -136,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4200000000000004,
+    "offset_x": -42,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

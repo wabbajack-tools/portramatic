@@ -1,0 +1,31 @@
+{
+  "source": "https://www.coolstuffinc.com/s3_image.php?img=http://s3.gatheringmagic.com/uploads/2014/05/28/MJ_1.jpg",
+  "md5": "037C9C452667B53C3D1093415320458C",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -276.0000000000002,
+    "offset_y": -13.999999999999773,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -152.6666666666664,
+    "offset_y": -10.666666666666856,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.9900000000000009,
+    "offset_x": -430.66666666666697,
+    "offset_y": -4.000000000000398,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

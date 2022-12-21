@@ -1,0 +1,34 @@
+{
+  "source": "https://i.redd.it/ed2t9dr4srm81.jpg",
+  "md5": "4D7C1510ACD29B1797C02150D11EB5D5",
+  "tags": [
+    "female",
+    "tiefling",
+    "meteorite",
+    "artofjoenni"
+  ],
+  "small": {
+    "scale": 0.23999999999999932,
+    "offset_x": -114.66666666666669,
+    "offset_y": -44.666666666666686,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3499999999999994,
+    "offset_x": -121.6666666666668,
+    "offset_y": -78.33333333333346,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5899999999999996,
+    "offset_x": -147.33333333333326,
+    "offset_y": -164.66666666666686,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

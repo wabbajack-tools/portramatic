@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/295655236939546625/1055704884600643655/4be7165aadd42b4f4cc79fea97cc1693.jpg",
+  "md5": "D2F7DDB55AD1913B25256E7E60426F5F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.26999999999999935,
+    "offset_x": -7.999999999999943,
+    "offset_y": -9.333333333333428,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -6,
+    "offset_y": -10.666666666666657,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -10.666666666666742,
+    "offset_y": -11.999999999999773,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

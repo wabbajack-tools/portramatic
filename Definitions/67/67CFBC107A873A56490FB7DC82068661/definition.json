@@ -1,0 +1,31 @@
+{
+  "source": "https://i.playground.ru/i/pix/2396826/image.jpg",
+  "md5": "67CFBC107A873A56490FB7DC82068661",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -277.66666666666697,
+    "offset_y": -297.6666666666665,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7499999999999998,
+    "offset_x": -144.99999999999994,
+    "offset_y": -214.33333333333343,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9099999999999988,
+    "offset_x": -50.6666666666672,
+    "offset_y": -13.33333333333377,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

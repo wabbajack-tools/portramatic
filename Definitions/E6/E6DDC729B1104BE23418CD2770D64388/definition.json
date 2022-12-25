@@ -1,0 +1,34 @@
+{
+  "source": "https://i.redd.it/fr83ffr0c6m91.png",
+  "md5": "E6DDC729B1104BE23418CD2770D64388",
+  "tags": [
+    "kitsune",
+    "white",
+    "spellblade",
+    "magus"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -1010,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -867,
+    "offset_y": -84,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -738,
+    "offset_y": -22,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

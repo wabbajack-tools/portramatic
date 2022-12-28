@@ -1,0 +1,36 @@
+{
+  "source": "https://static.wikia.nocookie.net/eldrillion/images/6/6a/Elf_male.jpg/revision/latest/scale-to-width-down/540?cb=20200601181506",
+  "md5": "ABE9D2782C34B0CD29BB0AA090005BCD",
+  "tags": [
+    "",
+    "male",
+    "wood",
+    "elf",
+    "druid",
+    "concept"
+  ],
+  "small": {
+    "scale": 0.5699999999999996,
+    "offset_x": -44,
+    "offset_y": -41,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -1,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3700000000000003,
+    "offset_x": -4,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

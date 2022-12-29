@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/upw62ghtfp8a1.jpg",
+  "md5": "318C650B094F963FE35F322E9CA4C7A4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7299999999999998,
+    "offset_x": -149,
+    "offset_y": -37,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7499999999999998,
+    "offset_x": -85,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2000000000000002,
+    "offset_x": -62,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

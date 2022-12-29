@@ -1,0 +1,33 @@
+{
+  "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f5739f63721333.5c02ee458dd9a.jpg",
+  "md5": "38F386B1036DD07F28CAB05039346141",
+  "tags": [
+    "kitsune",
+    "fox",
+    "female"
+  ],
+  "small": {
+    "scale": 1.5400000000000005,
+    "offset_x": -929,
+    "offset_y": -377,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.97,
+    "offset_x": -437,
+    "offset_y": -190,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7699999999999998,
+    "offset_x": -164,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

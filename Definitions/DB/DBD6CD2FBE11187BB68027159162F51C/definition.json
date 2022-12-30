@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/F0czkNC.jpg",
+  "md5": "DBD6CD2FBE11187BB68027159162F51C",
+  "tags": [
+    "ginger male human"
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -32,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -62,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.0100000000000007,
+    "offset_x": -176,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

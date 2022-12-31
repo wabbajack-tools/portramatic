@@ -1,0 +1,33 @@
+{
+  "source": "https://i.redd.it/mpmvezmjlgg31.jpg",
+  "md5": "CF47970270BF86C43B18CE5ED3AB1426",
+  "tags": [
+    "orc",
+    "half-orc",
+    "female"
+  ],
+  "small": {
+    "scale": 1.5900000000000005,
+    "offset_x": -337,
+    "offset_y": -25,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2800000000000002,
+    "offset_x": -174,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5600000000000005,
+    "offset_x": -56,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,34 @@
+{
+  "source": "https://i.imgur.com/Q93VmTb.jpg",
+  "md5": "FEB518514552667153FE43FE53F1085E",
+  "tags": [
+    "Dueling sword",
+    "human",
+    "male",
+    "unarmored"
+  ],
+  "small": {
+    "scale": 1.04,
+    "offset_x": -451,
+    "offset_y": -59,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7299999999999998,
+    "offset_x": -202,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6600000000000006,
+    "offset_x": -462,
+    "offset_y": -36,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

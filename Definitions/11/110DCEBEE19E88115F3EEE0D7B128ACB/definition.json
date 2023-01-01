@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/g3n4xv6ew51a1.jpg",
+  "md5": "110DCEBEE19E88115F3EEE0D7B128ACB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3200000000000003,
+    "offset_x": -523.1999999999996,
+    "offset_y": -14.399999999999864,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -210.40000000000032,
+    "offset_y": -7.200000000000102,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9099999999999999,
+    "offset_x": -80.09259259259193,
+    "offset_y": -8.009259259259238,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

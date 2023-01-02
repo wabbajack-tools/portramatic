@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/D9sXedCVAAAb_Hd?format=jpg&name=900x900",
+  "md5": "1033E4B5C9486604B70E483C07B8EDDB",
+  "tags": [
+    "kitsune",
+    "fox",
+    "fire"
+  ],
+  "small": {
+    "scale": 1.1300000000000001,
+    "offset_x": -258,
+    "offset_y": -97,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9099999999999999,
+    "offset_x": -81,
+    "offset_y": -76,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6000000000000005,
+    "offset_x": -130,
+    "offset_y": -134,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

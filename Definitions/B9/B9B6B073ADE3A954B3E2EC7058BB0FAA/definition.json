@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Aeolian.full.2280322.jpg",
+  "md5": "B9B6B073ADE3A954B3E2EC7058BB0FAA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -155,
+    "offset_y": -19,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4199999999999995,
+    "offset_x": -171,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8499999999999999,
+    "offset_x": -342,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

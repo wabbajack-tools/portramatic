@@ -1,0 +1,31 @@
+{
+  "source": "https://nodebb.cityofarabel.com/assets/uploads/files/1609128771836-9b8453604f6898e6642591cf727302d9.jpg",
+  "md5": "42F58704763572CAB9C54520BCF7B3BB",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.38999999999999946,
+    "offset_x": -12,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -10,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4800000000000004,
+    "offset_x": -46,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

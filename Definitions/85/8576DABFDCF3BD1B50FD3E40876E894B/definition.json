@@ -1,0 +1,31 @@
+{
+  "source": "https://jigidi-images.s3.amazonaws.com/puzzles/7029J1N0BRYCA95J.jpg",
+  "md5": "8576DABFDCF3BD1B50FD3E40876E894B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6199999999999997,
+    "offset_x": -143,
+    "offset_y": -47,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5199999999999996,
+    "offset_x": -42,
+    "offset_y": -9,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1600000000000001,
+    "offset_x": -90,
+    "offset_y": -42,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://preview.redd.it/32vofkuhdro51.jpg?width=640&crop=smart&auto=webp&s=65a8de7787f7f15ece210c5b53497971ffc62f65",
+  "md5": "6352DE3C43F0706FD822C0CAC1CE1F09",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3099999999999994,
+    "offset_x": -8.666666666666686,
+    "offset_y": -3.3333333333333144,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -14,
+    "offset_y": -2.6666666666666856,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2900000000000003,
+    "offset_x": -109.33333333333348,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

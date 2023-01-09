@@ -1,0 +1,35 @@
+{
+  "source": "https://static.wikia.nocookie.net/forgottenrealms/images/7/7d/Human_male_druid_NWN.jpg/revision/latest?cb=20220413021753",
+  "md5": "5CC49F00413FC4C2F9F1A224CE0885D4",
+  "tags": [
+    "green",
+    "male",
+    "human",
+    "druid",
+    "mage"
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -65,
+    "offset_y": -14,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7899999999999998,
+    "offset_x": -68,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -4,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

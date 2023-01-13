@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/QwfwnBx.jpg",
+  "md5": "CB1AD3ED5DF4064CE06FD937238708B3",
+  "tags": [
+    "druid"
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -264,
+    "offset_y": -64,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -172,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3300000000000003,
+    "offset_x": -36,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

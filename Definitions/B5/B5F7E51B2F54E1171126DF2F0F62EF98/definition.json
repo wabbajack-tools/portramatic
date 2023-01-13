@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/9F3EFs3.jpg",
+  "md5": "B5F7E51B2F54E1171126DF2F0F62EF98",
+  "tags": [
+    "elf",
+    "assassin"
+  ],
+  "small": {
+    "scale": 0.8599999999999999,
+    "offset_x": -110,
+    "offset_y": -125,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.94,
+    "offset_x": -99,
+    "offset_y": -82,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6700000000000006,
+    "offset_x": -146,
+    "offset_y": -90,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

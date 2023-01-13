@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/3KxZl90.jpg",
+  "md5": "F7B63B39A37B47CDD0CED718F51C6A33",
+  "tags": [
+    "orc",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.7599999999999998,
+    "offset_x": -117,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8099999999999998,
+    "offset_x": -78,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -12,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

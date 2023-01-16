@@ -1,0 +1,35 @@
+{
+  "source": "https://www.keiththompsonart.com/images/full/weeper.jpg",
+  "md5": "30D30AF508FCC942A67799E7A7922A4C",
+  "tags": [
+    "female",
+    "demon",
+    "cenobite",
+    "hellraiser",
+    "evil"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": -279.6666666666665,
+    "offset_y": -61.66666666666663,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -165.66666666666657,
+    "offset_y": -68.33333333333326,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2200000000000002,
+    "offset_x": -143.3333333333337,
+    "offset_y": -101.33333333333303,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

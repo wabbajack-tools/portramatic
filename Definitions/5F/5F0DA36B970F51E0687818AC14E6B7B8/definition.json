@@ -1,0 +1,34 @@
+{
+  "source": "https://i.redd.it/cvz5f3enm4f61.jpg",
+  "md5": "5F0DA36B970F51E0687818AC14E6B7B8",
+  "tags": [
+    "Monk",
+    "Genasi",
+    "Fire",
+    "Dark Skin"
+  ],
+  "small": {
+    "scale": 0.27999999999999936,
+    "offset_x": -610.6666666666702,
+    "offset_y": -277.3333333333325,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.14999999999999944,
+    "offset_x": -198.66666666666674,
+    "offset_y": -148.00000000000014,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.20999999999999935,
+    "offset_x": -165.33333333333326,
+    "offset_y": -155.9999999999999,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

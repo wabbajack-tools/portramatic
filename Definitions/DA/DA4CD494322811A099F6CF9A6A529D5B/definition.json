@@ -1,0 +1,35 @@
+{
+  "source": "https://www.keiththompsonart.com/images/full/chatterer.jpg",
+  "md5": "DA4CD494322811A099F6CF9A6A529D5B",
+  "tags": [
+    "female",
+    "demon",
+    "cenobite",
+    "hellraiser",
+    "evil"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": -301.6666666666665,
+    "offset_y": -50.333333333333314,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -163.66666666666657,
+    "offset_y": -44.999999999999886,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.11,
+    "offset_x": -116.66666666666674,
+    "offset_y": -58.66666666666657,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

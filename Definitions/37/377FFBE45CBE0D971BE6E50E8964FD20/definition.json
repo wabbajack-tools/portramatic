@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/mohtbxyoxpm71.jpg",
+  "md5": "377FFBE45CBE0D971BE6E50E8964FD20",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.17999999999999927,
+    "offset_x": 13.333333333333343,
+    "offset_y": -4.666666666666686,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3299999999999994,
+    "offset_x": 25.333333333333314,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7799999999999998,
+    "offset_x": 10.666666666666515,
+    "offset_y": -32,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

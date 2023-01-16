@@ -1,0 +1,35 @@
+{
+  "source": "https://www.keiththompsonart.com/images/full/asphyx.jpg",
+  "md5": "ADF12318DF69DB9C6FD8CE537970043A",
+  "tags": [
+    "female",
+    "demon",
+    "cenobite",
+    "hellraiser",
+    "evil"
+  ],
+  "small": {
+    "scale": 0.9199999999999999,
+    "offset_x": -242.33333333333326,
+    "offset_y": -81.66666666666663,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -165.66666666666657,
+    "offset_y": -68.33333333333326,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2200000000000002,
+    "offset_x": -110.00000000000023,
+    "offset_y": -117.33333333333303,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://www.keiththompsonart.com/images/full/masque.jpg",
+  "md5": "506B7FBBE08EFDCBA0D09CCC0A9E3D8F",
+  "tags": [
+    "female",
+    "demon",
+    "cenobite",
+    "hellraiser",
+    "evil"
+  ],
+  "small": {
+    "scale": 0.8999999999999999,
+    "offset_x": -291.66666666666663,
+    "offset_y": -91.66666666666663,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -146.33333333333331,
+    "offset_y": -76.33333333333326,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2200000000000002,
+    "offset_x": -110.00000000000023,
+    "offset_y": -117.33333333333303,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://upload.wikimedia.org/wikipedia/en/b/b0/Tiefling_rangersm.JPG",
+  "md5": "325DFE078E2D55379803069121D24DBC",
+  "tags": [
+    "male"
+  ],
+  "small": {
+    "scale": 0.3099999999999994,
+    "offset_x": -166,
+    "offset_y": -3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3499999999999994,
+    "offset_x": -98,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5999999999999996,
+    "offset_x": -110,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

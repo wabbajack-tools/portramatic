@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/originals/68/de/f3/68def3d394b224a4195ac8ed14f9bfae.jpg",
+  "md5": "4AC5A205E9EC4479D219741ABC7DB80A",
+  "tags": [
+    "elven",
+    "witch"
+  ],
+  "small": {
+    "scale": 0.15999999999999925,
+    "offset_x": -6,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.27999999999999936,
+    "offset_x": -9,
+    "offset_y": -14,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5499999999999996,
+    "offset_x": -20,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

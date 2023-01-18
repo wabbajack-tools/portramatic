@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/46/f7/05/46f7053a6a454a945dd7822616737988.jpg",
+  "md5": "ACD9CDAC090E348D63462B3A5F9AEB86",
+  "tags": [
+    "Samedi"
+  ],
+  "small": {
+    "scale": 0.4099999999999995,
+    "offset_x": -21.999999999999787,
+    "offset_y": -12.666666666666487,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -5.333333333333371,
+    "offset_y": -2.6666666666666856,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -10.666666666667197,
+    "offset_y": -5.333333333333371,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

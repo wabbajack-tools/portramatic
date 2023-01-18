@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/51/a1/7c/51a17c1c9c88b6c1d2aacd9f00e9a456.jpg",
+  "md5": "8CFE973B9DF1A3A283E2E3A150C51DFC",
+  "tags": [
+    "Jaetahl"
+  ],
+  "small": {
+    "scale": 1.3000000000000003,
+    "offset_x": -299,
+    "offset_y": -47,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2300000000000002,
+    "offset_x": -200,
+    "offset_y": -42,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4600000000000004,
+    "offset_x": -86,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

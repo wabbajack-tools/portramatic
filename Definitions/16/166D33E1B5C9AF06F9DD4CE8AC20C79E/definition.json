@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2017/12/29/00/45/cat-3046523__340.jpg",
+  "md5": "166D33E1B5C9AF06F9DD4CE8AC20C79E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -201,
+    "offset_y": -75,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -128,
+    "offset_y": 27,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 94,
+    "offset_y": 324,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

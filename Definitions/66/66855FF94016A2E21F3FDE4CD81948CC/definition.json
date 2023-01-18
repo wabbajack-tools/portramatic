@@ -1,0 +1,40 @@
+{
+  "source": "https://i.pinimg.com/originals/3a/bd/c4/3abdc4c263f50ea7d970c69f452e844c.jpg",
+  "md5": "66855FF94016A2E21F3FDE4CD81948CC",
+  "tags": [
+    "halfling",
+    "girl",
+    "woman",
+    "female",
+    "cleric",
+    "wizard",
+    "druid",
+    "mage",
+    "magic",
+    "small"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -488,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -231,
+    "offset_y": -80,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8099999999999998,
+    "offset_x": -66,
+    "offset_y": -58,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

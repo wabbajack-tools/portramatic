@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2015/10/11/10/56/lines-982141_960_720.jpg",
+  "md5": "AC60041D81C42844C1D6F5836105EF58",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -107,
+    "offset_y": -164,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -40,
+    "offset_y": -97,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -112,
+    "offset_y": 160,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

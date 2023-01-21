@@ -1,0 +1,31 @@
+{
+  "source": "https://rickriordan.com/content/uploads/2017/09/gunilla.jpg",
+  "md5": "E0F0274CE52036E5DCB4DFF27A4A3D5A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5099999999999996,
+    "offset_x": -185,
+    "offset_y": -40,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.28999999999999937,
+    "offset_x": -9,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5899999999999996,
+    "offset_x": -2,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

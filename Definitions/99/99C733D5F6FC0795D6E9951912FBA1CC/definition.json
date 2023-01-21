@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/550x/7c/6f/b5/7c6fb5ad2d365e424da2565e6e244fab.jpg",
+  "md5": "99C733D5F6FC0795D6E9951912FBA1CC",
+  "tags": [
+    "female",
+    "sword"
+  ],
+  "small": {
+    "scale": 1.2800000000000002,
+    "offset_x": -191,
+    "offset_y": -142,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.03,
+    "offset_x": -68,
+    "offset_y": -112,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3700000000000003,
+    "offset_x": -6,
+    "offset_y": -112,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

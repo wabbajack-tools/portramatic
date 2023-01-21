@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.midjourney.com/7dbe7d1d-b0fd-4c77-b3e5-bccd31111bc4/grid_0.png",
+  "md5": "7A30B640754E1D7AA07DA81F4421EA7E",
+  "tags": [
+    "Fire",
+    "leather",
+    "red head"
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -213,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5199999999999996,
+    "offset_x": -146,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.02,
+    "offset_x": -214,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

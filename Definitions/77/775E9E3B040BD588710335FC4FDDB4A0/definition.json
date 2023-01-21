@@ -1,0 +1,31 @@
+{
+  "source": "https://www.ictsecuritymagazine.com/wp-content/uploads/CTF-Necromancer.jpg",
+  "md5": "775E9E3B040BD588710335FC4FDDB4A0",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -398,
+    "offset_y": -131,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -324,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2600000000000002,
+    "offset_x": -256,
+    "offset_y": 50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.midjourney.com/bb42d7df-ae9b-46db-8462-257c1b2c0be0/grid_0.png",
+  "md5": "525272D9D55D45695C1A85A4FFEFB37D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6499999999999997,
+    "offset_x": -254,
+    "offset_y": -18,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -155,
+    "offset_y": -9,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -240,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

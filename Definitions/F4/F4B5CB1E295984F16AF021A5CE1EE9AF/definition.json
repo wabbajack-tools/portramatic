@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.midjourney.com/acbeadfa-ec1a-4f1f-a718-c325c428c8dd/grid_0.png",
+  "md5": "F4B5CB1E295984F16AF021A5CE1EE9AF",
+  "tags": [
+    "noble"
+  ],
+  "small": {
+    "scale": 0.4399999999999995,
+    "offset_x": -139,
+    "offset_y": -14,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": -67,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -172,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

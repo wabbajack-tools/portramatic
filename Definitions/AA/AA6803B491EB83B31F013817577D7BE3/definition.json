@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f2/2d/ee/f22dee34b5dc2bb8ab26bd17ea8aff7a.jpg",
+  "md5": "AA6803B491EB83B31F013817577D7BE3",
+  "tags": [
+    "male",
+    "dhampir",
+    "gothic"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -109,
+    "offset_y": -29,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -48,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5500000000000005,
+    "offset_x": -4,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

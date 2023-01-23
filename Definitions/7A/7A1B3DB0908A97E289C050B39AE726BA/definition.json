@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/crpgTig.jpeg",
+  "md5": "7A1B3DB0908A97E289C050B39AE726BA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1500000000000001,
+    "offset_x": -334,
+    "offset_y": -102,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -209,
+    "offset_y": -58,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": -14,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

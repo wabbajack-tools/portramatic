@@ -1,0 +1,35 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/976997370132848640/1067096222193680384/DarkbloodDragon_a_young_male_human_with_a_beard_long_messy_blon_acd8086b-b4d6-4ef9-9dc4-b9acd0842d58.png",
+  "md5": "AF166C8ACAB47D1853C9029393EFC58B",
+  "tags": [
+    "human",
+    "dragon",
+    "hunter",
+    "blonde",
+    "beard"
+  ],
+  "small": {
+    "scale": 0.11999999999999923,
+    "offset_x": -6,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2199999999999993,
+    "offset_x": -5,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5099999999999996,
+    "offset_x": -28,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

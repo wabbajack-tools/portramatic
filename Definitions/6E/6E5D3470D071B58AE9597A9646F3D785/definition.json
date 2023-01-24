@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/74/5c/93/745c9341f1b9d5052080355df47096a8.png",
+  "md5": "6E5D3470D071B58AE9597A9646F3D785",
+  "tags": [
+    "male",
+    "dwarf",
+    "fighter",
+    "glaive"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -299,
+    "offset_y": -84,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -127,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.9000000000000008,
+    "offset_x": -342,
+    "offset_y": -36,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

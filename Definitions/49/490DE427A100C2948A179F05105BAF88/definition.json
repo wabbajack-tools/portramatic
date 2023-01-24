@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.midjourney.com/a729b2db-f576-4085-81c2-8132444e16b2/grid_0.png",
+  "md5": "490DE427A100C2948A179F05105BAF88",
+  "tags": [
+    "mage"
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -217,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -147,
+    "offset_y": -55,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -150,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

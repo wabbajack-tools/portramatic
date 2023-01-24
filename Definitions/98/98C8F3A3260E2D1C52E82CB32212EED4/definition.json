@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/ba/d5/05/bad5050bccc6e7b07cb8bb5b9265f5b9.png",
+  "md5": "98C8F3A3260E2D1C52E82CB32212EED4",
+  "tags": [
+    "Male",
+    "Half-Orc",
+    "Fighter"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -163,
+    "offset_y": -117,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -101,
+    "offset_y": -43,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4500000000000004,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/736x/97/4f/45/974f459fb0e18a835c137b0e872936a5.jpg",
+  "md5": "B6D039DAC55BC7B7AC5BD980889C1C04",
+  "tags": [
+    "female",
+    "elf",
+    "ninja",
+    "thief",
+    "rogue"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -251,
+    "offset_y": -31,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -169,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

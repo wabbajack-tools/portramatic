@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.midjourney.com/9a432d84-fa94-4775-9da7-a59614b0168f/grid_0.png",
+  "md5": "B03403A2D562B9EF06358337DDCF7B3F",
+  "tags": [
+    "Cleric",
+    "warrior",
+    "Paladin"
+  ],
+  "small": {
+    "scale": 0.8399999999999999,
+    "offset_x": -374,
+    "offset_y": -50,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -206,
+    "offset_y": -54,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -116,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

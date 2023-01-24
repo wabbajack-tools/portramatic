@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.midjourney.com/4e28f698-1cf9-4ec4-9015-2a3934da8c68/grid_0.png",
+  "md5": "B01A75E26E80BC989B78A23A4D594AB3",
+  "tags": [
+    "Fighter",
+    "great sword",
+    "barbarian"
+  ],
+  "small": {
+    "scale": 0.6499999999999997,
+    "offset_x": -267,
+    "offset_y": -25,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6999999999999997,
+    "offset_x": -225,
+    "offset_y": -40,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -212,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

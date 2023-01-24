@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.midjourney.com/97d1d5a1-ba2f-4f44-b72f-d9f37906736e/grid_0.png",
+  "md5": "828DCFF9DE13CEE22C63583674A01D56",
+  "tags": [
+    "Mage"
+  ],
+  "small": {
+    "scale": 0.6799999999999997,
+    "offset_x": -264,
+    "offset_y": -43,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -202,
+    "offset_y": -66,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -158,
+    "offset_y": 2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

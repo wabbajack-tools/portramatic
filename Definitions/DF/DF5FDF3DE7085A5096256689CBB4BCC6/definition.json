@@ -1,0 +1,35 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1004913945938755654/1067472575753617478/Steve_Biegun_fantasy_full-body_portrait_of_a_rogue_wearing_gold_5d34505b-2924-4c1b-adf3-511eda9b07dd.png",
+  "md5": "DF5FDF3DE7085A5096256689CBB4BCC6",
+  "tags": [
+    "rogue",
+    "enchanted weapon",
+    "alley",
+    "male",
+    "human"
+  ],
+  "small": {
+    "scale": 1.3000000000000003,
+    "offset_x": -584.3333333333333,
+    "offset_y": -119.99999999999989,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7899999999999998,
+    "offset_x": -250.33333333333337,
+    "offset_y": -68.66666666666663,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0499999999999976,
+    "offset_x": -178.66666666666697,
+    "offset_y": -10.666666666666288,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

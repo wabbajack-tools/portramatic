@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.midjourney.com/66986975-93ea-4770-ada9-907922731a31/grid_0.png",
+  "md5": "46CEDE98FDEEEDEB9BB1A977EDA4F07C",
+  "tags": [
+    "Fighter",
+    "great sword",
+    "berseker"
+  ],
+  "small": {
+    "scale": 0.6499999999999997,
+    "offset_x": -248,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -245,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -166,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

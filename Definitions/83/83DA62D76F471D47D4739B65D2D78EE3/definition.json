@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/p77iduj2pht91.jpg",
+  "md5": "83DA62D76F471D47D4739B65D2D78EE3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.23091666666666688,
+    "offset_x": -201.60000000000355,
+    "offset_y": -138.3999999999969,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2350833333333323,
+    "offset_x": -119.19999999999993,
+    "offset_y": -82.60000000000008,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.35233333333333294,
+    "offset_x": -115.17592592592518,
+    "offset_y": -105.21296296296316,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

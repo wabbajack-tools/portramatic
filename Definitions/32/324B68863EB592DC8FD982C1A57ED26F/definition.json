@@ -1,0 +1,39 @@
+{
+  "source": "https://i.redd.it/o2xj8qd3av951.png",
+  "md5": "324B68863EB592DC8FD982C1A57ED26F",
+  "tags": [
+    "Elf",
+    "drow",
+    "dark elf",
+    "knight",
+    "fighter",
+    "evil",
+    "chaotic",
+    "armor",
+    "female"
+  ],
+  "small": {
+    "scale": 0.23999999999999932,
+    "offset_x": -57,
+    "offset_y": -68,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.26999999999999935,
+    "offset_x": -5,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6099999999999997,
+    "offset_x": -16,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

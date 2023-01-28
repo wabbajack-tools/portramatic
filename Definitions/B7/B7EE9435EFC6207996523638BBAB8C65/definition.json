@@ -1,0 +1,37 @@
+{
+  "source": "https://64.media.tumblr.com/2ccca702dd83f41e8539f02661adcc8a/tumblr_ovvi2d03qe1sazby5o1_1280.jpg",
+  "md5": "B7EE9435EFC6207996523638BBAB8C65",
+  "tags": [
+    "mounted",
+    "knight",
+    "female",
+    "armor",
+    "sword",
+    "helmet",
+    "horse"
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -135,
+    "offset_y": -25,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -122,
+    "offset_y": -35.5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.94,
+    "offset_x": -103,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

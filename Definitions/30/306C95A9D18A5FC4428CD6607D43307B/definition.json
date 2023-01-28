@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/originals/4f/b3/81/4fb3812d293fe0a8d40565c97b6b48a3.jpg",
+  "md5": "306C95A9D18A5FC4428CD6607D43307B",
+  "tags": [
+    "male",
+    "halfling",
+    "oracle",
+    "thief",
+    "rogue"
+  ],
+  "small": {
+    "scale": 0.6999999999999997,
+    "offset_x": -165,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7799999999999998,
+    "offset_x": -112,
+    "offset_y": -38,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2100000000000002,
+    "offset_x": -80,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

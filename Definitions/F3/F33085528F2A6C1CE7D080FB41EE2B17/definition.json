@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/Fne5pfHaEAEx9kt?format=jpg&name=large",
+  "md5": "F33085528F2A6C1CE7D080FB41EE2B17",
+  "tags": [
+    "elf",
+    "sorcerer",
+    "mage"
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -138,
+    "offset_y": -53,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.47999999999999954,
+    "offset_x": -74,
+    "offset_y": -55,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7599999999999998,
+    "offset_x": -46,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

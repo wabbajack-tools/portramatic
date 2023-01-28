@@ -1,0 +1,37 @@
+{
+  "source": "https://64.media.tumblr.com/ed4ab3091ff6202c20152d6d73fe603a/tumblr_p7k6qd325K1wdsyp4o1_1280.jpg",
+  "md5": "0A3D3556C906715F370B9607737568B9",
+  "tags": [
+    "female",
+    "fighter",
+    "mage",
+    "armor",
+    "sword",
+    "spellsword",
+    "magus"
+  ],
+  "small": {
+    "scale": 1.1,
+    "offset_x": -267,
+    "offset_y": -157.5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -178,
+    "offset_y": -146,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1700000000000002,
+    "offset_x": -18,
+    "offset_y": -121,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

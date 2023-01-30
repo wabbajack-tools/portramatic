@@ -1,0 +1,31 @@
+{
+  "source": "https://critical-notes.s3.amazonaws.com/migrated/abf984b4eed4416495096017735eb97b.jpg",
+  "md5": "4E3D35CF5FC152F9638065C5C23B9C0A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.09999999999999931,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

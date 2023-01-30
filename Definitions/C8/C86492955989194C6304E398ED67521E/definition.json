@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/pk9te7ayno441.jpg",
+  "md5": "C86492955989194C6304E398ED67521E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.1999999999999993,
+    "offset_x": -118,
+    "offset_y": -67,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2199999999999993,
+    "offset_x": -44,
+    "offset_y": -28,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.49999999999999956,
+    "offset_x": -116,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

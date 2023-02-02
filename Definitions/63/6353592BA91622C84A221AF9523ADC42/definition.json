@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/18/04/4b/18044b056121e7f034e993b0da55376d.jpg",
+  "md5": "6353592BA91622C84A221AF9523ADC42",
+  "tags": [
+    "tiefling",
+    "female",
+    "kineticist"
+  ],
+  "small": {
+    "scale": 0.7199999999999998,
+    "offset_x": -46,
+    "offset_y": -37,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -2,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.9700000000000009,
+    "offset_x": -112,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

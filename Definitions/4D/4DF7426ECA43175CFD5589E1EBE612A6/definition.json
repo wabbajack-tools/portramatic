@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/74/e8/01/74e801a7e96d44b8ddf9116df9585062.jpg",
+  "md5": "4DF7426ECA43175CFD5589E1EBE612A6",
+  "tags": [
+    "black",
+    "bearded",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -229.5,
+    "offset_y": -56,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -105.5,
+    "offset_y": -35,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2000000000000002,
+    "offset_x": -33,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

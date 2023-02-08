@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/438764637417242634/1072692519172845598/IMG_5045.png",
+  "md5": "7CC8137B5BFE0AAEBF268DB83038C55E",
+  "tags": [
+    "female",
+    "archer",
+    "aasimar"
+  ],
+  "small": {
+    "scale": 0.7799999999999998,
+    "offset_x": -276,
+    "offset_y": -395,
+    "size": "small",
+    "rotation": 0.15
+  },
+  "medium": {
+    "scale": 0.5899999999999996,
+    "offset_x": -194,
+    "offset_y": -204,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6299999999999997,
+    "offset_x": -10,
+    "offset_y": -1,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

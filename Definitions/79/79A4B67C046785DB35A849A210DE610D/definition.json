@@ -1,0 +1,31 @@
+{
+  "source": "https://image.film.at/images/cfs_landscape_1864w_1049h/2571544/dr-strange.jpg",
+  "md5": "79A4B67C046785DB35A849A210DE610D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -299.99999999999875,
+    "offset_y": -3.4285714285714164,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.35999999999999943,
+    "offset_x": -59.9999999999996,
+    "offset_y": 5.684341886080802e-14,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6699999999999997,
+    "offset_x": -369.1428571428569,
+    "offset_y": -1.142857142857224,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

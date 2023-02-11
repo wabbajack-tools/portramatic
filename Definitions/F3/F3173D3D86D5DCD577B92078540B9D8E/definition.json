@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f9/5e/e1/f95ee1d497de5fd0033f74c2922bd9c8.jpg",
+  "md5": "F3173D3D86D5DCD577B92078540B9D8E",
+  "tags": [
+    "half-elf",
+    "wizard",
+    "necromancer"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -171,
+    "offset_y": -45,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -87,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.9700000000000009,
+    "offset_x": -168,
+    "offset_y": -60,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

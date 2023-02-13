@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=C:/Users/Aaron/Desktop/stable-diffusion-webui-master/outputs/txt2img-images/2023-02-13/00654-482200126.png",
+  "md5": "4A33E53C4958A4645CC24517EC87B09A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -243,
+    "offset_y": -58,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -63,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.1099999999999985,
+    "offset_x": -200,
+    "offset_y": -48,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

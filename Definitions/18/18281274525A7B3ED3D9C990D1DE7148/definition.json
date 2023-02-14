@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/60/19/e7/6019e76a1e24cfe09526233a11c690b7.png",
+  "md5": "18281274525A7B3ED3D9C990D1DE7148",
+  "tags": [
+    "orc",
+    "fighter",
+    "falchion"
+  ],
+  "small": {
+    "scale": 1.600000000000001,
+    "offset_x": -338,
+    "offset_y": -55,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.0500000000000005,
+    "offset_x": -118,
+    "offset_y": -32,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1400000000000003,
+    "offset_x": -72,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

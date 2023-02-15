@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/214442740258308096/1075329690262306908/8c93137586976d0e5e561288bbf5a0f8.png",
+  "md5": "068496845715C7EACFE6B49935E1C4D3",
+  "tags": [
+    "male",
+    "elf",
+    "wizard"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -151,
+    "offset_y": -68,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -55,
+    "offset_y": -41,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2700000000000002,
+    "offset_x": -1,
+    "offset_y": -11,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

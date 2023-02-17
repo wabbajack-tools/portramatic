@@ -1,0 +1,32 @@
+{
+  "source": "https://w.wallhaven.cc/full/lm/wallhaven-lmrxml.jpg",
+  "md5": "DC4DAD35EE6003C04FBDB260466921CB",
+  "tags": [
+    "TMNT",
+    "Donatello"
+  ],
+  "small": {
+    "scale": 0.46999999999999953,
+    "offset_x": -556,
+    "offset_y": -71,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -441,
+    "offset_y": -68,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": -622,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

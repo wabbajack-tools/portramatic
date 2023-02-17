@@ -1,0 +1,31 @@
+{
+  "source": "http://i.imgur.com/m17Kups.jpg",
+  "md5": "1CABBE46EEFAC13EF57C4DF020327738",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.07999999999999942,
+    "offset_x": -6,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.13999999999999926,
+    "offset_x": -10.666666666666686,
+    "offset_y": -10.666666666666742,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.3299999999999994,
+    "offset_x": -80.00000000000023,
+    "offset_y": -70.66666666666652,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

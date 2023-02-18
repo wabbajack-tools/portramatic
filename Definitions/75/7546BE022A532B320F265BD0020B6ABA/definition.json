@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.midjourney.com/95fb4e12-671b-48e9-8d8c-211dde7bacf9/grid_0.png",
+  "md5": "7546BE022A532B320F265BD0020B6ABA",
+  "tags": [
+    "alchemist female red hair redhead"
+  ],
+  "small": {
+    "scale": 0.39999999999999947,
+    "offset_x": -99,
+    "offset_y": -7,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6399999999999997,
+    "offset_x": -151,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -236,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

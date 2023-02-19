@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/4yuqmaug573a1.jpg",
+  "md5": "40F59D9584964444C48FAF48994A815B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.37999999999999945,
+    "offset_x": -524,
+    "offset_y": -244,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.19999999999999937,
+    "offset_x": -177,
+    "offset_y": -108,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.2199999999999993,
+    "offset_x": -14,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

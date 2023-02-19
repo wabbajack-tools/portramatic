@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.midjourney.com/b627de63-df3e-4cc2-81b8-e4a1e4f99f3b/grid_0.png",
+  "md5": "4558FEB9EA0E314A92E5A7225CDA7060",
+  "tags": [
+    "wizard cleric"
+  ],
+  "small": {
+    "scale": 0.4099999999999995,
+    "offset_x": -130,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -139,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -200,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/bqPTtcN.jpeg",
+  "md5": "FA98C2E75965BA1442EE2344FF91D0C5",
+  "tags": [
+    "dhampir",
+    "executioner",
+    "slayer"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -234,
+    "offset_y": -137,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -163,
+    "offset_y": -136,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -12,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

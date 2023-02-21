@@ -1,0 +1,31 @@
+{
+  "source": "https://lexica-serve-encoded-images2.sharif.workers.dev/full_jpg/af0fc805-dfb8-4a78-af71-859283f9f596",
+  "md5": "DC7A89C607A8EFC3E7188E32C84BCFDD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.22999999999999932,
+    "offset_x": -152,
+    "offset_y": -107,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.16999999999999926,
+    "offset_x": -8,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.39999999999999947,
+    "offset_x": -44,
+    "offset_y": -62,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

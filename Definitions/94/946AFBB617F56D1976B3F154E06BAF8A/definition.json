@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/07/14/9b/07149b5f2d0e2e479b7c86041d42a99a.jpg",
+  "md5": "946AFBB617F56D1976B3F154E06BAF8A",
+  "tags": [
+    "katana",
+    "human"
+  ],
+  "small": {
+    "scale": 1.2600000000000002,
+    "offset_x": -256.0000000000001,
+    "offset_y": -170.66666666666666,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -106.00000000000006,
+    "offset_y": -79.99999999999989,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6200000000000006,
+    "offset_x": -98.66666666666652,
+    "offset_y": -176,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

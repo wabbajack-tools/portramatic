@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1042192175892545596/1080255807213535293/loona.jpg",
+  "md5": "822133F546EDB9018600943419D17596",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.29999999999999943,
+    "offset_x": -323.9999999999999,
+    "offset_y": -88.00000000000011,
+    "size": "small",
+    "rotation": -0.09999999999999999
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -461.5999999999997,
+    "offset_y": -175.20000000000005,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5099999999999996,
+    "offset_x": -270.71296296296237,
+    "offset_y": -262.7037037037036,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

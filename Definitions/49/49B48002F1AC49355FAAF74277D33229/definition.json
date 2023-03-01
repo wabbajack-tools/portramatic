@@ -1,0 +1,31 @@
+{
+  "source": "https://store.playstation.com/store/api/chihiro/00_09_000/container/AR/es/99/UP1023-CUSA07718_00-AV00000000000270/0/image?_version=00_09_000&platform=chihiro&bg_color=000000&opacity=100&w=720&h=720",
+  "md5": "49B48002F1AC49355FAAF74277D33229",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3499999999999994,
+    "offset_x": -26,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -242,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 3.0899999999999777,
+    "offset_x": -34,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

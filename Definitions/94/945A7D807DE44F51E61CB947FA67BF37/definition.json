@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/gmKXvuo.jpeg",
+  "md5": "945A7D807DE44F51E61CB947FA67BF37",
+  "tags": [
+    "Dwarf",
+    "Male",
+    "Fighter"
+  ],
+  "small": {
+    "scale": 0.17999999999999933,
+    "offset_x": -172,
+    "offset_y": -99,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.1799999999999993,
+    "offset_x": -94,
+    "offset_y": -66,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.26999999999999935,
+    "offset_x": -28,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

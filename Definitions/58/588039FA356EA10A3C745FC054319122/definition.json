@@ -1,0 +1,31 @@
+{
+  "source": "http://www.dndadventure.com/wp-content/uploads/2017/03/vampire-720x675.jpg",
+  "md5": "588039FA356EA10A3C745FC054319122",
+  "tags": [
+    "vampire"
+  ],
+  "small": {
+    "scale": 0.37999999999999945,
+    "offset_x": -17,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6399999999999997,
+    "offset_x": -5,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5300000000000005,
+    "offset_x": -64,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

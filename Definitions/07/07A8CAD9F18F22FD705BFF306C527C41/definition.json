@@ -1,0 +1,31 @@
+{
+  "source": "https://www.giantbomb.com/a/uploads/scale_medium/0/5128/187498-jeane.jpg",
+  "md5": "07A8CAD9F18F22FD705BFF306C527C41",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.6300000000000006,
+    "offset_x": -579,
+    "offset_y": -167,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -276,
+    "offset_y": -52,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.12,
+    "offset_x": -44,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

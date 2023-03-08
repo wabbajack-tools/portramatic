@@ -1,0 +1,35 @@
+{
+  "source": "https://i.imgur.com/1E4jFlA.jpeg",
+  "md5": "F5D3AE5DF6F5883527BBC7F4DBDDAD1F",
+  "tags": [
+    "elf",
+    "dark elf",
+    "knight",
+    "cold one",
+    "warhammer"
+  ],
+  "small": {
+    "scale": 0.9200000000000002,
+    "offset_x": -136.33333333333275,
+    "offset_y": -121.88888888888889,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -142.77777777777794,
+    "offset_y": -87.66666666666677,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5300000000000005,
+    "offset_x": -18.037703513282622,
+    "offset_y": -9.33504712939066,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

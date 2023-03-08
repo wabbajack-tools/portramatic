@@ -1,0 +1,36 @@
+{
+  "source": "https://static.wikia.nocookie.net/warhammerfb/images/a/aa/Warhammer_Silver_Helm.png/revision/latest?cb=20161209001520",
+  "md5": "DF63ABF01420C1BC79EE06E691128CFF",
+  "tags": [
+    "male",
+    "elf",
+    "high elf",
+    "warhammer",
+    "silver helm",
+    "knight"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": -222.40000000000055,
+    "offset_y": -33.400000000000034,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -102.59999999999991,
+    "offset_y": 0.3999999999996362,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3800000000000003,
+    "offset_x": -8.000000000000114,
+    "offset_y": 0.7999999999998693,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

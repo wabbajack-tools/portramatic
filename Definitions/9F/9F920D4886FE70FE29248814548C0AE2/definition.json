@@ -1,0 +1,31 @@
+{
+  "source": "https://inkarnate-api-as-production.s3.amazonaws.com/HTc25yS42crkfcsL41cYCA",
+  "md5": "9F920D4886FE70FE29248814548C0AE2",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.14999999999999925,
+    "offset_x": -75,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.22999999999999932,
+    "offset_x": -87,
+    "offset_y": -29,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5199999999999996,
+    "offset_x": -226,
+    "offset_y": -30,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

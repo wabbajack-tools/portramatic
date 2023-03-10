@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/a37wst17mcu91.jpg",
+  "md5": "7B3F06C0F575BB38C9CAD8EC8C0C1E46",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -265,
+    "offset_y": -31,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.35999999999999943,
+    "offset_x": -49,
+    "offset_y": -19,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7199999999999998,
+    "offset_x": -92,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

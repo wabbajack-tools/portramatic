@@ -1,0 +1,34 @@
+{
+  "source": "https://pbs.twimg.com/media/EZWb4gUWoAAkao3?format=jpg&name=large",
+  "md5": "1F7429FFC7AECA4443B6434956FD446A",
+  "tags": [
+    "half",
+    "elf",
+    "warlock",
+    "male"
+  ],
+  "small": {
+    "scale": 0.35999999999999943,
+    "offset_x": -108,
+    "offset_y": -6,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3399999999999994,
+    "offset_x": -30,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5999999999999996,
+    "offset_x": -6,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

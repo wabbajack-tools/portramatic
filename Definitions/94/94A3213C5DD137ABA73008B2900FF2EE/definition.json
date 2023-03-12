@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1084328793436602458/Malaroch_a_human_female_monk_DD_monk_character_art_portrait_c60b393d-021f-4fdf-9d85-9bdbe736ae1d.png",
+  "md5": "94A3213C5DD137ABA73008B2900FF2EE",
+  "tags": [
+    "Human",
+    "female",
+    "cloth"
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -77,
+    "offset_y": -7,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -115,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -186,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

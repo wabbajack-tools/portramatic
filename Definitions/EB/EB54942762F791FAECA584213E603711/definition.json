@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1084300589283938445/Malaroch_a_dwarven_guardian_DD_character_art_portrait_c6b4e42b-ab17-492d-bd73-086e959c83fc.png",
+  "md5": "EB54942762F791FAECA584213E603711",
+  "tags": [
+    "Dwarf",
+    "Male",
+    "Miner"
+  ],
+  "small": {
+    "scale": 0.38999999999999946,
+    "offset_x": -100,
+    "offset_y": -28,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -90,
+    "offset_y": -16,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -126,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

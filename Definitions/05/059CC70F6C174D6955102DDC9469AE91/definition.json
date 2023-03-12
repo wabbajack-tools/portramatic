@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1079255080949268610/Malaroch_DD_character_art_portrait_male_bearded_soldier_1cd119d0-85b6-4e22-b828-776e17aaf573.png",
+  "md5": "059CC70F6C174D6955102DDC9469AE91",
+  "tags": [
+    "Human",
+    "Male",
+    "Rogue"
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -77,
+    "offset_y": -6,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -79,
+    "offset_y": -15,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -190,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

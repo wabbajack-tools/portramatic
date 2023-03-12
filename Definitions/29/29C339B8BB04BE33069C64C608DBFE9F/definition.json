@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/originals/a0/5c/5f/a05c5f296d50f83a8166882dac0d26fb.png",
+  "md5": "29C339B8BB04BE33069C64C608DBFE9F",
+  "tags": [
+    "female",
+    "elf",
+    "half-elf",
+    "rogue",
+    "mage",
+    "urban"
+  ],
+  "small": {
+    "scale": 0.7299999999999998,
+    "offset_x": -299,
+    "offset_y": -63,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -226,
+    "offset_y": -70,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7099999999999997,
+    "offset_x": -16,
+    "offset_y": -88,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

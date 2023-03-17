@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1086423088478044210/Malaroch_a_proud_knight_helmeted_armored_fantasy_DD_character_a_8a3eb88f-2484-4c82-8975-2007e315024d.png",
+  "md5": "E6035332C4A044DAA243939E20F0424F",
+  "tags": [
+    "Human",
+    "Male",
+    "Knight"
+  ],
+  "small": {
+    "scale": 0.4499999999999995,
+    "offset_x": -170,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7799999999999998,
+    "offset_x": -297,
+    "offset_y": -9,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -266,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

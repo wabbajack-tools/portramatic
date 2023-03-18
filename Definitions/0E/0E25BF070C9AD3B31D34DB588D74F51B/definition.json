@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/puppet-master/images/a/a9/Cyclops.png/revision/latest?cb=20200209234003",
+  "md5": "0E25BF070C9AD3B31D34DB588D74F51B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -94,
+    "offset_y": -7,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -35,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.0100000000000007,
+    "offset_x": -66,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

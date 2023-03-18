@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/puppet-master/images/d/d5/MephPuppet.png/revision/latest?cb=20171017223105",
+  "md5": "3728360E2481B7DD90A38A8DDA72284B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -42,
+    "offset_y": 1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.07,
+    "offset_x": 16,
+    "offset_y": 1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.549999999999989,
+    "offset_x": -4,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

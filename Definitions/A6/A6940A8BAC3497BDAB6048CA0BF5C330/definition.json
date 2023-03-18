@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/puppet-master/images/c/cd/CrimsonViper92Adon.png/revision/latest?cb=20200131225629",
+  "md5": "A6940A8BAC3497BDAB6048CA0BF5C330",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -30,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": 17,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8900000000000008,
+    "offset_x": 98,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

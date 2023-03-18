@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/puppet-master/images/0/00/TotemBowl.png/revision/latest?cb=20150402220355",
+  "md5": "F2E94876C55045114D40098A57D93AF5",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -66,
+    "offset_y": -6,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -51,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.0100000000000007,
+    "offset_x": -144,
+    "offset_y": -46,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

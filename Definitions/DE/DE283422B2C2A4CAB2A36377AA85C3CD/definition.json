@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1087010944963592253/Malaroch_a_wraith_guarding_a_graveyard_fantasy_haunting_noble_d_1b942a3c-920e-4873-9f44-38423529108c.png",
+  "md5": "DE283422B2C2A4CAB2A36377AA85C3CD",
+  "tags": [
+    "Undead",
+    "Skeleton",
+    "Moon"
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -750,
+    "offset_y": -39,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -573,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -290,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

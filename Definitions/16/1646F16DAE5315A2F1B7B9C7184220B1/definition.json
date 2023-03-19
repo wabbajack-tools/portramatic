@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1087014589167841351/Malaroch_a_male_slayer_in_a_forest_hunter_fantasy_DD_character__744c6d1e-42a9-47c4-ad05-d5e6f0112b1a.png",
+  "md5": "1646F16DAE5315A2F1B7B9C7184220B1",
+  "tags": [
+    "Male",
+    "Half Elf",
+    "Hunter"
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -433,
+    "offset_y": -51,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -320,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -168,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

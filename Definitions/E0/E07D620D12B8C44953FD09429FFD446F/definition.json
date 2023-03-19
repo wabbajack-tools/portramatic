@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/puppet-master/images/b/b2/CrimsonViper92_Pumper.png/revision/latest?cb=20181122162244",
+  "md5": "E07D620D12B8C44953FD09429FFD446F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -166,
+    "offset_y": 3,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -37,
+    "offset_y": 40,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.4399999999999915,
+    "offset_x": -152,
+    "offset_y": 82,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

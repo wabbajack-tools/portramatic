@@ -1,0 +1,31 @@
+{
+  "source": "https://static.wikia.nocookie.net/puppet-master/images/9/9f/Mech.png/revision/latest?cb=20180819005108",
+  "md5": "14B2BF40FE8D65FB3E9B0820EEC894FC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -156,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -75,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.4399999999999915,
+    "offset_x": -246,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

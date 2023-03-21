@@ -1,0 +1,31 @@
+{
+  "source": "https://waifu2x.booru.pics/outfiles/0d8857bfe911c26a7b79187e8b7dd9bb088726a4_s2_n1.jpg",
+  "md5": "CFB9BEBC8E4B671D8307A63861A9437F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.37999999999999945,
+    "offset_x": -104,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -65,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -170,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

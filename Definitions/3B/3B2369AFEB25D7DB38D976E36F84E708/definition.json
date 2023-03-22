@@ -1,0 +1,31 @@
+{
+  "source": "http://www.gubaba.org/mi2/wiki/images/thumb/f/f5/Orc_Warrior_3.jpg/436px-Orc_Warrior_3.jpg",
+  "md5": "3B2369AFEB25D7DB38D976E36F84E708",
+  "tags": [
+    "orc"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -115,
+    "offset_y": -140,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.09,
+    "offset_x": -70,
+    "offset_y": -86,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8100000000000007,
+    "offset_x": -28,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

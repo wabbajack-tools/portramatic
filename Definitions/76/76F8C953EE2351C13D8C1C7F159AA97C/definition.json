@@ -1,0 +1,32 @@
+{
+  "source": "https://gbf.wiki/images/4/4a/0122_00_bg.png",
+  "md5": "76F8C953EE2351C13D8C1C7F159AA97C",
+  "tags": [
+    "Demon",
+    "Male"
+  ],
+  "small": {
+    "scale": 0.6199999999999997,
+    "offset_x": -345.9999999999998,
+    "offset_y": -34.400000000000006,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5699999999999996,
+    "offset_x": -229.59999999999985,
+    "offset_y": -5.600000000000023,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -372.82407407407436,
+    "offset_y": -7.23148148148141,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

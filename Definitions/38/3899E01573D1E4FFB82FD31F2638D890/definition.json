@@ -1,0 +1,31 @@
+{
+  "source": "https://www.worldanvil.com/uploads/images/3a4431381cf88252c5bc068bd222d84c.jpg",
+  "md5": "3899E01573D1E4FFB82FD31F2638D890",
+  "tags": [
+    "Olgried"
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -121,
+    "offset_y": -148,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -86,
+    "offset_y": -28,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 90,
+    "offset_y": 32,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

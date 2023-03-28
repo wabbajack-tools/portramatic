@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/thteefu56eka1.jpg",
+  "md5": "989E6C00C609AB527C35461982E3B01E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.19999999999999962,
+    "offset_x": -361,
+    "offset_y": -84,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.1499999999999997,
+    "offset_x": -163,
+    "offset_y": -27,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.25999999999999945,
+    "offset_x": -162,
+    "offset_y": -56,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

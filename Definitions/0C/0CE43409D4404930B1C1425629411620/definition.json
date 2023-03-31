@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-03-31/00941-full_body,_a_digital_painting_of_a_male_mage_in_his_30s_with_white_hair_and_(glowing_eyes_1.2)_in_a_fantasy_setting,_(fantasy_se.png",
+  "md5": "0CE43409D4404930B1C1425629411620",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3399999999999994,
+    "offset_x": -90.79999999999995,
+    "offset_y": -12.000000000000057,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4399999999999995,
+    "offset_x": -70.80000000000018,
+    "offset_y": -10.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -13.611111111110858,
+    "offset_y": -6.842592592593064,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

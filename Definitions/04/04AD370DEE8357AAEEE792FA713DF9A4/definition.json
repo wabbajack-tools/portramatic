@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-03-31/00924-full_body,_a_digital_painting_of_a_male_mage_in_his_40s_with_white_hair_and_glowing_eyes_in_a_fantasy_setting,_(flaming_village_.png",
+  "md5": "04AD370DEE8357AAEEE792FA713DF9A4",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -170.79999999999995,
+    "offset_y": -37.00000000000006,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -96.80000000000018,
+    "offset_y": -16.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7599999999999998,
+    "offset_x": -45.61111111111086,
+    "offset_y": -2.842592592593064,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

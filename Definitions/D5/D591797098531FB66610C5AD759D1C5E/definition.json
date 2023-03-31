@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-03-31/00029-very_complex_hyper-maximalist_overdetailed_cinematic_tribal_darkfantasy_portrait_of_a_(Powerful_mage_in_his_40s_with_white_hair_.png",
+  "md5": "D591797098531FB66610C5AD759D1C5E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -327.66666666666663,
+    "offset_y": -410,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6999999999999997,
+    "offset_x": -199,
+    "offset_y": -313.99999999999994,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7999999999999998,
+    "offset_x": -72,
+    "offset_y": -244,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

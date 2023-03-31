@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-03-31/01017-(full-length_portrait_1.8),_a_digital_painting_of_a_handsome_young_male_mage_with_white_hair_and_(glowing_eyes_1.3)_in_a_fantasy.png",
+  "md5": "7E275E7D2FEB4EC1932A556D28B35328",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.27999999999999936,
+    "offset_x": -64.79999999999995,
+    "offset_y": -4.000000000000057,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3299999999999994,
+    "offset_x": -22.800000000000182,
+    "offset_y": -5.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7099999999999997,
+    "offset_x": -21.61111111111086,
+    "offset_y": -22.842592592593064,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

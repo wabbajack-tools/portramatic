@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-03-31/00049-A_beautiful_landscape_with_a_powerful_mage_in_his_40s_with_white_hair_and_glowing_eyes_in_a_fantasy_setting._The_mage_is_holding.png",
+  "md5": "1685206E5E9E62C1D1FFD89CAB9BB2C5",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -552.6666666666666,
+    "offset_y": -386,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6499999999999997,
+    "offset_x": -342,
+    "offset_y": -288.99999999999994,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7999999999999998,
+    "offset_x": -258,
+    "offset_y": -238,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

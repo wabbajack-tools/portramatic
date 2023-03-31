@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-03-31/00738-A_digital_painting_of_a_powerful_warior_wizard_in_his_40's_with_white_hair_and_mawhawk_hairstyle_and_trimmed_beard_and_glowing_e.png",
+  "md5": "1E013D468139C0DB0F2AF291BFB3C50E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -380.79999999999995,
+    "offset_y": -58.00000000000006,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -253.80000000000018,
+    "offset_y": -42.400000000000034,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7599999999999998,
+    "offset_x": -233.61111111111086,
+    "offset_y": -12.842592592593064,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

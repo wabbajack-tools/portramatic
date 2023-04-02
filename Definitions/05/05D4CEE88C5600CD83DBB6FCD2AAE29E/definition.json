@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/750x/14/15/3c/14153cbb78412b0db51a725e9dec3298.jpg",
+  "md5": "05D4CEE88C5600CD83DBB6FCD2AAE29E",
+  "tags": [
+    "lone",
+    "knight",
+    "greatsword",
+    "tank"
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -139.2000000000002,
+    "offset_y": -2.400000000000034,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -42.40000000000009,
+    "offset_y": -5.599999999999966,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -12.814814814814781,
+    "offset_y": -6.407407407407277,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

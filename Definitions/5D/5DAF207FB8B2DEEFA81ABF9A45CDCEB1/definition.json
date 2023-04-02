@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/35/12/1d/35121db1330f23060f12d2d4e91a14e1.jpg",
+  "md5": "5DAF207FB8B2DEEFA81ABF9A45CDCEB1",
+  "tags": [
+    "warrior",
+    "fighter",
+    "female",
+    "berserk",
+    "barbarian"
+  ],
+  "small": {
+    "scale": 1.3300000000000003,
+    "offset_x": -208.6666666666796,
+    "offset_y": -57.33333333333334,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.03,
+    "offset_x": -71.66666666666629,
+    "offset_y": -1.3333333333333428,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5200000000000005,
+    "offset_x": -36.00000000000023,
+    "offset_y": -6.6666666666667425,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

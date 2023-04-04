@@ -1,0 +1,31 @@
+{
+  "source": "https://www.simpleimageresizer.com/_uploads/photos/5262666c/peter-ortiz-necro-final2_12_70.jpg",
+  "md5": "4C789B6F2782DD9695252B2CC96234CE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.4400000000000004,
+    "offset_x": -874,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.95,
+    "offset_x": -482,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3300000000000003,
+    "offset_x": -576,
+    "offset_y": 42,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

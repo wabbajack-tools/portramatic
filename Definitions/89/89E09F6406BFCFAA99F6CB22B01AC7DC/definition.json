@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/600x/10/9a/10/109a101dc22daf88e01f97de24336e19.jpg",
+  "md5": "89E09F6406BFCFAA99F6CB22B01AC7DC",
+  "tags": [
+    "loz",
+    "zelda",
+    "link",
+    "elf",
+    "archer"
+  ],
+  "small": {
+    "scale": 0.24999999999999933,
+    "offset_x": -366.8000000000006,
+    "offset_y": 529,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": -1.0900000000000014,
+    "offset_x": -501.60000000000025,
+    "offset_y": 124.20000000000002,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4800000000000004,
+    "offset_x": -103.43518518518454,
+    "offset_y": -11.018518518518476,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

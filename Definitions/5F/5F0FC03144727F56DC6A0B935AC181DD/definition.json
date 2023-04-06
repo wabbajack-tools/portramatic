@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/originals/65/ec/dd/65ecdd51f5fdc45d405e6e2ced869227.jpg",
+  "md5": "5F0FC03144727F56DC6A0B935AC181DD",
+  "tags": [
+    "sword",
+    "shield",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -377.42857142856906,
+    "offset_y": -189.14285714285717,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.8399999999999999,
+    "offset_x": -160.28571428571382,
+    "offset_y": -108.28571428571422,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -121.142857142857,
+    "offset_y": -26.571428571428555,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

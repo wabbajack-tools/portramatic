@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/img2img-images/2023-04-06/00313-very_complex_hyper-maximalist_overdetailed_cinematic_tribal_darkfantasy_portrait_of_a_woman_wearing_(heavy_plate_armor_1.2)_hold.png",
+  "md5": "9FD61E177767390F9119B55AE71D01CD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -491,
+    "offset_y": -120,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6799999999999997,
+    "offset_x": -229,
+    "offset_y": -69,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5799999999999996,
+    "offset_x": -10,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

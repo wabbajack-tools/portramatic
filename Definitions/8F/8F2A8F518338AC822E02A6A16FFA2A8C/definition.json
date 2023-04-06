@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/58/37/10/5837109f72108046ef2ac41994a1ecc2.jpg",
+  "md5": "8F2A8F518338AC822E02A6A16FFA2A8C",
+  "tags": [
+    "female"
+  ],
+  "small": {
+    "scale": 1.7300000000000006,
+    "offset_x": -379,
+    "offset_y": -311,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -110,
+    "offset_y": -114,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

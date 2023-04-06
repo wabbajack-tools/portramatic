@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/img2img-images/2023-04-06/00345-very_complex_hyper-maximalist_overdetailed_cinematic_darkfantasy_portrait_of_an_agile_man_with_a_short_beard_and_white_hair_in_a.png",
+  "md5": "92B7A009EB747ED61B3B2FD5216D61FA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4599999999999995,
+    "offset_x": -210,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -177,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -124,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

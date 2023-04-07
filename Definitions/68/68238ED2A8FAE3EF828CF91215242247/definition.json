@@ -1,0 +1,31 @@
+{
+  "source": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_8.jpg",
+  "md5": "68238ED2A8FAE3EF828CF91215242247",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -339,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8399999999999999,
+    "offset_x": -279,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9299999999999999,
+    "offset_x": -214,
+    "offset_y": 160,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

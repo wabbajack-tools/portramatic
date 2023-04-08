@@ -1,0 +1,33 @@
+{
+  "source": "https://pbs.twimg.com/media/FqNxlIUWAAAzQQG?format=jpg&name=large",
+  "md5": "FEA287F346915AEE62B71DAA1E87F80B",
+  "tags": [
+    "human",
+    "joan",
+    "melee"
+  ],
+  "small": {
+    "scale": 0.4099999999999995,
+    "offset_x": -310.28571428571547,
+    "offset_y": -89.71428571428544,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.35999999999999943,
+    "offset_x": -190.28571428571394,
+    "offset_y": -65.14285714285717,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5399999999999996,
+    "offset_x": -173.71428571428555,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

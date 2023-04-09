@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/32/9b/a4/329ba4fd9ea87d233f2f281ca4c40388.jpg",
+  "md5": "7C6EBACC07A642129287EBB0B8E5D9CD",
+  "tags": [
+    "mine",
+    "half-orc"
+  ],
+  "small": {
+    "scale": 0.7799999999999998,
+    "offset_x": -122,
+    "offset_y": -39,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -42,
+    "offset_y": -15,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5500000000000005,
+    "offset_x": -54,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

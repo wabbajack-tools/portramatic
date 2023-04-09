@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/cf/cc/a9/cfcca9c251fa193bfc30ee045790b3ea.jpg",
+  "md5": "DC0C1F423341F65A0DE33A7FFCE2005A",
+  "tags": [
+    "mine",
+    "human",
+    "half-elf",
+    "druid",
+    "ranger",
+    "mage"
+  ],
+  "small": {
+    "scale": 1.11,
+    "offset_x": -302,
+    "offset_y": -111,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7699999999999998,
+    "offset_x": -69,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3600000000000003,
+    "offset_x": -24,
+    "offset_y": -64,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/74/4f/75/744f75ab5996d456903923ca2a15215c.jpg",
+  "md5": "547274AE517763E1C4B3EEF0A059650F",
+  "tags": [
+    "cat",
+    "black",
+    "catfolk",
+    "rogue"
+  ],
+  "small": {
+    "scale": 0.5899999999999996,
+    "offset_x": -46,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7399999999999998,
+    "offset_x": -38,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -2,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/originals/cb/80/be/cb80be7db902799d42ac12d42ce518ab.jpg",
+  "md5": "B5EE0F50DEAFF03DA2DC90276313C58B",
+  "tags": [
+    "dragon humanoides"
+  ],
+  "small": {
+    "scale": 0.20999999999999935,
+    "offset_x": -270,
+    "offset_y": -8,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.20999999999999933,
+    "offset_x": -210,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.23999999999999932,
+    "offset_x": -62,
+    "offset_y": -22,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

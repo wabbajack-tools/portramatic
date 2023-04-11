@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.pixabay.com/photo/2016/03/23/08/34/woman-1274361_960_720.jpg",
+  "md5": "F31AA2E1A1E9CDECB7C48C47DB86B1E6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -383,
+    "offset_y": -21,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -302,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -104,
+    "offset_y": 76,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

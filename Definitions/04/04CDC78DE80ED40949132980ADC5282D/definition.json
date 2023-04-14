@@ -1,0 +1,39 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/img2img-images/2023-04-14/00050-The_portrait_captures_the_figure_of_a_notorious_rogue_human_male_in_the_Pathfinder__Wrath_of_the_Righteous_campaign._It_is_a_ful.jpg",
+  "md5": "04CDC78DE80ED40949132980ADC5282D",
+  "tags": [
+    "",
+    "mtg",
+    "dark",
+    "zombie",
+    "cards",
+    "black",
+    "angel",
+    "game",
+    "thrones"
+  ],
+  "small": {
+    "scale": 0.47999999999999954,
+    "offset_x": -254,
+    "offset_y": -34,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -214,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6699999999999997,
+    "offset_x": -114,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

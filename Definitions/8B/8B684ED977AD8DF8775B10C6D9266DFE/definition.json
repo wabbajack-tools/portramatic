@@ -1,0 +1,32 @@
+{
+  "source": "https://i.imgur.com/QqqgKaP.png",
+  "md5": "8B684ED977AD8DF8775B10C6D9266DFE",
+  "tags": [
+    "human",
+    "fox"
+  ],
+  "small": {
+    "scale": 1.3400000000000003,
+    "offset_x": -383.20000000000033,
+    "offset_y": -106.40000000000003,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -216.00000000000006,
+    "offset_y": -73.60000000000002,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/m8eboo4jeoh31.jpg",
+  "md5": "D92423F1FBB71B9CF92C05B1B1BE0489",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.3499999999999994,
+    "offset_x": -108,
+    "offset_y": -63,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -94,
+    "offset_y": -76,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6699999999999997,
+    "offset_x": -12,
+    "offset_y": -60,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

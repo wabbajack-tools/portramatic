@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/be/1b/f5/be1bf557544d51ca7749afb654016817.jpg",
+  "md5": "988999F86F4231818CE3942F3F15352F",
+  "tags": [
+    "dwarf",
+    "warrior",
+    "weapon"
+  ],
+  "small": {
+    "scale": 0.6099999999999997,
+    "offset_x": -152,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0.21000000000000002
+  },
+  "medium": {
+    "scale": 0.6799999999999997,
+    "offset_x": -150,
+    "offset_y": -58,
+    "size": "medium",
+    "rotation": 0.09
+  },
+  "full": {
+    "scale": 1.2000000000000002,
+    "offset_x": -276,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": -0.019999999999999997
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

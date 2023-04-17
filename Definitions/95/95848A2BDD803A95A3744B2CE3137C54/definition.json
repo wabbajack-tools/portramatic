@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/90/66/ec/9066ecb7f5100f50c323fc471dc83e70.jpg",
+  "md5": "95848A2BDD803A95A3744B2CE3137C54",
+  "tags": [
+    "dwarf",
+    "tattoo",
+    "beard"
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -24,
+    "offset_y": -32,
+    "size": "small",
+    "rotation": 0.01999999999999997
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -20,
+    "offset_y": -38,
+    "size": "medium",
+    "rotation": 0.019999999999999997
+  },
+  "full": {
+    "scale": 1.8400000000000007,
+    "offset_x": -8,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 3.469446951953614e-18
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

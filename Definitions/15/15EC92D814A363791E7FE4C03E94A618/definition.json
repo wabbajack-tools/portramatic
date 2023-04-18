@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/36/e1/1d/36e11d4716bbbb95a65513db6b83882f.jpg",
+  "md5": "15EC92D814A363791E7FE4C03E94A618",
+  "tags": [
+    "tiefling",
+    "mage",
+    "arcanist"
+  ],
+  "small": {
+    "scale": 1.6600000000000006,
+    "offset_x": -382,
+    "offset_y": -134,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1300000000000001,
+    "offset_x": -202,
+    "offset_y": -16,
+    "size": "medium",
+    "rotation": -0.13
+  },
+  "full": {
+    "scale": 1.1900000000000002,
+    "offset_x": -40,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": -0.04
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/16/49/fa/1649fa691f70e589d38035fa2ba6d176.jpg",
+  "md5": "E69E4F8A43FB117D6B28C3AB310EF2BE",
+  "tags": [
+    "Druid",
+    "Human",
+    "Female",
+    "Magic"
+  ],
+  "small": {
+    "scale": 1.4000000000000004,
+    "offset_x": -323,
+    "offset_y": -87,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -83,
+    "offset_y": -63,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

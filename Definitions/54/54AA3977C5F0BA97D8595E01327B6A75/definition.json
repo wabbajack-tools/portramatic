@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/66/df/80/66df80bd6188500d13a536179212960c.jpg",
+  "md5": "54AA3977C5F0BA97D8595E01327B6A75",
+  "tags": [
+    "Tiefling",
+    "barbarian",
+    "Female"
+  ],
+  "small": {
+    "scale": 1.2600000000000002,
+    "offset_x": -203,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.03,
+    "offset_x": -104,
+    "offset_y": -19,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5500000000000005,
+    "offset_x": -114,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.cloudflare.steamstatic.com/steam/apps/1576390/ss_15862970edf85d6562fe8b03da1fcd41cf3d1e2f.1920x1080.jpg?t=1626271324",
+  "md5": "2F2FE23EFC6DA02F2123B5B4C168AC90",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1800000000000002,
+    "offset_x": -1031,
+    "offset_y": -464,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -636,
+    "offset_y": -209,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.96,
+    "offset_x": -620,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

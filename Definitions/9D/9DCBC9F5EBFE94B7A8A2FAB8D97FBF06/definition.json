@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/2023-04-25/00390-2816126511.jpg",
+  "md5": "9DCBC9F5EBFE94B7A8A2FAB8D97FBF06",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -308,
+    "offset_y": -101,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5899999999999996,
+    "offset_x": -295,
+    "offset_y": -122,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.47999999999999954,
+    "offset_x": -16,
+    "offset_y": -68,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

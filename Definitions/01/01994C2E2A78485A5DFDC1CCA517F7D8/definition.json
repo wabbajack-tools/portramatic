@@ -1,0 +1,31 @@
+{
+  "source": "https://cmon-files.s3.amazonaws.com/images/product/hero_mobo/449/small_hero-elephant.png",
+  "md5": "01994C2E2A78485A5DFDC1CCA517F7D8",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4099999999999995,
+    "offset_x": -70,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -2,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.06,
+    "offset_x": -72,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://imgur.com/atxOoip.jpg",
+  "md5": "F5FD41A2B2C955773810910FCF228DE7",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.4900000000000004,
+    "offset_x": -327.33333333333326,
+    "offset_y": -77.33333333333337,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000000000000002,
+    "offset_x": -196.66666666666646,
+    "offset_y": -61.333333333333314,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -24,
+    "offset_y": -12.000000000000114,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

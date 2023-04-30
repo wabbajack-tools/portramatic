@@ -1,0 +1,31 @@
+{
+  "source": "https://loschaos.com/wp-content/uploads/2018/04/Commander-Shepard-by-Guzzardi-610x863.jpg?x61322",
+  "md5": "B951A7D283FEA701F851C448E529EA11",
+  "tags": [
+    "Shepard"
+  ],
+  "small": {
+    "scale": 1.3100000000000003,
+    "offset_x": -300,
+    "offset_y": -172,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -140,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2500000000000002,
+    "offset_x": -31,
+    "offset_y": -26,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

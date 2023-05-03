@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/67/f0/41/67f041ae6a7443a5aeb3f3ec89c7464a.jpg",
+  "md5": "2855E01858D7491A7D345469F6AE4AA7",
+  "tags": [
+    "Human",
+    "Fighter",
+    "Barbarian"
+  ],
+  "small": {
+    "scale": 1.8700000000000008,
+    "offset_x": -444,
+    "offset_y": -84,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.9200000000000008,
+    "offset_x": -397,
+    "offset_y": -88,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6500000000000006,
+    "offset_x": -138,
+    "offset_y": -74,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

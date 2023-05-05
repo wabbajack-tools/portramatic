@@ -1,0 +1,31 @@
+{
+  "source": "https://www.worldanvil.com/uploads/images/3a1566a84be328eb5c9459354da32052.jpg",
+  "md5": "E53908AFC883260E509CDBB9FD4E18CF",
+  "tags": [
+    "dwarf"
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -180,
+    "offset_y": -116,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -87,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -24,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

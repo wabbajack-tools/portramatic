@@ -1,0 +1,30 @@
+{
+  "source": "https://i.pinimg.com/originals/f1/bf/a8/f1bfa8bfd5454d6d8ecb812056566cc0.png",
+  "md5": "7379D9BBF4998B11FEAE86EC5831B308",
+  "tags": [
+    "paladin",
+    "heavy",
+    "armor"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -360,
+    "offset_y": -83,
+    "size": "small"
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -173,
+    "offset_y": -61,
+    "size": "medium"
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": -40,
+    "offset_y": -66,
+    "size": "full"
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

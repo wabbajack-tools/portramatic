@@ -1,0 +1,31 @@
+{
+  "source": "https://www.nme.com/wp-content/uploads/2021/03/disco-elysium-the-final-cut@2000x1270.jpg",
+  "md5": "F6EBF669EF485FA02643E7D7D54D6473",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.49999999999999956,
+    "offset_x": -198,
+    "offset_y": -198,
+    "size": "small",
+    "rotation": -0.009999999999999997
+  },
+  "medium": {
+    "scale": 0.6699999999999997,
+    "offset_x": -216,
+    "offset_y": -270,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -204,
+    "offset_y": -332,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

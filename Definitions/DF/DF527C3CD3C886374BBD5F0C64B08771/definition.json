@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/DUC8tdh.jpg",
+  "md5": "DF527C3CD3C886374BBD5F0C64B08771",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5699999999999996,
+    "offset_x": -168,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7799999999999998,
+    "offset_x": -168,
+    "offset_y": -15,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -122,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

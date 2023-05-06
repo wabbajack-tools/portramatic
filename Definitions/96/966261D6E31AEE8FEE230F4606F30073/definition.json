@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/infinite_image_browsing/file?filename=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Cimg2img-images%5C2023-05-06%5C00167-An_exquisite_depiction_of_(_Emma_Stone__1.3)_as_a_seductive_succubus_with_large_horns%2C_devilish_wings%2C_poised_atop_a_cliff_under.jpg",
+  "md5": "966261D6E31AEE8FEE230F4606F30073",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5699999999999996,
+    "offset_x": -476,
+    "offset_y": -128,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.39999999999999947,
+    "offset_x": -244,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.3399999999999994,
+    "offset_x": 0,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

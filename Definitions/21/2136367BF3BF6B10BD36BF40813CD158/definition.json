@@ -1,0 +1,31 @@
+{
+  "source": "http://127.0.0.1:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/img2img-images/2023-05-06/00002-A_captivating_portrait_of_a_black_female_Paladin_in_the_Pathfinder_universe,_(clad_in_intricately_designed_heavy_plate_armor_ado.jpg",
+  "md5": "2136367BF3BF6B10BD36BF40813CD158",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.2999999999999994,
+    "offset_x": -219,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3199999999999994,
+    "offset_x": -166,
+    "offset_y": -94,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.37999999999999945,
+    "offset_x": -44,
+    "offset_y": -114,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

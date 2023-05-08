@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/59/1c/04/591c041b5dfc5b6de2984ae5d7afe4d0.jpg",
+  "md5": "2CCDEF339AE385D44FDF29BC68661365",
+  "tags": [
+    "kitsune",
+    "azata",
+    "aivu"
+  ],
+  "small": {
+    "scale": 1.12,
+    "offset_x": -213,
+    "offset_y": -272,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.12,
+    "offset_x": -115,
+    "offset_y": -254,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3200000000000003,
+    "offset_x": -50,
+    "offset_y": -148,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

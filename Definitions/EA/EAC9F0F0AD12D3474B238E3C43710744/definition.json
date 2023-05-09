@@ -1,0 +1,38 @@
+{
+  "source": "https://pbs.twimg.com/media/CftK3VcUIAAfphs.jpg",
+  "md5": "EAC9F0F0AD12D3474B238E3C43710744",
+  "tags": [
+    "mage",
+    "wizard",
+    "sorcerer",
+    "man",
+    "men",
+    "khadgar",
+    "warcraft",
+    "human"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -283,
+    "offset_y": -29,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7699999999999998,
+    "offset_x": -104,
+    "offset_y": -19,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1500000000000001,
+    "offset_x": -58,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

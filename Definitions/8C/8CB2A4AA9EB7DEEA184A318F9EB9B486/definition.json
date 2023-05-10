@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f7/e7/db/f7e7dbed57fce6a84eac6e400be62eec.jpg",
+  "md5": "8CB2A4AA9EB7DEEA184A318F9EB9B486",
+  "tags": [
+    "elf",
+    "female",
+    "druid"
+  ],
+  "small": {
+    "scale": 0.8099999999999998,
+    "offset_x": -143,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8799999999999999,
+    "offset_x": -81,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4500000000000004,
+    "offset_x": -60,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/7c/89/ec/7c89ecc34745d014c5357d88b8fbbe2c.jpg",
+  "md5": "46952D724089F908DFD424CD5DBFA5B6",
+  "tags": [
+    "tiefling",
+    "female",
+    "caster"
+  ],
+  "small": {
+    "scale": 0.7099999999999997,
+    "offset_x": -108,
+    "offset_y": -11,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8699999999999999,
+    "offset_x": -86,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4500000000000004,
+    "offset_x": -88,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

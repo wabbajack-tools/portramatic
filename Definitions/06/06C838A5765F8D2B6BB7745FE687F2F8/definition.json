@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/c4/a6/51/c4a6514131da9a22af8c7489a0fe42b1.jpg",
+  "md5": "06C838A5765F8D2B6BB7745FE687F2F8",
+  "tags": [
+    "human",
+    "female",
+    "archer"
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -20,
+    "offset_y": -32,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -81,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4000000000000004,
+    "offset_x": -60,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

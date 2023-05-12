@@ -1,0 +1,31 @@
+{
+  "source": "https://www.ametart.com/photos/2000/2715/17.jpg",
+  "md5": "0BEFB5911DE59F9BCFD21FCBB90B43DD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6099999999999997,
+    "offset_x": -172.57142857142838,
+    "offset_y": -56,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -138.28571428571422,
+    "offset_y": -55.428571428571274,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.95,
+    "offset_x": -72,
+    "offset_y": -68.5714285714289,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,39 @@
+{
+  "source": "https://static.wikia.nocookie.net/mightandmagic/images/d/d2/DwarfFemale2.jpg/revision/latest?cb=20140125202424&path-prefix=en",
+  "md5": "BBA41731C28B8FF0B44D4F4A4E777831",
+  "tags": [
+    "dwarf",
+    "woman",
+    "female",
+    "axe",
+    "shield",
+    "armor",
+    "cleric",
+    "fighter",
+    "warpriest"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -273.6000000000002,
+    "offset_y": -315.2000000000001,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -144.79999999999995,
+    "offset_y": -250.40000000000032,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": -72.08333333333303,
+    "offset_y": -115.33333333333314,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

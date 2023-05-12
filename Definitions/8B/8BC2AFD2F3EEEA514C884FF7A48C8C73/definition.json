@@ -1,0 +1,31 @@
+{
+  "source": "https://www.ametart.com/photos/1000/1875/12.jpg",
+  "md5": "8BC2AFD2F3EEEA514C884FF7A48C8C73",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -203.42857142856755,
+    "offset_y": -25.714285714285722,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -62.857142857143,
+    "offset_y": -13.714285714285438,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7599999999999998,
+    "offset_x": -2.2857142857146755,
+    "offset_y": -17.142857142857224,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

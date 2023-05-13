@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/0a/77/aa/0a77aae4f94fb8f7bf29099683638ea5.jpg",
+  "md5": "CAA7AE98D61C706F8181DB8EA017C80F",
+  "tags": [
+    "human",
+    "female",
+    "cleric"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -193,
+    "offset_y": -52,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2500000000000002,
+    "offset_x": -196,
+    "offset_y": -61,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8300000000000007,
+    "offset_x": -194,
+    "offset_y": -84,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

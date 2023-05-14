@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/ef/4c/ba/ef4cba2d37ac1f537c7a2d97ec22a269.jpg",
+  "md5": "9B92F3B3F04BBA479840173830E8538F",
+  "tags": [
+    "human",
+    "female",
+    "necromancer"
+  ],
+  "small": {
+    "scale": 1.2600000000000002,
+    "offset_x": -211,
+    "offset_y": -91,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2800000000000002,
+    "offset_x": -139,
+    "offset_y": -73,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4600000000000004,
+    "offset_x": -48,
+    "offset_y": -42,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-15/00183-A_realistic_photograph_of_a_man_in_his_30's_kineticist_from_the_Pathfinder_universe,_displaying_his_(angelic_abilities_1.2)._His.jpg",
+  "md5": "B289AE09AF9F40FD17C3E80D9938FE20",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.07,
+    "offset_x": -448,
+    "offset_y": -262,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5199999999999996,
+    "offset_x": -114,
+    "offset_y": -35,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": 0,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

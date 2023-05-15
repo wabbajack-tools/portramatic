@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-15/00230-hyper_detailed_realistic_rpg_portrait_of_a_human_male_kineticist_in_his_30s,_with_strong,_resolute_features_and_a_determined_gaz.jpg",
+  "md5": "4D311D4AC9D5E0DC99D56CBA0C1C1DB9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.03,
+    "offset_x": -431,
+    "offset_y": -171,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -155,
+    "offset_y": -83,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -2,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

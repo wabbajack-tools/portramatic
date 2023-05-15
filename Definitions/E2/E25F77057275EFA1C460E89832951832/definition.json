@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-15/00117-A_hyper_detailed_and_(realistic_portrait_1.3)_of_a_human_male_kineticist_in_his_30s,_with_strong,_resolute_features_and_a_determ.jpg",
+  "md5": "E25F77057275EFA1C460E89832951832",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.38999999999999946,
+    "offset_x": -125,
+    "offset_y": -22,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4099999999999995,
+    "offset_x": -43,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

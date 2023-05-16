@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00054-A_hyper_realistic_rpg_portrait_of_(alinebernardes_1.3)_as_(Monk_-_A_tight-fitting_white_gi_that_accentuates_her_toned_muscles._T.jpg",
+  "md5": "70952665CA0D1F44DC2E6CF219E167AA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -186,
+    "offset_y": -13,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -111,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -12,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

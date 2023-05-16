@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00170-A_realistic_photograph_of_(photo_of_a_daisyrey-100_1.3)_As_a_fearless_(female_barbarian_1.3),_she's_portrayed_in_a_rugged_(wilde.jpg",
+  "md5": "182901C3E503249B10C6520DC1DA0B68",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.04,
+    "offset_x": -544,
+    "offset_y": -245,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8699999999999999,
+    "offset_x": -362,
+    "offset_y": -198,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -46,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

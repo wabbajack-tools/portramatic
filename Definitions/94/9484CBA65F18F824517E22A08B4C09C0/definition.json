@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00044-A_hyper_realistic_rpg_portrait_of_(The_100_octavia_1.3)_as_(Barbarian_-_A_leather_halter_top_and_shorts_that_showcase_her_muscul.jpg",
+  "md5": "9484CBA65F18F824517E22A08B4C09C0",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8799999999999999,
+    "offset_x": -389,
+    "offset_y": -224,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5899999999999996,
+    "offset_x": -154,
+    "offset_y": -131,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7699999999999998,
+    "offset_x": -64,
+    "offset_y": -134,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

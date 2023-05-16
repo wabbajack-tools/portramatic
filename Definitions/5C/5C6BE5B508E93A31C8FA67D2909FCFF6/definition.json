@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00172-A_realistic_photograph_of_(s4rahsn00k_1.3)_As_a_fearless_(female_barbarian_1.3),_she's_portrayed_in_a_rugged_(wilderness_setting.jpg",
+  "md5": "5C6BE5B508E93A31C8FA67D2909FCFF6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7699999999999998,
+    "offset_x": -313,
+    "offset_y": -103,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7199999999999998,
+    "offset_x": -244,
+    "offset_y": -95,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -46,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

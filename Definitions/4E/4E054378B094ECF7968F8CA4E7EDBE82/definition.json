@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00262-A_realistic_photograph_of_(scajohansson84_1.3)_As_a_powerful_(female_sorceress_1.3)_from_a_high_fantasy_universe,_she's_framed_a.jpg",
+  "md5": "4E054378B094ECF7968F8CA4E7EDBE82",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5899999999999996,
+    "offset_x": -218,
+    "offset_y": -176,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -150,
+    "offset_y": -148,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -38,
+    "offset_y": -56,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

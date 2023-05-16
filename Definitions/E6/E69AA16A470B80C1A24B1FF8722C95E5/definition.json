@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00050-A_hyper_realistic_rpg_portrait_of_(achechik_1.3)_as_(Monk_-_A_tight-fitting_white_gi_that_accentuates_her_toned_muscles._The_gi_.jpg",
+  "md5": "E69AA16A470B80C1A24B1FF8722C95E5",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -194,
+    "offset_y": -56,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -111,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -12,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

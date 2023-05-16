@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00063-A_hyper_realistic(_rpg_portrait_1.4)_of_(morb4cc4r1n_1.3)_as_(Alchemist_-_A_form-fitting_white_lab_coat_that_hugs_her_curves_and.jpg",
+  "md5": "E5E26DB9D2219ECE1E8A2B1834BFC307",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -256,
+    "offset_y": -44,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -135,
+    "offset_y": -39,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -12,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

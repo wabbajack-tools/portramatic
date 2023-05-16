@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00094-A_hyper_realistic(_rpg_portrait_1.4)_of_(ter4p4trick_1.3)_as_(As_Margaery_Tyrell,_the_charming_and_ambitious_queen,_wearing_a_lu.jpg",
+  "md5": "AC073A52FCE92F98D1D18C5FD4724B68",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8399999999999999,
+    "offset_x": -317,
+    "offset_y": -188,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -301,
+    "offset_y": -206,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -12,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

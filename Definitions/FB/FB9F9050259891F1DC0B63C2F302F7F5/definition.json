@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00229-A_realistic_photograph_of_(b4rref4eli_1.3)_As_a_disciplined_(female_monk_1.3),_she's_depicted_in_a_(peaceful_dojo_1.2),_her_(sim.jpg",
+  "md5": "FB9F9050259891F1DC0B63C2F302F7F5",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -212,
+    "offset_y": -78,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -124,
+    "offset_y": -53,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -38,
+    "offset_y": -56,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

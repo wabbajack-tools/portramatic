@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00213-A_realistic_photograph_of_(morb4cc4r1n_1.3)_As_a_stalwart_(female_fighter_1.3),_she's_presented_in_a_(combat_arena_1.2)._Her_(pl.jpg",
+  "md5": "67BDCDB8CEEF9FDE05B851823B602A61",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6599999999999997,
+    "offset_x": -244,
+    "offset_y": -52,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -157,
+    "offset_y": -42,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -38,
+    "offset_y": -64,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

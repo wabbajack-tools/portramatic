@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00059-A_hyper_realistic(_rpg_portrait_1.4)_of_(sd15-tricia-helfer_1.3)_as_(Rogue_-_A_tight_black_leather_bodysuit_with_thigh-high_boot.jpg",
+  "md5": "D543D0A4D842444AA68028A088C334A9",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -446,
+    "offset_y": -354,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -263,
+    "offset_y": -251,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -12,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

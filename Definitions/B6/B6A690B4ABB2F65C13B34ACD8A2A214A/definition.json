@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00183-A_realistic_photograph_of_(RRain69_1.3)_As_a_charismatic_(female_bard_1.3),_she's_shown_in_a_lively_(tavern_1.2),_a_(lyre_1.2)_i.jpg",
+  "md5": "B6A690B4ABB2F65C13B34ACD8A2A214A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4499999999999995,
+    "offset_x": -146,
+    "offset_y": -89,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4299999999999995,
+    "offset_x": -41,
+    "offset_y": -87,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -24,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

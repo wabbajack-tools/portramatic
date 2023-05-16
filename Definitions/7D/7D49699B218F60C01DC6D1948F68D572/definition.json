@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00190-A_realistic_photograph_of_(b4rref4eli_1.3)_As_a_charismatic_(female_bard_1.3),_she's_shown_in_a_lively_(tavern_1.2),_a_(lyre_1.2.jpg",
+  "md5": "7D49699B218F60C01DC6D1948F68D572",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -194,
+    "offset_y": -93,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4299999999999995,
+    "offset_x": -49,
+    "offset_y": -68,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -38,
+    "offset_y": -74,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-16/00214-A_realistic_photograph_of_(taylorswift2_1.3)_As_a_stalwart_(female_fighter_1.3),_she's_presented_in_a_(combat_arena_1.2)._Her_(p.jpg",
+  "md5": "60C2A25EC6CCA1DD49F0395EFECA8E87",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6599999999999997,
+    "offset_x": -298,
+    "offset_y": -37,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -212,
+    "offset_y": -40,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -54,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

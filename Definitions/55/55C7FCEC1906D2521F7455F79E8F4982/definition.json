@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.openart.ai/stable_diffusion/787fc5d87c1ce6ec834847261c815dde5b538875_2000x2000.webp",
+  "md5": "55C7FCEC1906D2521F7455F79E8F4982",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3800000000000003,
+    "offset_x": -299,
+    "offset_y": -200,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1900000000000002,
+    "offset_x": -162,
+    "offset_y": -173,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.9400000000000008,
+    "offset_x": -202,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/82/bc/56/82bc564e314861cda3053476ac1e762c.jpg",
+  "md5": "FE63F209CC09EF8537FFD2A9F0A85BCE",
+  "tags": [
+    "female",
+    "sorceress"
+  ],
+  "small": {
+    "scale": 1.3700000000000003,
+    "offset_x": -249,
+    "offset_y": -60,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3300000000000003,
+    "offset_x": -176,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6200000000000006,
+    "offset_x": -4,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/97/7e/82/977e828f7e5d4696ffc6eef4eeb0efed.jpg",
+  "md5": "B0DA677C5BD10363D52D38AB0D06F367",
+  "tags": [
+    "male",
+    "brown",
+    "haired",
+    "half",
+    "elf"
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -64,
+    "offset_y": -27,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -23,
+    "offset_y": -31,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4000000000000004,
+    "offset_x": -51,
+    "offset_y": -66,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

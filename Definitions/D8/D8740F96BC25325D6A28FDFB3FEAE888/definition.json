@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/736x/cc/04/59/cc04590bfe91e1f927a630281d8692ab.jpg",
+  "md5": "D8740F96BC25325D6A28FDFB3FEAE888",
+  "tags": [
+    "Crossbow"
+  ],
+  "small": {
+    "scale": 0.8199999999999998,
+    "offset_x": -123,
+    "offset_y": -20,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -74,
+    "offset_y": -35,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -6,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

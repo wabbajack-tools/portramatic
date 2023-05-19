@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/7c/7a/1d/7c7a1dc6fb224fe35dc946add78961ce.jpg",
+  "md5": "40943B928580EA1DFB1D16D8873909A4",
+  "tags": [
+    "female",
+    "wizard"
+  ],
+  "small": {
+    "scale": 1.1600000000000001,
+    "offset_x": -237,
+    "offset_y": -25,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2300000000000002,
+    "offset_x": -200,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6800000000000006,
+    "offset_x": -112,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

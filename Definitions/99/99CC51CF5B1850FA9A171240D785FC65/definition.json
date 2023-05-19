@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/06/10/19/06101937ad3e64b712dc503fe321ae9f.jpg",
+  "md5": "99CC51CF5B1850FA9A171240D785FC65",
+  "tags": [
+    "female",
+    "human",
+    "ranger"
+  ],
+  "small": {
+    "scale": 1.2300000000000002,
+    "offset_x": -225,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2300000000000002,
+    "offset_x": -157,
+    "offset_y": -47,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6800000000000006,
+    "offset_x": -96,
+    "offset_y": -70,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

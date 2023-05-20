@@ -1,0 +1,31 @@
+{
+  "source": "https://imageio.forbes.com/specials-images/imageserve/60a343b948c9ace876ffb8c3/0x0.jpg?format=jpg&crop=3072,1727,x0,y0,safe&width=1200",
+  "md5": "2AC20C4A8FE24EB4CD872FABA75787FF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -422,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1600000000000001,
+    "offset_x": -367,
+    "offset_y": -47,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5300000000000005,
+    "offset_x": -434,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

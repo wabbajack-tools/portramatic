@@ -1,0 +1,32 @@
+{
+  "source": "https://i.redd.it/444l0lxtenm31.png",
+  "md5": "0E29229DD72A590770D712B1C72EC885",
+  "tags": [
+    "knight",
+    "tabard"
+  ],
+  "small": {
+    "scale": 1.6900000000000006,
+    "offset_x": -1132,
+    "offset_y": -101,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1900000000000002,
+    "offset_x": -692,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7400000000000007,
+    "offset_x": -858,
+    "offset_y": -104,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

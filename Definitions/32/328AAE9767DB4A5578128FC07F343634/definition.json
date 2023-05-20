@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2020/01/15/480b7020/ovr_pr_lunar20_006.png",
+  "md5": "328AAE9767DB4A5578128FC07F343634",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7999999999999998,
+    "offset_x": -654,
+    "offset_y": -5,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -423,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2700000000000002,
+    "offset_x": -842,
+    "offset_y": -16,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/ba/8d/4f/ba8d4f250c812454abed56dda0167e4b.jpg",
+  "md5": "A73DDBCF6F2A9750204A0F582824FA09",
+  "tags": [
+    "human",
+    "female",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -234,
+    "offset_y": -126,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3200000000000003,
+    "offset_x": -212,
+    "offset_y": -141,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5400000000000005,
+    "offset_x": -48,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

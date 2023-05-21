@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/c8/f0/f8/c8f0f8efe66916381bd45638de53c906.jpg",
+  "md5": "DE559316A69042A919A27365DD2EF5F4",
+  "tags": [
+    "elf",
+    "female",
+    "fire"
+  ],
+  "small": {
+    "scale": 0.8999999999999999,
+    "offset_x": -186,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -142,
+    "offset_y": -10,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4000000000000004,
+    "offset_x": -64,
+    "offset_y": -20,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

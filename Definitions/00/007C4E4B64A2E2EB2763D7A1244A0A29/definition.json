@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/68/be/13/68be130464751f6ace9047f7e486ca78.jpg",
+  "md5": "007C4E4B64A2E2EB2763D7A1244A0A29",
+  "tags": [
+    "elf",
+    "female",
+    "sorceress"
+  ],
+  "small": {
+    "scale": 0.7799999999999998,
+    "offset_x": -131,
+    "offset_y": -23,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1300000000000001,
+    "offset_x": -158,
+    "offset_y": -42,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5500000000000005,
+    "offset_x": -72,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

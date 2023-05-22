@@ -1,0 +1,31 @@
+{
+  "source": "https://pbs.twimg.com/media/EN9CQjVXUAIUrof.jpg",
+  "md5": "D992BE21BCF192DACFCBB03F5473E631",
+  "tags": [
+    "Crossbow"
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -265,
+    "offset_y": -34,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.02,
+    "offset_x": -198,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.09,
+    "offset_x": -34,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/64/95/c5/6495c5edf8c19f2fc390fb147f98dd2a.jpg",
+  "md5": "264445D22A629093EC979A3C3010C1C4",
+  "tags": [
+    "tiefling",
+    "female",
+    "cleric"
+  ],
+  "small": {
+    "scale": 1.09,
+    "offset_x": -221,
+    "offset_y": -23,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.11,
+    "offset_x": -161,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3700000000000003,
+    "offset_x": -36,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

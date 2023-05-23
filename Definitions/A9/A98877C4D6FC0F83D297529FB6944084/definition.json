@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/cd/21/8e/cd218eb10619c40e6ca5c9d04c2fc9e3.jpg",
+  "md5": "A98877C4D6FC0F83D297529FB6944084",
+  "tags": [
+    "female",
+    "kitsune",
+    "archer"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -333,
+    "offset_y": -38,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3200000000000003,
+    "offset_x": -307,
+    "offset_y": -44,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.7800000000000007,
+    "offset_x": -226,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

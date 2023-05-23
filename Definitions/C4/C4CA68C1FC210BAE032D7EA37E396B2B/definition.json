@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-23/00061-A_realistic_photograph_of_a_Human_Rogue,_D&D_fantasy_RPG_character_portrait._An_Angelic_male_figure,_encircled_by_a_soft,_(glowi.jpg",
+  "md5": "C4CA68C1FC210BAE032D7EA37E396B2B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -236,
+    "offset_y": -143,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5199999999999996,
+    "offset_x": -105,
+    "offset_y": -92,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -6,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

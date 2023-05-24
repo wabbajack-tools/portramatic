@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/a2/4b/85/a24b85bb4f24deb1255a3a2e1f846967.jpg",
+  "md5": "9FD1262A04FF1183D71F324E7C38A66E",
+  "tags": [
+    "elf",
+    "female",
+    "archer"
+  ],
+  "small": {
+    "scale": 1.1600000000000001,
+    "offset_x": -355,
+    "offset_y": -205,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.03,
+    "offset_x": -212,
+    "offset_y": -154,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3700000000000003,
+    "offset_x": -64,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

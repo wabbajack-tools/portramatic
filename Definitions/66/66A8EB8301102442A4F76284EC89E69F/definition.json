@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f7/1d/9f/f71d9fbb71c74459f57f69d1931c6ca3.jpg",
+  "md5": "66A8EB8301102442A4F76284EC89E69F",
+  "tags": [
+    "kitsune",
+    "female",
+    "sorceress"
+  ],
+  "small": {
+    "scale": 0.8099999999999998,
+    "offset_x": -122,
+    "offset_y": -78,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -104,
+    "offset_y": -94,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2800000000000002,
+    "offset_x": -2,
+    "offset_y": -44,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

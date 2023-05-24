@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-24/01538-(sks_woman),Craft_a_striking_and_detailed_fantasy_RPG_portrait_of_a_Succubus,_an_iconic_figure_from_Pathfinder._The_central_char.jpg",
+  "md5": "8DE190E225C72844CA543F28AF688EBF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6699999999999997,
+    "offset_x": -260,
+    "offset_y": -76,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5999999999999996,
+    "offset_x": -143,
+    "offset_y": -60,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": 0,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

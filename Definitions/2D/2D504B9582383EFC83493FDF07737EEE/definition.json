@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/c4/6a/97/c46a97feefe5f5d6b0a0cd040ff62f85.jpg",
+  "md5": "2D504B9582383EFC83493FDF07737EEE",
+  "tags": [
+    "tiefling",
+    "female",
+    "warrior"
+  ],
+  "small": {
+    "scale": 0.7799999999999998,
+    "offset_x": -133,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -122,
+    "offset_y": -32,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6000000000000005,
+    "offset_x": -94,
+    "offset_y": -46,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

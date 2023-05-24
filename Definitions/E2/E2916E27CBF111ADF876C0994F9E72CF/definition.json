@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-24/01490-(sks_woman),Fantasy_RPG_character_portrait_focusing_on_a_Human_female_Kineticist._Her_eyes_aflame_with_inner_power,_she_raises_h.jpg",
+  "md5": "E2916E27CBF111ADF876C0994F9E72CF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.46999999999999953,
+    "offset_x": -151,
+    "offset_y": -53,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -74,
+    "offset_y": -48,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7899999999999998,
+    "offset_x": -52,
+    "offset_y": -56,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

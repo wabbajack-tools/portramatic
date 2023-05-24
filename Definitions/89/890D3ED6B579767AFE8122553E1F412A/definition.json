@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-24/01590-(Emma_Stone_1.3),Craft_a_striking_and_detailed_fantasy_RPG_portrait_of_a_Succubus,_an_iconic_figure_from_Pathfinder._The_central.jpg",
+  "md5": "890D3ED6B579767AFE8122553E1F412A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6699999999999997,
+    "offset_x": -283,
+    "offset_y": -81,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -151,
+    "offset_y": -43,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -2,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

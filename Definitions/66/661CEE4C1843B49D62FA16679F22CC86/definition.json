@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-24/01477-(sks_woman),Celebrate_the_relentless_determination_and_heroic_strength_of_the_Human_female_Fighter_in_this_fantasy_RPG_character.jpg",
+  "md5": "661CEE4C1843B49D62FA16679F22CC86",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -222,
+    "offset_y": -72,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -148,
+    "offset_y": -55,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": -10,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-25/00136-(Margot_Robbie_1.3),Envision_a_vivid,_detailed_fantasy_RPG_portrait_of_a_two-handed_warrior,_a_human_female_hailing_from_the_gra.jpg",
+  "md5": "F95385EDE1912C2FBFC3272BF40B25CC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -422,
+    "offset_y": -154,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.96,
+    "offset_x": -324,
+    "offset_y": -139,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-25/00034-(Emma_Stone_1.3),Fantasy_RPG_character_portrait_focusing_on_a_Human_female_Kineticist._Her_eyes_aflame_with_inner_power,_she_rai.jpg",
+  "md5": "06554E88A46B5DB29EEC3926052E8EDC",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.9099999999999999,
+    "offset_x": -384,
+    "offset_y": -97,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -372,
+    "offset_y": -119,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": 0,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

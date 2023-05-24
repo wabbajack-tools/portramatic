@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/49/b8/3d/49b83d14c1122e8b6247a4e30ebc47e2.jpg",
+  "md5": "BC8A7542D81EAC3C7D14DACB4E01625A",
+  "tags": [
+    "aasimar",
+    "female",
+    "cleric"
+  ],
+  "small": {
+    "scale": 1.1,
+    "offset_x": -199,
+    "offset_y": -163,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.05,
+    "offset_x": -118,
+    "offset_y": -142,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6000000000000005,
+    "offset_x": -86,
+    "offset_y": -174,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

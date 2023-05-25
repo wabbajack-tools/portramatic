@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/infinite_image_browsing/file?filename=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Ctxt2img-images%5C2023-05-25%5C00492-(Margot_Robbie_1.3)%2CFantasy_RPG_character_portrait_focusing_on_a_Human_female_Kineticist._Her_eyes_aflame_with_inner_power%2C_she_.jpg",
+  "md5": "7E16292F1CDEE767D3B025A36C01C713",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5599999999999996,
+    "offset_x": -201,
+    "offset_y": -86,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -114,
+    "offset_y": -66,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

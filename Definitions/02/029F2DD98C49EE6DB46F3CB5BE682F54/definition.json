@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/infinite_image_browsing/file?filename=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Ctxt2img-images%5C2023-05-25%5C00557-(s4rahsn00k_1.3)%2CPicture_an_evocative%2C_highly_detailed_fantasy_RPG_portrait_of_a_human_female_sorceress_in_the_riveting_universe.jpg",
+  "md5": "029F2DD98C49EE6DB46F3CB5BE682F54",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8699999999999999,
+    "offset_x": -358,
+    "offset_y": -156,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8999999999999999,
+    "offset_x": -298,
+    "offset_y": -149,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

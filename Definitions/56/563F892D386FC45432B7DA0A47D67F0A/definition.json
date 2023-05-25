@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/infinite_image_browsing/file?filename=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Ctxt2img-images%5C2023-05-25%5C00438-(Emma_Watson_1.3)%2CPicture_a_strikingly_detailed_and_immersive_fantasy_RPG_portrait_of_a_human_female_barbarian_from_the_Pathfind.jpg",
+  "md5": "563F892D386FC45432B7DA0A47D67F0A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -188,
+    "offset_y": -23,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -110,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

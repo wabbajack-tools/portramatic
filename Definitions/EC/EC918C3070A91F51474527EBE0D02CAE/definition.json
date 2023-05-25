@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/infinite_image_browsing/file?filename=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Ctxt2img-images%5C2023-05-25%5C00432-(emb-daisy_1.3)%2CEnvision_a_meticulously_detailed_fantasy_RPG_portrait_of_a_human_female_cleric_in_the_throes_of_a_chaotic_battle.jpg",
+  "md5": "EC918C3070A91F51474527EBE0D02CAE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -186,
+    "offset_y": -13,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -151,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

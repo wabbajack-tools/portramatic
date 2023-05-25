@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-25/00324-(Emma_Stone_1.3),Envision_a_vivid,_detailed_fantasy_RPG_portrait_of_a_two-handed_warrior,_a_human_female_hailing_from_the_grande.jpg",
+  "md5": "D077F61B4D59C31D4AF91184CE7B288A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -180,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -116,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": -4,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

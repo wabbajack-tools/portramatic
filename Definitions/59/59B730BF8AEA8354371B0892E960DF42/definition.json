@@ -1,0 +1,33 @@
+{
+  "source": "https://images.alphacoders.com/205/205193.jpg",
+  "md5": "59B730BF8AEA8354371B0892E960DF42",
+  "tags": [
+    "monk",
+    "male",
+    "human"
+  ],
+  "small": {
+    "scale": 0.7546666666666663,
+    "offset_x": -658,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7755833333333331,
+    "offset_x": -597,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -552,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

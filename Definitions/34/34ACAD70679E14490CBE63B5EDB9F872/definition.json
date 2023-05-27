@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-27/00218-(Emma_Stone_1.1),Create_an_intensely_vivid_and_immersive_portrait_of_a_human_female_Elemental_Wizard_in_the_heart_of_a_heated_ba.jpg",
+  "md5": "34ACAD70679E14490CBE63B5EDB9F872",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -210,
+    "offset_y": -65,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -119,
+    "offset_y": -53,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

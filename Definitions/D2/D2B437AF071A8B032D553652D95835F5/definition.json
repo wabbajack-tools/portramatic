@@ -1,0 +1,33 @@
+{
+  "source": "https://i.imgur.com/YDC0pwe.jpg",
+  "md5": "D2B437AF071A8B032D553652D95835F5",
+  "tags": [
+    "wolf",
+    "blaidd",
+    "werewolf"
+  ],
+  "small": {
+    "scale": 0.38999999999999946,
+    "offset_x": -49,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -39,
+    "offset_y": -48,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8199999999999998,
+    "offset_x": -16,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

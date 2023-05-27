@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-27/00195-(Z3NNND4Y42222_1.1),Picture_an_exquisitely_detailed_fantasy_RPG_portrait_of_a_human_female_assassin_from_the_world_of_Pathfinder.jpg",
+  "md5": "7A99B983694470366C75EC7FA2500735",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4599999999999995,
+    "offset_x": -120,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.46999999999999953,
+    "offset_x": -56,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-28/00010-(skimpy_outfit_0.8),(skimpy_outfit_1.1),(fireball_1.2),(spell_1.2),(elemental_magic_1.2),(energy_1.2),(lighting_1.2),mage,_magic.jpg",
+  "md5": "870397C3D1157893DD04B8F8E6AE27C1",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.49999999999999956,
+    "offset_x": -171,
+    "offset_y": -84,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -123,
+    "offset_y": -85,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": -12,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

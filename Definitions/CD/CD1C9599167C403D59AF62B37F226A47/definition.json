@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-27/00400-(Emma_Stone_1.3),(skimpy_outfit_1.1),(fireball_1.2),(spell_1.2),(elemental_magic_1.2),(energy_1.2),(lighting_1.2),mage,_magic,_w.jpg",
+  "md5": "CD1C9599167C403D59AF62B37F226A47",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -187,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.47999999999999954,
+    "offset_x": -122,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": -12,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

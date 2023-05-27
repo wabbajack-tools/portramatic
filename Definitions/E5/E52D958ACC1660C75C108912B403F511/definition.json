@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=D:/stable%20diffusion%202/stable-diffusion-webui/outputs/txt2img-images/2023-05-27/00023-(c4m3r0nd14z_1.3),(Craft_a_captivating_and_intricately_detailed_fantasy_RPG_portrait_of_a_succubus_from_the_Pathfinder_universe.jpg",
+  "md5": "E52D958ACC1660C75C108912B403F511",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7099999999999997,
+    "offset_x": -310,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -303,
+    "offset_y": -7,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

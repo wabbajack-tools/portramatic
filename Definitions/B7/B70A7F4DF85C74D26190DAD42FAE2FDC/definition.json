@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/originals/04/7c/4d/047c4d544d04f38bf43b6faf0a842915.jpg",
+  "md5": "B70A7F4DF85C74D26190DAD42FAE2FDC",
+  "tags": [
+    "Vampire"
+  ],
+  "small": {
+    "scale": 0.16999999999999926,
+    "offset_x": -0.6666666666666856,
+    "offset_y": -2,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3499999999999994,
+    "offset_x": -29.333333333333258,
+    "offset_y": -2.6666666666667425,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6399999999999997,
+    "offset_x": -6.666666666666515,
+    "offset_y": -7.999999999999773,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

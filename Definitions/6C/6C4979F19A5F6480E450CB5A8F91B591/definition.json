@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmpnwsm_gc1.png",
+  "md5": "6C4979F19A5F6480E450CB5A8F91B591",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -199,
+    "offset_y": -190,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6399999999999997,
+    "offset_x": -130,
+    "offset_y": -178,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -4,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

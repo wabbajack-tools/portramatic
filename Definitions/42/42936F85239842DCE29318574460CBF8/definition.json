@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmp2119fpp4.png",
+  "md5": "42936F85239842DCE29318574460CBF8",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -244,
+    "offset_y": -61,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -190,
+    "offset_y": -66,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -6,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

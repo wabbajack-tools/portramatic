@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmpn56_axdu.png",
+  "md5": "A73D3EFA94C6CA5179FA55FEF4D622C1",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -195,
+    "offset_y": -74,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -195,
+    "offset_y": -94,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -10,
+    "offset_y": -36,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/infinite_image_browsing/file?path=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Ctxt2img-images%5C2023-05-28%5C00469-(Emma_Stone_1.5)%2C(movie_poster_style_1.3)%2Cfit_body%2C_sexy%2C_skimpy_outfit%2C_sexy_legs%2C_hourglass_figure%2C_form_fitting%2C_(highly_deta.jpg&t=2023-05-28%2020%3A47%3A00",
+  "md5": "54EB6C25789F012A5A0BD037843D7AA6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -237,
+    "offset_y": -104,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6499999999999997,
+    "offset_x": -166,
+    "offset_y": -119,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8499999999999999,
+    "offset_x": -122,
+    "offset_y": -68,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

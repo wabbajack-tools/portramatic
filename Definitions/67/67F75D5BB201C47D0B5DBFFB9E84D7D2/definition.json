@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmp5gevhs08.png",
+  "md5": "67F75D5BB201C47D0B5DBFFB9E84D7D2",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -407,
+    "offset_y": -128,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -292,
+    "offset_y": -109,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -14,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

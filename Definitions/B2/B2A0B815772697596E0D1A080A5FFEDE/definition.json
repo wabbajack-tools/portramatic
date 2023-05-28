@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmpulmg78ra.png",
+  "md5": "B2A0B815772697596E0D1A080A5FFEDE",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.06,
+    "offset_x": -455,
+    "offset_y": -305,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.99,
+    "offset_x": -344,
+    "offset_y": -281,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -6,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

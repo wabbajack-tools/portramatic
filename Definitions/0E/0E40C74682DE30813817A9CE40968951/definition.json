@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmp25itceba.png",
+  "md5": "0E40C74682DE30813817A9CE40968951",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5799999999999996,
+    "offset_x": -252,
+    "offset_y": -97,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6199999999999997,
+    "offset_x": -191,
+    "offset_y": -101,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": 0,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

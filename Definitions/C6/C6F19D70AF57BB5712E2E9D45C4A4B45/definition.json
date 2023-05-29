@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmp7_cdklv8.png",
+  "md5": "C6F19D70AF57BB5712E2E9D45C4A4B45",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.4599999999999995,
+    "offset_x": -165,
+    "offset_y": -24,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.47999999999999954,
+    "offset_x": -111,
+    "offset_y": -19,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6799999999999997,
+    "offset_x": 0,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

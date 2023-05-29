@@ -1,0 +1,31 @@
+{
+  "source": "https://www.giantbomb.com/a/uploads/original/11/112064/1822977-745624.jpg",
+  "md5": "146E8D16B49CE4A0D8096CAB46DEF9B3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.23999999999999932,
+    "offset_x": -163.99999999999943,
+    "offset_y": -11.333333333333371,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.18999999999999928,
+    "offset_x": -63.33333333333343,
+    "offset_y": -8.666666666666487,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.4199999999999995,
+    "offset_x": -176,
+    "offset_y": -12.000000000000227,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

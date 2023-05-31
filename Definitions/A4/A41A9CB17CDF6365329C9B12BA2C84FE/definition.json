@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/af/84/2c/af842c623560e3d0fe9acdddc5355e05.jpg",
+  "md5": "A41A9CB17CDF6365329C9B12BA2C84FE",
+  "tags": [
+    "female",
+    "orc",
+    "pet"
+  ],
+  "small": {
+    "scale": 1.2300000000000002,
+    "offset_x": -250,
+    "offset_y": -53,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2100000000000002,
+    "offset_x": -186,
+    "offset_y": -32,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5300000000000005,
+    "offset_x": -96,
+    "offset_y": -60,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

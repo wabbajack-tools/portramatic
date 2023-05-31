@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/736x/31/aa/5f/31aa5f4592d1f3ad923f2a190b1e49ed--fantasy-warrior-fantasy-art.jpg",
+  "md5": "2DBF86B93E159E64DB0C55A5A53D8979",
+  "tags": [
+    "Warrior",
+    "Longspear",
+    "Female",
+    "Plate"
+  ],
+  "small": {
+    "scale": 0.26999999999999935,
+    "offset_x": -3,
+    "offset_y": -25,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4599999999999995,
+    "offset_x": -3,
+    "offset_y": -31,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -2,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

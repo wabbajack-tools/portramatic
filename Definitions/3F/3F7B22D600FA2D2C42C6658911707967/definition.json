@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/infinite_image_browsing/file?path=D%3A%5Cstable%20diffusion%202%5Cstable-diffusion-webui%5Coutputs%5Ctxt2img-images%5C2023-05-31%5C00295-(Emma_Stone_1.3)%2Cmasterpiece%2C_best_quality%2C_high_detailed%2C_sexy_skimpy_outfit%2C_((photorealistic_1.35)%2C_(highly_detailed_1.4)%2C_(a.jpg&t=2023-05-31%2020%3A14%3A28",
+  "md5": "3F7B22D600FA2D2C42C6658911707967",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7499999999999998,
+    "offset_x": -290,
+    "offset_y": -87,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7999999999999998,
+    "offset_x": -238,
+    "offset_y": -85,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6899999999999997,
+    "offset_x": 0,
+    "offset_y": -8,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

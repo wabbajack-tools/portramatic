@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/c1/d8/11/c1d81107e0e0bb7e755c75b875fc901d.jpg",
+  "md5": "79D92D4A06E10E6402D24F2D79F070DA",
+  "tags": [
+    "human",
+    "male"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -220,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.02,
+    "offset_x": -142,
+    "offset_y": -42,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": 2,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

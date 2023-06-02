@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmpw46fksby.png",
+  "md5": "1D11E7E707E4C62FAB34BA4F4E080E3D",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.98,
+    "offset_x": -380,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -302,
+    "offset_y": -34,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7099999999999997,
+    "offset_x": -14,
+    "offset_y": -22,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

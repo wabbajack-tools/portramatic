@@ -1,0 +1,40 @@
+{
+  "source": "https://images.uesp.net/a/ad/DF-misc-Anniversary_Art.jpg",
+  "md5": "62DB29AE6539017BEAA182C3FD067381",
+  "tags": [
+    "lich",
+    "king",
+    "zurin",
+    "arctus",
+    "necromancer",
+    "skull",
+    "crown",
+    "underking",
+    "battlemage",
+    "mage"
+  ],
+  "small": {
+    "scale": 0.2999999999999994,
+    "offset_x": -163.33333333333383,
+    "offset_y": -40.666666666666714,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3099999999999994,
+    "offset_x": -99.33333333333343,
+    "offset_y": -4.6666666666667425,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6199999999999997,
+    "offset_x": -176,
+    "offset_y": -6.666666666666686,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

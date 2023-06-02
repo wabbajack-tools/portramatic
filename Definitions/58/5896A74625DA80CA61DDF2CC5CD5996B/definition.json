@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:7860/file=C:/Users/mihae/AppData/Local/Temp/tmpc76mibcl.png",
+  "md5": "5896A74625DA80CA61DDF2CC5CD5996B",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5899999999999996,
+    "offset_x": -212,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4599999999999995,
+    "offset_x": -80,
+    "offset_y": -34,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.6999999999999997,
+    "offset_x": -6,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

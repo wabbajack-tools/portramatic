@@ -1,0 +1,33 @@
+{
+  "source": "https://storage.googleapis.com/pai-images/b017d8f5cf674e8780859de3d0b0ad72.jpeg",
+  "md5": "1047B8E3DDFD388E50BFB398C0011B4D",
+  "tags": [
+    "rogue",
+    "thief",
+    "assassin"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -161,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -55,
+    "offset_y": -13,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3800000000000003,
+    "offset_x": -4,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

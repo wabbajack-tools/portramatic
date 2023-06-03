@@ -1,0 +1,35 @@
+{
+  "source": "https://static.wikia.nocookie.net/dnd-amulets-of-saegkkal/images/a/ae/Jibra.jpg/revision/latest?cb=20191219065728",
+  "md5": "1E3F75E46A2D352E3073F0361A62DFF6",
+  "tags": [
+    "dark elf",
+    "rogue",
+    "thief",
+    "assassin",
+    "drow"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -160,
+    "offset_y": -103,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -105,
+    "offset_y": -74,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1600000000000001,
+    "offset_x": -6,
+    "offset_y": -82,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

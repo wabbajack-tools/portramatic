@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/8d/91/73/8d9173de55c5fae7f9d97c0bc5f36e12.jpg",
+  "md5": "7CC82E906D465902AC60D0DA1738E3AC",
+  "tags": [
+    "rogue",
+    "thief",
+    "assassin",
+    "human"
+  ],
+  "small": {
+    "scale": 0.95,
+    "offset_x": -263,
+    "offset_y": -71,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9099999999999999,
+    "offset_x": -184,
+    "offset_y": -64,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.01,
+    "offset_x": -74,
+    "offset_y": -64,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/19/e4/70/19e4701e86f288156fb6d1ddf50b0021.jpg",
+  "md5": "C15A7E27727E15C70187091CC1E7E7FA",
+  "tags": [
+    "female",
+    "elf",
+    "bard"
+  ],
+  "small": {
+    "scale": 1.2000000000000002,
+    "offset_x": -306,
+    "offset_y": -69,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -167,
+    "offset_y": -56,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5600000000000005,
+    "offset_x": -168,
+    "offset_y": -24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/b2/9a/be/b29abe1e8a61c72522c19111f7a4510e.jpg",
+  "md5": "19C3B7DE64D644A0A62D2273AD67C41D",
+  "tags": [
+    "female",
+    "elf",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.05,
+    "offset_x": -229,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -138,
+    "offset_y": -51,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

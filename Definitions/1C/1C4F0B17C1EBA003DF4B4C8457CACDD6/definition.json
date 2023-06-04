@@ -1,0 +1,31 @@
+{
+  "source": "http://nwn.sinfar.net/portraits/po_hu_f_05_h.jpg",
+  "md5": "1C4F0B17C1EBA003DF4B4C8457CACDD6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -3,
+    "offset_y": -4,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3100000000000003,
+    "offset_x": -4,
+    "offset_y": -4,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.7199999999999855,
+    "offset_x": -2,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/a1/e5/a5/a1e5a5d728a164f0f9af92c9e0b33610.jpg",
+  "md5": "20BE31FAFB95B5267C6716BF6123FBDC",
+  "tags": [
+    "female",
+    "human",
+    "rider"
+  ],
+  "small": {
+    "scale": 1.09,
+    "offset_x": -307,
+    "offset_y": -7,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.03,
+    "offset_x": -204,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4000000000000004,
+    "offset_x": -36,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

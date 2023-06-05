@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/564x/b3/9b/32/b39b329e9866bae1f9a0d130e6ab0c42.jpg",
+  "md5": "65B772554ED9BD20E07DFEDF60FB86AF",
+  "tags": [
+    "arabian",
+    "armor"
+  ],
+  "small": {
+    "scale": 1.07,
+    "offset_x": -186,
+    "offset_y": -73,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1,
+    "offset_x": -120,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.5300000000000005,
+    "offset_x": -106,
+    "offset_y": -40,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/736x/05/44/69/054469c91e9ab763b42372ac39571484.jpg",
+  "md5": "C2BFA5233B248D14BF27DAF2CF76C306",
+  "tags": [
+    "Halfling"
+  ],
+  "small": {
+    "scale": 0.3199999999999994,
+    "offset_x": -6,
+    "offset_y": -30,
+    "size": "small",
+    "rotation": 0.10999999999999999
+  },
+  "medium": {
+    "scale": 0.6099999999999997,
+    "offset_x": -45,
+    "offset_y": -41,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.11,
+    "offset_x": -54,
+    "offset_y": -68,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

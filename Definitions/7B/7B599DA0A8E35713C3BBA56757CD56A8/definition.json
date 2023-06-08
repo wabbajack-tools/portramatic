@@ -1,0 +1,31 @@
+{
+  "source": "https://vignette.wikia.nocookie.net/phaeselis/images/4/4c/PZO9031-KoboldShaman.jpg/revision/latest?cb=20140807025633",
+  "md5": "7B599DA0A8E35713C3BBA56757CD56A8",
+  "tags": [
+    "kobold"
+  ],
+  "small": {
+    "scale": 0.6699999999999997,
+    "offset_x": -169,
+    "offset_y": -22,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5599999999999996,
+    "offset_x": -19,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.04,
+    "offset_x": -20,
+    "offset_y": 2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

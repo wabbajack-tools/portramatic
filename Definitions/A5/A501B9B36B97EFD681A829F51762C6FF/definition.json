@@ -1,0 +1,31 @@
+{
+  "source": "http://access.imglarger.com:8889/results/VcmI8Zxv_4x.jpg",
+  "md5": "A501B9B36B97EFD681A829F51762C6FF",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.22999999999999934,
+    "offset_x": -160,
+    "offset_y": -36,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2599999999999994,
+    "offset_x": -124,
+    "offset_y": -60,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.40999999999999953,
+    "offset_x": -128,
+    "offset_y": -84,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

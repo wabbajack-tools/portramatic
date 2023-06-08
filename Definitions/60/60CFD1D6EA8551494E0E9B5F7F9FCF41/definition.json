@@ -1,0 +1,31 @@
+{
+  "source": "http://get2.imglarger.com:8889/results/xCojBJzY_4x.jpg",
+  "md5": "60CFD1D6EA8551494E0E9B5F7F9FCF41",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.35999999999999943,
+    "offset_x": -194,
+    "offset_y": -90,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3099999999999994,
+    "offset_x": -77,
+    "offset_y": -82,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.49999999999999956,
+    "offset_x": -52,
+    "offset_y": -150,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

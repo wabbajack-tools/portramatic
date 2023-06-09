@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/9d/5f/d5/9d5fd54f4ebfba3fae68ba13d38a8079.jpg",
+  "md5": "90C52A99412FA4BD3C9824AA4D853596",
+  "tags": [
+    "female",
+    "kitsune",
+    "warrior"
+  ],
+  "small": {
+    "scale": 1.1900000000000002,
+    "offset_x": -217,
+    "offset_y": -30,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1800000000000002,
+    "offset_x": -117,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3000000000000003,
+    "offset_x": -26,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

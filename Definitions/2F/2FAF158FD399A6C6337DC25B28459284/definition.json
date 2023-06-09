@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/06/d9/a3/06d9a3e1db34e8a829e5bfb0f4ad2a7a.jpg",
+  "md5": "2FAF158FD399A6C6337DC25B28459284",
+  "tags": [
+    "female",
+    "kitsune",
+    "druid"
+  ],
+  "small": {
+    "scale": 1.1500000000000001,
+    "offset_x": -228,
+    "offset_y": -93,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1800000000000002,
+    "offset_x": -160,
+    "offset_y": -61,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3800000000000003,
+    "offset_x": -36,
+    "offset_y": -32,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/1d/ef/d4/1defd4708bc2ead61d9cbed2c2ad527b.jpg",
+  "md5": "34A24CAB14EEB1623BB891E0052C7057",
+  "tags": [
+    "female",
+    "elf",
+    "caster"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -196,
+    "offset_y": -34,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -124,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2800000000000002,
+    "offset_x": -26,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

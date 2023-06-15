@@ -1,0 +1,41 @@
+{
+  "source": "https://cdna.artstation.com/p/assets/images/images/021/810/302/large/martin-kirby-dungeoneer.jpg?1573032823",
+  "md5": "1A59F28536F5D4262CB5A5B9C4F9464E",
+  "tags": [
+    "female",
+    "orc",
+    "halforc",
+    "dungeoneer",
+    "adventurer",
+    "axe",
+    "battleaxe",
+    "backpack",
+    "chest",
+    "loot",
+    "bow"
+  ],
+  "small": {
+    "scale": 1.1400000000000001,
+    "offset_x": -655.3333333333305,
+    "offset_y": -334.00000000000006,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -198.6666666666668,
+    "offset_y": -125.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -220.00000000000023,
+    "offset_y": -201.33333333333337,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1119023495586787348/malaroch_a_Grecian_hoplite_fantasy_character_art_37f693e9-20dc-45cd-9e07-9b8515c41156.png",
+  "md5": "B42E85B25C165410D868AF2D1EE2761A",
+  "tags": [
+    "Human",
+    "Male",
+    "Fighter"
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -82,
+    "offset_y": -12,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5499999999999996,
+    "offset_x": -107,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -142,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

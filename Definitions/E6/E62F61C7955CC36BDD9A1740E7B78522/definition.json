@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/736x/90/36/a8/9036a8b13a1d29123a71bb34f398be65--armors-game-design.jpg",
+  "md5": "E62F61C7955CC36BDD9A1740E7B78522",
+  "tags": [
+    "Plate Armor",
+    "Warrior",
+    "Female",
+    "Spear",
+    "Shield"
+  ],
+  "small": {
+    "scale": 1.07,
+    "offset_x": -195,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8299999999999998,
+    "offset_x": -44,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -2,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1119648909900394667/malaroch_a_lunar_knight_in_shining_plate_armor_full_helm_masked_46391aca-d37f-411e-bb91-6d9473349e07.png",
+  "md5": "43EAEBE3332033FBAE41604C4D2248D4",
+  "tags": [
+    "Human",
+    "Female",
+    "knight"
+  ],
+  "small": {
+    "scale": 0.4499999999999995,
+    "offset_x": -121,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6699999999999997,
+    "offset_x": -157,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -176,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

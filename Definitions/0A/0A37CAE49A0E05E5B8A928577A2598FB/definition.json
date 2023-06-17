@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/originals/25/90/7c/25907c32d327c5215d58e21b47fb9252.jpg",
+  "md5": "0A37CAE49A0E05E5B8A928577A2598FB",
+  "tags": [
+    "female",
+    "fire",
+    "cat"
+  ],
+  "small": {
+    "scale": 0.9681666666666665,
+    "offset_x": -208,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6299999999999997,
+    "offset_x": -34,
+    "offset_y": -50,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2095,
+    "offset_x": -12,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/originals/11/6e/bb/116ebbbe563c92b7856e2e90a3f5aa9f.jpg",
+  "md5": "CF45D5D491FFB9085F751ECEC4FAA1F8",
+  "tags": [
+    "female",
+    "tiefling",
+    "efreeti",
+    "nixie",
+    "creature",
+    "fairy"
+  ],
+  "small": {
+    "scale": 0.39999999999999947,
+    "offset_x": -148.66666666666669,
+    "offset_y": -1.6666666666667425,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.38999999999999946,
+    "offset_x": -81.33333333333331,
+    "offset_y": -0.3333333333333144,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7699999999999998,
+    "offset_x": -134,
+    "offset_y": -38,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

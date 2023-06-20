@@ -1,0 +1,45 @@
+{
+  "source": "https://i.redd.it/5vl0i3gszb751.jpg",
+  "md5": "FE7B62D5F58B495927BE3857E6518D13",
+  "tags": [
+    "female",
+    "human",
+    "witch",
+    "shaman",
+    "druid",
+    "oread",
+    "azata",
+    "elf",
+    "halfelf",
+    "fire",
+    "sword",
+    "hood",
+    "robes",
+    "tiefling",
+    "dhampir"
+  ],
+  "small": {
+    "scale": 0.22999999999999937,
+    "offset_x": -296.66666666667066,
+    "offset_y": -63.999999999999744,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.1399999999999993,
+    "offset_x": -80.66666666666691,
+    "offset_y": -14.666666666666515,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.25999999999999945,
+    "offset_x": -74.66666666666697,
+    "offset_y": -5.333333333333087,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,35 @@
+{
+  "source": "https://pbs.twimg.com/media/CaSIVTaWEAAY2Oz?format=jpg&name=4096x4096",
+  "md5": "5688DA9314E541D0176C877E7D846F3D",
+  "tags": [
+    "knight",
+    "armor",
+    "heavy",
+    "medieval",
+    "swords"
+  ],
+  "small": {
+    "scale": 0.4299999999999995,
+    "offset_x": -240,
+    "offset_y": -194,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.2999999999999994,
+    "offset_x": -64,
+    "offset_y": -89,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.4399999999999995,
+    "offset_x": 0,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

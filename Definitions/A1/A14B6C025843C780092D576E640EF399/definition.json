@@ -1,0 +1,35 @@
+{
+  "source": "https://s3.amazonaws.com/files.d20.io/images/98401033/WR2U4EXuYcr7rJOcL48inw/original.jpg?1575307586",
+  "md5": "A14B6C025843C780092D576E640EF399",
+  "tags": [
+    "Aasimar",
+    "Fallen",
+    "Fighter",
+    "Magus",
+    "Cleric"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -358,
+    "offset_y": -61,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -286,
+    "offset_y": -52,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -50,
+    "offset_y": -22,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

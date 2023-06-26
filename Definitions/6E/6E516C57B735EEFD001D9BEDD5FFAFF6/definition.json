@@ -1,0 +1,39 @@
+{
+  "source": "https://i.redd.it/s3e9xxtsxn651.jpg",
+  "md5": "6E516C57B735EEFD001D9BEDD5FFAFF6",
+  "tags": [
+    "human",
+    "male",
+    "axe",
+    "fighter",
+    "monk",
+    "lumberjack",
+    "ranger",
+    "hunter",
+    "unarmored"
+  ],
+  "small": {
+    "scale": 1.8600000000000008,
+    "offset_x": -378.99999999999704,
+    "offset_y": -424.3333333333482,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.3600000000000003,
+    "offset_x": -245.66666666666652,
+    "offset_y": -284.3333333333412,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4600000000000004,
+    "offset_x": -80.33333333333348,
+    "offset_y": -222.66666666666686,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

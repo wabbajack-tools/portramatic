@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/736x/77/6b/91/776b915a3f9d873b41b294ec316882c9.jpg",
+  "md5": "3B18AE8CB6AF8897A7838886AFE596D9",
+  "tags": [
+    "black",
+    "tiefling",
+    "male"
+  ],
+  "small": {
+    "scale": 1.02,
+    "offset_x": -285.142857142858,
+    "offset_y": -87.42857142857133,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -207.99999999999994,
+    "offset_y": -46.85714285714289,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.95,
+    "offset_x": -2.285714285714448,
+    "offset_y": -41.14285714285711,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

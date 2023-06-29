@@ -1,0 +1,33 @@
+{
+  "source": "https://tatradev-test-bucket.s3.amazonaws.com/15a16f07-7435-4812-b9fd-5ab84420633e_3.jpeg",
+  "md5": "6E4CB816D8ED335DCB8B78695BA9C073",
+  "tags": [
+    "knight",
+    "male",
+    "angel"
+  ],
+  "small": {
+    "scale": 0.6599999999999997,
+    "offset_x": -221,
+    "offset_y": -73,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5299999999999996,
+    "offset_x": -82,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -50,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

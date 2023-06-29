@@ -1,0 +1,32 @@
+{
+  "source": "https://external-preview.redd.it/qxrmdidjSPeFV_gooBxE96McoqeOpSXtUDCN8h52Q7Y.jpg?width=640&crop=smart&auto=webp&s=ea674097557a8dee35d0e7a41afd9542d390403e",
+  "md5": "CA5F226FEE29AE9C134A7438B37D4F00",
+  "tags": [
+    "monk",
+    "hooded"
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -243,
+    "offset_y": -140,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -135,
+    "offset_y": -79,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.08,
+    "offset_x": 0,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

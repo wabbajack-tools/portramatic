@@ -1,0 +1,32 @@
+{
+  "source": "https://tatradev-test-bucket.s3.amazonaws.com/328829b8-f344-4644-9bdb-a8174b500272_0.jpeg",
+  "md5": "91984129E3D5B18AAAE1CBAD03E8EAB6",
+  "tags": [
+    "male",
+    "snake"
+  ],
+  "small": {
+    "scale": 0.5999999999999996,
+    "offset_x": -204,
+    "offset_y": -22,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.48999999999999955,
+    "offset_x": -68,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -42,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

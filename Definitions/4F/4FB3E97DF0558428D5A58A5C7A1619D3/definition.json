@@ -1,0 +1,31 @@
+{
+  "source": "https://tatradev-test-bucket.s3.amazonaws.com/cbc3744f-3785-4bd6-8e8d-30c5460dfe36_3.jpeg",
+  "md5": "4FB3E97DF0558428D5A58A5C7A1619D3",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.47999999999999954,
+    "offset_x": -118,
+    "offset_y": -96,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5799999999999996,
+    "offset_x": -96,
+    "offset_y": -124,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8399999999999999,
+    "offset_x": -58,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

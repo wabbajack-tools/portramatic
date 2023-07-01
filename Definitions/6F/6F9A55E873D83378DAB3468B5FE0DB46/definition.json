@@ -1,0 +1,33 @@
+{
+  "source": "https://storage.prompt-hunt.workers.dev/clgxxkmeg000al008p1q24yed_1",
+  "md5": "6F9A55E873D83378DAB3468B5FE0DB46",
+  "tags": [
+    "male",
+    "elf",
+    ""
+  ],
+  "small": {
+    "scale": 0.37999999999999945,
+    "offset_x": -158,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.39999999999999947,
+    "offset_x": -75,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.95,
+    "offset_x": -336,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

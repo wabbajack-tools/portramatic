@@ -1,0 +1,34 @@
+{
+  "source": "https://theworldissquare.com/wp-content/uploads/2012/09/stonelord.jpg",
+  "md5": "DE6335D6A56A4759ECE5A00130D54A40",
+  "tags": [
+    "Human",
+    "Male",
+    "Miner",
+    "Fighter"
+  ],
+  "small": {
+    "scale": 0.94,
+    "offset_x": -293.60000000000014,
+    "offset_y": -5.600000000000023,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5399999999999996,
+    "offset_x": -32.00000000000006,
+    "offset_y": -0.8000000000000682,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -48.055555555555884,
+    "offset_y": 2.2737367544323206e-13,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

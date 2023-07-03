@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/nnb378dovmsa1.jpg",
+  "md5": "8115839A6DAFBD0AA4F3315747B63787",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.48999999999999955,
+    "offset_x": -386,
+    "offset_y": -124,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4299999999999995,
+    "offset_x": -246.5,
+    "offset_y": -119.5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5999999999999996,
+    "offset_x": -264,
+    "offset_y": -134,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

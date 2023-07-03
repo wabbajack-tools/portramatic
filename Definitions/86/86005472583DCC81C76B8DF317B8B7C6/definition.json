@@ -1,0 +1,31 @@
+{
+  "source": "https://piratediffusion1.s3.amazonaws.com/renders2/aPGp9W/00005-tls-pro-tls1-4090.jpg",
+  "md5": "86005472583DCC81C76B8DF317B8B7C6",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7299999999999998,
+    "offset_x": -205,
+    "offset_y": -57,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6899999999999997,
+    "offset_x": -120,
+    "offset_y": -42,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3600000000000003,
+    "offset_x": -220,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

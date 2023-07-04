@@ -1,0 +1,33 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/1003467566775279686/1125753960729419876/malaroch_a_vampiric_knight_male_gothic_plate_armor_fantasy_char_f9708649-05ef-4ba5-bfeb-e44843b83c0c.png",
+  "md5": "3FB716B7221ECD513895657C8E3E44EC",
+  "tags": [
+    "Human",
+    "Male",
+    "Fighter"
+  ],
+  "small": {
+    "scale": 0.8899999999999999,
+    "offset_x": -362,
+    "offset_y": -114,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -322,
+    "offset_y": -118,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1400000000000001,
+    "offset_x": -206,
+    "offset_y": -70,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

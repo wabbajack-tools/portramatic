@@ -1,0 +1,34 @@
+{
+  "source": "https://cdn.openart.ai/stable_diffusion/1fe6fbecf7e17ba8a7a844a5854b3dd0b20670de_2000x2000.webp",
+  "md5": "29A59115C19213CDF84CC2527A087AF1",
+  "tags": [
+    "badass",
+    "d&amp;d",
+    "female",
+    "paladin"
+  ],
+  "small": {
+    "scale": 0.7479999999999993,
+    "offset_x": -154,
+    "offset_y": -29,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7171666666666651,
+    "offset_x": -31,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4860000000000007,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

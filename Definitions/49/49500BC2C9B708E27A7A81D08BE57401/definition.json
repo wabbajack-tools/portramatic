@@ -1,0 +1,41 @@
+{
+  "source": "https://i.pinimg.com/originals/4e/28/61/4e286196fe27bad665a3718e4a6b0018.jpg",
+  "md5": "49500BC2C9B708E27A7A81D08BE57401",
+  "tags": [
+    "female",
+    "elf",
+    "halfelf",
+    "dhampir",
+    "robes",
+    "pale",
+    "brown",
+    "longhaired",
+    "jewelry",
+    "unarmed",
+    "unarmored"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -197.3333333333266,
+    "offset_y": -24.666666666666345,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8599999999999999,
+    "offset_x": -36.000000000000114,
+    "offset_y": -17.99999999999963,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6900000000000006,
+    "offset_x": -45.333333333333485,
+    "offset_y": -30.666666666666856,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

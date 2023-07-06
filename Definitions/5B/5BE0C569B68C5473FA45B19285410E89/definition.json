@@ -1,0 +1,42 @@
+{
+  "source": "https://i.redd.it/anepifiu50p91.jpg",
+  "md5": "5BE0C569B68C5473FA45B19285410E89",
+  "tags": [
+    "female",
+    "halfling",
+    "halfelf",
+    "rogue",
+    "dagger",
+    "knife",
+    "leather",
+    "belts",
+    "young",
+    "assassin",
+    "sneaky",
+    "stealth"
+  ],
+  "small": {
+    "scale": 0.8299999999999998,
+    "offset_x": -229.33333333332683,
+    "offset_y": -195.9999999999999,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5099999999999996,
+    "offset_x": -48.666666666666686,
+    "offset_y": -61.999999999999574,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9600000000000001,
+    "offset_x": -30.666666666666742,
+    "offset_y": -4.000000000000114,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

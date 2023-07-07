@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Zuko.full.3005860.jpg",
+  "md5": "77CA2DC93F9E2970C2BE5BA05D0F7926",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.8199999999999998,
+    "offset_x": -314,
+    "offset_y": -168,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6999999999999997,
+    "offset_x": -175,
+    "offset_y": -99,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7499999999999998,
+    "offset_x": -6,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

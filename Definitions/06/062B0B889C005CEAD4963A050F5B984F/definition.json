@@ -1,0 +1,31 @@
+{
+  "source": "https://images.squarespace-cdn.com/content/v1/5b96909696e76fc3f7ac4255/1630347458171-G1T9JUQ1ZWYPXOMTRCV4/MikeFaille_Zara.jpg?format=1000w",
+  "md5": "062B0B889C005CEAD4963A050F5B984F",
+  "tags": [
+    "Elf Fighter Tower"
+  ],
+  "small": {
+    "scale": 1.2500000000000002,
+    "offset_x": -555,
+    "offset_y": -159,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -352,
+    "offset_y": -123,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.05,
+    "offset_x": -178,
+    "offset_y": -106,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

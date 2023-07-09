@@ -1,0 +1,31 @@
+{
+  "source": "https://assets.mycast.io/characters/vaarsuvius-1018308-normal.jpg?1600546932",
+  "md5": "D8389E7DE523408F0D744BF4ADA46522",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.9199999999999999,
+    "offset_x": -126,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.03,
+    "offset_x": -33,
+    "offset_y": -31,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.0899999999999914,
+    "offset_x": -26,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

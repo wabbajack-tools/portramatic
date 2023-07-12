@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/originals/49/4d/81/494d817dd4c047a73eedfa4008c37500.jpg",
+  "md5": "AE2CD1641780F7ADC9727F129F59DEA6",
+  "tags": [
+    "male",
+    "dhampir",
+    "lich",
+    "scythe",
+    "death"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -321,
+    "offset_y": -96,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7699999999999998,
+    "offset_x": -173,
+    "offset_y": -17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -60,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

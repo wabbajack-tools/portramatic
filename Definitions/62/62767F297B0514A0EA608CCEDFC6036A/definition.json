@@ -1,0 +1,38 @@
+{
+  "source": "https://i.pinimg.com/originals/68/69/40/68694064586358d437d5e9400c481f4b.jpg",
+  "md5": "62767F297B0514A0EA608CCEDFC6036A",
+  "tags": [
+    "male",
+    "orc",
+    "halforc",
+    "monk",
+    "shirtless",
+    "unarmored",
+    "bracers",
+    "calm"
+  ],
+  "small": {
+    "scale": 1.06,
+    "offset_x": -172.00000000000014,
+    "offset_y": -73.99999999999994,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5799999999999996,
+    "offset_x": -15.333333333333371,
+    "offset_y": -24.666666666666686,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1800000000000002,
+    "offset_x": -14.666666666666515,
+    "offset_y": -10.666666666666856,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

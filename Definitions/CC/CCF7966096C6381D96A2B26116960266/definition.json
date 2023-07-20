@@ -1,0 +1,34 @@
+{
+  "source": "https://preview.redd.it/i-used-stablediffusion-to-create-original-character-v0-6xo3sayvaxva1.png?width=692&format=png&auto=webp&s=4349abd7082b7a5d8c37808287c83407398bf914",
+  "md5": "CCF7966096C6381D96A2B26116960266",
+  "tags": [
+    "half-orc",
+    "figher",
+    "barbarian",
+    "demon"
+  ],
+  "small": {
+    "scale": 0.96,
+    "offset_x": -243,
+    "offset_y": -65,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -206,
+    "offset_y": -58,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

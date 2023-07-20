@@ -1,0 +1,42 @@
+{
+  "source": "https://pbs.twimg.com/media/C44Yg-uUoAIS0s4.jpg",
+  "md5": "10AAF462C53D9112B02AD17C289D518B",
+  "tags": [
+    "male",
+    "orc",
+    "halforc",
+    "monk",
+    "shirtless",
+    "brawler",
+    "unarmored",
+    "fists",
+    "horns",
+    "smiling",
+    "beard",
+    "green"
+  ],
+  "small": {
+    "scale": 0.5499999999999996,
+    "offset_x": -155.9999999999996,
+    "offset_y": -21.333333333333115,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.39999999999999947,
+    "offset_x": -9.333333333333655,
+    "offset_y": -1.3333333333332575,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8599999999999999,
+    "offset_x": -18.666666666665833,
+    "offset_y": -7.9999999999998295,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

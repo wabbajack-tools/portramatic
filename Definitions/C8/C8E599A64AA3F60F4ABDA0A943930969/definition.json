@@ -1,0 +1,31 @@
+{
+  "source": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/627e6d58-2e81-46eb-0fc6-bfb2e0133700/width=450/upscaled_00750_.jpeg",
+  "md5": "C8E599A64AA3F60F4ABDA0A943930969",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 3.3099999999999725,
+    "offset_x": -655.1999999999995,
+    "offset_y": -148.80000000000004,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.62,
+    "offset_x": -198.3999999999994,
+    "offset_y": -39.200000000000045,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8100000000000007,
+    "offset_x": -57.6666666666672,
+    "offset_y": -4.805555555555657,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

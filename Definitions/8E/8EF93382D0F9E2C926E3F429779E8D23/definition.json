@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:9999/image/61486/image?t=1690319840",
+  "md5": "8EF93382D0F9E2C926E3F429779E8D23",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.14999999999999947,
+    "offset_x": -151,
+    "offset_y": -213,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.07999999999999939,
+    "offset_x": -3,
+    "offset_y": -3,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.15999999999999948,
+    "offset_x": 0,
+    "offset_y": -46,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

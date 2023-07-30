@@ -1,0 +1,31 @@
+{
+  "source": "http://localhost:9999/performer/140/image?t=1690403535",
+  "md5": "540036EC13CA110C3F9F5BB985F5E70E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6399999999999997,
+    "offset_x": -108,
+    "offset_y": -10,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.5799999999999996,
+    "offset_x": -35,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": -6,
+    "offset_y": -6,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

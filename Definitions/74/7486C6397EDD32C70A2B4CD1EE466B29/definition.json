@@ -1,0 +1,31 @@
+{
+  "source": "https://static.zerochan.net/Asahi.Nini.full.2011073.jpg",
+  "md5": "7486C6397EDD32C70A2B4CD1EE466B29",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7499999999999998,
+    "offset_x": -429,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8499999999999999,
+    "offset_x": -437,
+    "offset_y": -99,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3600000000000003,
+    "offset_x": -606,
+    "offset_y": -126,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

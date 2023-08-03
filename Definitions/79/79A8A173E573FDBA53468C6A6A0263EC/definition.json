@@ -1,0 +1,33 @@
+{
+  "source": "https://nexus.rpglibrary.org/images/a/ad/Bhaatar_female_02.jpg",
+  "md5": "79A8A173E573FDBA53468C6A6A0263EC",
+  "tags": [
+    "tiefling",
+    "red",
+    "sexy"
+  ],
+  "small": {
+    "scale": 0.1999999999999993,
+    "offset_x": -50,
+    "offset_y": -43,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.26999999999999935,
+    "offset_x": -18,
+    "offset_y": -14,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5999999999999996,
+    "offset_x": -112,
+    "offset_y": -46,
+    "size": "full",
+    "rotation": -3.469446951953614e-18
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

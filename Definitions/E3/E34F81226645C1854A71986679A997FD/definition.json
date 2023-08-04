@@ -1,0 +1,31 @@
+{
+  "source": "https://i.redd.it/jsa90f3tn9k81.jpg",
+  "md5": "E34F81226645C1854A71986679A997FD",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5699999999999996,
+    "offset_x": -214,
+    "offset_y": -100,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -208,
+    "offset_y": -115,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7599999999999998,
+    "offset_x": -72,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

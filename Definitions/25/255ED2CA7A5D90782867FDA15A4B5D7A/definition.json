@@ -1,0 +1,31 @@
+{
+  "source": "https://assets.teenvogue.com/photos/64765443229c80b13063b8b6/master/w_1600%2Cc_limit/FR_1352p.jpg",
+  "md5": "255ED2CA7A5D90782867FDA15A4B5D7A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -283,
+    "offset_y": -111,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.25999999999999934,
+    "offset_x": -25,
+    "offset_y": -33,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5099999999999996,
+    "offset_x": -12,
+    "offset_y": -84,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "http://pm1.narvii.com/6018/7a07f664b95eb2fb774d60ec1e469e9486b5ff9c_hq.jpg",
+  "md5": "7ACC8557D05034A9056753F91805150E",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6299999999999997,
+    "offset_x": -200.40000000000006,
+    "offset_y": -24.399999999999977,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4599999999999995,
+    "offset_x": -25.600000000000023,
+    "offset_y": -6.800000000000011,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.03,
+    "offset_x": -114.11111111111131,
+    "offset_y": -12.027777777777487,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

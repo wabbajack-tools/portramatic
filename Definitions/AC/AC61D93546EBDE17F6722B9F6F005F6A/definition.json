@@ -1,0 +1,31 @@
+{
+  "source": "https://www.kino-teatr.ru/movie/kadr/20744/942223.jpg",
+  "md5": "AC61D93546EBDE17F6722B9F6F005F6A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.38999999999999946,
+    "offset_x": -82,
+    "offset_y": -6,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6999999999999973,
+    "offset_x": -202,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6200000000000006,
+    "offset_x": -478,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

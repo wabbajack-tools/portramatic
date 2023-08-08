@@ -1,0 +1,31 @@
+{
+  "source": "http://www.magali-villeneuve.com/wp-content/uploads/2019/06/glorfindel.jpg",
+  "md5": "B8669AFE2D73BD0E98930DC574A0247E",
+  "tags": [
+    "Glorfindel"
+  ],
+  "small": {
+    "scale": 1.1800000000000002,
+    "offset_x": -464,
+    "offset_y": -153,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.04,
+    "offset_x": -297,
+    "offset_y": -115,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.6400000000000006,
+    "offset_x": -376,
+    "offset_y": -200,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

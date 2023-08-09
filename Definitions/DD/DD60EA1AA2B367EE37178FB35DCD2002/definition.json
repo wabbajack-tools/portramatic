@@ -1,0 +1,31 @@
+{
+  "source": "https://artbreederpublic-shortlived.s3.amazonaws.com/30d/imgs/2e3da2cef34f46499f0a8b97.jpeg",
+  "md5": "DD60EA1AA2B367EE37178FB35DCD2002",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3600000000000003,
+    "offset_x": -596.9230769230544,
+    "offset_y": -191.38461538461607,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.98,
+    "offset_x": -287.3846153846144,
+    "offset_y": -48.615384615384585,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.05,
+    "offset_x": -49.23076923076883,
+    "offset_y": -9.846153846153356,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

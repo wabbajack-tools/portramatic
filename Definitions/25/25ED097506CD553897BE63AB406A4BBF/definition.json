@@ -1,0 +1,37 @@
+{
+  "source": "https://i.pinimg.com/564x/7a/e2/74/7ae274fa5687ed3334a353c7ee2b0c67.jpg",
+  "md5": "25ED097506CD553897BE63AB406A4BBF",
+  "tags": [
+    "elf",
+    "cleric",
+    "mace",
+    "shield",
+    "female",
+    "young",
+    "armor"
+  ],
+  "small": {
+    "scale": 1.2200000000000002,
+    "offset_x": -290.3333333333334,
+    "offset_y": -139.66666666666663,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08,
+    "offset_x": -170,
+    "offset_y": -118.33333333333337,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2300000000000002,
+    "offset_x": -6.6666666666667425,
+    "offset_y": -139.9999999999999,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

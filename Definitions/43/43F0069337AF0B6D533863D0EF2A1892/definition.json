@@ -1,0 +1,31 @@
+{
+  "source": "https://piratediffusion1.s3.amazonaws.com/renders2/Vx9GJP/00001-r-pro-sm7mt.jpg",
+  "md5": "43F0069337AF0B6D533863D0EF2A1892",
+  "tags": [
+    "aasimar"
+  ],
+  "small": {
+    "scale": 1.1700000000000002,
+    "offset_x": -198,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -65,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.139999999999998,
+    "offset_x": -202,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

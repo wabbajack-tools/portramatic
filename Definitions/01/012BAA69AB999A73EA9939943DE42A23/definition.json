@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/5f/f5/4d/5ff54d5e3820080e0610197239386543.jpg",
+  "md5": "012BAA69AB999A73EA9939943DE42A23",
+  "tags": [
+    "demon",
+    "giant",
+    "robot",
+    "golem",
+    "lizard"
+  ],
+  "small": {
+    "scale": 0.8499999999999999,
+    "offset_x": -172,
+    "offset_y": -42,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8899999999999999,
+    "offset_x": -106,
+    "offset_y": -63,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4009166666666673,
+    "offset_x": -52,
+    "offset_y": -42,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

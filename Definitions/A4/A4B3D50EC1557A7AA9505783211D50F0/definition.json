@@ -1,0 +1,32 @@
+{
+  "source": "https://i.pinimg.com/originals/0b/25/20/0b25203372b3aa851f69c3b199ad4705.png",
+  "md5": "A4B3D50EC1557A7AA9505783211D50F0",
+  "tags": [
+    "elf",
+    "barbarian"
+  ],
+  "small": {
+    "scale": 1.01,
+    "offset_x": -178,
+    "offset_y": -18,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.06,
+    "offset_x": -91,
+    "offset_y": -8,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1,
+    "offset_x": -4,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,37 @@
+{
+  "source": "https://dicecove.com/wp-content/uploads/dual-wielding-dnd.jpg",
+  "md5": "E9B2DA9841DC9125D70C3AA2E9AA4ECF",
+  "tags": [
+    "dual",
+    "wielding",
+    "rogue",
+    "sword",
+    "male",
+    "fighter",
+    "human"
+  ],
+  "small": {
+    "scale": 0.655833333333333,
+    "offset_x": -537.5,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7599999999999998,
+    "offset_x": -566.5,
+    "offset_y": -2,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9508333333333332,
+    "offset_x": -590,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,36 @@
+{
+  "source": "https://i.pinimg.com/564x/01/3f/ec/013fec281165b979797928daf6ad38a7.jpg",
+  "md5": "E2F30C98FA97EB2C81006F6B845E3F34",
+  "tags": [
+    "barbarian",
+    "warpriest",
+    "slayer",
+    "fighter",
+    "skald",
+    ""
+  ],
+  "small": {
+    "scale": 1.08,
+    "offset_x": -198,
+    "offset_y": -67,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.01,
+    "offset_x": -91,
+    "offset_y": -54,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4700000000000004,
+    "offset_x": -38,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

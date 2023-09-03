@@ -1,0 +1,36 @@
+{
+  "source": "https://temp-ca.s3.amazonaws.com/cdn-files/60636022169370569420230903014814sst.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2YDWKLAVUAFT3HFY%2F20230903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230903T014814Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=3cf4cc5250d4633c9ae6981d3c1c02687d833619bcdc215b0aeed926119cc49c",
+  "md5": "0D55927657243A518E117F4BEA86339C",
+  "tags": [
+    "knight",
+    "sword",
+    "magic",
+    "human",
+    "orc",
+    "male"
+  ],
+  "small": {
+    "scale": 0.5199999999999996,
+    "offset_x": -254.5999999999994,
+    "offset_y": -37.399999999999864,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.36999999999999944,
+    "offset_x": -96.00000000000011,
+    "offset_y": -14.199999999999989,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5699999999999996,
+    "offset_x": -44.93518518518522,
+    "offset_y": -15.76851851851859,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

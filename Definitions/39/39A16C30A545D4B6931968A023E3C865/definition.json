@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/1200x/f9/b4/04/f9b4046ddbccbcb7e85f9aec31696b79.jpg",
+  "md5": "39A16C30A545D4B6931968A023E3C865",
+  "tags": [
+    "bear",
+    "shifter",
+    "male"
+  ],
+  "small": {
+    "scale": 1.228666666666667,
+    "offset_x": -430,
+    "offset_y": -45,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2000833333333336,
+    "offset_x": -322,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.588833333333334,
+    "offset_x": -308,
+    "offset_y": -34,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

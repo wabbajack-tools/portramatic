@@ -1,0 +1,31 @@
+{
+  "source": "https://s3.amazonaws.com/comicgeeks/characters/avatars/23607.jpg?t=1624857523",
+  "md5": "32176A9977E75E0B7081CE87267FE943",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.6099999999999997,
+    "offset_x": -17,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7099999999999997,
+    "offset_x": -2,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

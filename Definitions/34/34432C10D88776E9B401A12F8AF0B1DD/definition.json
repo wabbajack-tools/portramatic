@@ -1,0 +1,34 @@
+{
+  "source": "https://i.redd.it/zght1kgq9p681.png",
+  "md5": "34432C10D88776E9B401A12F8AF0B1DD",
+  "tags": [
+    "tiefling",
+    "female",
+    "ranger",
+    "archer"
+  ],
+  "small": {
+    "scale": 0.3299999999999994,
+    "offset_x": -429,
+    "offset_y": -212,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.23999999999999932,
+    "offset_x": -216,
+    "offset_y": -147,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.2999999999999994,
+    "offset_x": -147,
+    "offset_y": -185,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

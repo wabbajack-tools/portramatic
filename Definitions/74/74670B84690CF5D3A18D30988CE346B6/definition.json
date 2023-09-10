@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/22/81/80/228180a749d7dc278240c6f624b72682.jpg",
+  "md5": "74670B84690CF5D3A18D30988CE346B6",
+  "tags": [
+    "dual wield",
+    "human",
+    "swords",
+    "male"
+  ],
+  "small": {
+    "scale": 1.6100000000000005,
+    "offset_x": -347,
+    "offset_y": -91,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2992500000000005,
+    "offset_x": -171,
+    "offset_y": -53,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3900000000000003,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

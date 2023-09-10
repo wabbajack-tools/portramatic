@@ -1,0 +1,33 @@
+{
+  "source": "https://i.pinimg.com/564x/f5/2c/de/f52cde97123dbd78693860a99c3d1fa5.jpg",
+  "md5": "98A5DADB623CB17699D945686B364292",
+  "tags": [
+    "female",
+    "human",
+    "elf"
+  ],
+  "small": {
+    "scale": 1.2300000000000002,
+    "offset_x": -237,
+    "offset_y": -60,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -105,
+    "offset_y": -40,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3100000000000003,
+    "offset_x": -12,
+    "offset_y": -26,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

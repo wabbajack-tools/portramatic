@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/564x/46/5e/9d/465e9d79c9d772591275d2476c03360b.jpg",
+  "md5": "C104B7FE77AF9547F6BA0E5064FF14D7",
+  "tags": [
+    "female",
+    "human",
+    "elf",
+    "dhampire",
+    "scimitar"
+  ],
+  "small": {
+    "scale": 0.8899999999999999,
+    "offset_x": -146,
+    "offset_y": -98,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -103,
+    "offset_y": -74,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -4,
+    "offset_y": -86,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

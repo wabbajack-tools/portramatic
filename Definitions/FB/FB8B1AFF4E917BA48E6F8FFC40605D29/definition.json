@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/564x/ec/08/8c/ec088cb446eeb5302fef7b46888af2ab.jpg",
+  "md5": "FB8B1AFF4E917BA48E6F8FFC40605D29",
+  "tags": [
+    "male",
+    "unarmed",
+    "devil",
+    "tiefling"
+  ],
+  "small": {
+    "scale": 0.8899999999999999,
+    "offset_x": -192,
+    "offset_y": -38,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9299999999999999,
+    "offset_x": -122,
+    "offset_y": -11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2400000000000002,
+    "offset_x": -2,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

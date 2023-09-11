@@ -1,0 +1,36 @@
+{
+  "source": "https://i.imgur.com/XOZP7g0.png",
+  "md5": "C3D11F7D6136CCB3348A86F5E0FD67ED",
+  "tags": [
+    "female",
+    "battlemage",
+    "magus",
+    "mage",
+    "fighter",
+    "sword"
+  ],
+  "small": {
+    "scale": 1.2400000000000002,
+    "offset_x": -329.3333333333333,
+    "offset_y": -233.99999999999994,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -170.66666666666663,
+    "offset_y": -161.33333333333331,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

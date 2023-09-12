@@ -1,0 +1,33 @@
+{
+  "source": "https://coollib.net/i/3/483203/img3.jpg",
+  "md5": "541146CF30F4947CF672E2965D7E9211",
+  "tags": [
+    "lich",
+    "necromancer",
+    "sorcerer."
+  ],
+  "small": {
+    "scale": 0.37999999999999945,
+    "offset_x": -246,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4199999999999995,
+    "offset_x": -208,
+    "offset_y": -6,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5199999999999996,
+    "offset_x": -158,
+    "offset_y": -50,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

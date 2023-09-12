@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/originals/40/78/f6/4078f6ac34fa94784f85747d1270377e.jpg",
+  "md5": "8C73D6CCB8B312A93A56FEA19E78A86B",
+  "tags": [
+    "angel",
+    "male",
+    "dual wield",
+    "sword",
+    "armored"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -165,
+    "offset_y": -1,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8999999999999999,
+    "offset_x": -53,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.0699999999999994,
+    "offset_x": -146,
+    "offset_y": 2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

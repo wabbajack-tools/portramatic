@@ -1,0 +1,39 @@
+{
+  "source": "https://i.pinimg.com/564x/2e/77/86/2e7786194cacfe0a960f31534b952fb7.jpg",
+  "md5": "FAAF71E0C823E7C3EAE8C1C3F4AD7AE4",
+  "tags": [
+    "male",
+    "elf",
+    "human",
+    "ranger",
+    "dual wield",
+    "longbow",
+    "bow",
+    "archery",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.99,
+    "offset_x": -184,
+    "offset_y": -43,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6599999999999997,
+    "offset_x": -25,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4500000000000004,
+    "offset_x": -84,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

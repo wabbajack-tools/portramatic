@@ -1,0 +1,35 @@
+{
+  "source": "https://i.pinimg.com/originals/78/76/b2/7876b270ea59170a930c34409c81696f.jpg",
+  "md5": "9B7FF7BEEBF50ABA5FB739379CD0F25D",
+  "tags": [
+    "male",
+    "ninja",
+    "sword",
+    "human",
+    "fighter"
+  ],
+  "small": {
+    "scale": 0.8022499999999999,
+    "offset_x": -186,
+    "offset_y": -38,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -73,
+    "offset_y": -25,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1300000000000001,
+    "offset_x": -2,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

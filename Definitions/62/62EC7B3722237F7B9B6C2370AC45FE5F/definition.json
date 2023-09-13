@@ -1,0 +1,31 @@
+{
+  "source": "https://cdn.discordapp.com/attachments/697297902648688692/819315180302237717/halfling-paladin-2.png",
+  "md5": "62EC7B3722237F7B9B6C2370AC45FE5F",
+  "tags": [
+    "Halfing Paladin"
+  ],
+  "small": {
+    "scale": 1,
+    "offset_x": -233,
+    "offset_y": -16,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -142,
+    "offset_y": -15,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2000000000000002,
+    "offset_x": -46,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

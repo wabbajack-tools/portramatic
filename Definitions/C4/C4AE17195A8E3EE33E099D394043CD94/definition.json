@@ -1,0 +1,34 @@
+{
+  "source": "https://i.pinimg.com/originals/54/c0/aa/54c0aa18252e8ec45c34863b0580be1d.jpg",
+  "md5": "C4AE17195A8E3EE33E099D394043CD94",
+  "tags": [
+    "female",
+    "dual wield",
+    "sword",
+    "human"
+  ],
+  "small": {
+    "scale": 0.8022499999999999,
+    "offset_x": -204,
+    "offset_y": -37,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7099999999999997,
+    "offset_x": -92,
+    "offset_y": -24,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9099999999999999,
+    "offset_x": -2,
+    "offset_y": -18,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

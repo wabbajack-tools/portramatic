@@ -1,0 +1,33 @@
+{
+  "source": "https://i.redd.it/knqvblsegwh91.jpg",
+  "md5": "B3B052328A74D1024EC4D8902BFFE780",
+  "tags": [
+    "sarenrae",
+    "cleric",
+    "female"
+  ],
+  "small": {
+    "scale": 0.98,
+    "offset_x": -407,
+    "offset_y": -255,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -259,
+    "offset_y": -104,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -36,
+    "offset_y": -10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

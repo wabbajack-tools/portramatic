@@ -1,0 +1,34 @@
+{
+  "source": "https://storage.googleapis.com/pai-images/8ed0b7407e5f4d569b4f2ad2631dfc6c.jpeg",
+  "md5": "418FFAEC9365F848AE4C76B49B2211C3",
+  "tags": [
+    "female",
+    "royalty",
+    "blue",
+    "moon"
+  ],
+  "small": {
+    "scale": 0.5699999999999996,
+    "offset_x": -54,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -45,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3800000000000003,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

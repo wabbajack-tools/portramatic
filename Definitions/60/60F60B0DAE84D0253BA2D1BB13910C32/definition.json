@@ -1,0 +1,34 @@
+{
+  "source": "https://storage.googleapis.com/pai-images/fa245b84dad446cbb37faf8607f78d44.jpeg",
+  "md5": "60F60B0DAE84D0253BA2D1BB13910C32",
+  "tags": [
+    "female",
+    "ethereal",
+    "mysterious",
+    "grey hair"
+  ],
+  "small": {
+    "scale": 0.5699999999999996,
+    "offset_x": -54,
+    "offset_y": 0,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8199999999999998,
+    "offset_x": -45,
+    "offset_y": -1,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3800000000000003,
+    "offset_x": 0,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

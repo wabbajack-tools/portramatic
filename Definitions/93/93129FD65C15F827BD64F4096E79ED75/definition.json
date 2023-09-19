@@ -1,0 +1,35 @@
+{
+  "source": "https://storage.googleapis.com/pai-images/ebb422c872374a899a3718637b0f0433.jpeg",
+  "md5": "93129FD65C15F827BD64F4096E79ED75",
+  "tags": [
+    "pathfinder",
+    "wrath",
+    "righteous.",
+    "tiefling",
+    "portrait"
+  ],
+  "small": {
+    "scale": 0.8199999999999998,
+    "offset_x": -119.7999999999995,
+    "offset_y": -4.199999999999989,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2200000000000002,
+    "offset_x": -159.8,
+    "offset_y": 0.20000000000004547,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4900000000000004,
+    "offset_x": -42.361111111111086,
+    "offset_y": -9.999999999999886,
+    "size": "full",
+    "rotation": -3.469446951953614e-18
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

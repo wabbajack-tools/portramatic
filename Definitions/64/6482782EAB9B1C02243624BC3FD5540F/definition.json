@@ -1,0 +1,31 @@
+{
+  "source": "https://i.imgur.com/guuANTv.jpeg",
+  "md5": "6482782EAB9B1C02243624BC3FD5540F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.17999999999999927,
+    "offset_x": -252,
+    "offset_y": -11,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.3099999999999994,
+    "offset_x": -443,
+    "offset_y": -12,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7299999999999998,
+    "offset_x": -1062,
+    "offset_y": -14,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

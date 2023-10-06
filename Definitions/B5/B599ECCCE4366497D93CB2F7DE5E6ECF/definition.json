@@ -1,0 +1,31 @@
+{
+  "source": "https://i.pinimg.com/564x/50/f6/4c/50f64c98f2619c9edfd365f1018fe53b.jpg",
+  "md5": "B599ECCCE4366497D93CB2F7DE5E6ECF",
+  "tags": [
+    "mage"
+  ],
+  "small": {
+    "scale": 0.4099999999999995,
+    "offset_x": -31.333333333333314,
+    "offset_y": -11.666666666666657,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7299999999999998,
+    "offset_x": -42.333333333333485,
+    "offset_y": -8.3333333333334,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4200000000000004,
+    "offset_x": -70,
+    "offset_y": -21.333333333333258,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

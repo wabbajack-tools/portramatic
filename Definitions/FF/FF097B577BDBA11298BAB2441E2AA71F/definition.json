@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Mobogo.png",
+  "md5": "FF097B577BDBA11298BAB2441E2AA71F",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.9492500000000001,
+    "offset_x": -110,
+    "offset_y": -60,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.17975,
+    "offset_x": -111,
+    "offset_y": 74,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.8932500000000003,
+    "offset_x": -70,
+    "offset_y": 272,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

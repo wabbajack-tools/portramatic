@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/AiudaraWraith.png",
+  "md5": "2003AE9D244FF1CF0003058730E8CC0E",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -810,
+    "offset_y": -168,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -434,
+    "offset_y": -114,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8472500000000003,
+    "offset_x": -74,
+    "offset_y": 24,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

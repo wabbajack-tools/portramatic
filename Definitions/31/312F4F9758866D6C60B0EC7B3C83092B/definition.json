@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Sabosan.png",
+  "md5": "312F4F9758866D6C60B0EC7B3C83092B",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -1009,
+    "offset_y": -371,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -533,
+    "offset_y": -210,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2505833333333338,
+    "offset_x": -384,
+    "offset_y": -142,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

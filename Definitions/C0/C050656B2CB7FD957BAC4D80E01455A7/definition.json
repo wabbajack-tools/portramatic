@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Daemon_Ceustodaemon.png",
+  "md5": "C050656B2CB7FD957BAC4D80E01455A7",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.7309166666666664,
+    "offset_x": -178,
+    "offset_y": 14,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7894999999999996,
+    "offset_x": -58,
+    "offset_y": 17,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1433333333333333,
+    "offset_x": -30,
+    "offset_y": 68,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

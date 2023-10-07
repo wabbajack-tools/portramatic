@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Mummy_DecrepitMummy.png",
+  "md5": "BD339ECEB3D43808A5EF336CA086A49F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.0482500000000001,
+    "offset_x": -545,
+    "offset_y": -248,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8427499999999999,
+    "offset_x": -356,
+    "offset_y": -196,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7326666666666661,
+    "offset_x": -158,
+    "offset_y": -74,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

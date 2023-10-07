@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Tzitzimitl.png",
+  "md5": "682274FB2DCA95DB2B14C7BC616D9B56",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -577,
+    "offset_y": -622,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -297,
+    "offset_y": -358,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8705833333333335,
+    "offset_x": -74,
+    "offset_y": -222,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

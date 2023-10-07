@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Mummy_Drowned.png",
+  "md5": "82F92D7BBB6F43AA43D6069DFF88AC05",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3382500000000004,
+    "offset_x": -289,
+    "offset_y": -55,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8427499999999999,
+    "offset_x": -90,
+    "offset_y": -36,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.732666666666667,
+    "offset_x": -158,
+    "offset_y": -2,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

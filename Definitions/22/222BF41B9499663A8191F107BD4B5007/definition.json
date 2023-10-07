@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/KallasDevil.png",
+  "md5": "222BF41B9499663A8191F107BD4B5007",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.9492500000000001,
+    "offset_x": -382,
+    "offset_y": -164,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8697499999999998,
+    "offset_x": -282,
+    "offset_y": -143,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.7115833333333326,
+    "offset_x": -66,
+    "offset_y": 10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/ElderThing.png",
+  "md5": "B04D55E9142695585993CCBCE429B3F0",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.9492500000000001,
+    "offset_x": -94,
+    "offset_y": -169,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8697499999999998,
+    "offset_x": -20,
+    "offset_y": -93,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4595833333333332,
+    "offset_x": -72,
+    "offset_y": 60,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

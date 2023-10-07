@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/NightwoodGuardian.png",
+  "md5": "2AADD5E0B190FAFE1EA6886B521D4643",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1882500000000003,
+    "offset_x": -191,
+    "offset_y": -113,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9027499999999999,
+    "offset_x": -85,
+    "offset_y": -72,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.822666666666667,
+    "offset_x": -140,
+    "offset_y": -48,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

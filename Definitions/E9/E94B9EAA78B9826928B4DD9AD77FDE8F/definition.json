@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Crab_GiantCrab.png",
+  "md5": "E94B9EAA78B9826928B4DD9AD77FDE8F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -121,
+    "offset_y": -20,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6727499999999997,
+    "offset_x": -122,
+    "offset_y": -33,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0504166666666663,
+    "offset_x": -88,
+    "offset_y": 98,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Linnorm_ShoalLinnorm.png",
+  "md5": "413192D428527F24A9381EA4B142E845",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.0909166666666668,
+    "offset_x": -217,
+    "offset_y": -32,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.0394999999999999,
+    "offset_x": -120,
+    "offset_y": -18,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2432499999999997,
+    "offset_x": -98,
+    "offset_y": 104,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

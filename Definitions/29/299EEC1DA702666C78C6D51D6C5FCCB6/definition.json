@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/OreLouse.png",
+  "md5": "299EEC1DA702666C78C6D51D6C5FCCB6",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.0909166666666668,
+    "offset_x": -144,
+    "offset_y": -129,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.4495000000000002,
+    "offset_x": -145,
+    "offset_y": -151,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.56325,
+    "offset_x": 16,
+    "offset_y": 152,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

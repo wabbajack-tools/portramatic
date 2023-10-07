@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Protean_Azuretzi.png",
+  "md5": "1FB58CD1E6DB0876AE0A15977B93D80C",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -35,
+    "offset_y": -154,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -25,
+    "offset_y": -55,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3920000000000006,
+    "offset_x": -12,
+    "offset_y": 112,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

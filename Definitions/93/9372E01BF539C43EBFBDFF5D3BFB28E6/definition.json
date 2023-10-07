@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Vampire_VrykolakasMaster.png",
+  "md5": "9372E01BF539C43EBFBDFF5D3BFB28E6",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -288,
+    "offset_y": -207,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9194999999999998,
+    "offset_x": -167,
+    "offset_y": -41,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3687500000000008,
+    "offset_x": -256,
+    "offset_y": 118,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Giant_MarshGiant.png",
+  "md5": "B6A5E8CCB75E9929A4603C7FC7A3EC7E",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.9492500000000001,
+    "offset_x": -147,
+    "offset_y": -125,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8697499999999998,
+    "offset_x": -114,
+    "offset_y": -104,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8215833333333327,
+    "offset_x": 14,
+    "offset_y": 62,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

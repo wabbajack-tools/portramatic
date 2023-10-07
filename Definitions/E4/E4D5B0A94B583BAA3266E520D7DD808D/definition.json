@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Daemon_Agradaemon.png",
+  "md5": "E4D5B0A94B583BAA3266E520D7DD808D",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.1009166666666668,
+    "offset_x": -126,
+    "offset_y": -195,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2195,
+    "offset_x": -135,
+    "offset_y": -215,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9433333333333331,
+    "offset_x": -90,
+    "offset_y": 196,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

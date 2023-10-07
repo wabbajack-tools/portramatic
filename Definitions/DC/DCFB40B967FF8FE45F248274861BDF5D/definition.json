@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Daemon_Sordesdaemon.png",
+  "md5": "DCFB40B967FF8FE45F248274861BDF5D",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.7309166666666664,
+    "offset_x": -257,
+    "offset_y": -46,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7894999999999996,
+    "offset_x": -168,
+    "offset_y": -20,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.1433333333333333,
+    "offset_x": -88,
+    "offset_y": -28,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

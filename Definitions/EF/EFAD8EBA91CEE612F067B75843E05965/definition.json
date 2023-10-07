@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Titan_HekatonkhieresTitan.png",
+  "md5": "EFAD8EBA91CEE612F067B75843E05965",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -337,
+    "offset_y": -348,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -104,
+    "offset_y": -174,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2872500000000007,
+    "offset_x": -36,
+    "offset_y": 10,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/WaterOrm.png",
+  "md5": "F79C456F48053B9A3F987B25AC358A0F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.2382500000000003,
+    "offset_x": -799,
+    "offset_y": -167,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.08275,
+    "offset_x": -525,
+    "offset_y": -80,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3973333333333333,
+    "offset_x": -406,
+    "offset_y": 94,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

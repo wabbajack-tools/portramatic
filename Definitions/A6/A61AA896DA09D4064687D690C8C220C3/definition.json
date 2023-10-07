@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Werecreature_Werecrocodile.png",
+  "md5": "A61AA896DA09D4064687D690C8C220C3",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.7309166666666664,
+    "offset_x": -35,
+    "offset_y": -25,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.7894999999999996,
+    "offset_x": -42,
+    "offset_y": -28,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2333333333333334,
+    "offset_x": -32,
+    "offset_y": 86,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

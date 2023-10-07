@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Troll_TwoHeadedTroll.png",
+  "md5": "3259979F295B98C5023E78BE0DA9B8FA",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.7382499999999999,
+    "offset_x": -282,
+    "offset_y": -99,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8427499999999999,
+    "offset_x": -238,
+    "offset_y": -129,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8326666666666662,
+    "offset_x": -54,
+    "offset_y": 84,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

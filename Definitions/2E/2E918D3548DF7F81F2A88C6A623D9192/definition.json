@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Troll_JotundTroll.png",
+  "md5": "2E918D3548DF7F81F2A88C6A623D9192",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.1882500000000003,
+    "offset_x": -492,
+    "offset_y": -129,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9027499999999999,
+    "offset_x": -299,
+    "offset_y": -87,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9869999999999997,
+    "offset_x": -148,
+    "offset_y": -54,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

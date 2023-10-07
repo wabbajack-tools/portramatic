@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Mummy_MummyGuardian.png",
+  "md5": "910AE2E7BC33FA264F4E4144FBB06C2A",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 1.3382500000000004,
+    "offset_x": -424,
+    "offset_y": -147,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8427499999999999,
+    "offset_x": -125,
+    "offset_y": -71,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2426666666666666,
+    "offset_x": -150,
+    "offset_y": -142,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

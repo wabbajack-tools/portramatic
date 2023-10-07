@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Wight_WightCommander.png",
+  "md5": "8779BA2C1C1DD69A8730178F69686553",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -579,
+    "offset_y": -440,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -254,
+    "offset_y": -314,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3787500000000008,
+    "offset_x": -308,
+    "offset_y": -368,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

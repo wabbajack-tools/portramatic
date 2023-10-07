@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Isqulug.png",
+  "md5": "872F02FEDD358E85912F4D81E8189F89",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.9492500000000001,
+    "offset_x": -216,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8697499999999998,
+    "offset_x": -65,
+    "offset_y": 11,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.4415833333333332,
+    "offset_x": -72,
+    "offset_y": 246,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

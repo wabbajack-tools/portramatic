@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/DragonBlack_AncientBlackDragon.png",
+  "md5": "831E294D8FFC5900012EE5034296FF6E",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.5509166666666663,
+    "offset_x": -84,
+    "offset_y": -19,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6694999999999995,
+    "offset_x": -62,
+    "offset_y": -22,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0064166666666665,
+    "offset_x": -80,
+    "offset_y": 0,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

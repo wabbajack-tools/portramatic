@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/UlgremAxaan.png",
+  "md5": "F6D820561FF5B29C78063FF2E471D95F",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.5509166666666663,
+    "offset_x": -57,
+    "offset_y": -92,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.44949999999999934,
+    "offset_x": -41,
+    "offset_y": 56,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.5183333333333326,
+    "offset_x": -54,
+    "offset_y": 416,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

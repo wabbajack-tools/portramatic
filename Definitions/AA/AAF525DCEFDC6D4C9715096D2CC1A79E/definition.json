@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Nuckelavee.png",
+  "md5": "AAF525DCEFDC6D4C9715096D2CC1A79E",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.6009166666666672,
+    "offset_x": -597,
+    "offset_y": -32,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.4495000000000002,
+    "offset_x": -478,
+    "offset_y": -21,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.3132499999999998,
+    "offset_x": -218,
+    "offset_y": -4,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

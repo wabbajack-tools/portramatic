@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Sahkil_Penqual.png",
+  "md5": "7EF4E640612B80811EC8D8DE4A19F26E",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.422166666666667,
+    "offset_x": -302,
+    "offset_y": -265,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.9894999999999998,
+    "offset_x": -104,
+    "offset_y": -150,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.2505833333333338,
+    "offset_x": -192,
+    "offset_y": -124,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

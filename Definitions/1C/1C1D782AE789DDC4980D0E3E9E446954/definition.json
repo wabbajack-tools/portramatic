@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Minchgorm.png",
+  "md5": "1C1D782AE789DDC4980D0E3E9E446954",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -100,
+    "offset_y": -137,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6727499999999997,
+    "offset_x": -109,
+    "offset_y": -165,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0004166666666663,
+    "offset_x": -66,
+    "offset_y": -42,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

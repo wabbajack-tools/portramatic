@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Daemon_Astradaemon.png",
+  "md5": "BE88902A5327DCB6A09E60466B123CA6",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.1009166666666668,
+    "offset_x": -416,
+    "offset_y": -32,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.2195,
+    "offset_x": -312,
+    "offset_y": -43,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.9433333333333331,
+    "offset_x": 12,
+    "offset_y": 210,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

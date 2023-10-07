@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Devil_Sarglagon.png",
+  "md5": "D48E832D73D2F347890CE4FEE4160386",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 1.0909166666666668,
+    "offset_x": -292,
+    "offset_y": -284,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1.1895,
+    "offset_x": -223,
+    "offset_y": -262,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.56325,
+    "offset_x": -122,
+    "offset_y": -96,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

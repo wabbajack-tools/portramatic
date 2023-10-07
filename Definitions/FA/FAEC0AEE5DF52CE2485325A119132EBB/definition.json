@@ -1,0 +1,32 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/Crab_GiantHermitCrab.png",
+  "md5": "FAEC0AEE5DF52CE2485325A119132EBB",
+  "tags": [
+    "rei",
+    "king"
+  ],
+  "small": {
+    "scale": 0.9492500000000001,
+    "offset_x": -78,
+    "offset_y": -283,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.8697499999999998,
+    "offset_x": -43,
+    "offset_y": -161,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.0215833333333328,
+    "offset_x": 48,
+    "offset_y": 120,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

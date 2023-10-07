@@ -1,0 +1,31 @@
+{
+  "source": "https://2e.aonprd.com/Images/Monsters/OctopusGiant.png",
+  "md5": "F678330EFB18D4A0587F8B0BAFE8151F",
+  "tags": [
+    ""
+  ],
+  "small": {
+    "scale": 0.5299999999999996,
+    "offset_x": -173,
+    "offset_y": -70,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.6727499999999997,
+    "offset_x": -155,
+    "offset_y": -109,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 0.8104166666666661,
+    "offset_x": -40,
+    "offset_y": 90,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

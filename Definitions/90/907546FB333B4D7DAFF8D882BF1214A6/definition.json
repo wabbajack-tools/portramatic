@@ -1,0 +1,32 @@
+{
+  "source": "https://storage.googleapis.com/pai-images/45a516353d0c48e2a5406d9ca3063666.jpeg",
+  "md5": "907546FB333B4D7DAFF8D882BF1214A6",
+  "tags": [
+    "valkyrie",
+    "paladin"
+  ],
+  "small": {
+    "scale": 0.7199999999999995,
+    "offset_x": -351,
+    "offset_y": -154,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 0.4599999999999993,
+    "offset_x": -78,
+    "offset_y": -5,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 1.02,
+    "offset_x": -320,
+    "offset_y": -12,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}

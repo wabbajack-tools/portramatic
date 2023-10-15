@@ -1,0 +1,35 @@
+{
+  "source": "https://storage.googleapis.com/pai-images/77e36d891ed347c582ad4c02930bcd25.jpeg",
+  "md5": "60FF9AF5D5D3EA6199F67434342B744D",
+  "tags": [
+    "",
+    "tiefling",
+    "bard",
+    "female",
+    "red"
+  ],
+  "small": {
+    "scale": 0.6799999999999997,
+    "offset_x": -103.20000000000016,
+    "offset_y": -5.399999999999977,
+    "size": "small",
+    "rotation": 0
+  },
+  "medium": {
+    "scale": 1,
+    "offset_x": -118.20000000000005,
+    "offset_y": -34.80000000000001,
+    "size": "medium",
+    "rotation": 0
+  },
+  "full": {
+    "scale": 2.079999999999999,
+    "offset_x": -258.83333333333326,
+    "offset_y": -5.018518518518363,
+    "size": "full",
+    "rotation": 0
+  },
+  "version": 2,
+  "requeried": false,
+  "nsfw": false
+}
